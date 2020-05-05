@@ -15,13 +15,11 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+from django.urls import include
 
 urlpatterns = [
-    # default
-    # path('admin/', admin.site.urls),
-    path('', views.index),
-    # welcome page
-    path('welcome/', views.welcome_view),
-    # second page
-    path('welcome/<int:id>/', views.recommendation_view, name='recommendaitions'),
+    path('admin/', admin.site.urls),
+    # Enter the app name in following
+    # syntax for this to work
+    path('', include("RecommendationApp.urls")),
 ]
