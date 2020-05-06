@@ -4,6 +4,7 @@ from RecommendationApp.old_operations import recommendations
 from RecommendationApp.old_operations import enrichWithMetaData
 
 def index(request):
+    #todo maybe add "Please wait we are preparing the side" where we do some set up ?!
     return redirect('/welcome')
 
 def netflix(request):
