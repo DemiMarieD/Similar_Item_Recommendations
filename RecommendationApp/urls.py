@@ -21,8 +21,8 @@ urlpatterns = [
     path('', views.index),
     # netflix example layout
     path('netflix/', views.netflix),
-    # welcome page
+    # welcome page - search movie title
     path('welcome/', views.welcome_view),
-    # second page
+    # second page - display top5 most similar movies to the movie chosen
     path('welcome/<int:id>/', views.recommendation_view, name='recommendaitions'),
 ]
