@@ -1,5 +1,6 @@
 import pandas as pd
 import tmdbsimple as tmdb
+import json
 from pathlib import Path
 from RecommendationApp.strategies import demi
 from RecommendationApp.strategies import eda
