@@ -1,0 +1,784 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "mexico",
+            "id": 534
+         },
+         {
+            "name": "based on novel",
+            "id": 818
+         },
+         {
+            "name": "gold",
+            "id": 1321
+         },
+         {
+            "name": "gold rush",
+            "id": 4542
+         },
+         {
+            "name": "greed",
+            "id": 5332
+         },
+         {
+            "name": "friends",
+            "id": 9713
+         },
+         {
+            "name": "money",
+            "id": 10594
+         },
+         {
+            "name": "american",
+            "id": 14638
+         },
+         {
+            "name": "bandit",
+            "id": 33344
+         },
+         {
+            "name": "dead mule",
+            "id": 33684
+         },
+         {
+            "name": "gold mine",
+            "id": 33685
+         },
+         {
+            "name": "prospector",
+            "id": 162726
+         },
+         {
+            "name": "1920s",
+            "id": 207876
+         }
+      ],
+      "imdb_id": "tt0040897",
+      "video": false,
+      "title": "The Treasure of the Sierra Madre",
+      "recommendations": [
+         963,
+         596,
+         288,
+         1092,
+         910,
+         3114,
+         996,
+         903,
+         654,
+         1480,
+         576,
+         3083,
+         488,
+         204,
+         37257,
+         887,
+         284,
+         821,
+         845,
+         301
+      ],
+      "backdrop_path": "/dDuNQNUdVMSKeEOwvuicc7m83IL.jpg",
+      "revenue": 4307000,
+      "reviews": [
+         {
+            "author": "Andres Gomez",
+            "id": "50b7306819c2951ed60007f0",
+            "content": "Fantastic movie with great cast and a thrilling story. Bogart performs great.",
+            "url": "https://www.themoviedb.org/review/50b7306819c2951ed60007f0"
+         },
+         {
+            "author": "talisencrw",
+            "id": "57a3b6d39251414b5f001242",
+            "content": "I wanted something very special to be my 5,000th film (at least to my horrible memory and to my stats on IMDb), and so after brazen and intense thought, I decided on a later-than-expected watch of a classic from Bogart's association with John Huston. I say later than expected because I bought the immaculate 24-film Humphrey Bogart Collection, which was supposed to have it on its 12 double-sided DVDs, but it accidentally had, in its place, the special features disc, which held excellent feature-length documentaries on both John Huston and the making of the film. Thus I waited until recently, when I found the blu for a very good price and went for it.\r\n\r\nIt was worth the wait. The ultimate tale of sordid greed. Without going into detail or spoilers, everyone got exactly what they deserved. My only qualm is that after a splendid cameo by the director (whom when I think of that aspect of his career, I will always fondly think of 'Chinatown'), I was hoping we'd end up seeing more of his character. That would have been even more wonderful for me.\r\n\r\nHopefully I will see and rate another 5,000--and I'm very curious if and when I do, what film I'll choose for THAT milestone...",
+            "url": "https://www.themoviedb.org/review/57a3b6d39251414b5f001242"
+         }
+      ],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 9,
+               "character": "Fred C. Dobbs",
+               "gender": 2,
+               "credit_id": "52fe4385c3a36847f805a52b",
+               "name": "Humphrey Bogart",
+               "profile_path": "/pxJrZluJHhbWRo2QXAG99FvXUi7.jpg",
+               "id": 4110,
+               "order": 0
+            },
+            {
+               "cast_id": 10,
+               "character": "Howard",
+               "gender": 2,
+               "credit_id": "52fe4385c3a36847f805a52f",
+               "name": "Walter Huston",
+               "profile_path": "/17N08QrQ6Am3hQD5noz5zozGaFH.jpg",
+               "id": 19020,
+               "order": 1
+            },
+            {
+               "cast_id": 11,
+               "character": "Bob Curtin",
+               "gender": 2,
+               "credit_id": "52fe4385c3a36847f805a533",
+               "name": "Tim Holt",
+               "profile_path": "/7wKvlGK5295TTa1b8Pdg5amAqmz.jpg",
+               "id": 14517,
+               "order": 2
+            },
+            {
+               "cast_id": 12,
+               "character": "James Cody",
+               "gender": 2,
+               "credit_id": "52fe4385c3a36847f805a537",
+               "name": "Bruce Bennett",
+               "profile_path": "/iiAA0WZyAiVEs5efWyZjHZZbjIA.jpg",
+               "id": 30303,
+               "order": 3
+            },
+            {
+               "cast_id": 13,
+               "character": "Pat McCormick",
+               "gender": 2,
+               "credit_id": "52fe4385c3a36847f805a53b",
+               "name": "Barton MacLane",
+               "profile_path": "/vmfmiGO6cusQn9B8jw9oLPnSYr6.jpg",
+               "id": 14451,
+               "order": 4
+            },
+            {
+               "cast_id": 14,
+               "character": "Gold Hat",
+               "gender": 2,
+               "credit_id": "52fe4385c3a36847f805a53f",
+               "name": "Alfonso Bedoya",
+               "profile_path": "/5ZlxTFr6r3lNSopzGJSugoLoEPr.jpg",
+               "id": 30304,
+               "order": 5
+            },
+            {
+               "cast_id": 15,
+               "character": "El Presidente",
+               "gender": 0,
+               "credit_id": "52fe4385c3a36847f805a543",
+               "name": "Arturo Soto Rangel",
+               "profile_path": "/6SOIx89ZlBXxc50nkDIijaToixw.jpg",
+               "id": 30305,
+               "order": 6
+            },
+            {
+               "cast_id": 16,
+               "character": "El Jefe",
+               "gender": 2,
+               "credit_id": "52fe4385c3a36847f805a547",
+               "name": "Manuel Dondé",
+               "profile_path": "/4FiB1QgRLBqHxZ5ypRGeU2DktbG.jpg",
+               "id": 30306,
+               "order": 7
+            },
+            {
+               "cast_id": 17,
+               "character": "Pablo",
+               "gender": 0,
+               "credit_id": "52fe4385c3a36847f805a54b",
+               "name": "José Torvay",
+               "profile_path": "/A5s0VGXCnVQsym4QaZkwyh3psvc.jpg",
+               "id": 30307,
+               "order": 8
+            },
+            {
+               "cast_id": 18,
+               "character": "Pancho",
+               "gender": 0,
+               "credit_id": "52fe4385c3a36847f805a54f",
+               "name": "Margarito Luna",
+               "profile_path": null,
+               "id": 30308,
+               "order": 9
+            },
+            {
+               "cast_id": 19,
+               "character": "Mexican Boy Selling Lottery Tickets (uncredited)",
+               "gender": 2,
+               "credit_id": "52fe4385c3a36847f805a553",
+               "name": "Robert Blake",
+               "profile_path": "/fA9Zg9OprSMxjy54KuH1WDiCMvq.jpg",
+               "id": 9287,
+               "order": 10
+            },
+            {
+               "cast_id": 20,
+               "character": "American in Tampico in White Suit (uncredited)",
+               "gender": 2,
+               "credit_id": "52fe4385c3a36847f805a557",
+               "name": "John Huston",
+               "profile_path": "/1YV2m0943zGmgQaHHgtFuQhOEKl.jpg",
+               "id": 6593,
+               "order": 11
+            },
+            {
+               "cast_id": 21,
+               "character": "Flophouse Bum (uncredited)",
+               "gender": 2,
+               "credit_id": "545f21480e0a261fb3008775",
+               "name": "Jack Holt",
+               "profile_path": "/8jn9uEeOyEoj5zpkWy1VAkEpCZ6.jpg",
+               "id": 93910,
+               "order": 12
+            },
+            {
+               "cast_id": 22,
+               "character": "Pretty woman walking past barbershop (uncredited)",
+               "gender": 1,
+               "credit_id": "545f21640e0a261fb90086b6",
+               "name": "Ann Sheridan",
+               "profile_path": "/gc8fsMsN71EF3NtH5l93iDUHHeE.jpg",
+               "id": 80994,
+               "order": 13
+            },
+            {
+               "cast_id": 23,
+               "character": "Indian Guide at Pier (uncredited)",
+               "gender": 0,
+               "credit_id": "545f2185c3a3685362007f90",
+               "name": "Jay Silverheels",
+               "profile_path": "/4CiTH9NnF1NVzwdwHXoEzKJikUs.jpg",
+               "id": 1229431,
+               "order": 14
+            },
+            {
+               "cast_id": 24,
+               "character": "Mexican Storeowner (uncredited)",
+               "gender": 0,
+               "credit_id": "55f84fe892514126de00005b",
+               "name": "Guillermo Calles",
+               "profile_path": null,
+               "id": 1027089,
+               "order": 15
+            },
+            {
+               "cast_id": 25,
+               "character": "Mexican Lieutenant (uncredited)",
+               "gender": 2,
+               "credit_id": "55f85003c3a3687765000068",
+               "name": "Roberto Cañedo",
+               "profile_path": null,
+               "id": 31224,
+               "order": 16
+            },
+            {
+               "cast_id": 26,
+               "character": "Proprietor (uncredited)",
+               "gender": 2,
+               "credit_id": "55f8502cc3a368777d0000a3",
+               "name": "Spencer Chan",
+               "profile_path": null,
+               "id": 1047407,
+               "order": 17
+            },
+            {
+               "cast_id": 27,
+               "character": "Flashy Girl (uncredited)",
+               "gender": 1,
+               "credit_id": "55f85052c3a368777a00007b",
+               "name": "Jacqueline Dalya",
+               "profile_path": null,
+               "id": 104155,
+               "order": 18
+            },
+            {
+               "cast_id": 28,
+               "character": "Flophouse Bum (uncredited)",
+               "gender": 2,
+               "credit_id": "55f8507092514126d600007e",
+               "name": "Ralph Dunn",
+               "profile_path": "/rb3xuZbdVkwxpYrae1KyV0jNW8a.jpg",
+               "id": 124882,
+               "order": 19
+            },
+            {
+               "cast_id": 29,
+               "character": "Customer in Bar Who Warns Curtin and Dobbs about Pat McCormick (uncredited)",
+               "gender": 2,
+               "credit_id": "55f8508d92514126d6000080",
+               "name": "Pat Flaherty",
+               "profile_path": "/g1wNobJloszAtbnHe5E3kNQyCE8.jpg",
+               "id": 125842,
+               "order": 20
+            },
+            {
+               "cast_id": 30,
+               "character": "Railroad Conductor (uncredited)",
+               "gender": 0,
+               "credit_id": "55f850b6c3a368777f0000b2",
+               "name": "Martin Garralaga",
+               "profile_path": "/odBFSDP5TSr5PlfXPjT8lgbysP5.jpg",
+               "id": 94401,
+               "order": 21
+            },
+            {
+               "cast_id": 31,
+               "character": "Barber (uncredited)",
+               "gender": 0,
+               "credit_id": "55f850ecc3a368777d0000bd",
+               "name": "Julian Rivero",
+               "profile_path": "/lYFhu9W0Z1Sqjg417zXJtfXNEOR.jpg",
+               "id": 161702,
+               "order": 22
+            },
+            {
+               "cast_id": 32,
+               "character": "Bartender (uncredited)",
+               "gender": 0,
+               "credit_id": "55f8512fc3a368777700008a",
+               "name": "Harry J. Vejar",
+               "profile_path": null,
+               "id": 1469574,
+               "order": 23
+            },
+            {
+               "cast_id": 33,
+               "character": "Flophouse Bum (uncredited)",
+               "gender": 0,
+               "credit_id": "55f8515fc3a368775f0000a0",
+               "name": "Clifton Young",
+               "profile_path": "/3qCgUXh07suIR8ogdeT9S0HcxHI.jpg",
+               "id": 95735,
+               "order": 24
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4385c3a36847f805a4fd",
+               "name": "John Huston",
+               "profile_path": "/1YV2m0943zGmgQaHHgtFuQhOEKl.jpg",
+               "id": 6593,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4385c3a36847f805a503",
+               "name": "B. Traven",
+               "profile_path": null,
+               "id": 30302,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4385c3a36847f805a509",
+               "name": "John Huston",
+               "profile_path": "/1YV2m0943zGmgQaHHgtFuQhOEKl.jpg",
+               "id": 6593,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4385c3a36847f805a50f",
+               "name": "Henry Blanke",
+               "profile_path": null,
+               "id": 14446,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4385c3a36847f805a515",
+               "name": "Jack Warner",
+               "profile_path": "/I8UijyhvGPOaeiPTmxgcYCa8td.jpg",
+               "id": 2663,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4385c3a36847f805a521",
+               "name": "Ted D. McCord",
+               "profile_path": null,
+               "id": 2760,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4385c3a36847f805a527",
+               "name": "Owen Marks",
+               "profile_path": null,
+               "id": 2761,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "574f0daec3a3680c310001a3",
+               "name": "Harvey Parry",
+               "profile_path": null,
+               "id": 4130,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5640e5fe92514176c10003e7",
+               "name": "Leo F. Forbstein",
+               "profile_path": null,
+               "id": 17915,
+               "department": "Sound",
+               "job": "Music Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "566479e59251412ac4008914",
+               "name": "Perc Westmore",
+               "profile_path": null,
+               "id": 4128,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56c350fa9251414a0e001df4",
+               "name": "Fred M. MacLean",
+               "profile_path": null,
+               "id": 13974,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56eaf06d9251414b2100026c",
+               "name": "John Prettyman",
+               "profile_path": null,
+               "id": 1570441,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56eaf22c9251414b1d0002c7",
+               "name": "William C. McGann",
+               "profile_path": null,
+               "id": 88664,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56eaf3ae9251414b170002e9",
+               "name": "Murray Cutter",
+               "profile_path": null,
+               "id": 1592140,
+               "department": "Sound",
+               "job": "Orchestrator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56eaf47fc3a36806af00030f",
+               "name": "Mac Julian",
+               "profile_path": null,
+               "id": 1592141,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56eede64c3a368224e00bb1a",
+               "name": "Hans F. Koenekamp",
+               "profile_path": null,
+               "id": 119537,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 2,
+               "credit_id": "571d20cbc3a36836f80001f1",
+               "name": "Max Steiner",
+               "profile_path": null,
+               "id": 3249,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "574e2eb992514113ba0003cc",
+               "name": "John Hughes",
+               "profile_path": null,
+               "id": 1132129,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "574e2f74c3a368012e000434",
+               "name": "Frank McCoy",
+               "profile_path": null,
+               "id": 1369451,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "574e2fe0c3a368012e000456",
+               "name": "Monty Westmore",
+               "profile_path": null,
+               "id": 957990,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "574e302392514113b80003f8",
+               "name": "Don Alvarado",
+               "profile_path": "/2KauLLC6KLViqwa06uc9WDHA2T6.jpg",
+               "id": 85426,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "574e30cfc3a36801340004c4",
+               "name": "Richard Maybery",
+               "profile_path": null,
+               "id": 1543598,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "574f0c58c3a3680c1f0001b3",
+               "name": "Robert B. Lee",
+               "profile_path": null,
+               "id": 4315,
+               "department": "Sound",
+               "job": "Sound"
+            },
+            {
+               "gender": 0,
+               "credit_id": "574f0c87c3a36822bb000002",
+               "name": "Rafael Ruiz Esparza",
+               "profile_path": null,
+               "id": 14527,
+               "department": "Sound",
+               "job": "Sound"
+            },
+            {
+               "gender": 0,
+               "credit_id": "574f0cb8925141410500016b",
+               "name": "Edward Ullman",
+               "profile_path": null,
+               "id": 1581757,
+               "department": "Crew",
+               "job": "Sound Recordist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "574f0d6ac3a3680c360001a0",
+               "name": "Eddie Craven",
+               "profile_path": null,
+               "id": 1302087,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "574f0dcf92514141000001bd",
+               "name": "David Sharpe",
+               "profile_path": "/cyLoiW8jhViXmDGiIgtru2MuLxQ.jpg",
+               "id": 97660,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58571809c3a36806a7045072",
+               "name": "Ernesto A. Romero",
+               "profile_path": null,
+               "id": 1724513,
+               "department": "Crew",
+               "job": "Other"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5857182ac3a3682f580504c4",
+               "name": "Antonio Arriaga",
+               "profile_path": null,
+               "id": 1724515,
+               "department": "Crew",
+               "job": "Other"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Adventure",
+            "id": 12
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Western",
+            "id": 37
+         }
+      ],
+      "popularity": 11.149089,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 3090,
+      "vote_count": 366,
+      "budget": 3800000,
+      "overview": "Fred C. Dobbs and Bob Curtin, both down on their luck in Tampico, Mexico in 1925, meet up with a grizzled prospector named Howard and decide to join with him in search of gold in the wilds of central Mexico. Through enormous difficulties, they eventually succeed in finding gold, but bandits, the elements, and most especially greed threaten to turn their success into disaster.",
+      "similar": [
+         23168,
+         9016,
+         64682,
+         433808,
+         452507,
+         306819,
+         334524,
+         49021,
+         1619,
+         13188,
+         2000,
+         17979,
+         962,
+         12227,
+         398181,
+         10995,
+         8012,
+         259695,
+         12146,
+         990
+      ],
+      "original_title": "The Treasure of the Sierra Madre",
+      "runtime": 126,
+      "poster_path": "/e3lYTRwiDVPQv07xKldwlLAXikN.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": "/6rFNo5taSC9i0Sxnl81nucQMsw9.png",
+         "name": "Warner Bros. Pictures",
+         "id": 174,
+         "origin_country": "US"
+      }],
+      "release_date": "1948-01-24",
+      "vote_average": 8,
+      "belongs_to_collection": null,
+      "tagline": "The nearer they get to their treasure, the farther they get from the law.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Black and White",
+      "budgetCurrency": "$",
+      "directors": ["John Huston"],
+      "runtime": 126,
+      "synopsis": "Fred Dobbs (Humphrey Bogart) and Bob Curtin (Tim Holt) are down on their luck in Mexico and are both victims of a swindle in which workers are hired but not paid by a notoriously corrupt local businessman (Barton MacLane). Intrigued in the local pub by the stories of Howard (Walter Huston), an old burnt-out gold prospector keen on finding business partners to go prospecting, they cannot join him because they don't have enough money. When Dobbs makes a small score in a local lottery, that changes, and they hook up with Howard and set off for the hills. They find land on which much gold can be mined, and they split the gold equally, with each hiding and tending to his individual share. One day, Curtin sees a gila monster (a venomous lizard) and resolves to kill it, but it hides under a rock. Curtin will have to lift the rock to shoot it, but when Dobbs, whose gold, coincidentally, is hidden under this same rock, sees Curtin lifting it, even after seeing the gila monster, he fears that his goods will soon be stolen by one of the others. When another man named Cody (Bruce Bennett) finds them and insists on becoming their partners in prospecting, they resolve to shoot him. Before they do so, however, a group of bandits led by Gold Hat (Alfonso Bedoya) finds them and the bandits try to barter for some of their weapons, but these weapons are indispensable to the men and they refuse to do business. This results in exchange of gunfire, and Cody, who helps to defend the men, is killed. The bandits are ultimately scared away, and gold prospecting continues until they have mined enough gold to be prosperous for the remainder of their lives. All that remains is to take their gold back to the city where they can sell it, but this will require an arduous trip through the desert. Early in the trip, Howard, a man known to be skilled in the ways of medicine, is forced by some primitive local people to return with them to treat an ill child, and has little choice but to trust Dobbs and Curtin to hold his share of the goods until he returns to them. Curtin has every intention of doing this, but Dobbs remains suspicious of Curtin, believing that Curtin will kill him the very moment he goes to sleep. Troubled by this, he tries to murder Curtin, and soon holds all the goods, but he must now make a long trip through the desert alone. Unfortunately for Dobbs, he encounters Gold Hat on his trip, and Gold Hat, who recognizes him, murders him and takes his goods. Gold Hat returns to the city to sell the goods, but once it is determined that he has stolen the goods he holds, he is executed by firing squad. When it turns out that Curtin has survived, and when Howard returns, it soon becomes clear that their fortune is missing, and they share an unexpected laugh, appreciating that, despite their bad luck, they were far more prosperous than Dobbs and Gold Hat. Life, Curtin and Howard understood, would go on, and their unbroken spirit made them symbols of resolve in the face of adversity.",
+      "writers": [
+         "John Huston",
+         "B. Traven"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0040897/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTQ4MzUzOTYwOV5BMl5BanBnXkFtZTgwNDA4MzgyMjE@._V1_SY317_CR0,0,214,317_AL_.jpg",
+      "actors": ["Stars: Humphrey Bogart, Walter Huston, Tim Holt | See full cast and crew »"],
+      "reviews": [
+         "Having had his day as an idolized star and romantic leading man, it was now time for Bogart to get down to the serious business of acting\u0085 For eighteen years it had usually been Bogart playing Bogart in various shadings\u0085 Now that Bogart was gone and in his place was an older and far less romantic figure, one who found new challenges and was able to meet most of them successfully\u0085 This new phase of his continued growth began with a story of three men in search of gold\u0085 Although \"The Treasure of the Sierra Madre\" is indisputably one of Bogart's best films, it was co-star Walter Huston who won an Academy Award as did the movie's director and scenarist, John Huston\u0085 Based on a novel by the mysterious B. Traven, the film told a riveting tale which explored the degenerative effects of encroaching greed, distrust, and hatred on three prospectors who team up to search for gold in Mexico\u0085 Bogart's Fred C. Dobbs was an amazingly complex creation whose slow disintegration into paranoia was brilliant1y managed on camera\u0085 He is a born loser with no potential for change in sight\u0085 Suspicious, unfeeling, savage, and easily corruptible, he seems clearly destined for a tragic fate almost from our first meeting with him\u0085 Tim Holt was also excellent as Bob Curtin, a man who, like Bogart, is tempted but whose conscience will not permit him to exercise his baser desires. (He could have let Bogart die in a cave-in, but saved him instead.) Young, impressionable, and unprepared, he has never seen the likes of a Fred C. Dobbs and he finds himself overwhelmed and uncertain as to how he will cope with Dobbs's rage and greed\u0085 However, it is the director's father, Walter Huston, who literally stole the picture from both Bogart and Holt as he played Howard, a wise old toothless codger who knew all along what would happen and took it all in stride, kicking up his heels and having a marvelous time\u0085 Life can't surprise him any more\u0085 He's already had successes and failures enough for one lifetime\u0085 Like a faithful dog, he's along for the thrill of the hunt, and should there be another pot of gold at the end of this rainbow, well, that's just a bonus\u0085 It is mainly the interaction of these three men from their first meeting and uneasy partnership through their final confrontation that made \"The Treasure of the Sierra Madre\" one of Warner Brothers' triumphs of the forties\u0085",
+         "This film made a huge impression on me when I first saw it at the age of 15 or 16. A recent rewatching on DVD really served to bring home for me what makes this film so special. The whole thing is quite good, but it really hits you when Howard goes off to celebrate with the Indians, leaving Dobbs and Curtin to care for his gold and burros. The ensuing scenes of their spiraling mistrust and tension are absolutely spellbinding--the kind of thing that makes you lean forward in your seat just to get your eyes a little closer to the raw humanity unfolding in front of you. Their paranoia, the way you can SEE scenarios of betrayal dancing in their eyes, Dobbs' burgeoning madness--these are the moments that make this film one for the ages. At its best, film noir (which this most certainly is--Western surroundings or no) makes the viewer complicit in the evil depicted on screen. We find ourselves scheming and plotting in our heads along with the unsavory characters we are watching--we start to feel the same temptations and desires that they do. \"Treasure of the Sierra Madre\" accomplishes this bond with the audience as well as any film you are likely to see. A magnificent film--one of the few great screen tragedies.",
+         "Although John Huston's directing is absolutely equal to the screenplay, winning Oscars for both, it is the performance level of the actors that makes \"Treasure of The Sierra Madre\" the classic film that it is. Beginning and ending with Walter Huston's award winning role of the worn-out old miner who is looking for one last big score, Humphrey Bogart and Tim Holt are equal to the task and draw us in to this tale of need and greed. So convincing is Walter's portrayal of the seasoned old prospector, we come to believe that he is a gold digger by trade who only acts in movies so that he can dig and pan for gold again and again. His knowledge of mining and the lifestyle it demands and forces upon those who partake, is so thorough that Bogart and Holt seem like school kids in awe of a new hero. Of course, we know that his son John, did much research in preparation for writing the screenplay; but we are nevertheless plunged into a sure belief that this old miner must surely have been there age upon age, mine upon mine, and has therefore, a thousand tales to tell. When, in the course of the story, Walter is taken away, somewhat without choice, to work the magic of a healer for a Mexican village, we are again convinced that he is a medical doctor hiding out as a prospector. This is the acting craft in full bloom. Walter becomes whatever is called for in the story. However, if one views his other films, the effect is the same. He is one of Hollywood's most under rated actors of all time. Those who have not seen this film have a joyous experience awaiting them. Great story, great screenplay, great acting. This is why we love movies the way we do.",
+         "The Treasure Of The Sierra Madre Certainly a consuming piece of cinematic achievement. I was delighted in viewing this film, especially when you have the talents of Bogart, Holt and Huston\u0085..oh what abilities or should I say \u0091gifts'. My eyes never strayed from the screen, I couldn't take the risk of missing one second of this tremendous adventure/drama film. Bogart played the character \u0091Fred C. Dobbs' so convincingly, it doesn't surprise me though he was at his career peak. It was like his portrayal of \u0091Lt. Comdr. Philip Francis Queeg' in `The Caine Mutiny' surely no one would disagree he carried the part to it's limit. The B & W format gave an added depth and the direction by John Huston (as usual) was nothing more then what I would expect from an accredited director like him. I was amused to see a very young Robert Blake in the role of the boy selling lottery tickets and the brief appearance of Bruce Bennett as \u0091James Cody'\u0085. whom starred with Bogie in `Sahara' several years prior. Another reliable support actor was Alfonso Bedoya as \u0091Gold Hat' my fondest memory of any of his acting roles must be `The Big Country' in 1958. Walter Huston stood out with his performance, this was the first time I've had the privilege to watch him in a film role. His portrayal was astounding\u0085..and the script he had to work with was a treat to hear. Another funny point I want to point out, I don't know why I kept comparing Tim Holt to John Derek. In some of the scenes his appearance and voice were so similar to Derek's it was uncanny. I'm probably the only one who thinks this, but I can't dismiss the similarities (to me anyway). The plot was an interesting one, one that slowly draws you in until you can't stop watching. I really enjoyed `The Treasure Of Sierra Madre' certainly a \u0091must see' film\u0085highly recommended.",
+         "I wish I knew who B. Traven was. He wrote the novel this film is based on, and it's a good read. There are stories that he was a German. Maybe he was. The dialogue has little German touches in it. Traven surely lived in modest circumstances in Mexico, the details of run-down hotels being far too accurate to have been made up in a comfortable armchair. But it's not really important. Huston and his cast and crew have turned the novel into a movie that is as good as anything likely to show up on the screen. It is in fact an astounding achievement. I can't even begin to list the moments that stamp themselves indelibely into one's memory, but I will mention one, just en passant, so to speak. After killing his partner and friend, Bogart lies down next to a fire and tries to go to sleep. He talks to himself about \"conscience\" and how it only bother you if you allow it to, and the fake, sulfurous fire blazes up higher and higher between the actor and the camera until he seems to be consumed by the flame. Alfonso Bedoya. He made a few other movies but nothing resembling this one. What lines he is given! \"Aww, come on. Throw that old iron over here.\" \"There's a good business for Jew.\" And the unforgettable \"batches,\" which doesn't need repeating. It is surely one of Huston's best films. A lesser director could have ruined the novel's plot. But Huston adds his own touches. Cody is killed, shot through the neck, and the old man reads a letter from his wife, retrieved from Cody's pocket. But -- he doesn't know how to read big words! So Curtin takes the letter and reads it. It's not just a directorial flash in the pan, because the scene resonates at the end of the movie when Curtin rides off to meet Cody's wife in the blossom-blooming orchard. What I mean is that the letter-reading scene is there for a larger purpose than simply adding to our appreciation of the characters at that particular moment. The fight with Pat in the cantina. Absolutely nothing happens the way it had always happened in previous movies. Huston stages it in a way that an artist would think of. In all movies before this one fights involved (1) a general melee in which no one wins or loses, or (2) one clip on the jaw and the guy is unconscious. Here, MacCormack, the heavy, done very nicely by Barton Maclaine, bashes one guy over the head with a bottle of booze and socks the other one. But somebody grabs his legs as he tries to walk out the door. More blows. Bodies slump to the floor and they have a hell of a time getting back up on their feet. More blows. Pat is finally beaten to the floor and he's not unconscious. \"Okay. Enough, fellas. I'm beat. I can't see.\" Bogart and Tim Holt take only the money that is owing to them, and Curtin (Holt) comes up with, \"Let's beat it before the law arrives.\" Before the law arrives. That's straight out of Traven's novel and is one of the reasons people believe he wasn't that familiar with the English language. Not that it doesn't fit -- because it does. I could go on listing one scene after another that is simply outstanding but there isn't space enough to do it. I watched this repeatedly with my ten year old kid, Josh, who finally memorized almost every word of the script. I showed it in classes in psychology at Camp Lejeune in North Carolina as an almost flawless depiction of an ego defense mechanism called \"projection.\" The Marines loved it. I loved it. My kid loved it. John Simon loved it. Rush Limbaugh loved it. Martha Stewart loved it. Napolean Bonaparte loved it. Moses loved it. Lenin loved it. St. Peter, when not attending the pearly gates, watches it on cable TV. (No commercials.) Everybody loves it -- and for good reasons.",
+         "I think the great lesson of The Treasure of the Sierra Madre is the effect civilization has on the behavior of man. Some people are only as good as they ought to be and the case in point is the guys that go out into the Sierra Madre gold prospecting and how their behavior changes. Dobbs and Curtin a couple of down on their luck Americans stranded in Tampico, Mexico. They meet up with old Howard at a flop house and his tales inspire them to try gold prospecting. The plot of the film is what happens to them when they find the gold they seek. The Treaure of the Sierra Madre is a film years ahead of its time for the stark realism it portrays. These are not classic movie heroes. I could see this film easily being remade today by some of our contemporary stars like Robert DeNiro, Al Pacino, Russell Crowe. It also has probably the most brutal bar fight ever put on film. Before going prospecting, Humphrey Bogart as Dobbs and Tim Holt as Curtin go out on a construction job for Barton MacLane who stiffs them when it comes time to pay up. They catch up with him at a Tampico dive and administer a terrible beating to MacLane. This is not some western saloon fight, this is probably one of the most realistic bar brawls ever filmed. I like to compare this film to The Oxbow Incident. In both cases, stress and a crisis bring out the true characters in people. Tim Holt is a lot like Henry Fonda's character and Bogart would have definitely been found in the ranks of the lynchers. Bogart as Dobbs is probably someone who in civilized society is no better than what he can get away with. His descent into uncontrollable paranoia is frightening on the screen, one of his best performances. Tim Holt who most of the time was content to star in B westerns for RKO shows what a capable player he is. In the flophouse scene look for an unbilled appearance by his father Jack Holt. Walter Huston capped a long career on the screen with the Best Supporting Actor Award for this film which also was the Best Picture of 1948. And son John Huston won his only Oscar for Best Director, making Oscar night a banner occasion for the Huston family. Huston's character of Howard you can see playing sidekick in many a Hollywood western. That would be a superficial impression. Howard turns out to be a wise old man. The ending of what happens to the men and their acquired treasure in the Sierra Made mountains is something else. In a location far from civilization and far from law it's shown that the Almighty does have a wicked sense of humor.",
+         "John Huston's genius as a director is undeniable. From his beginning he showed an uncanny knack for getting not only excellent acting from his actors, but his movies always had a social conscience as well. Mr. Huston loved Mexico and it shows in this film. It must have been a difficult task for him directing his own father in the movie. After all, Walter Huston was a major star on his own right. Both father and son made a great contribution, John behind the camera, Walter in front of it. Basically the story is about men that have drifted into Mexico to escape jail, or in search of riches, as it was the case of the men that fate brings together in a Tampico shelter. Dobbs, Howard and Curtin start out as partners searching for gold in the Sierra Madre. They find it, but as luck will have it, none of them will live to be rich from what they find in that remote place. In the most ironic of film endings, this one will be a classic. After the trio finds gold, greed sets in. Friendship turns sour and the three friends become enemies. When the bandits finally catch up with an exhausted Dobbs, trying to go north, they beat him up and discover some sacks full of sand.... Humphrey Bogart as Dobbs is excellent. Of course, Walter Huston made the best out of Howard, the clever old man who has seen a lot in his life. He is the only one that discovers a happiness living the simple life among the friendly Mexicans that welcome him into their community. Finally, Tim Holt, as Curtin is perfectly cast as an honest man who has gone into the adventure without any expectations. The final sequence of Howard and the peasants riding their horses into the 'yellow dust' is amazing, as it it incredible. In retrospect, it seems to be telling us that sometimes dreams of becoming rich the easy way will not be sustained, but honest work will be more rewarding.",
+         "The Treasure of Sierra Madre, is not only a stunningly visual treat, but also a story and script of depth and magnitude, set in old time Mexico. As a Bogart fan, I found it at first, difficult to get past Bogart playing such a ragged and gritty character, once I did I realised him and his co stars - Walter Huston & Tim Holt were such a tenacious force in this 2.5 hour epic. Sierra Madre feels fresh and could stand up well against anything put out today. I have not seen a film in recent years, with outstanding lines, powerfully delivered by Huston or with the conviction and honesty Holt does..with Bogart, all three characters are very different yet essential. Do yourself a favor and go buy or rent this. It carries great moral and truth, in a story of rags to almost riches. ~Paul Browne.",
+         "Some movies have certain scenes in them that hold the viewers interest more than others. However every single scene in this film holds the viewers interest. There is never a dull or lagging moment. Three down and outers who at one time in their lives were maybe up and comers strike out in search of a fortune or at least enough to live better than they have been. While Humphrey Bogart gives a superb performance it is Walter Huston who turns in the greatest performance as the old prospector Howard. The scene in the Indian village where he helps to restore a comatose child is one of the most touching in all of film history and is done virtually without any dialog. Mexican character actor Alfonso Bedoya of course steals all the scenes he appears in and delivers his classic \"Stinking Badges\" line. (what person would dress up as a Bandito for a costume party and not want to look exactly like Bedoya's Gold Hat character?) This film probably should have been a little higher on AFI's top 100. A must see!",
+         "This is one of those great old movies that is worth a repeat viewing every now and again in a person's life. Sure, much of the acting and dialog have gotten corny and dated over the years, and I agree with one of the previous commenters who said that Bogart's acting seems very forced - like he's obviously just reading lines from script. Be that as it may, the story that is told here is every bit as important and thought provoking as something from the Bible. Throughout the film there is a spot-on wisdom about man and his endless quest for wealth (in this case, gold). I always come away from this movie feeling secure in my belief that in life you just can't have it all, and all that glitters is not gold (i.e. there are things in life more important than money). Since this movie was largely about lost fortunes (literally \"dust in the wind\" if you think about the end sequence), it must have made quite an impression on audiences back in the forties when it was released. I'm sure more than a few viewers back then still had painful memories of catastrophic losses caused by the 1929 stock market crash and the ensuing Depression of the 1930's. Also, many people lost a lot in the war years that followed, and which predated this movie by just a few years. That's why I think this movie qualifies for repeat viewings, because just think how appropriate this wisdom is for our current generation of people: just consider the losses from, say, the stock market crash of 2000, the events of September 11th, and of course we just witnessed the horrific losses caused by the Asian tsunami... the cycle repeats. Fortunes come and go, gold is often times nothing but dust in the wind, but life goes on and so man must go on. That's what this movie says to me whenever I see it."
+      ],
+      "genres": [
+         "Action",
+         "Adventure",
+         "Drama",
+         "Western"
+      ],
+      "productionCompanies": ["Warner Bros."],
+      "summaries": [
+         "Fred C. Dobbs and Bob Curtin, both down on their luck in Tampico, Mexico in 1925, meet up with a grizzled prospector named Howard and decide to join with him in search of gold in the wilds of central Mexico. Through enormous difficulties, they eventually succeed in finding gold, but bandits, the elements, and most especially greed threaten to turn their success into disaster.",
+         "Dobbs and Curtin meet up in Mexico, and go to work for a contractor, Pat McCormick, who takes them away to remote site and tells them they will be paid when the job is finished. When they are finished, they return to town to find McCormick to get their wages. McCormick gives them a few dollars, and says he'll just go to the bank and pick up the payroll for them. Dobbs and Curtin then meet up with an old prospector, who claims the hills are still full of gold, and if they can get the cash, he'll go with them. They eventually get the cash from McCormick after a little \"persuasion\", and all three set off for the hills as good friends, but will they return that way ?",
+         "Fred Dobbs and Bob Curtin, two Americans searching for work in Mexico, convince an old prospector to help them mine for gold in the Sierra Madre Mountains."
+      ],
+      "budget": 1100000
+   },
+   "movielensId": 1254,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1948-01-24",
+      "dvdReleaseDate": "2003-09-30",
+      "directors": ["John Huston"],
+      "runtime": 126,
+      "movieId": 1254,
+      "title": "The Treasure of the Sierra Madre",
+      "mpaa": "NR",
+      "actors": [
+         "Humphrey Bogart",
+         "Walter Huston",
+         "Tim Holt",
+         "Bruce Bennett",
+         "Barton MacLane",
+         "Alfonso Bedoya",
+         "Arturo Soto Rangel",
+         "Manuel Dondé",
+         "José Torvay",
+         "Margarito Luna",
+         "Robert Blake",
+         "John Huston",
+         "Jack Holt",
+         "Ann Sheridan",
+         "Jay Silverheels",
+         "Guillermo Calles",
+         "Roberto Cañedo",
+         "Spencer Chan",
+         "Jacqueline Dalya",
+         "Ralph Dunn",
+         "Pat Flaherty",
+         "Martin Garralaga",
+         "Julian Rivero",
+         "Harry J. Vejar",
+         "Clifton Young"
+      ],
+      "imdbMovieId": "0040897",
+      "originalTitle": "The Treasure of the Sierra Madre",
+      "genres": [
+         "Action",
+         "Adventure",
+         "Drama",
+         "Western"
+      ],
+      "youtubeTrailerIds": [
+         "EQyqvFVe4Y4",
+         "gde-Vmz_5Ks",
+         "vGpvO8JabEc"
+      ],
+      "plotSummary": "Fred C. Dobbs and Bob Curtin, both down on their luck in Tampico, Mexico in 1925, meet up with a grizzled prospector named Howard and decide to join with him in search of gold in the wilds of central Mexico. Through enormous difficulties, they eventually succeed in finding gold, but bandits, the elements, and most especially greed threaten to turn their success into disaster.",
+      "tmdbMovieId": 3090,
+      "avgRating": 4.12428,
+      "releaseYear": "1948",
+      "numRatings": 5870,
+      "posterPath": "/e3lYTRwiDVPQv07xKldwlLAXikN.jpg"
+   }
+}

@@ -1,0 +1,864 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "space battle",
+            "id": 2902
+         },
+         {
+            "name": "spaceship",
+            "id": 9831
+         },
+         {
+            "name": "spoof",
+            "id": 11931
+         },
+         {
+            "name": "fictional tv show",
+            "id": 179781
+         }
+      ],
+      "imdb_id": "tt0177789",
+      "video": false,
+      "title": "Galaxy Quest",
+      "recommendations": [
+         2157,
+         957,
+         199,
+         168,
+         174,
+         1648,
+         200,
+         193,
+         9824,
+         865,
+         1832,
+         97,
+         11977,
+         154,
+         157,
+         201,
+         9647,
+         1649,
+         10249,
+         11153
+      ],
+      "backdrop_path": "/1sAm8L4yOquzak9bstajTIoCEmy.jpg",
+      "revenue": 90683916,
+      "reviews": [{
+         "author": "write2topcat",
+         "id": "5aa2c6d20e0a262c6e00fc7e",
+         "content": "If you are thinking this sounds like a spoof of Star Trek you're on the right track. Tim Allen (Home Improvement, Last Man Standing) adds his brilliant comedic contribution to this star studded cast which includes Sigourney Weaver, Tony Shalhoub, Alan Rickman, and Sam Rockwell. They are the aging stars of the one time hit TV series Galaxy Quest. None of them have worked much since the series ended and they make a meager living reprising their characters at various sci fi conventions, or worse, store openings. Tim Allen loves appearing for die hard fans of the show as \"Commander Jason Nesmith\", but none of the other cast members are very thrilled about these appearances, and resent the attention the \"Commander\" receives. \r\nThe cast finds a high quality mock up of the show's space ship at a store opening appearance, as well as some \"extras\" who are nothing if not 'in character' as members of an alien race seeking help from the famous crew. \r\n  Before they realize what has happened they find themselves in space on a real life adventure. This is a FUNNY movie which had me laughing to the end. I was really sorry when it was over, I loved it that much.",
+         "url": "https://www.themoviedb.org/review/5aa2c6d20e0a262c6e00fc7e"
+      }],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 40,
+               "character": "Jason Nesmith",
+               "gender": 2,
+               "credit_id": "52fe428ec3a36847f8027ef3",
+               "name": "Tim Allen",
+               "profile_path": "/uX2xVf6pMmPepxnvFWyBtjexzgY.jpg",
+               "id": 12898,
+               "order": 0
+            },
+            {
+               "cast_id": 39,
+               "character": "Gwen DeMarco",
+               "gender": 1,
+               "credit_id": "52fe428ec3a36847f8027eef",
+               "name": "Sigourney Weaver",
+               "profile_path": "/gxBIAr3CnBjkNRoPovVJCvEGqP0.jpg",
+               "id": 10205,
+               "order": 1
+            },
+            {
+               "cast_id": 26,
+               "character": "Alexander Dane",
+               "gender": 2,
+               "credit_id": "52fe428ec3a36847f8027ebb",
+               "name": "Alan Rickman",
+               "profile_path": "/zOJgiaztnrnB7TSdGYU3uwpgivl.jpg",
+               "id": 4566,
+               "order": 2
+            },
+            {
+               "cast_id": 27,
+               "character": "Fred Kwan",
+               "gender": 2,
+               "credit_id": "52fe428ec3a36847f8027ebf",
+               "name": "Tony Shalhoub",
+               "profile_path": "/jXzlVxS8u64XEZUoNPiuhGcQXDW.jpg",
+               "id": 4252,
+               "order": 3
+            },
+            {
+               "cast_id": 28,
+               "character": "Guy Fleegman",
+               "gender": 2,
+               "credit_id": "52fe428ec3a36847f8027ec3",
+               "name": "Sam Rockwell",
+               "profile_path": "/mEH7nCaG75XNkoFbp3MIwCbIZb6.jpg",
+               "id": 6807,
+               "order": 4
+            },
+            {
+               "cast_id": 29,
+               "character": "Tommy Webber",
+               "gender": 2,
+               "credit_id": "52fe428ec3a36847f8027ec7",
+               "name": "Daryl Mitchell",
+               "profile_path": "/mSrPd1XH1akZtDXsBXN8m0wvluG.jpg",
+               "id": 15028,
+               "order": 5
+            },
+            {
+               "cast_id": 30,
+               "character": "Mathesar",
+               "gender": 2,
+               "credit_id": "52fe428ec3a36847f8027ecb",
+               "name": "Enrico Colantoni",
+               "profile_path": "/yxxy8IrGRwnRPbLmgyfwF26Feve.jpg",
+               "id": 15029,
+               "order": 6
+            },
+            {
+               "cast_id": 31,
+               "character": "Sarris",
+               "gender": 2,
+               "credit_id": "52fe428ec3a36847f8027ecf",
+               "name": "Robin Sachs",
+               "profile_path": "/rSMeopDC1loyjUVhxK0XjFfSlAC.jpg",
+               "id": 15030,
+               "order": 7
+            },
+            {
+               "cast_id": 34,
+               "character": "Teb",
+               "gender": 2,
+               "credit_id": "52fe428ec3a36847f8027edb",
+               "name": "Jed Rees",
+               "profile_path": "/sC7lBTG7TSEvxMRb32J9giTv5K9.jpg",
+               "id": 15032,
+               "order": 8
+            },
+            {
+               "cast_id": 35,
+               "character": "Brandon",
+               "gender": 2,
+               "credit_id": "52fe428ec3a36847f8027edf",
+               "name": "Justin Long",
+               "profile_path": "/7TGXeHw4o86IBm6xknQotpludXK.jpg",
+               "id": 15033,
+               "order": 9
+            },
+            {
+               "cast_id": 33,
+               "character": "Laliari",
+               "gender": 1,
+               "credit_id": "52fe428ec3a36847f8027ed7",
+               "name": "Missi Pyle",
+               "profile_path": "/gjJiT50eCgPMRsIKl03v64CJOPf.jpg",
+               "id": 1294,
+               "order": 10
+            },
+            {
+               "cast_id": 32,
+               "character": "Quellek",
+               "gender": 0,
+               "credit_id": "52fe428ec3a36847f8027ed3",
+               "name": "Patrick Breen",
+               "profile_path": "/oGK78qN4cezMlG7VBvZ0QYh1Ui0.jpg",
+               "id": 15031,
+               "order": 11
+            },
+            {
+               "cast_id": 36,
+               "character": "Kyle",
+               "gender": 2,
+               "credit_id": "52fe428ec3a36847f8027ee3",
+               "name": "Jeremy Howard",
+               "profile_path": "/4GyPGjrvqs3zes8I1SWrQWukrA9.jpg",
+               "id": 15034,
+               "order": 12
+            },
+            {
+               "cast_id": 45,
+               "character": "Neru",
+               "gender": 2,
+               "credit_id": "54e300af9251411953008ed5",
+               "name": "Sam Lloyd",
+               "profile_path": "/xLSxSkq41HNGmK5cCeXqnki8CIz.jpg",
+               "id": 46920,
+               "order": 13
+            },
+            {
+               "cast_id": 44,
+               "character": "Lahnk",
+               "gender": 2,
+               "credit_id": "54e300549251411099003520",
+               "name": "Rainn Wilson",
+               "profile_path": "/Adq8cYhhzmSYRwMWDTc7O53L7FR.jpg",
+               "id": 11678,
+               "order": 14
+            },
+            {
+               "cast_id": 72,
+               "character": "Excited alien",
+               "gender": 2,
+               "credit_id": "585cc4a692514123c50059a6",
+               "name": "J.P. Manoux",
+               "profile_path": "/lLEfizV970QfahQSBssUvj8Exs7.jpg",
+               "id": 88702,
+               "order": 15
+            },
+            {
+               "cast_id": 73,
+               "character": "Nervous tech",
+               "gender": 2,
+               "credit_id": "585cc4b492514123c50059b1",
+               "name": "Dian Bachar",
+               "profile_path": "/fcpoFyxz6vxezZL8CDqF8TEhHPW.jpg",
+               "id": 55624,
+               "order": 16
+            },
+            {
+               "cast_id": 74,
+               "character": "Brandon's mom",
+               "gender": 1,
+               "credit_id": "585cc4c092514123c8005a28",
+               "name": "Heidi Swedberg",
+               "profile_path": "/405YJMDULbRytEN0O3PI1VncXjb.jpg",
+               "id": 62551,
+               "order": 17
+            },
+            {
+               "cast_id": 43,
+               "character": "Announcer",
+               "gender": 2,
+               "credit_id": "54e2fff29251411956009563",
+               "name": "Kevin McDonald",
+               "profile_path": "/vqLF8voWGTGxpMJ1wqhAovQuL94.jpg",
+               "id": 58955,
+               "order": 18
+            },
+            {
+               "cast_id": 37,
+               "character": "Katelyn",
+               "gender": 1,
+               "credit_id": "52fe428ec3a36847f8027ee7",
+               "name": "Kaitlin Cullum",
+               "profile_path": "/dJxQ8Hqd1aKVQwlCw4bFP2SEL07.jpg",
+               "id": 15035,
+               "order": 19
+            },
+            {
+               "cast_id": 38,
+               "character": "Hollister",
+               "gender": 2,
+               "credit_id": "52fe428ec3a36847f8027eeb",
+               "name": "Jonathan Feyer",
+               "profile_path": null,
+               "id": 15036,
+               "order": 20
+            },
+            {
+               "cast_id": 75,
+               "character": "Young Tommy",
+               "gender": 2,
+               "credit_id": "5aaa3b7bc3a36851e2009e30",
+               "name": "Corbin Bleu",
+               "profile_path": "/1fTGgTuAa2EdvVJEj8Vu5PGifAn.jpg",
+               "id": 67602,
+               "order": 21
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe428ec3a36847f8027e33",
+               "name": "Dean Parisot",
+               "profile_path": "/3h20QFQ6duhpJ1FMSeJiFju0WGp.jpg",
+               "id": 15002,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe428ec3a36847f8027e39",
+               "name": "David Howard",
+               "profile_path": null,
+               "id": 15003,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe428ec3a36847f8027e3f",
+               "name": "Mark Johnson",
+               "profile_path": "/yKGF6cbzyP03Gl1QhVLCu1gWSW6.jpg",
+               "id": 5162,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe428ec3a36847f8027e45",
+               "name": "Charles Newirth",
+               "profile_path": "/u2qvWMuOfGazAgfsufIrhjGEe24.jpg",
+               "id": 15004,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe428ec3a36847f8027e4b",
+               "name": "David Newman",
+               "profile_path": "/vncTIJaBWoYmpdNCPkDnA8hT3PM.jpg",
+               "id": 3393,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe428ec3a36847f8027e51",
+               "name": "Jerzy Zielinski",
+               "profile_path": null,
+               "id": 13140,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe428ec3a36847f8027e57",
+               "name": "Don Zimmerman",
+               "profile_path": null,
+               "id": 15005,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe428ec3a36847f8027e5d",
+               "name": "Debra Zane",
+               "profile_path": null,
+               "id": 495,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe428ec3a36847f8027e63",
+               "name": "Linda DeScenna",
+               "profile_path": null,
+               "id": 602,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe428ec3a36847f8027e69",
+               "name": "James Nedza",
+               "profile_path": null,
+               "id": 15006,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe428ec3a36847f8027e6f",
+               "name": "Ric McElvin",
+               "profile_path": null,
+               "id": 15016,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe428ec3a36847f8027e75",
+               "name": "Albert Wolsky",
+               "profile_path": null,
+               "id": 8885,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe428ec3a36847f8027e81",
+               "name": "Charles Newirth",
+               "profile_path": "/u2qvWMuOfGazAgfsufIrhjGEe24.jpg",
+               "id": 15004,
+               "department": "Production",
+               "job": "Unit Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe428ec3a36847f8027e87",
+               "name": "J.J. George",
+               "profile_path": null,
+               "id": 15018,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe428ec3a36847f8027e93",
+               "name": "Keith Marbory",
+               "profile_path": null,
+               "id": 14193,
+               "department": "Crew",
+               "job": "Special Effects Coordinator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe428ec3a36847f8027e9f",
+               "name": "William N. Greene III",
+               "profile_path": null,
+               "id": 15021,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe428ec3a36847f8027ea5",
+               "name": "Mat Beck",
+               "profile_path": null,
+               "id": 15022,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe428ec3a36847f8027eab",
+               "name": "David S. Dranitzke",
+               "profile_path": null,
+               "id": 15023,
+               "department": "Visual Effects",
+               "job": "Visual Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe428ec3a36847f8027eb1",
+               "name": "Andy Armstrong",
+               "profile_path": "/3vtBk4zq2dgXHjvFatjiSuueCwS.jpg",
+               "id": 15024,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe428ec3a36847f8027eb7",
+               "name": "James Armstrong",
+               "profile_path": null,
+               "id": 15026,
+               "department": "Crew",
+               "job": "Utility Stunts"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe428ec3a36847f8027eff",
+               "name": "Robert Gordon",
+               "profile_path": null,
+               "id": 41386,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "566eea869251412dbc00a81b",
+               "name": "Robert Q. Mathews",
+               "profile_path": null,
+               "id": 1321589,
+               "department": "Costume & Make-Up",
+               "job": "Costume Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56742fecc3a3685ee200245c",
+               "name": "David Newman",
+               "profile_path": "/vncTIJaBWoYmpdNCPkDnA8hT3PM.jpg",
+               "id": 3393,
+               "department": "Sound",
+               "job": "Orchestrator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56800eea9251412e5200b646",
+               "name": "Jeff Carson",
+               "profile_path": null,
+               "id": 12945,
+               "department": "Sound",
+               "job": "Music Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "566eea1d92514173ff013a3e",
+               "name": "Ashley Fardys",
+               "profile_path": null,
+               "id": 1549001,
+               "department": "Art",
+               "job": "Art Department Coordinator"
+            },
+            {
+               "gender": 1,
+               "credit_id": "566eea4cc3a36833b600f0b6",
+               "name": "Terri Taylor",
+               "profile_path": null,
+               "id": 494,
+               "department": "Production",
+               "job": "Casting Associate"
+            },
+            {
+               "gender": 2,
+               "credit_id": "566eea6e92514169e200fd04",
+               "name": "George L. Little",
+               "profile_path": null,
+               "id": 12040,
+               "department": "Costume & Make-Up",
+               "job": "Assistant Costume Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "566eeaad9251415ec500f9eb",
+               "name": "Joy Zapata",
+               "profile_path": null,
+               "id": 1338670,
+               "department": "Costume & Make-Up",
+               "job": "Hair Department Head"
+            },
+            {
+               "gender": 0,
+               "credit_id": "566eeac692514173ff013a6a",
+               "name": "Alan D'Angerio",
+               "profile_path": null,
+               "id": 32490,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 1,
+               "credit_id": "566eeae6c3a3682e9800f416",
+               "name": "Ve Neill",
+               "profile_path": "/gNYwxuK5Z7Nr3tWtSWv0qAueUIs.jpg",
+               "id": 406204,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Department Head"
+            },
+            {
+               "gender": 2,
+               "credit_id": "566eeafc92514173ff013a73",
+               "name": "Bill Corso",
+               "profile_path": "/iL7zT7LUL5p7aBuKfQa4vXF4bAt.jpg",
+               "id": 15017,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "566eeb0fc3a368264700f762",
+               "name": "Hallie D'Amore",
+               "profile_path": null,
+               "id": 1327149,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "567430149251412db10023cd",
+               "name": "Hugh Waddell",
+               "profile_path": null,
+               "id": 1400812,
+               "department": "Sound",
+               "job": "ADR & Dubbing"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56743029c3a3685ee2002460",
+               "name": "Jessica Gallavan",
+               "profile_path": null,
+               "id": 1405814,
+               "department": "Sound",
+               "job": "ADR & Dubbing"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5674303cc3a3685ee2002463",
+               "name": "Jayme S. Parker",
+               "profile_path": null,
+               "id": 1392134,
+               "department": "Sound",
+               "job": "ADR & Dubbing"
+            },
+            {
+               "gender": 0,
+               "credit_id": "567430629251412db80022eb",
+               "name": "Claire Graybill",
+               "profile_path": null,
+               "id": 1449173,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5674307bc3a3685ede0028b8",
+               "name": "Ewa Sztompke",
+               "profile_path": null,
+               "id": 1400905,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "567430959251412daf00303b",
+               "name": "Marnie Moore",
+               "profile_path": null,
+               "id": 1389570,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "567430a69251412daf00303e",
+               "name": "Margie O'Malley",
+               "profile_path": null,
+               "id": 557528,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "567430be9251412db400275e",
+               "name": "Richard Beggs",
+               "profile_path": null,
+               "id": 2889,
+               "department": "Sound",
+               "job": "Sound Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "567430d4c3a3685ede0028c1",
+               "name": "J.R. Grubbs",
+               "profile_path": null,
+               "id": 1414177,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "567430ed9251412db10023eb",
+               "name": "Tim Nielsen",
+               "profile_path": null,
+               "id": 1394129,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5674310fc3a3685ee70024d8",
+               "name": "Karen G. Wilson",
+               "profile_path": null,
+               "id": 1446545,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5674312a9251412db4002772",
+               "name": "Lora Hirschberg",
+               "profile_path": null,
+               "id": 1327030,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "567431449251412dbb0025e2",
+               "name": "Tom Johnson",
+               "profile_path": null,
+               "id": 3996,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5674315cc3a3685ef1002390",
+               "name": "Tim Holland",
+               "profile_path": null,
+               "id": 8276,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Family",
+            "id": 10751
+         },
+         {
+            "name": "Science Fiction",
+            "id": 878
+         }
+      ],
+      "popularity": 11.860361,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 926,
+      "vote_count": 869,
+      "budget": 45000000,
+      "overview": "The stars of a 1970s sci-fi show - now scraping a living through re-runs and sci-fi conventions - are beamed aboard an alien spacecraft. Believing the cast's heroic on-screen dramas are historical documents of real-life adventures, the band of aliens turn to the ailing celebrities for help in their quest to overcome the oppressive regime in their solar system.",
+      "similar": [
+         15493,
+         348,
+         126889,
+         19995,
+         8077,
+         157336,
+         118340,
+         330459,
+         228161,
+         33155,
+         274870,
+         2103,
+         957,
+         2067,
+         1891,
+         1892,
+         2164,
+         9016,
+         563,
+         18
+      ],
+      "original_title": "Galaxy Quest",
+      "runtime": 102,
+      "poster_path": "/ahpUPhVlwAWic9N0SfNkxs8e66W.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Gran Via Productions",
+            "id": 2605,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/jCwNupLautLSk6iB28VXrDPUqD8.png",
+            "name": "DreamWorks",
+            "id": 7,
+            "origin_country": "US"
+         }
+      ],
+      "release_date": "1999-12-23",
+      "vote_average": 6.9,
+      "belongs_to_collection": null,
+      "tagline": "A comedy of Galactic Proportions.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Dean Parisot"],
+      "runtime": 102,
+      "synopsis": "Galaxy Quest was once a popular \"geek\" TV show that eventually got cancelled but was so popular among a a cult group that it has spawned 18 annual conventions where fans gather, often in costumes based on the shows, to watch old episodes, meet cast members and actors who played even bit parts on single episodes. At Galaxy Quest 18, hosted by Guy Fleegman (Sam Rockwell), an actor who played in episodes 81 and died by the first commercial, the fans are seeing a \"lost\" episode which is part one of a two parter dealing with the Omega 13 device. As this episode is screening in the main room back stage sits the original cast and crew: Alexander Dane (Alan Rickman), who played half human/half alien Dr. Lazarus and moans about how he was once a great actor on the English stage as the beautiful and buxom Gwen DeMarco who plays communications officer Lt. Tawny Madison (Sigourney Weaver) whose job on the ship was to repeat what the computer said, complains that her TV guide article was all about her bustline and how it fit into her uniform, while Tommy Webber (Daryl Mitchell), the child actor who has since grown up and found no life other than Galaxy Quest conventions remarks about how the commander and star of the show Jason Nesmith (Tim Allen) is more than an hour late. Nesmith finally shows up and gets into the \"been there done that\" groove asking if Dane has already done his \"I was once an actor\" thing. This, plus the fact the Nesmith is about to do a solo gig without the rest of the cast almost has everyone walking out of the dressing room and heading for home, as Jason tries to explain the gig is a couple of kids with cardboard in a garage and is nothing major. Out on the convention floor Guy now starts introducing the crew of Galaxy Quest, who snap into their roles, especially Dane after Nesmith says the magic words to convince him that \"The show must go on!\" They go outside to the waiting fans, the spotlights and the roar of the crowds to sit and sign autographs and give the fans a taste of the dream. Gwen happens to smile at Nesmith, basically because Tommy told a hysterically funny and true crack about the fans loving Nesmith almost as much as Nesmith loves himself. In that brief moment Nesmith see's Gwen and remembers times that once were and hopes for a rekindling of old on the set romance, which Gwen promptly shoots down when fans ask he if she and the commander once had a thing and Gwen replies, as Nesmith comes up behind her. Nope! Gwen is ushered off by officials to do a \"look a-like\" Tawny Madison and fans in costume photo shoot. Nesmith tries to follow and is confronted by Mathesar (Enrico Colantoni), an actual alien come to Earth to seek the help of Commander Peter Quincy Taggert, the character played on Galaxy Quest by Nesmith. Nesmith thinks this is the group of kids who are paying him to do an appearce in their garage tomorrow and tells them to keep things hush-hush, finalize details with his agent and bring a limo. The brushed off alien contingent mutter a bit and go off to do as he asked with Nesmith tries to corner Gwen who brushes him off with a \"it was cute before I got to know you\" line. Nesmith eventually goes into the men's room and locks himself in a commode where he overhears two non-geeks who are making fun of the whole Galaxy Quest event and participants and calling the stars losers who haven't done anything in acting since the show, especially Nesmith who is bad-mouthed by his co-stars. Nesmith gets a wake up call and falls totally out of character for the rest of the day. He signs autographs with a \"phone it in\" mentality, doesn't look at the fans and when confronted by the real hosts of his next day gig turns on them, get's angry and tells them it's just a TV show. Gwen overhears this and later that night talks with fellow co-star Dane about it on the telephone from their respective homes. She expresses concern about Nesmith and Dane just expresses contempt for the whole thing. Nesmith, climbs into a bottle of booze on ice watching reruns of Galaxy Quest on TV and waking up when Mathesar and his fellow aliens come a knocking at Nesmiths' back door. Nesmith doesn't quite rise to the occasion and more like crawls around in his shirt and undies looking for shoes. Eventually they all get into a limo and head to the gig with Nesmith trying to make a play for the pretty alien girl Laliari (Missi Pyle) who can't speak because her translator device broke. Nesmith asks for a coke and promptly takes a nap as they explain the situation to him on the way up to the ship, which is a real Galaxy Quest space ship. Once there, the unshaven, groggy and very unkempt Nesmith is taken to the bridge where he confronts the evil bad guy alien Sarris (Robin Sachs) on the Vid screen. Nesmith orders them to fire blue and fire red and fire other stuff. He says that should take care of Sarris and then he asks to be taken back home to Earth. Teb (Jed Rees) really appreciates that Nesmith has saved the people. Nesmith is shown into a room where he is covered by goop that turns into a plastic shell and then he is shot out into space, landing at home by his swimming pool in a state of shock. He runs, as is, unshaven and unkempt, to the electronics store opening they have been contracted to do and tells his fellow actors about his real adventures in space with the \"termites\" as he calls them. Everyone thinks he's drunk and crazy, even after Mathesar and his fellow aliens show up and want him and the crew to come up and negotiate with Sarris. Nesmith tries to convince his fellow actors to come along and help him. Instead they all give Nesmith the brush off and leave, climbing into the same van hostile and critical, except for Fred Kwan (Tony Shalhoub) who plays the Tech Sgt. Chen on the show and said they all should have taken the gig because who knows when Nesmith would offer them a gig again! A gig? They all say, looking at each other and getting out of the van and meeting up with Laliari, whose image remains on Earth as Nesmith thought they might change their minds. Laliari orders up pods for all of them and in short order the acting crew of Galaxy Quest realize they are now on the real deal in outer space and that's a little more reality than they were planning on. We see the aliens in their real form for the first time and they are a type of pastel octopus or squid who use a device to take human shape and speech. Fred Kwan is the only one of the actors who is so out of it he's here now, probably due to too much Hollywood living, he is the only one blindly up for the adventure. Down deep inside he's as crazy as Nesmith only it didn't take him a first time to be that crazy. Gwen and Dane are the only sane ones who think it's totally insane to do this gig! Tommy's trying to deal with it all. They get a tour of the facility, go aboard the ship where they get more of a tour and meet the crew and other \"termites\" as Nesmith calls them. They take their places on the bridge and take the ship out into space to meet with Sarris. We learn that Mathesar and his people think Earth TV is serious documentary news and that shows like Galaxy Quest and Gilligan's Island are reality TV or new reports like the war in Iraq. Gwen and Dane take issue with Nesmith who is going along with this blindly because they think he's on an ego trip and maybe he is! He sure likes inspecting the troops. The audience eventually discovers that Sarris had captured and tortured the last commander who told Sarris all about things on Galagy Quest, including the coveted Omega 13 device, which Sarris wants to own at all costs. The \"termites\" don't know what the Omega 13 does, but badly-constructed, the device will disintegrate every matter atom in the universe. However, nobody knows where it is. This sends the actors packing, except for Nesmith who still thinks he can handle Sarris. Well, he has to as Sarris has arrived and they must confront him. Sarris overhears Nesmith talking about his plans of attacking him with all their weapons because Gwen didn't follow Nesmith's order to cut the microphone, so he shoots first. The engine dies off, but synergy leads the starship to a landmine abandoned since an old war. When they leave the place, they manage to stop the starship. The crew tries to explain that the Galaxy's adventures are a fiction, not historical documents, but the concept doesn't entirely resonate with the aliens: they have just started to understand the concept of \"lie\" and \"deceit\" as Sarris promises something and then does another thing. A new sphere of the energy source called beridium is found in a planet nearby, so they have to go and pick them. Arriving to the planet where the sphere is, it looks like the rocky Nevada desert, and they can breathe naturally. A kind of home appears. Some little monkeys are working on the mines. Guy is worried that he's the extra - the sixth crewmember- who hasn't got even a simple surname. One of the cute little monkeys is weak and sick, so the rest of the mining monkeys eat it alive. The crew try to steal one of the beridium spheres by rolling it away. Hundreds of monkeys appear. The starship leaves with the sphere but without Nesmith, as Lazarus complains that Nesmith needs to be always the main protagonist. A large animal is about to eat Nesmith. The animal is tele-transported, and it dies painfully, becoming a ball of goo. The monkeys keep on shouting \"Gorignak \", which is a monster made of rocks. Finally, Nesmith is tele-transported to the ship. Back at the spaceship, Sarris has invaded the ship. Apart from that, Nesmith is told that there are no more people on planet Earth. Nesmith says that there is no use in torturing Mathesar, as he doesn't know what the Omega 13 device really is. He and Gwen show Sarris the \"historical documents\", who immediately understands the situation. He forces Nesmith to explain to Mathesar in simple words that a child can understand that they are not heroes, but only actors. Sarris tells his thugs that they are going to make the starship explode with everybody inside. However, Nesmith and Lazarus pretend to fight, and they use the distraction to throw their guardians to the space void. Gwen reminds Nesmith that neither of them can activate a neutron engine. But Nesmith knows somebody who will know how to operate it. Brandon (Justin Long) is a nerdy geek who asked a lot of technical questions during one of the gigs. Gwen and Nesmith follow Brandon and his friend Kyle (Jeremy Howard)'s instructions. When asked what the Omega 13 device may do, Brandon says they think that it may allow to go back in time in 13 seconds. Hollister (Jonathan Feyer) discovers the rhythm of the smashing iron poles. Lazarus and Quellek (Patrick Breen) open the door to bring oxygen to the Thermians. Laliari and Fred kiss like crazy. Finally, Nesmith reaches the blue button which will stop the explosion. Brandon can't help Nesmith and give him an alternate solution when the blue button doesn't stop the countdown because his mother, Katelyn (Kaitlin Cullum) forces him to take the rubbish out. Nesmith and Gwen hug, listening to the last seconds of the countdown. However, in the series, the countdown always used to stop a second before, and that's what happens. Nesmith orders Tommy to drive the spaceship into the minefield. There, the magnetism of the ship attracts many mines. Nesmith's ship faces Sarris' ship, and goes down in the last second. The mines destroy Sarris' ship. However, after going through a black hole, Tommy mentions an increase of energy from Sarris' ship. Sarris has entered Nesmith's ship. Pretending to be Fred, he wounds Nesmith and kills the rest of the crew. Nesmith shouts to Mathesar to turn on the Omega 13 device, so he arrives back in time - only 13 seconds, but time enough to hit Fred as soon as he enters the control room. All the Thermians leave the spaceship, except for Laliari. They arrive at the convention they were supposed to attend - where thousands of geek fans are already disappointed they are not there - crash-landing with their spaceship thanks to Brandon and his friends. In the convention, each cast member leaves the ship half-suffocated and dizzy. Sarris also wakes up, but he is killed in a second, something which drives the fans wild. CUE to the new season of Galaxy Quest - the cast includes a character called Laliari, performed by Jane Doe and who kisses Fred, and a new security lieutenant, interpreted by the extra actor Guy Fleegman.",
+      "writers": [
+         "David Howard",
+         "David Howard"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0177789/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMjA0NjM1ODkyMl5BMl5BanBnXkFtZTcwODY0NDMzMg@@._V1_SY317_CR5,0,214,317_AL_.jpg",
+      "actors": ["Stars: Tim Allen, Sigourney Weaver, Alan Rickman | See full cast and crew »"],
+      "reviews": [
+         "I still don't quite understand why \"GQ\" never conquered the box office. The movie is clever, hysterically funny, surprisingly moving and, as one reviewer pointed out, more respectful of (and better at communicating) the ideals of \"Star Trek\" than any of the recent \"Trek\" movies or television incarnations. The script is inventive, the special effects are vivid and powerful (especially when the actors see the real ship for the first time, and when the rock monster rampages through the ship), and the characters are incredibly well drawn. I'm also puzzled by the negative reactions some people have to the film. Does the film fail to register because the \"Trek\" social phenomenon is unfamiliar to them, thus there's no frame of reference? I'd really like to know. Comedy is possibly the hardest genre to get right, because line delivery, timing, direction and character shading all have to be pretty much perfect or the movie just won't be funny. GQ nails these elements -- right on the head and in virtually every scene -- and keeps up the pace by constantly moving its characters forward. Tony Shalhoub (Fred), Sam Rockwell (Guy Fleegman) and Enrico Colantoni (Mathesar) in particular are so dead-on perfect in their scenes that lack of box office and the Academy's traditional indifference to comedy are probably the only reasons these guys didn't get Oscar nods. (Okay, well, 1999 was also an incredibly strong year for American cinema.) But GQ is also strangely moving -- particularly in the way it derives comedy from despair. The actor characters' lives are in ruins, not unlike the aliens they eventually save from extinction. Perhaps this is why -- even though the characters don't know it yet -- the two groups get along so well and why the actors make the decision to actually become their TV characters in the end. This may also be why the dismay in Mathesar's face when he learns the truth is so painful. I suspect GQ also got lumped in with the likes of \"Scary Movie\" and \"The Naked Gun\" movies in the public's collective conscious: It was perceived as just another spoof and therefore not worthy of significant attention. I hope the movie develops enough of a cult following that it one day reaches that wider audience it deserves.",
+         "This film was amazing. I saw the trailers and swore I'd never watch it. A couple of friends overruled this after watching it in the theaters, and I'm glad they did. Not only is this film an amusing spoof of Science Fiction Fen-dom, it's a brilliant action-adventure/science-fiction film in its own right. The only other film I can think of that is a righteous satirical look, yet a splendid example of the genre, is the Fifth Element. Galaxy Quest Has It All. Beautiful women in scanty clothing. Love interests. Computers. Space ships. Ugly and evil monsters. Blasters. Arcane martial arts. Dynamite catch phrases. And best of all, the very population that is satirized is the group that Saves The Day. The dialogue is brilliant - you'll find yourself quoting from this film regularly. The acting is marvelous. Tim Allen doing William Shatner doing a Heroic Spaceship Captain is worth the rental all by itself, not to mention Alan Rickman's memorably dry performance as the I-Am-Not-My-Strange-Looking-Alien character. The first thing I thought upon leaving the theater was that I had to see this film again. The first thing I thought upon seeing it again was that I would have to own this movie. Check it out - you won't be sorry.",
+         "Comedies are usually pretty tricky for me. Either I'm laughing my head off and nobody else gets it, or everybody else is laughing and I'm looking for the nearest exit. But Galaxy Quest had everyone in the theater laughing, including my companion--who hates science fiction. It cut across ages and backgrounds with a very simple premise--you are what you believe yourself to be. As a fifteen year veteran of science fiction conventions, I've seen the phenomenon from both sides of the stage. I've met the get-a-lifers, the just-for-fun guys, and the not-so-rare I'm-only-in-it-for-the profit gang. I've met actors who loved the whole shebang, actors who loathed it, and actors who didn't have a clue what was going on. Fandom is a very big place, with room for all sorts. And Galaxy Quest got it right--the conventions, the costumes, the geeks, the groupies, even the mocking \"mundanes\" who attend cons looking for kicks. It took notice of all the science fiction cliches, acknowledged them, and then twisted them to its own comedic purposes. Galaxy Quest captured not only the silliness of fandom, but the inspiration of it. In the end, the demoralized and cynical actors found strength and meaning in the same characters which stereotyped them. The geeks saved the day. The good guys won. The bad guys provided entertainment to masses of fans. Things blew up. And isn't that what science fiction is all about? The entire cast was excellent, especially Tim Allen and Alan Rickman doing their best Shatner and Nimoy impersonations. Special credit must go to the four actors who played the naive aliens. Their wide-eyed innocence reminded me of the quality that drew me, and draws children of all ages into the world of science fiction. This movie didn't rely on vulgarities or overt violence. It didn't need to resort to meanness or cruel jokes, either. While it poked fun at science fiction and its fans, it never resorted to the kind of mockery you see in other films. Galaxy Quest is a solid, funny movie. Go see it. Take the kids. Go see it twice.",
+         "I generally rate films highly based on how often and how much I'd like to watch them again. I can watch most films more than once, but only a few have the necessary qualities to watch over and over again. Comedy films are never that high on my list of \"watch agains\". After seeing a joke or comic scene once, it's hard for it to have the same impact again and again. I well recall being in tears of laughter when I first saw Airplane at the cinema. But now I find it hard going and even the inflatable pilot only raises a smile. So it's rare that a film like Galaxy Quest (a scifi comedy) comes along, but very welcome when it does. There's a lot of homage paid to Star Trek, of course, and old scifi shows in general and fans of those will have no trouble spotting the moments culled from those shows. The cast are all exemplary in their roles as ex scifi stars who get catapulted into the real thing and have to save the galaxy. Tim Allen and Sigourney Weaver give good, solid performances here. In particular, Weaver shows a talent for comedy here that was lacking in Ghostbusters. Tony Shalhoub's bumbling, out-of-his-depth technician is also a nice addition. But out of all of them two really shine for me. Alan Rickman, whose facial expressions throughout the film just have you laughing out loud without needing to listen to what's being said. And Sam Rockwell, who plays the \"extra crewman\" who's always convinced he's going to get killed, because he's a nobody and not one of the regular cast. The whole film is chock full of delightful silliness and memorable scenes, such as where they enlist the aid of geeks to navigate them through their own ship as the geeks know the plans off by heart. A great film, much underrated at the box-office and destined to become a classic.",
+         "There are very few comedies out there that manage to get laughs from all of the jokes; \"Galaxy Quest\" is one of the few films that pretty much gets them all. As corny as it sounds, the film is practically perfect in its execution. It parodies a genre that had been screaming for it for decades. It's funny from start to finish and even manages to have a heart while on the way. When the film was first released in theatres, I didn't have any desire to see it. I don't think the advertising was right for the film. I am a huge \"Star Trek\" fan and I found the advertising made the picture look stupid with juvenile humor. A co-worker insisted I see it, saying if I didn't I would regret it for the rest of my life. Luckily I didn't ignore him, because he would have been right! There are a lot of reviews for this film here, most of them positive. I am quite glad to see that I am not alone in my praise for this film. Most certainly it's not \"Citizen Kane\" by any means, but for what it is and what it is trying to do, it succeeds in every aspect. The screenplay is technically brilliant (in terms of structure, characterization, and wit!). ILM does a terrific job in the visual effects department (as they most often do), and David Newman's score not only parodies but also develops into a heartwarming action score (a paradox? I think not!). \"Galaxy Quest\" - If you haven't seen it yet and you love \"Star Trek,\" I only have to ask.....\"what ARE you.....waiting for?\"",
+         "'Galaxy Quest' couldn't be better. It's not a mockumentary, it's not a Star Trek parody. It's pure comedy based on the Star Trek legend with excellent actors and absolutely brilliant production. The visuals are magnificent. You would expect nothing but mediocre stuff for a space comedy, but this is not the case with 'Galaxy Quest'. These are the best effects for a space movie, since 'Starship Troopers'! The story is also very original and interesting. Not only jokes on thin air, but a great story nonetheless. The triumphant ending is beautiful, it elevates you! In fact, it would easily compete with the some of the best Star Trek stories of all time. Don't miss it! 10/10",
+         "The first thing that makes a good movie good is always a great story. The whole idea of actors from a long ago space series being mistaken for being the real deal by actual aliens is indeed ingenious.From there, you put together a top notch cast.They hit the nail on the head there. Tim Allen is a natural for the Jason Nesmith role.A great cast is nothing if they don't work well together.Not to worry.They are superb. This movie is an excellent twist on the old good vs.evil concept.There are movies whose ideas are so unique,you want to love them and not be disappointed.Take my word,Galaxy Quest delivers the goods.Warp speed!",
+         "A set of hammy TV actors turn up for a sci-fi convention only to be met by real aliens who, having only seen them on TV, mistake them for a real space crew. Given that Star Trek and Star Trek fans are such campy jokes to start with you don't have to have such the imagination of Charles Dickens to see there is potential here. The real surprise is that we don't get cheapo jokes, but fully formed, fully funded jokes. Indeed there is more plot and budget than many films that try play it straight. The crew being actors think there may be a buck involved and go along with what, they initially think, are over-the-top fans and before they know it they are in space having a fully formed adventure. Jokes about spacemen, mad Trekkies, transporters with side-effects, token blacks, interracial love, British thesps who detest what they do, aliens who don't have a sense of humour, characters who think they are going to be killed because they don't have a second name, and lots, lots more. Once again I stress that this subject was a sitting duck for satire, but what is amazing is how clever the script is, worse will win Oscars. And the jokes just keep coming. Not all of them funny, but the ratios of hits to misses is pleasingly high and the cast are good enough to make themselves look like idiots as well. The climax is both and funny and appropriate and had me laughing over the final credits. Highly recommended unless you are the butt of some of the film's bang-on-the-money jokes.",
+         "\"Galaxy Quest\" is an excellent feel good comedy that's enjoyable for the entire family. Even though the concept of the movie is not original anymore, the story is still enjoyable and fun enough, mainly thanks to the cast who seemed to be enjoying them selves during filming. Tim Allen is surprising good as \"William Shatner\" like captain and Alan Rickman is perfect in his role. Sigourney Weaver perfectly makes fun of her own \"Ripley\" character from the \"Alien\" movies and plays the complete opposite of this character. All the characters are fun and entertaining because they are humane instead of heroic. There also is a fine stereotype space villain. The movie perfectly makes fun of \"Star Trek\", the fans and everything else around it. Well, I'm not sure if making fun of is the right way to say it, it's more like holding up a mirror, without making the Trekkies look like complete fools. But it's a comedy so how about some laughs? Well, there are a few laughs but this movie is more of feel good, fun, entertaining comedy instead of an hilarious one. The movie also knows to be emotional at the right moments. Other thing that contribute to the greatness of this movie are the special effects and the musical score composed by David Newman. By Grabthar's hammer...what a movie. 9/10 http://bobafett1138.blogspot.com/",
+         "GALAXY QUEST (1999) ***1/2 Starring: Tim Allen, Sigourney Weaver, Tony Shalhoub, Alan Rickman, Daryl Mitchell and Sam Rockwell Directed by Dean Parisot, written by David Howard. Running Time: 104 minutes. Rated PG (for action violence and some gore, mild language, and brief sex-related material) By Blake French: As I walked out of the theater in which I screened \"Galaxy Quest,\" I thought how surprised I was to have enjoyed what seemed as a cheesy family spoof. But the film turned to be an action adventure with some really hilarious moments. I loved the film. It has qualities of a successful science fiction drama, but also contains a variety of comical characters that had the whole audience overwhelmed in laughter. \"Galaxy Quest\" is right up there with \"Toy Story\" in merit, it entertains adults and children alike, standing out as one of the year's best family films. The story details the adventures of a canceled television science fiction fantasy cast, similar in content to \"Star Trek.\" \"Galaxy Quest\" is the name of the program. In their years, the stars, including Jason Nesmith, Gwen DeMarco, Fred Kwan, Alexander Dane, and Tommy Webber, were some of the biggest, most popular names in TV. Now, their means of making a living is signing fans' autographs for a price and being cast in amateur presentations. There is very detailed character development here. The characters are wonderfully cast and brilliantly portrayed. Unfortunately, most family films don't contain the patience for such necessary material. We bond with these characters; they are likable, funny, energetic and independent. These individuals are the key of success to this kind of movie. The real plot begins when strange people come to Jason beging for him to save their existence from a powerful evil force who wishes to wipe them out of the universe forever. Naturally, at first our television star is skeptical, but when the strange people turn out to be humble aliens and transport Jason to their spaceship, he realizes this is something serious. The aliens begin to explain that they think he and his \"Galaxy Quest\" team are the only people in the universe who can save their race. He rushes to the members of his old cast and tries to justify his experience. He says that there are extraterrestrial creatures who require the help of their \"Galaxy Quest\" characters. None of his friends believe him, but once again give in when they find themselves transported off earth, onto the creature's spaceship. Of course, the aliens don't realize that their hopeful heroes are simply out of work actors, but who needs to tell them? So it is up to Commander Peter Quincy Taggart, Lt. Tawny Madison, Tech Sergeant Chen, Dr. Lazarus of Tev'Meck, and Lt. Laredo to save the day for our innocent and haunted alien life forms. \"Galaxy Quest\" is a slapstick comedy that is smart, and does not go over the edge with its humorous material. It leaves room for several other essential elements such as happiness, romance, honesty, excitement, and contains a dramatic purpose. The story is very original, and contains a firm theme of action in its premise. It also has lots of outstanding visual effects and sight gags that are effective and interesting to watch. Although the film gets a little off-track near the end, \"Galaxy Quest\" is still high energy laughs audiences will come to the theater expecting. This is one of the most victorious movies of this year in its execution of the script because we anticipate what we are going to view is a silly comic spoof. Even though parts of the film fit that definition, in the end we end up with a lot more than that. Brought to you by DreamWorks Pictures."
+      ],
+      "genres": [
+         "Action",
+         "Adventure",
+         "Comedy",
+         "Sci-Fi"
+      ],
+      "productionCompanies": [
+         "DreamWorks SKG",
+         "Gran Via Productions"
+      ],
+      "summaries": [
+         "The sci-fi television series \"Galaxy Quest\", which took place aboard the intergalactic spaceship NSEA Protector, starred Jason Nesmith as suave Commander Peter Quincy Taggert, Gwen DeMarco as sexy communications person Lt. Tawny Madison (a role which consisted solely of repeating what the computer stated, much to Gwen's annoyance), Shakespearean trained Sir Alexander Dane as alien Dr. Lazarus, Fred Kwan as engineer Tech Sgt. Chen, and Tommy Webber as child gunner Laredo. Seventeen years after the series last aired, it lives on in the hearts of its rabid fans. However, it lives on in infamy for its stars, who have not been able to find meaningful acting work since. Their current lives revolve around cashing in on however those roles will afford, which usually entails attending fan conventions or worse, such as shopping mall openings. Only Jason seems to relish his lot in life, until he finds out that his co-stars detest him because of his superior attitude as \"the Commander\", and much of the public considers him a laughing stock. Their lives change when Jason is approached by who he thinks are convention fans asking for help. They are in reality an alien race called Thermians, led by Mathesar, who have modeled their existence after the series, which they believe to be real. When Jason and then the rest of his co-stars (along with Guy Fleegman, who was killed off before the opening credits in only one episode) go along with the Thermians, Jason's co-stars who believe they are off to yet another paying gig, they learn that they have to portray their Galaxy Quest roles for real. With no scriptwriters to get them to a happy and heroic ending, they have to trust that their play acting will work, especially in dealing with the Thermian's nemesis, General Sarris. Guy in particular fears that he will go the way his character did on the series. But when they run across technical issues that they as actors didn't care anything about during the filming of the series and thus now don't know how to deal with, they need to find someone who should know what to do.",
+         "Eighteen years after their sci-fi adventure series \"Galaxy Quest\" was canceled, actors Jason Nesmith, Gwen DeMarco, Sir Alexander Dane, Tommy Webber and Fred Kwan are making appearances at sci-fi conventions and store openings in costume and character. They are wallowing in despair and at each other's throats until aliens known as Thermians arrive and, having mistaken the series for fact and consequently modeling their entire culture around it, take them into space to save them from the genocidal General Sarris and his armada.",
+         "The alumni cast of a space opera television series have to play their roles as the real thing when an alien race needs their help."
+      ],
+      "budget": 45000000
+   },
+   "movielensId": 3175,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1999-12-23",
+      "dvdReleaseDate": "2000-05-02",
+      "directors": ["Dean Parisot"],
+      "runtime": 102,
+      "movieId": 3175,
+      "title": "Galaxy Quest",
+      "mpaa": "PG",
+      "actors": [
+         "Tim Allen",
+         "Sigourney Weaver",
+         "Alan Rickman",
+         "Tony Shalhoub",
+         "Sam Rockwell",
+         "Daryl Mitchell",
+         "Enrico Colantoni",
+         "Robin Sachs",
+         "Jed Rees",
+         "Justin Long",
+         "Missi Pyle",
+         "Patrick Breen",
+         "Jeremy Howard",
+         "Sam Lloyd",
+         "Rainn Wilson",
+         "J.P. Manoux",
+         "Dian Bachar",
+         "Heidi Swedberg",
+         "Kevin McDonald",
+         "Kaitlin Cullum",
+         "Jonathan Feyer"
+      ],
+      "imdbMovieId": "0177789",
+      "originalTitle": "Galaxy Quest",
+      "genres": [
+         "Comedy",
+         "Family",
+         "Science Fiction"
+      ],
+      "youtubeTrailerIds": [
+         "VtHM77IRkus",
+         "aegnd8EwJL0"
+      ],
+      "plotSummary": "The stars of a 1970s sci-fi show - now scraping a living through re-runs and sci-fi conventions - are beamed aboard an alien spacecraft. Believing the cast's heroic on-screen dramas are historical documents of real-life adventures, the band of aliens turn to the ailing celebrities for help in their quest to overcome the oppressive regime in their solar system.",
+      "tmdbMovieId": 926,
+      "avgRating": 3.58609,
+      "releaseYear": "1999",
+      "numRatings": 16529,
+      "posterPath": "/ahpUPhVlwAWic9N0SfNkxs8e66W.jpg"
+   }
+}

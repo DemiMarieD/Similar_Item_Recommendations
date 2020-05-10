@@ -1,0 +1,642 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "show business",
+            "id": 837
+         },
+         {
+            "name": "movie business",
+            "id": 886
+         },
+         {
+            "name": "tap dancing",
+            "id": 4345
+         },
+         {
+            "name": "music",
+            "id": 6027
+         },
+         {
+            "name": "film in film",
+            "id": 9732
+         },
+         {
+            "name": "divorce",
+            "id": 15160
+         },
+         {
+            "name": "stand-up comedian",
+            "id": 33731
+         },
+         {
+            "name": "broadway",
+            "id": 156028
+         },
+         {
+            "name": "rainstorm",
+            "id": 156507
+         },
+         {
+            "name": "surgery",
+            "id": 157959
+         },
+         {
+            "name": "editing",
+            "id": 165399
+         },
+         {
+            "name": "restroom",
+            "id": 165407
+         },
+         {
+            "name": "screening room",
+            "id": 165419
+         },
+         {
+            "name": "amphetamine",
+            "id": 165420
+         },
+         {
+            "name": "prescription drug abuse",
+            "id": 165423
+         }
+      ],
+      "imdb_id": "tt0078754",
+      "video": false,
+      "title": "All That Jazz",
+      "recommendations": [
+         29376,
+         46435,
+         20325,
+         14320,
+         3086,
+         4825,
+         10403,
+         3121,
+         53408,
+         13528,
+         31527,
+         1888,
+         11426,
+         10310,
+         3111,
+         2769,
+         198,
+         14554,
+         28384,
+         396
+      ],
+      "backdrop_path": "/jcQdwJqP7UB4Kf98iZIQ6lMtYJH.jpg",
+      "revenue": 37823676,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "Joe Gideon",
+               "gender": 2,
+               "credit_id": "52fe46f09251416c75088867",
+               "name": "Roy Scheider",
+               "profile_path": "/gx1jsvIL2OCzG6TOnl7ErgD28ZU.jpg",
+               "id": 6355,
+               "order": 0
+            },
+            {
+               "cast_id": 3,
+               "character": "Angelique",
+               "gender": 1,
+               "credit_id": "52fe46f09251416c7508886b",
+               "name": "Jessica Lange",
+               "profile_path": "/hC862LK6M6mMcCnhOzIyfvTmQk4.jpg",
+               "id": 4431,
+               "order": 1
+            },
+            {
+               "cast_id": 4,
+               "character": "Audrey Paris",
+               "gender": 1,
+               "credit_id": "52fe46f09251416c7508886f",
+               "name": "Leland Palmer",
+               "profile_path": "/YJKhptxL9dHdWY7nVKsAA9fe5r.jpg",
+               "id": 80927,
+               "order": 2
+            },
+            {
+               "cast_id": 5,
+               "character": "Kate Jagger",
+               "gender": 1,
+               "credit_id": "52fe46f09251416c75088873",
+               "name": "Ann Reinking",
+               "profile_path": "/ktI8Y3Jo1WzuBjy2LLORx2LxokJ.jpg",
+               "id": 80928,
+               "order": 3
+            },
+            {
+               "cast_id": 7,
+               "character": "O'Connor Flood",
+               "gender": 2,
+               "credit_id": "52fe46f09251416c75088877",
+               "name": "Ben Vereen",
+               "profile_path": "/6BeIl5LaXnlEohqN5JyBEKxsDct.jpg",
+               "id": 26664,
+               "order": 4
+            },
+            {
+               "cast_id": 22,
+               "character": "Davis Newman",
+               "gender": 2,
+               "credit_id": "52fe46f09251416c750888cf",
+               "name": "Cliff Gorman",
+               "profile_path": "/sWCUAavM204vykyoVKW3TlRYmWF.jpg",
+               "id": 19183,
+               "order": 5
+            },
+            {
+               "cast_id": 23,
+               "character": "Michelle",
+               "gender": 0,
+               "credit_id": "52fe46f09251416c750888d3",
+               "name": "Erzsebet Foldi",
+               "profile_path": null,
+               "id": 1155690,
+               "order": 6
+            },
+            {
+               "cast_id": 24,
+               "character": "Dr. Ballinger",
+               "gender": 2,
+               "credit_id": "52fe46f09251416c750888d7",
+               "name": "Michael Tolan",
+               "profile_path": "/9tLDLYucekjPXzR8u0Vr9UYMrEb.jpg",
+               "id": 161650,
+               "order": 7
+            },
+            {
+               "cast_id": 25,
+               "character": "Joshua Penn",
+               "gender": 2,
+               "credit_id": "52fe46f09251416c750888db",
+               "name": "Max Wright",
+               "profile_path": "/2eFX28qQVvcN2uC5e8vTofJYdiG.jpg",
+               "id": 106772,
+               "order": 8
+            },
+            {
+               "cast_id": 26,
+               "character": "Jonesy Hecht",
+               "gender": 2,
+               "credit_id": "52fe46f09251416c750888df",
+               "name": "William LeMassena",
+               "profile_path": null,
+               "id": 982731,
+               "order": 9
+            },
+            {
+               "cast_id": 27,
+               "character": "Leslie Perry",
+               "gender": 0,
+               "credit_id": "52fe46f09251416c750888e3",
+               "name": "Irene Kane",
+               "profile_path": null,
+               "id": 62602,
+               "order": 10
+            },
+            {
+               "cast_id": 28,
+               "character": "Victoria",
+               "gender": 0,
+               "credit_id": "52fe46f09251416c750888e7",
+               "name": "Deborah Geffner",
+               "profile_path": "/1H3sCnDxbqwGErg8kHvfol8A1LC.jpg",
+               "id": 106807,
+               "order": 11
+            },
+            {
+               "cast_id": 29,
+               "character": "Kathryn",
+               "gender": 1,
+               "credit_id": "52fe46f09251416c750888eb",
+               "name": "Kathryn Doby",
+               "profile_path": "/9t46s8Nvj9K4e23X4pmaFjBh3sS.jpg",
+               "id": 1028288,
+               "order": 12
+            },
+            {
+               "cast_id": 30,
+               "character": "Paul Dann",
+               "gender": 2,
+               "credit_id": "52fe46f09251416c750888ef",
+               "name": "Anthony Holland",
+               "profile_path": "/1WUnO9ouSjEVjInLJWGe5ZbWNjr.jpg",
+               "id": 119778,
+               "order": 13
+            },
+            {
+               "cast_id": 31,
+               "character": "Ted Christopher",
+               "gender": 2,
+               "credit_id": "52fe46f09251416c750888f3",
+               "name": "Robert Hitt",
+               "profile_path": null,
+               "id": 166000,
+               "order": 14
+            },
+            {
+               "cast_id": 32,
+               "character": "Larry Goldie",
+               "gender": 2,
+               "credit_id": "52fe46f09251416c750888f7",
+               "name": "David Margulies",
+               "profile_path": "/gxzWJuIokIQxVfncRrPOnBbczuq.jpg",
+               "id": 8875,
+               "order": 15
+            },
+            {
+               "cast_id": 33,
+               "character": "Stacy",
+               "gender": 0,
+               "credit_id": "52fe46f09251416c750888fb",
+               "name": "Sue Paul",
+               "profile_path": null,
+               "id": 1185298,
+               "order": 16
+            },
+            {
+               "cast_id": 34,
+               "character": "Young Joe",
+               "gender": 0,
+               "credit_id": "52fe46f09251416c750888ff",
+               "name": "Keith Gordon",
+               "profile_path": "/izPEmoAyZkCBnNFXEBxg03TMnLH.jpg",
+               "id": 33054,
+               "order": 17
+            },
+            {
+               "cast_id": 35,
+               "character": "Comic",
+               "gender": 0,
+               "credit_id": "52fe46f09251416c75088903",
+               "name": "Frankie Man",
+               "profile_path": null,
+               "id": 1127494,
+               "order": 18
+            },
+            {
+               "cast_id": 36,
+               "character": "Eddie",
+               "gender": 2,
+               "credit_id": "52fe46f09251416c75088907",
+               "name": "Alan Heim",
+               "profile_path": null,
+               "id": 853,
+               "order": 19
+            },
+            {
+               "cast_id": 37,
+               "character": "Lucas Sergeant",
+               "gender": 2,
+               "credit_id": "52fe46f09251416c7508890b",
+               "name": "John Lithgow",
+               "profile_path": "/uquz3dZ0fs0lAK57lCXwxaslVkb.jpg",
+               "id": 12074,
+               "order": 20
+            },
+            {
+               "cast_id": 38,
+               "character": "Principal Dancer \"Airotica\" Sequence",
+               "gender": 1,
+               "credit_id": "53dce5bbc3a3684331001276",
+               "name": "Sandahl Bergman",
+               "profile_path": "/autibegxGq7oVvR5DGfEQL3ARoE.jpg",
+               "id": 45378,
+               "order": 21
+            },
+            {
+               "cast_id": 39,
+               "character": "Nurse Blake",
+               "gender": 1,
+               "credit_id": "53dce5dfc3a368432d0012c0",
+               "name": "CCH Pounder",
+               "profile_path": "/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg",
+               "id": 30485,
+               "order": 22
+            },
+            {
+               "cast_id": 40,
+               "character": "Assistant Insurance Man",
+               "gender": 2,
+               "credit_id": "53dce5eec3a3684331001279",
+               "name": "Wallace Shawn",
+               "profile_path": "/oGE6JqPP2xH4tNORKNqxbNPYi7u.jpg",
+               "id": 12900,
+               "order": 23
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "52fe46f09251416c75088863",
+               "name": "Bob Fosse",
+               "profile_path": "/1uMsaRjXwxqFWM7jSILn36HXzEa.jpg",
+               "id": 66777,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe46f09251416c7508887d",
+               "name": "Robert Alan Aurthur",
+               "profile_path": null,
+               "id": 47373,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe46f09251416c75088883",
+               "name": "Robert Alan Aurthur",
+               "profile_path": null,
+               "id": 47373,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe46f09251416c75088889",
+               "name": "Bob Fosse",
+               "profile_path": "/1uMsaRjXwxqFWM7jSILn36HXzEa.jpg",
+               "id": 66777,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46f09251416c7508888f",
+               "name": "Daniel Melnick",
+               "profile_path": null,
+               "id": 14942,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46f09251416c75088895",
+               "name": "Kenneth Utt",
+               "profile_path": "/8zXlrOU5Yjq0EHOjE5LDUOYH3Rs.jpg",
+               "id": 16298,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46f09251416c750888a1",
+               "name": "Alan Heim",
+               "profile_path": null,
+               "id": 853,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46f09251416c750888a7",
+               "name": "Ralph Burns",
+               "profile_path": null,
+               "id": 69343,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46f09251416c750888ad",
+               "name": "Howard Feuer",
+               "profile_path": null,
+               "id": 1530,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe46f09251416c750888b3",
+               "name": "Jeremy Ritzer",
+               "profile_path": null,
+               "id": 32400,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46f09251416c750888b9",
+               "name": "Philip Rosenberg",
+               "profile_path": null,
+               "id": 20968,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe46f09251416c750888bf",
+               "name": "Gary J. Brink",
+               "profile_path": null,
+               "id": 1155688,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe46f09251416c750888c5",
+               "name": "Edward Stewart",
+               "profile_path": null,
+               "id": 41156,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46f09251416c750888cb",
+               "name": "Albert Wolsky",
+               "profile_path": null,
+               "id": 8885,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "569cf919c3a36858dc003395",
+               "name": "Giuseppe Rotunno",
+               "profile_path": null,
+               "id": 15131,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59fc91a192514113e702d7eb",
+               "name": "Tony Walton",
+               "profile_path": null,
+               "id": 18755,
+               "department": "Art",
+               "job": "Production Design"
+            }
+         ]
+      },
+      "genres": [{
+         "name": "Drama",
+         "id": 18
+      }],
+      "popularity": 6.380518,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 16858,
+      "vote_count": 110,
+      "budget": 0,
+      "overview": "Joe Gideon is at the top of the heap, one of the most successful directors and choreographers in musical theater. But he can feel his world slowly collapsing around him - his obsession with work has almost destroyed his personal life, and only his bottles of pills keep him going.",
+      "similar": [
+         786,
+         254,
+         872,
+         525,
+         6477,
+         369557,
+         188222,
+         8944,
+         266,
+         1791,
+         13576,
+         21991,
+         9548,
+         464,
+         11949,
+         28026,
+         7944,
+         20575,
+         13015,
+         41434
+      ],
+      "original_title": "All That Jazz",
+      "runtime": 123,
+      "poster_path": "/x4ppWRGH3pfVmEsbNC8UhvZVswd.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+            "name": "Columbia Pictures",
+            "id": 5,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+            "name": "20th Century Fox",
+            "id": 25,
+            "origin_country": "US"
+         }
+      ],
+      "release_date": "1979-12-20",
+      "vote_average": 7.3,
+      "belongs_to_collection": null,
+      "tagline": "All that work. All that glitter. All that pain. All that love. All that crazy rhythm. All that jazz.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Bob Fosse"],
+      "runtime": 123,
+      "synopsis": null,
+      "writers": [
+         "Robert Alan Aurthur",
+         "Bob Fosse"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0078754/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTI1NDM2NzEzOV5BMl5BanBnXkFtZTYwMTE2Mzc5._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Roy Scheider, Jessica Lange, Leland Palmer | See full cast and crew »"],
+      "reviews": [
+         "To think that Fosse synthesized musical theater, artistic obsession, relationships, fatherhood, and satire all within the framework of a deconstructionist film musical and made it all about himself to boot (including predicting the manner of his own death) without being the least bit self-congratulatory is amazing. The film is edited beautifully; choreographed flawlessly; lit with stark colors that almost fade to black and white at times; and acted with heart and verve, especially by Roy Scheider. The film has one of the most effective uses of the zoom lens (despised by most filmmakers precisely for their inability to figure out when to use it) in film history. The shot pulls back from a lone choreographer on the stage while multitudes of bodies go flying by him, letting us feel his insurmountable task of choosing which of these people will make his show come alive. Some may say the final series of musical numbers runs long but I defy anyone these days to sustain a musical film with the same success. \"Moulin Rouge\" and \"Chicago\", excellent films that they are, play their cards fast and furious, hoping to razzle-dazzle us just long enough that we'll stay tuned. \"All That Jazz\" dares to show you a taste of musicals to come (\"Take Off With Us\") and yet insists you remember where the form came from (the Busby Berkely-esque \"Who's Sorry Now?\"). When will they come out with the DVD? We can only hope soon.",
+         "Fosse's ALL THAT JAZZ has been mistaken for a rip-off of Fellini's 8 1/2 for some time. But that is giving it short shrift as an illuminating, sobering account of one man's burnout in the face of enormous pressure from the elements of the entertainment industry which he's involved himself in, namely Broadway and the film industry. Based on Fosse's experiences directing CHICAGO on Broadway and LENNY for United Artists, it stars Roy Scheider as Fosse's always black-dressed alter ego Joe Gideon, who's long road to success has been dotted with drug addictions, one-night stands, betrayals, and show biz phoniness. Particularly of interest in this film is the strong autobiographical quality of it. Fosse did, indeed, suffer his first heart attack during this 1973/74 period of his life. The film-within-the-film, \"The Stand Up,\" is an interesting variation on LENNY (1974, with Dustin Hoffman and Valerie Perrine)---much more irritating than that movie. LENNY ended up getting great reviews, for the most part, but it must have been a tough movie for Fosse to get his hands around, especially while dealing with his failed marriage to Broadway star Gwen Verdon (portrayed here by Leland Palmer). It's certainly portrayed as such in this film. And Chicago seems to have been a challenge for him, too. He obviously thought the original script for that show was lacking (as he actually went on record as saying) and that he had to spice it up for him to become interested in it. (How fascinating would a Fosse film version of CHICAGO have been? As it was, it looks as if eventual CHICAGO director Rob Marshall screened ALL THAT JAZZ many times in order to mine its many storytelling treasures, including the main conceit that most of the film's musical numbers appear in the minds of the main characters.) Scheider has never been better and deserved real consideration as that year's Best Actor Oscar-winner (he lost, ironically, to Dustin Hoffman who won for KRAMER VS. KRAMER). He is positively channeling his director's personality, down to his constant cigarette smoking and his artsy goatee (not to mention his snaky, rakish attitudes towards personality responsibility). The fine cast also includes: John Lithgow as a rival Broadway director who may or may not take over Joe's show if he dies on the operating table; Max Wright (the dad on ALF) as the producer of Gideon's film; Sandahl Bergman (from CONAN and RED SONJA) as the lead dancer in the \"Take Off With Us\" musical number that disappoints the stage show's backers; longtime Fosse girlfriend and dancer Ann Reinking as Gideon's other serious bedmate; Cliff Gorman as Davis Newman, the lead actor in \"The Stand Up\"; the lovely Erezebet Foldi as Gideon's precocious daughter (Fosse's real daughter, Nicole, later appeared in the film version of A CHORUS LINE); Jessica Lange in her first serious role as the Angel of Death; Keith Gordon (an actor in CHRISTINE and BACK TO SCHOOL, who's now an acclaimed director of films like MOTHER NIGHT and the 2003 film adaptation of THE SINGING DETECTIVE) as the young Joe Gideon; Ben Vereen, energetic as a show-biz veteran who \"hosts\" Gideon's final decent into death. The list goes on and on.... And the tech credits are superb. The film won Oscars for its Tony Walton sets (Tony Walton has been married to Julie Andrews for years, and is an acclaimed stage and film set designer), its Alan Heim editing (Heim worked on NETWORK, among other things), its Ralph Burns scoring (which includes old jazz, classical, pop, and Broadway standards), and its Albert Wolsky costumes. Its photography, by Giuseppe Rotunno, is also great (Rotunno phtographed many Fellini films and probably had much to do with the lumping of Fosse's film in with Fellini's work). Tying in 1979 with APOCOLYPSE NOW for Cannes Palme D'Or, this is one of the greatest movies ever made, I think, and you'll know that once the first moments--a mass stage audition unbelievably well-edited to the tune of George Benson's version of \"On Broadway\"--unreel in front of you. It's an unflinching look into the madness of one artist that, eventually, became his undoing (Fosse died in 1986, in his early 60s, of another heart attack, after completing only one more movie, STAR 80, and one more stage show, BIG DEAL). See it and prepare to be moved in strange ways.",
+         "The life and times of Bob Fosse--oops! sorry!--Joe Gideon (Roy Scheider). He directs, choreographs and writes Broadway musicals and the occasional movie. He also has sex with every woman he can, is a chronic smoker...there's more but I don't want to ruin it. Basically, this is a character study and an absolutely fascinating one. This is Bob Fosse doing a movie about himself and showing his life in an extremely negative light. I saw this movie when it first came out in 1980. I thought it was one of the most depressing things I had ever seen--but went back to see it three additional times. The acting is just great all across the board--Scheider is cast against type...and pulls it off. In fact he was nominated for an Academy Award for this performance (he lost to DeNiro for \"Raging Bull\"). Jessica Lange is playing...let's call her Our Lady of the Oxygen Tank (you'll see what I mean). Seriously, she has a difficult role and plays it beautifully. The direction is superb, mixing fantasy with reality seamlessly. The songs are good and the dancing is just great (especially in one VERY erotic number about casual sex). This movie is not for everyone--I know of one theatre in which half the audience walked out demanding their money back--but, if you're game, you probably won't be able to take your eyes off the screen. Depressing but just great. Fosse's best film (even better than \"Cabaret\"!)",
+         "At the end of the seventies, Bob Fosse, director of \"Cabaret,\" created the most striking\u0097and certainly the most controversial\u0097original musical film to appear in many years\u0085 Audacious or intimidating, dazzling or simply bewildering, depending on one's point of view, \"All That Jazz\" was Fosse's extravagant homage to the musical stage he loved\u0097a love tempered by wit and irony\u0097and an autobiographical account of one man's hectic travail in the theater, ending with the ultimate experience of his death\u0085 His Joe Gideon (Roy Scheider), egotistical, selfish, and womanizing, but also guilt-ridden and striving for a perfection he can never achieve, perceives his entire life in terms of show business\u0085 This obsessive view is his gift, his burden, and his tragic flaw\u0085 \"All That Jazz\" is the most cinematic musical in a very long time\u0085 In a style clearly influenced by Italian director Federico Fellini, Fosse uses the camera with brave insurance, moving from naturalistic scenes of frenzied theatrical activity to flights of fantasy, without signaling the audience when the realism ends and the fantasy begins\u0085 Viewed entirely through Joe Gideon's brilliant, disorderly mind, the world is composed of the important people in his life\u0097his ex-wife, his present girlfriend, his young daughter, and all the slightly mad, flamboyant show people he works with, as well as figures from his past and future, most especially the ravishing young woman who represents the Angel of Death\u0085 \"All That Jazz\" has some painful moments, and is not easy to follow; it demands the attention that many viewers, irritated by Fosse's self-indulgence, were unwilling to give\u0085 Splendidly photographed, \"All That Jazz\" follows Gideon through the exhausting, driving day-to-day routine\u0085 There are a few quiet moments\u0097in one of the film's best scenes, he gives a private dance lesson to his young daughter Michelle (Erzsebet Foldi) , showing a pride and a tenderness he usually conceals\u0085 But all of his energy is given to choreographing the movie's most outstanding musical number, \"Take Off with Us.\" Brilliantly conceived, the number involves a group of dancers in sensuous choreographed movement\u0085 \"All That Jazz\" has flaws, but no musical since \"Cabaret\" has worked so assiduously to weld all the elements of a musical film into a single entity that could only be done on the screen: a personal statement that could be dismissed or even mocked but that could not be ignored\u0085",
+         "One of the best musicals ever made, it's a love song to theater and hedonism and all things Fosse. Roy Schieder does a fantastic job brings Fosse to life, making the charming womanizing cad unrepentant and lovable at the same time. Jessica Lange as 'the angel of death' is all you'd want from a grim reaper, and more. But the real standout is the vibrant editing and music- long before MTV coopted the fast and loose cutting styles that make it hard to focus, Fosse put it to good use- he doesn't just cut for shock value, he cuts WITH the music, creating images that go right into your inner rythm somehow. I don't know how he did it, but every film student in the world should study this masterpiece. Ten out of ten!",
+         "A never less than fascinating, barely fictionalized biopic about legendary choreographer and director Bob Fosse. The character in the movie is named Joe Gideon, but come on: he's in the middle of choreographing and directing a stage musical that looks an awful lot like \"Chicago,\" and he's in post-production on a film that looks an awful lot like \"Lenny.\" I think we all know who this movie is REALLY about. It's self indulgent to be sure, and a bit of a mess overall, but it's just so damned accomplished in every way that it's impossible not to sit back and enjoy the ride, however destructive that ride might be. And boy is it destructive. You're going to feel like you need to go on a rigorous exercise regimen and a system-cleansing diet after watching the Fosse stand-in in this film abuse himself to death. This movie will quickly disabuse you of any illusions about the glamour of the show business world. Roy Scheider gives the performance of his career as Joe Gideon. My other favorite performance came from Leland Palmer as Gideon's long-suffering ex-wife (and presumably Gwen Verdon stand in). These two make poignantly obvious what made them click in the first place while at the same time conveying perfectly why they can't live with one another. Ann Reinking plays Ann Reinking, one-time girlfriend to Fosse who does the same honors in the movie. And before anyone knew who she was, Jessica Lange played a very ravishing angel of death. \"All That Jazz\" isn't as tight or as powerful as Fosse's previous musical, \"Cabaret,\" but that's largely because it's so much more insular as a movie. It's really about the demons plaguing one man, and it doesn't have any broader context than that. Whether or not you like it will depend heavily on how fascinating you find the world of New York theatre, and how much you care about Joe Gideon in the first place. To his credit, Scheider is able to make Gideon an entirely sympathetic, if not entirely likable, character. And if there aren't any musical numbers to rival the razzle dazzle of the \"Mein Herr\" or \"Money, Money\" numbers from \"Cabaret,\" there are still a fair share of showstoppers in \"Jazz,\" notably a cute little duet for Reinking and the girl that plays Gideon's daughter, and the rousing opening number, in which a stage full of Broadway hopefuls audition for a show in a whirl of quick edits set to the song \"On Broadway.\" A fantastic, mesmerizing film. Grade: A",
+         "Bob Fosse's autobiographical look at his life, with Roy Scheider fabulously standing-in for Fosse as Joe Gideon, pill-popping, womanizing director-choreographer on the verge of collapse in New York City. Fosse paints himself as suspicious, paranoid, driven, indifferent, exhausted and horny. It's more than most of us want to know about the guy, who seems intent on showing us what a creep he is...but a talented creep! It's a film that doesn't particularly look good (it's a gray, chilly movie), but it has amazing musical flourishes and the self-styled bombast is actually rather amusing once you get the idea. Jessica Lange is beautiful in an early role as the Angel of Death (imagine Fosse explaining that role to her!), and Scheider's performance is really something to see (only occasionally does the camera catch him not knowing what to do). Fosse tries hard not to be pretentious, he keeps things playful and perky, and his ironic ending is wincingly funny. The film is alive and ticking--but that's not Fosse's heart, it's a time bomb. *** from ****",
+         "One of the most gleefully indulgent, self-loathing films ever made- yet watchable as a train wreck, thanks to its bravery, wit and overall excellence. Scheider is unexpectedly effective as the director's mirror image, a talented louse who deserves what he gets. I can only imagine the smirk that must have been on Fosse's face throughout this production. He doesn't ask for forgiveness, he doesn't try to justify Gideon's behavior, and he certainly didn't encourage Scheider to be sympathetic. \"You're right, I'm a bastard,\" he seems to be saying. While catchy and professional, the musical numbers (particularly the art direction and costumes) range from tasteless to bombastic- as they were intended, I think. The choreography is precise, the editing masterful, and the performances in sharp focus. These elements, plus the acerbically mournful script, make for a fascinating deconstruction of self to an extent rarely, if ever, seen in the movies. Not every artist should think himself so interesting, but thankfully, both Fosse's professional and personal life merited such honest examination. I can't think of any of our more iconic filmmakers today who have been turned the camera back on themselves in such unflinching fashion. Note: Among the direct parallels to Fosse's actual career are \"The Stand-Up\" to \"Lenny\", and Lithgow's snooty Lucas Sergeant to theatre's estimable Harold Prince.",
+         "A brilliant movie from a brilliant artist, and you'll be reminded of that constantly as you sit through All That Jazz, both in positive and negative ways. This, Fosse's fourth and also penultimate film, is his version of 8½. But the great success of Fellini's semi-autobiographical masterpiece, easily one of the five or ten best films ever made, is that its author depicts himself with the greatest humility. And not only great humility but, most importantly, honest humility (or at least believable humility). Fellini's constant self-deprecation felt like honest self-criticism, and it felt as if he was truly exposing his inner self to his audience. In All That Jazz, Fosse tries to do the same, but the self-deprecation comes off almost as back-patting. Fosse presents his alter ego, Joe Gideon (well played by Roy Scheider), as a lovable cad. Oh, he might bang every chick in sight, but it's very much applauded. I can complain about these more arrogant aspects of All That Jazz, but what is undeniable is how great a filmmaker Fosse really is. It may be extremely self-congratulatory, but, judging from this film itself and its three predecessors, it can be argued that Fosse deserved the adulation that he supplies himself. As a fan, I loved the way he incorporates semi-fictionalized versions of his previous films into this one. 1974's Lenny plays a major part, as Gideon is going through the process of editing his new film The Stand-Up throughout the film. He brings his daughter to its premier, and, it being her first R-rated movie, she thanks her dad and then asks him why that guy wanted to sleep with two women at the same time. The reference to Cabaret is less pronounced but clear, when, stemming off from the daughter's question about threesomes, Gideon flashes back briefly to himself recreating the \"Two Ladies\" number. This number, of course, was famously created for the film version of Cabaret by Fosse. I'm not 100% sure if there is a reference to Sweet Charity (which would make sense, since it bombed horribly and almost ruined Fosse's filmmaking career), but the musical number with Gideon's girlfriend and daughter begins sort of like the \"If They Could See Me Now\" number, with Shirley MacLaine in Ricardo Montelbahn's bedroom. The musical numbers are something to behold. I think this is a given in a Bob Fosse film, but every single one is breathtaking. The sexy rehearsal number, which leads into the even sexier \"Airplane\" number, would be pilfered by singer/choreographer Paula Abdul in her video \"Cold Hearted Snake.\" More silly trivia, John Lithgow was so goofy looking in his relative youth, that guy who was the captain of the Love Boat and also the dad in ALF has an important part, and Wallace Shawn, of Manhattan, My Dinner with André and The Princess Bride fame appears in the most poorly calculated scene in the movie (Fosse wasn't scrutinizing his film enough if he left it in), has one line, and it is the worst line in the entire film. Damn, I wish I could remember it! 9/10.",
+         "All that Jazz is a great film that almost seems to have dropped off the radar screen of classic musicals. The film gives us the account of a choreographer named Joe Gideon (Scheider) whose relentless way of living drives him straight into the grave. The character is based on the real life of director Bob Fosse who suffered the same fate in 1987. Gideon is a womanizing, drug abusing, perfectionist who begins each morning with the same routine. He pops a few pills, takes some Alka-Seltzer, jumps in the shower (sometimes with a cigarette in his mouth!), and declares it's \"showtime\" after giving himself one last look in the mirror. When we meet him, he's currently putting the finishing touches on a film he's just directed, and he's beginning work on a new Broadway musical. The man looks absolutely exhausted. He's always smoking. He seems on the brink of collapse from angina, and he frequently grasps his left arm apparently in an effort to determine if his heart is still beating or not. The main idea behind this film is that Gideon knows he's dying. The life he has lived has assured him only a brief stay on this earth. As the film plays out, we see how Gideon comes to grips with his impending fate. His final journey is often touching; sometimes joyful. But above all, it is compelling and once it's over, you'll probably wish Gideon had hung on longer. He seemed to have so much to live for. Even the people around him who he's hurt in life (his ex-wife and current girlfriend, for example) still are a big part of his life. He has a wonderful daughter who he's just getting to know, as well. Without him around, there would certainly be an enormous void left for all of the central characters in this film. We see him confess his life's sins to Jessica Lange who plays an angel waiting to usher him into the afterlife once he finally succumbs to his medical problems. The closer the two of them get, the closer he is to the grave. Fosse's direction is exceptional. His musical numbers (particularly Airotica) are top-drawer as you'd expect them to be. And he's never afraid to shock you with his camera-work. At one point we get an up-close and personal look at Gideon's heart surgery, and that's a bit grotesque for a musical. Remember this is the same director that showed us Dorothy Stratton's face getting blown off with a shotgun in Star 80. Fosse also understandably knows these characters better that they know themselves. By the end of the film, you really know Joe Gideon, and you feel like you've lived part of his life. Fosse saw the same fate coming to himself, and indeed it found him in 1987. We often wish exceptional individuals would stick around longer, but then again it's the way they live that makes them so exceptional. This film is highly recommended. 9 of 10 stars. The Hound."
+      ],
+      "genres": [
+         "Drama",
+         "Music",
+         "Musical"
+      ],
+      "productionCompanies": [
+         "Columbia Pictures Corporation",
+         "Twentieth Century Fox Film Corporation"
+      ],
+      "summaries": [
+         "Choreographing and picking dancers for his current show whilst editing his feature film about a stand-up comedian is getting to Joe Gideon. Without the chemical substances, he would not have the energy to keep up with his girlfriend, his ex-wife, and his special dancing daughter. They attempt to bring him back from the brink, but it's too late for his exhausted body and stress-ravaged heart. He chain-smokes, uses drugs, sleeps with his dancers and overworks himself into open-heart surgery. Scenes from his past life start to encroach on the present and he becomes increasingly aware of his mortality.",
+         "Director/choreographer Bob Fosse tells his own life story as he details the sordid life of Joe Gideon (Roy Scheider), a womanizing, drug-using dancer."
+      ],
+      "budget": 0
+   },
+   "movielensId": 2971,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1979-12-20",
+      "dvdReleaseDate": "2003-08-19",
+      "directors": ["Bob Fosse"],
+      "runtime": 123,
+      "movieId": 2971,
+      "title": "All That Jazz",
+      "mpaa": "R",
+      "actors": [
+         "Roy Scheider",
+         "Jessica Lange",
+         "Leland Palmer",
+         "Ann Reinking",
+         "Ben Vereen",
+         "Cliff Gorman",
+         "Erzsebet Foldi",
+         "Michael Tolan",
+         "Max Wright",
+         "William LeMassena",
+         "Irene Kane",
+         "Deborah Geffner",
+         "Kathryn Doby",
+         "Anthony Holland",
+         "Robert Hitt",
+         "David Margulies",
+         "Sue Paul",
+         "Keith Gordon",
+         "Frankie Man",
+         "Alan Heim",
+         "John Lithgow",
+         "Sandahl Bergman",
+         "CCH Pounder",
+         "Wallace Shawn"
+      ],
+      "imdbMovieId": "0078754",
+      "originalTitle": "All That Jazz",
+      "genres": ["Drama"],
+      "youtubeTrailerIds": [
+         "C74Pae3PpMo",
+         "g07TJ-QDY8s",
+         "SUxvqC2nIbI",
+         "KepcO8NdVYQ"
+      ],
+      "plotSummary": "Joe Gideon is at the top of the heap, one of the most successful directors and choreographers in musical theater. But he can feel his world slowly collapsing around him - his obsession with work has almost destroyed his personal life, and only his bottles of pills keep him going.",
+      "tmdbMovieId": 16858,
+      "avgRating": 3.75318,
+      "releaseYear": "1979",
+      "numRatings": 2439,
+      "posterPath": "/x4ppWRGH3pfVmEsbNC8UhvZVswd.jpg"
+   }
+}

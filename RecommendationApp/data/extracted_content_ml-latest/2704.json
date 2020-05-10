@@ -1,0 +1,575 @@
+{
+   "tmdb": {
+      "original_language": "fr",
+      "keywords": [
+         {
+            "name": "prison",
+            "id": 378
+         },
+         {
+            "name": "homeless person",
+            "id": 960
+         },
+         {
+            "name": "subway",
+            "id": 1552
+         },
+         {
+            "name": "fireworks",
+            "id": 2407
+         },
+         {
+            "name": "tramp",
+            "id": 5386
+         },
+         {
+            "name": "self-inflicted injury",
+            "id": 5836
+         },
+         {
+            "name": "snow",
+            "id": 10794
+         }
+      ],
+      "imdb_id": "tt0101318",
+      "video": false,
+      "title": "The Lovers on the Bridge",
+      "recommendations": [
+         100075,
+         162462,
+         130856,
+         14652,
+         65448,
+         123648,
+         27359,
+         209752,
+         47229,
+         57657,
+         277172,
+         215407,
+         76388,
+         4702,
+         47232,
+         169780,
+         64559,
+         49479,
+         269969,
+         118895
+      ],
+      "backdrop_path": "/ldHOTlHgk542lWIco39TB045QNR.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 3,
+               "character": "Michèle Stalens",
+               "gender": 1,
+               "credit_id": "52fe436bc3a36847f8052d77",
+               "name": "Juliette Binoche",
+               "profile_path": "/rkW6eE75Tt1i3J1s2fsIDZBW0kd.jpg",
+               "id": 1137,
+               "order": 0
+            },
+            {
+               "cast_id": 4,
+               "character": "Alex",
+               "gender": 2,
+               "credit_id": "52fe436bc3a36847f8052d7b",
+               "name": "Denis Lavant",
+               "profile_path": "/WgGsHm3IC6ocjmjslREvKKNnX3.jpg",
+               "id": 27978,
+               "order": 1
+            },
+            {
+               "cast_id": 5,
+               "character": "Hans",
+               "gender": 0,
+               "credit_id": "52fe436bc3a36847f8052d7f",
+               "name": "Klaus-Michael Grüber",
+               "profile_path": null,
+               "id": 27979,
+               "order": 2
+            },
+            {
+               "cast_id": 6,
+               "character": "La femme en voiture",
+               "gender": 1,
+               "credit_id": "52fe436bc3a36847f8052d83",
+               "name": "Edith Scob",
+               "profile_path": "/DbTl7eoRq2rFmRbXuIi9i2lJjz.jpg",
+               "id": 27980,
+               "order": 3
+            },
+            {
+               "cast_id": 7,
+               "character": "L'homme en voiture",
+               "gender": 0,
+               "credit_id": "52fe436bc3a36847f8052d87",
+               "name": "Georges Aperghis",
+               "profile_path": null,
+               "id": 27981,
+               "order": 4
+            },
+            {
+               "cast_id": 8,
+               "character": "L'ami clochard / Alex's vagrant friend",
+               "gender": 0,
+               "credit_id": "52fe436bc3a36847f8052d8b",
+               "name": "Daniel Buain",
+               "profile_path": null,
+               "id": 27982,
+               "order": 5
+            },
+            {
+               "cast_id": 9,
+               "character": "Marion",
+               "gender": 0,
+               "credit_id": "52fe436bc3a36847f8052d8f",
+               "name": "Marion Stalens",
+               "profile_path": null,
+               "id": 27983,
+               "order": 6
+            },
+            {
+               "cast_id": 24,
+               "character": "Julien",
+               "gender": 0,
+               "credit_id": "566a000892514173830020f5",
+               "name": "Chrichan Larsson",
+               "profile_path": null,
+               "id": 1547365,
+               "order": 7
+            },
+            {
+               "cast_id": 25,
+               "character": "La marinière / Barge operator",
+               "gender": 0,
+               "credit_id": "566a0011c3a36834c10029b4",
+               "name": "Paulette Berthonnier",
+               "profile_path": null,
+               "id": 1547366,
+               "order": 8
+            },
+            {
+               "cast_id": 26,
+               "character": "Le marinier / Barge operator",
+               "gender": 0,
+               "credit_id": "566a001bc3a36834c10029bb",
+               "name": "Roger Berthonnier",
+               "profile_path": null,
+               "id": 1547367,
+               "order": 9
+            },
+            {
+               "cast_id": 27,
+               "character": "Le pompier",
+               "gender": 0,
+               "credit_id": "566a002cc3a368535a001a3f",
+               "name": "Michel Vandestien",
+               "profile_path": null,
+               "id": 72588,
+               "order": 10
+            },
+            {
+               "cast_id": 28,
+               "character": "Un endormi",
+               "gender": 0,
+               "credit_id": "566a003692514169e2002473",
+               "name": "Georges Castorp",
+               "profile_path": null,
+               "id": 1547368,
+               "order": 11
+            },
+            {
+               "cast_id": 29,
+               "character": "Un endormi",
+               "gender": 0,
+               "credit_id": "566a003fc3a368535a001a45",
+               "name": "Marc Desclozeaux",
+               "profile_path": null,
+               "id": 1547369,
+               "order": 12
+            },
+            {
+               "cast_id": 30,
+               "character": "Un endormi",
+               "gender": 0,
+               "credit_id": "566a004a9251415eed00255f",
+               "name": "Alain Dahan",
+               "profile_path": null,
+               "id": 1093088,
+               "order": 13
+            },
+            {
+               "cast_id": 31,
+               "character": "Un endormi",
+               "gender": 0,
+               "credit_id": "566a0052c3a36834c10029cc",
+               "name": "Pierre Pessemesse",
+               "profile_path": null,
+               "id": 1547370,
+               "order": 14
+            },
+            {
+               "cast_id": 32,
+               "character": "Un endormi",
+               "gender": 0,
+               "credit_id": "566a005b925141664f002395",
+               "name": "Maître Bitoun",
+               "profile_path": null,
+               "id": 1547371,
+               "order": 15
+            },
+            {
+               "cast_id": 33,
+               "character": "Un endormi",
+               "gender": 0,
+               "credit_id": "566a0066925141664f00239c",
+               "name": "Johnny Aldama",
+               "profile_path": null,
+               "id": 1547372,
+               "order": 16
+            },
+            {
+               "cast_id": 34,
+               "character": "Le colleur d'affiches",
+               "gender": 0,
+               "credit_id": "566a006fc3a36836b400653b",
+               "name": "Jean-Louis Airola",
+               "profile_path": null,
+               "id": 1531277,
+               "order": 17
+            },
+            {
+               "cast_id": 35,
+               "character": "Commissaire",
+               "gender": 0,
+               "credit_id": "566a00789251417411006a3a",
+               "name": "Albert Prévost",
+               "profile_path": null,
+               "id": 1209226,
+               "order": 18
+            },
+            {
+               "cast_id": 36,
+               "character": "Le juge",
+               "gender": 0,
+               "credit_id": "566a00809251417411006a3d",
+               "name": "Marc Maurette",
+               "profile_path": null,
+               "id": 41713,
+               "order": 19
+            },
+            {
+               "cast_id": 37,
+               "character": "Voix off (voice)",
+               "gender": 1,
+               "credit_id": "566a008ac3a368535a001a4f",
+               "name": "Marie Trintignant",
+               "profile_path": "/27apFXn2nZMl5FpDNXAOdpePDiR.jpg",
+               "id": 39689,
+               "order": 20
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe436bc3a36847f8052d6d",
+               "name": "Leos Carax",
+               "profile_path": "/xPAPCci3rPc2CDD8ipUWWBZHnOM.jpg",
+               "id": 27977,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5669ff319251415ec50024bc",
+               "name": "Leos Carax",
+               "profile_path": "/xPAPCci3rPc2CDD8ipUWWBZHnOM.jpg",
+               "id": 27977,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "55200f07c3a36812ee0012e1",
+               "name": "Jean-Yves Escoffier",
+               "profile_path": null,
+               "id": 6626,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5669ff3c9251415ec50024bf",
+               "name": "Christian Fechner",
+               "profile_path": null,
+               "id": 11203,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5669ff44c3a3682647001d84",
+               "name": "Albert Prévost",
+               "profile_path": null,
+               "id": 1209226,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5669ff4d9251417411006a02",
+               "name": "Hervé Truffaut",
+               "profile_path": null,
+               "id": 65006,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5669ff5dc3a368535a0019f9",
+               "name": "Alain Dahan",
+               "profile_path": null,
+               "id": 1093088,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5669ff69c3a3683699006a4e",
+               "name": "Bernard Artigues",
+               "profile_path": null,
+               "id": 71304,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5669ff73c3a368535a0019fb",
+               "name": "Nelly Quettier",
+               "profile_path": null,
+               "id": 1016336,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5669ff7dc3a3683699006a52",
+               "name": "Michel Vandestien",
+               "profile_path": null,
+               "id": 72588,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5669ff84c3a3682e98001b89",
+               "name": "Franck Schwarz",
+               "profile_path": null,
+               "id": 23981,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5669ff8b92514173830020dc",
+               "name": "Irène Galitzine",
+               "profile_path": null,
+               "id": 1169388,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5669ff939251415eed002541",
+               "name": "Robert Nardone",
+               "profile_path": null,
+               "id": 1547362,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5669ff9cc3a368535a001a04",
+               "name": "Isabelle Legay",
+               "profile_path": null,
+               "id": 1547363,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5669ffa39251415ec50024cd",
+               "name": "Valérie Tranier",
+               "profile_path": null,
+               "id": 1547364,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Romance",
+            "id": 10749
+         }
+      ],
+      "popularity": 4.647569,
+      "production_countries": [{
+         "iso_3166_1": "FR",
+         "name": "France"
+      }],
+      "id": 2767,
+      "vote_count": 66,
+      "budget": 28000000,
+      "overview": "Set against Paris' oldest bridge, the Pont Neuf, while it was closed for repairs, this film is a love story between two young vagrants: Alex, a would be circus performer addicted to alcohol and sedatives and Michele, a painter driven to a life on the streets because of a failed relationship and an affliction which is slowly turning her blind.",
+      "similar": [
+         1368,
+         107846,
+         1429,
+         5925,
+         281957,
+         9291,
+         104,
+         275,
+         372343,
+         76640,
+         1701,
+         708,
+         10447,
+         5971,
+         13291,
+         44363,
+         10398,
+         29381,
+         903,
+         29259
+      ],
+      "original_title": "Les Amants du Pont-Neuf",
+      "runtime": 125,
+      "poster_path": "/xz00yDmTtGr3Uy3PEiopenQH2Zh.jpg",
+      "spoken_languages": [{
+         "name": "Français",
+         "iso_639_1": "fr"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Les Films Christian Fechner",
+            "id": 461,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Films A2",
+            "id": 875,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Gaumont International",
+            "id": 7961,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1991-10-16",
+      "vote_average": 7.4,
+      "belongs_to_collection": null,
+      "tagline": "Romance... In a most unlikely place.",
+      "adult": false,
+      "homepage": "http://www.juliettebinoche.net/les-amants-du-pont-neuf.html",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "France",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Leos Carax"],
+      "runtime": 125,
+      "synopsis": null,
+      "writers": ["Leos Carax"],
+      "originalLanguage": "French",
+      "imdbLink": "http://www.imdb.com/title/tt0101318/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTgwMzQ4ODAzNl5BMl5BanBnXkFtZTcwOTg3MDMyMQ@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Juliette Binoche, Denis Lavant, Daniel Buain | See full cast and crew »"],
+      "reviews": [
+         "Of the four feature films from French writer-director Leos Carax, 1991 \"Les Amants du Pont-Neuf\" is the most hopeful and happy (mind you it's not the generic definition of 'happy' per se), still a story of love, an extraordinary loving relationship maturing through time and fateful instances as the film progresses. You might even agree afterall, that the whole journey of experience is rather satisfying. Director Leos Carax once again demonstrated a feast of his talented visual eye: things, faces, scenes, close-ups, aerial or simple wide shots, are composed, captured within the frames, graphically presented. He optimized the use of colors and movements: a fete of lights and fireworks celebrations, dazzling fire-eating shows, caressing shots of waves in motion of zigzagging speed boat and water-skiing. Carax sure didn't water down any sentiments - he used bold strokes with no apology: his intro showed us the 'unpleasant' side of Paris, the dream city of Europe has homeless and sights of street people, too. Binoche, as always, dependably delivered an intense portrayal of this artist, Michele, on the verge of going blind (note the ending credits roll indicating the paintings were done by Juliette Binoche herself), and as the story unfolds, has a past mesmerizingly mysterious to Lavant's Alex character. Again captured on film is Denis Lavant's legs a-moving within a frame running, dancing. Reminiscent of Truffaut and Jean-Pierre Leaud's Antoine filmic partnership - Lavant is Alex in three of Carax' endeavors: \"Boy Meets Girl\" 1984; \"Bad Blood\" 1986; and here in \"The Lovers on the Bridge.\" (To see Denis Lavant away from his 'boyish' roles, try French director Claire Denis' 1999 \"Beau Travail\" - another intense delivery, and we actually get to see more of Lavant's solo legwork a-dancing.) Yes, it's quite an ambitious film. Carax packed a lot of layers of emotions, spins and details, along with stunning visual angles and photographic magic in this one story. He is truly a passionate filmmaker and dramatic writer. Binoche and Lavant performed terrifically well together, and the third character, Klaus Michael Gruber as Hans the homeless senior also with a mysterious past, added accents with his performance. The sequence towards the end, first you get the telling of a joke with hearty laughter, then the fateful phrase of \"ce soir c'est le soir\", to the underwater sequence and what follows - Carax would not let up with any moment for you, the audience, to breathe after laughs and gasps. Choreographed magic? Yes. Go see it for yourself. Hang in there with the pair and you will not be disappointed. Have an open mind and you'll enjoy it.",
+         "Obsession, addiction, violence and love. Sometimes all four at the same time. If nothing else, this movie is a complete roller-coaster ride through the emotions. It's hard to say whether it's really a love story. Is it love when you want to possess someone to the point where you would rather they go blind than go away? Is it love to want to drag someone down with you to bottom of your own degradation? Is it love when you would take someone's life because they wanted to go home? But then again, is it love when you allow all this to happen and still come back for more? I have my doubts. This is really a story of obsession and possession between two people who find themselves marooned out on the edge of human existence. They find something like tenderness, something like love by holding on to each other like two children lost in the dark woods. But obsession is ultimately destructive and so it is here. Alex wants Michelle but never really shows any real tenderness. He has nothing to offer except cheap wine and an old overcoat. He is destructive, violent and child-like. The relationship between Alex and Michelle is quite impossible to comprehend sometimes. What this movie does have is passion. But this is real life passion. Real and raw. If you ever see real people like Alex and Michelle, and they do exist, you can see how they cling to each other, how they abuse each other, how they are possessed by their lifestyle, unable or unwilling to fight their way out of their humiliation. So in the end they just drag each further down, drowning in hopelessness. But just as you think the story is going to end in tragedy...well you have to watch it for yourself. The cinematography in this movie is breathtaking at times, but in a very unconventional way. It is beautiful to watch even though there is precious little that is attractive. Paris looks by turns both shiny and exciting and then dark, grey and filthy. Which, if you've been there, you will know is exactly how it is. There is not a single shot of any famous Parisian landmark either. Only the river Seine and the bridges around Pont Neuf are part of the landscape in this story. It's really an ensemble piece for two characters; two characters caught up in obsession, possession and some kind of love story. The two lead actors, Juliette Binoche and Dennis Levant produce performances of real emotional power and subtlety. There is nothing coming out of Hollywood to match movies like this, nor are there many actors, if any, who could get close to performances like these. One day the Academy will begin to recognise that acting and movies is not just about box office returns and bestow their awards on movies like this.",
+         "The Lovers on the Bridge boldly reminded me this is what cinema is all about. Strong performances, exceptional cinematography, and wonderfully creative direction highlight this truly \"must see\" movie. There are many scenes in this film which actually took my breath away and some of the music did the same. The story and characters are disturbingly brutal but that is offset by some amazing imagery. My highest recommendation!",
+         "There's a lot to say here about the performances of Juliette Binoche and Denis Lavant. Lavant is always good in Carax's films; here he is simply outstanding. And seeing Binoche play a character with dimension, for once, is a pleasure. The real surprise is Klaus-Michael Gruber whose Hans is perhaps the most believable aspect of the film. But what draws me to this film--tied for best of what I've seen Carax do, along with \"Mauvais Sang\"--is the photography, sound and editing. Carax understands the use of image in narrative, and how to bring discordant scenes together to provide the sense of desperation needed to make this love story, so far removed from mainstream film romance, believable and engaging. From the opening soundtrack to the climactic scenes given over by his masterful use of jump cuts, Carax outdoes others, some long-established, who came late on the scene with these tools (Bertolucci; Soderbergh). What Carax started craft-wise with \"Boy Meets Girl\" he perfect in \"Les Amants du Pont Neuf.\" If Lavant, Binoche and Gruber are not reason enough to rent this film, then Carax's pictorial ideas, carried through with his incredible sense of craft, should more than suffice. Sad that the film has suffered so quietly without major recognition, when, clearly, others have borrowed from it so willingly.",
+         "This French film is actually one of the best films of the decade. Unfortunately it was hampered by budget problems and never made its money back. So it got this bad reputation. Of course, the subject matter dealing with an intense love story between two homeless people might be a subject some don't care to see. It stars Juliette Binoche (before she was much known in the U.S.) as a one-eyed homeless artist who falls in love with a disturbed street punk. They spend their days and nights on a bridge that's been closed for renovation.The film builds a lot of tension around the madness of the love affair. Binoche's character is going blind and she needs help but the street punk is so obsessed with her he won't let her be go. Stylistically it is very flamboyant and bold especially in it's editing and shot selections. And that may be why some don't like it. The love story too is hard to believe but most love stories rely on a leap of faith so that's nothing new. Like any great film it takes narrative and stylistic chances but if you're a cineaste you'll most likely enjoy it.",
+         "The film begins on a crossroads, where a blind Juliet Binoche fist encounters Denis Lavant's seemingly schizophrenic vagrant and their relationship begins. With this, even the most disinterested of viewers will be able to appreciate that the particular setting, much like the rest of the film, has a stark significance. Les Amants du Pont-Neuf (1991) was the third film from firebrand filmmaker Leos Carax, and one that shows an obvious attempt to build on the ground previously covered in his first two films, Boy Meets Girl (1984) and Mauvais Sang (1986), whilst simultaneously allowing himself the room for growth and creative development. Besides being a fairly successful combination of superfluous fantasy and biting social realism, the film remains something of an intriguing experiment into the juxtaposition of tone, the malleability of character and the cinematic use of architecture as a model for the plot; while simultaneously standing as an affecting and uncharacteristic romantic-drama in its own right. Nonetheless, it is that bold use of design and the bolder integration of such concerns as expressed within the narrative itself that makes the film something to be experienced. The bridge here is more than just a mere setting; it is a symbol for our two protagonists. Most directors would have used this grand vision of design in all its historical splendour, to comment on the prosperous-nature of the country in an ironic fashion, and of the ample possibilities of its characters. Instead, Carax shows us a structure that is tired, worn and close to collapse. As the film progresses, note how the restoration of the Pont-Neuf comes to mirror the restoration and rehabilitation of the central duo. Their final union sees all three 'characters' cleansed and rejuvenated, whilst the crossroad is now open to allow their two very different worlds to collide. It is brilliantly captured by Carax, who once again uses the locations in a way that is entirely expressive; while all along showing a complete understanding of the relationship between the camera and the design that is truly unlike anything else demonstrated in his work, both before and since. One of the most striking sequences here involves the lovers getting drunk and descending into childlike revelry, while a hundred years of cultural evolution is expressed through a densely layered soundtrack. We also have possibly the greatest use of fireworks in any film, as the duo steal a speedboat during the celebrations of the French Bicentennial; with the combination of music and movement, energy and spirit bringing to mind the night time walk that Alex takes in Boy Meets Girl (as Bowie plays on his over-sized headphones and kissing couples are treated with all the reverence of a talented street-musician) or the iconic \"run down the street\" scene from Mauvais Sang (with Bowie again scoring a defiant burst of unrequited love articulated as a wordless burst of physical expression). Bowie again features here, along with a character called Alex (again played by Lavant), but this certainly isn't a retread of the director's earlier achievements. Many critics have continually argued that the combination of mental illness and skid-row misery with declarations of love and happiness against scenes of deliberate, fantastical exaggeration is all decidedly problematic in tone. Again, these same accusations have been levelled against everything from New York, New York (1977) to The Moon in the Gutter (1983), with the natural shock of the harsh contrast between content and form no doubt jarring the audience out of their usual, expected comfort zones. It is almost unheard of in the more recognisable cinema of Hollywood to expect a romantic drama to open with a scene set in a homeless shelter, where wizened, naked men stand prostrate under shower heads, or moments of unrequited love and ennui are expressed in bursts of unprovoked violence and shocking brutality. Naturally, the film was a spectacular failure on release and soured Carax's interest in film indefinitely (only one film in the subsequent seventeen years); but for me, the legacy of Les Amants du Pont-Neuf, as both an experience and a creative excess, is more potent now than it ever was before. Although you could certainly argue that Les Amants is a somewhat flawed work in comparison to the director's smaller projects, most notably, the controversial POLA X (1999), it remains so simply as a result of aiming too high. However, regardless of such slight limitations, it is what cinema should be; an expression, of ideas and emotions that are inventive, funny, shocking, beautiful, gritty and continually enigmatic, and all tied to the director's repeated allusions to the work of Jean Luc Godard, R.W. Fassbinder, Scorsese and Jean Vigo. Regardless of its reputation as a costly flop or a work of pure self-indulgence, Les Amants du Pont-Neuf remains a film unlike any other; an epic love story cast against a backdrop of depression and desperation and the same kind of bold, cinematic evocations that Carax's work is celebrated for.",
+         "I found this movie by serendipity at Blockbuster, while I was searching for another Juliette Binoche title. I had to turn it off after an hour, because I was so overwhelmed. I finished it later of course, and was uplifted. The cinematography was breathtaking. It was also one of the most original films I've ever seen. Three homeless people live on a bridge, including an old man, a fire-breathing street performer, and an artist who is, ironically, going blind (i believe by macular degeneration). I don't want to spoil any of the action, but watch for an amazing scene in a subway hallway. And the two lovers, who seem so unlikely to get together at the beginning, bond convincingly throughout the film. Also, watch for two scenes were later recycled for movies which won best picture. Juliet Binoche and the old man visit a museum so she can look at a painting by candlelight (a la' The English Patient) and a scene ripped off for Titanic. It's great, but don't expect to just relax while watching it--it's a thinker's movie.",
+         "This is one of the great romances precisely because it goes against the grain of all the great screen romances. Because of its ability to strike new terrain -- to go where no romance has gone before, to take chances, in essence -- it achieves a level of passionate intensity that most romantic films could only dream of mustering. The camera work -- by Jean-Yves Escoffier, one of the great cinematographers working today (who shot Leos Carax's early films -- \"Bad Blood\" and \"Boy Meets Girl\" -- as well as Larry Clark's \"Kids,\" and the directorial debut of Harmony Korine, \"Gummo\") -- is absolutely breathtaking. I cannot overemphasize this. It is, perhaps, one of the most beautiful color films ever made. The style of the film suits the subject matter perfectly. It proves that the great films have a form that not only compliments the subject matter, but becomes it. The content is the form, and vise versa. The film is shot \"Cinema-Verite\" style, with rough, hand-held, choppy camerawork, and a gritty, realistic aesthetic quality. There are moments of fancy and surrealism that would seem to utterly contradict this style. On the contrary, these moments are rendered believable, avoid presenting problems of logic, because of the film's harsh, balancing tone. The \"wild\" style of the film captures perfectly the passionate, stormy affair of the lovers -- the truest love, and certainly the most passionate, the film says, is that closest to nature, to the base element of humanity. Another layer of enjoyment comes from the film's similarity to Jean Vigo's \"L'Atlante.\" In fact, the final sequence in the film has the two lovers plummeting from the bridge into the cold water. They are picked up by a sand barge, on its final trip to the ocean. The husband and wife, who we learn have spent their life shipping sand, agree to take them along. It is almost as if the couple in \"L'Atlante\" have reappeared to prove that passionate, tumultuous love affairs can end happily, despite their problems. One of the last shots of the film shows the two lovers walking across the barge, over the hills of sand, to the bow -- a direct quotation of \"L'Atlante.\" The last shot (for enemies of James Cameron's \"Titanic\" -- an absolutely shallow romance; as cold and heartless as the iceberg that dooms the ship) shows the two lovers hovering over the bow of the ship, magically, as if suspended by love. It is obvious James Cameron plagiarized this moment (\"Les Amants...\" came out in 1991). This fact should be trumpeted far and wide. \"Titanic\" is a bloated whale of a movie. \"Les Amants du Pont Neuf\" is simply the greatest romance to have erupted on the screens in the last decade.",
+         "The third feature film by French screenwriter, film critic and director Leos Carax which underwent a complicated production process and took three years to complete, is an archetypal love-story set at a bridge undergoing reparation at Pont-Neuf in Paris, where painter Michèle who has recently left her boyfriend and fire-swallower Alex who is addicted to tranquilizing pills and alcohol coincidentally meet and form a relationship. This unusual romance about two opposite vagabonds crashing into one and other during the days leading up to the Bicentennial celebrations in France 1989, is noticeable for it's varied use of music, fine cinematography, fast editing, good pace and diverse filming. However, much of this films greatness comes from the terrific performances by Denis Lavant and Juliette Binoche, whose magnetic presence turns this unorthodox love-story into a gripping character drama. The scenes they share stand out as the highlights of this film and they were passionately filmed and written by Leos Carax, who had to overcome severe financial difficulties in order to get the film made.",
+         "...but what style! The most expensive French film ever made when it came out, this film features some spectacular set-pieces, particularly the French bi-centennial celebrations that provide a backdrop. It has its weaknesses, but when I saw this in the cinema I was blown away. Denis Lavant puts in a particularly strong performance as Alex, the depressive and tender down-and-out obsessed with Binoche's Michele. Watch it, even if you find nothing else in it, the visuals are astonishing."
+      ],
+      "genres": [
+         "Drama",
+         "Romance"
+      ],
+      "productionCompanies": [
+         "Films A2",
+         "Gaumont International",
+         "Les Films Christian Fechner"
+      ],
+      "summaries": [
+         "Set against Paris' oldest bridge, the Pont Neuf, while it was closed for repairs, this film is a love story between two young vagrants: Alex, a would be circus performer addicted to alcohol and sedatives and Michele, a painter driven to a life on the streets because of a failed relationship and an affliction which is slowly turning her blind. The film portrays the harsh existence of the homeless as Alex, Michele and Hans, an older vagrant survive on the streets with their wits. As they both slowly get their lives back together, Michele becomes increasingly dependent on Alex as her vision deteriorates further. Fearing that Michele will leave him if she receives a new medical treatment Alex attempts to keep Michele practically a prisoner. The streets, skies and waterways of Paris are used as a backdrop to the story in a series of stunning visuals which dominate the film.",
+         "Alex, who's homeless and addicted to alcohol, and Michèle, who's losing her sight, form a relationship while sleeping rough on Paris's Pont-Neuf bridge."
+      ],
+      "budget": 28000000
+   },
+   "movielensId": 2704,
+   "movielens": {
+      "languages": ["Français"],
+      "releaseDate": "1991-10-16",
+      "dvdReleaseDate": "2004-01-13",
+      "directors": ["Leos Carax"],
+      "runtime": 125,
+      "movieId": 2704,
+      "title": "The Lovers on the Bridge",
+      "mpaa": "",
+      "actors": [
+         "Juliette Binoche",
+         "Denis Lavant",
+         "Klaus-Michael Grüber",
+         "Edith Scob",
+         "Georges Aperghis",
+         "Daniel Buain",
+         "Marion Stalens",
+         "Chrichan Larsson",
+         "Paulette Berthonnier",
+         "Roger Berthonnier",
+         "Michel Vandestien",
+         "Georges Castorp",
+         "Marc Desclozeaux",
+         "Alain Dahan",
+         "Pierre Pessemesse",
+         "Maître Bitoun",
+         "Johnny Aldama",
+         "Jean-Louis Airola",
+         "Albert Prévost",
+         "Marc Maurette",
+         "Marie Trintignant"
+      ],
+      "imdbMovieId": "0101318",
+      "originalTitle": "Les Amants du Pont-Neuf",
+      "genres": [
+         "Drama",
+         "Romance"
+      ],
+      "youtubeTrailerIds": [],
+      "plotSummary": "Set against Paris' oldest bridge, the Pont Neuf, while it was closed for repairs, this film is a love story between two young vagrants: Alex, a would be circus performer addicted to alcohol and sedatives and Michele, a painter driven to a life on the streets because of a failed relationship and an affliction which is slowly turning her blind.",
+      "tmdbMovieId": 2767,
+      "avgRating": 3.51673,
+      "releaseYear": "1991",
+      "numRatings": 538,
+      "posterPath": "/xz00yDmTtGr3Uy3PEiopenQH2Zh.jpg"
+   }
+}

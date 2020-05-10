@@ -1,0 +1,521 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "the muppets",
+            "id": 12998
+         },
+         {
+            "name": "kermit the frog",
+            "id": 155354
+         },
+         {
+            "name": "marretas",
+            "id": 210376
+         }
+      ],
+      "imdb_id": "tt0082474",
+      "video": false,
+      "title": "The Great Muppet Caper",
+      "recommendations": [
+         11899,
+         11176,
+         10208,
+         10874,
+         10437,
+         20910,
+         18509,
+         15413,
+         22466,
+         16806,
+         11639,
+         26261,
+         31718,
+         38147,
+         2620,
+         15171,
+         13665,
+         23939,
+         26603,
+         17009
+      ],
+      "backdrop_path": "/uQXsnVpBV76lqK8XfwIQR9wgzSA.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Kermit the Frog",
+               "gender": 2,
+               "credit_id": "52fe46269251416c7506ed45",
+               "name": "Jim Henson",
+               "profile_path": "/2OWxHy8MPdaSiLN8Vt0siC0hdr4.jpg",
+               "id": 55983,
+               "order": 0
+            },
+            {
+               "cast_id": 3,
+               "character": "Miss Piggy, Fozzie Bear, Animal",
+               "gender": 2,
+               "credit_id": "52fe46269251416c7506ed4f",
+               "name": "Frank Oz",
+               "profile_path": "/aLH5bYwMIlVxCe4rIDaEsVJqDKn.jpg",
+               "id": 7908,
+               "order": 1
+            },
+            {
+               "cast_id": 4,
+               "character": "Gonzo, Beauregard, Dr. Bunson Honeydew",
+               "gender": 2,
+               "credit_id": "52fe46269251416c7506ed53",
+               "name": "Dave Goelz",
+               "profile_path": "/hVfv7gsUPDRDFxUk7fyCktIL7Ar.jpg",
+               "id": 64181,
+               "order": 2
+            },
+            {
+               "cast_id": 5,
+               "character": "Floyd Pepper, Pops",
+               "gender": 2,
+               "credit_id": "52fe46269251416c7506ed57",
+               "name": "Jerry Nelson",
+               "profile_path": "/pJGDnYken7kbxNl9sXGqxgEanP.jpg",
+               "id": 68455,
+               "order": 3
+            },
+            {
+               "cast_id": 6,
+               "character": "Scooter, Statler, Janice, Beaker",
+               "gender": 2,
+               "credit_id": "52fe46269251416c7506ed5b",
+               "name": "Richard Hunt",
+               "profile_path": "/g1Qj4PAJJNKFm1oR8y4AI1gJWOL.jpg",
+               "id": 68456,
+               "order": 4
+            },
+            {
+               "cast_id": 7,
+               "character": "Nicky Holiday",
+               "gender": 2,
+               "credit_id": "52fe46269251416c7506ed5f",
+               "name": "Charles Grodin",
+               "profile_path": "/8lHT8QePWTpSfw0DQJ5k8YUuZt1.jpg",
+               "id": 28164,
+               "order": 5
+            },
+            {
+               "cast_id": 8,
+               "character": "Lady Holiday",
+               "gender": 1,
+               "credit_id": "52fe46269251416c7506ed63",
+               "name": "Diana Rigg",
+               "profile_path": "/uE6T555B1BtlKqemVLVjM4XcUC5.jpg",
+               "id": 10168,
+               "order": 6
+            },
+            {
+               "cast_id": 9,
+               "character": "Neville",
+               "gender": 0,
+               "credit_id": "52fe46269251416c7506ed67",
+               "name": "John Cleese",
+               "profile_path": "/kg63gNYQtGPi2fSNIvCnVAclCbi.jpg",
+               "id": 8930,
+               "order": 7
+            },
+            {
+               "cast_id": 10,
+               "character": "British Gentleman by Pond",
+               "gender": 2,
+               "credit_id": "5481f2029251416e7b005fad",
+               "name": "Robert Morley",
+               "profile_path": "/7R4jQRl8CTFYCYpiQ1O2AjYtiK6.jpg",
+               "id": 6599,
+               "order": 8
+            },
+            {
+               "cast_id": 12,
+               "character": "Truck Driver",
+               "gender": 2,
+               "credit_id": "5481f2239251416e780064f9",
+               "name": "Peter Ustinov",
+               "profile_path": "/8Lv4g3ZPVSM1ckKk15OnryX8sL7.jpg",
+               "id": 14501,
+               "order": 9
+            },
+            {
+               "cast_id": 11,
+               "character": "Mike Tarkenian",
+               "gender": 2,
+               "credit_id": "5481f213c3a36829a300662f",
+               "name": "Jack Warden",
+               "profile_path": "/pD98exbwlD4f9QmQd0N8Sa7j6pw.jpg",
+               "id": 5251,
+               "order": 10
+            },
+            {
+               "cast_id": 18,
+               "character": "Charkie's Water Ballet Performer",
+               "gender": 1,
+               "credit_id": "5592fc4f92514124b600128b",
+               "name": "Susan Backlinie",
+               "profile_path": "/vUOufZY0zuXHGXSu9IVSzPRMERV.jpg",
+               "id": 8610,
+               "order": 11
+            },
+            {
+               "cast_id": 19,
+               "character": "Dorcas",
+               "gender": 1,
+               "credit_id": "58d496319251411f810213ef",
+               "name": "Joan Sanderson",
+               "profile_path": "/yutQEI66F6tPoYJmDs01P5VozU0.jpg",
+               "id": 1218558,
+               "order": 12
+            },
+            {
+               "cast_id": 20,
+               "character": "Tramp",
+               "gender": 2,
+               "credit_id": "58d4965ec3a368121b01eb1e",
+               "name": "Peter Falk",
+               "profile_path": "/mjgykviG6rY2WlF14aeDRsvVA6x.jpg",
+               "id": 2314,
+               "order": 13
+            },
+            {
+               "cast_id": 21,
+               "character": "Street Dancer",
+               "gender": 0,
+               "credit_id": "58d4966ec3a368125f020036",
+               "name": "Danny John-Jules",
+               "profile_path": "/vAXwBWlPxNv2tQwFTtfeeF23RuT.jpg",
+               "id": 115787,
+               "order": 14
+            },
+            {
+               "cast_id": 22,
+               "character": "Marla",
+               "gender": 1,
+               "credit_id": "5974ed36c3a3685dba017ef8",
+               "name": "Erica Creer",
+               "profile_path": null,
+               "id": 987186,
+               "order": 15
+            },
+            {
+               "cast_id": 23,
+               "character": "Carla",
+               "gender": 1,
+               "credit_id": "5974ed42925141584301ad4f",
+               "name": "Kate Howard",
+               "profile_path": null,
+               "id": 1743484,
+               "order": 16
+            },
+            {
+               "cast_id": 24,
+               "character": "Darla",
+               "gender": 0,
+               "credit_id": "5974ed4ec3a3685dd801cf91",
+               "name": "Della Finch",
+               "profile_path": null,
+               "id": 1856723,
+               "order": 17
+            },
+            {
+               "cast_id": 25,
+               "character": "Henderson",
+               "gender": 0,
+               "credit_id": "5974ed6d925141580601a8ce",
+               "name": "Michael Robbins",
+               "profile_path": null,
+               "id": 84359,
+               "order": 18
+            },
+            {
+               "cast_id": 26,
+               "character": "Stanley",
+               "gender": 0,
+               "credit_id": "5974ed96925141580601a8f5",
+               "name": "Peter Hughes",
+               "profile_path": null,
+               "id": 1856724,
+               "order": 19
+            },
+            {
+               "cast_id": 27,
+               "character": "Guard",
+               "gender": 1,
+               "credit_id": "5974edaf92514157f701b351",
+               "name": "Peggy Aitchison",
+               "profile_path": "/lie6RMRPr4zvG6bBcXtZ7XFRjk0.jpg",
+               "id": 1464109,
+               "order": 20
+            },
+            {
+               "cast_id": 31,
+               "character": "Bus Conductor",
+               "gender": 2,
+               "credit_id": "5aa5eb2fc3a36839dd00128b",
+               "name": "Tommy Godfrey",
+               "profile_path": null,
+               "id": 139839,
+               "order": 21
+            },
+            {
+               "cast_id": 29,
+               "character": "",
+               "gender": 0,
+               "credit_id": "5974edd0c3a3685dba017f9d",
+               "name": "Christine Nelson",
+               "profile_path": null,
+               "id": 1388472,
+               "order": 22
+            },
+            {
+               "cast_id": 30,
+               "character": "2nd Model",
+               "gender": 1,
+               "credit_id": "5a95f4fb9251417b1e00062c",
+               "name": "Valli Kemp",
+               "profile_path": "/gGX9C5gUpxZHYI9xuV1IT01Mk0R.jpg",
+               "id": 1418622,
+               "order": 23
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe46269251416c7506ed4b",
+               "name": "Jim Henson",
+               "profile_path": "/2OWxHy8MPdaSiLN8Vt0siC0hdr4.jpg",
+               "id": 55983,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54a2d851c3a3680b2700d79c",
+               "name": "Tom Patchett",
+               "profile_path": null,
+               "id": 67649,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54a2d85ac3a368642800069a",
+               "name": "Jay Tarses",
+               "profile_path": null,
+               "id": 70868,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54a2d8629251414d2700a16a",
+               "name": "Jerry Juhl",
+               "profile_path": "/cgNumNNGSb5MeN0WIXkkhY0iXGV.jpg",
+               "id": 64184,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54a2d88192514117dd001eb8",
+               "name": "Jack Rose",
+               "profile_path": null,
+               "id": 16747,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "556dfcfec3a3680e8a000f96",
+               "name": "Julie Harris",
+               "profile_path": "/3GkMIV0cb3373xxd5eDba43T909.jpg",
+               "id": 10221,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Crime",
+            "id": 80
+         },
+         {
+            "name": "Family",
+            "id": 10751
+         },
+         {
+            "name": "Comedy",
+            "id": 35
+         }
+      ],
+      "popularity": 6.334703,
+      "production_countries": [{
+         "iso_3166_1": "GB",
+         "name": "United Kingdom"
+      }],
+      "id": 14900,
+      "vote_count": 82,
+      "budget": 0,
+      "overview": "Kermit and Fozzie are newspaper reporters sent to London to interview Lady Holiday, a wealthy fashion designer whose priceless diamond necklace is stolen. Kermit meets and falls in love with her secretary, Miss Piggy. The jewel thieves strike again, and this time frame Miss Piggy. It's up to Kermit and Muppets to bring the real culprits to justice.",
+      "similar": [
+         64328,
+         11899,
+         11176,
+         145220,
+         114671,
+         10208,
+         63252,
+         397563,
+         36536,
+         310200,
+         340527,
+         20910,
+         75301,
+         261760,
+         210061,
+         261728,
+         476044,
+         103425,
+         310524,
+         42761
+      ],
+      "original_title": "The Great Muppet Caper",
+      "runtime": 95,
+      "poster_path": "/eAWQnR761ediI1a6JL236uxXVE5.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Henson Associates (HA)",
+            "id": 24931,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Incorporated Television Company (ITC)",
+            "id": 15980,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1981-06-26",
+      "vote_average": 6.9,
+      "belongs_to_collection": {
+         "backdrop_path": "/1AWd3MM90G47mxtD112gRDxSXY9.jpg",
+         "name": "The Muppet Collection",
+         "id": 256377,
+         "poster_path": "/8Y9fj5XqveOwBqThbwFBPPCF11T.jpg"
+      },
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "UK",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Jim Henson"],
+      "runtime": 95,
+      "synopsis": null,
+      "writers": [
+         "Tom Patchett",
+         "Jay Tarses"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0082474/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BNDQ4MDQ5Mzg5MV5BMl5BanBnXkFtZTcwNTg2MTEzMQ@@._V1_SY317_CR5,0,214,317_AL_.jpg",
+      "actors": ["Stars: Jim Henson, Frank Oz, Dave Goelz | See full cast and crew »"],
+      "reviews": [
+         "This film is definitely a comic masterpiece. A great improvement over the earlier MUPPET MOVIE, which seemed more like a faltering first step into feature film techniques; this has a strong plot, bright characters and keen timing. It also has great support from the comic greatness of John Cleese, Joan Sanderson, Jack Warden, Robert Morley and Peter Falk. Diana Rigg and Charles Grodin (in his best movie) manage to hold the central human characters together, up against the bright lunacy of the Muppets. Lady Holliday's expression on seeing Miss Piggy enter in her swimsuit is worth the price of admission alone! PS: My mum just loves the bit where Kermit does up his zipper!",
+         "This is one of my all-time favorites! I am 23 and I still need to view this movie at least once a year. Jim Henson was at the height of his creative powers when this was made, and it shows brilliantly. As opposed to \"The Muppet Movie\", the songs aren't as dated, and the celebrity cameos have been cut back which lessens the distraction from the Muppets themselves. The cameos of John Cleese, Sir Peter Ustinov, Sir Robert Morley, and Jack Warden all are funny and fit the plot's movement. The highest performance praise though, must go to Dame Diana Rigg and Charles Grodin, who may have deserved an Academy Award for being the only human ever to attempt to make love to Miss Piggy! (\"Miss Piggy, don't put a wall between us...we could have had the world on a silver platter\") I also love the music, especially the number in the Dubonett Club, which harkens back to the old-time musicals, with just a hint of satire. Even after seeing \"The Score\" and \"Ocean's 11\", the Muppet heist scene is still the most entertaining I've ever seen! My advice is swallow your pride, grab the kids, and \"check right in, to the Happiness Hotel\"! (SAY CHEESE!)",
+         "Anglophile that I am, I love \"The Great Muppet Caper,\" and think I might like it even more than the original \"Muppet Movie.\" The gang find themselves foiling the plot of a group of crack diamond thieves led by Charles Grodin, and it's a hoot to watch the slick, professional thieves' preparations and actions juxtaposed to the loud, crude antics of the Muppets. There's a pretty funny musical number that finds Miss Piggy ripping off Esther Williams, and another lovely song performed while the entire group goes bike riding. Long before the days of jacked up special effects when anything can be done using a computer, I remember being astounded by the fact that this special effects team could make the Muppets ride bicycles. Ah, what a more innocent time.... Grade: A",
+         "The Great Muppet Caper is great family movie. They're are very good songs in this movie and it's just as witty as the others. Features several cameos (John Cleese, Oscar the Grouch). I love the seen where the Muppets are going over the check list of items. Priceless. One of the best.",
+         "The Muppets are in England and get involved with Lady Holiday (Diana Rigg), her brother (Charles Grodin) and jewel robberies. Who cares about the plot though. It's just an excuse to see the Muppets perform--and they're great. The script is fast and very funny--one-liners go flying all over the place and every single one works. There's a constant breaking down of the fourth wall with the Muppets addressing the audience and poking fun at their own movie! Also there are elaborate musical numbers! The songs are instantly forgettable but the dance in the restaurant and the water ballet (!!!) really work. Also you see the Muppets walking, dancing (Miss Piggy's tap dancing looks realistic!), riding bikes, swimming AND riding a motorcycle! This was all done before we had CGI but it works. I can't figure out how they did it--and I don't want to know. Acting is very good. Rigg is having a whale of a time in her role and it rubs off on the audience. Grodin appears drugged but it DOES fit his character. A few other actors do cameos but you have to see the movie to find out who they are. Ten stars may be excessive for this movie but I loved it. I was never bored and thoroughly entertained. Highly recommended.",
+         "Since I rewatched The Muppet Movie yesterday in anticipation of going to see The Muppets sometime this week, I thought I'd do the same with The Great Muppet Caper. Another very entertaining movie almost from beginning to end with only a slightly underwhelming opening number and partially amusing newspaper office scene with Jack Warden the only minor blips. Otherwise, Jim Henson as director keeps things entertaining throughout especially when he has Miss Piggy do her tribute to Esther Williams and when he has the whole Muppet gang on bikes which was impressive enough in the last movie when only Kermit was doing it. Oh, and how awesome to have seen him in a very recognizable cameo in the nightclub scene! It's during that scene that the Oscar-nominated song, \"The First Time It Happens\" is performed. It lost to the just as good \"Best That You Can Do\" from the original Arthur. In fact, all the songs by composer-lyricist Joe Raposo have such a feel good quality that you'll want to listen to them over and over again. No surprise knowing he was the resident \"Seseme Street\" songwriter with such classics like \"Bein' Green\" and \"Sing\" among that show's highlights. Once again, such human celebrities like Diana Rigg and Charles Grodin add their own touches to the proceedings not to mention cameos by such luminaries like Peter Falk, Robert Morley, Peter Ustinov, and especially John Clesse their own sense of humor. There's another Muppet cameo here that I don't feel like revealing that I was amused by but I'll just now say that The Great Muppet Caper is highly recommend by me. Next I'll either review The Muppets or something else-TV or movie related to the creatures-in this site. Stay tuned...",
+         "For kids, this film is like a kind of methadone for the heroin that is known as Pokemon (in other words, watch the muppets to get off of Pokemon even though there is no comparison to the muppets). For some of us adults who grew up with the muppets, and this movie in particular, it's a kind of small-scale piece of homage heaven. This is a fun movie, plain and simple, which parents won't find too bad either. Story takes the trio (Kermit, Fozzie and the Great Gonzo) to London as journalists who have to investigate dastardly jewelry robberies. There's plenty of great gags, horribly awesome puns, the cool flavor of the 'Jewel of the North Atlantic', and a few cameos (John Cleese and Peter Ustinov notably) surrounded by the nut-house that is the muppet world make this a near must see. The musical numbers, by the way, are close to perfect. Jim Henson's first feature length film as director is close to being his best, though not quite.",
+         "The Great Muppet Caper is a fantastic movie for the whole family to watch,with some of the most loved characters in history.It was one of the films I had in my DVD collection (and still do),and you to watch constantly,I was looking through my DVDs and found this,so I decided to watch it.It brought back some great memories,and since I'm older there where plenty of jokes I didn't get the first time around,thats how great The Muppets are,they make it funny for the whole family.Also there stuff I didn't realize,like John Cleeses hilarious cameo appearance which reminded of his character Basil from Fawlty Towers. Two twins,Kermit The Frog and Fozzie Bear,are trying to make it as new reporters with there photographer Gonzo.They head to England and stay at Happiness Hotel along with several other Muppets,and catch a scandal along with Miss Piggy that a gang have planned to steal jewels from a wealthy lady.The Muppets try to stop it and get a good story out of it.",
+         "All the films in the original Muppet movie trilogy, done with their late creator, Jim Henson, were made before I was born, but I first started listening to the soundtracks of the first two, \"The Muppet Movie\" and \"The Great Muppet Caper\", around the mid-nineties, and it wasn't long before I saw both films for the first time. I was within my last few years before adolescence at the time, and may have liked both movies equally when I first saw them. I've watched both of them again twice in recent years, and don't recall ever having an opinion on which one was better before those viewings. I now think the first one, from 1979, is the stronger of the two (I think most Muppets fans would agree), but this 1981 follow-up is still an impressive family movie. Kermit and Fozzie are reporters for the Daily Chronicle, and Gonzo is their photographer. One day, they are out on the street trying to get a good news story, when jewels are stolen from English fashion designer Lady Holiday! This happens when they aren't looking, so they don't notice, and instead write an article on Kermit and Fozzie as twins joining the newspaper staff, which they are fired for. The three of them then travel to London, England in the cargo hold of a plane to interview Lady Holiday. They stay at Happiness Hotel, a decaying building with free accommodation! When Kermit goes to meet Lady Holiday in her office, she isn't there, but he meets her new receptionist, Miss Piggy, instead. Trying to impress him, Miss Piggy lies and says she is Lady Holiday, and they quickly fall in love. However, she obviously can't keep her secret for long, and the jewel thieves are trying to frame her! If you ask me, the main thing that makes \"The Great Muppet Caper\" inferior to its predecessor is the set of songs. None of the songs can match \"Rainbow Connection\" and certain other memorable ones from \"The Muppet Movie\", and two of the songs here, \"The First Time It Happens\" and \"Miss Piggy's Fantasy\", make for two fairly lacklustre and tedious sequences. This second Muppet movie also doesn't have the same poignancy and meaningfulness as the first one. However, there's still a lot to like. The songs generally aren't bad, and of course, there are the same lovable Muppets in the movie. They also didn't forget about the humour, as the film definitely is funny, even if it's not usually hilarious. There are celebrity cameos here (though not as many as there are in \"The Muppet Movie\"), including one from John Cleese, of Monty Python fame. He helps make the part where Miss Piggy sneaks into 17 Highbrow Street a comic highlight. The plot also works well for a lighthearted family movie like this. Jim Henson's Muppets made an excellent silver screen debut in 1979, in a film that's still widely admired after just over thirty years. I guess it's no surprise that this 1981 follow-up is inferior, since that's often the case with franchise movies. However, overall, \"The Great Muppet Caper\" is a very good family comedy adventure, and is still much better than \"Muppets from Space\", the last theatrical movie featuring the famous puppet characters, released in 1999. I saw that one for the first time over a year ago and had never been so disappointed by anything featuring the Muppets! Anyway, kids could really enjoy this second installment in the franchise, and as usual with these films, it's not just for them. There's enough to make it worth watching for adults who still like the Muppets as well. Just because it's not as good as its predecessor doesn't mean it's not another noteworthy accomplishment.",
+         "The second theatrical outing of the popular \"Muppet Show\" TV characters relocates the action to London, as reporters Kermit The Frog and Fozzie Bear and photographer Gonzo are reluctantly sent by their editor Jack Warden to investigate the robbery of a famous jeweled necklace worn by unsympathetic fashion queen Diana Rigg. The culprit turns out to be her own obnoxious brother Charles Grodin and his trio of burglar-models; Grodin seems to have the hots for Miss Piggy (at one point singing his heart out to her but she puts down his effort by revealing that the actor's voice was dubbed!), a model wannabe engaged as Rigg's secretary and who ends up impersonating her boss to impress Kermit. The change in locale adds precious little to the table and, truth be told, the film tends to sag badly during its midsection (with too many schmaltzy songs for balance). However, when the film is funny, it's frequently hilarious: the in-jokey commentary by the trio of reporters accompanying the opening credits; their traveling to London in a plane's luggage compartment inside boxes denoting their species (Gonzo is a \"Whatever\") and their being thrown off the plane in mid-flight eventually landing at Robert Morley's feet; the eccentric and inquisitive guests at the Happiness Hotel; Miss Piggy's central musical number is an amusing pastiche of old Esther Williams aquatic routines; Miss Piggy's run-in with lorry driver Peter Ustinov (who complains, after being thrown into the garbage, that his is only a cameo), etc. Ex-Monty Python John Cleese also appears as a henpecked husband who thinks nothing of glimpsing a pig climbing the walls of his apartment building."
+      ],
+      "genres": [
+         "Comedy",
+         "Crime",
+         "Family",
+         "Musical",
+         "Mystery"
+      ],
+      "productionCompanies": [
+         "Henson Associates (HA)",
+         "Incorporated Television Company (ITC)"
+      ],
+      "summaries": [
+         "Kermit and Fozzie are newspaper reporters sent to London to interview Lady Holiday, a wealthy fashion designer whose priceless diamond necklace is stolen. Kermit meets and falls in love with her secretary, Miss Piggy. The jewel thieves strike again, and this time frame Miss Piggy. It's up to Kermit and Muppets to bring the real culprits to justice.",
+         "A jewel thief has steals a priceless diamond necklace from Lady Holiday, and reporters Kermit the Frog, Fozzie Bear and Gonzo travel to England to interview. Lady Holiday's new receptionist, Miss Piggy poses as the fashion designer, but Kermit soon finds out the truth, when another necklace is stolen. Instead of interviewing the 'real' Lady Holiday, Kermit must track down the thief's before the steal her most prized possession.",
+         "Second Muppet film has Kermit, Fozzie and Gonzo as investigative reporters hot on the trail of a jewel thief. Things get more complicated when Miss Piggy is falsely accused of the crimes and Muppets must clear her name. Corny jokes and musical numbers punctuate the action.",
+         "Kermit, Gonzo and Fozzie are reporters who travel to Britain to interview a rich victim of jewel thieves and help her along with her secretary, Miss Piggy."
+      ],
+      "budget": 0
+   },
+   "movielensId": 3397,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1981-06-26",
+      "dvdReleaseDate": "2005-11-29",
+      "directors": ["Jim Henson"],
+      "runtime": 95,
+      "movieId": 3397,
+      "title": "The Great Muppet Caper",
+      "mpaa": "G",
+      "actors": [
+         "Jim Henson",
+         "Frank Oz",
+         "Dave Goelz",
+         "Jerry Nelson",
+         "Richard Hunt",
+         "Charles Grodin",
+         "Diana Rigg",
+         "John Cleese",
+         "Robert Morley",
+         "Peter Ustinov",
+         "Jack Warden",
+         "Susan Backlinie",
+         "Joan Sanderson",
+         "Peter Falk",
+         "Danny John-Jules",
+         "Erica Creer",
+         "Kate Howard",
+         "Della Finch",
+         "Michael Robbins",
+         "Peter Hughes",
+         "Peggy Aitchison",
+         "Tommy Godfrey",
+         "Christine Nelson"
+      ],
+      "imdbMovieId": "0082474",
+      "originalTitle": "The Great Muppet Caper",
+      "genres": [
+         "Crime",
+         "Family",
+         "Comedy"
+      ],
+      "youtubeTrailerIds": ["aEQw79tKm6I"],
+      "plotSummary": "Kermit and Fozzie are newspaper reporters sent to London to interview Lady Holiday, a wealthy fashion designer whose priceless diamond necklace is stolen. Kermit meets and falls in love with her secretary, Miss Piggy. The jewel thieves strike again, and this time frame Miss Piggy. It's up to Kermit and Muppets to bring the real culprits to justice.",
+      "tmdbMovieId": 14900,
+      "avgRating": 3.60197,
+      "releaseYear": "1981",
+      "numRatings": 2584,
+      "posterPath": "/eAWQnR761ediI1a6JL236uxXVE5.jpg"
+   }
+}

@@ -1,0 +1,732 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "journalism",
+            "id": 917
+         },
+         {
+            "name": "dance",
+            "id": 1691
+         },
+         {
+            "name": "daydream",
+            "id": 5779
+         },
+         {
+            "name": "friendship",
+            "id": 6054
+         },
+         {
+            "name": "pollution",
+            "id": 6305
+         },
+         {
+            "name": "cartoon",
+            "id": 6513
+         },
+         {
+            "name": "kids and family",
+            "id": 9963
+         },
+         {
+            "name": "valentine",
+            "id": 9988
+         }
+      ],
+      "imdb_id": "tt0187819",
+      "video": false,
+      "title": "Doug's 1st Movie",
+      "recommendations": [
+         109167,
+         279756,
+         14368,
+         99754,
+         71887,
+         264364,
+         35909,
+         62052,
+         62054,
+         369450,
+         36972,
+         158265,
+         160155,
+         19042,
+         71885,
+         3126,
+         19405,
+         21767,
+         24787,
+         24020
+      ],
+      "backdrop_path": "/xjU5CMyk6MSx3G0X3ntYJw7PrLU.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Doug Funnie",
+               "gender": 2,
+               "credit_id": "52fe46d79251416c75085493",
+               "name": "Thomas McHugh",
+               "profile_path": null,
+               "id": 171544,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Skeeter / Mr. Dink / Porkchop / Ned",
+               "gender": 2,
+               "credit_id": "52fe46d79251416c75085497",
+               "name": "Fred Newman",
+               "profile_path": null,
+               "id": 196714,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Roger Klotz / Boomer / Larry / Mr. Chiminy",
+               "gender": 0,
+               "credit_id": "52fe46d79251416c7508549b",
+               "name": "Chris Phillips",
+               "profile_path": "/67G2MHc1Qs2ox2PDyQFxEhVSgYp.jpg",
+               "id": 115502,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Patti Mayonnaise",
+               "gender": 1,
+               "credit_id": "52fe46d79251416c7508549f",
+               "name": "Constance Shulman",
+               "profile_path": "/vyjkLk24o2heGDVbYfwZDG0WtQd.jpg",
+               "id": 58521,
+               "order": 3
+            },
+            {
+               "cast_id": 57,
+               "character": "Additional Voices (voice)",
+               "gender": 0,
+               "credit_id": "5aaf519992514116c303033c",
+               "name": "Mickie McGowan",
+               "profile_path": "/k7TjJBfINsg8vLQxJwos6XObAD6.jpg",
+               "id": 84493,
+               "order": 4
+            },
+            {
+               "cast_id": 58,
+               "character": "Additional Voice (voice)",
+               "gender": 1,
+               "credit_id": "5aaf5b550e0a267821032aee",
+               "name": "Sherry Lynn",
+               "profile_path": "/kQDSC2z7sb6S5HcpOH6cmeJokKE.jpg",
+               "id": 214701,
+               "order": 5
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe46d79251416c750854a5",
+               "name": "Maurice Joyce",
+               "profile_path": null,
+               "id": 261271,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46d79251416c750854ab",
+               "name": "Jim Jinkins",
+               "profile_path": null,
+               "id": 352055,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46d79251416c750854b1",
+               "name": "Ken Scarborough",
+               "profile_path": null,
+               "id": 183559,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "551c4cb2c3a3684a2f00085c",
+               "name": "Michael Rose",
+               "profile_path": null,
+               "id": 1448482,
+               "department": "Art",
+               "job": "Background Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "555254589251412d460004f8",
+               "name": "Maurice Fontenot",
+               "profile_path": null,
+               "id": 1466427,
+               "department": "Writing",
+               "job": "Storyboard"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55525462c3a3683fc800509a",
+               "name": "Ian Freedman",
+               "profile_path": null,
+               "id": 90874,
+               "department": "Writing",
+               "job": "Storyboard"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5552546b9251415b21001224",
+               "name": "Victor Glasko",
+               "profile_path": null,
+               "id": 1466428,
+               "department": "Writing",
+               "job": "Storyboard"
+            },
+            {
+               "gender": 0,
+               "credit_id": "555254749251417175002568",
+               "name": "Ethan Kanfer",
+               "profile_path": null,
+               "id": 1466429,
+               "department": "Writing",
+               "job": "Storyboard"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5552547d9251414dd9003b17",
+               "name": "Tapani Knuutila",
+               "profile_path": null,
+               "id": 1466430,
+               "department": "Writing",
+               "job": "Storyboard"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55525493c3a368426f004d7e",
+               "name": "Christopher McCulloch",
+               "profile_path": "/fY9RNHoR3vcOdLBKgj33av8pTmj.jpg",
+               "id": 1231348,
+               "department": "Writing",
+               "job": "Storyboard"
+            },
+            {
+               "gender": 0,
+               "credit_id": "555254a1c3a368426f004d81",
+               "name": "Siobhan Mullen",
+               "profile_path": null,
+               "id": 1466420,
+               "department": "Writing",
+               "job": "Storyboard"
+            },
+            {
+               "gender": 0,
+               "credit_id": "555254acc3a368436d003fb2",
+               "name": "Liz Rathke",
+               "profile_path": null,
+               "id": 1466432,
+               "department": "Writing",
+               "job": "Storyboard"
+            },
+            {
+               "gender": 0,
+               "credit_id": "555254b79251412d4600050d",
+               "name": "Deidre Stammers",
+               "profile_path": null,
+               "id": 1466433,
+               "department": "Writing",
+               "job": "Storyboard"
+            },
+            {
+               "gender": 2,
+               "credit_id": "555254c59251415b2100122f",
+               "name": "Robert Byrne",
+               "profile_path": null,
+               "id": 1466434,
+               "department": "Visual Effects",
+               "job": "Visual Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "555254eec3a3687f6300a498",
+               "name": "Kye-Jeong Ahn",
+               "profile_path": null,
+               "id": 1466435,
+               "department": "Art",
+               "job": "Background Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55525501c3a3683d3b001955",
+               "name": "Gary Blatchford",
+               "profile_path": null,
+               "id": 1466436,
+               "department": "Visual Effects",
+               "job": "Animation Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5552550bc3a3683032005501",
+               "name": "Ciaran Bonass",
+               "profile_path": null,
+               "id": 1466437,
+               "department": "Visual Effects",
+               "job": "Animation Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "555255249251415b21001238",
+               "name": "John Brandon",
+               "profile_path": null,
+               "id": 1466439,
+               "department": "Visual Effects",
+               "job": "Color Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55525532c3a368426f004d9f",
+               "name": "Dick Codor",
+               "profile_path": null,
+               "id": 1466440,
+               "department": "Art",
+               "job": "Art Department Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5552553c9251412d46000525",
+               "name": "Tony Curanaj",
+               "profile_path": null,
+               "id": 1466441,
+               "department": "Art",
+               "job": "Background Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "555255489251412d4600052a",
+               "name": "Ray daSilva",
+               "profile_path": null,
+               "id": 1462615,
+               "department": "Art",
+               "job": "Background Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5552554ec3a3683d3b00195e",
+               "name": "Ray daSilva",
+               "profile_path": null,
+               "id": 1462615,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5552555ac3a368436d003fc8",
+               "name": "Chris Dechert",
+               "profile_path": null,
+               "id": 1466443,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "555255659251415b21001243",
+               "name": "Marina Dominis-Dunnigan",
+               "profile_path": null,
+               "id": 1466444,
+               "department": "Visual Effects",
+               "job": "Color Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55525571c3a3683fc80050b5",
+               "name": "Kieran Dowling",
+               "profile_path": null,
+               "id": 1466445,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5552557e9251412d46000538",
+               "name": "Nash Dunnigan",
+               "profile_path": null,
+               "id": 1466446,
+               "department": "Art",
+               "job": "Background Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55525586c3a3683032005514",
+               "name": "Ray Feldman",
+               "profile_path": null,
+               "id": 1466447,
+               "department": "Art",
+               "job": "Background Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5552558f9251414dd9003b37",
+               "name": "Mike Foran",
+               "profile_path": null,
+               "id": 1466448,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55525599c3a3684191003c86",
+               "name": "Ian Freedman",
+               "profile_path": null,
+               "id": 90874,
+               "department": "Visual Effects",
+               "job": "Animation Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "555255a3c3a368436d003fd1",
+               "name": "Moss Freedman",
+               "profile_path": null,
+               "id": 1466449,
+               "department": "Art",
+               "job": "Art Department Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "555255c1c3a36834e10054f1",
+               "name": "Baik-Ma Jeong",
+               "profile_path": null,
+               "id": 1466450,
+               "department": "Directing",
+               "job": "Layout"
+            },
+            {
+               "gender": 0,
+               "credit_id": "555255d1c3a3684191003c92",
+               "name": "Miriam Katin",
+               "profile_path": null,
+               "id": 1466451,
+               "department": "Art",
+               "job": "Background Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "555255e292514113f0001dae",
+               "name": "Tim Chi Ly",
+               "profile_path": null,
+               "id": 1466452,
+               "department": "Art",
+               "job": "Art Department Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "555255f09251412d46000555",
+               "name": "Miguel Martinez-Joffre",
+               "profile_path": null,
+               "id": 170480,
+               "department": "Art",
+               "job": "Art Department Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "555255fa9251417175002592",
+               "name": "Glenn McDonald",
+               "profile_path": null,
+               "id": 1466453,
+               "department": "Visual Effects",
+               "job": "Animation Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55525606c3a368426f004dc7",
+               "name": "Jason McDonald",
+               "profile_path": null,
+               "id": 1466454,
+               "department": "Visual Effects",
+               "job": "Color Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5552560fc3a368436d003fe3",
+               "name": "Kimball Miskoe",
+               "profile_path": null,
+               "id": 1466455,
+               "department": "Art",
+               "job": "Background Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5552563c92514113f0001dbd",
+               "name": "Trevor Murphy",
+               "profile_path": null,
+               "id": 1466456,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55525647c3a3683032005532",
+               "name": "Adrian Newkirk",
+               "profile_path": null,
+               "id": 1466457,
+               "department": "Art",
+               "job": "Background Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55525650c3a36834e100550b",
+               "name": "Jeffrey Nodelman",
+               "profile_path": null,
+               "id": 1466458,
+               "department": "Art",
+               "job": "Art Department Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5552565dc3a368436d003ff3",
+               "name": "Christopher Palesty",
+               "profile_path": null,
+               "id": 1466459,
+               "department": "Art",
+               "job": "Art Department Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5552568c92514152eb002e97",
+               "name": "Anthony Power",
+               "profile_path": null,
+               "id": 592179,
+               "department": "Visual Effects",
+               "job": "Animation Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5552569fc3a3684191003cb6",
+               "name": "Darren Power",
+               "profile_path": null,
+               "id": 1466460,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 2,
+               "credit_id": "555256a9c3a368426f004dd8",
+               "name": "Don Poynter",
+               "profile_path": null,
+               "id": 1466461,
+               "department": "Art",
+               "job": "Background Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "555256b29251415a8c00020f",
+               "name": "Meryl Rosner",
+               "profile_path": null,
+               "id": 1466462,
+               "department": "Art",
+               "job": "Background Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "555256bf92514113f0001dd3",
+               "name": "Doris Santos",
+               "profile_path": null,
+               "id": 1466463,
+               "department": "Visual Effects",
+               "job": "Color Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "555256d29251415b21001283",
+               "name": "Kyung-Sik Song",
+               "profile_path": null,
+               "id": 1466464,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "555256dbc3a3683d3b00198c",
+               "name": "Freya Tanz",
+               "profile_path": null,
+               "id": 1466465,
+               "department": "Art",
+               "job": "Background Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "555256e89251412d46000577",
+               "name": "Irene Wu",
+               "profile_path": null,
+               "id": 1466466,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "555256f4c3a3683fc80050f2",
+               "name": "Michael Zodorozny",
+               "profile_path": null,
+               "id": 1466467,
+               "department": "Art",
+               "job": "Background Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "555257729251414dd9003b77",
+               "name": "Jean Lajeunesse",
+               "profile_path": null,
+               "id": 1466469,
+               "department": "Writing",
+               "job": "Storyboard"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Animation",
+            "id": 16
+         },
+         {
+            "name": "Family",
+            "id": 10751
+         },
+         {
+            "name": "Comedy",
+            "id": 35
+         }
+      ],
+      "popularity": 2.062999,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 16508,
+      "vote_count": 24,
+      "budget": 0,
+      "overview": "Doug and his pal Skeeter set's out to find the monster of Lucky Duck Lake. Though things get really out of hand when some one blurts out that the monster is real.",
+      "similar": [
+         639,
+         2300,
+         342473,
+         13417,
+         269,
+         382399,
+         13002,
+         10604,
+         10560,
+         1988,
+         24936,
+         84594,
+         45485,
+         281506,
+         88766,
+         83676,
+         270768,
+         32237,
+         83773,
+         411201
+      ],
+      "original_title": "Doug's 1st Movie",
+      "runtime": 77,
+      "poster_path": "/lfRCuIMTueGfGot654yc9PlVhrL.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": "/4MbjW4f9bu6LvlDmyIvfyuT3boj.png",
+         "name": "Walt Disney Pictures",
+         "id": 2,
+         "origin_country": "US"
+      }],
+      "release_date": "1999-03-26",
+      "vote_average": 5.3,
+      "belongs_to_collection": null,
+      "tagline": "You'll Dig Doug!",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Maurice Joyce"],
+      "runtime": 77,
+      "synopsis": null,
+      "writers": [
+         "Ken Scarborough",
+         "Joe Aaron"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0187819/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMjA5MTk1OTA1NV5BMl5BanBnXkFtZTYwNDU4NjM5._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Thomas McHugh, Fred Newman, Chris Phillips | See full cast and crew »"],
+      "reviews": [
+         "I looked up this movie on Wikipedia a few weeks ago to see what it was about. When I read the plot summary, I honestly thought that somebody had trolled the page and typed in the weirdest s*** they could think of. Then, after checking IMDb's plot summary, I realized that it was ACTUALLY ABOUT A FRIENDLY MONSTER NAMED HERMAN MELVILLE. And the funny thing about this: I actually DID see this in theaters when it came out (back in '99, which made me 9 years old at the time), but I literally had NO memory of this movie. I remember everything else I've ever seen in theaters, to some degree, but not this one. The fact that this movie was SO ridiculous, yet SOOOOO forgettable is a testament to its quality. I was a fan of the show too (when it was on Nickelodeon, I hated what Disney did to it). Btw, \"Doug's FIRST Movie\"? Obviously, that title isn't descriptive enough; should've put \"and only\" somewhere in that title...",
+         "This is an interesting movie. I really enjoyed it and was perfect for the kids and also a great film for the young at heart aswell. The plot is gripping with the Lucky Duck lake monster and the fact that his secret love for Patti is almost over in just over 1hr and 30mins which is just perfect for the kids who want to go to bed soon. But over all a fine film and I will watch time and time again. Hopefully there will be Dougs Second Movie, now that would be great",
+         "I saw this movie when I was a kid. I grew up watching the Nickeleon Doug but didn't see much of the Disney Doug. At first I seemed to enjoyed it from the first time seeing it. But years later I didn't felt like watching it again. Getting the VHS was a waist of money if I didn't bother in watching it again. This has to do with Doug and Skeeter trying to solve there monster in the Lucky Duck Lake mystery. They encounter the monster who's more friendly than it seems. They were going to show it to the public but didn't bother since the creature would get captured and imprisoned. Mr. Bluff over hears about it and has sent out agents to locate the creature, blah blah blah. I thought it be great bu it stank. Disney ruined Doug for the last time. Those who only like the Nickeleon Doug keep away from this movie if you dislike the Disney Doug. It just isn't the same as it was from the early 90s.",
+         "This was one of those Nickelodeon cartoons that ran during the early 90's which I used to watch religiously. Along with 'Rugrats' and 'Hey Arnold!' the toons of that time were really decent and quite fresh in terms of originality and artistic style. 'Doug' being the most simplistic to look at compared to the others, yet I still can't recall how or why I actually got into this. The movie has the same age old issue, can it work when stretched out to a films length? Quite plainly I would say yes, this will not appeal to adults in the slightest unless like me you like the toon. Its purely 100% for kids and not meant to be anything more, hence its extremely errr...childish, simple and unoriginal. I thought everything here worked really well to be honest, all the characters seem to be voiced by the regular people, give or take. Everything visually is recognisable from the daytime cartoon, its been spruced up of course but it still looks like Doug and there hasn't been any CGI tomfoolery. That fact I like, the fact they kept it pure like the original material and didn't use CGI, that's good (at least I don't think they used CGI). The only thing I didn't really like here was the plot believe it or not. Now I know this will sound stupid but the plot was unrealistic, let me explain. I'm reasonably sure that in all the 'Doug' cartoons the plot has always been relatable, in other words about problems kids face in school, at home, growing up, daily life we all can understand etc...It has never ventured into the realms of complete fantasy, I don't think. So this movie to have the plot based around a dinosaur lake monster running amok is kinda crappy frankly, just seems totally lame and as if they couldn't think of anything else. 'Ah lets just stick a monster in their and they make friends with it blah blah blah', a cartoon version of 'Splash' or 'Free Willy'. If you know this franchise then you'll know what to expect, good morals, good-natured harmless silliness and plenty of sickly kiddie romance. Although it doesn't seem as witty with Doug's regular daydream interventions which he had in the daily cartoon. There does seem to be a clear difference between the early Nickelodeon Doug and this Disney Doug, early Doug did seem cheaper with those corny tacky homemade sound effects and sketchy animation, but that was its charm. I never saw the later Disney Doug episodes but I've heard bad things. This big screen adventure does lack that charm but it still manages to do what it set out to do. The film is enjoyable and still looks nice but admittedly isn't as rich or pretty as other animations. You really have gotta be a fan to enjoy this, otherwise I can fully understand if you think it looks terrible. I think time has passed for this franchise and film now, the moment has gone and it doesn't really stand the test of time, plus no Billy West! its still OK though. 5/10",
+         "I bought this for my little brother, and thought he'd enjoy it. I also vaguely remember seeing Doug as a kid on TV before I stopped getting satellite/cable reception. When it was over, both of us were ready to burn it, it was so bad. That's a little kid (intended audience) and adult both saying this! I bought him a new movie, because this one was okay, even kinda funny and entertaining, until it got to the businessman Mr. Bluff (now that's not biased at all!) trying to keep the protagonists from reporting him for polluting the lake. It's bad enough I see all this crud all over the place about recycling and green living and anti-pollution these days, now it's showing up in films for children? Well, I like pollution, and I couldn't care less if I went right out to the nearest lake and dumped chemicals in it! And this \"villain\" Mr. Bluff, if this film were real I'd be shaking his hand for a job well done, pollution is wonderful. Now, that's an opinion from an adult who watched it for nostalgic value, so here's an opinion from a kid. My brother thought it was about hippies, he also didn't like the soundtrack. He quickly got bored of it and said it was like Captain Planet, Toxic Crusaders and The Waterhorse all shoved into one. I took him shopping later that day and we bought Goosebumps: Welcome to Dead House on VHS instead. If you're one of those parents who wants to teach your kid (or kids) all that \"go green\" hippie junk, this movie is right up your alley. If you're smart though, and want an entertaining movie that doesn't shove its environmental messages right in your face, a movie with great acting/voices, soundtrack and an original plot, try something else.",
+         "Despite having watched the cartoon series \"Doug\" almost religiously as a child, it took until adulthood for me to get around to viewing the feature-length movie adaptation spun off of that wonderfully rich, beguiling television classic. I myself am surprised not only for that reason, but also because if I loved it so much as an adult, I surely would have loved it so much as a kid as well. Along with pictures such as \"A Boy Named Charlie Brown,\" this is one of those animated gems I wish I had seen earlier in my life. \"Doug\" was originally on Nickelodeon, and then later appeared on Disney's network. Believe it or not, I adored both versions. The film, \"Doug's 1st Movie,\" is akin to the Disney version. You know, Mayor White is now principal, Patti Mayonnaise has shorter hair, Connie is thinner, there's an obnoxious upperclassman competing with Doug for Patti's attention...there goes my inner-child! In the film, we finally get a load of the infamous Lucky Duck Lake Monster, which Doug Funnie and Skeeter Valentine have been soulfully searching for over the years. It's a set up that might as well have been a live-action picture. Except \"Doug's 1st Movie\" takes things in a different direction...as it should, since it is in the same tradition and mood as its source material. The plot, the characters, the drawing style is all played for heart and for laughs. Furthermore, just like the show, the film allows itself to balance between the two media so the gags do not overpower the more gentle, touching moments. And the film's occasional message toward real-world issues (pollution, for one) are not pretentious. Fans of the show will also be delighted in how well the film captures the memorable personalities of the characters. In 90-some minutes, we get almost all of the beloved traits and characteristics that the show made popular over the course of nine years. Doug is truly one of the better animated protagonists of recent years: whimsical, goodhearted, has soft spots. But the character does not wallow in his slightly silly manner and thereby render himself insufferable. Doug's fantasy moments, most of them depicting his romantic affections for Patti--a likable character--are oddball, but in the slightly bogus way everybody not only appreciates, but can recall from their own lives. Those secure enough to admit to it, anyway. \"Doug's 1st Movie\" is also a fine aesthetic accomplishment. It's beautifully drawn, with a wide variety of colors here and there. That is partially because many of the characters do have purple, green, or blue tint to their skin. But it doesn't stop with there. The detail of the city, the sky, the water, the forest. There's a lot of detail; Doug and his co-stars do not merely stand against flat walls. Complimenting the show, it remains true to its source material in that regard as well. That comes to show just how much children have lost now that the show, as far as I know, has virtually vanished from television. True, it's now on DVD (the show, not the movie, unfortunately) but with so much poorly drawn and abysmally dull junk populating the children's programming guides, it really does beg Disney to reconsider their plans. I adored \"Doug's 1st Movie\" for a great many reasons, but the primary one was the way it recalled what it was like to be a child without making me feel as though I were sinking into immaturity. I have no guilty feelings in proclaiming that I liked this movie very much and am hoping to see a restored DVD release of it someday. And the song that plays over the credits is truly beautiful, something I cannot say of most songs I hear over animated films today. I personally was looking forward to \"Doug's 2nd Movie.\"",
+         "This animated film answered all my questions about Doug. The 8 and 6 year olds that I watched it with thought it was Awesome! This is a good animated film. It has a moral lesson about doing the right thing even if it doesn't make you look cool. It's a film for kids that isn't so lame that it'll make adults want to run and hide. In reality we all should be able to relate to some of that Jr. angst that Doug and Skeeter experience. There's a really neat question and answer session with Doug's creator after the cartoon is over. For all the hype in the 6 through 10 set about this movie it was actually enjoyable which came as a pleasant surprise to this viewer. As a foot note I'd like to mention that Herman Melville is really an endearing character.",
+         "This is one of those kids' films that adults can't sit down and watch as well. Okay, it's got nice morals, but pleeeeease, no DOUG'S 2ND MOVIE !!!!! Boring attempt to stretch a tiny DOUG episode into a feature-length production...didn't work. 4/10",
+         "Personally, I think \"Doug's 1st Movie\" was boring and a waste of time. I think when the Doug TV Series was on Nick was good, then Disney came in. Probably kids from the ages of 4-9 will be able to sit through this movie, and maybe their parents, but nobody else. It was okay though I guess, I'm sure the younger kids probably liked it and it still has problems that everyone can relate to. But come on, what was up with that monster? And why did they have to show those people giving it a shot?(well, I felt sick!). I would give it 4 stars out of 10. And by the way, why was Disney's \"Doug\" TV series canceled that same year? And why the heck was the movie PG? Oh well!",
+         "This movie is awesome! It's really a great movie for all die-hard Doug fans (like me). Doug fans (as well as kids and adults, not to mention teenagers) will really like it. The movie answers all questions that Doug fans have like, is there really a monster in the lake? And will Doug and Patti get together? The animation is a step higher than the TV show which is great! I had teenage friend who saw it and laughed! It's funny, sweet and smart! Lots of fun to watch!"
+      ],
+      "genres": [
+         "Family",
+         "Animation",
+         "Comedy"
+      ],
+      "productionCompanies": [
+         "Jumbo Pictures",
+         "Walt Disney Pictures",
+         "Walt Disney Television Animation"
+      ],
+      "summaries": [
+         "Doug and his friends find a \"monster\" living in the woods outside their town, but when they find the monster is actually kind of nice, they find themselves hunted by \"bad guys\" who want the monster. In addition, Doug has to compete for the attention of Patti Mayonnaise with a snobby 8th grader, Guy Graham. Will Doug get to take Patti to the Valentine's Day dance?",
+         "Doug Funnie and his friends finds a \"monster\" named Herman Melville, who lives in the woods outside their town, but when they find the monster was actually kind of nice, they find themselves hunted by bad guys, who want the monster. In addition, Doug has to compete for the attention of Patti Mayonnaise with a snobby eighth-grader named Guy Graham. Will Doug get to take Patti for the Valentine's Day dance?",
+         "Doug and his pal Skeeter set's out to find the monster of Lucky Duck Lake. Though things get really out of hand when some one blurts out that the monster is real."
+      ],
+      "budget": 5000000
+   },
+   "movielensId": 2566,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1999-03-26",
+      "dvdReleaseDate": null,
+      "directors": ["Maurice Joyce"],
+      "runtime": 77,
+      "movieId": 2566,
+      "title": "Doug's 1st Movie",
+      "mpaa": "G",
+      "actors": [
+         "Thomas McHugh",
+         "Fred Newman",
+         "Chris Phillips",
+         "Constance Shulman"
+      ],
+      "imdbMovieId": "0187819",
+      "originalTitle": "Doug's 1st Movie",
+      "genres": [
+         "Animation",
+         "Family",
+         "Comedy"
+      ],
+      "youtubeTrailerIds": [],
+      "plotSummary": "Doug and his pal Skeeter set's out to find the monster of Lucky Duck Lake. Though things get really out of hand when some one blurts out that the monster is real.",
+      "tmdbMovieId": 16508,
+      "avgRating": 2.29385,
+      "releaseYear": "1999",
+      "numRatings": 325,
+      "posterPath": "/lfRCuIMTueGfGot654yc9PlVhrL.jpg"
+   }
+}

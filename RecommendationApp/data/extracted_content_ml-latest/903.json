@@ -1,0 +1,602 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "san francisco",
+            "id": 582
+         },
+         {
+            "name": "sense of guilt",
+            "id": 1335
+         },
+         {
+            "name": "bachelor",
+            "id": 1338
+         },
+         {
+            "name": "obsession",
+            "id": 1523
+         },
+         {
+            "name": "love of one's life",
+            "id": 2038
+         },
+         {
+            "name": "vertigo",
+            "id": 2567
+         },
+         {
+            "name": "museum",
+            "id": 2598
+         },
+         {
+            "name": "necklace",
+            "id": 2599
+         },
+         {
+            "name": "grave",
+            "id": 2968
+         },
+         {
+            "name": "plan",
+            "id": 4812
+         },
+         {
+            "name": "painting",
+            "id": 5918
+         },
+         {
+            "name": "film noir",
+            "id": 195402
+         }
+      ],
+      "imdb_id": "tt0052357",
+      "video": false,
+      "title": "Vertigo",
+      "recommendations": [
+         567,
+         213,
+         1580,
+         521,
+         571,
+         845,
+         599,
+         303,
+         539,
+         1092,
+         829,
+         15,
+         574,
+         963,
+         996,
+         284,
+         654,
+         289,
+         901,
+         1480
+      ],
+      "backdrop_path": "/sNlCvWbAEYZZGlPIOdiQc4y1X7d.jpg",
+      "revenue": 28000000,
+      "reviews": [{
+         "author": "Eky",
+         "id": "4fdc254d760ee31b5d00079e",
+         "content": "All I know, this film wasn\u2019t so successful at first and this probably because the audience didn\u2019t expect a film so dark and claustrophobic. Vertigo was so strange already from the beginning because of its surreal and nightmarish atmosphere. I bow to Hitchcock in his creativity in visualizing Jimmy Stewart\u2019s acrophobia by implementing one of the oldest cinematography techniques, using zoom lens as it zooms in while the object moves away, emphasizing his terrified feeling and insecurity whenever he\u2019s at a particular height due to a chronic vertigo he suffers. As always, the film director\u2019s cameo appearance has always been fascinating since we know it\u2019s his habit therefore we will usually let our eyes wander throughout the film, trying to spot him. In conclusion, this timeless thriller remains a classic gem despite the emergence of new modern films. The great visual effects also seem timeless when compared to digital effects. I hope my review doesn\u2019t give you vertigo = )",
+         "url": "https://www.themoviedb.org/review/4fdc254d760ee31b5d00079e"
+      }],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 10,
+               "character": "Det. John 'Scottie' Ferguson",
+               "gender": 2,
+               "credit_id": "52fe4242c3a36847f8010403",
+               "name": "James Stewart",
+               "profile_path": "/aBLtt0Sl4AZVNclzFrXzbndRzux.jpg",
+               "id": 854,
+               "order": 0
+            },
+            {
+               "cast_id": 11,
+               "character": "Madeleine Elster/Judy Barton",
+               "gender": 1,
+               "credit_id": "52fe4242c3a36847f8010407",
+               "name": "Kim Novak",
+               "profile_path": "/uTxpa6y6nKo2nfpOP4zsR6abLdi.jpg",
+               "id": 5729,
+               "order": 1
+            },
+            {
+               "cast_id": 12,
+               "character": "Marjorie 'Midge' Wood",
+               "gender": 1,
+               "credit_id": "52fe4242c3a36847f801040b",
+               "name": "Barbara Bel Geddes",
+               "profile_path": "/gvMsiEJpfUUo9L20KeTEJ9gAeak.jpg",
+               "id": 5730,
+               "order": 2
+            },
+            {
+               "cast_id": 13,
+               "character": "Gavin Elster",
+               "gender": 2,
+               "credit_id": "52fe4242c3a36847f801040f",
+               "name": "Tom Helmore",
+               "profile_path": "/gQdVpqYmetgOIH499Fe3xBLsj56.jpg",
+               "id": 5731,
+               "order": 3
+            },
+            {
+               "cast_id": 14,
+               "character": "Coroner",
+               "gender": 2,
+               "credit_id": "52fe4242c3a36847f8010413",
+               "name": "Henry Jones",
+               "profile_path": "/hOO3CG2qUq6wvM4BkjtJ05kIU1C.jpg",
+               "id": 5732,
+               "order": 4
+            },
+            {
+               "cast_id": 19,
+               "character": "Scottie's doctor",
+               "gender": 2,
+               "credit_id": "52fe4242c3a36847f801042f",
+               "name": "Raymond Bailey",
+               "profile_path": "/f27gMhRJhKdC99Ti2cloU7P5fLs.jpg",
+               "id": 5737,
+               "order": 5
+            },
+            {
+               "cast_id": 20,
+               "character": "Manager of McKittrick Hotel",
+               "gender": 1,
+               "credit_id": "52fe4242c3a36847f8010433",
+               "name": "Ellen Corby",
+               "profile_path": "/3oBJ4HH5z7FspFMxOTUe1eBzoIA.jpg",
+               "id": 5738,
+               "order": 6
+            },
+            {
+               "cast_id": 21,
+               "character": "Pop Leibel",
+               "gender": 2,
+               "credit_id": "52fe4242c3a36847f8010437",
+               "name": "Konstantin Shayne",
+               "profile_path": "/llfjgzmcPvCvOujGLZfb4f2kGh5.jpg",
+               "id": 5739,
+               "order": 7
+            },
+            {
+               "cast_id": 22,
+               "character": "Car owner mistaken for Madeleine",
+               "gender": 1,
+               "credit_id": "52fe4242c3a36847f801043b",
+               "name": "Lee Patrick",
+               "profile_path": "/iBLZ08AwlFw2IPMvzfYIhmIwgIn.jpg",
+               "id": 5740,
+               "order": 8
+            },
+            {
+               "cast_id": 24,
+               "character": "Diner at Ernie's",
+               "gender": 1,
+               "credit_id": "52fe4242c3a36847f8010445",
+               "name": "Bess Flowers",
+               "profile_path": "/akbW8jJl8GSXFpixFaobMOqvNv4.jpg",
+               "id": 121323,
+               "order": 9
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4242c3a36847f80103cf",
+               "name": "Alfred Hitchcock",
+               "profile_path": "/rKYyX58azJv1SZNXQWOJyNyvB9F.jpg",
+               "id": 2636,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4242c3a36847f80103d5",
+               "name": "Alfred Hitchcock",
+               "profile_path": "/rKYyX58azJv1SZNXQWOJyNyvB9F.jpg",
+               "id": 2636,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4242c3a36847f80103db",
+               "name": "James C. Katz",
+               "profile_path": null,
+               "id": 5728,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4242c3a36847f80103e7",
+               "name": "Bernard Herrmann",
+               "profile_path": "/nuGwEH9lJIBTEzsmB4bGDgJ9qgj.jpg",
+               "id": 1045,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4242c3a36847f80103ed",
+               "name": "Robert Burks",
+               "profile_path": "/2FnhbhSQzCnMYsXzFptozlTlnFK.jpg",
+               "id": 2654,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4242c3a36847f80103f3",
+               "name": "George Tomasini",
+               "profile_path": "/AkhUuJi4uCqh60ZQe39ZPxULFoV.jpg",
+               "id": 2655,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4242c3a36847f80103f9",
+               "name": "Henry Bumstead",
+               "profile_path": "/hmJBS9jdH5q5PrEsF3K48Gumhug.jpg",
+               "id": 369,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4242c3a36847f80103ff",
+               "name": "Hal Pereira",
+               "profile_path": null,
+               "id": 5188,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4242c3a36847f8010425",
+               "name": "Alec Coppel",
+               "profile_path": null,
+               "id": 5735,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4242c3a36847f801042b",
+               "name": "Samuel A. Taylor",
+               "profile_path": "/1gbnU6wefpK9gMPGgTGEUAYyp2H.jpg",
+               "id": 5736,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4242c3a36847f8010441",
+               "name": "Edith Head",
+               "profile_path": "/63ZeXQOh26sGa8nTbYWntieyWrz.jpg",
+               "id": 4350,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59450dc6c3a36816c500e739",
+               "name": "John Ferren",
+               "profile_path": null,
+               "id": 1834770,
+               "department": "Art",
+               "job": "Other"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59450b0cc3a368052d00a9db",
+               "name": "Sam Comer",
+               "profile_path": null,
+               "id": 7687,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 2,
+               "credit_id": "594507bdc3a36816e400d83e",
+               "name": "Pierre Boileau",
+               "profile_path": "/rQ7QQlqVRCfCTRZbDzM5r9tlS4p.jpg",
+               "id": 5733,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 2,
+               "credit_id": "594507cac3a368052d00a719",
+               "name": "Thomas Narcejac",
+               "profile_path": "/aONgsd4HsW4lT7IUs0wukpz9Wa5.jpg",
+               "id": 5734,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 0,
+               "credit_id": "594509969251413fbb00dd9d",
+               "name": "Richard Mueller",
+               "profile_path": null,
+               "id": 1733585,
+               "department": "Camera",
+               "job": "Other"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59450a019251413fc200dae0",
+               "name": "John P. Fulton",
+               "profile_path": null,
+               "id": 100762,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59450a2a9251413fdd00e004",
+               "name": "Farciot Edouart",
+               "profile_path": null,
+               "id": 1027339,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59450a7f9251413fb100ebf2",
+               "name": "W. Wallace Kelley",
+               "profile_path": null,
+               "id": 111987,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59450b30c3a368171b00d2c5",
+               "name": "Frank R. McKelvy",
+               "profile_path": null,
+               "id": 1332196,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59450b8c9251413fbb00df75",
+               "name": "Saul Bass",
+               "profile_path": "/eIvic86r1AMm48BjAOcfnvc044L.jpg",
+               "id": 19460,
+               "department": "Art",
+               "job": "Title Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59450bd69251413fb100ed5f",
+               "name": "Daniel McCauley",
+               "profile_path": null,
+               "id": 50581,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59450c24c3a368167600eaf9",
+               "name": "Wally Westmore",
+               "profile_path": null,
+               "id": 7689,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59450c839251413ff400e4b2",
+               "name": "Nellie Manley",
+               "profile_path": null,
+               "id": 50580,
+               "department": "Costume & Make-Up",
+               "job": "Hair Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59450cbbc3a36816f600e6c8",
+               "name": "Harold Lewis",
+               "profile_path": null,
+               "id": 9107,
+               "department": "Sound",
+               "job": "Sound Recordist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59450cd69251413fc200dd63",
+               "name": "Winston H. Leverett",
+               "profile_path": null,
+               "id": 1500450,
+               "department": "Sound",
+               "job": "Sound Recordist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59450df3c3a368052d00acb2",
+               "name": "Muir Mathieson",
+               "profile_path": null,
+               "id": 39055,
+               "department": "Sound",
+               "job": "Conductor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59450e839251413fb100f006",
+               "name": "Herbert Coleman",
+               "profile_path": null,
+               "id": 2653,
+               "department": "Production",
+               "job": "Associate Producer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Mystery",
+            "id": 9648
+         },
+         {
+            "name": "Romance",
+            "id": 10749
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         }
+      ],
+      "popularity": 26.515169,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 426,
+      "vote_count": 1588,
+      "budget": 2479000,
+      "overview": "A retired San Francisco detective suffering from acrophobia investigates the strange activities of an old friend's wife, all the while becoming dangerously obsessed with her.",
+      "similar": [
+         1092,
+         1246,
+         1281,
+         845,
+         2018,
+         223,
+         963,
+         11601,
+         3766,
+         16227,
+         17136,
+         2020,
+         374052,
+         28434,
+         5968,
+         25551,
+         20025,
+         341,
+         28663,
+         296449
+      ],
+      "original_title": "Vertigo",
+      "runtime": 128,
+      "poster_path": "/obhM86qyv8RsE69XSMTtT9FdE0b.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
+            "name": "Paramount",
+            "id": 4,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": null,
+            "name": "Alfred J. Hitchcock Productions",
+            "id": 10715,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1958-05-09",
+      "vote_average": 8.1,
+      "belongs_to_collection": null,
+      "tagline": "Alfred Hitchcock engulfs you in a whirlpool of terror and tension!",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Alfred Hitchcock"],
+      "runtime": 128,
+      "synopsis": "A woman's face gives way to a kaleidoscope of credits, signalling the start of Alfred Hitchcock's Vertigo to Bernard Hermanns haunting score. A criminal climbs up the rungs of the ladder on a dark San Francisco night. John \"Scottie\" Ferguson (James Stewart), a detective, and a police officer are hot on his trail. They chase him across the top of buildings. The thief jumps between two buildings, making it across. The police officer follows, but Scottie can't get his footing. He slips. Scottie hangs on to the gutter as his fear of heights kicks in. The police officer tries to grab his hand, but he falls to his death. Scottie witnesses this and clutches the gutter. Months after the incident, Scottie reclines in the home of Marjorie Midge Wood (Barbara Bel Geddes), a painter and underwear designer. She is concerned about Scottie's plans now that he is back in shape. He has quit the police force due to his acrophobia, and does not want to be a desk jockey. Midge and Scottie used to be engaged back in college (Midge had called it off). She urges him to take a vacation. \"Don't be so motherly\", responds Scottie. They discuss an old college buddy, Gavin Elster (Tom Helmore), who wants to meet with Scottie. Before Scottie prepares to meet Elster, he explains his plan to get over his fear. He first stands on a step stool. Midge gives him a ladder chair, and Scottie is able to handle the first two steps, but when he reaches the top, he looks out the window and panics. He collapses in her arms. A familiar pedestrian crosses the street near the docks. Scottie meets Gavin who is in the shipping business. Gavin had married into the successful shipping business, and he wants Scottie to tail his wife. He does not suspect infidelity, but has suspicions that his wife has been possessed by something. Her words would fade, and she would become distant. She wanders, and even moves differently. Scottie initially thinks he is crazy, but is intrigued. Gavin tells him to meet them at Ernie's Restaurant the following night. Ernie's Restaurant is a lavish, upscale eatery, plush and scarlet. Scottie first spots Madeleine Elster (Kim Novak) who is stunning, with platinum blonde hair and a green shawl. He is mesmerized by her. The next morning, he stalks her outside her house. She wears a simple gray suit with white gloves, as she gets into her green automobile. Scottie trails her through the streets of San Francisco, as she visits a flower shop and purchases a small bouquet. He then trails her to the Mission Dolores, where she goes through the chapel to the cemetery, where she stands at a grave. As she exits, Scottie notes the headstone, which reads \"Carlotta Valdes born: December 3 1831 died: March 5 1857\". He then follows her to the Palace of the Legions of Honour, an art museum. Madeleine sits, staring at a painting for hours. Scottie notices that the bouquet she purchased is just like the one in the drawing. Also, her hair is done exactly like the woman in the painting. Scottie discovers from the curator, that the painting is titled \"A Portrait of Carlotta\". Finally, he follows her to the McKittrick Hotel, where Scottie observes Madeleine on the second story. Scottie enters the hotel, which has a very baroque look to it. Scottie asks the manager of the McKittrick Hotel (Ellen Corby), who the occupant of the room is. She hesitates to tell him, until Scottie reveals his badge. The manager then notes that she has not been in the room all day. Scottie finds this impossible, and goes up to her room. He looks down the street to discover that her car is gone. Scottie returns to Midge's home where she tells him of San Francisco historian Pop Liebel (Konstantin Shayne), who owns the Argosy Book Shop. Pop tells Scottie that a rich man built the house for Carlotta Valdes, and they had a child. However, the rich man threw Carlotta out, and took her child. Carlotta went from depressed to insane, and took her own life. On the drive home, Midge and Scottie talk about the portrait; he shows her the catalogue picture. The resemblance is uncanny. Another conversation with Gavin reveals that Madeleine had started to wear Carlotta's jewellery, particularly a ruby pendant shown in the painting. Madeleine's great-grandmother was Carlotta Valdes, a fact that Madeleine does not know. Gavin only knows this fact, because Madeleine's mother told him. Scottie follows Madeleine the next day to the Palace of the Legions, where she watches the portrait. Then he follows her to Fort Point near the Golden Gate Bridge. Madeleine strolls by the shore, throwing petals into the bay, until she jumps in. Scottie dives after her. He tries to revive her, but she is out cold, and he takes her back to his apartment. She wakes up naked in his bed, where she is handed a red bathrobe. He asks her if she remembers anything, and explains that he rescued her from drowning. Madeleine maintains that she fainted and fell. He questions her, \"Has this ever happened to you before?\" He gets a telephone call from Gavin, concerned about the whereabouts of his wife. Scottie reassures him that Madeleine is at his apartment. Gavin confides that Madeleine is twenty-six - the same age at which Carlotta Valdes committed suicide. Scottie hears the door close, and realises that Madeleine has left. As Madeleine drives away from Scottie's house, Midge arrives just in time to have a misunderstanding. She believes that Scottie and Madeleine are in a relationship. The next morning, Scottie trails Madeleine through the streets of San Francisco, only to find that Madeleine has been looking for Scottie's house. Scottie catches her leaving a thank you letter for saving her. She did not know the address, but followed the Coit Tower. Scottie insists that they wander together, because they are both alone. They arrive at Big Basin Redwoods State Park, where they admire the ancient redwoods. As they view a cross-section of a tree with the approximate dates of historical events. Madeleine goes into a trance, seemingly becoming Carlotta, recounting the dates of her birth and death. Madeleine wanders deeper into the woods, and Scottie follows her. He confronts her about the jump, and tries to bring Madeleine back. By the shore, Madeleine begins to reveal fragments of her vague memories: an empty grave with no name, waiting for her; an empty room in which she sits alone; and finally a tower, bell, and garden in Spain. Madeleine admits she is not crazy; she does not want to die. They kiss as the waves crash onto the rocks. Scottie promises he will never leave her. Midge had sent a note to Scottie, who arrives at her house. Midge had been painting a picture of herself as Carlotta Valdes. Scottie is not amused. Distressed, he leaves her home. Midge ruins the painting, upset that she admitted she had fallen for him again. Madeleine returns to Scottie's house, where she tells him of an awful dream, with a tower, a bell, and a village. As she describes the location in detail, Scottie finishes her descriptions. \"You've been there!\" he exclaims. Scottie is talking about the San Juan Bautista, a mission that has been converted into a museum. They drive to the mission. When they arrive at the mission, they enter the livery stable, where Scottie tries to dismiss the dreams logically. He points out certain objects that are real. They kiss. Madeleine explains she must do something. She asks him if he believes she loves him. He replies yes. \"And if you lose me, then you'll know I, I loved you. And I wanted to go on loving you'', she says. She starts to go to the church, when Scottie realizes she is going to the bell tower. Scottie chases her into the chapel, and sees her run up the stairs. He follows her, but as he looks down, his acrophobia sets in: he gets vertigo. He cannot follow her up to the top of the bell tower. He watches, helpless, in fear and horror as Madeleine's body plunges to the tiles below. Scottie staggers out of the mission, sun blinding his eyes, dumbfounded. At the a judicial hearing concerning Madeleine's death, the judge is particularly cruel to Scottie, as he insults him for letting his weakness get in the way of saving Madeleine. The court rules the incident a suicide. Gavin comforts Scottie, while telling him that, with the loss of his wife, he can no longer stay in San Francisco. Gavin sets off to Europe. Scottie has trouble sleeping. Blue and purple flashes signal his nightmare, as an animated bouquet unravels. He hallucinates of Carlotta Valdes at the hearing, with special emphasis on the ruby necklace. Scottie walks into the cemetery where there is an open grave. Scottie falls into a tunnel, then his body lands next to Madeleine's on the tiles of the mission. He wakes up in a cold sweat. Midge arrives to care for Scottie in a psychiatric ward. She tries to comfort him, \"mother's here\". Scottie will not speak, he is in a daze. The doctor believes that Scottie will be incapacitated for a year due to stress and anxiety from his depression and guilt. When Scottie gets out of the hospital, he visits the old Elster home, and spots the green car. In the distance, a woman in gray suit is getting in it. Unfortunately for him, it is not Madeleine; it is an old neighbour who bought the car from Gavin. At Ernie's he spots a woman in grey, but again, it is not Madeleine. He even sees Madeleine at the Palace of the Legions, but once again, it is not her. While looking at a bouquet at a flower shop, he sees a striking brunette in a green suit. Although she doesn't resemble Madeleine in dress, style, or movement, the face is a dead ringer. He follows her to the Hotel Empire, and sees her through the fifth floor window. When Scottie knocks on the door, the woman is concerned that he is a creep. He reassures her he just wants to talk. He spits questions at her, and she reveals that she is Judy Barton (Kim Novak again) from Salina, Kansas. Judy realises that Scottie's heart is broken for his former flame, and she takes pity on him. She agrees to go for dinner with him at Ernie's. Scottie leaves and Judy tells her story via flashback. She WAS Madeleine, running up the steps of the bell tower. At the top, Gavin Elster was there, holding the body of the REAL Madeleine Elster, dressed in exactly the same wardrobe as Judy. It was the real Madeleine's body that was thrown off the bell tower, with Judy letting out the scream. Judy reveals the gray suit that she wore as her disguise, hidden in the back of her closet. She begins to write a letter to Scottie, explaining that she was Gavin's accomplice in the murder of his wife. She had become her doppelgänger to fool Scottie, and use him as a witness to explain that Madeleine was mentally unstable. Gavin had known about his vertigo, and knew that Scottie would never make it to the top of the bell tower. Judy reconsiders this letter, and tears it up. That night, Scottie suspects he sees Madeleine at Ernie's. He escorts Judy home that night, her apartment flooded with the green neon light of the Hotel Empire sign. Although he loves Madeleine, there is something about Judy that he can't shake. They agree to meet the next morning. They engage in a series of dates, with Scottie becoming happier with the relationship. However, he begins to buy her clothes, searching obsessively for the gray suit and white gloves that Madeleine used to wear. As Judy begins to break down, Scottie also realizes that she must dye her brown hair, platinum blonde. Although Judy begs him to love Judy Barton, she has fallen so in love with him that she will conform to his image. Her makeover complete, she returns to a waiting Scottie who has her pull her hair back for the final transformation. In a dreamlike state, with the green glow all around them, they embrace and kiss. The room turns into the livery stable from the Mission, Scottie's last kiss with Madeleine, and then back to the apartment. A couple of nights later, the two decide to go out to Ernie's. Judy dresses up, and wears the ruby pendant. Scottie realizes that something is amiss. He suddenly becomes distant. He passes Ernie's and continues driving past the Redwood trees. He tells her he has one final thing to do. They arrive at the mission, where Scottie forces Judy to re-enact Madeleine's death. He wants to use this as a second chance to save Madeleine and exorcise his demons forever. As he reaches the top of the bell tower, conquering his acrophobia, he puts the whole puzzle together. He realizes that Judy was the counterfeit all along. He never knew Madeleine. He was being set up as Gavin Elster's witness in the murder of Elster's wife. He pulls Judy to the top of the tower, where she protests. Judy pleads that she has fallen in love with Scottie. They kiss. The sudden appearance of a nun, however, shocks Judy, who plummets to her death off the ledge. A stunned Scottie is distraught, losing the same woman twice in the same fashion.",
+      "writers": [
+         "Alec Coppel",
+         "Samuel A. Taylor"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0052357/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BNzY0NzQyNzQzOF5BMl5BanBnXkFtZTcwMTgwNTk4OQ@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: James Stewart, Kim Novak, Barbara Bel Geddes | See full cast and crew »"],
+      "reviews": [
+         "Starting in 1958, Alfred Hitchcock directed a remarkable sequence of films in a row, each of them a classic; Vertigo (1958), North by Northwest (1959), Psycho (1960) and The Birds (1963). Never has a director made four such genuinely great movies in such a short space of time, either before or since. The pick of this high standard bunch is undoubtedly Vertigo. From the opening titles, with their circling spiral imagery, to the dramatic final scene this is a movie that takes you to a different time and place. Specifically, to a San Francisco of the past; full of deserted parks, discrete rooming houses, oddly menacing art galleries and florists where the customers enter and exit through the back door. Through this landscape wanders Jimmy Stewart, towering in the lead roll as a former detective recently retired after a bungled arrest leaves him with chronic vertigo. Plot machinations lead him to the alluring Kim Novak (one of Hitchcock's famous \"blondes\"), the young wife of a friend who has started behaving rather oddly. \"To reveal more,\" as Leonard Maltin wrote, \"would be unthinkable.\" While the performances of Novak and Stewart are memorable, the movie is really set apart by the intelligent script and the stylistic touches provided by the director. Hitchcock is in his very best form creating hypnotic scenes and a general sense of unease and dread in even the most banal of situations. He is aided in this by the wonderful score of Bernard Herrman. A particular favourite of mine is the extended (largely silent) segment where Stewart follows Novak for the first time. Nothing much happens, but the atmosphere of these scenes is enough to keep you on the edge of your seat! One of the all-time greats. They definitely don't make them like this anymore.",
+         "One of the many things that made Hitchcock such a great director is that he did not just stick to the same formula time after time; all of his best movies have their own unique feel and characteristics. \"Vertigo\" is particularly distinctive, both as a complex story filled with suspense, and as a fascinating study in psychological tension. While it lacks the humor of some of Hitchcock's other masterpieces, and sometimes moves rather slowly, it is unforgettable, and a great achievement by the director and his cast. If you have never seen it, you will enjoy it more if you do not know too much about the plot, although the actual story is somewhat secondary to the ways that the characters are tested and their weaknesses exposed by the various events. Hitchcock uses a complicated story, interesting characters, lavish visual detail, and deliberate pacing, plus a fine musical score by the incomparable Bernard Hermann, to produce a mysterious, almost unearthly, atmosphere. The tension rarely lets up, and the viewer is caught up completely in it, at times almost to the point of discomfort. It's the kind of film that repays careful attention, as almost every moment is filled with significant detail. There are also some great acting performances. Jimmy Stewart is outstanding in a role far different from his usual screen persona. He enables the viewer to sympathize completely with him, even as we cringe at many of his character's actions and decisions. Kim Novak is completely convincing in a difficult dual role, and the movie would not have been as compelling without her fine performance. The rest of the cast all have much smaller roles, but are all quite good too, especially Barbara Bel Geddes as Scottie's (Stewart's) old friend, who provides important insight into Scottie's character. \"Vertigo\" is a classic by any standard. It's a must-see that remains just as impressive with each viewing.",
+         "Over the years, this film has been regarded as one of Hitchcock's masterpieces. Its been called the most personal, emotional, and complex of Hitchcock's films. I agree with all of these things except for one, this film IS Hitchcock's masterpiece work. All of the others pale in comparison to this. There are phenomenal performances here by Jimmy Stewart who plays the biggest anti-hero of his career and Kim Novak whose stunning beauty and exceptional personalities shine through this dark film. Barbara Bel Geddes provides great support as well. Everything about this film, the cinematography, the story, the depth, etc. leaves you mystified and transfixed on this dizzying, surreal artwork of a film. It truly is flawless. If you are a Hitchcock fan and haven't seen this you need to get up right now and buy, not rent, this as soon as possible!",
+         "I have seen ALOT of movies in my life, but none have moved me the way Vertigo has...It's simply brilliant...the more times one views it, the more one picks up from it...a true masterpiece from the master himself...When I think Vertigo, I think the colors red and green...when I think Vertigo I think obsession with love, and the film itself...This movie is so deep that you could write a thesis on it and keep adding to it from time to time...Hitchcock really gave his all in this picture...it's about the ultimate love...wanting to achieve the ultimate love, and, as happens in life, never having love turn out to be the way we want it to be...all star performances by Stewart, Novak and Bel Geddes make this visually stunning masterpiece a true film classic...Newly restored, the DVD version simply blows you out of the water....I have seen the movie about 20 times now, and everytime I love it more...Vertigo is the ultimate cult film for me, as I keep going back to it more and more...considering it's dark storyline, it must be a glut for punishment, but Hitch only keeps me wanting more....10 stars...only because I can't give it 100 stars!",
+         "Although it got at best mixed reviews when first released, Vertigo is now considered one of Alfred Hitchcock's classic films. A tribute to the players, the director, and the composer of that haunting musical score that will stay with you forever. The music is probably more important here than in most films, let alone most Hitchcock films. Because for most of the first half of the film and a great deal of the second half, it is without dialogue. In fact Kim Novak does not have a spoken line until about 48 minutes into the little more than 2 hour feature. She's under James Stewart's surveillance and the whole story of his growing obsession with her is told through his facial expressions and through Bernard Herrmann's music. Stewart is a cop retired on disability who is hired by an old college friend Tom Helmore to follow his wife. Helmore tells Stewart a tale about his wife falling under the spirit of her dead great grandmother who committed suicide. The wife he's following is played by Kim Novak. Novak in fact makes a suicide attempt and by jumping into San Francisco bay and Stewart jumps in and saves her. In a brief prologue the reason for Stewart's disability is told. While on the police force, he lost a man while pursuing the suspect in a rooftop chase. Another cop was killed trying to save Stewart who had slipped and was hanging on to a roof gutter for his dear life. After that Stewart acquired an understandable fear of heights with accompanying dizziness, vertigo. Later on at an old mission which has significance for Novak's family, Novak runs up to the top of the bell tower and Stewart because of his Vertigo can't pursue her to prevent her from jumping off and taking her life. Later on he spots Kim Novak again with a different color hair and this time essentially stalks her until they meet. By now he's totally obsessed with the dead Novak who he fell in love with. Alfred Hitchcock is plumbing some depths of the human psyche in Vertigo. Certainly good old all American Jimmy Stewart would not be one you would think of casting as a voyeur and a stalker. But he pulls off the performance in probably the film with the least dialogue Alfred Hitchcock ever made since sound came in. Kim Novak is hauntingly beautiful in Vertigo, she has to be or the whole plot would make no sense. Barbara Bel Geddes is in this also as Stewart's girl friend who finds herself losing him to an obsession with a ghost. She also serves as a sounding board for Stewart as he expresses some of his feelings to her. This was the first of two films Stewart and Novak made together. Ironically enough the second one, Bell Book and Candle, is about a witch played by Novak who actually uses witchcraft to ensnare Stewart. Given Stewart's obsession with Novak in Vertigo, if Hitchcock had thrown in witchcraft into the plot, the audience would certainly have believed it. Of course this is an Alfred Hitchcock film and therefore not all is as it seems. I can't sat any more, but there are no happy endings for anyone in this haunting film.",
+         "John \"Scottie\" Ferguson is a San Francisco cop who decides to quit the service after his acrophobia results in him being unable to save the life of a colleague. Whilst taking it easy he gets a call from an old school friend, Gavin Elster, asking him if he wouldn't mind doing a little bit of detective work for him. The job is simply to tail his wife because she's obsessed with an ancestress who committed suicide, and the wife, Madeline, is showing signs of herself being suicidal. Ferguson tails her diligently and as the tail progresses, Ferguson himself starts to become ever obsessed about the demur blonde Madeline. As the story twists and turns, Ferguson's obsession will have far reaching consequences for both parties... Vertigo is Alfred Hitchcock's most discussed, dissected and critically reappraised film, based on a novel by Pierre Boileau called D'Entre Les Morts, (also writer of Diabolique), Vertigo was not well liked on its release and unable to be viewed for some time due to copyright, the film was restored from a destroyed negative into a glorious 70mm print, and now in all its glory it can be seen as one of the greatest films to have ever been made. What is most striking about Vertigo, outside of Hitchcock baring his innermost that is, is that its plot on the surface is simplicity personified, but delving deeper, and repeat viewings are a necessity, its apparent that Vertigo is a chilling force of cinema, taking great delight in gnawing away at your perceptions, perhaps even your own capabilities as a human being. Very much a film of two great halves, Vertigo first seems intent on being an almost ghost story like mystery. Once the prologue has introduced us to Ferguson's fear of heights, we then enter an almost dream like sequence of events as Ferguson tails the troubled Madeline, the suggestion of reincarnation bleakly leading to death hangs heavy as Hitchcock pulls his atmospheric strings. Then the film shifts into dark territory as obsessions and nods to Dante's Inferno and feverish dreams take control, Hitchcock, as we have come to learn over the years, lays out his soul for us the audience to partake in, the uneasy traits sitting side by side with fascination of the story. All of which is leading us to a spine tingling finale that is as hauntingly memorable as it is shocking, the end to our own dizzying journey that Alfred and his team have taken us on. Technically the film is magnificent, the opening credits from Saul Bass brilliantly prep us for what is about to unfold, while Bernard Herrmann's score is as good as anything he ever did, unnerving one minute, swirlingly romantic the next, a truly incredible score. Hitchcock himself is firing from the top draw, introducing us to the brilliant zoom-forward-track-back camera technique to induce the feeling of Vertigo itself, with that merely a component of two hours of gorgeous texture lined with disturbing little peccadilloes. The two leads are arguably doing their respective career best work, James Stewart as Scottie Ferguson goes real deep to play it out with an edgy believability that decries his aw-shucks trademark of years since past. Kim Novak as Madeline is perhaps the quintessential Hitchcock blonde, perfect with the duality aspects of the role and playing off Stewart's ever creepy descent with seamlessly adroit skill. It however should be noted that Hitchcock and his loyal subjects had to work hard to get Novak right for the role, but the result proves that Novak had ability that sadly wasn't harnessed on too many other occasions. Vertigo is a film that I myself wasn't too taken with on my first viewing, it's only during revisits that the piece has come to grab me by the soul and refuse to let go, it not only holds up on revisits, it also gets better with each subsequent viewing, it is simply a film that demands to be seen as many times as possible. Not only one of the greatest American films ever made, one of the greatest films ever made...period, so invest your soul in it, just the way that Hitchcock himself so clearly did. 10/10",
+         "I get a bit tongue-tied talking about Hitchcock's greatest movies because they are just so remarkable, so astonishing, so entertaining, so multi-levelled, that it's very difficult to put into words what makes them great. Hitchcock made some of the greatest movies ever made, and 'Vertigo', though by no means his most accessible film, is quite possibly his crowning achievement. It is without any doubt a masterpiece, and I cannot fault it in any way. Every time I watch it I am knocked out, and every time I see something new, some nuance or moment that I appreciate more than I did the previous viewing. Jimmy Stewart, one of the most popular movie star in Hollywood history, gives a remarkable performance throughout, one of the best in his career. Stewart had worked with Hitchcock before, and had always been superb, especially in the much copied suspense classic 'Rear Window' a few years prior to this, but he plays against type in 'Vertigo' and is jaw-droppingly good. It's difficult to remember now that 'Vertigo' is regarded as a movie milestone, that it received many bad reviews when it was originally released, and was a relative failure for Hitchcock. A lot of this had to do with Stewart's intense performance I think, and also the difficult subject matter. 'Vertigo' is essentially a tale of sexual obsession, something most people were probably not expecting at the time! Almost as good as Stewart is Kim Novak ('The Man With The Golden Arm') in a role that she will always be remembered for. 'Vertigo' is a virtuoso piece from Hitchcock, and a movie that will no doubt continue to inspire other film makers over the years to come. However the most important thing about it is that it is still wonderful viewing, and a movie experience that you will never forget. In my mind it is one of the three of four greatest American movies. Simply astonishing.",
+         "Retired detective, who is scared of heights, is hired to follow another mans wife and there follows intrigue, mystery and suspense. A super melodrama! The acting,directing, sets, costumes, script, music, etc are all excellent. And near the start of the film there is one brilliant 10 minute period when there is no dialogue but the action is controlled only by the music. A sensational analysis of the movie is by Roger Ebert: see external reviews. This picture is worthy of maximum marks.",
+         "Although it was only modestly successful in theaters, time has been kind to VERTIGO and now many believe this is Hitchcock's masterpiece. Time was NOT kind to the original prints of the film, and in the mid-1990s Universal Studios put up one million dollars for a two-year restoration of the film. This is covered completely in a fairly fascinating 29-minute extra on the DVD, originally broadcast as an A&E special. The entire original film-making process is covered, the movie was first called \"From Among The Dead\", and includes current interviews with many principals, including Novak and Bel Geddes, plus the techniques used for the restoration. This special edition DVD should be a must-own for any fan of the film VERTIGO. The sound and picture are just fabulous for a film made in 1957. My review, following, contains certain SPOILERS which are necessary for my summary. Please read no further if you have not seen the film. Watch the film first, you will not be disappointed. The film starts with cops chasing a crook on SF rooftops, Scottie (James Stewart, 49) misses one roof, is hanging high from a gutter, cop returns to offer assistance, but instead falls to his death. This traumatic experience triggers the vertigo in Scottie, makes him unsuited for police work, he quits, and Midge (Barbara Bel Geddes) tells him only another emotional shock will bring him out of it. Midge, an artist, not so secretly wants Scottie, but while they are good friends, he just doesn't love her. Old college friend, wealthy shipbuilding magnate, hires Scottie to follow his wife who had been acting strangely. He meets Madaleine (Kim Novak, 24) and follows her to find that she visits the grave of Carlotta, who died at 25 in 1857, also visits the portrait of Carlotta at the art museum, has \"visions\" of being in a Spanish mission, all indications are that the dead Carlotta is taking over Madaleine's mind. While following her, saving her from a jump into SF Bay, and keeping her from jumping into the Pacific, Scottie is falling in love with her, the first time he has had such feelings. Scottie feels he needs to take Madeleine to the old mission 100 miles south of SF to free her of this possession, but instead she climbs up the mission bell tower, Scottie is unable to follow quickly enough, his vertigo holding him back, he hears a scream, sees what looks like Madeleine's body falling to the red tile roof below, dead. A quick inquest ruled it a suicide, the friend gets out of shipbuilding, travels, while Scottie tries to get over his great loss, his first ever love, includes a stay in a mental hospital. Not too long after, Scottie sees a woman remarkably similar to Madeleine walking to her residence, a hotel, he follows her, knocks on the door, she is dressed differently, has different color hair, a different personality, speaks differently, and says she is Judy, from Kansas, has lived there 3 years, even shows Scottie her ID to prove it. But Scottie has not gotten over Madeleine, is obsessed with recreating her, asks Judy to dress like her, get her hair colored, all the while Judy just wishes Scottie would like her for who she is, not because she looks like someone else. But she gets completely back to the Madeleine look, same clothes, same hair color. By now we have seen through Judy's flashback what is really going on. The wealthy husband had hired Judy to impersonate his wife, Madeleine, and had set up the incident at the mission so that he could shove the already dead wife off, Scottie would be the manipulated witness that she had climbed the stairs and jumped off, and after being paid off, Judy could resume her life. To her detriment, he also gave her the heirloom, Carlotta's necklace, and her wearing that is what got Scottie suspicious of the whole scheme. He catches on, brings Judy back to the mission, they climb to the bell, a nun approaches to see what is going on, Judy panics and falls to her death on the roof. Scottie no longer was in love with her, feeling lied to and manipulated, he has no emotion, but goes to the edge of the ledge and looks down, his vertigo gone. The emotional shock that Midge spoke of has cured him. The story is a tragedy of two lives that only through misfortune become intertwined, Scottie's and Judy's. He is not young, now retired, and had never found true love. In Madeliene he thinks he found it, only to be shocked then disillusioned when the full truth came out. When Judy died, he was back where the film started. Maybe Midge was the one after all. Judy was very flawed, enough to participate in a murder plot and feel no apparent guilt over it. All she wanted was to be loved by Scottie, but a relationship built on fraud has no chance, especially since Scottie was an honest man. James Stewart is known for his ability to play an \"everyman\" character, and is superb as Scottie. Kim Novak is a bigger mystery. She was not the first choice for the role, received it virtually by default, but after watching the movie it is hard to imagine anyone else playing the dual roles of Madeleine and Judy, she pulls it off so well. A big bonus is her commentary on the making-of extra, seeing her after all these years. She was only 24 when Vertigo was filmed, but she looked 40, a glamorous and beautiful 40. Actresses today who are 24 often still play teenagers. How things have changed in the movies!",
+         "Along with \"Psycho\", Hitchcock's best film that wraps itself around the viewer very fast and never does let go. San Francisco detective Jimmy Stewart is slowly going crazy due to a failed mission which did not work because of his intense fear of heights. This is all front-page news of course and Stewart is shamed about the whole event. But a ray of light shines as he gets a job to watch a man's wife (Kim Novak) who is supposedly having an affair with another man. Stewart believes this is his chance to put the past behind him, but sometimes the future is even darker. Stewart falls in love with Novak and the love turns into a dark and twisted obsession that becomes deeper and deeper as the film progresses. When tragedy strikes, that is the end. Right? Not quite. An amazing screenplay and arguably Hitchcock's greatest directing venture make the film solid and Stewart's stunning performance raises the whole project to a classic level. Somewhat ignored around the awards circuit in 1958, but ages beautifully as the years go by. 5 stars out of 5."
+      ],
+      "genres": [
+         "Mystery",
+         "Romance",
+         "Thriller"
+      ],
+      "productionCompanies": ["Alfred J. Hitchcock Productions"],
+      "summaries": [
+         "Former Police detective John \"Scottie\" Ferguson was asked by a friend to investigate his wife named Madeleine since he was afraid that she might attempt to kill herself due to probable insanity as she thinks that she might be possessed by a dead woman. Scottie agrees and ended up falling in love with her. Unfortunately for him, Madeleine died and he was left alone until a woman named Judy came along and things start to unfold.",
+         "John \"Scottie\" Ferguson is a retired San Francisco police detective who suffers from acrophobia and Madeleine is the lady who leads him to high places. A wealthy shipbuilder who is an acquaintance from college days approaches Scottie and asks him to follow his beautiful wife, Madeleine. He fears she is going insane, maybe even contemplating suicide, because she believes she is possessed by a dead ancestor. Scottie is skeptical, but agrees after he sees the beautiful Madeleine.",
+         "Police detective John 'Scottie' Ferguson is asked by an old college friend, Gavin Elster, if he would have a look into his wife Madeleine's odd behavior. Lately, she's taken to believing that she is the reincarnation of a woman who died many years ago and Elster is concerned about her sanity. Scottie follows her and rescues her from an apparent suicide attempt when she jumps into San Francisco bay. He gets to know her and falls in love with her. They go to an old mission church and he is unable to stop her from climbing to the top of the steeple, owing to his vertigo, where she jumps to her death. A subsequent inquiry finds that she committed suicide but faults Scottie for not stopping her in the first place. Several months later, he meets Judy Barton, a woman who is the spitting image of Madeleine. He can't explain it, but she is identical to the woman who died. He tries to re-make her into Madeleine's image by getting her to dye her hair and wear the same type of clothes. He soon begins to realize however that he has been duped and was a pawn in a complex piece of theater that was meant to end in tragedy.",
+         "A retired San Francisco detective suffering from acrophobia investigates the strange activities of an old friend's wife, all the while becoming dangerously obsessed with her."
+      ],
+      "budget": 2479000
+   },
+   "movielensId": 903,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1958-05-09",
+      "dvdReleaseDate": "2001-03-06",
+      "directors": ["Alfred Hitchcock"],
+      "runtime": 128,
+      "movieId": 903,
+      "title": "Vertigo",
+      "mpaa": "PG",
+      "actors": [
+         "James Stewart",
+         "Kim Novak",
+         "Barbara Bel Geddes",
+         "Tom Helmore",
+         "Henry Jones",
+         "Raymond Bailey",
+         "Ellen Corby",
+         "Konstantin Shayne",
+         "Lee Patrick",
+         "Bess Flowers"
+      ],
+      "imdbMovieId": "0052357",
+      "originalTitle": "Vertigo",
+      "genres": [
+         "Mystery",
+         "Romance",
+         "Thriller"
+      ],
+      "youtubeTrailerIds": [
+         "yUJNZU96iYY",
+         "a-RnaJ6sIsw",
+         "uqIOQK1L6QE",
+         "c2u96ONO5K0"
+      ],
+      "plotSummary": "A retired San Francisco detective suffering from acrophobia investigates the strange activities of an old friend's wife, all the while becoming dangerously obsessed with her.",
+      "tmdbMovieId": 426,
+      "avgRating": 4.12004,
+      "releaseYear": "1958",
+      "numRatings": 17673,
+      "posterPath": "/obhM86qyv8RsE69XSMTtT9FdE0b.jpg"
+   }
+}

@@ -1,0 +1,757 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "veterinarian",
+            "id": 2735
+         },
+         {
+            "name": "radio presenter",
+            "id": 3740
+         },
+         {
+            "name": "false identity",
+            "id": 3864
+         },
+         {
+            "name": "decoy",
+            "id": 4049
+         },
+         {
+            "name": "beguilement",
+            "id": 4214
+         },
+         {
+            "name": "blind date",
+            "id": 4513
+         },
+         {
+            "name": "love",
+            "id": 9673
+         },
+         {
+            "name": "art",
+            "id": 14893
+         },
+         {
+            "name": "dog",
+            "id": 15162
+         }
+      ],
+      "imdb_id": "tt0117979",
+      "video": false,
+      "title": "The Truth About Cats & Dogs",
+      "recommendations": [
+         2107,
+         12596,
+         10859,
+         12772,
+         11521,
+         1552,
+         9844,
+         9409,
+         26261,
+         10631,
+         11584,
+         9263,
+         16384,
+         20242,
+         4587,
+         10409,
+         11630,
+         11777,
+         13203,
+         15037
+      ],
+      "backdrop_path": "/qvsDTxEOCaT7NmC0PLgSZBGQ7dm.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Noelle",
+               "gender": 1,
+               "credit_id": "52fe44c1c3a36847f80a83e9",
+               "name": "Uma Thurman",
+               "profile_path": "/6SuOc2R7kXjq3Em24KTNDW9qblJ.jpg",
+               "id": 139,
+               "order": 0
+            },
+            {
+               "cast_id": 3,
+               "character": "Abby",
+               "gender": 1,
+               "credit_id": "52fe44c1c3a36847f80a83f1",
+               "name": "Janeane Garofalo",
+               "profile_path": "/jwZs05qdp8kh6IwfECxDyRrteK8.jpg",
+               "id": 21197,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Brian",
+               "gender": 2,
+               "credit_id": "52fe44c1c3a36847f80a83f5",
+               "name": "Ben Chaplin",
+               "profile_path": "/6isUJ1s5U1QfPgNDkK8nTEjlb5X.jpg",
+               "id": 21343,
+               "order": 3
+            },
+            {
+               "cast_id": 56,
+               "character": "Roy",
+               "gender": 2,
+               "credit_id": "5672a17d92514163bf002474",
+               "name": "James McCaffrey",
+               "profile_path": "/hE228gPvpr5OTWvm17X3guPJ6bF.jpg",
+               "id": 155173,
+               "order": 4
+            },
+            {
+               "cast_id": 57,
+               "character": "Eric",
+               "gender": 2,
+               "credit_id": "5672a190c3a36807190026e0",
+               "name": "Richard Coca",
+               "profile_path": "/pbCDsYaIFzAYHJ5vBvjPLYEsC7O.jpg",
+               "id": 157609,
+               "order": 5
+            },
+            {
+               "cast_id": 58,
+               "character": "Mario",
+               "gender": 2,
+               "credit_id": "5672a1abc3a36807140025f5",
+               "name": "Stanley DeSantis",
+               "profile_path": "/4cHxkhTd7oklyNkdva9WJp0FLrX.jpg",
+               "id": 4171,
+               "order": 6
+            },
+            {
+               "cast_id": 59,
+               "character": "Susan",
+               "gender": 0,
+               "credit_id": "5672a1c3c3a36807210024c7",
+               "name": "Antoinette Valente",
+               "profile_path": null,
+               "id": 1369400,
+               "order": 7
+            },
+            {
+               "cast_id": 60,
+               "character": "",
+               "gender": 2,
+               "credit_id": "59e392ec9251410b670000de",
+               "name": "Jamie Foxx",
+               "profile_path": "/cDRGXCNrwf1p9jouw9GzhU2vWP7.jpg",
+               "id": 134,
+               "order": 8
+            }
+         ],
+         "crew": [
+            {
+               "gender": 1,
+               "credit_id": "52fe44c1c3a36847f80a83fb",
+               "name": "Audrey Wells",
+               "profile_path": null,
+               "id": 36805,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44c1c3a36847f80a8401",
+               "name": "Richard Hashimoto",
+               "profile_path": null,
+               "id": 12843,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe44c1c3a36847f80a8407",
+               "name": "Audrey Wells",
+               "profile_path": null,
+               "id": 36805,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44c1c3a36847f80a840d",
+               "name": "Howard Shore",
+               "profile_path": "/4HbFF5o13GkO0rHi4OVXXMb7U5L.jpg",
+               "id": 117,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44c1c3a36847f80a8413",
+               "name": "Sting",
+               "profile_path": "/cnhlJfHWfNU0ig6hidOiXuvew7o.jpg",
+               "id": 982,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44c1c3a36847f80a8419",
+               "name": "Robert Brinkmann",
+               "profile_path": null,
+               "id": 56988,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44c1c3a36847f80a841f",
+               "name": "Stephen Semel",
+               "profile_path": null,
+               "id": 48070,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44c1c3a36847f80a8425",
+               "name": "Michael Lehmann",
+               "profile_path": "/rM0KmE5Fr9zAi5gzQv9bc78Q1GX.jpg",
+               "id": 7145,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56729b7692514163ce002336",
+               "name": "Debra Zane",
+               "profile_path": null,
+               "id": 495,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56729b8ac3a368071c002591",
+               "name": "Sharon Seymour",
+               "profile_path": null,
+               "id": 25140,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56729b9d92514163ce00233d",
+               "name": "Jeff Knipp",
+               "profile_path": null,
+               "id": 63293,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56729bb092514163b900237e",
+               "name": "Maggie Martin",
+               "profile_path": null,
+               "id": 957368,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56729bd6c3a368071c0025b6",
+               "name": "Bridget Kelly",
+               "profile_path": null,
+               "id": 23760,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56729bec92514163c80022d1",
+               "name": "Markus Manley",
+               "profile_path": null,
+               "id": 1550061,
+               "department": "Art",
+               "job": "Art Department Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56729c28c3a368070a00211a",
+               "name": "Ulrika Akander",
+               "profile_path": null,
+               "id": 1413091,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56729c3cc3a368072100240e",
+               "name": "Susan Dudeck",
+               "profile_path": null,
+               "id": 1378225,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56729c54c3a36807120025f1",
+               "name": "Hugo Weng",
+               "profile_path": null,
+               "id": 1050930,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56729c89c3a368070a00212a",
+               "name": "Scott Forbes",
+               "profile_path": null,
+               "id": 1550063,
+               "department": "Crew",
+               "job": "Special Effects Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56729cacc3a36807120025fb",
+               "name": "Valerie Zielonka",
+               "profile_path": null,
+               "id": 1352977,
+               "department": "Costume & Make-Up",
+               "job": "Costume Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56729cc292514163c80022eb",
+               "name": "Edward T. Hanley",
+               "profile_path": null,
+               "id": 1550064,
+               "department": "Costume & Make-Up",
+               "job": "Set Costumer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56729cd6c3a3680719002607",
+               "name": "Heather Kohlhoff",
+               "profile_path": null,
+               "id": 1550065,
+               "department": "Costume & Make-Up",
+               "job": "Set Costumer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56729ceac3a368071900260e",
+               "name": "Susan Lichtman",
+               "profile_path": null,
+               "id": 1550066,
+               "department": "Costume & Make-Up",
+               "job": "Set Costumer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56729d0492514163c80022f5",
+               "name": "Alexandra Leviloff",
+               "profile_path": null,
+               "id": 1550067,
+               "department": "Editing",
+               "job": "First Assistant Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56729d1f92514163c80022fc",
+               "name": "Angie Rubin",
+               "profile_path": null,
+               "id": 1544639,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56729d3b92514163c400246f",
+               "name": "Bonnie Greenberg",
+               "profile_path": null,
+               "id": 91142,
+               "department": "Sound",
+               "job": "Music Supervisor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56729d6092514163bf0023ee",
+               "name": "Tricia Ronten",
+               "profile_path": null,
+               "id": 1390539,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56729e3692514163b90023e3",
+               "name": "Reinhart Peschke",
+               "profile_path": null,
+               "id": 1406261,
+               "department": "Lighting",
+               "job": "Gaffer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56729e4e92514163bf00240f",
+               "name": "Mitch Dubin",
+               "profile_path": null,
+               "id": 1395463,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56729e6ec3a368071c002623",
+               "name": "Gregory Irwin",
+               "profile_path": null,
+               "id": 1530723,
+               "department": "Camera",
+               "job": "First Assistant Camera"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56729e9cc3a368071c00262a",
+               "name": "Randy Nolen",
+               "profile_path": null,
+               "id": 1391594,
+               "department": "Camera",
+               "job": "Steadicam Operator"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56729eb392514163ce0023b2",
+               "name": "Merie Weismiller Wallace",
+               "profile_path": null,
+               "id": 1377133,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56729ec6c3a368071c002632",
+               "name": "Bill O'Drobinak",
+               "profile_path": null,
+               "id": 1418485,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56729ee3c3a368071400258f",
+               "name": "Charley Gilleran",
+               "profile_path": null,
+               "id": 1550071,
+               "department": "Lighting",
+               "job": "Rigging Grip"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56729f07c3a3680714002598",
+               "name": "George Berndt",
+               "profile_path": null,
+               "id": 1535788,
+               "department": "Sound",
+               "job": "ADR & Dubbing"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56729f1d92514163cb002415",
+               "name": "Sukey Fontelieu",
+               "profile_path": null,
+               "id": 1550072,
+               "department": "Sound",
+               "job": "ADR & Dubbing"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56729f32c3a368071c002645",
+               "name": "Victoria Rose Sampson",
+               "profile_path": null,
+               "id": 13168,
+               "department": "Sound",
+               "job": "ADR & Dubbing"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56729f4ac3a3680712002653",
+               "name": "John T. Cucci",
+               "profile_path": null,
+               "id": 1367493,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56729f80c3a368070a00217a",
+               "name": "Dan O'Connell",
+               "profile_path": null,
+               "id": 1338372,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56729f9692514163bc0023ad",
+               "name": "Mark Pappas",
+               "profile_path": null,
+               "id": 1550073,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56729fb5c3a368070a002183",
+               "name": "Thom Brennan",
+               "profile_path": null,
+               "id": 1478854,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56729fd292514163bc0023c6",
+               "name": "Hamilton Sterling",
+               "profile_path": null,
+               "id": 1360100,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56729fe8c3a368071900267d",
+               "name": "John Joseph Thomas",
+               "profile_path": null,
+               "id": 1227175,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5672a00a92514163cb002436",
+               "name": "Rick Kline",
+               "profile_path": null,
+               "id": 1378169,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5672a02792514163cb00243a",
+               "name": "Gregory H. Watkins",
+               "profile_path": null,
+               "id": 1338374,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5672a04692514163cb00243f",
+               "name": "Bob Newlan",
+               "profile_path": null,
+               "id": 1378756,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5672a088c3a368071c00266a",
+               "name": "Jerry Ross",
+               "profile_path": null,
+               "id": 1391387,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5672a0a8c3a368070e0039b3",
+               "name": "Maureen Farley",
+               "profile_path": null,
+               "id": 1550074,
+               "department": "Crew",
+               "job": "Property Master"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5672a0c892514163bf00245d",
+               "name": "Gina Monaci",
+               "profile_path": null,
+               "id": 6393,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5672a0e2c3a368070c002221",
+               "name": "Barbara Olvera",
+               "profile_path": null,
+               "id": 1433996,
+               "department": "Costume & Make-Up",
+               "job": "Key Hair Stylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5672a0f992514163b9002423",
+               "name": "Jo-Anne Smith-Ojeil",
+               "profile_path": null,
+               "id": 548404,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5672a10dc3a368071200268f",
+               "name": "Deborah La Mia Denaver",
+               "profile_path": null,
+               "id": 23787,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Romance",
+            "id": 10749
+         }
+      ],
+      "popularity": 8.431102,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 8866,
+      "vote_count": 118,
+      "budget": 0,
+      "overview": "A successful veterinarian and radio show host with low self-esteem asks her model friend to impersonate her when a handsome man wants to see her.",
+      "similar": [
+         1903,
+         38,
+         1259,
+         1643,
+         9598,
+         24420,
+         261470,
+         10345,
+         11522,
+         1024,
+         232672,
+         38684,
+         276,
+         290762,
+         179144,
+         509885,
+         111969,
+         696,
+         10063,
+         5143
+      ],
+      "original_title": "The Truth About Cats & Dogs",
+      "runtime": 93,
+      "poster_path": "/5V10mg1rAbwWYNF6IjnEYokIR8f.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Noon Attack Pictures",
+            "id": 55140,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+            "name": "20th Century Fox",
+            "id": 25,
+            "origin_country": "US"
+         }
+      ],
+      "release_date": "1996-04-26",
+      "vote_average": 5.7,
+      "belongs_to_collection": null,
+      "tagline": "Brian's about to discover the woman he loves isn't the woman he loves.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Michael Lehmann"],
+      "runtime": 97,
+      "synopsis": "The Truth About Cats and Dogs is the story of two youngish women with good hearts and insecurity, who live in the same building. One is an intelligent brunette veterinarian of average looks, with her own radio show about caring for pets; the other is a blonde beginner fashion model of modest intellect, with a psychologically abusive manager who is also her lover. The two women form a friendship after the veterinarian stands up for the model when she hears the model's manager abusing her in the hallway. The veterinarian has a handsome and charming photographer call into her radio show about a difficult dog. Her success in helping the man calm the dog causes him to become smitten with her, so he invites her on a date. She, however, is ashamed of her average appearance, so she describes herself to him on the phone as having her model neighbor's appearance, and then proceeds to convince her neighbor to play the role of her in person - but she speaks to him personally when he calls her on the phone to have profound conversations. The man becomes confused due to the differing personalities of the woman on the phone and the woman on the live dates - he has fallen in love with the veterinarian on the phone but is put off by \"her\" vacuousness in person, although \"she\" is very physically attractive. The man eventually realizes that the veterinarian with whom he has fallen in love is the brunette woman of average appearance, and that the woman he has been seeing in person is the veterinarian's model neighbor. He comes to accept his love for the veterinarian, and forgives the women despite their deception. And so a woman of humble appearance grows to know her own value. The model also is taught to realize her worth and learns not to tolerate the abuse of a cruel man.",
+      "writers": ["Audrey Wells"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0117979/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTYxNjIyMjkxNl5BMl5BanBnXkFtZTYwMDAzOTg4._V1_SY317_CR3,0,214,317_AL_.jpg",
+      "actors": ["Stars: Uma Thurman, Janeane Garofalo, Ben Chaplin | See full cast and crew »"],
+      "reviews": [
+         "This is a lovely, funny and well done romantic comedy. I have to admit I am impressed by the folks who continue to say they felt JG was too pretty to be Abby and that it just didn't ring true to them because of that fact. Well I'm here to tell you folks that this movie is closer to the truth than you realize. One of the things that DOES make this film soo good is that Abby is truly a lovely woman but is surrounded by main stream media and what it says beauty is, namely, Noelle, played admirably by Uma Thurman. Yes Abby is a beautiful woman, but as a woman who looks nothing like all the adds on TV or magazines like JG it is easy to see why she would think she isn't. And honestly I know way too many men who would pass her by in favor of the Noelles of this world. I have a beautiful friend who is very similar to JG and she has had the same problems Abby has in this movie because of perceived images of beauty. THAT is the message this film is trying to make that Abby is beautiful and the media has put too much emphasis on stereotypes. No I don't think they should have hired an UGLIER actress that is simply ridiculous, the film was not about an ugly woman but a beautiful woman who has fallen into the trap of \"THINKING\" she is unattractive! Watch the movie again folks, you'll see what I mean.",
+         "Without a doubt, my favorite play ever written is CYRANO DE BERGERAC, by Edmund Rostand. People can tell me it's sentimental and mawkish, but I don't care; I absolutely love it. I've seen, I think, most, if not every, movie which has been inspired by it, from the 1950 version by Jose Ferrer(the movie is stagy and changes the play, but he's wonderful), to ROXANNE in 1987, Steve Martin's wonderful re-working of the play as romantic comedy, and best of all, the 1990 version starring Gerard Depardieu(how appropriate France's greatest actor should appear in it giving his best performance). Now comes this movie, which is inspired by it(as I understand it, writer Audrey Wells is a big fan as well) rather than being an outright remake of it, but it's still quite good. Admittedly, it all hangs on a rather thin premise; that Brian(Ben Chaplin) is unable to tell the voices of Abby(Janeane Garofalo) and Noelle(Uma Thurman) apart. But romantic comedies have had more outrageous concepts before, and no one complained about how realistic they were(like RUNAWAY BRIDE; does anyone believe that one?). And by switching genders, it's able to talk about how women are forced to conform to an impossible ideal of beauty. And yet, at the same time, the message comes through comedy, so you're not being hit over the head. Also, the performers are quite engaging. It goes without saying Janeane Garofalo is terrific in her first lead role. She's funny, as could be expected, but as she's had to fight the impossible ideal of beauty much of her career, you can sense something personal for her, and she brings that out without getting mawkish. Uma Thurman sends up the \"dumb blonde\" role without condescending to her. Plus, we like Noelle for the same reason we like Christian in the original; she's actually smarter about love than Abby is(when she says of Brian, \"Plus, he's got this one, tiny little fault. He loves you.\"). Chaplin of course has the object of desire role, which is tough to play, but he brings humor and intelligence to it. And, of course, the dog is great.",
+         "Janeane Garofalo stars as Abby, a veterinarian who has her own radio show. She is a cultured, educated woman, who is smart, has a good sense of humor and makes a great living. The problem is that her self-esteem is low because she does not find herself attractive being 5'1 brunette who once upon a time while in college had gained 40 pounds. Well, she looked like she lost all of them and she was charming if you ask me (perhaps, it is solidarity of another 5'0 brunette ) but when she developed a relationship over the phone with one of the callers, she tells him that she is 5'10\" statuesque blonde who is hard to miss. The blonde (Uma Thurman) happened to be her next-door neighbor, the aspiring model/actress who agrees to go on the date instead of Abby... It may sound like cliché, and the film has several holes in the plot but is very enjoyable thanks to wonderful performance by Janeane and to these words: \"You know how someone's appearance can change the longer you know them? How a really attractive person, if you don't like them, can become more and more ugly; whereas someone you might not have even have noticed... that you wouldn't look at more than once, if you love them, can become the most beautiful thing you've ever seen. All you want to do is be near them.\" 7/10",
+         "This film is an absolute gem, showcasing the incredible talents of Janeane Garofalo and highlighting the physical beauty of Uma Thurman (and Ben Chaplin). It is an incredibly well crafted and well-written film due to the efforts of director Michael Lehmann and author Audrey Wells. If there were ever any doubts as to the acting ability of Ms Garofalo this film will put them to rest. There are scenes in which she is positively luminescent as the 'voice on the radio' \u0096 Dr Abby Barnes. This film was to be a star vehicle for Uma Thurman: she has top billing both in the opening title sequence and in the closing credits. She also has the personal assistant, personal makeup and hair and even a personal acting coach! But she has worked on just 12 films since 'Cats and Dogs' was released and Ms Garofalo has completed 39! Janeane steals the show (again)! The story is derivative: Basically it is the Cyrano story; however, it is given new life and freshness by the appealing characters and plot twists. I must admit that I am a bit tired of Janeane Garofalo playing the 'ugly' girl roles. She is far from ugly and really should be playing the romantic characters more often. This really is an outstanding film \u0096 the scenes with 'Hank' steal the show and the late-night telephone conversation between Abby and Brian should not to be missed.",
+         "\"The Truth About Cats and Dogs\" may be a charming and (rare these days) profanity free comedy, but it reveals some unpleasant truths about Hollywood and maybe American society as a whole. Janeane Garofolo plays a veterinarian who dispenses advice about pets on a radio talk show. One male caller is so taken with her voice and personality that he asks her for a physical description and a meeting. Insecure about her looks, the petite brunette describes herself as a tall blonde, and when her admirer appears at the radio station, he is introduced to Uma Thurman, a tall blonde, who agrees to trade places with Garofolo. The message of this film is that the beauty within is more important than physical attractiveness, but the other unintended message is that physical beauty is not in the eye of the beholder but determined by how closely one resembles the seemingly bulimic fashion models plastered on magazine covers. Uma Thurman is a perfect match which is the same as saying she is, in Hollywood's eyes, perfect. I couldn't disagree more. Thurman is a bag of bones and, to my eyes, not at all attractive. Garofolo, who at one point in the film is called \"ugly,\" is, in fact, the woman with the most appeal, physically and in terms of personality. She makes this movie worth remembering.",
+         "A modern retelling of the Cyrano de Bergerac tale, except the genders are reversed. Janeane Garafalo is a veterinarian on a radio talk show who gives on-air advice to pet owners. However, she has a poor self-image about her looks, and cocoons herself away from possible relationships, in an effort to shield herself from inevitable disappointment and hurt. If the movie has one weakness, it's the fact that Garafalo is cast as an ugly duckling. No way, folks; this woman is beautiful. Depending on whether one prefers petite brunettes or tall blondes, you may think she's even cuter than co-star Uma Thurman. Both Garafalo and Thurman are splendid, and play off each other well in their awkward friendship/romantic rivalry situation. Thurman's ditsy wanna-be actress is very sympathetic; Garafalo's intellectual but emotionally guarded Dr. Abby at times is heartbreaking. Ben Chaplin as Brian, the object of their affections, turns in a good performance of his own. One scene where two of these actors interact with eyes only--no dialogue for at least 30 sec.--is extremely powerful. Funny bits pop up at strategic moments. The banter between Abby and Brian is like a one-liner ping-pong match; their spontaneous wit is fun to ride along with (almost like a Neil Simon play). Brian's dog is one of the best animals in a flick that I've seen in a while, he did comedy as well as his human counterparts. A good movie worth spending an evening on, especially as a date flick.",
+         "I tend to dislike most of the serious romantic movies like 'Titanic' etc. They're just not my kind to be honest. Love many of the classics like 'Sabrina'. I would have enjoyed 'The Truth About Cats & Dogs' a lot more if there was a little more comedy to it. It's an okay (and forgettable) movie with some decent performances and a few good moments but at some point it seems to drag. Perhaps a little editing would have helped. On the one hand I can understand why Jeanine Garofalo is cast as the 'ugly' girl (she looks far from ugly) but, in my humble opinion, she's not portrayed as an 'ugly' girl but rather as a woman who thinks of herself as unattractive. Yet, I thought that the Lehman really went a little too far, at times, by focusing on her 'ugliness' e.g. by showing people on the street calling ugly at her character. In contrast, Uma Thurman looks a lot less attractive than usual and she's portrayed as the 'hot' one. To an extent 'Lehman' does succeed in showing the stereotypical beauty that's created by the media (Thurman's character) and what would be considered as less attractive (Garofalo's character). Garofalo is very likable. Her on screen personality here does not differ much from her other roles but she succeeds in what she set out to do. Thurman is a little over the top at times but otherwise makes a great comparison to her female co-star. The two actresses share a very warm chemistry. Ben Chaplin is quite alright and fortunately he doesn't do the American accent. In a nutshell, it's a average film that could have been better.",
+         "The truth about Cats and Dogs is one of my all time favorite movies. It is surly life-relating. This comedy/romance has caught my eye and as well as my heart. This movie demonstrates the great joys of friendship and love. It is very well constructed together, this movie touches me each and every time I watch. My favorite scene in the movie is where Brian has made the list that \"Abby\" Nowell has asked for and goes to \"Donna's\" Abby's apartment to read it to her. I too have low self esteem like many do when it comes to men, but Brian just loved Abby for her. The scene makes me cry every time, \" you didn't say I love her because she is so beautiful, that is not why I love her, I mean yes she is beautiful.\" AHHHHH I just love this movie so much... I wish more people knew how wonderful it really is...",
+         "This film is really sweet, even more so if you are an animal lover. The three leads are all perfectly cast, with Janeane Garofalo doing an absolutely excellent job as the radio show vet whose self-conscious about her image. This film really does stretch credibility, but then most romantic comedies tend to due to their very nature. The dog has to be one of the cutest I have seen in a film- probably because he is a real dog rather than the little dogs that many comedies seem to favor. A very pleasant way to spend 90 minutes.",
+         "I see a lot of comments on here that say how Janeane Garofalo is actually more attractive in this movie than Uma Thurman. The way I see it, this is deliberate (which should be evident by the fact that this is the only movie where Uma is not what I would call attractive, and her attractiveness in this movie is a big deal). By making the \"ugly girl\" beautiful, and the \"hot chick\" unattractive, it creates an irony which forces the audience to look at how they view women in the real world. Because in the real world, women who look like Janeane Garofalo ARE considered less attractive than tall, skinny blondes. Or maybe it's just because you're not allowed to be a movie star if you're ugly, so they couldn't find anyone else. Either way, this is one of my favorite romantic comedies, if not my all-time favorite. 10/10"
+      ],
+      "genres": [
+         "Comedy",
+         "Romance"
+      ],
+      "productionCompanies": [
+         "Twentieth Century Fox Film Corporation",
+         "Noon Attack"
+      ],
+      "summaries": [
+         "Janeane Garofalo plays Dr. Abby Barnes, the \"Truth About Cats and Dogs\" radio question-and-answer show host who unwittingly entices a listener over the radio with her soothing voice and personality. This listener, Brian, tries to meet the Abby from the radio, but Noelle, played by Uma Thurman, is mistaken for the real thing when Brian comes to the studio. Instead of clearing things up right away, the self-conscious Abby allows her best friend, Noelle, a tall, stunning blonde, to take her place for a while. Abby takes on the made-up persona of Donna, while thinking Brian would never go for her, a short, cute, brunette, who thinks she's unattractive. As the real Abby woos Brian over the phone and radio, Noelle, the pseudo-Abby, takes her place in the flesh. As time goes on, Abby feels more and more confident that Brian would rather have the beautiful Noelle than the simply attractive Abby.",
+         "A successful veternarian & radio show host with low self-esteem asks her model friend to impersonate her when a handsome man wants to see her."
+      ],
+      "budget": 0
+   },
+   "movielensId": 708,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1996-04-26",
+      "dvdReleaseDate": "2001-04-17",
+      "directors": ["Michael Lehmann"],
+      "runtime": 93,
+      "movieId": 708,
+      "title": "The Truth About Cats & Dogs",
+      "mpaa": "PG-13",
+      "actors": [
+         "Uma Thurman",
+         "Janeane Garofalo",
+         "Ben Chaplin",
+         "James McCaffrey",
+         "Richard Coca",
+         "Stanley DeSantis",
+         "Antoinette Valente",
+         "Jamie Foxx"
+      ],
+      "imdbMovieId": "0117979",
+      "originalTitle": "The Truth About Cats & Dogs",
+      "genres": [
+         "Comedy",
+         "Romance"
+      ],
+      "youtubeTrailerIds": ["6qv0rw36hMA"],
+      "plotSummary": "A successful veterinarian and radio show host with low self-esteem asks her model friend to impersonate her when a handsome man wants to see her.",
+      "tmdbMovieId": 8866,
+      "avgRating": 3.4009,
+      "releaseYear": "1996",
+      "numRatings": 16821,
+      "posterPath": "/5V10mg1rAbwWYNF6IjnEYokIR8f.jpg"
+   }
+}

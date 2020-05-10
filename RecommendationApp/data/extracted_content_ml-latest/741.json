@@ -1,0 +1,751 @@
+{
+   "tmdb": {
+      "original_language": "ja",
+      "keywords": [
+         {
+            "name": "artificial intelligence",
+            "id": 310
+         },
+         {
+            "name": "man vs machine",
+            "id": 312
+         },
+         {
+            "name": "cyborg",
+            "id": 679
+         },
+         {
+            "name": "android",
+            "id": 803
+         },
+         {
+            "name": "computer virus",
+            "id": 2812
+         },
+         {
+            "name": "dystopia",
+            "id": 4565
+         },
+         {
+            "name": "implantat",
+            "id": 8499
+         },
+         {
+            "name": "fugitive",
+            "id": 10718
+         },
+         {
+            "name": "female protagonist",
+            "id": 11322
+         },
+         {
+            "name": "cyberpunk",
+            "id": 12190
+         },
+         {
+            "name": "based on manga",
+            "id": 13141
+         }
+      ],
+      "imdb_id": "tt0113568",
+      "video": false,
+      "title": "Ghost in the Shell",
+      "recommendations": [
+         12140,
+         149,
+         4977,
+         14092,
+         10494,
+         81,
+         11299,
+         14282,
+         18491,
+         14069,
+         13398,
+         128,
+         823,
+         2114,
+         55931,
+         10515,
+         33320,
+         11621,
+         841,
+         9606
+      ],
+      "backdrop_path": "/m1LUdsYnFThcrbvRzlpbsFioEQT.jpg",
+      "revenue": 2287714,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 10,
+               "character": "Motoko Kusanagi (voice)",
+               "gender": 1,
+               "credit_id": "52fe44e8c3a36847f80b1043",
+               "name": "Atsuko Tanaka",
+               "profile_path": "/tM2mIRVxO7TehX35cpSbDvgEByq.jpg",
+               "id": 34923,
+               "order": 0
+            },
+            {
+               "cast_id": 14,
+               "character": "Batou (voice)",
+               "gender": 2,
+               "credit_id": "533709da9251417d9e0010ce",
+               "name": "Akio Ohtsuka",
+               "profile_path": "/33uwf6AtjtqckGH6kUfr8GGDqJu.jpg",
+               "id": 40451,
+               "order": 1
+            },
+            {
+               "cast_id": 11,
+               "character": "Puppetmaster (voice)",
+               "gender": 0,
+               "credit_id": "52fe44e8c3a36847f80b1047",
+               "name": "Iemasa Kayumi",
+               "profile_path": "/doji21RoWXS4gjWkBLyClNicHKW.jpg",
+               "id": 625,
+               "order": 2
+            },
+            {
+               "cast_id": 22,
+               "character": "Togusa (voice)",
+               "gender": 2,
+               "credit_id": "55df5886c3a36813c2000068",
+               "name": "Kouichi Yamadera",
+               "profile_path": "/m5su8OKD2rZn9XWJfh8aPC403Nz.jpg",
+               "id": 20664,
+               "order": 3
+            },
+            {
+               "cast_id": 23,
+               "character": "Ishikawa (voice)",
+               "gender": 0,
+               "credit_id": "58b2fd0692514177b00057d9",
+               "name": "Yutaka Nakano",
+               "profile_path": null,
+               "id": 83933,
+               "order": 4
+            },
+            {
+               "cast_id": 24,
+               "character": "Director Nakamura (voice)",
+               "gender": 2,
+               "credit_id": "58b2fd24c3a3685254005a01",
+               "name": "Tesshou Genda",
+               "profile_path": "/ahCru7z0zyaV6RV1uCP0HBNLRoC.jpg",
+               "id": 1681,
+               "order": 5
+            },
+            {
+               "cast_id": 25,
+               "character": "Dr. Willis (voice)",
+               "gender": 0,
+               "credit_id": "58b2fd51c3a368526d004f6a",
+               "name": "Naruki Masahisa",
+               "profile_path": null,
+               "id": 1765827,
+               "order": 6
+            },
+            {
+               "cast_id": 26,
+               "character": "Minister of Foreign Affairs",
+               "gender": 0,
+               "credit_id": "58b2fd68c3a368528d005793",
+               "name": "Masato Yamanouchi",
+               "profile_path": null,
+               "id": 1241453,
+               "order": 7
+            },
+            {
+               "cast_id": 28,
+               "character": "Mizuho Daita",
+               "gender": 0,
+               "credit_id": "58b2fdcbc3a368528d0057f0",
+               "name": "Mitsuru Miyamoto",
+               "profile_path": "/6begUj8Kv4skvBZ73Vw7ae3Gbtq.jpg",
+               "id": 115304,
+               "order": 9
+            },
+            {
+               "cast_id": 29,
+               "character": "Garbage Collector A",
+               "gender": 0,
+               "credit_id": "58b2fddc92514177a8005613",
+               "name": "Kazuhiro Yamaji",
+               "profile_path": "/v44Gi3V2uBysoBdy5c8IyrgBbqM.jpg",
+               "id": 552339,
+               "order": 10
+            },
+            {
+               "cast_id": 30,
+               "character": "Garbage Collector B",
+               "gender": 0,
+               "credit_id": "58b2fdee92514177ac00581f",
+               "name": "Shigeru Chiba",
+               "profile_path": "/23GASkx3cOtzgtBkrDTj44nbpVg.jpg",
+               "id": 105816,
+               "order": 11
+            },
+            {
+               "cast_id": 31,
+               "character": "Coroner",
+               "gender": 2,
+               "credit_id": "58b2fdfcc3a3685254005b05",
+               "name": "Hiroshi Yanaka",
+               "profile_path": "/k7YQzzTyRsXuQHdyhCWUyWwdTGj.jpg",
+               "id": 1222145,
+               "order": 12
+            },
+            {
+               "cast_id": 32,
+               "character": "Old Man",
+               "gender": 0,
+               "credit_id": "58b2fe17c3a3685254005b20",
+               "name": "Ginzô Matsuo",
+               "profile_path": null,
+               "id": 1765828,
+               "order": 13
+            },
+            {
+               "cast_id": 33,
+               "character": "Terrorist",
+               "gender": 2,
+               "credit_id": "58b2fe4092514177b00058d7",
+               "name": "Takashi Matsuyama",
+               "profile_path": "/lNIdJ4V6VlQaoVh7BaQzAkhCWQl.jpg",
+               "id": 216330,
+               "order": 14
+            },
+            {
+               "cast_id": 34,
+               "character": "Technician",
+               "gender": 0,
+               "credit_id": "58b2fe5c92514177a400584b",
+               "name": "Sanryô Odaka",
+               "profile_path": null,
+               "id": 1765831,
+               "order": 15
+            },
+            {
+               "cast_id": 35,
+               "character": "Driver",
+               "gender": 0,
+               "credit_id": "58b2fe6992514177a800568b",
+               "name": "Masamichi Satô",
+               "profile_path": null,
+               "id": 1765832,
+               "order": 16
+            },
+            {
+               "cast_id": 36,
+               "character": "Operator",
+               "gender": 0,
+               "credit_id": "58b2fe7792514177b4005b62",
+               "name": "Atsuko Hayashida",
+               "profile_path": null,
+               "id": 1765833,
+               "order": 17
+            },
+            {
+               "cast_id": 37,
+               "character": "Voice Communication",
+               "gender": 0,
+               "credit_id": "58b2fe9092514177d1005c27",
+               "name": "Yûji Ueda",
+               "profile_path": null,
+               "id": 1656146,
+               "order": 18
+            },
+            {
+               "cast_id": 38,
+               "character": "Sniper",
+               "gender": 0,
+               "credit_id": "58b2fea0c3a3685220005a22",
+               "name": "Toshiki Kameyama",
+               "profile_path": null,
+               "id": 1286724,
+               "order": 19
+            },
+            {
+               "cast_id": 39,
+               "character": "Commander",
+               "gender": 0,
+               "credit_id": "58b2feafc3a36852850053d9",
+               "name": "Atsushi Goto",
+               "profile_path": null,
+               "id": 1765834,
+               "order": 20
+            },
+            {
+               "cast_id": 40,
+               "character": "Kusanagi girl",
+               "gender": 1,
+               "credit_id": "58b2fec092514177b000594b",
+               "name": "Maaya Sakamoto",
+               "profile_path": "/4f8l14Q9XjkG2YTKxZC5egDphv6.jpg",
+               "id": 9711,
+               "order": 21
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe44e7c3a36847f80b100f",
+               "name": "Mamoru Oshii",
+               "profile_path": "/2MXFEwxLu7gT9vvi5Otx4LQgsvZ.jpg",
+               "id": 12180,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44e7c3a36847f80b1015",
+               "name": "Kazunori Ito",
+               "profile_path": "/gHLjymYpgHONtxLleogmxt5EVj7.jpg",
+               "id": 57302,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44e8c3a36847f80b1027",
+               "name": "Hisao Shirai",
+               "profile_path": null,
+               "id": 12186,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44e8c3a36847f80b102d",
+               "name": "Shuichi Kakesu",
+               "profile_path": null,
+               "id": 12187,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44e8c3a36847f80b1039",
+               "name": "Mitsuhisa Ishikawa",
+               "profile_path": null,
+               "id": 12183,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44e8c3a36847f80b103f",
+               "name": "Ken Iyadomi",
+               "profile_path": null,
+               "id": 57305,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58b2ff82c3a368526d0051f1",
+               "name": "Ken Matsumoto",
+               "profile_path": null,
+               "id": 1313891,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58d659aac3a368123403c22f",
+               "name": "Masamune Shirow",
+               "profile_path": null,
+               "id": 57303,
+               "department": "Writing",
+               "job": "Original Story"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58d65e4bc3a368126f039cee",
+               "name": "Kazuhiro Wakabayashi",
+               "profile_path": null,
+               "id": 119240,
+               "department": "Sound",
+               "job": "Sound Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58b2ff31c3a3685220005ab4",
+               "name": "Makoto Ibuki",
+               "profile_path": null,
+               "id": 1765835,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58b2ff4792514177d1005ced",
+               "name": "Teruo Miyahara",
+               "profile_path": null,
+               "id": 1765836,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58b2ff99c3a3685254005cb3",
+               "name": "Yoshimasa Mizuo",
+               "profile_path": null,
+               "id": 1102166,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58b2ffc992514177d1005d6e",
+               "name": "Yasushi Sukeof",
+               "profile_path": null,
+               "id": 1765838,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58b2ffdbc3a368528d0059eb",
+               "name": "Shigeru Watanabe",
+               "profile_path": null,
+               "id": 12184,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58b2fff992514177b8005782",
+               "name": "Hiroshi Yamazaki",
+               "profile_path": null,
+               "id": 1300913,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58b3001792514177b4005d0e",
+               "name": "Takashi Watabe",
+               "profile_path": null,
+               "id": 1693276,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58b3002792514177ac005a59",
+               "name": "Hiromasa Ogura",
+               "profile_path": null,
+               "id": 12188,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58b3005692514177d1005df5",
+               "name": "Makiko Kojima",
+               "profile_path": null,
+               "id": 1765840,
+               "department": "Art",
+               "job": "Painter"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58b3008ac3a368528d005a8a",
+               "name": "Mutsu Murakami",
+               "profile_path": null,
+               "id": 1765841,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58d65b61c3a368128903e06d",
+               "name": "Mamoru Oshii",
+               "profile_path": "/2MXFEwxLu7gT9vvi5Otx4LQgsvZ.jpg",
+               "id": 12180,
+               "department": "Writing",
+               "job": "Storyboard"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58d65c1a9251411fc503e273",
+               "name": "Toshihiko Nishikubo",
+               "profile_path": null,
+               "id": 1148341,
+               "department": "Visual Effects",
+               "job": "Animation Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58d65c2b9251411fdc03fe90",
+               "name": "Hiroyuki Okiura",
+               "profile_path": "/exOalqNU4u88JvB7LAKYuzDIY5k.jpg",
+               "id": 12178,
+               "department": "Visual Effects",
+               "job": "Character Designer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58d65cc6c3a368123403c4c1",
+               "name": "Kenji Kawai",
+               "profile_path": "/jIhpBTVJ4JmPFUbTlXROgL6GMCT.jpg",
+               "id": 57304,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58d65cf89251411f8103f66f",
+               "name": "Atsushi Takeuchi",
+               "profile_path": null,
+               "id": 585687,
+               "department": "Visual Effects",
+               "job": "Mechanical Designer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58d65d219251411f8103f6a5",
+               "name": "Shoji Kawamori",
+               "profile_path": "/mM14P0cAt8DGJphNpFVmMy9w1hU.jpg",
+               "id": 76408,
+               "department": "Visual Effects",
+               "job": "Mechanical Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58d65f1dc3a368124f03cd83",
+               "name": "Seichi Tanaka",
+               "profile_path": null,
+               "id": 1783362,
+               "department": "Visual Effects",
+               "job": "CGI Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58d65f35c3a368125f03c620",
+               "name": "Takashi Watabe",
+               "profile_path": null,
+               "id": 1693276,
+               "department": "Art",
+               "job": "Background Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58d65f81c3a368121b03a045",
+               "name": "Hiroaki Hirabayashi",
+               "profile_path": null,
+               "id": 934821,
+               "department": "Editing",
+               "job": "Color Timer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58d65ff8c3a368127c03c367",
+               "name": "Shigeyuki Yamamori",
+               "profile_path": null,
+               "id": 1462949,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58d65fff9251411f8903f2a5",
+               "name": "Tsuyoshi Imai",
+               "profile_path": null,
+               "id": 1110253,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58d660089251411fdc040233",
+               "name": "Yayoi Ohtake",
+               "profile_path": null,
+               "id": 1147762,
+               "department": "Editing",
+               "job": "Editor"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Animation",
+            "id": 16
+         },
+         {
+            "name": "Science Fiction",
+            "id": 878
+         }
+      ],
+      "popularity": 14.04709,
+      "production_countries": [{
+         "iso_3166_1": "JP",
+         "name": "Japan"
+      }],
+      "id": 9323,
+      "vote_count": 1049,
+      "budget": 0,
+      "overview": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster.",
+      "similar": [
+         605,
+         604,
+         11633,
+         14092,
+         78,
+         296,
+         603,
+         2048,
+         87101,
+         335984,
+         12140,
+         5548,
+         218,
+         534,
+         19,
+         644,
+         17431,
+         263115,
+         262543,
+         157336
+      ],
+      "original_title": "GHOST IN THE SHELL",
+      "runtime": 83,
+      "poster_path": "/9gC88zYUBARRSThcG93MvW14sqx.jpg",
+      "spoken_languages": [{
+         "name": "日本語",
+         "iso_639_1": "ja"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Bandai Visual Company",
+            "id": 528,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Kodansha",
+            "id": 6999,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/rwB6w2aPENQbx756pBWSw44Ouk.png",
+            "name": "Production I.G",
+            "id": 529,
+            "origin_country": "JP"
+         }
+      ],
+      "release_date": "1995-11-18",
+      "vote_average": 7.8,
+      "belongs_to_collection": {
+         "backdrop_path": "/xt0E8CHXzLxEoiPqrjZMRrM4Izi.jpg",
+         "name": "Ghost in the Shell Collection",
+         "id": 23026,
+         "poster_path": "/xEQVBrAd1hWtwCeK39RQ84CRqB7.jpg"
+      },
+      "tagline": "It found a voice... Now it needs a body.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Japan",
+      "color": "Color",
+      "budgetCurrency": "JPY ",
+      "directors": ["Mamoru Oshii"],
+      "runtime": 83,
+      "synopsis": "A police bulletin reports a 208 is in progress in the C13 area of New Port City. A figure studies a night-scope green image of men talking about programming bugs and Project 2501. A voice reports Section 6 is ready to move in. Major Motoko Kusanagi disconnects wires from the back of her neck and stands up, takes off her overcoat. She does a back layout fall from the top of a tall building. A group of armed and helmeted police enter a building. Inside a room four men are surprised that the police have arrived and two draw their weapons and go to the door to start firing. The older man of the group tells the others to stop shooting and as the police storm the room he claims diplomatic immunity. Nakamura, the head of Section 6 enters to say that taking a programmer out of the country is an offense. However, the young programmer has signed a request for asylum. Suddenly a voice speaks out and assaults the foreigner, an invisible attacker rips the man apart. The police fire at the windows, Nakamura goes to a smashed window to see Major Kusanagi falling and becoming invisible as her thermoptic camoflage turns on again. Title sequence begins showing a cyborg female body undergoing a genesis. Major Kusanagi ascends from a pool of liquid. She awakens from sleep in a dark room, looks pensively out the window then gets dressed in a combat suit and leaves her apartment. A VTOL twin-rotor craft lands on the roof of a tall building. The Japanese Foreign Minister leaves the aircraft and begins talking to the waiting Aramaki, the head of Section 9. They discuss a secret meeting with the Gavel Republic planned for the next day. Gavel has a new revolutionary government and the leader of the old ruling junta is seeking asylum in Japan. The Foreign Minister admits he'd like to deport Col. Maless if he had a good political excuse. He also thanks Section 9 for helping with the programmer defection, as this way the diplomatic corps was able to keep their hands clean. In a lab a group of red-suited techs and Major Kusanagi are studying an unconscious woman, trying to access her brain. She is the Foreign Minister's Interpreter, and has been cyber-brain hacked since 23 minutes earlier while on the phone. Aramaki suggests someone called the Puppetmaster is trying to disrupt the talks with Gavel by turning her into an assassin. Batou and Ishikawa are in a car tracing the signal, the Major goes to rendezvous with them. In their van, the Major dresses in armour as Togusa drives, they discuss the Puppetmaster. He is believed to be an American but nothing else is known about him. He has been active around the world conducting cyber terrorism and ghost-hacking people's brains. This is the first time he has appeared in Japan. They consider it may all be disinformation, then the Major chides Togusa for still using an old style handgun, as she loads and locks a large automatic rifle. Togusa is curious on why he was recruited into Section 9, the Major replies it is because he is still mainly human and so can be an unpredictable non-specialized asset on the team. On an inner city street two garbage collectors are at work. One urges the other to hurry up as the partner is busy at a public access computer terminal. The computer user explains a guy in a bar gave him some software so he could ghost hack his estranged wife. As they drive off Batou and Ishikawa arrive in a hurry and realize they just missed their target, yet again. They talk to a local and begin to suspect the garbagemen. Kusanagi plugs into the net and with Section 9 HQ quickly determines the trash route coincides with hacking locations. She takes over driving the van and issues orders to Batou and Ishikawa. The garbagemen are alerted the police are investigating and the hacker husband decides to go to his programmer friend. Togusa and the Major get close. The vehicles arrive together near a man wearing sunglasses at another 'net station. He fires a submachine gun and takes out the Section 9 van. The Major and Togusa scramble out of the wreck as the shooter continues to riddle the van with armour piercing shells. Batou arrives on the scene and the shooter cloaks himself with thermoptic camoflage and tries to escape. Batou notices the blurry camo and fires back. The Major goes to the rooftops to scan. The man enters a crowded street market area. A wild gunfight continues as Batou gives chase. The Major tries also but the man seems to escape and stands in a shallow waterfront. An invisible Major Kusanagi proceeds to kick the man senseless. On questioning Batou and the Major realize the man was also a hacked puppet. Outside a large estate house Aramaki and Section 9 prepare to assault. A helicopter lands on the lawn and a man they believe to be the Puppetmaster disembarks. Further questioning of the garbageman reveals he has been hacked also and given false family memories. Major Kusanagi floats from the depths of the harbour. Batou greets her onboard a boat and asks why she dives. They drink beer and reflect on being high maintenance supercyborgs. The Major speaks briefly in a different voice. In a grimy cityscape the Major rides a water ferry and gazes at the city around her. A sad eyed beagle stares back. On a roadway at night a blonde woman is hit by a car. In the Section 9 lab she is a cyborg wired up and is electro-shocked. She had been built two hours earlier at Megatech and escaped. The body has no organic brain but does have semblance of a ghost. The Major decides to dive into the brain to investigate and pauses to reflect on her own existence. Nakamura from Section 6 Treaties Section of the MFA arrives with an associate. Nakamura shows a card signed by the Foreign Minister and demands the cyborg body. In the parking garage Togusa is suspicious and checks the video of the Section 6 arrival. He reports the men may have come in with thermoptic camoflaged cyborgs. In the lab Aramaki and Nakamura view the partially dissembled torso of the mystery cyborg. The other Section 6 man, Dr. Willis, starts keyboarding and confirms the the cyborg is the Puppetmaster. Section 6 has also been chasing him and they lured him into the cyborg body. The torso comes alive and states it's name is Project 2501, a self aware computer program and requests political asylum. The camoflaged Section 6 cyborgs attack and grab the torso. Before driving away Togusa manages to hit the car with a tracking device bullet. Aramaki authorizes Section 9 to retake Project 2501, but to destroy it if they can't recover it. Meanwhile Ishikawa reports on his investigation. Dr. Willis and the defecting programmer from earlier developed Project 2501 for Japanese Foreign Ministry diplomatic dirty tricks, but somehow they lost control of it. Section 6 is trying to cover it all up. Out in the city Batou realizes there is a decoy car, The cars split up. The one Batou is chasing hits a roadblock and the two men inside are killed by sniper fire. Kusanagi in a helicopter overlooks the other car. She rappels down with her warbag then realizes the car is protected by a large cloaked walking tank. The Major loads up with heavy ammo as Batou rushes to help. After a hot and heavy firefight The Major gets on top of the tank and tries to lift the hatch. Her arms tear off and the tank grappels her head and shakes her like a doll. Batou arrives with an anti-tank weapon and takes out the armoured vehicle. He takes the Project 2501 torso from the car and places it beside the wounded Motoko. In the skies above two Section 6 helos observe and prepare. Batou wires up the Major to the torso. Project 2501 speaks through the Major and explains himself. He states he learned of Section 9 on the 'net and planned this joining up. Project 2501 wants to experience real life and death and proposes a merger with the Major. Batou is unable to disconnect the wires as the Section 6 targeting lasers rove over the female bodies. Section 6 is hacked to give the merger more time. As the Major sees the light the blond torso is destroyed with a headshot. Batou manages to partially cover the Major's face with his arm as another Section 6 shot seems to destroy Kusanagi. In an apartment a young girl with blank eyes sits in a armchair. The girl stirs and is greeted by Batou, it is Kusanagi in the only body Batou could find. 20 hours has pssed since the shooting, the Foreign Minister has resigned but the incident will be covered up. The girl gets up to leave and tells Batou she is neither the Puppetmaster nor Major Kusanagi, rather a new being. The newborn states \"the 'net is vast and infinite\" as she leaves the safe house.",
+      "writers": [
+         "Kazunori Itô",
+         "Masamune Shirow"
+      ],
+      "originalLanguage": "Japanese",
+      "imdbLink": "http://www.imdb.com/title/tt0113568/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTk2ODE4MDUzNF5BMl5BanBnXkFtZTYwNTI2OTA5._V1_SY317_CR5,0,214,317_AL_.jpg",
+      "actors": ["Stars: Atsuko Tanaka, Iemasa Kayumi, Akio Ôtsuka | See full cast and crew »"],
+      "reviews": [
+         "Ghost in the Shell is a visually stunning animated masterpiece. Japanese animation has always been in a class of its own, so I won't even attempt to describe the incredible attention to detail and beautiful imagery in this movie. In this case the animation is merely icing for what is one of the most important works of science fiction in recent years. Every generation has had books and movies that have contributed to our collective understanding of reality. Prior to World War II this included books like Yevgeny Zamyatin's \"We\" and Huxley's \"Brave New World\", and later Orwell's \"1984\". Today most warnings about the future fall into the category of science fiction. Science fiction began to fill this role when Arthur C. Clarke's \"2001\" warned us of the potential for humanity to create intelligent, even sentient computers that could murder their human creators. \"2001\" envisioned computer intelligence imprisoned in the physical body of a computer. Where \"2001\" left off, Ghost in the Shell begins. Ghost in the Shell tells the story of a future in which a computer program, Project 2501, becomes self-aware and begins a quest to fill basic needs it feels are qualifiers of being alive by controlling computers and people to achieve its ultimate goals. Whereas the HAL-9000 computer was relatively harmless, owing to its confinement in the Odyssey space ship, Project 2501 is a recognition that the global internet could have dire consequences for all of us. By comparison, this new villain is virtually invincible. But is Project 2501 a villain? Most people who have told me that they didn't like this move said that they didn't understand it. Indeed, the story and concepts are very complicated. I have watched it several times and still get new things out of it every time. Roger Ebert called Ghost in the Shell, \"Unusually intelligent and challenging science fiction, aimed at smart audiences\". Ghost in the Shell is full of fascinating dialog, such as this diatribe about the cycle of life and death by Project 2501. \"A copy is just an identical image. There is the possibility that a single virus could destroy an entire set of systems, and copies do not give rise to variety and originality. Life perpetuates itself through diversity, and this includes the ability to sacrifice itself when necessary. Cells repeat the process of degeneration and regeneration until one day they die, obliterating an entire set of memory and information. Only genes remain. Why continually repeat this cycle? Simply to survive by avoiding the weaknesses of an unchanging system.\" Thus Ghost in the Shell goes beyond simply a prediction or warning for the future: it attempts to contribute to our understanding of reality by breaking existence down into biological terms and making us question, along with the characters in the movie, whether or not any of us has a soul. The characters in Ghost in the Shell are unusually deep and are a refreshing change from the one-dimensional stereotypes we've become numbed by in modern media. Ghost in the Shell would be required reading in many high school and university courses if it weren't for the fortuitous fact that it can be enjoyed in this beautifully animated feature film. This is one of the few movies ever made that everyone should watch at least once.",
+         "Ghost in the Shell is a masterpiece. I would go so far as to say that it's the second best science fiction film I've ever seen (behind 2001, of course), but no one knows about it. I find it terribly unfortunate that the only American viewers familiar with Ghost in the Shell are anime fans, many of whom overlook the film's complexity and see only its nudity and violence. The movie kind of gets in its own way-- within the first five minutes we see the heroine's nude body as well as a very messy head-exploding scene, and many of the viewers who would otherwise end up enthralled by the film's abundant style and intelligence immediately dismiss it as exploitative anime trash. Every time I show this movie to non-anime fans I have to explain beforehand that Ghost in the Shell is a serious work of science fiction and that everything in it, including the adult content, is part of the point the movie makes about where our society is headed. The film is stylish, artistic, and beautiful. Masamune Shirow's stunningly believable vision of the future makes the jump from manga to anime remarkably well. As brilliant as the comics are, I really prefer the film version, which eliminates the nearly pornographic T&A (the film has nudity but it's clearly not meant to be titillating) and all of the exaggerated comic relief which only detracted from the manga in my opinion. The film's action sequences are strikingly different from the overly stylized symphonies of destruction seen in most action films. Gunfire, martial arts combat, and car chases are depicted exactly as they would occur in the real world-- without fast music or Armageddon-style hyper-editing or any of the needless cinematic baggage we've come to expect. But it's the movie's ideas that make it great, particularly in the last half hour, when thoughtful viewers learn what this story is all about-- the emergence of a new kind of life form, an intelligent and self-aware intelligence that can live indefinitely without ever inhabiting a physical body. The film argues that this will occur within the next thirty years, and the superbly ambiguous ending inspires us to come up with our own ideas of what will happen to humanity once this new life form begins to reproduce. This is filmmaking that should be seen and discussed. And now the disclaimer. All of the above comments refer to the subtitled Japanese version of the film, NOT the English dub. Simply put, the dub ruins everything. A good example is Kusanagi's wry comment at the very beginning of the film. An officer who is communicating with Kusanagi through a kind of electronic telepathy tells her there's a lot of static in her brain. In the original Japanese version (as well as in the manga) she replies that \"It's that time of the month,\" but in the dub her comment is inexplicably changed to \"Must be a loose wire.\" It's completely insane-- do they think that, in a film with considerable nudity and graphic violence, people are going to be offended by a PMS innuendo? The whole movie is filled with such intelligence-insulting changes; please do yourself a favor and watch the subtitled version.",
+         "This is the most beautiful film i've ever seen. There, i've said it. Watch it and be awed at how amazingly detailed and fluid the whole film is. Never does it falter in the art department. The colours are just right, the peoples movements are so real its scary, and sometimes the strong story of the film cant fit all this beauty in and so it releases it entirely in a magical scene in the middle of the film with no dialogue and no plot progression, just marvellous panoramic followed by marvellous panoramic shot. This is my favourite segment of the movie. It shows the nameless city in which the protagonists exist as a cluttered, enclosed, claustrophobic world, yet terrifyingly familiar. This film is full of such themes which subtly make their way into your mind and you dont even realise they're there until afterwards. So lets talk about the story. Its an amazing monster of a tale, squeezing it all in barely in its short running time. It does sometimes feel a little rushed, a little convoluted so that it bears repeat viewings to get the whole thing, but it is still a strong story none the less. In fact it is a very mature story. The creators could have so easily gone the typical manga route and thrown in some invading demons or mega-destructive internet monsters. But no, the whole thing restrains intself to a realistic view of an extra-ordinary situation. it all feels like this is exactly how it would happen in real life, and that is what makes it so engaging, and so scary. This film deserves to be seen, not just because the heavenly beauty warrants it, but because the deep issues it raises needs to be questioned. If you want to be entertained without thinking, watch Wicked City or the countless millions of other mediocre mangas out there. You want to be entertained and be made to think and question the film? See this. You wont regret it.",
+         "I would highly recommend this cyber-political-industrial thriller that envisions our future in a hyper realistic (idealistic?) way. The plot is excellent, though I did not get it the first time. The quality of the graphics surpasses any anime available on the market and the soundtrack is beautiful. The creative team did an amazing job providing the movie with fine details, harmony in this very descriptive world of high technology (AI) and traditional Japan. I thoroughly believe it is a masterpiece, a unique audio-visual experience. (cf. Blade Runner, Akira)",
+         "\"Ghost in the Shell\" is an intricate masterpiece of cyber-punk fiction and storytelling, successfully melding intriguing philosophical ideas with a coherent, well thought-out (albeit) confusing plot. Even more, it's a nightmarish vision of a society that's dominated by cyberspace and looking back now, is eerily prescient of today's computerized times. Many of the characters in the film are enhanced, someway or another by machines, to help them get the advantage in a vastly changing society. I'll avoid going real deep into the plot simply because there's a whole lot to grasp and even I got more than a little confused trying to follow it. The story is that a team of high-level government operatives are hot on the trail of a notorious computer hacker called the \"Puppet Master,\" who is wanted for various crimes in cyberspace and has taken a particularly fond interest in the team's tough, female cyborg leader. Not surprisingly, as with the stigmas surrounding Anime', \"Ghost in the Shell\" is not short of nudity and graphic violence. But it's far from being gratuitous, and does not slow down the movie at all. \"Ghost in the Shell\" was one of the first Anime' films to skillfully blend traditional drawn animation with computerized imagery. This helps to give the film a surreal, yet beautiful look. And the dialogue helps sometimes too, with helping to sort out the confusing plot and many of its mythical ideas about personal identity and human evolution. This film is also even more revered today, in 2004, since some of this film's core themes helped to develop the plot basis of the insanely popular \"Matrix\" films, and some scenes from \"Ghost in the Shell\" were even homaged to in the first \"Matrix\" movie. The Wachowski Brothers certainly do owe a lot to this movie for the success of their work in America. I think that to understand \"Ghost in the Shell,\" it would help to accept that Anime' is much more complex and daring than traditional American animation. Most Japanese animation films, like this one, \"Akira,\" or Mayazaki's \"Spirited Away,\" are on a level of sophistication that will never be matched in America. It has been said that the majority of American audiences would be afraid of Anime' because of the many stereotypes surrounding it, but that's why it's boundless - it's been given free reign to use those stigmas to its advantage in developing truly remarkable pieces of art that have gone largely ignored here in the U.S. \"Ghost in the Shell\" could very well be a mere reflection or a parable of a doomed society that's probably already accepted its dark fate. Most American animation would never touch up on this sort of subject matter. \"Ghost in the Shell\" is my #3 choice Anime' film (behind \"Spirited Away\" and \"Akira\") because it's so full of ideas and is masterful in telling a dark story about our times. 10/10",
+         "I liked everything about this film. Much has been made of the artwork, and with good reason. Voltron, this isn't. I am not an anime fan and haven't seen a lot of anime films. Most plot descriptions of anime films sound boring to me. I'm not into monsters and tentacles or cute wide eyed little girls fighting evil. (Not that cute wide eyed little girls shouldn't fight evil, I mean, I'm all about fighting evil, aren't we all?) Ghost in the Shell, on the other hand, represents the best of its genre and the best of any genre is worth a watch. This movie ought to appeal to anyone who enjoys cerebral films. It addresses interesting philosophical questions about identity, some of which we will no doubt be pondering in the not too distant future. (I'm perhaps foolishly optimistic when it comes to AI). I should add as well that this is definitively in the cyberpunk genre. If you liked the old Max Headroom television series or movies like Wargames, this will no doubt appeal to you. Even the English dubbing isn't bad, even if it is a little bit fast (to keep up with Japanese). Darken the room, sink low in your chair, turn the volume up (the soundtrack is spectacular), and fall into this movie. I wish there were more like it. The artwork is incredible (if you don't consider animation art, you should take a look at Ghost) and the plot and dialogue are three dimensional and thought provoking. Two thumbs up. As I say, best of genre.",
+         "This is single handedly one of the best animated films I've ever seen. You can definitely tell how far the animation genre has gotten in the last half-century. It's pretty much flawless in my opinion. The story, audio, and especially visuals are excellent. This is definitely one of the most pretty films i've ever seen. The philosophy really made me think too, the matrix tried this idea and failed horribly with it's sequels. This one isn't just for hipsters, if you're a sci-fi fan I couldn't recommend this more. If you liked this, I also recommend Akira, The Ghost in the Shell: Stand Alone Complex series, and the upcoming Steamboy",
+         "Wonderfully executed anime classic. It is a darker anime tale aimed towards a more mature audience. I enjoyed the amazing realism of this film. The attention to detail is definitely enjoyable to see. The DVD has a rather enjoyable documentary on the making of the film. Any fan will enjoy the structure and content of the documentary. It is quite informative on the process of making the film. Like most Anime, there is a lot of character development and dialogue mixed with stunning visuals. I think the most captivating element that this film has to offer is its creative \"cinematography\" and attention to detail. There are numerous memorable shots in this film. This is not an anime for everybody. Attention to story is critical and I am guilty of rewinding certain areas just to keep up with the story. Thankfully this is not a mindless science-fiction/anime tale filled with crazy action sequences. The Ghost in the Shell proves to be quite philosophical in nature by questioning the meaning of life. I would love to venture deeper into this story and its message but I think it is better for you interpret it on your own. Remember to watch this movie with your heart, not with your mind. Reflect on it later. This is the best way to enjoy this type of film.",
+         "That anime could be this good. I'd thought I'd seen good anime when a friend brought me 'Akira', but this one is just awesome. It has everything that one could want. An interesting plot, deep thoughts, nice dialog, hot chicks, cool action, neat tech, and animation that puts everything to shame which has ever been produced in the western world. Now when I watch anime I usually expect (and dread) the scene which will explain something about the fundamental nature of life, the universe, or whatever. This is (the only part) where 'Akira' failed. This is where 'Final Fantasy' went down the drain. But 'Ghost in the Shell' shines here brightly. While watching it for the first time I had always this nagging feeling that some such scene would turn up and ruin the truly stunning visuals. Not so. After the '2501' monologue the story really comes together and you start to be eager for story development instead of just looking for the many details and extravagant action sequences. A word on the story: No, you will probably not 'get' the story the first time around. Especially in the English version you will have to make the connection between MoFA, MF, MFA and Ministry of Foreign Affairs, that is easy to get confused over. The whole storyline might not be quite as complicated as understanding some 'Aeon Fluxx' episodes, but you have to rewatch the story to get a feel for the interconnection of the different players - especially if you are not familiar with the Ghost in the Shell literature. The story,thank god, is not dumbed down for the average viewer. This is what makes rewatching it so enjoyable. It has also some nice reflections on what it means to be human - things you may ask of yourself after the movie finishes ('Who knows what's inside our heads. Have you ever seen your own brain?'). The animation is superb, and used to unusual effect. The details are exquisite - especially cloth effects and character motions. There are a few scenes that only have music or an accentuating sound effect in the background while the animators show off their full artistic talent. But it's not just show-off time, the visuals are tied in with the subject and leave the viewer time to reflect on the philosophical/sociological messages (like showing the cybernetic heroine look at tailors' dummies) In short: This is a must see for anybody who likes anime. Definitely a movie for grown-ups, though, because the graphic violence may disturb kids and the philosophy will go right over their heads. 10/10",
+         "I was a huge anime fan in highschool but as time progressed, my interests and focus in media have changed. A few days ago I re-discovered my forgotten anime collection. Behold, Ghost in the Shell. Watching this fine piece of animation again brought back the reasons why I was attracted to anime in the first place. It is obvious that a lot of work went into Ghost in the Shell; the attention to graphic details creates some remarkably realistic animation. Though the major reason to see this film is for the animation, there are also other fine points to consider. It has a fairly complex plot. The science it focuses on is definitely modern though, albeit, fantastic. I recommend the subtitled version because the dubbed dialog is sometimes over wordy and odd-sounding (as are most dubbed versions). Some viewers may be turned-off by the many scenes that aren't accompanied by music, especially the action sequences. The music, however, is outstanding. There are a couple of scenes that are basically slide shows of various themes. These are accompanied with music and no dialog. The animation, to say the least, is beautiful and seems to be the focus. In summary, Ghost in the Shell is very satisfying."
+      ],
+      "genres": [
+         "Animation",
+         "Action",
+         "Mystery",
+         "Sci-Fi",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "Bandai Visual Company",
+         "Kodansha",
+         "Production I.G."
+      ],
+      "summaries": [
+         "The year is 2029. The world has become intensively information oriented and humans are well-connected to the network. Crime has developed into a sophisticated stage by hacking into the interactive network. To prevent this, Section 9 is formed. These are cyborgs with incredible strengths and abilities that can access any network on Earth.",
+         "A female cyborg cop and her partner hunt a mysterious and powerful hacker called the Puppet Master."
+      ],
+      "budget": 600000000
+   },
+   "movielensId": 741,
+   "movielens": {
+      "languages": ["日本語"],
+      "releaseDate": "1995-11-18",
+      "dvdReleaseDate": "1998-03-31",
+      "directors": ["Mamoru Oshii"],
+      "runtime": 83,
+      "movieId": 741,
+      "title": "Ghost in the Shell",
+      "mpaa": "NR",
+      "actors": [
+         "Atsuko Tanaka",
+         "Akio Ohtsuka",
+         "Iemasa Kayumi",
+         "Kouichi Yamadera",
+         "Yutaka Nakano",
+         "Tesshou Genda",
+         "Naruki Masahisa",
+         "Masato Yamanouchi",
+         "Mitsuru Miyamoto",
+         "Kazuhiro Yamaji",
+         "Shigeru Chiba",
+         "Hiroshi Yanaka",
+         "Ginzô Matsuo",
+         "Takashi Matsuyama",
+         "Sanryô Odaka",
+         "Masamichi Satô",
+         "Atsuko Hayashida",
+         "Yûji Ueda",
+         "Toshiki Kameyama",
+         "Atsushi Goto",
+         "Maaya Sakamoto"
+      ],
+      "imdbMovieId": "0113568",
+      "originalTitle": "GHOST IN THE SHELL",
+      "genres": [
+         "Action",
+         "Animation",
+         "Science Fiction"
+      ],
+      "youtubeTrailerIds": ["wNtgA5Xfd2s"],
+      "plotSummary": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster.",
+      "tmdbMovieId": 9323,
+      "avgRating": 3.96331,
+      "releaseYear": "1995",
+      "numRatings": 8859,
+      "posterPath": "/9gC88zYUBARRSThcG93MvW14sqx.jpg"
+   }
+}

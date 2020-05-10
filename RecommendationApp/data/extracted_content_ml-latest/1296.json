@@ -1,0 +1,809 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "kiss",
+            "id": 5091
+         },
+         {
+            "name": "bed and breakfast place",
+            "id": 5832
+         },
+         {
+            "name": "florence",
+            "id": 8032
+         }
+      ],
+      "imdb_id": "tt0091867",
+      "video": false,
+      "title": "A Room with a View",
+      "recommendations": [
+         8293,
+         1245,
+         45609,
+         11382,
+         10436,
+         11159,
+         5143,
+         851,
+         11562,
+         10705,
+         18988,
+         25673,
+         14320,
+         2075,
+         10849,
+         874,
+         10644,
+         25430,
+         18254,
+         11426
+      ],
+      "backdrop_path": "/eYOnXRVCR3FIT1LdtSFoCiVajqv.jpg",
+      "revenue": 20966644,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 8,
+               "character": "Charlotte Bartlett",
+               "gender": 1,
+               "credit_id": "52fe441b9251416c75029051",
+               "name": "Maggie Smith",
+               "profile_path": "/kkMNu2iqkBPkbjhNBmDaUX7FHr.jpg",
+               "id": 10978,
+               "order": 0
+            },
+            {
+               "cast_id": 9,
+               "character": "Lucy Honeychurch",
+               "gender": 1,
+               "credit_id": "52fe441b9251416c75029055",
+               "name": "Helena Bonham Carter",
+               "profile_path": "/rHZMwkumoRvhKV5ZvwBONKENAhG.jpg",
+               "id": 1283,
+               "order": 1
+            },
+            {
+               "cast_id": 10,
+               "character": "Mr. Emerson",
+               "gender": 2,
+               "credit_id": "52fe441b9251416c75029059",
+               "name": "Denholm Elliott",
+               "profile_path": "/oR6GnGecov6Mjg0cLasCawyz3mF.jpg",
+               "id": 656,
+               "order": 2
+            },
+            {
+               "cast_id": 11,
+               "character": "George Emerson",
+               "gender": 2,
+               "credit_id": "52fe441b9251416c7502905d",
+               "name": "Julian Sands",
+               "profile_path": "/hDb4UlbeTvvVK53Cmh7W0Ijo41h.jpg",
+               "id": 6104,
+               "order": 3
+            },
+            {
+               "cast_id": 14,
+               "character": "The Reverend Mr Beebe",
+               "gender": 2,
+               "credit_id": "52fe441b9251416c7502906d",
+               "name": "Simon Callow",
+               "profile_path": "/pOABmGHa7h1CQ1oG4Q6PyuCbwqL.jpg",
+               "id": 4001,
+               "order": 4
+            },
+            {
+               "cast_id": 15,
+               "character": "The Reverend Mr. Eager, Chaplain of the Anglican Church in Florence",
+               "gender": 2,
+               "credit_id": "52fe441b9251416c75029071",
+               "name": "Patrick Godfrey",
+               "profile_path": "/n6q70F8UE4VSSHAjBlx3xBMqxY2.jpg",
+               "id": 3568,
+               "order": 5
+            },
+            {
+               "cast_id": 16,
+               "character": "Eleanor Lavish, a novelist",
+               "gender": 1,
+               "credit_id": "52fe441b9251416c75029075",
+               "name": "Judi Dench",
+               "profile_path": "/2is9RvJ3BQAku2EtCmyk5EZoxzT.jpg",
+               "id": 5309,
+               "order": 6
+            },
+            {
+               "cast_id": 17,
+               "character": "Miss Catharine Alan",
+               "gender": 1,
+               "credit_id": "52fe441b9251416c75029079",
+               "name": "Fabia Drake",
+               "profile_path": null,
+               "id": 940412,
+               "order": 7
+            },
+            {
+               "cast_id": 18,
+               "character": "The Cockney Signora",
+               "gender": 1,
+               "credit_id": "52fe441b9251416c7502907d",
+               "name": "Amanda Walker",
+               "profile_path": "/bOjEahLqTmhO6gFBTLnN5g2xOpn.jpg",
+               "id": 108620,
+               "order": 8
+            },
+            {
+               "cast_id": 19,
+               "character": "Miss Teresa Alan",
+               "gender": 1,
+               "credit_id": "52fe441b9251416c75029081",
+               "name": "Joan Henley",
+               "profile_path": null,
+               "id": 944610,
+               "order": 9
+            },
+            {
+               "cast_id": 20,
+               "character": "Cecil Vyse",
+               "gender": 2,
+               "credit_id": "52fe441b9251416c75029085",
+               "name": "Daniel Day-Lewis",
+               "profile_path": "/hknfCSSU6AMeKV9yn9NTtTzIEGc.jpg",
+               "id": 11856,
+               "order": 10
+            },
+            {
+               "cast_id": 21,
+               "character": "Mrs. Vyse, Cecil's mother",
+               "gender": 1,
+               "credit_id": "52fe441b9251416c75029089",
+               "name": "Maria Britneva",
+               "profile_path": null,
+               "id": 948582,
+               "order": 11
+            },
+            {
+               "cast_id": 22,
+               "character": "Mrs. Honeychurch",
+               "gender": 1,
+               "credit_id": "52fe441b9251416c7502908d",
+               "name": "Rosemary Leach",
+               "profile_path": "/vx4XTLfekw3RYQwFmAjnfSWAnvQ.jpg",
+               "id": 96408,
+               "order": 12
+            },
+            {
+               "cast_id": 23,
+               "character": "Freddy Honeychurch",
+               "gender": 2,
+               "credit_id": "52fe441b9251416c75029091",
+               "name": "Rupert Graves",
+               "profile_path": "/erhJMyO6Cuh95TmSTAfQHNfCAi9.jpg",
+               "id": 11278,
+               "order": 13
+            },
+            {
+               "cast_id": 24,
+               "character": "Sir Harry Otway, a Landlord",
+               "gender": 0,
+               "credit_id": "59791907c3a368684b002ccf",
+               "name": "Peter Cellier",
+               "profile_path": "/khiG54WhC7OL79PuSXUErKzRvVl.jpg",
+               "id": 44419,
+               "order": 14
+            },
+            {
+               "cast_id": 25,
+               "character": "Minnie Beebe",
+               "gender": 0,
+               "credit_id": "5979191c92514107d1002d0b",
+               "name": "Mia Fothergill",
+               "profile_path": null,
+               "id": 534537,
+               "order": 15
+            },
+            {
+               "cast_id": 26,
+               "character": "New Charlotte",
+               "gender": 1,
+               "credit_id": "5979197d92514107cc002dcd",
+               "name": "Matyelok Gibbs",
+               "profile_path": "/mFouHJqFX0Mtj1kgE5zkXXcNr8A.jpg",
+               "id": 17479,
+               "order": 16
+            },
+            {
+               "cast_id": 27,
+               "character": "New Lucy",
+               "gender": 1,
+               "credit_id": "5979198ac3a368685a003049",
+               "name": "Kitty Aldridge",
+               "profile_path": "/zngRVgSAe8IyH0fWLgqj8gbozFF.jpg",
+               "id": 105164,
+               "order": 17
+            },
+            {
+               "cast_id": 28,
+               "character": "Mrs Butterworth",
+               "gender": 0,
+               "credit_id": "597919ab9251410804002b00",
+               "name": "Patricia Lawrence",
+               "profile_path": "/p1vCBMQkjgyqSbXdJiTbsuC3uzX.jpg",
+               "id": 1222036,
+               "order": 18
+            },
+            {
+               "cast_id": 29,
+               "character": "Mr Floyd",
+               "gender": 0,
+               "credit_id": "597919c4c3a368687a002c44",
+               "name": "Freddy Korner",
+               "profile_path": null,
+               "id": 1858657,
+               "order": 19
+            },
+            {
+               "cast_id": 30,
+               "character": "Miss Poole",
+               "gender": 0,
+               "credit_id": "597919dbc3a368684b002d91",
+               "name": "Elizabeth Marangoni",
+               "profile_path": null,
+               "id": 1858658,
+               "order": 20
+            },
+            {
+               "cast_id": 31,
+               "character": "Santa Croce Guide",
+               "gender": 0,
+               "credit_id": "597919f492514107d1002dd2",
+               "name": "Mirio Guidelli",
+               "profile_path": null,
+               "id": 1858659,
+               "order": 21
+            },
+            {
+               "cast_id": 32,
+               "character": "Phaeton",
+               "gender": 0,
+               "credit_id": "59791a1092514107c80030dc",
+               "name": "Lucca Rossi",
+               "profile_path": null,
+               "id": 1858660,
+               "order": 22
+            },
+            {
+               "cast_id": 33,
+               "character": "Persephone",
+               "gender": 0,
+               "credit_id": "59791a26c3a368683e002a87",
+               "name": "Isabella Celani",
+               "profile_path": null,
+               "id": 567074,
+               "order": 23
+            },
+            {
+               "cast_id": 34,
+               "character": "Murdered Youth",
+               "gender": 2,
+               "credit_id": "59791a3792514107d6003094",
+               "name": "Luigi Di Fiore",
+               "profile_path": "/q8fA1C8MKNkbXNrDzrb4u1tUjQS.jpg",
+               "id": 1495216,
+               "order": 24
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe441b9251416c7502902f",
+               "name": "James Ivory",
+               "profile_path": "/vj4PY2KciRCZWzT4eCdOoQfzoJs.jpg",
+               "id": 54441,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe441b9251416c75029035",
+               "name": "Ruth Prawer Jhabvala",
+               "profile_path": null,
+               "id": 54443,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe441b9251416c7502903b",
+               "name": "Ismail Merchant",
+               "profile_path": null,
+               "id": 54448,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe441b9251416c75029041",
+               "name": "Richard Robbins",
+               "profile_path": null,
+               "id": 54449,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe441b9251416c75029047",
+               "name": "Tony Pierce-Roberts",
+               "profile_path": null,
+               "id": 3960,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe441b9251416c7502904d",
+               "name": "Humphrey Dixon",
+               "profile_path": null,
+               "id": 12759,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe441b9251416c75029063",
+               "name": "E.M. Forster",
+               "profile_path": "/rAAOtR6gWcdJgtp3iDPiKIrUN7O.jpg",
+               "id": 54442,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe441b9251416c75029069",
+               "name": "E.M. Forster",
+               "profile_path": "/rAAOtR6gWcdJgtp3iDPiKIrUN7O.jpg",
+               "id": 54442,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59fc84c6c3a3681a3f0291cc",
+               "name": "Gianni Quaranta",
+               "profile_path": "/m6suONxXcz9ulU34iayAwMc54Vo.jpg",
+               "id": 24668,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59fc84d0c3a3681aa502f981",
+               "name": "Brian Ackland-Snow",
+               "profile_path": null,
+               "id": 15877,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5a833bb1925141759600182b",
+               "name": "Jenny Beavan",
+               "profile_path": "/n6bhe5AsdnHYUV2AT7EVt2ZJWjc.jpg",
+               "id": 17166,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a833be30e0a26400e001a6f",
+               "name": "John Bright",
+               "profile_path": null,
+               "id": 1484993,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a833c1e92514175900018b3",
+               "name": "Carol Hemming",
+               "profile_path": null,
+               "id": 1336164,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a833c7cc3a3682db6001932",
+               "name": "Christine Beveridge",
+               "profile_path": null,
+               "id": 5333,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a833ced925141758d001ad9",
+               "name": "Kevan Barker",
+               "profile_path": null,
+               "id": 63356,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5a833d69c3a3682ddf0019c1",
+               "name": "Celestia Fox",
+               "profile_path": null,
+               "id": 970,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a833e0dc3a3682dca001d82",
+               "name": "Paul Bradley",
+               "profile_path": null,
+               "id": 1080783,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5a833e31c3a3682de7001bc6",
+               "name": "Ann Wingate",
+               "profile_path": null,
+               "id": 141569,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a833e9f0e0a26401c001df4",
+               "name": "Lanfranco Diotallevi",
+               "profile_path": null,
+               "id": 1977629,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5a833f35c3a3682daf001d75",
+               "name": "Jilly Gutteridge",
+               "profile_path": null,
+               "id": 1840048,
+               "department": "Production",
+               "job": "Location Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a83400e0e0a264014002381",
+               "name": "Malcolm Huse",
+               "profile_path": null,
+               "id": 1733728,
+               "department": "Camera",
+               "job": "Grip"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a8340209251417596001f28",
+               "name": "Sergio Serantoni",
+               "profile_path": null,
+               "id": 1719820,
+               "department": "Camera",
+               "job": "Grip"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a8340f4c3a3682dd30021e1",
+               "name": "Angelo Tiberti",
+               "profile_path": null,
+               "id": 1977639,
+               "department": "Camera",
+               "job": "Grip"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a8341650e0a264011002550",
+               "name": "Nick Hammond",
+               "profile_path": null,
+               "id": 1977640,
+               "department": "Sound",
+               "job": "Boom Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a83419b0e0a26400800217e",
+               "name": "Ray Beckett",
+               "profile_path": null,
+               "id": 1335146,
+               "department": "Sound",
+               "job": "Sound"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a8342120e0a26400800225e",
+               "name": "Brian Savegar",
+               "profile_path": null,
+               "id": 1209689,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a834223c3a3682ddf002106",
+               "name": "Elio Altamura",
+               "profile_path": null,
+               "id": 1449499,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a8342729251417590002283",
+               "name": "Dennis Fruin",
+               "profile_path": null,
+               "id": 1977650,
+               "department": "Art",
+               "job": "Property Master"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a8342ab925141758d0023cc",
+               "name": "Goffredo Massetti",
+               "profile_path": null,
+               "id": 1977652,
+               "department": "Art",
+               "job": "Property Master"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a834338925141759c002328",
+               "name": "Luigi Bisioli",
+               "profile_path": null,
+               "id": 1727834,
+               "department": "Lighting",
+               "job": "Gaffer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a834353c3a3682ddf0022cf",
+               "name": "Lou Bogue",
+               "profile_path": null,
+               "id": 1528910,
+               "department": "Lighting",
+               "job": "Gaffer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a83437c9251417596002444",
+               "name": "Glen Parsons",
+               "profile_path": null,
+               "id": 1943282,
+               "department": "Lighting",
+               "job": "Best Boy Electric"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a8343c4925141759300243d",
+               "name": "Alvaro Romagnoli",
+               "profile_path": null,
+               "id": 1977654,
+               "department": "Lighting",
+               "job": "Best Boy Electric"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a8343fb9251417596002529",
+               "name": "Renée Glynne",
+               "profile_path": null,
+               "id": 1537567,
+               "department": "Directing",
+               "job": "Continuity"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a83443b0e0a264014002ab0",
+               "name": "Simon Moseley",
+               "profile_path": null,
+               "id": 957967,
+               "department": "Directing",
+               "job": "Second Assistant Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a8347c8c3a3682dca002cff",
+               "name": "Daniel Sonnis",
+               "profile_path": null,
+               "id": 1977656,
+               "department": "Directing",
+               "job": "Second Assistant Director"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Romance",
+            "id": 10749
+         }
+      ],
+      "popularity": 7.717361,
+      "production_countries": [{
+         "iso_3166_1": "GB",
+         "name": "United Kingdom"
+      }],
+      "id": 11257,
+      "vote_count": 223,
+      "budget": 3000000,
+      "overview": "When Lucy Honeychurch and chaperon Charlotte Bartlett find themselves in Florence with rooms without views, fellow guests Mr Emerson and son George step in to remedy the situation. Meeting the Emersons could change Lucy's life forever but, once back in England, how will her experiences in Tuscany affect her marriage plans?",
+      "similar": [
+         4369,
+         10541,
+         8390,
+         2313,
+         10691,
+         2288,
+         744,
+         10882,
+         32856,
+         311,
+         1213,
+         858,
+         10198,
+         284,
+         38050,
+         11216,
+         634,
+         341174,
+         84892,
+         65496
+      ],
+      "original_title": "A Room with a View",
+      "runtime": 117,
+      "poster_path": "/fS4mDKBIHeTmWXPGgz64d2dMyJG.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Italiano",
+            "iso_639_1": "it"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Curzon Film Distributors",
+            "id": 11494,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Goldcrest Films International",
+            "id": 500,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "National Film Finance Corporation (NFFC)",
+            "id": 11493,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1985-12-13",
+      "vote_average": 6.9,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "UK",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["James Ivory"],
+      "runtime": 117,
+      "synopsis": "Lucy Honeychurch and her chaperon, Charlotte Bartlette, arrive in Florence, they are troubled by the fact that they don't have rooms with a view. Later that night at supper, fellow guests Mr. Emerson and his son George offer to exchange their rooms for that of Lucy and Charlotte's. This exchange is the first of many events where Lucy and Charlotte are involved in the plans of Mr. Emerson, George and other guests from the hotel they are staying at. But, when Lucy and George realize their passionate feelings for one another when George kisses Lucy, it is not a simple matter of boy likes girl, but boy likes girl and girl is engaged to another. Now Lucy begins to doubt her feelings for her husband to be and get herself caught up in a web of lies to convince herself, George and everyone else that she isn't in love with George. How will it all turn out in the end?",
+      "writers": [
+         "E.M. Forster",
+         "Ruth Prawer Jhabvala"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0091867/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTQyODE1NzMxMl5BMl5BanBnXkFtZTgwMjU2MTUxMDE@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Maggie Smith, Helena Bonham Carter, Denholm Elliott | See full cast and crew »"],
+      "reviews": [
+         "I have enjoyed 'A Room with a View' since it arrived on the scene in 1985. I have watched it many times and the video is wearing out and I fully intend to get the DVD of it soon. I saw it again the other night and am still charmed by it, in fact, I enjoyed it more than ever. Yes, it's a costume drama under glass, but it's a very well-done example of that popular genre. Films like this are greatly appealing to people like me who yearn for a gentler society and manners, though without the uptight staidness as exemplified by Aunt Charlotte (Maggie Smith) and Cecil Vyse (Daniel Day-Lewis). So this movie falls under the category of \"comfort\" film for me, and it is one of the very best. Often Merchant/Ivory productions ring false ('Remains of the Day', for example), when they attempt to make a political statement; in that case regarding the under-current in Britain that led to the surprisingly popular British Union of Fascists created by Sir Oswald Mosley prior to WW2. But when James Ivory and his team stick to romance and the pretty manners of Edwardians, they are hard to beat. Of the performers, Julian Sands seems the most \"improved\" in my opinion from earlier viewings. He is wonderful as the Byronic lover and has a ton of chemistry with Helena Bonham-Carter's lovely, spicey Lucy Honeychurch. Daniel Day-Lewis's Cecil Vyse seems a bit more contrived as time passes but is in the end a touching portrayal of a type of man that I despise. There isn't weak link in the entire cast. The Puccini arias and Beethoven piano sonatas are beautiful and enhance the story. The photography is gorgeous and the other technical aspects are flawless. This is the pinnacle of Merchant/Ivory films, I cannot imagine them producing anything better in the future, but who knows. They do seem to be in a cultural rut now, however. The fringe film crowd will probably descry this sort of populist cinema, but I think that is narrow-minded snobbery, as boorish as Cecil Vyse and his insufferable intolerance to \"the plebians.\"",
+         "No disrespect to the achingly elegant prose of E.M. Forster, but the last chapter of his novel simply cannot compare to this film's last shot, of a pair of lovers in a pensione in Florence, finally with their view of the Arno. As for the rest of this brilliant adaptation, it is populated with actors so perfectly cast it's as if they'd been invented for the roles-- Julian Sands as the Edwardian bohemian George Emerson, Helena Bonham-Carter, radiant as Lucy Honeychurch, Denholm Elliott, once again stealing every scene he's in, and Daniel Day-Lewis as the priggish Cecil Vyse, in a performance so self-consciously stiff he looks as though he were taken off the cover of the New Yorker. It's romantic, funny, stylish and impassioned. I first saw this film when it was released, and even at a young age, I knew I'd fallen in love. Twenty years later, I'm still in love with it.",
+         "A Room with a View possesses a fabulous cast, beautiful cinematography, an awesome adapted script, and a tale of oppressed desire during the paradigm shift from the repressive Victorian age to the more liberal Edwardian time. The film moves at a deliberate pace of country strolls and carriage rides filling the viewer with literary awakenings and music compositions. Poppies, barley, and Florence architecture decorate the screen. The film is witty if anything with carefree individuals roaming about with leisure on their minds. Pure love and desire aches throughout and Italy is the place to bring the lovers together. It is a handsome picture. Detailed period pieces and costumes. The cast is phenomenal! Helena Bohnam Carter portrays the peevish Lucy Honeychurch on her way to becoming her prudish Cousin and chaperone, Charlotte Bartlett (The Great Maggie Smith.) However The spirit of Italy will prevent such an occurrence and fill Miss Honeychurch with pure desire for George, the man who was brought up from the evils and hate of the world. The adaptation is superb. Fun. It is a film to live in and swim in the sacred lake. One of the best films of the 80's. Terrific!",
+         "This movie made me go to Florence, Italy. And once I got there, they actually showed it every other night at the pensione I stayed in. Though set in Victorian times, it is reminiscent of a Jane Austen novel- romantic and humorous, but more passionate. Characters are lovingly made fun of. The acting is wonderful. People you've seen elsewhere, but in unusual roles. Helena Bonham Carter is the confused heroine, Maggie Smith plays her passive-aggressive aunt, you won't believe it's Daniel Day-Lewis playing the most irritating pompous man, Judi Dench is a gossipy romance novelist, Julian Sands is adorably weird, and the supporting characters are also wonderful. It's one of favorites.",
+         "A lot of people expect this adaption of EM Forster's A Room with a View to be a stuffy costume drama. They see actors in period dress and are not interested. What those people are missing out on is a very funny, contemporary, subtle, well-acted and insightful film. This is as good an adaption from literature to film as I've ever seen. The tale of a group of English tourists to Italy and how their experiences change them is a stunning satire of Victorian social norms without losing sight of the charm of the individual characters. Fantastic.",
+         "This movie remains one of my favorites of all time. The acting is extremely pro. A case in point, I didn't realize for 5 years after first seeing the movie that Daniel Day Lewis was \"Cecil Vyse\". That's acting! \"Lucy Honeychurch\" (well played by Helena Bonham-Carter) embodies the struggle that most people must face at the beginning of their adult lives. Whether to listen to their own voice or the voice of others. Choosing one or the other can severely change the course of one's life. \"George Emerson\" as perfectly captured by Julian Sands, is the perfect man that most hope to find in their lifetime and we all push for \"Lucy\" to realize this. The supporting performances by the veteran cast that include Maggie Smith, Judi Dench, Denholm Elliot, Simon Callow (the wonderful Reverend Beebe) equally are brilliant. Well done!",
+         "\"A Room with a View\" is one of the best-known Merchant-Ivory films, the one that made their reputation for tastefully adapting Edwardian novels. Working from E. M. Forster's charming story, Merchant and Ivory add gorgeous Tuscan cinematography, lush opera music, and a cast of talented British actors. Even a skinny-dipping scene is done with enough class that the movie got away with a PG rating (though that probably wouldn't happen nowadays!). In short, Merchant-Ivory makes it look easy\u0097and this ease has led to charges of their films being dull and middlebrow, as well as to many imitators. But this stereotype of \"a Merchant-Ivory film\" fails to mention just how vivid and hilarious \"A Room with a View\" actually is. With scene-stealing actors like Maggie Smith as a prim, passive-aggressive chaperone and Daniel Day-Lewis as a self-centered young man whose every gesture tells of his fastidious rigidity, a rich vein of humor runs through the film. The movie also delights in putting its heroine Lucy (a baby-faced Helena Bonham Carter) in situations that prove awkward, funny, and ultimately invigorating for a well-bred young lady of 1905. Lucy finds herself in a love triangle, with society telling her to choose Cecil (Day- Lewis) but a deeper force pulling her toward the unconventional, moody George Emerson (Julian Sands). A comedy of manners, \"A Room with a View\" is sometimes guilty of seeing its characters as types, rather than people. Even Lucy is not much more than \"the young girl transfigured by Italy\" that Miss Lavish (Judi Dench), a writer of cheap novels, labels her as. Still, it's easy to get caught up in the romance of this delightful movie. After seeing it, you'll want to go out and defend Truth and Love from all those who would deny them. Or at least to start saving up for a trip to Italy.",
+         "Merchant-Ivory always do a good job. Their films are not only stunning visually, but they evoke an emotional response. A Room with a View is superficially a love story. and I hate to admit it kind of stays there. But they stick to the books. Having read the respective, Howard's End, and a Passage to India, I can truly say they adhere to what has been written. But the books are completely about what you read between the lines. E.M Forester was pretty disgusted by his culture. Yet it was his....and he loved it.......because it provided itself with misfits...i.e Lucy and her beau. He was an echo of Oscar Wilde. I think if you look very hard into this movie you will see that. Denholm Elliot is the epitome of an englishman who isn't an englishman. and he is the complete opposite of Mrs. Vyse....his opposing character. Even the vicar isn't what he supposed to be. Nude Bathing (Oh my Goodness) and in praise of passion he is a free spirit. I think anyone who can say bad about his movie has issues. Yes, its main-stream international. But its beautiful.",
+         "This movie is completely beautiful and always fascinating to watch. Each actor does great work, with Maggie Smith (as usual) being the most memorable. Her nomination was deserved, but where was one for Daniel Day-Lewis? I thought he was more memorable than Denholm Elliot, who was nominated. This movie is one to own and take out to enjoy when the mood strikes. Best line - \"Because she IS Charlotte Bartlett\"!",
+         "\"A Room with a View\" is certainly a film rarity, in that this adaptation fully lives up to an expectations set by E.M. Forster's classic novel. The film is set during the Edwardian period, a time marked by the replacing of Victorian ways with more liberal ideals. This idea is personified by the static characters of freethinking George Emerson (Julian Sands) and prudish Cecil Vyse (Daniel Day Lewis). Between these two extremes, we find our heroine Lucy Honeychurch (Helena Bonham-Carter), a young woman with a zest for life, but unsure of exactly what to do with it. In referencing her skills at the piano, one character puts it quite nicely, \"If Miss Honeychurch ever takes to live as she plays, it will be very exciting- both for us and her.\" It proves to be exciting for the audience too, as we watch her coming of age through fascinating interactions with both fiancée Cecil, and George, the young man she meets while abroad in Italy. It certainly doesn't hurt that these interactions are staged against some of the most beautiful scenery ever seen on the screen. Watching segments of the film with no sound could serve as an effective travelogue for Florence, Italy or Surrey, England. Of course that is just an added bonus, as it is Forster's characters who make the film come so alive. In addition to the three points of the love triangle, veteran actors such as Judi Dench, Denholm Elliot, and Maggie Smith give such performances that upon rereading the novel, I suspect it would be an impossible task to imagine these characters any other way. In addition to the perfect ensemble cast, directing/producing team Ismail Merchant and James Ivory give absolute proficiency to their adaptation of the novel. All the right scenes are there. (We forgive them for a slight alteration to the classic \"kiss in field of violets\" scene, as violets were not in season during production.) Dialogue is taken directly from the pages of the novel. And they show boldness in their unrestrained filming of a playful skinny-dipping sequence. I suppose it would be hypocritical to shoot a scene lampooning repression in a repressed manner, however. The basic story of \"A Room with a View\" is one which may have been told before, but like that special parent or teacher we all had growing up, this film tells that story better than anyone else could ever hope to. Its characters, their sensibilities, and their nuances enchant us. The entire production is a shining example of period film-making and the finished product is one worthy of repeated viewings. It truly gets better each time you see it. You'll notice more too. For instance, pay attention to Lucy's love scenes with her two men, particularly what transpires and whether they take place in or out of doors. It is a testament to the adapters, that other such literary elements from the novel remain intact here. In short, Forster laid the blueprint from which these filmmakers built a tour de force."
+      ],
+      "genres": [
+         "Drama",
+         "Romance"
+      ],
+      "productionCompanies": [
+         "Goldcrest Films International",
+         "National Film Finance Corporation (NFFC)",
+         "Curzon Film Distributors"
+      ],
+      "summaries": [
+         "When Lucy Honeychurch and chaperone Charlotte Bartlett find themselves in Florence with rooms without views, fellow guests Mr Emerson and son George step in to remedy the situation. Meeting the Emersons could change Lucy's life forever but, once back in England, how will her experiences in Tuscany affect her marriage plans?",
+         "It's the Edwardian era. The Honeychurches - Marian Honeychurch and her two just of age children Lucy Honeychurch and Freddy Honeychurch - are a carefree and fun-loving family that live in the country town of Summer Street, Surrey. Regardless, Lucy is a proper young woman. Some can tell by the way she plays Beethoven on the piano that there is a seething passion underneath her proper demeanor. She and her older cousin, her chaperon Charlotte Barlett, who is officious in a slyly undermining way, travel to Florence, Italy for a week-long respite. The Pensione Bertolini where they are staying is popular among British tourists. Among the disparate group of other British guests at the pensione are a Mr. Emerson, who Charlotte considers vulgar because of his forwardness, and his son, the bright but brooding George Emerson. As their stay progresses, George feels that Italian life is opening his eyes to what is important in life, and he feels the same is happening to Lucy. On a group outing, an incident occurs which both Charlotte and Lucy consider improper, which leads to the two leaving Italy early and heading back to England. Shortly thereafter, Lucy gets engaged to the upper crust and passionless Cecil Vyse. And Mr. Emerson moves to Summer Street, with George visiting on the weekends. As George befriends the Honeychurches, Lucy begins to tell a series of lies, mostly to herself, about what and who she really wants for and in her life.",
+         "Lucy Honeychurch, a young Englishwoman, makes her first visit to Florence, Italy in the early 1900's. There, she meets a quiet yet eccentric young man named George Emerson. Upon her return to England, Lucy must decide whether to follow through with her marriage to her stoic fiance, Cecil, or follow her heart and her growing attraction to George."
+      ],
+      "budget": 3000000
+   },
+   "movielensId": 1296,
+   "movielens": {
+      "languages": [
+         "English",
+         "Italiano"
+      ],
+      "releaseDate": "1985-12-13",
+      "dvdReleaseDate": "2004-04-06",
+      "directors": ["James Ivory"],
+      "runtime": 117,
+      "movieId": 1296,
+      "title": "A Room with a View",
+      "mpaa": "R",
+      "actors": [
+         "Maggie Smith",
+         "Helena Bonham Carter",
+         "Denholm Elliott",
+         "Julian Sands",
+         "Simon Callow",
+         "Patrick Godfrey",
+         "Judi Dench",
+         "Fabia Drake",
+         "Amanda Walker",
+         "Joan Henley",
+         "Daniel Day-Lewis",
+         "Maria Britneva",
+         "Rosemary Leach",
+         "Rupert Graves",
+         "Peter Cellier",
+         "Mia Fothergill",
+         "Matyelok Gibbs",
+         "Kitty Aldridge",
+         "Patricia Lawrence",
+         "Freddy Korner",
+         "Elizabeth Marangoni",
+         "Mirio Guidelli",
+         "Lucca Rossi",
+         "Isabella Celani",
+         "Luigi Di Fiore"
+      ],
+      "imdbMovieId": "0091867",
+      "originalTitle": "A Room with a View",
+      "genres": [
+         "Drama",
+         "Romance"
+      ],
+      "youtubeTrailerIds": [
+         "DgZkCc3xFl4",
+         "FGSJLa2dKjs",
+         "Uh-ha9zciyc"
+      ],
+      "plotSummary": "When Lucy Honeychurch and chaperon Charlotte Bartlett find themselves in Florence with rooms without views, fellow guests Mr Emerson and son George step in to remedy the situation. Meeting the Emersons could change Lucy's life forever but, once back in England, how will her experiences in Tuscany affect her marriage plans?",
+      "tmdbMovieId": 11257,
+      "avgRating": 3.89454,
+      "releaseYear": "1985",
+      "numRatings": 7448,
+      "posterPath": "/fS4mDKBIHeTmWXPGgz64d2dMyJG.jpg"
+   }
+}

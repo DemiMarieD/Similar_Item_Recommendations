@@ -1,0 +1,781 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "new love",
+            "id": 1605
+         },
+         {
+            "name": "lover (female)",
+            "id": 1808
+         },
+         {
+            "name": "love of one's life",
+            "id": 2038
+         },
+         {
+            "name": "forbidden love",
+            "id": 3691
+         },
+         {
+            "name": "lovers",
+            "id": 4663
+         },
+         {
+            "name": "secret love",
+            "id": 7879
+         },
+         {
+            "name": "crush",
+            "id": 9986
+         },
+         {
+            "name": "tragedy",
+            "id": 10614
+         }
+      ],
+      "imdb_id": "tt0063518",
+      "video": false,
+      "title": "Romeo and Juliet",
+      "recommendations": [
+         10236,
+         300488,
+         112193,
+         102492,
+         20758,
+         9062,
+         168502,
+         28501,
+         1879,
+         26690,
+         41357,
+         163422,
+         12714,
+         3116,
+         98997,
+         41521,
+         83354,
+         11816,
+         46111,
+         26201
+      ],
+      "backdrop_path": "/ybVvtVQQ3ACmy4bab9xievII3cG.jpg",
+      "revenue": 38901218,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 6,
+               "character": "Romeo",
+               "gender": 2,
+               "credit_id": "52fe4435c3a36847f80889c7",
+               "name": "Leonard Whiting",
+               "profile_path": "/6bsQo0K9W5Ql9U71qrJLGWy88BX.jpg",
+               "id": 30426,
+               "order": 0
+            },
+            {
+               "cast_id": 7,
+               "character": "Juliet",
+               "gender": 1,
+               "credit_id": "52fe4435c3a36847f80889cb",
+               "name": "Olivia Hussey",
+               "profile_path": "/qe2QxkaW8yQEn9dzFpUhttLs46x.jpg",
+               "id": 24695,
+               "order": 1
+            },
+            {
+               "cast_id": 8,
+               "character": "Mercutio",
+               "gender": 2,
+               "credit_id": "52fe4435c3a36847f80889cf",
+               "name": "John McEnery",
+               "profile_path": "/nDbOOKZP7F0zuhGVIitzOlh162C.jpg",
+               "id": 24498,
+               "order": 2
+            },
+            {
+               "cast_id": 9,
+               "character": "Tybalt",
+               "gender": 2,
+               "credit_id": "52fe4435c3a36847f80889d3",
+               "name": "Michael York",
+               "profile_path": "/hW0uWJtsKWsWAQ9k7EYq9sn5YCH.jpg",
+               "id": 13919,
+               "order": 3
+            },
+            {
+               "cast_id": 10,
+               "character": "Friar Laurence",
+               "gender": 2,
+               "credit_id": "52fe4435c3a36847f80889d7",
+               "name": "Milo O'Shea",
+               "profile_path": "/axJwk4Mwj1ZBx09YE3Lu5qU0QkE.jpg",
+               "id": 47137,
+               "order": 4
+            },
+            {
+               "cast_id": 11,
+               "character": "the Nurse",
+               "gender": 1,
+               "credit_id": "52fe4435c3a36847f80889db",
+               "name": "Pat Heywood",
+               "profile_path": "/v3JSx1mhf5MeSuCMTH8D7IChHFv.jpg",
+               "id": 47138,
+               "order": 5
+            },
+            {
+               "cast_id": 12,
+               "character": "the Prince",
+               "gender": 2,
+               "credit_id": "52fe4435c3a36847f80889df",
+               "name": "Robert Stephens",
+               "profile_path": "/q1GXvr08N9MzkTrMQjSXwDPrzRV.jpg",
+               "id": 41957,
+               "order": 6
+            },
+            {
+               "cast_id": 13,
+               "character": "Benvolio",
+               "gender": 0,
+               "credit_id": "52fe4435c3a36847f80889e3",
+               "name": "Bruce Robinson",
+               "profile_path": "/mImqLKRBNPUZz8dIAzoIvkADDwS.jpg",
+               "id": 8966,
+               "order": 7
+            },
+            {
+               "cast_id": 14,
+               "character": "Lord Capulet",
+               "gender": 0,
+               "credit_id": "52fe4435c3a36847f80889e7",
+               "name": "Paul Hardwick",
+               "profile_path": "/wzLLrL99v1RpjQ4YJ3c56hLt8dk.jpg",
+               "id": 47139,
+               "order": 8
+            },
+            {
+               "cast_id": 15,
+               "character": "Lady Capulet",
+               "gender": 1,
+               "credit_id": "52fe4435c3a36847f80889eb",
+               "name": "Natasha Parry",
+               "profile_path": "/rlI6zjGLwiYq48myBFgB7s8D9rJ.jpg",
+               "id": 47140,
+               "order": 9
+            },
+            {
+               "cast_id": 16,
+               "character": "Lord Montague",
+               "gender": 0,
+               "credit_id": "52fe4435c3a36847f80889ef",
+               "name": "Antonio Pierfederici",
+               "profile_path": null,
+               "id": 47141,
+               "order": 10
+            },
+            {
+               "cast_id": 17,
+               "character": "Lady Montague",
+               "gender": 0,
+               "credit_id": "52fe4435c3a36847f80889f3",
+               "name": "Esmeralda Ruspoli",
+               "profile_path": null,
+               "id": 41780,
+               "order": 11
+            },
+            {
+               "cast_id": 22,
+               "character": "Lord Paris",
+               "gender": 0,
+               "credit_id": "56ac0d65c3a3681c37003c10",
+               "name": "Roberto Bisacco",
+               "profile_path": "/p6zlcPq6gHrBARtlWc3KHQiB3Ya.jpg",
+               "id": 32314,
+               "order": 12
+            },
+            {
+               "cast_id": 23,
+               "character": "Peter",
+               "gender": 2,
+               "credit_id": "56ac0d88c3a3681c37003c1b",
+               "name": "Roy Holder",
+               "profile_path": null,
+               "id": 24709,
+               "order": 13
+            },
+            {
+               "cast_id": 24,
+               "character": "Balthazar",
+               "gender": 0,
+               "credit_id": "56ac0db3c3a3681c3f0047db",
+               "name": "Keith Skinner",
+               "profile_path": null,
+               "id": 24720,
+               "order": 14
+            },
+            {
+               "cast_id": 25,
+               "character": "Sampson",
+               "gender": 2,
+               "credit_id": "56ac0dd7c3a3681c3100417b",
+               "name": "Dyson Lovell",
+               "profile_path": null,
+               "id": 24661,
+               "order": 15
+            },
+            {
+               "cast_id": 26,
+               "character": "Gregory",
+               "gender": 2,
+               "credit_id": "56ac0e1dc3a3681c5c00456b",
+               "name": "Richard Warwick",
+               "profile_path": "/8IfGMRToIE1tdKN1CmJD2Ir9BBd.jpg",
+               "id": 138563,
+               "order": 16
+            },
+            {
+               "cast_id": 27,
+               "character": "Abraham",
+               "gender": 0,
+               "credit_id": "56ac0e5dc3a3681c34003cc3",
+               "name": "Roberto Antonelli",
+               "profile_path": null,
+               "id": 1223410,
+               "order": 17
+            },
+            {
+               "cast_id": 28,
+               "character": "Complementary Role (uncredited)",
+               "gender": 0,
+               "credit_id": "56ac0e8a9251417e11004362",
+               "name": "Carlo Palmucci",
+               "profile_path": null,
+               "id": 582975,
+               "order": 18
+            },
+            {
+               "cast_id": 29,
+               "character": "Complementary Role (uncredited)",
+               "gender": 2,
+               "credit_id": "56ac0ec59251417e200041e9",
+               "name": "Salvatore Billa",
+               "profile_path": "/1xMFylUtSyFZG86t2HP0l7QXDs9.jpg",
+               "id": 240914,
+               "order": 19
+            },
+            {
+               "cast_id": 30,
+               "character": "Complementary Role (uncredited)",
+               "gender": 0,
+               "credit_id": "56ac0f059251417e29003f83",
+               "name": "Claudio De Davide",
+               "profile_path": "/p8WeXiRZHD19BaazYVFd3qeQ5xB.jpg",
+               "id": 1385124,
+               "order": 20
+            },
+            {
+               "cast_id": 31,
+               "character": "Complementary Role (uncredited)",
+               "gender": 1,
+               "credit_id": "56ac0f42c3a3681c3f00483c",
+               "name": "Paola Tedesco",
+               "profile_path": "/QFMw1qLrkPM8JvQuznrEBuZyFA.jpg",
+               "id": 32914,
+               "order": 21
+            },
+            {
+               "cast_id": 32,
+               "character": "Narrator (voice) (uncredited)",
+               "gender": 2,
+               "credit_id": "56ac0ff99251417e140043be",
+               "name": "Laurence Olivier",
+               "profile_path": "/n8jDSq91O95HSbtCJLRsM367kKx.jpg",
+               "id": 3359,
+               "order": 22
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4435c3a36847f80889ab",
+               "name": "Franco Zeffirelli",
+               "profile_path": "/rzu0vDf1FtvriZty1gJ1OwhrReN.jpg",
+               "id": 24657,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4435c3a36847f80889b1",
+               "name": "Anthony Havelock-Allan",
+               "profile_path": null,
+               "id": 12719,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4435c3a36847f80889b7",
+               "name": "William Shakespeare",
+               "profile_path": "/2z4njqosEQM4g26ttb9grG9rJUg.jpg",
+               "id": 6210,
+               "department": "Writing",
+               "job": "Theatre Play"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4435c3a36847f80889bd",
+               "name": "Pasqualino De Santis",
+               "profile_path": "/edpUP1MUFgbAjL2oKGPX35DQGHo.jpg",
+               "id": 36016,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4435c3a36847f80889c3",
+               "name": "Nino Rota",
+               "profile_path": "/v42v3uM7jqwoZxDJ8MlEtT6Ol7a.jpg",
+               "id": 3098,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4435c3a36847f80889f9",
+               "name": "Franco Brusati",
+               "profile_path": "/3FS1JWTtUDdJ2Cn8GVI1stt7wYV.jpg",
+               "id": 49552,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4435c3a36847f80889ff",
+               "name": "Reginald Mills",
+               "profile_path": null,
+               "id": 24667,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56abb0d69251417e110033d1",
+               "name": "Franco Zeffirelli",
+               "profile_path": "/rzu0vDf1FtvriZty1gJ1OwhrReN.jpg",
+               "id": 24657,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56abb0f0c3a3681c3f0037d0",
+               "name": "Masolino D'Amico",
+               "profile_path": null,
+               "id": 1178491,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56ac1067c3a3681c34003d35",
+               "name": "John Brabourne",
+               "profile_path": null,
+               "id": 35850,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56ac10909251417e20004256",
+               "name": "Richard B. Goodwin",
+               "profile_path": null,
+               "id": 35851,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56ac10c79251417e110043cb",
+               "name": "Dyson Lovell",
+               "profile_path": null,
+               "id": 24661,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56ac10ecc3a3681c470043d1",
+               "name": "Lorenzo Mongiardino",
+               "profile_path": null,
+               "id": 26268,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56ac111f9251417e20004273",
+               "name": "Luciano Puccini",
+               "profile_path": null,
+               "id": 43705,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56ac11419251417e29004002",
+               "name": "Danilo Donati",
+               "profile_path": null,
+               "id": 9247,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56ac11fdc3a3681c54004273",
+               "name": "Giuseppe Bordogni",
+               "profile_path": null,
+               "id": 1569879,
+               "department": "Production",
+               "job": "Production Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56ac1243c3a3681c37003d1f",
+               "name": "Isa Bartalini",
+               "profile_path": null,
+               "id": 1431337,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56ac1260c3a3681c4700442a",
+               "name": "Dyson Lovell",
+               "profile_path": null,
+               "id": 24661,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56ac12be9251417e14004474",
+               "name": "Rinaldo Ricci",
+               "profile_path": null,
+               "id": 1569880,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56ac12f1c3a3681c3b0043a2",
+               "name": "Alessandro Alberti",
+               "profile_path": null,
+               "id": 1412085,
+               "department": "Art",
+               "job": "Assistant Art Director"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56ac135ac3a3681c3b0043b8",
+               "name": "Christine Edzard",
+               "profile_path": null,
+               "id": 138330,
+               "department": "Costume & Make-Up",
+               "job": "Set Dressing Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56ac13c49251410e8f003e91",
+               "name": "Italo Tomassi",
+               "profile_path": null,
+               "id": 1431338,
+               "department": "Art",
+               "job": "Set Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56ac14039251417e290040aa",
+               "name": "Sash Fisher",
+               "profile_path": null,
+               "id": 1569881,
+               "department": "Sound",
+               "job": "Sound Mixer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56ac148ec3a3681c5400430c",
+               "name": "Mike Hopkins",
+               "profile_path": null,
+               "id": 1404763,
+               "department": "Sound",
+               "job": "ADR & Dubbing"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56ac14f9c3a3681c470044d5",
+               "name": "Maurice Askew",
+               "profile_path": null,
+               "id": 1569882,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56ac159cc3a3681c47004501",
+               "name": "Peter Maxwell",
+               "profile_path": null,
+               "id": 1416951,
+               "department": "Sound",
+               "job": "ADR & Dubbing"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56ac15cac3a3681c4700450b",
+               "name": "Lionel Strutt",
+               "profile_path": null,
+               "id": 1405206,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56ac163a9251417c9800048e",
+               "name": "David Harcourt",
+               "profile_path": null,
+               "id": 1569883,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56ac1676c3a3681c5c004760",
+               "name": "Dudley Lovell",
+               "profile_path": null,
+               "id": 1102221,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56ac16db9251417e11004582",
+               "name": "John Rushton",
+               "profile_path": null,
+               "id": 1164394,
+               "department": "Editing",
+               "job": "Assistant Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56ac172fc3a3681c34003eb7",
+               "name": "Giorgio De Vincenzo",
+               "profile_path": null,
+               "id": 1569884,
+               "department": "Editing",
+               "job": "Assistant Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5ab29c5c92514139f700bc84",
+               "name": "William Shakespeare",
+               "profile_path": "/2z4njqosEQM4g26ttb9grG9rJUg.jpg",
+               "id": 6210,
+               "department": "Writing",
+               "job": "Writer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Romance",
+            "id": 10749
+         }
+      ],
+      "popularity": 9.327767,
+      "production_countries": [
+         {
+            "iso_3166_1": "IT",
+            "name": "Italy"
+         },
+         {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+         }
+      ],
+      "id": 6003,
+      "vote_count": 191,
+      "budget": 0,
+      "overview": "Director Franco Zeffirelli's beloved version of one of the most well-known love stories in the English language. Romeo Montague and Juliet Capulet fall in love against the wishes of their feuding families. Driven by their passion, the young lovers defy their destiny and elope, only to suffer the ultimate tragedy.",
+      "similar": [
+         4369,
+         10691,
+         8390,
+         2288,
+         11232,
+         843,
+         2313,
+         8960,
+         10340,
+         11036,
+         858,
+         1366,
+         1213,
+         744,
+         5123,
+         7797,
+         310,
+         9621,
+         45772,
+         10472
+      ],
+      "original_title": "Romeo and Juliet",
+      "runtime": 138,
+      "poster_path": "/eFQo6yVAnveM1lYxbhyiOzFLMQU.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Italiano",
+            "iso_639_1": "it"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
+            "name": "Paramount",
+            "id": 4,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": null,
+            "name": "Dino de Laurentiis Cinematografica",
+            "id": 1216,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "BHE Films",
+            "id": 2008,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Verona Produzione",
+            "id": 10520,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1968-04-02",
+      "vote_average": 7.4,
+      "belongs_to_collection": null,
+      "tagline": "No ordinary love story...",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "UK",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Franco Zeffirelli"],
+      "runtime": 138,
+      "synopsis": null,
+      "writers": [
+         "William Shakespeare",
+         "Franco Brusati"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0063518/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTkyMjIzOTcwOF5BMl5BanBnXkFtZTgwNzk2NjYxMTE@._V1_SY317_CR0,0,214,317_AL_.jpg",
+      "actors": ["Stars: Leonard Whiting, Olivia Hussey, John McEnery | See full cast and crew »"],
+      "reviews": [
+         "To my way of thinking, this film should be considered when people discuss the greatest movies of all time. Every scene, practically every frame of this movie is brilliant. Director Zeffirelli went against the ancient practice of using older actors in the title roles, and the performances he elicits from teenagers Whiting and Hussey is amazing. Although he trims the dialog heavily in places (Romeo says, \"But soft, what light through yonder window breaks?\"- and leaves it at that) his version captures all the passion of Shakespeare's play magnificently. The scenes at the Capulet's ball at which the two young lovers meet are about the greatest I've ever seen on screen. The famous balcony scene avoids cliches altogether and makes others pale by comparison. The Queen Mab speech, the fight, and the scene in the tomb are all exquisite highlights of this film. Even the dubbing for the Italian actor's voices and of the crowd noise is superior. It is amazing to me that an Italian could be so sensitively in tune with one of the English language's most sublime works. Zeffirelli wanted to make a movie that spoke to youth and he succeeded, to put it very mildly. If school systems were smart, they'd pack up their freshmen and sophomores on buses every year, drive them to a local theatre and show them this movie. I can't think of a better investment in young people's education that could be made. It worked for me.",
+         "I saw Romeo and Juliet at the Odeon Leicester Square, the day after the Royal Premier and from that day I was hooked on this film. I went back three times with different sets of friends just to watch it again and each time I enjoyed it more. Now owning it on DVD when I want to just feel good about films I watch it! So much has already been written about the youth of the two young unknown stars and the chemistry that they had on screen that I don't need to repeat it now. However the key to this film's great success was that it was visually stunning, Zefferelli is the master of using colour, setting and costume to great effect. He was so clever in his casting, not just with the very handsome young Leonard Whiting who at the time when I was only 18 myself I thought was gorgeous but also the innocence of an immature Hussey was perfect. A master stroke was Milo O'Shea as Friar Lawrence, never ever has there been a better role for this talented by rarely seen Irish actor. It's pointless complaining that the text is cut, by leaving out Romeo killing Paris and also the apothecary selling Romeo the poison in no way detracts from the overall imagery and beauty of Shakespeare's text. To have made the film using the whole text would have been too difficult and perhaps Zefferelli did want to portray Romeo as a little nicer than he actually was. In truth he was a fickle young man as all teenage boys can be and also prone to an amount of passionate violence so prevalent in adolescence. But this was Italy in Tudor times when life was cheap and the willingness to reach for the sword was as it should be.Shakespeare understood human nature better than anyone and that's why all his plays show so much insight into the human spirit. Zefferelli balanced the film perfectly, nothing was overdone. He combined the tragedy with the humour as well as the love story by casting the right actor for each role and even if some of them faded into oblivium later, for this film they were all perfect. I never want to see another version. Baz Luhrmann's pales in comparison and thats not a bad film. Come the Oscars I waited with baited breath having convinced myself that it would get best film - I was so disappointed!. It did collect Best Costume and I think Best Cinematography, but what a travesty, especially when the film that did win that year was not even in the same league and is hardly ever remembered. It's always very difficult to succeed with Shakespeare on the big screen but this version of Romeo and Juliet had it all. Only Kenneth Brannagh's mammoth production of the uncut version of Hamlet comes anywhere near this wonderful film. How Nino Roto's soundtrack also missed out on an Oscar I will never understand. Footnote: Luciano Pavarotti has recorded the main love theme and it's called Ai giochi addio - it is so beautiful it will make you cry as you remember the film.",
+         "I have seen multiple versions of R&J, from the 30's version, with Leslie Howard (in his 40's I think) & Norma Shearer, to the most recent thing with DeCaprio & Danes. None of them touched me in the way that Zefferelli's did, & continues to do. It was one of the first DVD's I bought, because I can watch it again & again, & still be heartbroken by the ending. The thing that shook me most the first time I saw it was that, in spite of the Shakespearian language, I got the meaning of the characters' statements immediately. The Shakespearian language was not a barrier at all. I had previously had to spend anywhere from 15 to 20 minutes before I could begin to follow the dialogue....there was no lag time with this version. To me, it will always be the definitive film version of this classic.",
+         "Truly one of the best films ever created of Shakespeare's plays. While in today's MTV - short attention span world this film may seem boring, in 1968 this film was revolutionary (I am not prejudice since I am in the MTV generation). Until this time R&J had been played by much older actors, since it was assumed they could understand Shakespeare's language. In 1968, Franco Z. gives us actors the actual age of Shakespeare's lead characters and they can act. Add to that stunning sets, costumes and music, the result is a moving artistic creation. The performances are superb, my personal favorites being Michael York's Tybalt and Milo O'Shea's the Friar. The language can be difficult and the action plotting, but one has to have patience when devoting attention to Shakespeare's plays, acted or read. Enjoy!",
+         "This was the first time we actually saw the teenage love Shakespeare intended. Years and years before Leonardo Di Caprio and Clare Danes, Leonard Whiting and Olivia Houssey gave life to the tragic story told in this ancestral tale, revamping it without betraying it, making it accessible to a 60s audience without updating it. Leonard and Olivia were so beautiful that Shakespeare became trendy again and I don't mean any disrespect by it, I'm simply stating a fact. The real, stunning, dusty locations, the costumes, the faces, the music made the whole thing a totally new Shakespearen experience. Remember than the biggest screen adaptation of this play had been with the forty something Leslie Howard and Norma Shearer in those roles. Here everything reeked of youth underlining the tragedy in the most cinematic way. Another important point is to confirm that in 2007 the film still feels young and fresh. Recommended",
+         "Exquisite. The beauty, the innocence, the undeniable - all consuming fire of first love portrayed to the hilt. Juliet's delicate grace was breathtaking. I was totally convinced by this young acting team that they were as in love as is humanly possible. One can smell and taste 14-15th century Italy while following the locations. The performers, everyone, are as genuinely sincere in their humor and passions as one could possible imagine, bringing to life Shakespere's words like I've never seen before. I cry every time I see it - all the way through. Mr. Zeffrelli, you are the best.",
+         "There were not many directors like Zeffirelli around during those golden years -sixties and seventies -of the Italian cinema.Because he was not part of the champagne socialists,because he made movies completely devoid of social concerns,he was generally dismissed by the European critics (and his fellow colleagues) as non-hip and reactionary. When you see these movies today,you realize how much they have worn well,and how much his detractors were wrong:Zeffirelli has never tried to change the world,but he has given beautiful movies which have stood the test of time quite well,perhaps because they are timeless.Even an epic and absorbing -and diametrically opposite to Zeffirelli's cinema - political work like Bertolucci's \"Novecento\" (1976) displays cheesy gauchism so trendy before the eighties in Europa . This is the second of the three Zeffirelli screen adaptations of Shakespeare -as a matter of interest,the others are \"taming of the shrew\"(1967 with E Taylor and R Burton) and \"Hamlet\" (1990 with M.Gibson and G.Close)-and it 's probably the best:Zeffirelli's genius was to cast actors (about) the age of the heroes as the leads.And Leonard Whiting and Olivia Hussey,both very beautiful,make up for their lack of experience with their youth,their innocence and the intensity of their looks.They are far better than Leonardo Di Caprio and Claire Danes in the drag queens cum west side story Luhrmann's 1996 version.Besides they get strong support from dark-haired Mickael York as Tybalt and John MCEnnery as Mercutio.The colors are,as always in a Zephirelli movie (see taming,and his made-for-TV Jesus)dazzling.Two scenes stand out:the ball and the lovers death in the Capulet tomb. Filmed on location in Verona,we never have the feeling that we are watching filmed stage production,not a small feat.This is the definitive screen version of the Elizabethan classic.Sir Laurence Olivier is the narrator.",
+         "Easily the best Shakespeare film in history, mainly because it stays so true to what Shakespeare wrote and was undoubtedly his vision, yet is undeniably fresh and relevant and affecting, despite its Renaissance setting. It feels more modern and current than the soulless bluster of Baz Luhrmann's effort. Whosoever says Whiting and Hussey are anything short of fantastic as Romeo and Juliet needs to reconsider how they want Shakespeare acted. Do you want dramatic bluster and fist waving (which Hamlet specifically cautions against) or true raw emotion and feeling? These actors, mostly because they were so inexperienced, couldn't be more natural and true to their characters every step of the way. You truly believe that they are in love and it's a legitimate love, no just \"crazy teens.\" And the rest of the cast - Jesus H. Christ! They're all fantastic. The Friar and Nurse were obscenely perfect, becoming among the most endearing characters ever filmed, and of course John McEnery is the best, most pathos-laden Mercutio ever, all stage, screen, TV, etc. renditions included. Michael York is a fabulous Tybalt, menacing, arrogant, headstrong, cruel, but ultimately sympathetic. Tybalt is after all just a petulant child - he's no evil tyrant, just a misguided bully, who certainly doesn't deserve to die. I love that his killing of Mercutio is accidental and that he seems to show remorse for it. Even the Prince is really damn good, with his last lines leaving an absolutely chilling impression on the audience. All are punish-ed! A must see.",
+         "Zefferelli is a sporadic master. Here he is in his prime. See how he understands how to direct groups, how to continue a motion from one frame to the next, how to use color to punctuate. What has happened here is that he has hit on a formula that works toward the problem of moving Shakespeare (a verbal, intellectual event) into film (a matter of motion and image). It works because the play can be cast largely in terms of crowds, sometimes mobs. Never have I seen this done so well. Much of the verbal poetry is cut, and image poetry replaced in sufficient measure to satisfy. Mercutio is rightly seen as the heart of the play, balanced by the Nurse. Both are terrific. Oh how I wish we could combine the cinematic skills of young Zefferelli with the Shakespearian insights of Branagh and the imagination of Greenaway to do, say a Lear. Bliss in the imagining.",
+         "This is a gorgeous film, and the best adaptation of Shakespeare's famous tear-jerker. All the performances are spot-on. Even though the film was released in 1968, it still rings true. It was filmed on location in Italy, and the sets/costumes really amazing. Zefferelli's (sp?)direction is probably his best. John McHenry, Leonard Whiting as and Olivia Hussey are wonderful. I believe Michael York of Austin Powers' fame made his screen debut in the role of Tybalt. This movie is a must-see for aspiring actors. The cast is more even than the Di Caprio/Luhrman/Danes more recent (and more well-known) histrionic, violent version. (The ridiculous accents in that picture really put me off.) I don't know if it's available on DVD."
+      ],
+      "genres": [
+         "Drama",
+         "Romance"
+      ],
+      "productionCompanies": [
+         "BHE Films",
+         "Verona Produzione",
+         "Dino de Laurentiis Cinematografica"
+      ],
+      "summaries": [
+         "Shakespeare's classic tale of romance and tragedy. Two families of Verona, the Montagues and the Capulets, have been feuding with each other for years. Young Romeo Montague goes out with his friends to make trouble at a party the Capulets are hosting, but while there he spies the Capulet's daughter Juliet, and falls hopelessly in love with her. She returns his affections, but they both know that their families will never allow them to follow their hearts.",
+         "When the now famous \"star crossed lovers\" of two enemy families meet, forbidden love ensues."
+      ],
+      "budget": 0
+   },
+   "movielensId": 3668,
+   "movielens": {
+      "languages": [
+         "English",
+         "Italiano"
+      ],
+      "releaseDate": "1968-04-02",
+      "dvdReleaseDate": "2000-05-23",
+      "directors": ["Franco Zeffirelli"],
+      "runtime": 138,
+      "movieId": 3668,
+      "title": "Romeo and Juliet",
+      "mpaa": "PG",
+      "actors": [
+         "Leonard Whiting",
+         "Olivia Hussey",
+         "John McEnery",
+         "Michael York",
+         "Milo O'Shea",
+         "Pat Heywood",
+         "Robert Stephens",
+         "Bruce Robinson",
+         "Paul Hardwick",
+         "Natasha Parry",
+         "Antonio Pierfederici",
+         "Esmeralda Ruspoli",
+         "Roberto Bisacco",
+         "Roy Holder",
+         "Keith Skinner",
+         "Dyson Lovell",
+         "Richard Warwick",
+         "Roberto Antonelli",
+         "Carlo Palmucci",
+         "Salvatore Billa",
+         "Claudio De Davide",
+         "Paola Tedesco",
+         "Laurence Olivier"
+      ],
+      "imdbMovieId": "0063518",
+      "originalTitle": "Romeo and Juliet",
+      "genres": [
+         "Drama",
+         "Romance"
+      ],
+      "youtubeTrailerIds": [
+         "nl_eFSeCb-4",
+         "4FHpmn-KYec"
+      ],
+      "plotSummary": "Director Franco Zeffirelli's beloved version of one of the most well-known love stories in the English language. Romeo Montague and Juliet Capulet fall in love against the wishes of their feuding families. Driven by their passion, the young lovers defy their destiny and elope, only to suffer the ultimate tragedy.",
+      "tmdbMovieId": 6003,
+      "avgRating": 3.60992,
+      "releaseYear": "1968",
+      "numRatings": 3357,
+      "posterPath": "/eFQo6yVAnveM1lYxbhyiOzFLMQU.jpg"
+   }
+}

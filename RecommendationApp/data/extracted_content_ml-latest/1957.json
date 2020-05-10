@@ -1,0 +1,940 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "underdog",
+            "id": 240
+         },
+         {
+            "name": "scotland",
+            "id": 388
+         },
+         {
+            "name": "missionary",
+            "id": 440
+         },
+         {
+            "name": "running",
+            "id": 795
+         },
+         {
+            "name": "jewry",
+            "id": 835
+         },
+         {
+            "name": "patriotism",
+            "id": 1627
+         },
+         {
+            "name": "mayor",
+            "id": 1919
+         },
+         {
+            "name": "praline",
+            "id": 1924
+         },
+         {
+            "name": "olympic games",
+            "id": 2070
+         },
+         {
+            "name": "jew",
+            "id": 2606
+         },
+         {
+            "name": "olympian sports team",
+            "id": 3044
+         },
+         {
+            "name": "ambition",
+            "id": 3734
+         },
+         {
+            "name": "athletics",
+            "id": 206206
+         }
+      ],
+      "imdb_id": "tt0082158",
+      "video": false,
+      "title": "Chariots of Fire",
+      "recommendations": [
+         9549,
+         16619,
+         11050,
+         20283,
+         10633,
+         5769,
+         403,
+         26748,
+         3116,
+         18129,
+         25430,
+         11426,
+         874,
+         9576,
+         11450,
+         821,
+         907,
+         625,
+         651,
+         838
+      ],
+      "backdrop_path": "/dAAP1FCksIfAdqarHL5cToLZlAi.jpg",
+      "revenue": 58972904,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 9,
+               "character": "Harold Abrahams",
+               "gender": 2,
+               "credit_id": "52fe44f8c3a36847f80b4d69",
+               "name": "Ben Cross",
+               "profile_path": "/oSGwl0y9ZQOKDYXbrEd2zeid1Bq.jpg",
+               "id": 29068,
+               "order": 0
+            },
+            {
+               "cast_id": 10,
+               "character": "Eric Liddell",
+               "gender": 2,
+               "credit_id": "52fe44f8c3a36847f80b4d6d",
+               "name": "Ian Charleson",
+               "profile_path": "/rQXBpZDKYUxaCxVN6rMYzW5m2cI.jpg",
+               "id": 11854,
+               "order": 1
+            },
+            {
+               "cast_id": 11,
+               "character": "Jennie Liddell",
+               "gender": 1,
+               "credit_id": "52fe44f8c3a36847f80b4d71",
+               "name": "Cheryl Campbell",
+               "profile_path": "/wq0fh8uFHUQByl4PpuCDGtF56Q9.jpg",
+               "id": 47536,
+               "order": 2
+            },
+            {
+               "cast_id": 12,
+               "character": "Sybil Gordon",
+               "gender": 1,
+               "credit_id": "52fe44f8c3a36847f80b4d75",
+               "name": "Alice Krige",
+               "profile_path": "/kUuVEsfZNxXdlK2JQdTEGcfkoY3.jpg",
+               "id": 2506,
+               "order": 3
+            },
+            {
+               "cast_id": 14,
+               "character": "Lord Andrew Lindsay",
+               "gender": 2,
+               "credit_id": "52fe44f8c3a36847f80b4d79",
+               "name": "Nigel Havers",
+               "profile_path": "/hZNkoh83CUAlOmqMwAz7i1jwWgi.jpg",
+               "id": 53517,
+               "order": 4
+            },
+            {
+               "cast_id": 15,
+               "character": "Sam Mussabini",
+               "gender": 2,
+               "credit_id": "52fe44f8c3a36847f80b4d7d",
+               "name": "Ian Holm",
+               "profile_path": "/27SAk1v043GdOeAxT5pPoMUYhGg.jpg",
+               "id": 65,
+               "order": 5
+            },
+            {
+               "cast_id": 20,
+               "character": "Aubrey Montague",
+               "gender": 2,
+               "credit_id": "52fe44f8c3a36847f80b4d99",
+               "name": "Nicholas Farrell",
+               "profile_path": "/t1I4m6x2aAki1pRueK6pxbi7j9s.jpg",
+               "id": 32357,
+               "order": 6
+            },
+            {
+               "cast_id": 22,
+               "character": "Henry Stallard",
+               "gender": 2,
+               "credit_id": "52fe44f8c3a36847f80b4da1",
+               "name": "Daniel Gerroll",
+               "profile_path": "/h7IVfBvK9bPTyDg1yNm40pb4zsS.jpg",
+               "id": 73933,
+               "order": 7
+            },
+            {
+               "cast_id": 23,
+               "character": "Master of Trinity",
+               "gender": 2,
+               "credit_id": "52fe44f8c3a36847f80b4da5",
+               "name": "John Gielgud",
+               "profile_path": "/jvTSqk7cuOrsdtf037olQ9BKRAe.jpg",
+               "id": 11857,
+               "order": 8
+            },
+            {
+               "cast_id": 24,
+               "character": "Master of Caius",
+               "gender": 2,
+               "credit_id": "52fe44f8c3a36847f80b4da9",
+               "name": "Lindsay Anderson",
+               "profile_path": "/gi9U0VjrMu4YREfFCTL4eFScuNS.jpg",
+               "id": 78157,
+               "order": 9
+            },
+            {
+               "cast_id": 25,
+               "character": "Lord Birkenhead",
+               "gender": 2,
+               "credit_id": "52fe44f8c3a36847f80b4dad",
+               "name": "Nigel Davenport",
+               "profile_path": "/1TwrQGpgtjejHHA2U3qfoNBX0io.jpg",
+               "id": 13327,
+               "order": 10
+            },
+            {
+               "cast_id": 26,
+               "character": "Charles Paddock",
+               "gender": 2,
+               "credit_id": "52fe44f8c3a36847f80b4db1",
+               "name": "Dennis Christopher",
+               "profile_path": "/sNFwlPHBAVn2fQIMVBTXMfx5E69.jpg",
+               "id": 27770,
+               "order": 11
+            },
+            {
+               "cast_id": 27,
+               "character": "Jackson Scholz",
+               "gender": 2,
+               "credit_id": "52fe44f8c3a36847f80b4db5",
+               "name": "Brad Davis",
+               "profile_path": "/qI5L5vzoZszHfs4GGiXzx2J0vzX.jpg",
+               "id": 69010,
+               "order": 12
+            },
+            {
+               "cast_id": 28,
+               "character": "Lord Cadogan",
+               "gender": 2,
+               "credit_id": "52fe44f8c3a36847f80b4db9",
+               "name": "Patrick Magee",
+               "profile_path": "/32ReETRLWtjg4eQO1SRhJsn8aSE.jpg",
+               "id": 2264,
+               "order": 13
+            },
+            {
+               "cast_id": 29,
+               "character": "Duke of Sutherland",
+               "gender": 2,
+               "credit_id": "52fe44f8c3a36847f80b4dbd",
+               "name": "Peter Egan",
+               "profile_path": "/kmJJEd3MXSXzbRACya76avqSB8w.jpg",
+               "id": 16480,
+               "order": 14
+            },
+            {
+               "cast_id": 30,
+               "character": "Sandy McGrath",
+               "gender": 2,
+               "credit_id": "52fe44f8c3a36847f80b4dc1",
+               "name": "Struan Rodger",
+               "profile_path": "/qDE0jrAyMzChwwP9x0YlBIvAGrq.jpg",
+               "id": 137927,
+               "order": 15
+            },
+            {
+               "cast_id": 47,
+               "character": "Head Port-Caius College",
+               "gender": 2,
+               "credit_id": "5a4e60edc3a3683b8900c9d0",
+               "name": "Richard Griffiths",
+               "profile_path": "/hUHiJYtXgGgYt7UkHA7YgEiGNYC.jpg",
+               "id": 10983,
+               "order": 16
+            },
+            {
+               "cast_id": 57,
+               "character": "Prince of Wales",
+               "gender": 2,
+               "credit_id": "5a566b9e0e0a2607d702af87",
+               "name": "David Yelland",
+               "profile_path": null,
+               "id": 210907,
+               "order": 17
+            },
+            {
+               "cast_id": 31,
+               "character": "Garth Jones",
+               "gender": 2,
+               "credit_id": "52fe44f8c3a36847f80b4dc5",
+               "name": "Michael Lonsdale",
+               "profile_path": "/pEF7YiXY9yMKUVX5n2Ly7OYH5Op.jpg",
+               "id": 2369,
+               "order": 18
+            },
+            {
+               "cast_id": 49,
+               "character": "Jimmie",
+               "gender": 2,
+               "credit_id": "5a4e6115c3a3683b7800eb3a",
+               "name": "Patrick Doyle",
+               "profile_path": "/mo87kZiHO5gsoax80Us0S2CPmS.jpg",
+               "id": 9152,
+               "order": 19
+            },
+            {
+               "cast_id": 59,
+               "character": "Rev. J.D. Liddell",
+               "gender": 0,
+               "credit_id": "5a566bdf0e0a2607d702b01b",
+               "name": "John Young",
+               "profile_path": "/klYwcM6cJ3kjtkSE1cdNsclmGcZ.jpg",
+               "id": 179028,
+               "order": 20
+            },
+            {
+               "cast_id": 61,
+               "character": "Mrs Liddell",
+               "gender": 1,
+               "credit_id": "5a566c01c3a3685ec702852a",
+               "name": "Yvonne Gilan",
+               "profile_path": null,
+               "id": 1402380,
+               "order": 21
+            },
+            {
+               "cast_id": 53,
+               "character": "Ernest Liddell",
+               "gender": 2,
+               "credit_id": "5a566aecc3a3685ed702ce6a",
+               "name": "David John",
+               "profile_path": "/7KhcJz7wnGzS7PIZQOCYQD7bVgr.jpg",
+               "id": 1765811,
+               "order": 22
+            },
+            {
+               "cast_id": 60,
+               "character": "Rob Liddell",
+               "gender": 0,
+               "credit_id": "5a566bf20e0a2607ce02ab57",
+               "name": "Benny Young",
+               "profile_path": null,
+               "id": 79958,
+               "order": 23
+            },
+            {
+               "cast_id": 58,
+               "character": "George Andre",
+               "gender": 2,
+               "credit_id": "5a566bbac3a3685ee602761b",
+               "name": "Yves Beneyton",
+               "profile_path": null,
+               "id": 24399,
+               "order": 24
+            },
+            {
+               "cast_id": 63,
+               "character": "Colonel John Keddie",
+               "gender": 0,
+               "credit_id": "5a566c2d9251417a9a028709",
+               "name": "Gerry Slevin",
+               "profile_path": null,
+               "id": 1452381,
+               "order": 25
+            },
+            {
+               "cast_id": 65,
+               "character": "Watson",
+               "gender": 0,
+               "credit_id": "5a566c59c3a3685ecd02ae32",
+               "name": "Stephen Mallatratt",
+               "profile_path": null,
+               "id": 1216576,
+               "order": 26
+            },
+            {
+               "cast_id": 66,
+               "character": "Taylor",
+               "gender": 2,
+               "credit_id": "5a566c660e0a2607d702b139",
+               "name": "Colin Bruce",
+               "profile_path": null,
+               "id": 24596,
+               "order": 27
+            },
+            {
+               "cast_id": 67,
+               "character": "Paxton",
+               "gender": 2,
+               "credit_id": "5a566c73c3a3685ebc0272ca",
+               "name": "Alan Polonsky",
+               "profile_path": "/qJlJSoQZ1C2OsTecqvPGFnF1D9q.jpg",
+               "id": 84890,
+               "order": 28
+            },
+            {
+               "cast_id": 68,
+               "character": "Fitch",
+               "gender": 2,
+               "credit_id": "5a566c8cc3a3685ebc0272eb",
+               "name": "Edward Wiley",
+               "profile_path": "/qqIKKV6d90H6BG3GuszbbkWWVzo.jpg",
+               "id": 1219365,
+               "order": 29
+            },
+            {
+               "cast_id": 55,
+               "character": "President - Gilbert and Sullivan Society",
+               "gender": 2,
+               "credit_id": "5a566b5d9251417aa6028eb0",
+               "name": "Jeremy Sinden",
+               "profile_path": null,
+               "id": 151819,
+               "order": 30
+            },
+            {
+               "cast_id": 56,
+               "character": "Secretary - Gilbert and Sullivan Society",
+               "gender": 0,
+               "credit_id": "5a566b730e0a2607e802ab0a",
+               "name": "Andrew Hawkins",
+               "profile_path": null,
+               "id": 1423898,
+               "order": 31
+            },
+            {
+               "cast_id": 62,
+               "character": "Sleeping Car Attendant",
+               "gender": 2,
+               "credit_id": "5a566c130e0a2607d402a656",
+               "name": "Jack Smethurst",
+               "profile_path": null,
+               "id": 111329,
+               "order": 32
+            },
+            {
+               "cast_id": 64,
+               "character": "Head Waiter - The Savoy",
+               "gender": 0,
+               "credit_id": "5a566c3d0e0a2607e002a872",
+               "name": "Peter Cellier",
+               "profile_path": "/khiG54WhC7OL79PuSXUErKzRvVl.jpg",
+               "id": 44419,
+               "order": 33
+            },
+            {
+               "cast_id": 69,
+               "character": "US Coach",
+               "gender": 2,
+               "credit_id": "5a566c9b0e0a2607ec02ab59",
+               "name": "Philip O'Brien",
+               "profile_path": null,
+               "id": 987040,
+               "order": 34
+            },
+            {
+               "cast_id": 48,
+               "character": "Bunty",
+               "gender": 1,
+               "credit_id": "5a4e6106c3a3683b8e00d489",
+               "name": "Ruby Wax",
+               "profile_path": "/6ZlUg66T7A1M0B9BNyinibL970S.jpg",
+               "id": 33404,
+               "order": 35
+            },
+            {
+               "cast_id": 70,
+               "character": "Harbour Master",
+               "gender": 0,
+               "credit_id": "5a566caa9251417a9d02908d",
+               "name": "Ralph Lawton",
+               "profile_path": null,
+               "id": 1619206,
+               "order": 36
+            },
+            {
+               "cast_id": 72,
+               "character": "Sybil's Maid",
+               "gender": 0,
+               "credit_id": "5a566ce69251417a9d029108",
+               "name": "Kim Clifford",
+               "profile_path": null,
+               "id": 1242305,
+               "order": 37
+            },
+            {
+               "cast_id": 71,
+               "character": "Caius Porter",
+               "gender": 0,
+               "credit_id": "5a566cc69251417a9a028836",
+               "name": "John Rutland",
+               "profile_path": null,
+               "id": 1955126,
+               "order": 38
+            },
+            {
+               "cast_id": 50,
+               "character": "",
+               "gender": 2,
+               "credit_id": "5a4e614e925141735200cf15",
+               "name": "Peter Jones",
+               "profile_path": "/ulhvhkxwHUWYnA8cd7NxAw6TFbq.jpg",
+               "id": 95093,
+               "order": 39
+            },
+            {
+               "cast_id": 52,
+               "character": "Singer in \"HMS Pinafore' (uncredited)",
+               "gender": 2,
+               "credit_id": "5a4e6184c3a3683b8200c012",
+               "name": "Stephen Fry",
+               "profile_path": "/uaRoTAS2D15vdlpHm122UEUg5ck.jpg",
+               "id": 11275,
+               "order": 40
+            },
+            {
+               "cast_id": 51,
+               "character": "Cambridge Student - Society Day crowd (uncredited)",
+               "gender": 2,
+               "credit_id": "5a4e61690e0a26482000e5db",
+               "name": "Kenneth Branagh",
+               "profile_path": "/bmpGjbqvAVNOK3ggiuET2Jl96tZ.jpg",
+               "id": 11181,
+               "order": 41
+            },
+            {
+               "cast_id": 73,
+               "character": "Shot Putter (uncredited)",
+               "gender": 2,
+               "credit_id": "5a566d330e0a2607d702b2e5",
+               "name": "Ted Robbins",
+               "profile_path": "/kkCpR3KgMFOtx4WhmLK5rjQ07z2.jpg",
+               "id": 1218933,
+               "order": 42
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe44f8c3a36847f80b4d47",
+               "name": "Hugh Hudson",
+               "profile_path": null,
+               "id": 58220,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44f8c3a36847f80b4d4d",
+               "name": "Colin Welland",
+               "profile_path": "/rs9BRqQyzPAs8U5HMM6z0JLCU16.jpg",
+               "id": 14957,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44f8c3a36847f80b4d53",
+               "name": "David Puttnam",
+               "profile_path": null,
+               "id": 8967,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44f8c3a36847f80b4d59",
+               "name": "James Crawford",
+               "profile_path": null,
+               "id": 58221,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44f8c3a36847f80b4d5f",
+               "name": "David Watkin",
+               "profile_path": null,
+               "id": 10639,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44f8c3a36847f80b4d65",
+               "name": "Terry Rawlings",
+               "profile_path": null,
+               "id": 5056,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44f8c3a36847f80b4d83",
+               "name": "Colin Welland",
+               "profile_path": "/rs9BRqQyzPAs8U5HMM6z0JLCU16.jpg",
+               "id": 14957,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44f8c3a36847f80b4d89",
+               "name": "Dodi Fayed",
+               "profile_path": null,
+               "id": 14696,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44f8c3a36847f80b4d8f",
+               "name": "Jake Eberts",
+               "profile_path": null,
+               "id": 2359,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5711f8c0c3a3685378009c07",
+               "name": "Vangelis",
+               "profile_path": "/mazrSgrJLCgkJFzPAPCNJYsKolZ.jpg",
+               "id": 595,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "574752bac3a36839df00077c",
+               "name": "Esta Charkham",
+               "profile_path": null,
+               "id": 1353832,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "574752c0c3a36839cc000838",
+               "name": "Jonathan Amberston",
+               "profile_path": null,
+               "id": 1378834,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "574752c7c3a36839e800085d",
+               "name": "Len Huntingford",
+               "profile_path": null,
+               "id": 1047832,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "574752cdc3a36839df000781",
+               "name": "Anna Ridley",
+               "profile_path": null,
+               "id": 1400418,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "574752d3c3a36839d9000766",
+               "name": "Andrew Sanders",
+               "profile_path": null,
+               "id": 957624,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 1,
+               "credit_id": "574752da92514139cf000622",
+               "name": "Milena Canonero",
+               "profile_path": null,
+               "id": 5671,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57475302c3a36839e800086d",
+               "name": "Kenteas Brine",
+               "profile_path": null,
+               "id": 10719,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57475309c3a3684cc9000656",
+               "name": "Maureen Hannaford-Naisbitt",
+               "profile_path": null,
+               "id": 1626425,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5747531092514171ed000003",
+               "name": "Kate Healy",
+               "profile_path": null,
+               "id": 1626426,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5747531892514171f7000003",
+               "name": "Mary Hillman",
+               "profile_path": null,
+               "id": 10645,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Department Head"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57475321c3a36816fa000006",
+               "name": "Hilary Steinberg",
+               "profile_path": null,
+               "id": 1626427,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5747532ac3a368170f000007",
+               "name": "Joan Hills",
+               "profile_path": null,
+               "id": 1202174,
+               "department": "Costume & Make-Up",
+               "job": "Hair Department Head"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57475334c3a36816f8000007",
+               "name": "Joyce Herlihy",
+               "profile_path": null,
+               "id": 11381,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5747533cc3a368171f00000d",
+               "name": "Jonathan Benson",
+               "profile_path": null,
+               "id": 8940,
+               "department": "Directing",
+               "job": "Assistant Director"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "History",
+            "id": 36
+         }
+      ],
+      "popularity": 7.326911,
+      "production_countries": [{
+         "iso_3166_1": "GB",
+         "name": "United Kingdom"
+      }],
+      "id": 9443,
+      "vote_count": 271,
+      "budget": 5500000,
+      "overview": "The true story of British athletes preparing for and competing in the 1924 Summer Olympics.",
+      "similar": [
+         4982,
+         319888,
+         145,
+         760,
+         4012,
+         488,
+         1986,
+         14242,
+         12407,
+         22256,
+         42343,
+         50566,
+         234939
+      ],
+      "original_title": "Chariots of Fire",
+      "runtime": 123,
+      "poster_path": "/tDt0QreHAiM44km0Iek0UwLdyIW.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Français",
+            "iso_639_1": "fr"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "The Ladd Company",
+            "id": 7965,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Enigma Productions",
+            "id": 7049,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Allied Stars, Ltd.",
+            "id": 8770,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+            "name": "20th Century Fox",
+            "id": 25,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": "/6rFNo5taSC9i0Sxnl81nucQMsw9.png",
+            "name": "Warner Bros. Pictures",
+            "id": 174,
+            "origin_country": "US"
+         }
+      ],
+      "release_date": "1981-05-15",
+      "vote_average": 6.8,
+      "belongs_to_collection": null,
+      "tagline": "This is the story of two men who run, not to run, but to prove something to the world. They will sacrifice anything to achieve their goals... except their honor.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "UK",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Hugh Hudson"],
+      "runtime": 124,
+      "synopsis": "The movie is based on the true story of two British athletes competing in the 1924 Summer Olympics in Paris. Englishman Harold Abrahams (Ben Cross), who is Jewish, overcomes anti-Semitism and class prejudice in order to compete against the \"Flying Scotsman\", Eric Liddell (Ian Charleson), in the 100 metre race. Opening in 1919 England, Harold Abrahams enters Cambridge University, where he meets with anti-Semitism from the staff, but enjoys participating in the Gilbert and Sullivan theatre club. He becomes the first person to ever complete the Trinity Great Court run: running around the court in the time it takes for the clock to strike 12. Abrahams achieves an undefeated string of victories in various national running competitions. Although focused on his running, he falls in love with a famous Gilbert and Sullivan soprano, Sybil (Alice Krige). Eric Liddell (Ian Charleson), born in China of Scottish missionary parents, is in Scotland. His devout sister Jennie (Cheryl Campbell) disapproves of Liddell's plans to pursue competitive running. But Liddell sees running as a way of glorifying God before returning to China to work as a missionary. When they first race against each other, Liddell beats Abrahams who takes it extremely badly. But Sam Mussabini (Ian Holm), a professional trainer whom Abrahams had approached earlier, offers to take him on to improve his technique. This attracts criticism from the Cambridge college masters (John Gielgud and Lindsay Anderson). They allege it is ungentlemanly for an amateur to \"play the tradesman\" by employing a professional coach. Abrahams realizes this is a cover for their anti-Semitism and class entitlement, and dismisses their concern. Meanwhile, when Liddell accidentally misses a church prayer meeting because of his running, his sister Jennie upbraids him and accuses him of no longer caring about God. But Eric tells her that though he intends to eventually return to the China mission, he feels divinely inspired when running, and that not to run would be to dishonour God: \"I believe that God made me for a purpose. But He also made me fast, and when I run, I feel His pleasure.\" The two athletes, after five years of training and racing, are accepted to represent Great Britain in the 1924 Summer Olympics in Paris, France. Also accepted are Abrahams' Cambridge buddies, Lord Andrew Lindsay (Nigel Havers), Aubrey Montague (Nicholas Farrell), and Henry Stallard (Daniel Gerroll) whom join the UK team. While boarding the boat to Paris for the Olympics, Liddell learns from the newspapers that the event for his 100 metre race will be on a Sunday. Liddell refuses to run the race despite strong pressure from the Prince of Wales (David Yelland) as well as the head of the British Olympic committee, Lord Cadogan (Patrick Magee) because Liddell's Christian convictions prevent him from running on the Christian Sabbath (Sunday). Hope appears in the form of Liddell's teammate Lord Andrew Lindsay. Having already won a silver medal in the 400 metre hurdles, Lindsay proposes to yield his place in the 400 metre race on the following Tuesday to Liddell. Liddell gratefully agrees. His religious convictions in the face of national athletic pride make headlines around the world. Liddell delivers a sermon at the Paris Church of Scotland that Sunday, and quotes from Isaiah 40, verse 31: \"But they that wait upon the LORD shall renew their strength; they shall mount up with wings as eagles; they shall run, and be not weary; and they shall walk, and not faint.\" Meanwhile, Abrahams is badly beaten (coming in third) by the heavily favoured and more experienced United States runner Charles Paddock (Dennis Christopher) in the 200 metre race who wins the gold medal. Abrahams knows that his last chance for a gold medal will be the 100 metres run. He competes in the 100 metre sprint and wins, beating Paddock who comes in second. On Tuesday, just before Liddell's race, the American coach remarks to his runners that Liddell has little chance of doing well in his now far longer 400 metre race. But one of the American runners, Jackson Scholz (Brad Davis), hands Liddell a note of support for his convictions. Liddell defeats Scholz and all the American favourites and wins the gold medal. The British team returns home triumphant. As the film ends, an onscreen text explains that Abrahams married Sybil, and became the elder statesman of British athletics. He died in January 1978. The elulogy at Abrahams' funeral is delivered by the elderly Lord Andrew Lindsay, the last surviving member of the 1924 UK Olympic Team. Eric Liddell went on to his missionary work back in China where he was killed by Japanese troops in 1945.",
+      "writers": ["Colin Welland"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0082158/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTk3MTE3Mzg4MV5BMl5BanBnXkFtZTcwOTY0NTM1Mg@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Ben Cross, Ian Charleson, Nicholas Farrell | See full cast and crew »"],
+      "reviews": [
+         "I happened to be flipping channels today and saw this was on. Since it had been several years since I last saw it I clicked it on, but didn't mean to stay. As it happened, I found this film to be just as gripping now as it was before. My own kids started watching it, too, and enjoyed it - which was even more satisfying for me considering the kind of current junk they're used to. No, this is not an action-packed thriller, nor are there juicy love scenes between Abrahams and his actress girlfriend. There is no \"colorful\" language to speak of; no politically correct agenda underlying its tale of a Cambridge Jew and Scottish Christian. This is a story about what drives people internally - what pushes them to excel or at least to make the attempt to do so. It is a story about personal and societal values, loyalty, faith, desire to be accepted in society and healthy competition without the utter selfishness that characterizes so much of the athletic endeavors of our day. Certainly the characters are not alike in their motivation, but the end result is the same as far as their accomplishments. My early adolescent son (whose favorite movies are all of the Star Wars movies and The Matrix) couldn't stop asking questions throughout the movie he was so hooked. It was a great educational opportunity as well as entertainment. If you've never seen this film or it's been a long time, I recommend it unabashedly, regardless of the labels many have tried to give it for being slow-paced or causing boredom. In addition to the great story - based on real people and events - the photography and the music are fabulous and moving. It's no mistake that this movie has been spoofed and otherwise stolen from in the last twenty years - it's an unforgettable movie and in my opinion its bashers are those who hate Oscar winners on principle or who don't like the philosophies espoused by its protagonists.",
+         "I beg to differ with several previous reviewers. This film is neither bland nor is it solely about professionalism vs. amateurism. This film is about what drives people to do what they do. Eric Liddell (Ian Charleson) runs for the glory of God, whereas Harold Abrahams (Ben Cross) runs to prove his worth to a society that was anti-Semitic. Even though they run for different reasons, their drive and determination spur them on. They stand up for what they believe in and refuse to sacrifice their principles because it is the easy way out. The supporting cast is also extraordinary, with Nigel Havers, Nicholas Farrell, Ian Holm and Sir John Gielgud all making important contributions to the final product. There is absolutely nothing unnecessary in this film. The writing, the direction, the acting, the dialogue are all outstanding. And then there's that haunting score. Once again, this is truly an outstanding film. One with universal themes that transcend time and place.",
+         "I watched this again last night. I had forgotten just how beautifully done it was - both a character study of two very different men and a gripping plot of their attempts to succeed - partly through athletics. the writer and director so well convey both Cambridge and the Edinburgh Presbyterian missionary disciples, in the early 1920s so very well. The acting is superb - I had never seen a character presented like Eric Liddell in movies - how fine Ian Charleson was in this role, the softness of his voice, his ease and joy in running competitively (especially in contrast with the tense tortured Harold Abrahams). I also loved the more supporting roles - I've read a biography of F.E. Smith and Nigel Davenport is exactly how I would imagine him. The actor who played the Prince of Wales also seemed exactly right with his effortless charm, looks, and lack of imagination. Ian Holm, John Gielgud, Lindsay Anderson - all wonderful. The actors weren't chosen for glamour either - Liddell and Abrahams are not Leni Riefenstahl images of athletic ideals, Liddell's sister is no beauty - and Abrahams' girlfriend is pretty but not stunning. It made them seem more real. (In nice contrast were the near-pretty boy looks of Nigel Havers as Lord Lindsay - it so suited his character). The races are riveting - partly due to the music and sound effects. So many small things are done so well - e.g., when Lord Lindsay has the confidence of his class to barge into a room containing the Prince of Wales, and three other lords (including Birkenhead and the head of the British Olympic Committee) and greets them by name - no need for introduction there (as there was for Liddell). It's small but seems quite real. As an American, it was interesting and funny to see our Olympic team shown as the numerous, ominous, invulnerable \"other\"! (something like watching a Rocky movie with Rocky as the product of a Russian or East German success machine!). In fact, the one scene that seemed a bit off was the scene of the American track athletes warming up for the Games - all heavy music, machine like athletes, ferocious coach yelling with a megaphone into people's ears. It pounded too hard on the \"these are the scary almighty inhuman opponents\" theme in contrast to the cheerful British boys running along the beach. Something I had forgotten about the movie was how stubborn BOTH protagonists are - Liddell fully as much as Abrahams. Liddell is not overly deferential or bashful when dealing with the Prince of Wales - but instead straightforward and very firm. I truly can't understand anyone not liking this movie - it is very exciting even on the basic level of \"will they win?\" and so much more. (For example, Ian Holm's character's reaction to success after 30 years is very moving). Those who write to say that \"Reds\" deserved the Oscar more - are simply wrong. (Reds was so simplistic that it felt like watching the movie \"The Hardy Boys Go to the Russian Revolution\"). Those who say they cannot differentiate among the boys or between the Scottish and English accents - well, it sounds like some political statement to me. Do watch it - it's very fine, very moving, very exciting.",
+         "I enjoy sports films, especially when they are used to exemplify greater human truths. In that regard `Chariots of Fire' is one of my favorite sports films. What differentiates this film is that it is really a human story about sports rather than a pure sports story. Based on a true story, it centers on two gifted athletes and their quest to run in the 1924 Olympics. The first is Harold Abrahams (Ben Cross), a haughty sprinter with an obsession for winning. Abrahams, who is Jewish, is a man with something to prove, mostly to himself. His rival is Eric Liddell (Ian Charleson), the first man to ever beat him in a sprint. Liddell is a devout Christian and runs for the glory of God. There is an exquisite interplay of subtle themes in this film underlying the obvious sports tale. There is the contrast of motives. Abraham runs to validate his feeling of personal power, and his preoccupation with winning is actually motivated by his fear of losing. His quest is torturous, and ultimately his victory empty, more of a relief than a triumph. Liddell runs out of a desire to repay God for the physical gifts he has been given. He is at peace with himself, but at odds with all those who want to control him. Their rivalry represents a battle between the forces of the physical and spiritual. Other themes pervade the film. We have undercurrents of bigotry against the Jewish runner, a man of whom Cambridge was begrudgingly proud while berating him behind his back. We have sinister political attempts at manipulation in the face of Liddell's staunch integrity in adhering to his principles. Together, these forces combine to produce a film rich in drama and meaning. The film has been criticized for its inaccuracies. Some say Abraham did not suffer from anti-Semitic bigotry and that he was wildly popular at Cambridge. This does not necessarily mean he didn't feel inferior. No one can know what childhood experiences might have affected his psyche. Jackson Scholz was quoted as saying he never gave Liddell a note of encouragement on the track. I have to agree that this was a bit of Hollywood drivel that didn't need to be there. Additionally, Liddell knew weeks before that the heats would be on a Sunday, not just before the race as shown, and he was always scheduled to run the 400-meter race. The meeting of political bigwigs that allowed him to switch from the 100 to the 400 was pure fabrication to emphasize his resistance to compromising his beliefs about running on the Sabbath. However, these liberties can be forgiven because they enriched the story and did not change history in major ways. The direction by Hugh Hudson is powerful. Hudson captures the feeling and excitement of track and field competition, as well as giving us numerous beautifully photographed scenes and a wonderful period rendering. Though nominated for an Oscar, Hudson was unable to capitalize on the success of this film, and he has directed very few, mostly minor films since. The music by Vangelis is also wonderful, and it won the Best Music Oscar. Ben Cross is fantastic as Abrahams. He brings great intensity to Abrahams' single-minded obsession for winning. Cross hasn't done much film work since, but has had a long and distinguished career in TV. Ian Charleson is also excellent as Liddell, but his career went the same route as Cross'. This minor film was the sleeper of 1981, nominated for seven Academy Awards and winning four, including Best Picture. I rated it a 10/10. It combines the best elements of human drama and sport to create a potent and engrossing film.",
+         "Much more than just another sports movie, CoF analyzes the very different reasons two men have for devoting so much of their lives to training for the Olympics. This in an era when there were no commercial sponsors and no lucrative endorsement contracts. Though there is always fame and personal satisfaction, it seems to be implied that these things alone are insufficient to explain the special forces that drive these two men so much more than all the others. This is a truly beautiful movie about a different era, about competition and what may serve as motivation to compete--and perhaps about what kinds of motivation are healthy and what kinds are not. 9/10",
+         "Having just picked up (1 Feb. 2005) WB's Special Edition DVD of \"Chariots of Fire\", I am pleased to report that it indeed \"Special\"! The major improvement over the original DVD release is, of course, the presentation of the feature in its proper 1.85:1 screen ratio. The feature also has the option of a very fine commentary track by director Hugh Hudson. Disc 2 includes two outstanding documentary films. \"Wings on Their Heels: The Making of Chariots of Fire\", has interviews with most of the living participants. It is fascinating and very informative. The struggle of the film to get financing is covered as well as the process that took place in finding the lead actors is covered. The excitement of Oscar night, when the film took home the \"Best Picture\" award, is captured through the comments of those who were there. The second offering, \"Chariots of Fire: A Reunion\", was shot in England with the producer, director, cinematographer, and three of the actors recalling their experiences in working on the film. This is an inspired way of letting the creative people involved recall and share their involvement in film that turned out to be the highlight of their careers. Both documentary films are a joy to watch, as are the 16 minutes of scenes cut from the film, including one alternate that was used in the European release but cut for the U.S. release. There are also a couple of screen tests for Ben Cross and Ian Charleson that are interesting --and a nice theatrical trailer. An interesting side-note is that 20th Century Fox, who financed half of the $6 million budget, was not interested in releasing the film in the U.S. -- they figured Americans would not have an interest in British runners. Ironically, of the films $50 million theatrical gross, $32 million came from the WB domestic release. Now we finally have a DVD release that is worthy of that is my pick and the finest film of the 1980s. \"Chariots of Fire\" is a film that ranks very high on my list of all-time great films.",
+         "I was a student at Edinburgh University in 1981 and was actually lodging with one branch of Eric Liddell's family. My friends and I all went to see this movie repeatedly -- and I mean five, six, or seven paid entrances. Why? Personally, I don't think it had anything to do with the plot, character development, the music, or moral virtue. It was simply that the film was so utterly beautiful. The men were beautiful in a clean, non-glamorous way that we had never seen before. Not in British films, and certainly not in Hollywood movies. The social and educational expectations shared by all were beautiful. I know it is fashionable to decry the British class system, and in principle I agree with all the criticisms. But it also seems that erasing class-by-birth leaves little else but crass meritocracy and the sheer vulgarity of the uneducated masses. Abraham's fellow students at Cambridge and Liddell's at Edinburgh participated in a social and educational system not driven by concerns about jobs, and not pathetically challenged by students who saw themselves as consumers and professors as entertainers. Britain was beautiful. Of course some parts still are, but Nazi bombs, post-war architecture, and modern cars have destroyed much. This was a Britain where people at the time might have decried \"Victorian\" architecture, but we in 1981 were just coming to realize how great it was. And this was a Britain where, for good or ill, middle class people kept their houses tasteful, and working-class door-steps were white-stoned each week. In all this movie was a connection to the beautiful aspects of the British past. That past might never have existed in reality, but in 1981 we could just about touch it, above all in Edinburgh, spared by German bombs and still one of the most beautiful cities in the world.",
+         "I had never seen this movie until the fall of 1997 and after watching 40 minutes wondered, \"What's the big deal?\" Well, the second half of the film and then subsequent viewings have done more than just answer my question. It's one of the RARE movies in the past 30 years which portrays a Christian in a positive light. Ian Charleson does a convincing job of portraying a 100 percent sincerely good man who walks the talk. In here is also a good portrayal of a Jewish man, a student at Cambridge, acted well by Ben Cross. This man is too defensive about being Jewish and carries a chip on his shoulder until the end where he comes out a hero and a fine man as well, the bitterness gone. The story of those two men and their quest for a gold medal at the 1924 Olympics in France makes for an inspiring film. It's also aided by very nice photography and a wonderful score by Vangelis. A recently-issued widescreen DVD finally shows off the award-winning cinematography. The feel- good ending doesn't hurt, either, especially since these main characters were real-life people. Her extraordinary beauty made Alice Krige an interesting person to watch in the film, and I wonder why she never made it as a \"big-name\" actress. Perhaps that was her decision. In summary, a very classy film, that still lives up to its reputation.",
+         "I loved the soundtrack to this film and I was glad to watch it on Oscar Sunday. It is worthy of its' Oscars and is based on a true story. The music can be haunting and beautiful at the same time. Vangelis is a musical genius. The cast is stellar with some new faces of actors and actresses like Alice Krige and even Ruby Wax if you look closely. The 1924 Olympics is the climax of the film. It's still a beautiful and wonderfully entertaining and educational film to be seen. I loved the cast including Sir Ian Holm, Sir John Gielgud, and the young aspiring Olympic athletes including Brad Davis, Ian Charleson, and Ben Cross. The story is beautifully told in writing and the direction is brilliant to convey the beauty of the story. This is a feel good classic film from 1981.",
+         "The strength of this movie is the study in character contrast and development, with the added attractions of a historical setting and the soaring, ethereal musical score of Evangelos Papathanassiou. The film is anchored in the character study of the introspective, brooding, and complex persona of Harold Abrahams, wonderfully portrayed by Ben Cross. Here is a man with all of the outward trappings of success: academic achievement, unexcelled athletic ability, wildly popular with his peers, yet tortured by an inbred inferiority complex and driven to lash out at the world in response. In the end, he conquers his inner demons through hard work, sacrifice, understanding of his fellow man, and the love of a good woman, to whom he opens his heart. I found myself thinking that Harold Abrahams is the kind of man I would want as my best friend, yet at the same time would find hard to become close with and relate to. Ian Charleston's character (Eric Liddell) is a bit more one-dimensional. He is the archetypical Good Man, faithful to his family, his country, his friends, and his God. And in the end he triumphs through sheer force of will and by tapping that reservoir of inner strength that sustains him. As the crusty coach Sam Mussambini says, \"He's a gut runner. Digs deep...\". It's a bit of a pity that the movie, long though it is, could not have delved more deeply into the other characters' background. Lord Andrew Lindsey is particularly appealing as Harold's and Eric's faithful friend who gives up his spot in his specialty race (the 400 m) to allow Eric a chance at the gold. Sybil Gordon is wonderful as Harold's love interest who tries to draw him out of his lonely world of bitterness and resentment and self-hatred (\"You ran like a God. I was proud of you...\", even after Harold loses a race for the first time in his life to a more determined Eric). Even some of the American competitors, who are only peripherally portrayed in the concluding segments, lend some color. Jackson Scholtz' reaching out to Eric Liddell gives one the sense that he knows the greatness of spirit that quietly resides in this unassuming Scotsman. Its a wonderful story wonderfully told, and when its over you find yourself longing for it to continue, to see how these characters we've come to know over the previous two hours will turn out in the rest of their lives. Alas, the story of their lives is noted only in subtitles as the film closes."
+      ],
+      "genres": [
+         "Drama",
+         "History",
+         "Sport"
+      ],
+      "productionCompanies": [
+         "Twentieth Century Fox Film Corporation",
+         "Allied Stars Ltd.",
+         "Enigma Productions"
+      ],
+      "summaries": [
+         "The story, told in flashback, of two young British sprinters competing for fame in the 1924 Olympics. Eric, a devout Scottish missionary runs because he knows it must please God. Harold, the son of a newly rich Jew runs to prove his place in Cambridge society. In a warmup 100 meter race, Eric defeats Harold, who hires a pro trainer to prepare him. Eric, whose qualifying heat is scheduled for a Sunday, refuses to run despite pressure from the Olympic committee. A compromise is reached when a nobleman allows Eric to compete in his 400 meter slot. Eric and Harold win their respective races and go on to achieve fame as missionary and businessman/athletic advocate, respectively.",
+         "Two British track athletes, one a determined Jew and the other a devout Christian, compete in the 1924 Olympics."
+      ],
+      "budget": 5500000
+   },
+   "movielensId": 1957,
+   "movielens": {
+      "languages": [
+         "English",
+         "Français"
+      ],
+      "releaseDate": "1981-05-15",
+      "dvdReleaseDate": "2005-02-01",
+      "directors": ["Hugh Hudson"],
+      "runtime": 123,
+      "movieId": 1957,
+      "title": "Chariots of Fire",
+      "mpaa": "PG",
+      "actors": [
+         "Ben Cross",
+         "Ian Charleson",
+         "Cheryl Campbell",
+         "Alice Krige",
+         "Nigel Havers",
+         "Ian Holm",
+         "Nicholas Farrell",
+         "Daniel Gerroll",
+         "John Gielgud",
+         "Lindsay Anderson",
+         "Nigel Davenport",
+         "Dennis Christopher",
+         "Brad Davis",
+         "Patrick Magee",
+         "Peter Egan",
+         "Struan Rodger",
+         "Richard Griffiths",
+         "David Yelland",
+         "Michael Lonsdale",
+         "Patrick Doyle",
+         "John Young",
+         "Yvonne Gilan",
+         "David John",
+         "Benny Young",
+         "Yves Beneyton",
+         "Gerry Slevin",
+         "Stephen Mallatratt",
+         "Colin Bruce",
+         "Alan Polonsky",
+         "Edward Wiley",
+         "Jeremy Sinden",
+         "Andrew Hawkins",
+         "Jack Smethurst",
+         "Peter Cellier",
+         "Philip O'Brien",
+         "Ruby Wax",
+         "Ralph Lawton",
+         "Kim Clifford",
+         "John Rutland",
+         "Peter Jones",
+         "Stephen Fry",
+         "Kenneth Branagh",
+         "Ted Robbins"
+      ],
+      "imdbMovieId": "0082158",
+      "originalTitle": "Chariots of Fire",
+      "genres": [
+         "Drama",
+         "History"
+      ],
+      "youtubeTrailerIds": [
+         "uPe27x0_W2M",
+         "AawHrbzbuMI"
+      ],
+      "plotSummary": "The true story of British athletes preparing for and competing in the 1924 Summer Olympics.",
+      "tmdbMovieId": 9443,
+      "avgRating": 3.69324,
+      "releaseYear": "1981",
+      "numRatings": 8042,
+      "posterPath": "/tDt0QreHAiM44km0Iek0UwLdyIW.jpg"
+   }
+}

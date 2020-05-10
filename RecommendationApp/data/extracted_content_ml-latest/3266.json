@@ -1,0 +1,566 @@
+{
+   "tmdb": {
+      "original_language": "fr",
+      "keywords": [
+         {
+            "name": "movie business",
+            "id": 886
+         },
+         {
+            "name": "mockumentary",
+            "id": 11800
+         },
+         {
+            "name": "brutality",
+            "id": 14707
+         },
+         {
+            "name": "arab",
+            "id": 173259
+         }
+      ],
+      "imdb_id": "tt0103905",
+      "video": false,
+      "title": "Man Bites Dog",
+      "recommendations": [
+         892,
+         10692,
+         994,
+         12143,
+         507,
+         9905,
+         41428,
+         10683,
+         21575,
+         2742,
+         4816,
+         2000,
+         9696,
+         902,
+         11167,
+         1567,
+         14537,
+         13041,
+         763,
+         16130
+      ],
+      "backdrop_path": "/sVmbRqvT6WfNUnHsh1z5sVDdC1c.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 14,
+               "character": "Ben",
+               "gender": 2,
+               "credit_id": "52fe43219251416c75004b41",
+               "name": "Benoît Poelvoorde",
+               "profile_path": "/1rt37BkFjSYF7imtvJ5t30bqsNM.jpg",
+               "id": 47820,
+               "order": 0
+            },
+            {
+               "cast_id": 34,
+               "character": "Rémy (journaliste)",
+               "gender": 2,
+               "credit_id": "58f74c00c3a368415e00a423",
+               "name": "Rémy Belvaux",
+               "profile_path": "/3skpi3kUNnMThADdzSFOIJ49iPp.jpg",
+               "id": 63174,
+               "order": 1
+            },
+            {
+               "cast_id": 35,
+               "character": "André (caméraman)",
+               "gender": 2,
+               "credit_id": "58f74eed9251415df800b46c",
+               "name": "André Bonzel",
+               "profile_path": "/jZkiL0Lmx4jaoVqjJOnSBvHRC8z.jpg",
+               "id": 63175,
+               "order": 2
+            },
+            {
+               "cast_id": 15,
+               "character": "Ben's mother",
+               "gender": 0,
+               "credit_id": "52fe43219251416c75004b45",
+               "name": "Jacqueline Poelvoorde-Pappaert",
+               "profile_path": "/jYKYsG74dmRAieG9CU1WqzdpAGo.jpg",
+               "id": 63242,
+               "order": 3
+            },
+            {
+               "cast_id": 27,
+               "character": "Nurse",
+               "gender": 0,
+               "credit_id": "52fe43229251416c75004b7d",
+               "name": "Édith Le Merdy",
+               "profile_path": "/7LNQ8JT6vtj8BgBIT062orAfiB0.jpg",
+               "id": 358432,
+               "order": 4
+            },
+            {
+               "cast_id": 16,
+               "character": "Jenny",
+               "gender": 0,
+               "credit_id": "52fe43219251416c75004b49",
+               "name": "Jenny Drye",
+               "profile_path": "/b6slsNQQaKUFc3tecKZm6EFAdT6.jpg",
+               "id": 63243,
+               "order": 5
+            },
+            {
+               "cast_id": 17,
+               "character": "Malou",
+               "gender": 0,
+               "credit_id": "52fe43219251416c75004b4d",
+               "name": "Malou Madou",
+               "profile_path": null,
+               "id": 63248,
+               "order": 6
+            },
+            {
+               "cast_id": 18,
+               "character": "Boby",
+               "gender": 0,
+               "credit_id": "52fe43219251416c75004b51",
+               "name": "Willy Vandenbroeck",
+               "profile_path": null,
+               "id": 63262,
+               "order": 7
+            },
+            {
+               "cast_id": 23,
+               "character": "Ben's Grandmother",
+               "gender": 0,
+               "credit_id": "52fe43229251416c75004b6d",
+               "name": "Nelly Pappaert",
+               "profile_path": null,
+               "id": 1117722,
+               "order": 8
+            },
+            {
+               "cast_id": 24,
+               "character": "Ben's Grandfather",
+               "gender": 0,
+               "credit_id": "52fe43229251416c75004b71",
+               "name": "Hector Pappaert",
+               "profile_path": "/3jencpq6EE0QXbcEJjNgygeJZbx.jpg",
+               "id": 1117723,
+               "order": 9
+            },
+            {
+               "cast_id": 25,
+               "character": "Mamie Tromblon",
+               "gender": 0,
+               "credit_id": "52fe43229251416c75004b75",
+               "name": "Rachel Deman",
+               "profile_path": null,
+               "id": 1117724,
+               "order": 10
+            },
+            {
+               "cast_id": 26,
+               "character": "Bed-ridden Old Man",
+               "gender": 0,
+               "credit_id": "52fe43229251416c75004b79",
+               "name": "André Laime",
+               "profile_path": null,
+               "id": 1117725,
+               "order": 11
+            },
+            {
+               "cast_id": 28,
+               "character": "Rape Victim (Martine)",
+               "gender": 0,
+               "credit_id": "52fe43229251416c75004b81",
+               "name": "Sylviane Godé",
+               "profile_path": null,
+               "id": 1117726,
+               "order": 12
+            },
+            {
+               "cast_id": 29,
+               "character": "Rape Victim's Husband",
+               "gender": 0,
+               "credit_id": "52fe43229251416c75004b85",
+               "name": "Zoltan Tobolik",
+               "profile_path": null,
+               "id": 1117727,
+               "order": 13
+            },
+            {
+               "cast_id": 30,
+               "character": "Valerie",
+               "gender": 0,
+               "credit_id": "52fe43229251416c75004b89",
+               "name": "Valérie Parent",
+               "profile_path": null,
+               "id": 1117728,
+               "order": 14
+            },
+            {
+               "cast_id": 31,
+               "character": "Kalifa",
+               "gender": 0,
+               "credit_id": "52fe43229251416c75004b8d",
+               "name": "Alexandra Fandango",
+               "profile_path": null,
+               "id": 1117729,
+               "order": 15
+            },
+            {
+               "cast_id": 32,
+               "character": "Benichou",
+               "gender": 0,
+               "credit_id": "52fe43229251416c75004b91",
+               "name": "Olivier Cotica",
+               "profile_path": null,
+               "id": 1117730,
+               "order": 16
+            },
+            {
+               "cast_id": 33,
+               "character": "un journaliste",
+               "gender": 2,
+               "credit_id": "58f74941c3a368417d00a5dd",
+               "name": "Benoît Mariage",
+               "profile_path": "/tmuKGoepZq9RoAIR8isocwoy1z.jpg",
+               "id": 105752,
+               "order": 17
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe43219251416c75004af5",
+               "name": "Rémy Belvaux",
+               "profile_path": "/3skpi3kUNnMThADdzSFOIJ49iPp.jpg",
+               "id": 63174,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43219251416c75004afb",
+               "name": "André Bonzel",
+               "profile_path": "/jZkiL0Lmx4jaoVqjJOnSBvHRC8z.jpg",
+               "id": 63175,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43219251416c75004b01",
+               "name": "Benoît Poelvoorde",
+               "profile_path": "/1rt37BkFjSYF7imtvJ5t30bqsNM.jpg",
+               "id": 47820,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe43219251416c75004b07",
+               "name": "Vincent Tavier",
+               "profile_path": null,
+               "id": 45774,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43219251416c75004b0d",
+               "name": "Rémy Belvaux",
+               "profile_path": "/3skpi3kUNnMThADdzSFOIJ49iPp.jpg",
+               "id": 63174,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43219251416c75004b13",
+               "name": "Rémy Belvaux",
+               "profile_path": "/3skpi3kUNnMThADdzSFOIJ49iPp.jpg",
+               "id": 63174,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe43219251416c75004b19",
+               "name": "Eric Dardill",
+               "profile_path": null,
+               "id": 63218,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43219251416c75004b1f",
+               "name": "André Bonzel",
+               "profile_path": "/jZkiL0Lmx4jaoVqjJOnSBvHRC8z.jpg",
+               "id": 63175,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe43219251416c75004b25",
+               "name": "Jean-Marc Chenut",
+               "profile_path": null,
+               "id": 63219,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe43219251416c75004b2b",
+               "name": "Laurence Dufrene",
+               "profile_path": null,
+               "id": 63230,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43219251416c75004b31",
+               "name": "Rémy Belvaux",
+               "profile_path": "/3skpi3kUNnMThADdzSFOIJ49iPp.jpg",
+               "id": 63174,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43219251416c75004b37",
+               "name": "André Bonzel",
+               "profile_path": "/jZkiL0Lmx4jaoVqjJOnSBvHRC8z.jpg",
+               "id": 63175,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43219251416c75004b3d",
+               "name": "Benoît Poelvoorde",
+               "profile_path": "/1rt37BkFjSYF7imtvJ5t30bqsNM.jpg",
+               "id": 47820,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43219251416c75004b57",
+               "name": "André Bonzel",
+               "profile_path": "/jZkiL0Lmx4jaoVqjJOnSBvHRC8z.jpg",
+               "id": 63175,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43229251416c75004b5d",
+               "name": "Benoît Poelvoorde",
+               "profile_path": "/1rt37BkFjSYF7imtvJ5t30bqsNM.jpg",
+               "id": 47820,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43229251416c75004b63",
+               "name": "Rémy Belvaux",
+               "profile_path": "/3skpi3kUNnMThADdzSFOIJ49iPp.jpg",
+               "id": 63174,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe43229251416c75004b69",
+               "name": "Philippe Malempré",
+               "profile_path": null,
+               "id": 1021787,
+               "department": "Sound",
+               "job": "Music"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Crime",
+            "id": 80
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Horror",
+            "id": 27
+         }
+      ],
+      "popularity": 6.968922,
+      "production_countries": [
+         {
+            "iso_3166_1": "BE",
+            "name": "Belgium"
+         },
+         {
+            "iso_3166_1": "FR",
+            "name": "France"
+         }
+      ],
+      "id": 10086,
+      "vote_count": 250,
+      "budget": 0,
+      "overview": "The activities of rampaging, indiscriminate serial killer Ben are recorded by a willingly complicit documentary team, who eventually become his accomplices and active participants. Ben provides casual commentary on the nature of his work and arbitrary musings on topics of interest to him, such as music or the conditions of low-income housing, and even goes so far as to introduce the documentary crew to his family. But their reckless indulgences soon get the better of them.",
+      "similar": [
+         44826,
+         254,
+         244,
+         856,
+         522,
+         979,
+         9737,
+         509,
+         371638,
+         399057,
+         74643,
+         7446,
+         1701,
+         319,
+         496,
+         812,
+         1581,
+         38234,
+         8068,
+         170
+      ],
+      "original_title": "C'est arrivé près de chez vous",
+      "runtime": 96,
+      "poster_path": "/noCxjrCok0HtSxrAc0yWx5zSBpe.jpg",
+      "spoken_languages": [
+         {
+            "name": "Français",
+            "iso_639_1": "fr"
+         },
+         {
+            "name": "Italiano",
+            "iso_639_1": "it"
+         }
+      ],
+      "production_companies": [{
+         "logo_path": null,
+         "name": "Les Artistes Anonymes",
+         "id": 11387,
+         "origin_country": ""
+      }],
+      "release_date": "1992-05-01",
+      "vote_average": 7.3,
+      "belongs_to_collection": null,
+      "tagline": "A Killer Comedy",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Belgium",
+      "color": "Black and White",
+      "budgetCurrency": "BEF ",
+      "directors": [
+         "Rémy Belvaux",
+         "André Bonzel"
+      ],
+      "runtime": 95,
+      "synopsis": "Ben is a witty, charismatic serial killer who holds forth at length about whatever comes to mind, be it the \"craft\" of murder, the failings of architecture, his own poetry, or classical music, which he plays with his girlfriend. A film crew, led by Remy, joins him on his sadistic adventures, recording them for a fly on the wall documentary. Ben takes them to meet his family and friends while boasting of murdering many people at random and dumping their bodies in canals and quarries. The viewer witnesses these grisly killings in graphic detail in frequent montages. Ben ventures into an apartment building, explaining how it is more cost-effective to attack old people than young couples because the former have more cash at home and are easier to kill. In a following scene, he screams wildly at an elderly lady, causing her to have a heart attack. As she lies dying, he casually remarks that this method saved him a bullet. Ben continues his candid explanations and appalling rampage, shooting, strangling, and beating to death anyone who comes his way: women (he is profoundly misogynistic), immigrants (he is a racist xenophobe), and postmen (his favorite targets). The camera crew becomes more and more involved in the murders, first as accomplices but eventually taking an active part in them. When Ben invades a home and kills an entire family, they help him hold down a young boy and smother him. They meet a competing camera crew and take turns shooting the three men. During filming, two of Ben's crew are killed; their deaths are later called \"occupational hazards\" by a crew member. When Ben takes a couple hostage in their own home, he holds the man at gunpoint while he and the whole camera crew gang-rape the woman. The following morning, the camera dispassionately records the aftermath: the woman has been butchered with a knife, her entrails spilling out, and the man has been shot to death. Ben's violence becomes more and more random until he kills an acquaintance in front of his girlfriend and friends during a birthday dinner. Spattered with blood, they act as though nothing horrible has happened, continuing to offer Ben presents. The film crew disposes of the body for Ben. After a victim flees before he can be killed, Ben is arrested, but he escapes. At this point someone starts taking revenge on him and his family. Ben discovers that his parents have been killed, along with his girlfriend: a flautist, she has been murdered in a particularly humiliating manner, with her flute inserted into her anus. This prompts Ben to decide that he must leave as he must have killed someone with ties to the local mob. He meets the camera crew at another abandoned warehouse to say farewell, but in the middle of reciting a poem he is abruptly shot dead by an off-camera gunman. Remy and the camera crew are then picked off one by one by more unseen mob gunmen. After the camera falls, it keeps running, and the film ends with the death of the fleeing sound recorder.",
+      "writers": [
+         "Rémy Belvaux",
+         "Rémy Belvaux"
+      ],
+      "originalLanguage": "French",
+      "imdbLink": "http://www.imdb.com/title/tt0103905/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTY3ODg2NzYxOF5BMl5BanBnXkFtZTYwOTA3NzA5._V1_SY317_CR5,0,214,317_AL_.jpg",
+      "actors": ["Stars: Benoît Poelvoorde, Jacqueline Poelvoorde-Pappaert, Nelly Pappaert | See full cast and crew »"],
+      "reviews": [
+         "I get the feeling through reading the other comments here, that many people miss (or perhaps I am wrong about it) the point of this film. First let me point out that Man Bites Dog is a brilliant film, a first rate production. However, it is disturbing and cruel and meanspirited. And it MUST be such. It is not a character sketch about a serial killer, but instead and indictment of the viewer. The main character makes us laugh at his gallows humor, but then continually throws our laughter back in our faces. We identify with him, but then are repulsed by him. Ultimately this film is a commentary on human beings and particularly their media driven obsession with violence. That is what makes this a fantastic movie. This film is not simply about a serial killer, but about a film crew who follows him around in order to get a story (an indictment of journalistic detatchment). The media is not simply a passive observer, but an active participant in the crimes of the psychopath (this should ring bells with us regarding the recent spate of school shootings and Time magazine's decision to have the Columbine kids on the cover). However, this is not a simplistic film that simply points its finger at an easy target like the mass media (as happens in Scream), but is much more complex. The film goes to the next level and indicts the viewer himself as perpetuating this cycle. We are entertained by the glib killer, we identify with him, he is a cool guy or at least a witty one. This sort of reminds of the type of people who went to visit John Wayne Gacy or wrote love letters to Richard Ramirez, but these are not the only people that this film is directed at, it is directed at all of us... all of us who are fascinated by carnage, who keep body counts of mass murderers, who watch every special regarding serial killers on CNBC. This film as indictment of our obsession with these murders, and this indictment is so skillfully played out that this film becomes great. The movie works hard to cause the viewer to identify with the killer and then throws the horrors of what the killer actually does into our faces. The murder of the child in the house in the suburbs, the horrifying rape scene at the end of the film. These things are supposed to throw us back into our humanity, out of the fiction of the romantic psychopath, and they do so brilliantly. I felt really dirty and uncomfortable after watching this film and I believe that this is precisely how I was supposed to feel. I think that the confusion regarding this film arises from these contradictions, that the film sets itself up as a comedy, but becomes something else quite quickly; something complex and somewhat ugly. The film does not allow itself to be easily pigeon-holed. Overall, an excellent film... a double-feature with Henry: Portrait of a Serial Killer would be an interesting experience.",
+         "Man Bites Dog (C'est arrivé près de chez vous). To say this movie is disturbing would be an understatement. A massive, gigantic understatement! But it is also a display of film-genius. The movie is filmed in Black and White and is presented as a \"documentary\" of a serial killer. The film crew follows Benoit, the killer, around town as he recites poetry, muses on welfare and housing reform, ponders philosophy, and ... well, kills. Totally randomly. He explains to the film crew the lessons he has learned about killing, how to stay low key, who to go after, and what potential victims are a waste of time. For Benoit, killing is an art form, but not one that should be undertaken frivolously. There are scenes when his lunacy are briefly pierced by humanity - he counsels one of the film crew not to kill, because once you start it becomes a habit. In another scene he laments having killed a suburban family, because they had nothing good to steal, as it turned out. He proclaims that \"there should be a law against\" killing for no good reason. Those who shy from blood and killing - about the most graphical violence you'll ever see \"documented\" in a film - should shy from this movie. But anyone with an interest in a glimpse at the darkest side of human nature will appreciate this film, not necessarily for its story or its darkness, but for its ability to make us think, and open our eyes to human behaviour we don't like to admit might exist. During the course of the movie you become totally numb to the act of killing (or maming or torture or rape or any violent crime). It is no longer shocking when he kills yet another victim. It has become commonplace. You just sort of scratch your head and wonder - why this one? why now? why him? why her? This mental numbness is made possible by the way it is filmed - as though it were a documentary. Not long into the movie you begin to wonder if this is real, or just a movie. I wonder if this is the kind of numbness that soldiers experienced in wars like WWI, entrenched and under constant fire - to where the violence around become the norm. I read a book once called \"My War Gone By, I Miss it So\" (that's a whole 'nother review) in which a war-writer kept returning to the front because after experiencing violence all around him day after day after day, he could no longer live without it. In Man Bites Dog the killing is Benoit's addiction, but we, as viewers become complacent to it. We have been numbed to where it is no longer disturbing. Makes you scratch your head and wonder: is such detachment from emotion and what's right really possible??? To add to the realism, all the actors play characters with their real names. The killer's mother and grandparents in the movie - are really the actor's mother and grandparents in real life. During most of the filming they were not told it was about serial killing, just that they were in a movie with their son. So they just act normal around the son they love, only to find out in later scenes that the whole film is about killing. Imagine the look of shock on their faces to find this out - to them the story then is no longer acting but real: they've just discovered their son/grandson made a film about brutal killings and the shock shows in their faces. Is it real? Is it a movie? What defines the difference? When I told him about this movie, a friend mentioned that \"society,as a whole, is already numb to brutal killing and violence.\" He's right about that. But this movie is so ridiculously brutal and violent it is more a mockery of our society's complacence to violence, not an endorsement.",
+         "This movie is a piece of art: shocking and disturbing, while at the same time funny as hell in a raw \"should-I-be-laughing-or-should-I-be-ashamed\" kind of way. It gives an insight in the very realistically portrayed life of Ben, a serial killer with an impressionable charisma. Most people who commented on this film either love it or hate it. The division seems mostly geographical though: most Americans can't seem to understand the tongue-in- cheekness of this movie. Probably it has to do with the fake-documentary nature of the movie, which is clearly western-european. Anyone who has ever seen American documentaries knows they have a different pace and way of treating images. Those who are used to belgian/french/ dutch/german documentaries will recognise the style of the so-called \"intimate\" documentaries. The pivotal point is the moment a relationship develops \"beyond\" the documentary relationship of the filmmakers and their subject (they take Ben's money to finish the movie). When watching this movie, try to imagine that this *could* be a real movie: documentaries about terrorists, drugdealers, and even mercenaries (the closest thing to an actual serial killer) have been made, and some of them were very close to their subject. It is *not* a \"black comedy\" in the classical sense of the word; more like a \"Clockwork Orange\" for the nineties. Where \"A Clockwork Orange\" bathed in the design of the seventies, this movie bathes in the \"larger-than-life\" invasiveness of modern-day reality-tv-style television. Anyone who has seen shows like \"cops\" or \"Big Brother\" will know what I'm talking about. It asks the big documentary question: in how far does the observed change the observer? It makes a statement, not about violence, but about the observer of violence. The way it is portrayed shows the art of the (very low-budget) crew: it grips your guts without fancy effects or gory protrayal of gore: it shows fear, despair and psychological emptyness, by showing emotions! This should be recommended viewing (and debating) to anyone making documentary films.",
+         "I'd have to rank this with \"Henry, Portrait Of A Serial Killer\" as one of the sickest and disturbing films I've ever seen. But like \"Henry,\" it's fascinating.....and certainly different. It is a fake (thank goodness!) documentary with sleazy cameramen following around a serial killer as the latter murders a bunch of people while spouting philosophy between killings. Some of the demented killer's words are downright funny because of their absurdity. Perhaps that is why this is labeled by some as a black comedy, but this is so dark it is difficult for me to rate this as a comedy, even though it's there. Most of the killings are not gruesome but there are a few that qualify for that status. They don't dwell on the blood but they don't spare anything in here, either. This film is so strange, so bizarre that one has to see it believe it. That is not just a cliché. You have not seen a film like this: I guarantee it. A couple of Belgians - Benoit Poelvoorde, Remy Belvaux and Andre Bonzel - did almost all the work on this movie: writing, directing, editing and acting. They were new to the business, had little money and wanted to make a film with those limited resources....and they succeeded very well.",
+         "One of the nastiest and most notoriously evil dark comedies ever is actually filmed in Belgium. Belgium that is, not France like some people seem to think. It's (at least what I know of) the only Belgian film I've ever seen, but it's also just happens to be one of the best films I've seen from any country. Benoît Poelvoorde is fantastic as the totally mad and nihilistic serial killer Ben, his mere presence makes this movie stand out. The shootings in black and white makes this movie feel like a real documentary. And the humor is darker than a black steer's tookus on a moonless prairie night. It's fantastically funny, if you can stomach it, that is. Many scenes of grisly violence against kids, bystanders, elders and various others will probably disgust a whole lot of people, but if you can handle it then you've got yourself a film you'll remember for a long time. I really wonder what happened to those who made this. They should have been stars by now. This probably just proves that life simply isn't fair. Genius doesn't come along often. Do yourself a favour and watch this. 10/10",
+         "This movie is one that caught me by surprise when I saw it for the first time. I was expecting nothing as I entered the cinema, but it hit me right in the stomach. At first as absolutely hilarious, I was just LMAO as the film crew followed this complete moron around town as he killed people. Nothing heroic at all about this killer. In fact I haven't seen any single character in any movie that was such an idiot and SOOOO full of himself. You can actually see how this guy enjoys his \"15 minutes of fame\" and is quite pleased with the fact that someone is interested in what HE is doing. So there I was laughing all over the place (we were only two out of the entire audience, but we were rolling in our chairs to say the least). One of my favorite places in the film is where Ben explains how he cunningly has saved a bullet in the slaying of an old more or less helpless female. Like a detective showing his extraordinary skills to the humble bystanders (the film crew and me). The Hercule Poirot of the killing industry. The movie kept me laughing, as the camera crew got more involved with the killer and I was reaching my laughing climax as \"mentor\" Ben made the crew a Drunken Baby drink at the bar only to be on the verge of puking with laughter as Ben 5 minutes later was on the sidewalk \"fucking\" a black plastic bag with a Santa Claus beard on his face. SOOO funny. But then........just as I was enjoying myself the most, I was stopped dead in my tracks and asked what I was laughing at as that horrific rape scene had played out and we found ourselves (the crew, Ben and myself) lying on the kitchen floor with the two gutted people just sitting there on the kitchen table like dolls with their guts all over the place. Very unpleasing not to say unsettling and disturbing. I had become so engrossed in the fun and laughter that I had allowed myself to uncritically tag along without thinking about what was really taking place: Murder, Dehumanisation (is that a word) and arrogance. I had become like Ben for just a moment. I had crossed from viewing the horrific deeds to if not being an active part of it then at least condoning what was going on, I had lost just an inch of my humanity which could never be retrieved. As far as I'm concerned the movie could have ended right there, but it kept on going with me laughing along the way, but my laughter was kind of hollow from that point on, I had seen myself from the outside and could not go back. That is IMO what makes this film so powerful, it poses the question of when are you a simple bystander and when are you actually part of the problem. YOU, yes that's YOU, have to takes sides. What is acceptable? What is not? It's all about values and taking a stand when you need to. In this sense, this seemingly inhumane movie is in fact the opposite. A movie that beckons the viewer to make his voice heard in everyday life. You are never just a bystander! Take a stand!!! NOW!",
+         "\"Man Bites Dog\" is a dark comedy truly unlike anything else you've seen. Its also one of the most brilliant satirical commentaries on the celebrity the media makes of murder and the exploitation often involved. It manages to make these points with much more subtly than \"Natural Born Killers\". Also, it isn't overloaded with the flashy overindulgence of that film and has a fascinatingly stark and minimalist style. This is one of those films were the low-budget only enhances the proceedings, making it uncomfortably realistic. \"Man Bites Dog\" is sick and disturbing, but thats the intentions of the filmmakers. If you are unable to understand this, than just go back to your safe, watered down Hollywood serial killer films such as \"The Silence of the Lambs\" (which treat murder in the way \"Man Bites Dog\" attacks). The film works so well because of its seamless blend of dark comedy and shocking violence. The main character, Ben, is quite charismatic if also egotistical and pretentious. Hes witty and its easy to see why the supporting characters are so taken with him. How hilarious his actions can be only make the acts of violence all the more shocking. Hes just an ordinary guy who kills people for no purpose other than to avoid boredom. The fact I've met quite a few people with his personality makes it all the more chilling. Also, the film is quite funny at times, albeit in a very morbid fashion. The only flaw with the film is that towards the end it slightly runs out of steam (it could've been cut of about ten minutes without losing its impact). Still, its a classic whose originality and audacity require more than just one viewing. In my mind, it ranks with \"Henry: Portrait of a Serial Killer\" and the original \"M\" as the most fascinating exploration of a serial killer's mind. (9/10)",
+         "That's the one I was looking for... Beautifully shot in black and white, this piece of art about a killer followed by a film crew is technically incredible.Camera movements or sound effects are among the most innovative I have ever seen. Besides, the dialogues are so funny... We watch a lot of people being shot and this might shock a lot of people, but if the viewers bear in mind the real purpose of this \"massacre\" (to denounce the violence rather than glorify it), this movie is really funny. I surprised myself talking with a Belgium accent and learning by heart the dialogues in order to make people laugh. It lasted 3 years... This is definitely a masterpiece that I would not recommend to everybody, especially because of its visual violence, but filmgoers who would like to see something different should definitely check this one.",
+         "Cinema! The documentary of a sadistic killer trying out new methods, sharing his secrets with the camera crew and then going to celebrate by the seaside with a plate mussels. Our killer's absolute disregard for human life, other than a thick crew of visually stunning characters, is nothing short of a masterpiece. Just be warned that it is the most violent movies of all time and you will be fine. You won't believe our killers reaction when you find out that someone had the gall to attempt a similar project. \"First you need a tear, just a tear of gin......and then a river of tonic\". The mock camera crew show a great deal of patience putting up with this guy, but they probably hadn't figured on what they were getting themselves into.",
+         "This film is great, you should make a point of viewing the unedited NC-17 version of this film if you can. The whole movie loses its power and punch with the two controversial scenes removed. With them, this film plays in 3 parts. Part one has the film crew basically following along and observing as the killer makes his usual rounds. Lots of violence and lots of black humor. Part two is where the crew starts joining in and helping out the killer in certain situations. The humor hits its peak when they come across a rival crew videotaping a rival killer. Part three occurs at the rape scene. This is where the humor takes an absolute and complete abrupt halt. And you realize, as the viewer, the utter horror of whats taking place. This is the part of the film where you feel like you need to take a shower for laughing at the first 2/3rds of the movie. As a whole, this film is a classic. Its commentary on violence is about as strong as you can get."
+      ],
+      "genres": [
+         "Comedy",
+         "Crime",
+         "Drama"
+      ],
+      "productionCompanies": ["Les Artistes Anonymes"],
+      "summaries": [
+         "A camera crew follows a serial killer/thief around as he exercises his craft. He expounds on art, music, nature, society, and life as he offs mailmen, pensioners, and random people. Slowly he begins involving the camera crew in his activities, and they begin wondering if what they're doing is such a good idea, particularly when the killer kills a rival and the rival's brother sends a threatening letter.",
+         "A film crew follows a ruthless thief and heartless killer as he goes about his daily routine. But complications set in when the film crew lose their objectivity and begin lending a hand."
+      ],
+      "budget": 1000000
+   },
+   "movielensId": 3266,
+   "movielens": {
+      "languages": [
+         "Français",
+         "Italiano"
+      ],
+      "releaseDate": "1992-05-01",
+      "dvdReleaseDate": "2002-09-24",
+      "directors": [
+         "Rémy Belvaux",
+         "André Bonzel",
+         "Benoît Poelvoorde"
+      ],
+      "runtime": 96,
+      "movieId": 3266,
+      "title": "Man Bites Dog",
+      "mpaa": "NC-17",
+      "actors": [
+         "Benoît Poelvoorde",
+         "Rémy Belvaux",
+         "André Bonzel",
+         "Jacqueline Poelvoorde-Pappaert",
+         "Édith Le Merdy",
+         "Jenny Drye",
+         "Malou Madou",
+         "Willy Vandenbroeck",
+         "Nelly Pappaert",
+         "Hector Pappaert",
+         "Rachel Deman",
+         "André Laime",
+         "Sylviane Godé",
+         "Zoltan Tobolik",
+         "Valérie Parent",
+         "Alexandra Fandango",
+         "Olivier Cotica",
+         "Benoît Mariage"
+      ],
+      "imdbMovieId": "0103905",
+      "originalTitle": "C'est arrivé près de chez vous",
+      "genres": [
+         "Comedy",
+         "Crime",
+         "Drama",
+         "Horror"
+      ],
+      "youtubeTrailerIds": ["bcPhaieTg4o"],
+      "plotSummary": "The activities of rampaging, indiscriminate serial killer Ben are recorded by a willingly complicit documentary team, who eventually become his accomplices and active participants. Ben provides casual commentary on the nature of his work and arbitrary musings on topics of interest to him, such as music or the conditions of low-income housing, and even goes so far as to introduce the documentary crew to his family. But their reckless indulgences soon get the better of them.",
+      "tmdbMovieId": 10086,
+      "avgRating": 3.73986,
+      "releaseYear": "1992",
+      "numRatings": 1701,
+      "posterPath": "/noCxjrCok0HtSxrAc0yWx5zSBpe.jpg"
+   }
+}

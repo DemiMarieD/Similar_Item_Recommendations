@@ -1,0 +1,612 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "in love with enemy",
+            "id": 930
+         },
+         {
+            "name": "hold-up robbery",
+            "id": 3607
+         },
+         {
+            "name": "boredom",
+            "id": 3925
+         },
+         {
+            "name": "insurance salesman",
+            "id": 3973
+         },
+         {
+            "name": "business man",
+            "id": 4480
+         },
+         {
+            "name": "insurance fraud",
+            "id": 4617
+         },
+         {
+            "name": "plan",
+            "id": 4812
+         },
+         {
+            "name": "heist",
+            "id": 10051
+         },
+         {
+            "name": "theft",
+            "id": 14604
+         },
+         {
+            "name": "millionaire",
+            "id": 33626
+         }
+      ],
+      "imdb_id": "tt0063688",
+      "video": false,
+      "title": "The Thomas Crown Affair",
+      "recommendations": [
+         886,
+         916,
+         5923,
+         5920,
+         5916,
+         42700,
+         32041,
+         15598,
+         5917,
+         19429,
+         5922,
+         4820,
+         25495,
+         5052,
+         3482,
+         34388,
+         983,
+         13580,
+         29882,
+         11085
+      ],
+      "backdrop_path": "/65ZUaNP2Az4FjZuhKjAmUUZPrKM.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 18,
+               "character": "Thomas Crown",
+               "gender": 2,
+               "credit_id": "52fe428cc3a36847f80272fb",
+               "name": "Steve McQueen",
+               "profile_path": "/ddL8NHnuVCPOLSiNGjrmIQK9kdO.jpg",
+               "id": 13565,
+               "order": 0
+            },
+            {
+               "cast_id": 19,
+               "character": "Vicki Anderson",
+               "gender": 1,
+               "credit_id": "52fe428cc3a36847f80272ff",
+               "name": "Faye Dunaway",
+               "profile_path": "/sq12RJZ1HTXHHI48y31YIS2qp87.jpg",
+               "id": 6450,
+               "order": 1
+            },
+            {
+               "cast_id": 20,
+               "character": "Det. Lt. Eddy Malone",
+               "gender": 2,
+               "credit_id": "52fe428cc3a36847f8027303",
+               "name": "Paul Burke",
+               "profile_path": "/2ceKIu2MElT4n7loOdjVly3Llob.jpg",
+               "id": 13946,
+               "order": 2
+            },
+            {
+               "cast_id": 21,
+               "character": "Erwin Weaver",
+               "gender": 2,
+               "credit_id": "52fe428cc3a36847f8027307",
+               "name": "Jack Weston",
+               "profile_path": "/9vUJ02A8LfYKA0tMToyVVRlAF9v.jpg",
+               "id": 726,
+               "order": 3
+            },
+            {
+               "cast_id": 22,
+               "character": "Sandy",
+               "gender": 0,
+               "credit_id": "52fe428cc3a36847f802730b",
+               "name": "Biff McGuire",
+               "profile_path": "/aYFbpfyOsLRHGl5dbVfPTCYQRWm.jpg",
+               "id": 13947,
+               "order": 4
+            },
+            {
+               "cast_id": 23,
+               "character": "Abe",
+               "gender": 0,
+               "credit_id": "52fe428cc3a36847f802730f",
+               "name": "Addison Powell",
+               "profile_path": null,
+               "id": 13948,
+               "order": 5
+            },
+            {
+               "cast_id": 24,
+               "character": "Gwen",
+               "gender": 0,
+               "credit_id": "52fe428cc3a36847f8027313",
+               "name": "Astrid Heeren",
+               "profile_path": "/xN5JIoIT5eYYnzJdxzOdHFfBlgZ.jpg",
+               "id": 13949,
+               "order": 6
+            },
+            {
+               "cast_id": 25,
+               "character": "Jamie McDonald",
+               "gender": 2,
+               "credit_id": "52fe428cc3a36847f8027317",
+               "name": "Gordon Pinsent",
+               "profile_path": "/iSrrwNhbFo4CLG24eSGKABBwIaU.jpg",
+               "id": 13950,
+               "order": 7
+            },
+            {
+               "cast_id": 26,
+               "character": "Carl",
+               "gender": 0,
+               "credit_id": "52fe428cc3a36847f802731b",
+               "name": "Yaphet Kotto",
+               "profile_path": "/qsaWzjzI41EXMldEn6sSp5fnsQ0.jpg",
+               "id": 5050,
+               "order": 8
+            },
+            {
+               "cast_id": 27,
+               "character": "Arnie",
+               "gender": 0,
+               "credit_id": "52fe428cc3a36847f802731f",
+               "name": "Sidney Armus",
+               "profile_path": "/niRxyUG3GFx18KIrDv8HdExyuBz.jpg",
+               "id": 13951,
+               "order": 9
+            },
+            {
+               "cast_id": 29,
+               "character": "Booth Guard",
+               "gender": 2,
+               "credit_id": "57d291149251415e02002247",
+               "name": "Richard Bull",
+               "profile_path": "/5TYupEMDpS4UL1lLaYO5ynNB1vF.jpg",
+               "id": 31210,
+               "order": 10
+            },
+            {
+               "cast_id": 30,
+               "character": "Honey",
+               "gender": 1,
+               "credit_id": "57d2913792514175a1004e7a",
+               "name": "Peg Shirley",
+               "profile_path": "/wALAxV9g6lhKYMHviLbXMibA8Qn.jpg",
+               "id": 102200,
+               "order": 11
+            },
+            {
+               "cast_id": 31,
+               "character": "Danny",
+               "gender": 2,
+               "credit_id": "57d2916992514175a1004e92",
+               "name": "Patrick Horgan",
+               "profile_path": null,
+               "id": 28027,
+               "order": 12
+            },
+            {
+               "cast_id": 32,
+               "character": "Miss Sullivan",
+               "gender": 0,
+               "credit_id": "57d291a99251415cb900223a",
+               "name": "Carol Corbett",
+               "profile_path": null,
+               "id": 1234424,
+               "order": 13
+            },
+            {
+               "cast_id": 33,
+               "character": "Pvt. Detective",
+               "gender": 2,
+               "credit_id": "57d291d59251415d950022b5",
+               "name": "Tom Rosqui",
+               "profile_path": "/k4d9UaXnQsAswgRn6TryC2iMWkO.jpg",
+               "id": 1213795,
+               "order": 14
+            },
+            {
+               "cast_id": 34,
+               "character": "Swiss Banker",
+               "gender": 0,
+               "credit_id": "57d291fdc3a3685c3b00261e",
+               "name": "Michael Shillo",
+               "profile_path": "/aUOA7EgpwPuae4sKvcCcFEkw8JK.jpg",
+               "id": 195072,
+               "order": 15
+            },
+            {
+               "cast_id": 35,
+               "character": "Marcie",
+               "gender": 0,
+               "credit_id": "57d292649251415d950022ff",
+               "name": "Nora Marlowe",
+               "profile_path": "/hg5ZsWKujEJoS9igbuDKvztWALL.jpg",
+               "id": 1214642,
+               "order": 16
+            },
+            {
+               "cast_id": 28,
+               "character": "Dave",
+               "gender": 2,
+               "credit_id": "52fe428cc3a36847f8027323",
+               "name": "Sam Melville",
+               "profile_path": "/s3eNyyfAFSZdT0W7W4J7vcEDCzW.jpg",
+               "id": 13952,
+               "order": 17
+            },
+            {
+               "cast_id": 36,
+               "character": "Marvin",
+               "gender": 2,
+               "credit_id": "57d292a8c3a3685c3b00268a",
+               "name": "Ted Gehring",
+               "profile_path": null,
+               "id": 151521,
+               "order": 18
+            },
+            {
+               "cast_id": 37,
+               "character": "Elevator Operator",
+               "gender": 0,
+               "credit_id": "57d292dac3a3685bbb00231b",
+               "name": "Paul Verdier",
+               "profile_path": null,
+               "id": 1676778,
+               "order": 19
+            },
+            {
+               "cast_id": 38,
+               "character": "Pretty Girl",
+               "gender": 1,
+               "credit_id": "57d29309c3a3685c3b0026c6",
+               "name": "Judy Pace",
+               "profile_path": "/saMRGVbyT9AApR8TlaYAAPWDwrB.jpg",
+               "id": 101948,
+               "order": 20
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe428cc3a36847f802729d",
+               "name": "Norman Jewison",
+               "profile_path": "/umNoz1FsJtvoWKlCsgNOqWlfrgh.jpg",
+               "id": 13563,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe428cc3a36847f80272a3",
+               "name": "Alan Trustman",
+               "profile_path": null,
+               "id": 13940,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe428cc3a36847f80272a9",
+               "name": "Norman Jewison",
+               "profile_path": "/umNoz1FsJtvoWKlCsgNOqWlfrgh.jpg",
+               "id": 13563,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe428cc3a36847f80272af",
+               "name": "Hal Ashby",
+               "profile_path": "/5VRhD4ZMsTyoAsMmxkNuTg41Sta.jpg",
+               "id": 4964,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe428cc3a36847f80272b5",
+               "name": "Michel Legrand",
+               "profile_path": "/ewYlyU0UvONnt7jjHhaSXCKVHVa.jpg",
+               "id": 10934,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe428cc3a36847f80272bb",
+               "name": "Haskell Wexler",
+               "profile_path": "/k3JSEg2tildKuFl6F6T1gLQSwgf.jpg",
+               "id": 7067,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe428cc3a36847f80272c1",
+               "name": "Hal Ashby",
+               "profile_path": "/5VRhD4ZMsTyoAsMmxkNuTg41Sta.jpg",
+               "id": 4964,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe428cc3a36847f80272c7",
+               "name": "Byron 'Buzz' Brandt",
+               "profile_path": null,
+               "id": 13941,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe428cc3a36847f80272cd",
+               "name": "Ralph E. Winters",
+               "profile_path": null,
+               "id": 10007,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe428cc3a36847f80272d3",
+               "name": "Lynn Stalmaster",
+               "profile_path": "/rhyzo2qgsGAXIpGTN5OabbZU95U.jpg",
+               "id": 1263,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe428cc3a36847f80272d9",
+               "name": "Robert F. Boyle",
+               "profile_path": null,
+               "id": 2657,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe428cc3a36847f80272df",
+               "name": "Edward G. Boyle",
+               "profile_path": null,
+               "id": 4104,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe428cc3a36847f80272e5",
+               "name": "Theadora Van Runkle",
+               "profile_path": null,
+               "id": 6455,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe428cc3a36847f80272eb",
+               "name": "Del Armstrong",
+               "profile_path": null,
+               "id": 13942,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe428cc3a36847f80272f1",
+               "name": "Walter Goss",
+               "profile_path": null,
+               "id": 13944,
+               "department": "Sound",
+               "job": "Sound Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe428cc3a36847f80272f7",
+               "name": "Tom Downing",
+               "profile_path": null,
+               "id": 13945,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59194e9dc3a36842d6055d72",
+               "name": "Walter Mirisch",
+               "profile_path": "/vo1wXRoFhrD9qtarvvchZkcOKyX.jpg",
+               "id": 14523,
+               "department": "Production",
+               "job": "Executive Producer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Romance",
+            "id": 10749
+         },
+         {
+            "name": "Crime",
+            "id": 80
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         }
+      ],
+      "popularity": 8.065623,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 912,
+      "vote_count": 124,
+      "budget": 4300000,
+      "overview": "Young businessman, Thomas Crown is bored and decides to plan a robbery and assigns a professional agent with the right information to the job. However, Crown is soon betrayed yet cannot blow his cover because he\u2019s in love.",
+      "similar": [
+         996,
+         859,
+         4520,
+         3001,
+         10363,
+         31640,
+         165904,
+         9968,
+         9721,
+         128241,
+         26983,
+         314226,
+         187969,
+         5637
+      ],
+      "original_title": "The Thomas Crown Affair",
+      "runtime": 102,
+      "poster_path": "/phi530VhYIUjWaoB5zW0ghrPAzE.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "The Mirisch Corporation",
+            "id": 219,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Solar Productions",
+            "id": 599,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Simkoe",
+            "id": 16749,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1968-06-19",
+      "vote_average": 6.9,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Norman Jewison"],
+      "runtime": 102,
+      "synopsis": "A private-eye looking man arrives to a deserted hotel corridor. He softly knocks on the door of a room, but waits with the jitterbug in his stomach when one of the cleaning ladies appears, and he won't do anything else until she has gone away to her duties. When he finally enters the room, a strong light hits his face, so he can't look who he's talking to. The man tells him to give a piece of information some time down the line in exchange of 50,000 dollars due in small installments. The man throws him a pocket full of money in order to buy a new car, which he can't use until he's told so. It's a specific kind of car, with wood and red-coloured. Thomas Crown (Steve McQueen) is a banker who deals with bonus portfolios. He's successful. However, under the name of Charlie, he phones to the public phone booths at a train station, checking that all his men (Richard Bull and Yaphet Kotto) are on their places. Suddenly, he decides it's time to move on. A black man kidnaps a lift full of people, including the bellboy (Charles Lampkin and Paul Verdier). An executive family including the talkative executive woman (Patty Regan) is waiting for the lift. A man who says that his name is Michael Holland points his gun to the booth guard (James Rawley). More people appear are they are told to step into the lift and stay there. One of the criminals shoots one of the people, a man who has started to get nervous because of the situation. Another accomplicce is told to dress as a policeman and create a traffic jam outside the bank. The objective consists on several money bags which are being transported from the hotel via the lift to somewhere else at a fixed time. The detective-looking man takes the car to a cemetery, where he has to leave a message - in a particular rubbish bin. He's sweating like a pig, and taking the sweat off with a huge white handkerchief. Right after the detective-looking man leaves, Thomas Crown appears in another car, a black Rolls Royce. He puts on some gloves, takes a funeral garland from the car and puts it at some random tomb. He gets next to the rubbish bin and takes the sacks - supposedly full of money - from it. He gets frantic when the bells start to ring, but then leaves off. Back home, his butler, John (John Orchard), asks him whether he's had a good day, and Thomas says it's been a really good day. He gives John a day off. Back at the police station, Eddy Malone (Paul Burke) is questioning the people at the bank. They are all talking at the same time. The bank didn't write the numbers of the notes because they were notes of small quantity. The police artist (Nikita Knatz) produces a sketch of one of the men, but it could be almost any male in the universe. The wounded man is OK, there are not fingertips at all, and the red duster the criminals used used to belong to the Army. Thomas phones a woman called Gwen (Astrid Heeren) to invite her to dine out at a restaurant. The detective-looking man has his car registered with a random search by a Boston police officer (Ed T. McDonnell) but he's not really a suspect. He pretends to be a door-to-door salesman who is going to sell his products in Portland and is going to stay at the Portland Motel. Meanwhile, Thomas Crown flies to Geneva, with nothing to declare at customs. Once there, Thomas opens up a bank account full of money. In a Swiss bank, the banker (Michael Shillo) opens up the account even though he realizes that there's something fishy with that account. Thomas Crown wants his money operations to be dated always on a 19th day. Jamie (Gordon Pinsent) is frustrated because the bank he works for has absolutely been jeopardized by such a loss, as his insurance company had to give 2,000,000 dollars to the bank to compensate them for such a loss. Jamie decides to call on Vicki Anderson (Faye Dunaway). Eddy and Jamie pick her up at the airport. Vicki is an independent insurance investigator, which makes her living collecting a huge fee after returning the money back to its legitimate owners. She's supposed to be ruthless and excellent at her job. Meanwhile, Thomas Crown is playing golf - a game at which he excels. People there respect him and call him Tommy. He likes important bets. Eddy checks the backgrounds of the customers and workers in the back and the hotel, but nothing is found. Vicki says that it's important to understand the personality of the crime, which reflects the personality of the criminal. She also says that she'll earn 10% of the money she recovers. The total amount stolen was 2,600,000. Thomas Crown is chilling out and flying his own airplane. His girlfriend worries about his careless manouvers. Vicki realises that the accomplices didn't know each other before, so that they didn't know their boss as well. She wants to place an ad asking for somebody to come forward and claim the money. Checking all high-earning bank workers, Vicki pays attention to Thomas Crown, who only worked for six months - years ago- at the bank. His luxiurious appearance calls her attention. She records him playing polo, and she feels that he's her man. Tommy and his friend Sandy (Biff McGuire) go to an auction. Thomas buys some lithographs which Vicki wanted, and then he gives them to Vicki. She tells him that she is investigating the bank robbery. In spite of that, he invites her to have dinner with him. Eddy doesn't understand why a man who has earned 4 million dollars is so eager to steal two more millions. Vicki thinks that the reason is emotion, a purpose. The wife of a Long Island salesman denounces her husband because of the 25,000 reward. Erwin Weaver (Jack Weston), the detective-looking man, uses 5,000 dollars paid by Thomas Crown to pay off the ransom of his son Jimmy Weaver (Leonard Caron). It was just a trick by Vicki and a disapproving Eddy, to make sure that Erwin has some unexplained extra money. Erwin talks, but he doesn't know much. Anyway, Vicki is not interested in him, but in Crown, as she will only collect her fee if she returns the money. Crown wonders at the announcement that the carpet at his exquisite mansion is being renovated. At that very moment, he was saying to Sandy that he's bored, so he may take off for a sabbatical year travelling around the world. He picks Vicki up, and Erwin is there. Eddy and Vicki ask Erwin if he recognises Crown. Vicki admits that Thomas Crown has won this fight. Vicki goes with him to his \"deserted old\" home. She makes a mental note of everything. While having some brandy, she wonders that it'd be a pity that he have to abandon it all. Vicki moves around as a lioness around her prey, and she stares at a chess game. When he asks her whether she can play, she dares him to play. So they play a game of chess. It's difficult for me to describe the faces of these two characters, their looks at each other, and the sexual tension which hovers over this game of chess. She is about to win, so he pulls her close and they kiss each other, suggesting that they play at \"something else\". They french kiss and it's implied that they make love. Vicki tells Eddy that she's caught Thomas. She is exultant thinking that he's about to fall on her trap. She goes on dating him. Eddy is outraged that she's using herself as a bait. Vicki wants to keep on investigating like that. She gives him a birthday present, a sign which says \"Think dirty\". Thomas Crown points to Vicki the men she's paying to follow him. She says that, lately, following him means also following her, and that she doesn't like it. Thomas gets rid of one of his followers, making him look like a drunk driver. That man was Danny (Patrick Horgan), from the Criminal Department. Vicki and Thomas keep on watching each other. She's getting nervous, because it's difficult to catch him. It looks like they are falling in love with each other. They even visit the tomb of the relative of Thomas. In the sauna, she tries to convince him that neither the insurance company nor the government will let him spend his money; he will have to run away for life. She convinces him to reach a deal with the government, but Eddy refuses, point blank. He says that he's got everything that he needs. Another day, in bed, he says that he can rob another bank, and tells her to stay clear, as a witness, while he tries to beat the system at its own game. Eddy complains that public funds are being used by Vicki to join the high life. That night, at a beach barbecue, he tells her that he's going to rob another night. He just wants her to wait for him at the meeting point. He tells her that he needs to know what side she's in. Vicki cries because he's testing her and she realises that. Cut to another bank which is also moving a lot of money from its headquarters. The method used is similar to the first robbery, although this time the powder used to create confusion is yellow. Vicki has told Eddy the meeting point. Somebody has left something at the rubbish bin in the cemetery. Vicki is nervous through their wait for Thomas Crown to appear. Eddy is getting impatient but Vicki reassures him. The same bell rings. A funeral car appears, at exactly the same time that Thomas' Rolls also drives on. The police jump at the Rolls. A telegram boy gives a note to Vicki. He says that he's taking the money with him and that she can keep the car. Vicki almost cries when she tears up the telegram. At that moment, Thomas is flying away, leaving the United States forever. CREDITS roll back.",
+      "writers": ["Alan Trustman"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0063688/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BOTA5NzQ4NjE4NF5BMl5BanBnXkFtZTcwMjIzMzY3NA@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Steve McQueen, Faye Dunaway, Paul Burke | See full cast and crew »"],
+      "reviews": [
+         "This movie is for fans of the 60s era not just 60's movies. It is a vehicle for displaying McQueen's cool and Dunaway's style. Made and set in an age when only the hippest were members of the jet set. Besides the two stars, look for solid performances from a very young Yaphet Kotto and the always disgusting Jack Weston. The film itself is well crafted, beautifully photographed and brilliantly directed, it also has a great score. Jewison makes use of the split screen effect, several places in the film. While not only visually interesting, it also captures something of the essence of the era. Few people today will realise the significance of the split screen effect, as they don't remember Montreal's Expo/67. While essentially a cool heist flic, and one of the first, this film is much more. It is a subtle study of human behaviour and the basic characteristics of man and woman. McQueen is the bored rich playboy and Dunaway is the cool, yet seductive private eye, who is not above using her feminine charms to solve a case. From time to time, the film hints at Crown's inner crisis, he is constantly in need of distraction, to prevent himself from dwelling on the fact that his life is essentially empty and meaningless. Throughout the film, McQueen and Dunaway play a cat and mouse game, both on the professional level and also on the sexual level. The sexual tension during the chess game for example is so palpable, you can't help but be drawn in, dwelling on every stroke of Dunaway's fingers and every twitch on McQueen's face. Unlike the modern remake, which is vapid by comparison, this film forces the viewer to pay attention, or risk missing the whole point. The pace of the original is much slower than the remake, and so might not appeal to those raised on video games. The ending of this film gives us some real insight into the true nature of the relationships between men and women. Overall, this film is a modern masterpiece.",
+         "The large number of reviews tossing this in the trash bin as an overwrought 1960s period piece, or inferior when compared to the Pierce Brosnan/Rene Russo remake caused me to find the DVD and take another look. The problem with the 1967 film is that, unlike most films made today (including the remake), viewers need to think and connect the dots; and, there isn't always a \"right\" ending with all details neat and tidy. This is still a classic of the caper films, with McQueen giving the definitive performance of his absolute-cool image, and Dunaway as the Joan Crawford of the Virginia Slims generation. The then-innovative parts of the film, including the multiple split screens and the repetition of the theme song with Noel Harrison look dated (and the split-screen is only effective on the big, big screens of the 1960s-era theaters), but the chess game is still the most-seductive bit of film where all the clothes stay on and nobody talks. Listening to director Norman Jewison's commentary on the DVD is enlightening. The split screens were indeed a timely gimmick (Jewison and the producer saw the technique at Expo '67 in Montreal), and his explanation of the last scene in the cemetery gives a good insight as to how he aimed the film in general.",
+         "I had to write this comment after reading the other comment about this fantastic film. You must watch this with the anticipation of someone about to relish an intricate and complex dish, with the feel of The Italian Job in mind, with the knowledge that Steve McQueen is the epitome of cool (see the Tao of Steve), and with the desire to see Movie Making as it should be. This is at base a heist movie, but with Steve at the helm as a wealthy businessman who is in it for kicks, you ride along with him and enjoy his every conquest of Faye Dunaway. The \"Chess with Sex\" scene is very sensual and has been mimicked in many movies (Austin Powers). The soundtrack is fantastic and I think \"Windmills of Your Mind\" won an Oscar for Best Soundtrack. The multi-split-screen views are, in my opinion, very clever as they tell different parts of the story whilst building the suspense, as well as looking very stylish. The ending is not confusing, it is intriguing, bittersweet, tantalising, and surprising. Watch and enjoy, those in the know.",
+         "This is a film about games: the defining image, a game of chess; and then, as well, the intellectual game that robbery provides for Crown (McQueen), and the two games, professional and sexual, in which Vicki and Crown stalk each other. For these players, games are very serious and the outcome of each uncertain. The film is of its time, but works in ours, as well and better than the recent remake. Those looking for a fast action \"heist\" movie will be disappointed: this film is about alienation and attraction, trust and betrayal, about working out what matters - all those eternal themes. It will appeal to those content to focus on personal chemistry unpunctuated by regular gunfire. None the less, the planning and execution of the bank robbery is cleverly done and provides sufficient impetus to drive the rest of the straightforward plot. Crown's motivations, tedium and greed, are readily understandable; Vicki's are similar. As people they are similar and evenly matched. Vicki is stylish and beautiful and, using her sexuality as well as her intellect, she is Crown's equal or better - which is not true of the remake. In the end, it is she who defines the outcome, but what it will be and why Vicki makes the choice she does are left unresolved. So, too, we remain uncertain whether the possibility truly exists, that their alienation might be healed. The focus is clearly on the couple. Eddy Malone's role as the police detective does not extend beyond that of a Greek chorus, providing the conventional and moral reference against which the actions of the principals are to be judged. Jack Weston's Erwin, a very worried getaway driver, simply contrasts the player of the game, Crown, with the instruments with which he plays it. The performances of the entire cast are exemplary. McQueen's clipped manner builds the tension and intensifies the effect of his weakening to Vicki's seductive moves during the chess game. The role of Vicki is perfect for Dunaway, making no great demands on her to project herself, no extended dialogue, which she does not generally manage well; but the disposition of her body, her power of gesture, and her brief, pithy statements all work brilliantly. Jack Weston produces an excellent cameo performance that pretty well had me perspiring as much as he was. Malone plays a straight role straight, the way it should be. The split screen title sequence and passages in the film work well; they do not distract, as this technique can, but are used to capture and compress moments of action that are significant but do not require extended treatment. The Legrand soundtrack is brilliantly effective, including the long passages of real tension, without music. This really is a great classic, a film that will endure, and those who have difficulty with it should see it again and allow themselves the time to be seduced by its low key perfection.",
+         "The original \"Thomas Crown Affair\" directed by Norman Jewison is one of the coolest movies ever made and great fun for all of its 100 minutes - a clever bank-heist caper combined with the sensual romance where both participants (the brilliant bank robber and his match, the sultry and shrewd insurance investigator) are sophisticated, quick-witted and oh so cool. The split-screen technique really works well in this movie and I should mention the song \"The Windmills of Your Mind\" by Michel Legrand that very deservingly received an Oscar - and it does not happen often in the best song categories. The chess game between \"King Of Cool\" Steve McQueen and 27 year old Faye Dunaway in the most provocative dress possible is one of the sexiest and most exiting without actual sex involved (my favorite kind of scenes - let my imagination work, let everything happen in my mind) scenes ever filmed. IMO, the 60s was one of the best dressed decades ever with the first wave of mini (and I mean it) skirts and elegant suits and dresses. From Faye Dunaway's interview to \"USA Today\" about working with McQueen, \"We had the most magical spark. Our hearts and souls combined. There was no romance off screen but on screen it was like a smack.\"",
+         "I cannot think of anything that I did not like about the TCA. I read some of the other reviews, and I can understand why they might come to their conclusions to the contrary. First, McQueen does look a little out of character being a financier, but as in most of his other roles, he is in control of the situation. He plays the loner outside of the situation and/or system. Even the women that came into his arms are issued temporary visa only as shown by Faye Dunaway left holding the bag at the end of the movie. He played her like a violin. Someone mentioned that they hated the multiple shots used in several scenes, and that it was overused and probably pointless. I completely disagree. I think that it adds dimension and excitement when it used. During the robbery, the viewer can witness several aspects of the caper as it unfolds. The polo shots were fantastic and exciting. To me McQueen was a bit of a mystery. What did he really want? \"Kicks\" as suggested by Paul Burke the police investigator? He told Faye Dunaway that it was he against the system, which leaves me a little less than satisfied. He certainly seemed to be bored. Everything came to him too easily. Faye Dunaway started out great with the pitbull attitude toward reclaiming the money for the insurance reward. I liked the repartee at the initial meeting with McQueen at the art auction. I felt she showed weakness at their first dinner meeting when McQueen accused her of having a \"funny, dirty little mind\". The surveillance, \"replacing the carpet\" in his mansion and IRS audits forever were good blows she landed. McQueen always seemed to be one step ahead. Even before the last robbery when he said he had to know where she stood, I think he already was on the plane to Europe without her. For Faye, it was a lose-lose situation. Whether she ever was really in love with him or not, she got far to close to draw the line. The chess scene in McQueen's den was probably the sexiest scene I have ever witnessed. Everything occurred in the viewer's mind -- no nudity or anything more than kiss on screen. This movie was wonderful, a very good look at a refreshing look at the 60s with wealth and power. Even cigarette smoking had not become a pariah. PS: I saw the Pierce Brosnan version of TCA, and it was zero in my estimation, and that was with the nudity. Don't waste your time on it.",
+         "The Thomas Crown affair begs the question. What do the rich think of when they are bored? Norman Jewison decided to answer that question with a subtle, but over the top version of cops and robbers. Thomas Crown (suprisingly, but adroitly played by Steve McQueen) is a bored, millionaire who asks, \"Who do I want to be tomorrow?\" To that end, he decides on 'kicks.' In what seems like an absentminded challenge to himself, Crown designs and implements a down to the minute bank robbery. The plan is fantastic. He selects and hires five total strangers at random, instructs them on their part of the Bank robbery, then sets them in motion. What follows is perhaps the finest cat and mouse crime game between two intelligent and sophisticated players. Faye Dunaway plays Vicki Anderson, a top notch insurance investigator who for ten percent of recovered loot promises the capture of her agile quarry. Standing by to arrest the elusive Crown is Paul Burke, who plays Lt. Edward 'Eddy' Malone. Jack Weston portrays Erwin Weaver the get-a-way driver who could jeopardize Crowns Perfect crime. With the famous, \"Windmills of your Mind\" theme song, the viewer is hauntingly allowed into the mind of a sympathetic man and one cannot help but root for the thief. This film was McQueen's favorite. *****",
+         "Amazing movie. I give movies a 10 when I can come up with no suggestion at all to make it better. The cinematography, editing, dialogue, acting, costumes, locations and most of all direction of this movie are perfect. A definite must see if you are a fan of James Bond or risk taking films such as The Graduate and Rosemary's Baby. After you watch it, make sure to watch the remake which simply pales in comparison. The two together are a perfect example of what we loose from the comtemporary Hollywood blockbuster formula.",
+         "Steve McQueen gives one of the best portrayals of a psychopath ever, whether he intended to or not. Whether it's his game playing with the authorities... his pulling off the crime to see if he can (there is no true profit motive here... he has more money than he knows what to do with), all are classic behaviours. But the TRUE telling is in the scene where... after tormenting the cops... Crown tries to laugh. It's as though he knows he's supposed to be maniacally happy, but doesn't know how to achieve it. And everything he goes through as far as the 'love affair' goes... and sets her up to leave her and escape... pure non-conscious behaviour. The movie may SEEM dated with time... but the portrayal is as accurate as any you will ever find.",
+         "Thomas Crown is a mysterious gazillionaire who is frankly bored with his life. What to do when you're a thirty something and have all the resources available. For a lark, plan the perfect crime. So in The Thomas Crown Affair, Steve McQueen does just that. He recruits four people at random for the crime, none of whom know each other and pull off a really neat bank robbery. It seems like Paul Burke and the Boston PD aren't getting the job done so the bank brings in Faye Dunaway as an insurance investigator. She does this for a 10% finders fee, not for a policeman's salary. She also doesn't have to follow the rules the way the cops do. Dunaway is smart and she does figure out it's McQueen who's the mastermind. She baits him in some of the same way that Inspector Slimane baits Pepe LeMoko. Of course she really gets up close and personal in a way that Slimane couldn't. All this really does get to Paul Burke, whose performance is unfortunately overlooked in talking about The Thomas Crown Affair. It's a battle of hubris between McQueen and Dunaway and the film does keep you in some suspense as to who will win out. The Thomas Crown Affair garnered won Academy Award for Michel LeGrand's song, The Windmills of Your Mind. It's a stylishly done caper film and I guarantee you won't be able to anticipate the outcome."
+      ],
+      "genres": [
+         "Crime",
+         "Drama",
+         "Romance",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "Mirisch Corporation, The",
+         "Simkoe",
+         "Solar Productions"
+      ],
+      "summaries": [
+         "Four men pull off a daring daytime robbery at a bank, dump the money in a trash can and go their separate ways. Thomas Crown, a successful, wealthy businessman pulls up in his Rolls and collects it. Vickie Anderson, an independent insurance investigator is called in to recover the huge haul. She begins to examine the people who knew enough about the bank to have pulled the robbery and discovers Crown. She begins a tight watch on his every move and begins seeing him socially. How does the planner of the perfect crime react to pressure?",
+         "An unknown man hires four unrelated men to carry off a bank heist of over $2 million. The four meet for the first time during the actual heist itself, which is carried off successfully. Their unknown leader is suave and wealthy Thomas Crown, an executive at the bank that was hit. Eddy Malone, the Boston police detective in charge of the case, is coming up empty in his investigation, that is until beautiful insurance investigator Vicki Anderson comes on the scene. Anderson, admittedly self-serving in that she works on commission, thinks like a thief and works on her instincts. Looking through the evidence, she believes that Crown is her man. Upon meeting, Anderson knows that Crown is the thief. Crown knows what Anderson believes as she tells him as much. Despite their positions, they are immediately attracted to each other and begin a relationship. But this does not stop their cat and mouse chase. However, the role of the cat and the role of the mouse are not always clear cut.",
+         "A debonair, adventuresome bank executive believes he has pulled off the perfect multi-million dollar heist, only to match wits with a sexy insurance investigator who will do anything to get her man."
+      ],
+      "budget": 4300000
+   },
+   "movielensId": 2764,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1968-06-19",
+      "dvdReleaseDate": "2005-05-17",
+      "directors": ["Norman Jewison"],
+      "runtime": 102,
+      "movieId": 2764,
+      "title": "The Thomas Crown Affair",
+      "mpaa": "PG",
+      "actors": [
+         "Steve McQueen",
+         "Faye Dunaway",
+         "Paul Burke",
+         "Jack Weston",
+         "Biff McGuire",
+         "Addison Powell",
+         "Astrid Heeren",
+         "Gordon Pinsent",
+         "Yaphet Kotto",
+         "Sidney Armus",
+         "Richard Bull",
+         "Peg Shirley",
+         "Patrick Horgan",
+         "Carol Corbett",
+         "Tom Rosqui",
+         "Michael Shillo",
+         "Nora Marlowe",
+         "Sam Melville",
+         "Ted Gehring",
+         "Paul Verdier",
+         "Judy Pace"
+      ],
+      "imdbMovieId": "0063688",
+      "originalTitle": "The Thomas Crown Affair",
+      "genres": [
+         "Romance",
+         "Crime",
+         "Thriller",
+         "Drama"
+      ],
+      "youtubeTrailerIds": ["jbcfsoPcK7w"],
+      "plotSummary": "Young businessman, Thomas Crown is bored and decides to plan a robbery and assigns a professional agent with the right information to the job. However, Crown is soon betrayed yet cannot blow his cover because he\u2019s in love.",
+      "tmdbMovieId": 912,
+      "avgRating": 3.56926,
+      "releaseYear": "1968",
+      "numRatings": 3169,
+      "posterPath": "/aUfr466YUS4liJSZ22eJ1JhwsJv.jpg"
+   }
+}

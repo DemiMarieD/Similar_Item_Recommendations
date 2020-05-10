@@ -1,0 +1,610 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "experiment",
+            "id": 1706
+         },
+         {
+            "name": "brain",
+            "id": 2588
+         },
+         {
+            "name": "guillotine",
+            "id": 6317
+         },
+         {
+            "name": "frankenstein",
+            "id": 6737
+         },
+         {
+            "name": "remake",
+            "id": 9714
+         },
+         {
+            "name": "revenge",
+            "id": 9748
+         },
+         {
+            "name": "murder",
+            "id": 9826
+         },
+         {
+            "name": "suspense",
+            "id": 9937
+         },
+         {
+            "name": "reanimation",
+            "id": 10122
+         },
+         {
+            "name": "mad scientist",
+            "id": 10125
+         },
+         {
+            "name": "morgue",
+            "id": 10326
+         },
+         {
+            "name": "decapitation",
+            "id": 11181
+         },
+         {
+            "name": "severed head",
+            "id": 11581
+         },
+         {
+            "name": "creature",
+            "id": 13031
+         },
+         {
+            "name": "gothic horror",
+            "id": 15032
+         },
+         {
+            "name": "hammer horror",
+            "id": 155730
+         },
+         {
+            "name": "severed hand",
+            "id": 166862
+         },
+         {
+            "name": "told in flashback",
+            "id": 171826
+         },
+         {
+            "name": "reanimated corpse",
+            "id": 174413
+         },
+         {
+            "name": "brain transplant",
+            "id": 203836
+         }
+      ],
+      "imdb_id": "tt0050280",
+      "video": false,
+      "title": "The Curse of Frankenstein",
+      "recommendations": [
+         18990,
+         11868,
+         3127,
+         28752,
+         17102,
+         3104,
+         29778,
+         34479,
+         28501,
+         29748,
+         35669,
+         28667,
+         23220,
+         33020,
+         17907,
+         27003,
+         39891,
+         3124,
+         25319,
+         3077
+      ],
+      "backdrop_path": "/jBidAzvvwYWQMm5dxZwA49vErns.jpg",
+      "revenue": 0,
+      "reviews": [{
+         "author": "talisencrw",
+         "id": "573e554ec3a3687aca00037e",
+         "content": "This ended up being one of my favourites, both of Hammer Films in general, and of the works of both Sir Peter Cushing and Sir Christopher Lee. It still works cinematically, three generations later, as my 13-year-old son really enjoyed it as well. Though the filmmakers were forced to use other makeup rather than that copyrighted by Universal Studios in James Whale's masterpiece, that isn't problematic in the slightest for your enjoyment of the picture. Worth a purchase and rewatches either for fans of the genre in the slightest, of period pieces in general, or of the Mary Shelley novel. A fine work which is one of the best of director Fisher's career.",
+         "url": "https://www.themoviedb.org/review/573e554ec3a3687aca00037e"
+      }],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 16,
+               "character": "Baron Viktor Frankenstein",
+               "gender": 2,
+               "credit_id": "52fe4383c3a36847f8059d27",
+               "name": "Peter Cushing",
+               "profile_path": "/1qtKVu16REL2YLVrhayjVey4al.jpg",
+               "id": 5,
+               "order": 0
+            },
+            {
+               "cast_id": 23,
+               "character": "Elizabeth",
+               "gender": 1,
+               "credit_id": "52fe4383c3a36847f8059d43",
+               "name": "Hazel Court",
+               "profile_path": "/arrnJNt1mJqH7NEwyYr7Mxz0eeY.jpg",
+               "id": 101499,
+               "order": 1
+            },
+            {
+               "cast_id": 17,
+               "character": "Paul Krempe",
+               "gender": 1,
+               "credit_id": "52fe4383c3a36847f8059d2b",
+               "name": "Robert Urquhart",
+               "profile_path": "/yUsYvfDUKgMAZ0jRJW39EpRd4QJ.jpg",
+               "id": 30187,
+               "order": 2
+            },
+            {
+               "cast_id": 18,
+               "character": "The Creature",
+               "gender": 2,
+               "credit_id": "52fe4383c3a36847f8059d2f",
+               "name": "Christopher Lee",
+               "profile_path": "/aVzp6zflzedmdKPLxaPqcZ05PDK.jpg",
+               "id": 113,
+               "order": 3
+            },
+            {
+               "cast_id": 19,
+               "character": "Victor",
+               "gender": 2,
+               "credit_id": "52fe4383c3a36847f8059d33",
+               "name": "Melvyn Hayes",
+               "profile_path": "/xNFzuXPiymlRqfzDLxUkpvr2PpP.jpg",
+               "id": 30188,
+               "order": 4
+            },
+            {
+               "cast_id": 20,
+               "character": "Justine",
+               "gender": 1,
+               "credit_id": "52fe4383c3a36847f8059d37",
+               "name": "Valerie Gaunt",
+               "profile_path": null,
+               "id": 30189,
+               "order": 5
+            },
+            {
+               "cast_id": 21,
+               "character": "Prof. Bernstein",
+               "gender": 0,
+               "credit_id": "52fe4383c3a36847f8059d3b",
+               "name": "Paul Hardtmuth",
+               "profile_path": null,
+               "id": 30190,
+               "order": 6
+            },
+            {
+               "cast_id": 22,
+               "character": "Aunt",
+               "gender": 1,
+               "credit_id": "52fe4383c3a36847f8059d3f",
+               "name": "Noel Hood",
+               "profile_path": null,
+               "id": 30191,
+               "order": 7
+            },
+            {
+               "cast_id": 27,
+               "character": "Grandpa",
+               "gender": 2,
+               "credit_id": "558bd485c3a3687e650032ee",
+               "name": "Fred Johnson",
+               "profile_path": null,
+               "id": 89898,
+               "order": 8
+            },
+            {
+               "cast_id": 28,
+               "character": "Little Boy",
+               "gender": 0,
+               "credit_id": "558bd497c3a3687e650032f4",
+               "name": "Claude Kingston",
+               "profile_path": null,
+               "id": 1481288,
+               "order": 9
+            },
+            {
+               "cast_id": 29,
+               "character": "Priest",
+               "gender": 0,
+               "credit_id": "558bd4a59251410f8f000008",
+               "name": "Alex Gallier",
+               "profile_path": null,
+               "id": 1221548,
+               "order": 10
+            },
+            {
+               "cast_id": 30,
+               "character": "Warder",
+               "gender": 0,
+               "credit_id": "558bd4b2c3a3687e650032fc",
+               "name": "Michael Mulcaster",
+               "profile_path": "/sxGaZeBq8kG0xKzYw9NLpDYOCW5.jpg",
+               "id": 552226,
+               "order": 11
+            },
+            {
+               "cast_id": 31,
+               "character": "Burgomaster",
+               "gender": 0,
+               "credit_id": "558bd4c1c3a36823800014bc",
+               "name": "Andrew Leigh",
+               "profile_path": null,
+               "id": 1293858,
+               "order": 12
+            },
+            {
+               "cast_id": 32,
+               "character": "Wife",
+               "gender": 0,
+               "credit_id": "558bd4cf92514141d80039b7",
+               "name": "Ann Blake",
+               "profile_path": null,
+               "id": 1481289,
+               "order": 13
+            },
+            {
+               "cast_id": 33,
+               "character": "Young Elizabeth",
+               "gender": 1,
+               "credit_id": "558bd4ddc3a3687e56003529",
+               "name": "Sally Walsh",
+               "profile_path": null,
+               "id": 134689,
+               "order": 14
+            },
+            {
+               "cast_id": 34,
+               "character": "Lecturer",
+               "gender": 2,
+               "credit_id": "558bd4ee92514141de00395a",
+               "name": "Middleton Woods",
+               "profile_path": null,
+               "id": 101942,
+               "order": 15
+            },
+            {
+               "cast_id": 35,
+               "character": "Uncle",
+               "gender": 0,
+               "credit_id": "558bd500c3a3687e6800305d",
+               "name": "Raymond Ray",
+               "profile_path": null,
+               "id": 1481290,
+               "order": 16
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4383c3a36847f8059ce1",
+               "name": "Terence Fisher",
+               "profile_path": "/53YMKaZBJSEWvPAOAGJpWkttXee.jpg",
+               "id": 29662,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4383c3a36847f8059ce7",
+               "name": "Mary Shelley",
+               "profile_path": "/rcTyPNOKNFmZi61FVdAivtBroXt.jpg",
+               "id": 28970,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4383c3a36847f8059ced",
+               "name": "Anthony Hinds",
+               "profile_path": null,
+               "id": 30168,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4383c3a36847f8059cf3",
+               "name": "Max Rosenberg",
+               "profile_path": null,
+               "id": 30169,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4383c3a36847f8059cf9",
+               "name": "Jack Asher",
+               "profile_path": null,
+               "id": 29667,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4383c3a36847f8059cff",
+               "name": "James Needs",
+               "profile_path": null,
+               "id": 30172,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4383c3a36847f8059d05",
+               "name": "Dorothy Holloway",
+               "profile_path": null,
+               "id": 30173,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4383c3a36847f8059d0b",
+               "name": "Bernard Robinson",
+               "profile_path": null,
+               "id": 30139,
+               "department": "Art",
+               "job": "Set Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4383c3a36847f8059d11",
+               "name": "Ted Marshall",
+               "profile_path": null,
+               "id": 30175,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4383c3a36847f8059d17",
+               "name": "Molly Arbuthnot",
+               "profile_path": null,
+               "id": 30178,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4383c3a36847f8059d1d",
+               "name": "Henry Montsash",
+               "profile_path": null,
+               "id": 30182,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4383c3a36847f8059d23",
+               "name": "Roy Ashton",
+               "profile_path": null,
+               "id": 29671,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4383c3a36847f8059d49",
+               "name": "Philip Leakey",
+               "profile_path": null,
+               "id": 30703,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4383c3a36847f8059d4f",
+               "name": "Jimmy Sangster",
+               "profile_path": null,
+               "id": 30700,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4383c3a36847f8059d55",
+               "name": "James Bernard",
+               "profile_path": null,
+               "id": 30137,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "558bd519c3a3687e56003536",
+               "name": "Michael Carreras",
+               "profile_path": null,
+               "id": 29664,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "558bd52a92514137a00006bf",
+               "name": "Anthony Nelson Keys",
+               "profile_path": null,
+               "id": 29665,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "558bd55892514111a8000bbf",
+               "name": "Don Weeks",
+               "profile_path": null,
+               "id": 1207591,
+               "department": "Production",
+               "job": "Production Manager"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Horror",
+            "id": 27
+         },
+         {
+            "name": "Science Fiction",
+            "id": 878
+         }
+      ],
+      "popularity": 4.267861,
+      "production_countries": [{
+         "iso_3166_1": "GB",
+         "name": "United Kingdom"
+      }],
+      "id": 3079,
+      "vote_count": 78,
+      "budget": 0,
+      "overview": "Baron Victor Frankenstein has discovered life's secret and unleashed a blood-curdling chain of events resulting from his creation: a cursed creature with a horrid face \u2014 and a tendency to kill.",
+      "similar": [
+         6312,
+         357096,
+         588,
+         281,
+         336843,
+         238636,
+         281957,
+         22825,
+         341006,
+         133805,
+         1694,
+         3134,
+         294963,
+         156022,
+         979,
+         395834,
+         73861,
+         431,
+         10285,
+         14869
+      ],
+      "original_title": "The Curse of Frankenstein",
+      "runtime": 82,
+      "poster_path": "/f4dwXdeZFHzLKMNgKGe46RWsMmM.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": "/pi7SHIi3CNAyDUCt6Jpr1q9UW3t.png",
+         "name": "Hammer Film Productions",
+         "id": 1314,
+         "origin_country": "US"
+      }],
+      "release_date": "1957-05-02",
+      "vote_average": 6.8,
+      "belongs_to_collection": {
+         "backdrop_path": "/gl9Gi60C9WYVkObOMll19OROhMC.jpg",
+         "name": "Frankenstein (Hammer Series)",
+         "id": 123720,
+         "poster_path": "/fKiok5TbCKWRgfNd4Rj8gPMzGJp.jpg"
+      },
+      "tagline": "The creature created by man and forgotten by nature!",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "UK",
+      "color": "Color",
+      "budgetCurrency": "£",
+      "directors": ["Terence Fisher"],
+      "runtime": 82,
+      "synopsis": "The movie opens with text over a red background that reads, \"More than a hundred years ago, in a mountain village in Switzerland, lived a man whose strange experiments with the dead have since become legend. The legend is still told with horror the world over...It is the legend of...\" A clever segway into the title: The Curse of Frankenstein. Credits follow. A man on horseback approaches a prison in the mountains along a narrow pathway. A church bell chimes the hour as a man opens the gate for the rider. He is a priest (Alex Gallier). He is escorted by the Warder (Michael Mulcaster) to see Baron Victor Frankenstein (Peter Cushing). The warder explains that the prisoner is dangerous. The Baron wishes to see the priest because he thinks he can trust the man with his story. He starts his story, \"I suppose it was when I was a boy at school. I always had a brilliant intellect. When my mother died, I inherited the Frankenstein fortune.\" The Young Baron (Melvyn Hayes) is escorting his extended family out of his house after his mother died. His uncle (Raymond Ray) leads the family delegation. Aunt Sophie (Noel Hood) and her daughter, young Elizabeth (Sally Walsh) stay behind. Aunt Sophie wants reassurance her allowance will continue uninterrupted. After confirming the money will continue, Victor quickly escorts the two relatives out the door. As they are leaving, a dapper gentleman in a brown top hat arrives. Paul Krempe (Robert Urquhart) walks into the house and presents himself to the new, but very young, Baron. He had corresponded with the Baron for a tutor. Initially he thinks there must be some mistake or a joke, but Victor explains the tutoring is for himself and he is serious. The two hit it off immediately. After two years, \"I learned all he had to teach, but we went on together probing into the unknown, investigating, recording, searching, always searching until gradually the sweep of our research began to assume a single direction and to this aim we finally turned all our energies. It took us years of unrelenting work to discover what we were seeking.\" With chemical and electrical apparatus they were able to restore life to a dead puppy. Paul sees the possibilities of their discovery. He notes, \"If we could delay or prolong the period in which the body is apparently dead while the heart is alive wed have a living body with only the barest life-spark present. That what that would mean when it came to performing major surgery!\" Paul wants to write up their findings and present it at a medical conference within a month. Victor expresses his opposition because he wants to experiment further and does not want to share the secret, not yet at least. He proposes the next step. Rather than just restore life, he wants to create life from the beginning. He tells Paul, \"We must build up our own creature, and built it up from nothing. We must create a human beinga perfect human.\" Paul disagrees, \"What you're saying is nonsense, a revolt against nature. Such a thing could only end in evil.\" Victor persuades Paul to continue the work. He proposes to obtain a body, and knows a highwayman was hanged for his crimes and suggests they retrieve it. They take a horse and cart and cut down the body and return it to their lab. Paul notes that half the head has been eaten away. Victor quickly cuts the head off, explaining it is of no use. He dumps it into a vat of acid in the storage room next door. They remove the old clothes, wrap the body in bandages and place it in a large, glass tank. Now Paul voices his objection to the whole exercise, \"I don't think we should continue with this.\" Victor tells Paul he will be leaving for a while but does not explain where or why. Justine the maid (Valerie Gaunt) carries refreshments into the living room and asks Paul if the Baron has returned. She answers the door, expecting that Victor has returned. To her disappointment it is not the Baron but a woman who tells her she was expected and needs help with her luggage. Elizabeth (Hazel Court) is the Baron's cousin and we learn later his fiancée. She mistakes Paul for the Baron. Victor arrives home in an excited state calling for Paul. He is not surprised to see Elizabeth. He and Paul rush off to the lab upstairs leaving Elizabeth annoyed and confused. Victor unwraps something from a small black bag. He proudly displays two hands, cut off at the wrist. He explains they are Bardello's hands--the hands of the world's greatest sculptor. Paul voices his objection to exposing Elizabeth to the experiment. He tells Victor, \"While you were away, I decided I could not continue with this experiment.\" He tries to convince Victor to stop, but he is unsuccessful. Victor remains in the lab and will graft the new hands on by himself. Paul goes downstairs and tries to convince Elizabeth to leave. In this he is also unsuccessful, mainly because he will not explain the nature of the experiment or the danger. She explains she is to be Victor's wife. Outside the lab, Victor and Justine embrace and kiss. Victor is just toying with the maid. She believes she will be his wife, but Victor tells her that Elizabeth is to be his wife. The next morning Victor prepares to leave on another trip. Elizabeth talks to him about the household accounts and possibly assisting in other ways. Victor pays a visit to the Municipal Charnel House and buys a pair of human eyes. Victor takes them home to examine them when Paul asks to see him. He reiterates his refusal to help Victor with his work. Victor proudly shows Paul how far he has gone on his own. Paul turns away from the tank with revulsion and exclaims, \"It's horrible!\" Victor tells Paul that once a genius brain is obtained and installed the creature will take on a benevolent face. When asked where the brain will come from, Victor replies, \"I'll get it.\" Victor and Elizabeth are in the living room entertaining a visitor. Professor Bernstein (Paul Hardtmuth) accepted an invitation from the Baron for dinner and to spend the night. The professor tells Victor that discoveries can be mishandled. Paul enters the room and is introduced to the distinguished professor. Victor escorts the old man upstairs to his room. At the top of the stairs Victor shows him a painting, maneuvering the old man closer to the bannister, which gives way. Victor pushes the old man through and down to his death. Professor Bernstein is given a burial at the Baron's expense and in his family vault. Later that evening the Baron retrieves Bernstein's brain. He carefully places the jar in his bag and prepares to leave the vault. Paul arrives, expecting to find Victor and accuses him of murder. Paul intends to stop Victor from using the brain, and tells him so. They briefly struggle over the bag and the jar is broken. Paul calls on Elizabeth in her room and again begs her to leave. He explains he only stays to ensure her safety. In the lab, Victor is picking pieces of glass out of the brain, trying to salvage it. He puts the brain into the skull and prepares to revive his newly finished creature. He starts the chemical and electrical equipment as an electrical storm brews outside. Paul is upstairs in his room preparing for bed. As the tank empties, Victor goes to Paul's room and again asks for help. He admits, \"That apparatus was constructed for dual operation. You know that. I thought I could work it myself, but I can't.\" But Paul gleefully replies, \"I'm delighted.\" A lightning bolt starts the electrical components and the body in the empty tank begins to breathe. Victor promises that after the experiment is completed he will dispose of the body. Paul reluctantly agrees to help. Victor returns to the lab and hears glass breaking. He unlocks the lab door and standing there is the creature. It pulls away the bandages covering its head to reveal a scarred and hideous face (Christopher Lee). One eye is blue, the other brown, and it stares at its creator with hate. It grabs Victor and chokes him. Only Paul's quick action saves Victor. He breaks a chair over the thing's head. The creature stumbles and falls to the floor. Paul demands the creature be destroyed as Victor straps it down to a table. Victor tells Paul he will operate on the brain the next morning and try to correct its homicidal tendencies. But the next morning the lab is a shambles and the window broken. The creature has broken free and escaped. Victor and Paul search the countryside for the creature. An old blind man (Fred Johnson) and his grandson (Claude Kingston) are out in the woods for a stroll. The old man sits and the grandson goes down to the lake shore to pick mushrooms. The creature encounters the old man. After a brief exchange he kills the old man. The grandson returns to where he left his grandfather. Victor and Paul find signs and follow it into the woods. They find it, and Paul shoots the creature through the eye. The creature falls and is pronounced dead. They bury it in place and return to the house. Paul goes to the lab and tells Victor he is leaving. With the creature dead, he no longer needs to stay and protect Elizabeth. But Paul doesn't know Victor dug his creation up and returned its lifeless body back to the lab. Victor stares at his creature hanging in the store room and promises, \"I'll give you life again.\" Victor is dressed and tells Justine she can serve dinner. Justine reminds Victor of his promise to marry her. Her trump card is the revelation she is pregnant with his child. He does not believe he is the father, but Justine informs the master that Elizabeth will believe her. She adds that she will go to the authorities regarding the experiment. He fires the maid and orders that she leave the next morning. That night Justine goes up to the lab to get the proof she will need for the authorities. Victor leaves the lab door unlocked and Justine enters for a look. She enters the storage room and finds the revived creature. When she tries to flee, Victor locks her in, knowing his homicidal creation will kill her. It does. A week later, Victor and Elizabeth are having breakfast. Elizabeth inquires about Justine. Victor lies and tells her, \"I expect some village lothario eloped with her.\" They discuss the wedding plans. Elizabeth reveals she invited Paul. Instead of being angry, Victor casually informs her he hopes Paul comes. He says that he has something to show Paul. It is the eve of the wedding, and a reception at the Baron's home is underway. The Burgomaster (Andrew Leigh) is enjoying the laced punch and practicing his speech. His wife (Ann Blake) reproaches her drunk husband and they leave for home. When all the guests have left, Victor announces he will be working in the lab. Elizabeth is disappointed and tells her future husband. Paul does not attend the reception, but does come later that evening. Elizabeth tells Paul to go surprise Victor. Victor is preparing a plate of flood when Paul knocks on the lab door. Victor invites his old tutor into the lab. He leads him to the storage room. Paul is shocked to discover the creature chained to the wall and showing signs of brain surgery. Victor orders the creature onto its feet. It struggles but stands, then sits when ordered. Paul chides the Baron about the creature's lack of perfection, but Victor reminds Paul, \"There you see the result of your handiwork as much as mine...but you damaged it. You put a bullet in the wretched thing. This is your fault, Paul.\" Paul exits the lab, promising to go to the authorities and have them destroy the creature. Victor chases after him. He leaves the lab door unlocked and Elizabeth enters the lab. The creature breaks its chains. Elizabeth enters the storage room and sees the vat of acid. The creature gets out onto the roof. Victor and Paul see it and Paul goes to the village for help. Elizabeth goes outside to explore a noise she heard. Victor grabs a pistol and goes out to the roof. Firing at the creature he hits Elizabeth, then the creature. Only wounded, the creature approaches Victor. A well-aimed toss of an oil lamp sets the creature ablaze. The creature falls through the skylight and straight into the acid filled vat below. We return to the prison, and the priest still listening to the story now finished. Victor concludes, \"My life's work destroyed. Destroyed in a moment. And by the same hand that gave it life.\" Paul comes to visit Victor at the prison. Elizabeth was only wounded and recovers. She is also at the prison, but stays in the waiting area. Victor begs Paul to tell the priest about the creature and to verify the story, but Paul denies it. He does accuse Victor of murdering Justine. Victor claims it was the creature who murdered the maid. The priest leaves the cell. Victor tries to kill Paul, but the jailer prevents it. Paul leaves the cell and returns to talk to Elizabeth. He takes her home. Victor is led to his execution. The last scene is of a guillotine, seen in silhouette, and the credits roll.",
+      "writers": [
+         "Jimmy Sangster",
+         "Mary Shelley"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0050280/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BOTU0NTA5Nzk5OF5BMl5BanBnXkFtZTcwNzY1ODgxMQ@@._V1_SY317_CR10,0,214,317_AL_.jpg",
+      "actors": ["Stars: Peter Cushing, Hazel Court, Robert Urquhart | See full cast and crew »"],
+      "reviews": [
+         "'The Curse Of Frankenstein' is a landmark horror movie for several reasons. Firstly, though Hammer had already released 'The Quatermass Xperiment', a science fiction movie with some horror elements, it was the studios first real entry into the genre which it is still revered around the world for. Secondly, it was the first movie inspired by Mary Shelley's 'Frankenstein' made in colour. And thirdly, while it wasn't the first movie to feature both Peter Cushing and Christopher Lee, it was their first horror movie together, and one which introduced one of THE great screen duos, who eventually made over twenty movies together. Lee doesn't have as much on screen time as one might expect, but his Monster is memorable and visually striking (after Universal threatened to sue if the image of Karloff's monster was copied). As well as Lee, the supporting cast includes good performances from Robert Urquhart and Hazel Court. Urquhart plays Paul Krempe, initially the young Baron's tutor (the Baron being briefly portrayed by Melvyn Hayes before Cushing), and later his often unwilling assistant. Court, best remembered for her roles in some of Roger Corman's Poe series, plays the Baron's cousin/fiancee. The standout performance of the movie is by Peter Cushing. I still think Karloff is the definitive Monster but Cushing is the definitive Baron Frankenstein. There were six sequels to 'The Curse Of Frankenstein' and Cushing played Frankenstein in all but one, the second last in the series 'The Horror Of Frankenstein', which was actually a tongue in cheek remake of 'Curse..' starring Ralph Bates as the Baron. The movie wasn't completely successful and thankfully Cushing returned for the final movie 'Frankenstein And The Monster From Hell'. For me the first and last in the series tie as the best Hammer Frankenstein movies and Cushing is remarkable in them both. I highly recommend 'The Curse Of Frankenstein', one of Hammer's greatest horror movies. No-one can truly call themselves a horror movie fan if they haven't seen it.",
+         "This is a film that almost never was. Originally planned as a 'quota quickie', and, as Terence Fisher stated. \"As a send-up,\" it ended up changing the British Film Industry for all time. It had gone international. Fisher owed Hammer a film, and somehow he managed to pull a script together in much the same manner as the Baron did body parts. It has been said that Jack Warner hated the film, but released it anyway, opening in the very theatre where 'The House of Wax' had premiered several years before. It was a success, much to the delight of Warner, and to Hammer. It also marked the beginning of the screen-teaming of Peter Cushing and Christopher Lee. Today, the film seems a bit slow and not quite sure where it's going, but in 1957 it delivered a wallop in vivid color, to a long-waiting legion of fans. This was the true jumping-off point for Hammer, a small company who had been in production for a number of years, and they filled the void left by the American majors in the production of the 'horror film.' In a way, the film's tag-line kept it's promise.... 'The Curse of Frankenstein will haunt you forever.' Quite by accident, 'The Hammer Look' changed the face of the fantasy film for all time.",
+         "This was Hammer Films opening entry into their Horror re-imagining of classic Universal Studios Monsters and it is still one of the best. Here we get a new take on the familiar Frankenstein myth with the young Frankenstein coming from a fatherless background and embracing only science and reason with any real conviction. Finally when a breakthrough comes, the Young master will stop at nothing to achieve the fame, glory and notoriety he desires--his lack of regard for others is frightening even to his mentor Paul Krempe(played excellently by Robert Urquhart)who warns him against tampering with the forces of nature and that nothing good will come from it. Cushing is outstanding in the role and adds a real sense of tragedy, genius and malice. Hazel Court is certainly lovely as the innocent cousin Elizabeth who naively becomes entangled into Frankenstein's sinking path of unconscious self-destruction.",
+         "In 1934, during the boom of British cinema, businessman William Hinds, decided to enter the industry and create his own film company, \"Hammer Productions Ltd.\", where he would produce several movies before being forced into bankruptcy due to the end of the industry's bonanza. Along with partner Enrique Carreras, Hinds became a film distributor, but that wasn't really the end of Hammer's history, as many years later, Carreras' son James joined Hinds' son Anthony and together with their parents, resurrected Hammer Film Productions in 1949. The next two important events in Hammer's history were the hiring of director Terence Fisher in 1951, and the enormous success of 1955's horror film, \"The Quatermass Xperiment\", as they would play important roles the company's future. While Hammer was preparing \"Quatermass 2\", they gave Terence Fisher the chance to resurrect Mary Shelley's \"Frankenstein\", and Hammer Horror was born. In \"The Curse of Frankenstein\", Peter Cushing plays Baron Victor Frankenstein, who after losing his family at a young age, hires scientist Paul Krempe (Robert Urquhart) as a mentor. Along Krempe, the young Baron develops his enormous genius for science, becoming great friends and colleagues as he grows up. During one of their experiments, they discover a way to bring a dead dog back to life, an amazing discovery that excites both scientists as it could be of enormous use for medicine. However, Victor wants to go further, and decides that the next step is the creation of life. Krempe refuses to help Victor in that experiment, but decides to stay in the house to protect Victor's cousin Elizabeth (Hazel Court), who has arrived to marry Victor, unsuspecting of her fianceé's experiments. The Baron's obsession with his experiment will prove to be more dangerous than what Krempe thinks. The screenplay for this new version of Shelley's classic was written by Jimmy Sangster, who had previously written \"X: The Unknown\" for Hammer the previous year. Unlike what happens in Universal's 1931 classic adaptation, the plot is completely focused on the Baron's figure instead of on the creature, which gives a new and fresh angle to the story, as it explores Frankenstein's obsessions and how they begin to consume his life. To achieve this, Sansgter adds a lot of human drama and character development that at times makes the film more a Gothic tragedy than a typical horror film, but even when limited, Sangster's use of suspense is still pretty effective. It still isn't exactly a straight adaptation of Shelley's novel, but Sangster's screenplay does offer an interesting idea by not making the Creature a misunderstood monster, but the literal symbol of Frankenstein's failure and corruption. Anyways, while Jimmy Sangster's screenplay is indeed worthy of recognition, it was really Terence Fisher's work as a director what ultimately gave Hammer horror it's true face. While already an experienced director by the time he made \"The Curse of Frankenstein\", Fisher found in Hammer's horror films the creative freedom that allowed him to explore new realms in this reinterpretations of old classics. His care for details in set design and costume design give the film a great look that equals the one of movies with bigger production values, and using vibrant colors, he puts a special emphasis on blood for the first time. There are also several sexual overtones in the film that give the movie a different style to previous incarnations of the novel, an element that Fisher would take further in posterior movies, specially in \"Dracula\" and \"The Curse of the Werewolf\". \"The Curse of Frankenstein\" is also the film that introduced two of the most important actors in the horror genre since the days of Universal's movies: Peter Cushing and Christopher Lee. As Baron Frankenstein, Cushing delivers an outstanding performance that can be considered among the best in the history of the genre. Making a fascinating character out of the unsympathetic Baron is not easy, but Cushing succeeds remarkably and completely makes the movie his own. Lee has a considerably smaller role as the Creature, but while \"Dracula\" would be the movie where he would shine the most, here he delivers a powerful performance as the Monster. As Frankenstein's mentor, Paul Krempe, Robert Urquhart is pretty effective and makes a great counterpart to Cushing's Baron. Hazel Court is less successful as Elizabeth, although it's not really a bad performance at all. It's hard not to think about comparing Fisher's interpretation of \"Frankenstein\" to the legendary movie made by James Whale 26 years before for Universal, but really, in the end it's a pointless exercise as both movies are so different from each other (and different from Shelley's novel) that there's no proper way to compare them. While one has a powerful story of a misunderstood monster (played brilliantly by Boris Karloff), the other is a tale of ambition and obsessions where the monster is nothing more than the ultimate result of Frankenstein's evil, so it's impossible to tell which one is the best of the two. What can really be said about \"The Curse of Frankenstein\" is that it suffers from an extremely slow pace that may turn off some viewers, although as the story unfolds, this slow pace does pay off in the end and helps to build up a perfect Gothic atmosphere. An enormously successful film, \"The Curse of Frankenstein\" began the style of Gothic horror that would later be labeled as \"Hammer Horror\". With Fisher at the helm, Hammer would become a great influence in how the genre was developed through the 60s, giving it new life and pushing the boundaries of the era. While maybe overshadowed by Fisher's posterior masterpieces, \"The Curse of Frankenstein\" is still one of the best tales of Gothic horror that have appeared on the silver screen. 8/10",
+         "What more can be said? A milestone in horror movie history with gore, great acting, atmosphere, direction and music. I just can't understand how a monumental film such as this only rates a 6.6. Unbelievable. Undoubtly the ones who voted low on this movie were looking for sex or crappy rap music. Those people should stick to looking for their brains under a moss-covered rock. Truly great performances by Lee and Cushing as well as the other actors and actresses. 10 out of 10. Watch this horror movie, it's a must.",
+         "The Curse Of Frankenstein is out of Hammer Film Productions and based on the novel Frankenstein, by Mary Shelley. It's directed by Terence Fisher, written by Jimmy Sangster and stars Peter Cushing, Christopher Lee, Hazel Court & Robert Urquhart. Jack Asher is the cinematographer and James Bernard scores the music. The first Hammer film in colour, The Curse Of Frankenstein began the second wave of cinematic horror some 25 odd years after the Universal heyday of the 30s. Where Hammer's version differs from the Universal offerings, who were carefully watching what Hammer were doing, is by focusing on the Baron himself rather than the actual iconic creature. This approach threw many critics and observers at the time, with some either calling it too talky, or worse still, depressing and degrading. But the box office tills rang, both in Britain and America, and now the film is revered by film makers and horror historians alike. Rightly so. Plot basically sees Baron Victor Frankenstein in prison for murder, where faced with the guillotine, he tells to a priest an amazing story of how he and his mentor successfully resurrected a dead body. The resulting creation being the one who committed the murder for which the Baron is now charged. The first masterstroke from Hammer was appointing Fisher and Sangster, the former shoots in lurid Eastmancolor; thus setting the marker for the Gothic style of Hammer to come, the latter produced a crackling script that make the scientist of the piece the actual monster. The second masterstroke was in the casting of Cushing as the driven Frankenstein. Then just a classy actor on TV, Cushing plays it in turns as cold blooded and elegantly charming. Lee, only getting the gig after Bernard Bresslaw's agent demanded too much money, actually doesn't have to do much, but his marionette movements coupled with the fleshy patchwork make up of his face make it totally memorable. Both men of course went on to become horror legends from here. It's far from the best Hammer Horror film, in fact it's not the best of the Universal Creature reinventions. But it adds grit and intelligence to the Gothic atmospherics, its visuals striking as the character based narrative propels eerily forward. 8/10",
+         "\"The Curse Of Frankenstein\" of 1957 truly is essential for every Horror lover to see. While this first entry to Hammer's ingenious Frankenstein series is not one of my personal favorite Hammer Productions, it were this film and the following \"Horror Of Dracula\" which basically redefined British Horror, and represent everything the Hammer Studios stand for. Mad Science and the Resurrection of the dead have always been among my favorite Horror topics, and Hammer's Frankenstein films starring the great Peter Cushing are among the most memorable films in the field. My personal favorite film in Hammer's Frankenstein franchise is still the brilliantly insane \"Frankenstein Created Woman\" of 1967, but this first film is also brilliant, and furthermore gets the benefit of originality. Sometimes in cinema, actors are predestined to play a certain role - and this is definitely the case with Peter Cushing here. Nobody else could have played the role of the obsessed Baron Victor Frankenstein as Cushing did. When it was Hammer's Dracula that made Christopher Lee the Horror icon he is, it was \"The Curse Of Frankenstein\" and its sequel that rose Peter Cushing to immortal fame. Hammer's Baron Frankenstein is more (insanely) dedicated than the character is in the novel or any previous film, and Cushing is brilliant in the role, which he played six times altogether. While he is not necessarily a villain as such (he does what he does with the strong conviction of doing what's necessary for the benefit of mankind), Victor Frankenstein gets more and more dedicated to his obsession of creating artificial life and resurrecting the dead in this first \"Frankenstein\" film from Hammer, and, at a certain point, he is willing to do anything in order to achieve his goals. At first he is still supported by his assistant and former teacher Paul Kempe (Robert Urquhart) who gets more and more frightened by his former student's obsessive behavior... I do not want to give too much of the plot away, but I guess everybody knows what the story of Frankenstein is about. As the story of Dracula, the Frankenstein story got its haunting Hammer-style makeover. From today's point of view the graphic depiction of violence and gore in the film may seem tame, but back in the day the early Hammer Classics \"Curse Of Frankenstein\" and \"Horror Of Dracula\" were some of the first films to actually show red blood, some gore and explicit violence. Both classics were directed by Terence Fisher, easily the most important Hammer director, and, as usual for hammer, the film is greatly photographed in eerie Gothic locations. Gothic castles, foggy grounds and a constantly gloomy mood - this is what makes a lot of the greatness of the world of Hammer. Peter Cushing truly is one of the greatest Horror icons ever, and Hammer's Frankenstein series probably earned him this deserved reputation more than anything else. The monster, by the way, is played by a fellow Horror icon, with whom Cushing formed the most awesome Horror-duo in a whole lot of films, none other than the great Christopher Lee. Hazel Court is a beauty in the female lead, the only tiny negative aspect is the fact that Robert Urquhart's character of Paul sometimes annoys with his moralistic nagging (also, while he is supposed to be Frankenstein's teacher, Urquhart clearly is years younger than Cushing). That does in no way lessen the greatness of this Hammer Classic, however. All said, \"The Curse Of Frankenstein\" is a true British Horror Classic, which every Horror fan must see, and no film buff in general should miss!",
+         "\"The Curse of Frankenstein\" is most entertaining version based very freely on Mary Shelley's classic story. Terence Fisher makes another fine job here in the direction for Hammer films with the classical monsters of Universal as he did also with \"The Mummy\" and \"Horror of Dracula\". A real well done horror trilogy in my opinion. The atmosphere is perfectly sordid, sinister and adequate as usual in Fisher and his also usually simple but efective and prolix direction turns this film into a most enjoyable one for fans of the genre. The settings are also a highlight in some sort of Gothic type. Hammer's top stars for the genre are here too. Peter Cushing shows his professionalism and acting class as the crazy Baron and Christopher Lee under heavy make up as the creature -more than acceptable for 1957- moves to pity at times but also to menace and horror with similar effectiveness. The rest of the cast is an interesting support, mainly Valerie Gaunt as Cushing's maid that doesn't know when she has pressed too much. Though perhaps a bit aged for today's standards \"The Curse of Frankenstein\" has not lost its charm as a little classic in the horror genre, even more if you consider it was made 50 years ago.",
+         "Ever since Mary Shelley wrote her classic novel of the infamous Baron Von Frankenstein in the late 19th century, efforts to bring the creature to the visual screen have been negligible. In the 1930's Universal finally managed it with the incredible and legendary talents of Boris Karloff. After that, efforts to keep the monster up in lights, were sadly, nothing short of comical. It was not until 1957, when the Hammer Studios secured the combined talents of two of Hollywood's greats, that the creature rose again. In this, first ever color version, Dr. Victor Frankenstein is portrayed brilliantly by the incomparable Peter Cushing. Then we have Christopher Lee, as the hand crafted creature who repeatedly terrified audiences with his version of the monster. Not since Karloff, have so many fans run scurrying from the packed theaters into the streets. Nearly matching Shelly's novel, the film re-creates the struggle between scientific genius and stark insanity and enhances it's literary foundation as a classic in both literature and motion pictures. ****",
+         "It's very difficult for me to judge if my opinion on The Curse of Frankenstein would be higher if I were to watch it coming from a different background/history. This latest viewing I believe is only the second time that I've seen Curse, with the first many, many years ago--so long ago that I could barely remember it. In the meantime, I've watched at least a few times, with relatively recent viewings, everything from Universal's 1931 Frankenstein (as well as their 1935 Bride of Frankenstein and other films in that series) to Flesh for Frankenstein (1973), Young Frankenstein (1974), Mary Shelly's Frankenstein (1994), Frankenhooker (1990)--even Der Golem, wie er in die Welt kam (1920)--and many other Frankenstein or related films. A few of those I've seen at least 10 times over the years. So I'm coming back to Curse almost as if I'm seeing it for the first time, while already having those films mentioned above as favorites for different aspects of the Frankenstein story, such as atmosphere, visceralness, humor, grandiosity, campiness, and so on. In fact, a number of those films are favorites of all time, period. For me, then, Curse had tough competition on this viewing, and without doing something significantly different with the story, it might fall short. What Curse probably does better than all of the other Frankenstein films that I've seen is relationship dynamics. At the moment, I'd call Curse the \"soap opera\" version of the story, which is not really meant as a knock. Here, Victor Frankenstein has lost his father at a very young age--he became Baron at the age of five. The film begins by showing the power and control this young man has over others. He contracts to have a tutor come teach him about science, and together, they begin exploring the scientific basis of life--the \"life force\" more specifically, which leads to the usual Frankenstein plot elements. At the same time, however, the focus remains on relationships. We have a complex tutor/student, master/employee, genius/follower relationship between Victor (Peter Cushing) and Paul Krempe (Robert Urquhart), his teacher. Victor is engaged to be married--it's an arranged marriage--to Elizabeth (Hazel Court), his cousin, yet he's in at least a lustful relationship with a housekeeper, Justine (Valerie Gaunt). At the same time, Paul seems to have fallen in love with Elizabeth, and it's ambiguous to what extent she may feel the same towards him. The actual \"curse\" here seems to be one of difficult/dysfunctional relationships, where everyone is involved in complex power struggles with almost everyone else, and no one quite comes out victorious (ironically enough). All of this stuff is pretty good, if appropriately staid for the Victorian setting (hmmmm . . . lots of occurrences of \"victor--\"). On the down side, some of the cinematography/lighting veers towards a soap opera look, which doesn't do much for me. A lot of the usual Frankenstein themes are here, too, but sometimes they almost feel like an afterthought. Christopher Lee, who plays the Frankenstein monster, is severely underused. He remains more in the background throughout the film. Still, lots of the usual Frankenstein film stuff is done well, if a bit subtly. Keeping the monster's body half immersed in fluid was a good idea--there's a creepiness just to the way it looks and it is also unsettling because you wonder why it's only half-submerged. It seems if it needs to be submerged, the whole body should be, so from the beginning of the experiments, it feels more strongly like something is off about Victor. The more visceral body part scenes (like acquiring the hands and eyes) work very well, especially in context, and Lee's make-up was well done, including the fact that he more strongly suggests both a mummy (because of the bandages) and a zombie--the Frankenstein monster should rightly suggest both. Also, the acting is very good throughout--particularly Cushing's performance. But for me, as good as Curse is, it pales in comparison to its Frankenstein brethren. It's good, but other films do the various aspects better, except maybe for the relationship stuff, but for me, that's not enough to elevate Curse to the same echelon as many of those other films."
+      ],
+      "genres": ["Horror"],
+      "productionCompanies": [
+         "Warner Bros.",
+         "Hammer Film Productions"
+      ],
+      "summaries": [
+         "In prison and awaiting execution, Dr. Victor Frankenstein recounts to a priest what led him to his current circumstance. He inherited his family's wealth after the death of his mother when he was still only a young man. He hired Paul Krempe as his tutor and he immediately developed an interest in medical science. After several years, he and Krempe became equals and he developed an interest in the origins and nature of life. After successfully re-animating a dead dog, Victor sets about constructing a man using body parts he acquires for the purpose including the hands of a pianist and the brain of a renowned scholar. As Frankenstein's excesses continue to grow, Krempe is not only repulsed by what his friend has done but is concerned for the safety of the beautiful Elizabeth, Victor's cousin and fiancée who has come to live with them. His experiments lead to tragedy and his eventual demise.",
+         "Baron Victor Frankenstein, in prison for murder and trying to evade the guillotine, tells a priest how he and his mentor, Paul Krempe, had performed many scientific experiments, eventually leading to the resurrection of a dead body. The baron's obsession and the monster's homicidal nature cause the deaths of several of those around them. Finally the Baron is confronted by an enraged monster about to throw Victor's fiancée Elizabeth, from the castle parapet.",
+         "After all his family has died, young and rich Baron Victor Frankenstein finds himself a teacher, Paul Krempe. Over the years, their relationship switches from teacher-pupil to research colleagues. Their specific interest lies in life itself. After resurrecting a dead puppy, Paul Krempe sees the monstrosity of their experiments and decides to quit working on those projects. But as Elizabeth, Victor's Cousin arrives to marry him, Paul stays in the house to protect her. Victor gets more and more obsessed with his work and starts building a man who is supposed to be a superior being. He even kills to get a proper brain. After a little accident the brain gets damaged, and when the creature is resurrected, it does not behave in a superior manner. In the course of events, Victor has chambermaid Justine killed by his creature. This is the sign for Paul Krempe to stop Victor's madness. He has to turn against his old student and friend.",
+         "Victor Frankenstein builds a creature and brings it to life. But his creature behaves not as he intended."
+      ],
+      "budget": 65000
+   },
+   "movielensId": 2652,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1957-05-02",
+      "dvdReleaseDate": "2002-10-01",
+      "directors": ["Terence Fisher"],
+      "runtime": 82,
+      "movieId": 2652,
+      "title": "The Curse of Frankenstein",
+      "mpaa": "",
+      "actors": [
+         "Peter Cushing",
+         "Hazel Court",
+         "Robert Urquhart",
+         "Christopher Lee",
+         "Melvyn Hayes",
+         "Valerie Gaunt",
+         "Paul Hardtmuth",
+         "Noel Hood",
+         "Fred Johnson",
+         "Claude Kingston",
+         "Alex Gallier",
+         "Michael Mulcaster",
+         "Andrew Leigh",
+         "Ann Blake",
+         "Sally Walsh",
+         "Middleton Woods",
+         "Raymond Ray"
+      ],
+      "imdbMovieId": "0050280",
+      "originalTitle": "The Curse of Frankenstein",
+      "genres": [
+         "Horror",
+         "Science Fiction"
+      ],
+      "youtubeTrailerIds": [
+         "qEz02uxCPOM",
+         "E3r7ON7bvqs"
+      ],
+      "plotSummary": "Baron Victor Frankenstein has discovered life's secret and unleashed a blood-curdling chain of events resulting from his creation: a cursed creature with a horrid face \u2014 and a tendency to kill.",
+      "tmdbMovieId": 3079,
+      "avgRating": 3.195,
+      "releaseYear": "1957",
+      "numRatings": 300,
+      "posterPath": "/f4dwXdeZFHzLKMNgKGe46RWsMmM.jpg"
+   }
+}

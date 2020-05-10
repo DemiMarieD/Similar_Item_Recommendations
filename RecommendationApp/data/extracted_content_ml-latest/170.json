@@ -1,0 +1,791 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "hacker",
+            "id": 2157
+         },
+         {
+            "name": "computer virus",
+            "id": 2812
+         },
+         {
+            "name": "virtual reality",
+            "id": 4563
+         },
+         {
+            "name": "computer",
+            "id": 6104
+         },
+         {
+            "name": "prank",
+            "id": 9864
+         },
+         {
+            "name": "internet",
+            "id": 11615
+         },
+         {
+            "name": "cyberpunk",
+            "id": 12190
+         },
+         {
+            "name": "teenager",
+            "id": 13130
+         },
+         {
+            "name": "new york city",
+            "id": 14512
+         },
+         {
+            "name": "secret service",
+            "id": 41249
+         },
+         {
+            "name": "computer hacker",
+            "id": 155555
+         },
+         {
+            "name": "dream sequence",
+            "id": 160840
+         }
+      ],
+      "imdb_id": "tt0113243",
+      "video": false,
+      "title": "Hackers",
+      "recommendations": [
+         9886,
+         9989,
+         1642,
+         2322,
+         11517,
+         2112,
+         8012,
+         10429,
+         2293,
+         10660,
+         8843,
+         860,
+         10414,
+         1090,
+         9415,
+         9292,
+         10003,
+         8873,
+         9268,
+         10169
+      ],
+      "backdrop_path": "/pxxJtHZB6peCwC1H5cbq25VXJ8b.jpg",
+      "revenue": 7563728,
+      "reviews": [{
+         "author": "DoryDarko",
+         "id": "58ac414e925141590e012eb6",
+         "content": "God, this movie is bad. And it's so much fun I can hardly stand it. Reasons why you should watch Hackers, in no particular order: \r\n\r\n- A steaming 20-something Angelina Jolie, \r\n- A bleach-blonde Jonny Lee Miller (hubba hubba),\r\n- An ever awesome Matthew Lillard, who cranked his Lillardness up to 11,\r\n- A duo of DJ/hackers named Razor and Blade (feel free to cry),\r\n- An awesome and totally cliché GenX soundtrack, \r\n- \"It's 1995 so we have to make an Eddie Vedder reference\" (and it's totally awesome),\r\n- Fisher Stevens who acts out his entire part as if he's on steroids, \r\n- Did I mention Angelina Jolie? \r\n\r\nDoes this movie have any basis in any realm of conceivable realism? Nope. Is this even what actual hacking looks like? Oh puh-lease! Is it everything you could wish for in an hour and a half of pleasurable suspension of disbelief? Absolutely. \r\nHackers is sexy and silly and every good kind of bad.\r\nI gave you my recommendation. If you don't like this movie then there's nothing I can do about it.\r\n_(February 2017)_",
+         "url": "https://www.themoviedb.org/review/58ac414e925141590e012eb6"
+      }],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 16,
+               "character": "Dade Murphy / 'Crash Override' / 'Zero Cool'",
+               "gender": 2,
+               "credit_id": "52fe436e9251416c750100d7",
+               "name": "Jonny Lee Miller",
+               "profile_path": "/70oZd4dPWNAibagHJvRU1Tf9e6h.jpg",
+               "id": 9012,
+               "order": 0
+            },
+            {
+               "cast_id": 17,
+               "character": "Kate Libby / 'Acid Burn'",
+               "gender": 1,
+               "credit_id": "52fe436e9251416c750100db",
+               "name": "Angelina Jolie",
+               "profile_path": "/6tocswK39SrSjZIRDaTpVyPxDz8.jpg",
+               "id": 11701,
+               "order": 1
+            },
+            {
+               "cast_id": 20,
+               "character": "Joey Pardella",
+               "gender": 2,
+               "credit_id": "52fe436e9251416c750100eb",
+               "name": "Jesse Bradford",
+               "profile_path": "/irD0iVNTmR0kEkVTZmKTuZejbGH.jpg",
+               "id": 17772,
+               "order": 2
+            },
+            {
+               "cast_id": 21,
+               "character": "Emmanuel Goldstein / 'Cereal Killer'",
+               "gender": 2,
+               "credit_id": "52fe436e9251416c750100ef",
+               "name": "Matthew Lillard",
+               "profile_path": "/gJsQkX20g0ABquHqVpBJzMXR2JF.jpg",
+               "id": 26457,
+               "order": 3
+            },
+            {
+               "cast_id": 22,
+               "character": "Ramon Sanchez / 'Phantom Phreak'",
+               "gender": 2,
+               "credit_id": "52fe436e9251416c750100f3",
+               "name": "Renoly Santiago",
+               "profile_path": "/pZb3RDVxDNJAOaBHwa078Z4FJiO.jpg",
+               "id": 28863,
+               "order": 4
+            },
+            {
+               "cast_id": 23,
+               "character": "Eugene Belford / 'The Plague' / Mr. Babbage",
+               "gender": 2,
+               "credit_id": "52fe436e9251416c750100f7",
+               "name": "Fisher Stevens",
+               "profile_path": "/TutpOyw0A6FF5hEoFDYseI2EVN.jpg",
+               "id": 26473,
+               "order": 5
+            },
+            {
+               "cast_id": 24,
+               "character": "Lauren Murphy",
+               "gender": 1,
+               "credit_id": "52fe436e9251416c750100fb",
+               "name": "Alberta Watson",
+               "profile_path": "/iy3Qgqap1U1GRqNzjoX2mFwdqD3.jpg",
+               "id": 19958,
+               "order": 6
+            },
+            {
+               "cast_id": 25,
+               "character": "Paul Cook / 'Lord Nikon'",
+               "gender": 2,
+               "credit_id": "52fe436e9251416c750100ff",
+               "name": "Laurence Mason",
+               "profile_path": "/lYWBLjfpeZS84FhwzrBWFMe3c3C.jpg",
+               "id": 65141,
+               "order": 7
+            },
+            {
+               "cast_id": 26,
+               "character": "Margo",
+               "gender": 0,
+               "credit_id": "52fe436e9251416c75010103",
+               "name": "Lorraine Bracco",
+               "profile_path": "/8khTSZIrHEMbBiH6HSAOzOnnbmB.jpg",
+               "id": 11478,
+               "order": 8
+            },
+            {
+               "cast_id": 27,
+               "character": "S.S. Agent Richard Gill",
+               "gender": 2,
+               "credit_id": "52fe436e9251416c75010107",
+               "name": "Wendell Pierce",
+               "profile_path": "/uOsldo9Pkl0E79UbIXX5tZZmC8F.jpg",
+               "id": 17859,
+               "order": 9
+            },
+            {
+               "cast_id": 28,
+               "character": "S.S. Agent Bob",
+               "gender": 2,
+               "credit_id": "52fe436e9251416c7501010b",
+               "name": "Michael Gaston",
+               "profile_path": "/tAmpD16aVzWbs8evbCFaed9perN.jpg",
+               "id": 33241,
+               "order": 10
+            },
+            {
+               "cast_id": 29,
+               "character": "S.S. Agent Ray",
+               "gender": 2,
+               "credit_id": "52fe436e9251416c7501010f",
+               "name": "Marc Anthony",
+               "profile_path": "/b6E5BCQkOXlxT1E4nHRyOpehuYU.jpg",
+               "id": 47775,
+               "order": 11
+            },
+            {
+               "cast_id": 30,
+               "character": "Hal",
+               "gender": 2,
+               "credit_id": "52fe436e9251416c75010113",
+               "name": "Penn Jillette",
+               "profile_path": "/zmAaXUdx12NRsssgHbk1T31j2x9.jpg",
+               "id": 37221,
+               "order": 12
+            },
+            {
+               "cast_id": 31,
+               "character": "Blade",
+               "gender": 2,
+               "credit_id": "52fe436e9251416c75010117",
+               "name": "Peter Y. Kim",
+               "profile_path": "/3E923psf5uA65CuZ950wm1AIvv0.jpg",
+               "id": 65143,
+               "order": 13
+            },
+            {
+               "cast_id": 32,
+               "character": "Razor",
+               "gender": 2,
+               "credit_id": "52fe436e9251416c7501011b",
+               "name": "Darren Lee",
+               "profile_path": "/gl2V5VUrtSNjCRu9cXnBMbe9GjI.jpg",
+               "id": 65142,
+               "order": 14
+            },
+            {
+               "cast_id": 36,
+               "character": "Laura",
+               "gender": 0,
+               "credit_id": "52fe436e9251416c7501012b",
+               "name": "Liza Walker",
+               "profile_path": "/wpXe8frHJpXsEB1Flivc3cNeM7F.jpg",
+               "id": 65145,
+               "order": 15
+            },
+            {
+               "cast_id": 34,
+               "character": "Duke Ellingson",
+               "gender": 2,
+               "credit_id": "52fe436e9251416c75010123",
+               "name": "Bob Sessions",
+               "profile_path": "/48gzgQgYtLHl9TofYJI0DzzD4Bf.jpg",
+               "id": 65146,
+               "order": 16
+            },
+            {
+               "cast_id": 33,
+               "character": "Curtis",
+               "gender": 0,
+               "credit_id": "52fe436e9251416c7501011f",
+               "name": "Ethan Browne",
+               "profile_path": "/fbWPbYlBQjWtXGBYdZo8HKL2f1j.jpg",
+               "id": 65144,
+               "order": 17
+            },
+            {
+               "cast_id": 35,
+               "character": "S.S. Agent, Seattle",
+               "gender": 0,
+               "credit_id": "52fe436e9251416c75010127",
+               "name": "Blake Willett",
+               "profile_path": null,
+               "id": 65147,
+               "order": 18
+            },
+            {
+               "cast_id": 37,
+               "character": "Young Dade Murphy / 'Zero Cool'",
+               "gender": 2,
+               "credit_id": "52fe436e9251416c7501012f",
+               "name": "Max Ligosh",
+               "profile_path": "/oCE8F39RJGjiFJQyuO6g2t6gi0p.jpg",
+               "id": 65148,
+               "order": 19
+            },
+            {
+               "cast_id": 39,
+               "character": "2nd V.P.",
+               "gender": 2,
+               "credit_id": "56b1e4b49251414074002b1d",
+               "name": "Jeff Harding",
+               "profile_path": "/gsdPXYq79DOVCiukTOEQwloLRXk.jpg",
+               "id": 29071,
+               "order": 20
+            },
+            {
+               "cast_id": 40,
+               "character": "Attorney",
+               "gender": 1,
+               "credit_id": "56b1e4fe92514171f10017d4",
+               "name": "Felicity Huffman",
+               "profile_path": "/l1o0j6oWzdVX3gxxpumLNq3nK42.jpg",
+               "id": 7427,
+               "order": 21
+            },
+            {
+               "cast_id": 41,
+               "character": "Michael Murphy",
+               "gender": 2,
+               "credit_id": "57f614b49251413601004be5",
+               "name": "Paul Klementowicz",
+               "profile_path": "/tIeoVH2KHg7VzNNVaBWhbc37T8h.jpg",
+               "id": 171567,
+               "order": 22
+            },
+            {
+               "cast_id": 42,
+               "character": "Denise",
+               "gender": 2,
+               "credit_id": "57f614e59251413613004c71",
+               "name": "Denise George",
+               "profile_path": "/5OrwrlLIrFZcNyP4wdduDdxazt1.jpg",
+               "id": 134654,
+               "order": 23
+            },
+            {
+               "cast_id": 43,
+               "character": "Jock",
+               "gender": 0,
+               "credit_id": "57f6158bc3a3681625004a73",
+               "name": "William DeMeo",
+               "profile_path": "/azg75yqYcEz8LNJa70oyjnMho86.jpg",
+               "id": 204388,
+               "order": 24
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "52fe436e9251416c75010091",
+               "name": "Ralph Winter",
+               "profile_path": "/gNkcdQLpzV8C27bAc2vlLAiaeKx.jpg",
+               "id": 2095,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe436e9251416c75010097",
+               "name": "Iain Softley",
+               "profile_path": "/citetzG3VlJ402NcaWicUHffxfl.jpg",
+               "id": 1978,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe436e9251416c7501009d",
+               "name": "Iain Softley",
+               "profile_path": "/citetzG3VlJ402NcaWicUHffxfl.jpg",
+               "id": 1978,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe436e9251416c750100a3",
+               "name": "Andrzej Sekula",
+               "profile_path": null,
+               "id": 3115,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe436e9251416c750100a9",
+               "name": "Simon Boswell",
+               "profile_path": "/docJpHQG30F8wdMxKhQJpOuYkK0.jpg",
+               "id": 7741,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe436e9251416c750100af",
+               "name": "Martin Walsh",
+               "profile_path": "/eFdV5n5GV01fwNRzrJn299aFUsq.jpg",
+               "id": 9154,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe436e9251416c750100b5",
+               "name": "John Beard",
+               "profile_path": null,
+               "id": 23769,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe436e9251416c750100bb",
+               "name": "Dianne Crittenden",
+               "profile_path": null,
+               "id": 1221,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe436e9251416c750100c1",
+               "name": "Chris Blunden",
+               "profile_path": null,
+               "id": 16465,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe436e9251416c750100c7",
+               "name": "Joanne Woollard",
+               "profile_path": null,
+               "id": 23655,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe436e9251416c750100d3",
+               "name": "John Frankish",
+               "profile_path": null,
+               "id": 41848,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe436e9251416c750100e1",
+               "name": "Alyssa Winter",
+               "profile_path": null,
+               "id": 65139,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe436e9251416c750100e7",
+               "name": "Roger Burton",
+               "profile_path": null,
+               "id": 65140,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe436e9251416c75010135",
+               "name": "Michael Peyser",
+               "profile_path": null,
+               "id": 59949,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "58bc9062925141609e040a6f",
+               "name": "Janet Graham",
+               "profile_path": null,
+               "id": 65137,
+               "department": "Production",
+               "job": "Co-Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58bc904b925141607b042760",
+               "name": "Rafael Moreu",
+               "profile_path": null,
+               "id": 52517,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58bc907cc3a368668f038a26",
+               "name": "Selwyn Roberts",
+               "profile_path": "/k3pSPlBteIwx1UFjGil2T28yUbe.jpg",
+               "id": 10121,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58bc90a1c3a36866a503f107",
+               "name": "Jacob Peratrovich",
+               "profile_path": null,
+               "id": 1770677,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58bc90bb925141607b042791",
+               "name": "Guy Pratt",
+               "profile_path": null,
+               "id": 220903,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "594a5459925141456a00be66",
+               "name": "Peter Lindsay",
+               "profile_path": null,
+               "id": 1553743,
+               "department": "Sound",
+               "job": "Sound Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "594a588192514145af00cccc",
+               "name": "Paul Rabjohns",
+               "profile_path": null,
+               "id": 67695,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "594a589092514145bf00c937",
+               "name": "Bob Last",
+               "profile_path": null,
+               "id": 56994,
+               "department": "Sound",
+               "job": "Music Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "594a58c192514145bf00c961",
+               "name": "Glenn Freemantle",
+               "profile_path": null,
+               "id": 40810,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "594a58d1c3a36861b500c7c5",
+               "name": "Victor J. Hernandez",
+               "profile_path": null,
+               "id": 1561368,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "594a592292514145bf00c9aa",
+               "name": "John Hayward",
+               "profile_path": null,
+               "id": 40818,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "594a593b925141459b00c5b8",
+               "name": "Selwyn Roberts",
+               "profile_path": "/k3pSPlBteIwx1UFjGil2T28yUbe.jpg",
+               "id": 10121,
+               "department": "Production",
+               "job": "Unit Production Manager"
+            },
+            {
+               "gender": 2,
+               "credit_id": "594a594ac3a36861db00e04d",
+               "name": "Mark Tillie",
+               "profile_path": null,
+               "id": 1567673,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "594a596fc3a36861db00e075",
+               "name": "Diana Dill",
+               "profile_path": null,
+               "id": 1394104,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "594a5a0bc3a36861db00e101",
+               "name": "Peter Baldock",
+               "profile_path": null,
+               "id": 75098,
+               "department": "Sound",
+               "job": "Sound"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Crime",
+            "id": 80
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         }
+      ],
+      "popularity": 8.521773,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 10428,
+      "vote_count": 487,
+      "budget": 20000000,
+      "overview": "Along with his new friends, a teenager who was arrested by the US Secret Service and banned from using a computer for writing a computer virus discovers a plot by a nefarious hacker, but they must use their computer skills to find the evidence while being pursued by the Secret Service and the evil computer genius behind the virus.",
+      "similar": [
+         604,
+         605,
+         328387,
+         201088,
+         315837,
+         281,
+         241848,
+         1946,
+         133805,
+         9475,
+         85350,
+         2108,
+         8193,
+         315635,
+         272693,
+         8363,
+         10229,
+         603,
+         449176,
+         3597
+      ],
+      "original_title": "Hackers",
+      "runtime": 107,
+      "poster_path": "/hNjxJbejPHSmKVidHQ9ZHaC0Z7r.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Italiano",
+            "iso_639_1": "it"
+         },
+         {
+            "name": "日本語",
+            "iso_639_1": "ja"
+         },
+         {
+            "name": "Pусский",
+            "iso_639_1": "ru"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Suftley",
+            "id": 87394,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "United Artists",
+            "id": 60,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1995-09-14",
+      "vote_average": 6.2,
+      "belongs_to_collection": null,
+      "tagline": "There is no right or wrong, only fun and boring",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Iain Softley"],
+      "runtime": 107,
+      "synopsis": "In 1988, Dade \"Zero Cool\" Murphy (age 11) is arrested and charged with crashing 1,507 systems in one day and causing a single-day 7-point drop in the New York Stock Exchange. Upon conviction, he is banned from owning or operating computers or touch-tone telephones until his 18th birthday. Shortly before Dade (Jonny Lee Miller) turns 18, his mother (now divorced) takes a job in New York City. Upon turning 18, Dade calls a local television station, dupes the security guard into giving him the modem's phone number (a tactic known as social engineering) and successfully hacks into the station's computer network, changing the current TV program to an episode of The Outer Limits. However, Dade is \"attacked\" by a hacker (handle \"Acid Burn\") on the same network. During the conversation, Dade identifies himself by the new alias, Crash Override. Dade enrolls at Stanton High School, where he meets Kate Libby (Angelina Jolie), who is assigned to take him on a tour of the school. After Dade learns that Kate is \"Acid Burn\", a feud erupts between them. The real trouble begins when Joey Pardella (Jesse Bradford), the novice hacker of the group, successfully breaks into an Ellingson Mineral Company supercomputer to prove to the rest of the group that he is an elite hacker. To validate this feat, he downloads part of a garbage file. Unfortunately, the company's IT employee Hal (Penn Jillette) detects this unauthorized entry and summons computer security officer Eugene \"The Plague\" Belford (Fisher Stevens) to deal with the problem. He realizes the file being downloaded can prove that The Plague is stealing from the company via salami slicing. The Plague enlists the U.S. Secret Service to recover the file by claiming that it is the code to Da Vinci, a computer virus that will capsize the company's oil tanker fleet and he needs that code to destroy the virus. Joey is arrested and his computer is searched, but the Secret Service finds nothing, as Joey has hidden the disk containing the files. In response, Dade and Kate decide to settle their disagreements with a hacking duel, with hacks focused on harassing Secret Service Agent Richard Gill (Wendell Pierce), a known enemy of hackers, who was involved in Joey's arrest. Kate and Dade's hacker friendsRamon Sanchez a.k.a. \"The Phantom Phreak,\" Emmanuel Goldstein a.k.a. \"Cereal Killer\", and Paul Cook a.k.a. \"Lord Nikon\" (so named for his photographic memory) act as judges. After being released on parole, Joey reveals the disk to Phantom Phreak in a public park; but they quickly realize that they are being followed by the Secret Service. The next day, Phreak is arrested. He uses his phone call to inform Kate that he hid the disk in a boy's bathroom at school. That evening, Kate and Cereal Killer ask Dade for his help; but, because of his record, he declines. Kate then asks Dade to copy the disk so that, if anyone else is arrested, they have the disk as evidence. After determining that Dade is not the one who hacked into Ellingson, The Plague attempts to enlist Dade's help to find the one who did. First, he offers Dade a free high-powered laptop. Later, he threatens to have Dade's mother incarcerated with a manufactured criminal record. At this, Dade agrees to deliver Kate's copy of the disk. Meanwhile, Kate, Lord Nikon, and Cereal Killer attempt to discern the contents of the disk. Dade joins them; and, after working all night, they learn the truth. It's designed to salami-slice $25 million from Ellingson transactions. Dade reveals that he knows Plague is behind this scheme, because he was the one who wanted Kate's copy of the disk. He admits he gave Plague the disk and reveals his history as Zero Cool. Determined to stop the scheme, the assembled hackers plan to hack the Gibson again. Kate and Dade go dumpster-diving for employee memos with passwords; Cereal Killer installs a hidden microphone in the Ellingson offices; and Nikon poses as a delivery boy wandering the Ellingson cubicles, memorizing employee passwords as they enter them. From the memos, they discover the Da Vinci virus is set to capsize the fleet the next day, which would provide the perfect cover to distract from the salami-slicing worm. In need of help, they seek out Razor and Blade, the producers of a hacker-themed pirate TV show, \"Hack the Planet.\" The next morning, they evade the Secret Service and converge on Grand Central station, where they use payphones to begin their assault on the Gibson. At first, their attempts are easily rebuffed by Plague, who calls Dade to warn him to escape before he is arrested. However, Razor and Blade have contacted hackers around the world, who lend their support with virus attacks, distracting Plague long enough for Dade to download the incriminating file to a floppy disk. Shortly after crashing the Gibson, Dade and company are arrested. As they're being led away, Dade surreptitiously informs Cereal Killer, hiding in the crowd, that he's tossed the disk in a trashcan. As Dade and Kate are being interrogated, Razor and Blade jam the local television signals and broadcast live video of Cereal Killer, revealing the plot and Plague's complicity. Plague is arrested when he tries to flee to Japan under the alias \"Mr. Babbage\" (a reference to Charles Babbage). Their names cleared, Dade and Kate go on a date. Kate even wears a dress. While relaxing in a pool on the roof of a building, their friends show off their latest hack. The lights in several adjacent office buildings spell out \"CRASH AND BURN.\"",
+      "writers": ["Rafael Moreu"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0113243/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BODg0NjQ5ODQ3OF5BMl5BanBnXkFtZTcwNjU4MjkzNA@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Jonny Lee Miller, Angelina Jolie, Jesse Bradford | See full cast and crew »"],
+      "reviews": [
+         "Hackers is a non-stop cheeze-fest. It's also one of my favourite films of all time. Which is not to say it's a perfect ten, it isn't. But it's a great combination of good cheeze and pure fun. Suspend all disbelief, it's not about realism. And try not to nitpick (we all know graphics would not have been possible using Unix, we all know that those archaic modems couldn't run that fast, etc. etc. etc.) That aside, this film is really funny. It also laughs at itself on a regular basis...I mean just look at dade's wardrobe, and then remind yourself that you know half a dozen people who dressed like that in 94. I know a people who mirror just about every character in this film, which makes it even more enjoyable. The dialogue is often over the top, and some of the acting is overdone, but tis the nature of the beast. Jonny Lee Miller (who never ceases to amaze me) pulls off the American accent quite well (though he tends to slip on occasion) and Dade is certainly no Sickboy. But that's just an example of range (he did it again in Dracula 2000...and almost saved it). Matthew Lillard, though occasionally OVERLY annoying, is perfect as Cereal Killer; his best role ever, though Scream comes close. Renoly Santiago is a funny and loud Phantom Phreak, a role only second to his role in Con Air, and his lines are always great; and Laurence Mason as the ultra-cool Lord Nikon a very close tie with Tin-Tin in The Crow for coolness (and he's done some *cool* spots...Floyd D in True Romance (not to be confused with Brad Pitt's character 'Floyd';) and Roach in an awesome ep. of Law & Order...) his character is by far the coolest of the Elite. Lorraine Bracco in a *very* early role...and speaking of *early* - Early Edition's Fishe Stevens is amusing as the arrogant swine Eugene 'The Plague' Belford. And how can one not like a film with Penn Jillette in it??? But all that aside, Angelina Jolie stole the show (as she often does). Looking like a cyber-elf straight out of ShadowRun, she's sultry and sexy in a way most actresses these days can't manage. I can't think of any films I haven't liked her in...even if I didn't like the films themselves. She's simply awesome here, she even takes bad dialogue and turns it into fun, good lines. And *her* outfits are really nice, save for that horrid dress she was stuck in at the end. And she has a Massive Attack startup on her puter!! (with a 28.8 bps modem!! ;p~~~) Overall: sure it's unrealistic. Sure half of it's impossible. Sure it's overacted and the dialogue needs work. But the cast are all under-rated, and most of them went on to better roles, some to much fame. And the soundtracks are absolutely AMAZING!! I own them and listen regularly... This should probably rate a four or five, but I can't help but ignore all critics and pronounce myself as one of the large cult following of adorers of this film. For fun value, let alone the fact that it's entertaining as hell: 8/10.",
+         "First off I would just like to say that anyone who reads into this movie too much(ie try to take the validity of each and every aspect of the movie) will hate the film. Coming from a programmer and a computer enthusiast, the movie was great despite all the false statements, fake guis and totally bs methods of cracking. Quite frankly if you are one of my fellow computer geeks don't expect anything close to the real deal, it would never make a good movie for the public. I think that the true movie here is behind the whole \"hacking\" front. It is the development of characters the build up of a plot and an exciting climax and satisfying denouement. In closing, don't expect a command line prompt or a true UNIX client on any of the systems because it just doesn't happen in movies. Instead watch the movie because its exciting, fun and a great throwback to the early 90's.",
+         "The problem with any movie that focuses on technology, particularly computers, is that it will become dated nearly immediately. This isn't a new problem for filmmakers; great films of the past, from DESK SET to COLOSSUS: THE FORBIN PROJECT, from DEMON SEED to TRON and THE LAST STARFIGHTER have all featured 'cutting-edge' technology that seems quaint, by today's standards. Even 'Hal', from the timeless classic 2001:A SPACE ODYSSEY, is a huge monstrosity that could be miniaturized to a fraction of it's size, today. So when a film's whole theme involves computers, like THE NET, or HACKERS, you can't take the technology end too seriously, even if much of it is bogus, as is the case of Iain Softley's paean to teen-aged computer freaks. Hackers are, of course, not romantic, adventurous daredevils who are trying to right wrongs by attacking evil conglomerates via an expertise in computer programming; they are generally over-educated anarchists who create worms and viruses for the simple joy of seeing the disruption and destruction of EVERYONE'S computers, just to know that they can do it. Having said this, let me say that the true joy of HACKERS is seeing a group of young 'Stars in the Making', early in their careers. Of course the most recognizable and famous of these is Angelina Jolie, who looks butch and adorable with short hair, and 'an attitude', but the film also offers a dazzling performance by Matthew Lillard (Shaggy in the live-action SCOOBY-DOO), who has become one of the finest young comic actors around; gifted British actor Jonny Lee Miller, playing an American, here, who would go on to TRAINSPOTTING, DRACULA 2000, and the title role in the TV production of BYRON; Jesse Bradford, star of last year's CLOCKSTOPPERS; Laurence Mason (BEHIND ENEMY LINES, A.I.); and Renoly Santiago (CON AIR). Quite an impressive resume for a cast of 'unknowns' in 1995! Of course, the established actors of the film haven't done badly, either...While Fisher Stevens never became a 'major' star, after the build-up television and the SHORT CIRCUIT films gave him, he still remains active; and of course, Lorraine Bracco went on to THE SOPRANOS, as the Mafia's favorite 'shrink' (with the possible exception of Billy Crystal). So, if you skip over the dated attempt to be 'cutting edge', and just sit back and enjoy the performances, HACKERS is a fun movie that can be appreciated as a 'Preview of Coming Attractions' from a remarkable cast...",
+         "I happen to like this movie because it is just fun to watch. If I'm bored, I can easily become unbored by watching this movie. The soundtrack is awesome and it introduced me to electronic music. I never liked it until I saw \"Hackers\". I love the clothes and the visuals. I knew it wasn't accurate from the minute I saw it, but then again, it's not like it was posing itself as some movie that depicted the real life of cyberpunks. It's just fun little movie. Though some of the dialogue is a bit cheesed up, it is quotable. I especially enjoyed the performance by Matthew Lillard. It made me look forward to seeing him in \"Scream\" later on. He is so funny. I enjoyed Angelina Jolie, though this is hardly one of her best performances. The only person who really didn't belong in this movie was Lorraine Bracco. She just looked strange in her role. Other than that, this movie was a good movie and it shouldn't be bashed because it depicts people, technology, and life inaccurately. What movie ever does? I'm from Iowa and do you think movies depict Iowan's lives exactly the way they are? No. But I'm not out to fertilize the lawn with \"What's Eating Gilbert Grape?\".",
+         "This flick came out during my freshman year of high school, pretty much everyone who saw it that I knew had a blast watching it, and in fact saw it several times in the theater (one fellow saw it about 6 times i think). While the computer screens depicted aren't realistic so to speak (I'll get to that in a moment) it was exciting, and made computers exciting again, it also didn't hurt the fact that everyone I knew used Macs just like the Hackers in the movie, so as you can imagine, it inspired many of us to see if we had the potential to do similar things but ultimately gave up (popping in a few CD-ROM games was much more entertaining;;) ). Anyways, now I own the film on DVD and I believe I've come to a revelation regarding the computer screens shown in the film...what we see is not what is actually happening on the screen, what they're showing us is what the hackers are doing, as visualized in their mind, they picture the data on the screen in a way in their head where it comes together, and what we see is that picture in their head, if maybe only an enhanced picture...anyways, thought I'd share that. Oh, and isn't it funny to see computer geeks drooling over a laptop with a 28.8 modem?::)",
+         "It doesn't take a very good movie critic to see that the movie doesn't really have a really interesting plot with interesting characters. A group of teenagers doing things they really shouldn't, getting into trouble and saving themselves again. And in the mean time a sub-plot which involves a girl and a guy that hate each other in the beginning and fall in love with each other throughout the movie. Nonetheless, i still rated this movie very high. Why? because in my opinion it's still a great cult classic. It gives a very good image about how people thought about computers a few years ago when not everybody had one yet. The handlenames are mysterious (\"acid burn\" \"the plaque\") but would be ridiculous in this age. People are overjoyed when they get to see a 28.8 BPS modem (who needs T3 anyway? ;) PLUS they pretend as if you can see a program running like it's some sort of great graphic animation. Angelina Jolie and Jonny lee Miller (from trainspotting) are really great in this movie although you can see they're still pretty young and unexperienced. 9/10",
+         "I'm working in IT for over 10 years now, and let's be clear: Hackers is a movie, .. there's nothing real about the \"hacking\" going on in the movie. There's a few scenes that are horribly done (for today's standards) but all in all I loved the movie. The acting is OK, the soundtrack is great and it changes for the everlasting \"chliché\" of the IT Nerd. It's a movie that could surprise you, especially with the amount of bad movies being released nowadays. It's funny to see Johnny Lee Miller and Angelina Jolie at the beginning of their careers as well. If you're looking for light entertainment for one evening, ...",
+         "Ok, I've read lots of the reviews here. I'm a computer person by trade, and I'll agree that the effects, and even some of the terminology is WAY off. But that's not the point of this movie. It never claims to be a documentary, just a fun movie about good vs. bad, and good wining. It just happens to take place over the internet. I think that this movie has just gotten a bump rap, it's the perfect B movie for lazy Saturday nights...",
+         "Although not very accurate, it is an excellent film. On the other hand, I am a sucker for Angelina Jolie so that might be the reason why I loved it. I recommend catching this one when it is on or renting it. Well worth it.",
+         "Hackers is a horror flick for everybody, that knows at least a little bit about computers. Young people, bursting with sex appeal are living almost underground and preaching rebel computer philosophy... They are hacking with gigabit connection, so that the nice animations of a broken fire walls and virtual rooms with databases and folders can load on their screens for the sake of the public. They use a laptops to hack from the top of the buildings, from the roofs, from the subways - because the laptop is such a powerful tool (in movies hackers almost always use laptops) - this device is meant to display \"ACCESS GRANTED\"! And the fight between the automated machines that change movies in the TV station office? Give me a freaking break! I rate this movie 2 for some shocking stupidity and frightening inadequacy. P.S. If you don't know anything about the way internet and computers work - it's a nice teen crime/comedy - 4.5/10"
+      ],
+      "genres": [
+         "Comedy",
+         "Crime",
+         "Drama",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "United Artists",
+         "Suftley"
+      ],
+      "summaries": ["A young boy is arrested by the U.S. Secret Service for writing a computer virus and is banned from using a computer until his 18th birthday. Years later, he and his new-found friends discover a plot to unleash a dangerous computer virus, but they must use their computer skills to find the evidence while being pursued by the Secret Service and the evil computer genius behind the virus."],
+      "budget": 0
+   },
+   "movielensId": 170,
+   "movielens": {
+      "languages": [
+         "English",
+         "Italiano",
+         "日本語",
+         "Pусский"
+      ],
+      "releaseDate": "1995-09-14",
+      "dvdReleaseDate": "1998-08-25",
+      "directors": ["Iain Softley"],
+      "runtime": 107,
+      "movieId": 170,
+      "title": "Hackers",
+      "mpaa": "PG-13",
+      "actors": [
+         "Jonny Lee Miller",
+         "Angelina Jolie",
+         "Jesse Bradford",
+         "Matthew Lillard",
+         "Renoly Santiago",
+         "Fisher Stevens",
+         "Alberta Watson",
+         "Laurence Mason",
+         "Lorraine Bracco",
+         "Wendell Pierce",
+         "Michael Gaston",
+         "Marc Anthony",
+         "Penn Jillette",
+         "Peter Y. Kim",
+         "Darren Lee",
+         "Liza Walker",
+         "Bob Sessions",
+         "Ethan Browne",
+         "Blake Willett",
+         "Max Ligosh",
+         "Jeff Harding",
+         "Felicity Huffman",
+         "Paul Klementowicz",
+         "Denise George",
+         "William DeMeo"
+      ],
+      "imdbMovieId": "0113243",
+      "originalTitle": "Hackers",
+      "genres": [
+         "Action",
+         "Crime",
+         "Thriller",
+         "Drama"
+      ],
+      "youtubeTrailerIds": ["Ql1uLyuWra8"],
+      "plotSummary": "Along with his new friends, a teenager who was arrested by the US Secret Service and banned from using a computer for writing a computer virus discovers a plot by a nefarious hacker, but they must use their computer skills to find the evidence while being pursued by the Secret Service and the evil computer genius behind the virus.",
+      "tmdbMovieId": 10428,
+      "avgRating": 3.2194,
+      "releaseYear": "1995",
+      "numRatings": 9533,
+      "posterPath": "/hNjxJbejPHSmKVidHQ9ZHaC0Z7r.jpg"
+   }
+}

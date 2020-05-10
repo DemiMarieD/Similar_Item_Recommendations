@@ -1,0 +1,574 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "obsession",
+            "id": 1523
+         },
+         {
+            "name": "dream",
+            "id": 1566
+         },
+         {
+            "name": "kidnapping",
+            "id": 1930
+         },
+         {
+            "name": "suspense",
+            "id": 9937
+         },
+         {
+            "name": "unrequited love",
+            "id": 10048
+         },
+         {
+            "name": "doctor",
+            "id": 13005
+         },
+         {
+            "name": "car accident",
+            "id": 13063
+         },
+         {
+            "name": "obsessive love",
+            "id": 159278
+         },
+         {
+            "name": "woman director",
+            "id": 187056
+         },
+         {
+            "name": "captivity",
+            "id": 206219
+         }
+      ],
+      "imdb_id": "tt0106471",
+      "video": false,
+      "title": "Boxing Helena",
+      "recommendations": [
+         27274,
+         12724,
+         48463,
+         18902,
+         28940,
+         18966,
+         35669,
+         37091,
+         11229,
+         19205,
+         27723,
+         15745,
+         28156,
+         16231,
+         24274,
+         16129,
+         29449,
+         5333,
+         3072,
+         20712
+      ],
+      "backdrop_path": "/i1Anw5nvWqpp5AynA4fbeyiX0Dk.jpg",
+      "revenue": 1796389,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "Dr. Nick Cavanaugh",
+               "gender": 2,
+               "credit_id": "52fe476a9251416c750986b3",
+               "name": "Julian Sands",
+               "profile_path": "/hDb4UlbeTvvVK53Cmh7W0Ijo41h.jpg",
+               "id": 6104,
+               "order": 0
+            },
+            {
+               "cast_id": 3,
+               "character": "Helena",
+               "gender": 1,
+               "credit_id": "52fe476a9251416c750986b7",
+               "name": "Sherilyn Fenn",
+               "profile_path": "/1AKZocU6gfD1udBPUxYH6Vez8Ll.jpg",
+               "id": 6681,
+               "order": 1
+            },
+            {
+               "cast_id": 4,
+               "character": "Ray O'Malley",
+               "gender": 2,
+               "credit_id": "52fe476a9251416c750986bb",
+               "name": "Bill Paxton",
+               "profile_path": "/53Ln1wTC0OCLzBF4HNlwhMXYgOU.jpg",
+               "id": 2053,
+               "order": 2
+            },
+            {
+               "cast_id": 6,
+               "character": "Dr. Lawrence Augustine",
+               "gender": 2,
+               "credit_id": "52fe476a9251416c750986c3",
+               "name": "Art Garfunkel",
+               "profile_path": "/kGbVVEfv7e0O4SjXebP7NfUHXon.jpg",
+               "id": 64928,
+               "order": 3
+            },
+            {
+               "cast_id": 41,
+               "character": "Anne Garrett",
+               "gender": 1,
+               "credit_id": "58c9a069c3a3685cb4000446",
+               "name": "Betsy Clark",
+               "profile_path": null,
+               "id": 112748,
+               "order": 4
+            },
+            {
+               "cast_id": 5,
+               "character": "Dr. Alan Harrison",
+               "gender": 2,
+               "credit_id": "52fe476a9251416c750986bf",
+               "name": "Kurtwood Smith",
+               "profile_path": "/zDPAOOjHYKqePDIVSnRhBt4px24.jpg",
+               "id": 2115,
+               "order": 5
+            },
+            {
+               "cast_id": 8,
+               "character": "Fantasy Lover / Nurse",
+               "gender": 0,
+               "credit_id": "52fe476a9251416c750986cb",
+               "name": "Nicolette Scorsese",
+               "profile_path": null,
+               "id": 106731,
+               "order": 6
+            },
+            {
+               "cast_id": 9,
+               "character": "Marion Cavanaugh",
+               "gender": 0,
+               "credit_id": "52fe476a9251416c750986cf",
+               "name": "Meg Register",
+               "profile_path": null,
+               "id": 102168,
+               "order": 7
+            },
+            {
+               "cast_id": 10,
+               "character": "Russell",
+               "gender": 0,
+               "credit_id": "52fe476a9251416c750986d3",
+               "name": "Bryan Smith",
+               "profile_path": null,
+               "id": 386979,
+               "order": 8
+            },
+            {
+               "cast_id": 11,
+               "character": "Patricia",
+               "gender": 0,
+               "credit_id": "52fe476a9251416c750986d7",
+               "name": "Marla Levine",
+               "profile_path": null,
+               "id": 569897,
+               "order": 9
+            },
+            {
+               "cast_id": 12,
+               "character": "Nurse Diane",
+               "gender": 0,
+               "credit_id": "52fe476a9251416c750986db",
+               "name": "Kim Lentz",
+               "profile_path": null,
+               "id": 152767,
+               "order": 10
+            },
+            {
+               "cast_id": 13,
+               "character": "Sam the Clerk",
+               "gender": 0,
+               "credit_id": "52fe476a9251416c750986df",
+               "name": "Lloyd T. Williams",
+               "profile_path": null,
+               "id": 4046,
+               "order": 11
+            },
+            {
+               "cast_id": 14,
+               "character": "Pastor",
+               "gender": 0,
+               "credit_id": "52fe476a9251416c750986e3",
+               "name": "Carl Mazzocone Sr.",
+               "profile_path": null,
+               "id": 139623,
+               "order": 12
+            },
+            {
+               "cast_id": 15,
+               "character": "Uncle Charlie",
+               "gender": 0,
+               "credit_id": "52fe476a9251416c750986e7",
+               "name": "Erik Shoaff",
+               "profile_path": null,
+               "id": 569898,
+               "order": 13
+            },
+            {
+               "cast_id": 16,
+               "character": "Flower Shop Girl",
+               "gender": 0,
+               "credit_id": "52fe476a9251416c750986eb",
+               "name": "Lisa Oz",
+               "profile_path": null,
+               "id": 569899,
+               "order": 14
+            },
+            {
+               "cast_id": 17,
+               "character": "Mailman",
+               "gender": 2,
+               "credit_id": "52fe476a9251416c750986ef",
+               "name": "Ted Manson",
+               "profile_path": "/j6UHiza8n9KquVKkmUBogvg4Zbe.jpg",
+               "id": 86812,
+               "order": 15
+            },
+            {
+               "cast_id": 18,
+               "character": "Flashback Party Woman #1",
+               "gender": 0,
+               "credit_id": "52fe476a9251416c750986f3",
+               "name": "Adele K. Schaeffer",
+               "profile_path": null,
+               "id": 569900,
+               "order": 16
+            },
+            {
+               "cast_id": 19,
+               "character": "Flashback Party Woman #2",
+               "gender": 0,
+               "credit_id": "52fe476a9251416c750986f7",
+               "name": "Amy Levin",
+               "profile_path": null,
+               "id": 205401,
+               "order": 17
+            },
+            {
+               "cast_id": 20,
+               "character": "Young Nick Cavanaugh",
+               "gender": 2,
+               "credit_id": "52fe476a9251416c750986fb",
+               "name": "Matt Berry",
+               "profile_path": null,
+               "id": 164934,
+               "order": 18
+            },
+            {
+               "cast_id": 21,
+               "character": "Laura (uncredited)",
+               "gender": 0,
+               "credit_id": "52fe476a9251416c750986ff",
+               "name": "D. Taylor Loeb",
+               "profile_path": null,
+               "id": 569901,
+               "order": 19
+            }
+         ],
+         "crew": [
+            {
+               "gender": 1,
+               "credit_id": "52fe476a9251416c750986af",
+               "name": "Jennifer Chambers Lynch",
+               "profile_path": null,
+               "id": 14800,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe476a9251416c75098705",
+               "name": "Philippe Caland",
+               "profile_path": null,
+               "id": 112746,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe476a9251416c7509870b",
+               "name": "Jennifer Chambers Lynch",
+               "profile_path": null,
+               "id": 14800,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe476a9251416c75098717",
+               "name": "Philippe Caland",
+               "profile_path": null,
+               "id": 112746,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe476a9251416c7509871d",
+               "name": "Carl Mazzocone",
+               "profile_path": "/i2A42btpJpx5wmYo6NirqE7yBRA.jpg",
+               "id": 364835,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe476a9251416c75098723",
+               "name": "James R. Schaeffer",
+               "profile_path": null,
+               "id": 569902,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe476a9251416c7509872f",
+               "name": "Larry Sugar",
+               "profile_path": null,
+               "id": 182908,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe476a9251416c75098735",
+               "name": "Graeme Revell",
+               "profile_path": "/g2Nhv2OCV8ygLYxkeDbhlqnrv7Z.jpg",
+               "id": 5912,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe476a9251416c7509873b",
+               "name": "Frank Byers",
+               "profile_path": null,
+               "id": 15804,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe476a9251416c75098741",
+               "name": "Bojan Bazelli",
+               "profile_path": "/2UcvIkDpDeKLUwickH8zZuBCFY4.jpg",
+               "id": 11699,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "568137419251412e5200e901",
+               "name": "David Finfer",
+               "profile_path": null,
+               "id": 18387,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5681374d9251414ecb001ee9",
+               "name": "Ferne Cassel",
+               "profile_path": null,
+               "id": 2045,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "568137179251417ddd0107dc",
+               "name": "Brigitte Caland",
+               "profile_path": null,
+               "id": 112747,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5681372ac3a36860e9010103",
+               "name": "Laurel Ayn Selko",
+               "profile_path": null,
+               "id": 569903,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56813759c3a3684bcc0114b1",
+               "name": "Paul Huggins",
+               "profile_path": null,
+               "id": 1554802,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56813772c3a36860e9010121",
+               "name": "Sharon Braunstein",
+               "profile_path": null,
+               "id": 1554803,
+               "department": "Art",
+               "job": "Set Decoration"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Romance",
+            "id": 10749
+         }
+      ],
+      "popularity": 5.522297,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 18215,
+      "vote_count": 77,
+      "budget": 0,
+      "overview": "A top surgeon is besotted with a beautiful woman who once ditched him. Unable to come to terms with life without her, he tries to convince her that they need each other. She has other ideas, but an horrific accident leaves her at his mercy. The plot is bizarre and perhaps sick at times, ending abruptly and with a twist.",
+      "similar": [
+         1903,
+         949,
+         281,
+         1939,
+         8834,
+         28902,
+         2142,
+         2163,
+         3134,
+         274,
+         336843,
+         44925,
+         1523,
+         275,
+         12162,
+         1427,
+         793,
+         4771,
+         44214,
+         244267
+      ],
+      "original_title": "Boxing Helena",
+      "runtime": 107,
+      "poster_path": "/eEiCGxRMhU1pAZj03GmnjtVGEiR.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": null,
+         "name": "Mainline Pictures",
+         "id": 70969,
+         "origin_country": ""
+      }],
+      "release_date": "1993-06-18",
+      "vote_average": 4.7,
+      "belongs_to_collection": null,
+      "tagline": "Beyond love, beyond obsession, there hides something beyond reason.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Jennifer Chambers Lynch"],
+      "runtime": 107,
+      "synopsis": null,
+      "writers": [
+         "Philippe Caland",
+         "Jennifer Chambers Lynch"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0106471/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTUzNjAzNjEzNV5BMl5BanBnXkFtZTYwMzg0OTg4._V1_SY317_CR2,0,214,317_AL_.jpg",
+      "actors": ["Stars: Julian Sands, Sherilyn Fenn, Bill Paxton | See full cast and crew »"],
+      "reviews": [
+         "Spoilers Julian Sands plays a contemptible wuss who furtively lusts after an impossible jerk of a woman. One day a happy accident knocks her out and the Sand's character gets to chop off her legs and keep her imprisoned in his mansion. Then there is a long long stretch of undrama as Sand's finishes boxing Helena - cuts her off the from the world and gradually snips away at her body till she is just a trunk and a head to be propped up and tended to. Then Helena's crazy boyfriend storms the gates and doesn't want her. Just writing that down I can't help thinking that it's a funny idea. Maybe I'm warped, but the concept of an old-fashioned guy slowly giving in to his urge to objectify a woman he can never have (so that he actually turns her into something like a gory, statue bust of herself) seems like it'd be hilarious to watch. It's masterfully done in Bunuel's That Obscure Object of Desire. Boxing Helena tries to hit the same notes about how the will to control, destroy, degrade, and infantalize are all the logical extremes of some notions of `love.' It fails because the characters are poorly written. The plot demands that the characters be unlikable. Chopping up a likeable `heroine' to make a point about obsessive control just doesn't work outside of a light slasher flick. The guy doing the chopping can't be all that saintly either, cuz he's giving into some pretty awful urges. But in order for the plot to work, you have to at least see why the Helena character might spark an obsession and the chopper must be at least slightly sympathetic. Otherwise it's just an obsessed crazy guy chopping up a jerk. Boxing Helena is an obsessed crazy guy chopping up a jerk. The Sands character is loathsomely spineless. He's a creepy, simpering bore. Helena is a demented moron who wants to use people, but is too stupid to get more out of her looks than a thuggish oaf boyfriend. Watching them interact was torture. Ending on a `it was just a dream' note is just plain baffling. It implies that Sand's character is a whining, sniveling waste even IN HIS DREAMS! There's black humor and then there's `I just wasted two hours of your time watching a worthless character wish for something pathetic, badly.' Final note: the symbolism was about as subtle as a brick in the head - over and over.",
+         "This is a bizarre film experience. It's well stated that this is directed by David Lynch's daughter so we should expect something different. I did..just not THIS different. The concept of a man having such an obsession with a woman that he would go to the extremes of kidnapping her and cutting off her limbs so she can't leave is kinda not for most tastes. Yet I have an odd fascination with it. It's just so weird to describe. The idea is just sick,but the film has you wondering what other lengths Julien Sands might stoop to. Obviously,Sherilyn Fenn's character is not gonna elicit much sympathy with such a strikingly bitchy personality..but really no one deserves what she got. Bill Paxton also has a peculiar role in this film as the only hope for saving Fenn. There's a bizarre scene where Sands makes Fenn watch him making love to another woman. This film is just too wildly bizarre for most people..I'm not exactly the best to trust in so you must see for yourself.. **/*****",
+         "I vaguely recall some controversy in 1993 when \"Boxing Helena\" was released, didn't see it then, but always had in the back of my mind to rent the video some day. After seeing Sherilyn Fenn in \"Just Write\" recently, it re-kindled my interest in \"Helena.\" This movie was written and directed by David Lynch's daughter, only 24, so considering all that, I suppose it isn't such a bad film. But not real good either, just interesting. some SPOILERS - Fenn plays a beautiful \"bad girl\" bitch, and a young surgeon with whom she had a brief affair is obsessed with her. She doesn't want anything more to do with him, but his attraction is so obsessive he won't take \"no\" for an answer. He even climbs a tree at her house and watches her with her lover, played by Bill Paxton before he became a star two years later in \"Apollo 13\". Lured to her house to retrieve her address book left there at a party, she is running away and gets hit by a pickup. The rest of the film we see his obsession carried out, imprisoning her, amputating first her damaged legs, then her arms, all the while obsessing over her while he quit his job at the hospital. However, as we find out at the very end, everything after the truck hit her was a dream of his. He had actually called an ambulance, she had undergone surgery, he had been sleeping down the hall, he hears a voice, \"Doctor, are you back with us.\" We learn nothing more about what happens to him or to her. All of which makes the film kind of fall flat like a punctured souffle'. When you then think back on what you saw, and realize it was all a dream arising from his obsession with her, you think, \"So what?\" I didn't expect \"Boxing Helena\" to be a very good movie, still, I was expecting something more. It is noteworthy that this first movie of Lynch's daughter is, thus far, also her last.",
+         "Serendipity allowed me to just see 'Boxing Helena' for the first time tonight, ten years after its release. I found it amongst my wife's old tapes; she said that it was stupid and suggested that I record over it. That was enough to prompt a viewing first. I just wanted those few of you writing positive reviews to know that you are not the only ones who... liked it? Enjoyed it? Found it interesting? None of these phrases seems to capture my appreciation for the film. The overwhelming numbers of negative reviews do not intimidate me. I'm not afraid to be the only one who likes something: While I was listening to the likes of Television, The Ramones and Iggy Pop back in the day, everybody else my age was into metal, disco or 'classic rock.' I was so out of touch! - Madonna and Kim Basinger saw the script and bailed. Kim even sacrificed $8M and crippled her career rather than appear in such a turkey. - Director Jennifer Lynch was doing a poor imitation of her father, the great David. - The imagery was sledgehammer obvious, 'Hmm...I wonder if Little Boy will grow up resenting his parents?' - The ending sucked. I don't know why Kim and Madonna bailed and I don't care. [James Caan bailed on several successful movies including Kramer vs. Kramer.] Attractive as they are, they could only wish to be able to do what Sherilyn Fenn did with the part. The combination of fierce independence, courage, bluntness and irresistibility of Helena was Fenn's alone to depict. 'Boxing Helena' is certainly not for everyone. I think that anyone who suspects that a friend is going off of the deep end over a romance should arrange a viewing. My take is that the plot line portrays an obsession taken to its logical conclusion. The childhood flashbacks, the piteous groveling by the perpetrator and the mercilessly accurate assessments by the captive demonstrate the true nature of obsession: It has very little to do with love or even the desire's object. It is about an unhealthy perspective of self and world. I don't give a damn about whether a film is 'derivative' or 'predictable;' is it watchable? Sex or good food is predictable too, what's your point? I don't know if Jennifer Lynch was imitating her father. I think that those who compared the two were prejudicing themselves. Some of you liked most of the film except the ending, but I did. I think that having lived an obsession in the safety of a dream, Nick got a second chance to 'wake-up' and back away. Otherwise it would have been just an elaborate slasher flick, which is all some shallow reviewers got out of it. Most movies could have been done better. This one gets the point across nicely. I think that some of the people who hated it found that the premise hit too close to home. Those who can't do, teach. Those who can't do either criticize.",
+         "Like all Lynch films (and daughter follows father's technique totally) this one requires multiples viewings (at least two). Surprisingly, none of the commentators seem to have gotten the gist of it, although this is not too difficult to grasp, given that the symbolism, while occasionally complex, is not that obscure. A couple of brief tips should help. Venus= Marion (for the obtuse this is only apparent at the very end), and Helena= Venus. The three scenes in which Marion appears (two of them nude or semi-nude) are a give away, as is Helena's reference to Nick as a \"little boy\" (confirmed by his behavior). The only \"mystery\" in this absorbing study of incestuous obsession is whether Nick and Marion actually did the deed. And the answer comes in the latter part of the \"dream\" (when \"Helena\" teaches Nick, on whom she have finally taken pity, how a woman ought to be properly loved). Nick's real life love interests are a disarticulation of Marion, with Anne representing her loving side (and very similar in physical appearance) while Helena (wonderfully played by Sherilyn Fenn) is the bitchy slutty yet ultimately redeeming side. The storyline recounts how Nick \"copes\" with the loss of Marion after her death (not very well), but there is no resolution of the problem. Once you've gotten the basics though, it's fascinating to see how elegantly and delicately this psycho-deviation is treated. Nothing is superfluous, and everything fits. Even the \"dream\", which is part fantasy, part reality, part prophecy. The film is not a masterpiece, but it is very well done. See it again with the correct perspective.",
+         "Poorly-made, scrappy and off-putting erotic drama executed without the courage of its own idea. Lurid story concerns an obsessed surgeon's relationship with an indifferent vixen. Amusing in parts, the film occasionally goes out on the proverbial limb, but it's also messy and unfocused. Perhaps the behind-the-scenes troubles with original star Kim Basinger got in director Jennifer Lynch's way. In any event, Lynch hasn't been given the chance to purge this demon from her resume...one look at it and you'll know why. It's a curious mix of sex, fantasy and horror, but so perplexing and muddled, the provocative angle of the whole scenario gets lost. *1/2 from ****",
+         "This film takes a screenplay that pushes the boundaries of the status quo and lets it run wild. Surrealistic, erotic, and darkly disturbing this film goes places most people won't admit they've been. For those few that are comfortable with who they are it presents an entertaining journey thru the extreme reaches of human eroticism. Suspense driven it takes the rider thru dreams and reality never quite allowing you to tell which is which until the very end. If you only enjoy movies with well defined good and evil you might find this an uncomfortable journey but for the adventurous soul rest assured, it is a journey worth taking.",
+         "After first viewing this film, I was more than a little disappointed. Then the deep and profound nature of the film began to sink in more deeply. Whatever was really meant by the film's makers, I took it to be a great statement of the frustration men and women feel toward relations in today's society. The depth of feeling, as well as the \"on the edge of your seat\" scenes really are great. Maybe \"being male\" I am already emotionally retarded, so the absorption time for the movie's really great statements were meant to be. Either way, this movie is definitely worth every thinking person's time.",
+         "''such a nice fantasy'' ????? To me the whole point of this film was to wrap you up in what is an extremely sick and obsessive male fantasy, make you almost believe it is OK, and then at the end you look at what you have accepted and realise it for what it is. Boxing Helena is not comfortable watching, but I think a brilliant and involved portrayal of how people(men generally) justify and accept the most controlling acts and confuse them with love.",
+         "One of the most intriguing concepts imaginable is brutally mangled by Jennifer Chambers Lynch's highly incompetent and infuriatingly redundant direction and appalling writing, which (combined with Greame Revell's score) makes \u0091Boxing Helena' seem like a particularly ham-fisted episode of \u0091The Red Shoe Diaries'. Doctor Nick Cavanaugh lacks any kind of character definition or motivation and the titular Helena is portrayed an insufferable hag, incapable of inducing even the slightest bit of empathy in the viewer. In fact, my apathy was almost palpable all through the maddeningly predictable plot, a feeling confirmed by the even more maddening cop-out ending. I love David Lynch to death, but the spawn of his loins apparently didn't inherit a smidgen of his talent."
+      ],
+      "genres": [
+         "Drama",
+         "Mystery",
+         "Romance",
+         "Thriller"
+      ],
+      "productionCompanies": ["Mainline Pictures"],
+      "summaries": [
+         "A top surgeon is besotted with a beautiful woman who once ditched him. Unable to come to terms with life without her, he tries to convince her that they need each other. She has other ideas, but an horrific accident leaves her at his mercy. The plot is bizarre and perhaps sick at times, ending abruptly and with a twist.",
+         "Doctor Nick Cavanaugh is a successful surgeon, who lives with his colleague Anne Garret. She intends to get married with him. Nick is obsessed by the tramp Helena, with whom he had some kind of shallow relationship in the past. Nick tries to get close to Helena again and one day, he convinces her to go to his home, to get her address book back. Helena discusses with Nick, and is hit by a car in front of Nick's mansion. When Helena wakes up, she is without both legs and abducted by Nick. Nick is taking care of her at his home. She tries to escape, and like a Venus of Milo, Nick removes her two arms, and keeps her hold to a wheelchair. A surprising end finishes the story.",
+         "Doctor Nicholas \"Nick\" Cavanaugh is a successful surgeon, who lives with his colleague Anne Garret. She intends to get married with him, but Nick is obsessed by the tramp Helena, with whom he had some kind of shallow relationship in the past. Nick tries to get close to Helena again and one day, he convinces her to go to his home, to get her address book back. Helena discusses with Nick, and is hit by a car in front of Nick's mansion. When Helena wakes up, she is without both legs and abducted by Nick. Nick is taking care of her at his home. She tries to escape, and like a Venus of Milo, Nick removes her two arms, and keeps her hold to a wheelchair. A surprising end finishes the story.",
+         "A surgeon becomes obsessed with the seductive woman he once had an affair with. Refusing to accept that she has moved on, he amputates her limbs and holds her captive in his mansion."
+      ],
+      "budget": 0
+   },
+   "movielensId": 427,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1993-06-18",
+      "dvdReleaseDate": "2001-04-10",
+      "directors": ["Jennifer Chambers Lynch"],
+      "runtime": 107,
+      "movieId": 427,
+      "title": "Boxing Helena",
+      "mpaa": "R",
+      "actors": [
+         "Julian Sands",
+         "Sherilyn Fenn",
+         "Bill Paxton",
+         "Art Garfunkel",
+         "Betsy Clark",
+         "Kurtwood Smith",
+         "Nicolette Scorsese",
+         "Meg Register",
+         "Bryan Smith",
+         "Marla Levine",
+         "Kim Lentz",
+         "Lloyd T. Williams",
+         "Carl Mazzocone Sr.",
+         "Erik Shoaff",
+         "Lisa Oz",
+         "Ted Manson",
+         "Adele K. Schaeffer",
+         "Amy Levin",
+         "Matt Berry",
+         "D. Taylor Loeb"
+      ],
+      "imdbMovieId": "0106471",
+      "originalTitle": "Boxing Helena",
+      "genres": [
+         "Drama",
+         "Romance"
+      ],
+      "youtubeTrailerIds": ["QgsUUFYLSoQ"],
+      "plotSummary": "A top surgeon is besotted with a beautiful woman who once ditched him. Unable to come to terms with life without her, he tries to convince her that they need each other. She has other ideas, but an horrific accident leaves her at his mercy. The plot is bizarre and perhaps sick at times, ending abruptly and with a twist.",
+      "tmdbMovieId": 18215,
+      "avgRating": 2.54006,
+      "releaseYear": "1993",
+      "numRatings": 3520,
+      "posterPath": "/eEiCGxRMhU1pAZj03GmnjtVGEiR.jpg"
+   }
+}

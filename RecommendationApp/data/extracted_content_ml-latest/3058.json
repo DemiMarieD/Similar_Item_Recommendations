@@ -1,0 +1,525 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "gorilla",
+            "id": 690
+         },
+         {
+            "name": "mad scientist",
+            "id": 10125
+         }
+      ],
+      "imdb_id": "tt0032215",
+      "video": false,
+      "title": "The Ape",
+      "recommendations": [
+         85682,
+         22741,
+         38260,
+         44586,
+         44693,
+         112481,
+         95560,
+         41030,
+         27304,
+         29121,
+         22699,
+         3030,
+         113337,
+         87110,
+         37464,
+         57090,
+         119169,
+         35663,
+         38494,
+         23293
+      ],
+      "backdrop_path": "/i8fELZjTLpe7dF3VwxAL4du7nVw.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Dr. Bernard Adrian",
+               "gender": 2,
+               "credit_id": "52fe46479251416c9104f47b",
+               "name": "Boris Karloff",
+               "profile_path": "/3kY1eEgGFAoVyy8MjNolCS5wouj.jpg",
+               "id": 2922,
+               "order": 0
+            },
+            {
+               "cast_id": 13,
+               "character": "Frances Clifford",
+               "gender": 1,
+               "credit_id": "52fe46479251416c9104f4a9",
+               "name": "Maris Wrixon",
+               "profile_path": "/sTe7hFdUT5jDND6XsRfaEV6c4Hh.jpg",
+               "id": 117636,
+               "order": 1
+            },
+            {
+               "cast_id": 14,
+               "character": "Danny Foster",
+               "gender": 0,
+               "credit_id": "52fe46479251416c9104f4ad",
+               "name": "Gene O'Donnell",
+               "profile_path": "/gy6mgubQHPSB96KnLxw28LpxFmk.jpg",
+               "id": 117637,
+               "order": 2
+            },
+            {
+               "cast_id": 15,
+               "character": "Mother Clifford",
+               "gender": 0,
+               "credit_id": "52fe46479251416c9104f4b1",
+               "name": "Dorothy Vaughan",
+               "profile_path": "/z1XLshtJvFXddiPPg8LDxWpqwzv.jpg",
+               "id": 117638,
+               "order": 3
+            },
+            {
+               "cast_id": 17,
+               "character": "Sheriff Jeff Halliday",
+               "gender": 2,
+               "credit_id": "52fe46479251416c9104f4b5",
+               "name": "Henry Hall",
+               "profile_path": "/33PT2gRSHVComiySnGkamJlyJIO.jpg",
+               "id": 100806,
+               "order": 5
+            },
+            {
+               "cast_id": 18,
+               "character": "Dr. McNulty",
+               "gender": 2,
+               "credit_id": "52fe46479251416c9104f4b9",
+               "name": "Selmer Jackson",
+               "profile_path": "/uOXVCzDMWcCmzRAbJ8M23Axqg9I.jpg",
+               "id": 105810,
+               "order": 6
+            },
+            {
+               "cast_id": 22,
+               "character": "Jane the Housekeeper",
+               "gender": 1,
+               "credit_id": "52fe46479251416c9104f4cf",
+               "name": "Gertrude Hoffmann",
+               "profile_path": null,
+               "id": 114288,
+               "order": 7
+            },
+            {
+               "cast_id": 24,
+               "character": "Mrs. Brill",
+               "gender": 1,
+               "credit_id": "57c5fa86925141214a0002bc",
+               "name": "Jessie Arnold",
+               "profile_path": null,
+               "id": 1075381,
+               "order": 8
+            },
+            {
+               "cast_id": 25,
+               "character": "Short Mustached Posse Man",
+               "gender": 2,
+               "credit_id": "57c5fa9692514121390002bd",
+               "name": "Billy Bletcher",
+               "profile_path": "/wVMoPHj7zTswZJx96VqY1yWgN8j.jpg",
+               "id": 31771,
+               "order": 9
+            },
+            {
+               "cast_id": 26,
+               "character": "Quinn",
+               "gender": 2,
+               "credit_id": "57c5faa992514121440002e4",
+               "name": "Harry C. Bradley",
+               "profile_path": null,
+               "id": 948509,
+               "order": 10
+            },
+            {
+               "cast_id": 27,
+               "character": "Mr. Howley",
+               "gender": 2,
+               "credit_id": "57c5fabbc3a36820720002f2",
+               "name": "George Cleveland",
+               "profile_path": "/pbfP5mephNymAfn3uqADdMTqny5.jpg",
+               "id": 32218,
+               "order": 11
+            },
+            {
+               "cast_id": 28,
+               "character": "Nabu",
+               "gender": 2,
+               "credit_id": "57c5fad5c3a3682072000301",
+               "name": "Ray Corrigan",
+               "profile_path": "/4HJwcqciDJPIy2OgOORGK0nQemE.jpg",
+               "id": 52178,
+               "order": 12
+            },
+            {
+               "cast_id": 29,
+               "character": "Young Girl",
+               "gender": 0,
+               "credit_id": "57c5fae6c3a36820630002f0",
+               "name": "Pauline Drake",
+               "profile_path": null,
+               "id": 1217400,
+               "order": 13
+            },
+            {
+               "cast_id": 30,
+               "character": "Mrs. Mason",
+               "gender": 0,
+               "credit_id": "57c5fafac3a36820630002f4",
+               "name": "Mary Field",
+               "profile_path": "/fUuUy1lk7aOlMuw9EvHG4UiUSRw.jpg",
+               "id": 115366,
+               "order": 14
+            },
+            {
+               "cast_id": 31,
+               "character": "Posse Member",
+               "gender": 2,
+               "credit_id": "57c5fb0bc3a36820660002d5",
+               "name": "Gibson Gowland",
+               "profile_path": "/1qGL5mXReOE09EyVNWWPnKajjm0.jpg",
+               "id": 9097,
+               "order": 15
+            },
+            {
+               "cast_id": 32,
+               "character": "Townswoman",
+               "gender": 0,
+               "credit_id": "57c5fb21c3a36820660002dc",
+               "name": "Julia Griffith",
+               "profile_path": null,
+               "id": 1080622,
+               "order": 16
+            },
+            {
+               "cast_id": 33,
+               "character": "Ape Trainer",
+               "gender": 2,
+               "credit_id": "57c5fb2f925141214d000338",
+               "name": "I. Stanford Jolley",
+               "profile_path": "/f52QrybfGyAgm9pH9BnY95MBd7C.jpg",
+               "id": 120739,
+               "order": 17
+            },
+            {
+               "cast_id": 34,
+               "character": "Boy in Soda Shop",
+               "gender": 2,
+               "credit_id": "57c5fb3e925141213c000358",
+               "name": "Stan Jolley",
+               "profile_path": null,
+               "id": 352394,
+               "order": 18
+            },
+            {
+               "cast_id": 35,
+               "character": "Dep. Archie Tomlin",
+               "gender": 2,
+               "credit_id": "57c5fb4e92514121470002fa",
+               "name": "Jack Kennedy",
+               "profile_path": null,
+               "id": 121096,
+               "order": 19
+            },
+            {
+               "cast_id": 36,
+               "character": "Citizen Carrying Mauled Ape Trainer",
+               "gender": 2,
+               "credit_id": "57c5fb629251412141000325",
+               "name": "Donald Kerr",
+               "profile_path": null,
+               "id": 133230,
+               "order": 20
+            },
+            {
+               "cast_id": 37,
+               "character": "Henry Mason",
+               "gender": 2,
+               "credit_id": "57c5fb73c3a36820660002f3",
+               "name": "Philo McCullough",
+               "profile_path": "/pmzSq7WkC8qQd1e6jMALKctQZP0.jpg",
+               "id": 1173173,
+               "order": 21
+            },
+            {
+               "cast_id": 38,
+               "character": "Willie Brill",
+               "gender": 0,
+               "credit_id": "57c5fb82c3a3682072000351",
+               "name": "Buddy Swan",
+               "profile_path": null,
+               "id": 11032,
+               "order": 22
+            },
+            {
+               "cast_id": 39,
+               "character": "Townswoman",
+               "gender": 1,
+               "credit_id": "57c5fb98c3a368206300032b",
+               "name": "Minerva Urecal",
+               "profile_path": "/gMG30MRyu03iSkUSEnL6BHVORQB.jpg",
+               "id": 102002,
+               "order": 23
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe46479251416c9104f481",
+               "name": "Scott R. Dunlap",
+               "profile_path": null,
+               "id": 117621,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46479251416c9104f487",
+               "name": "William T. Lackey",
+               "profile_path": null,
+               "id": 89911,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46479251416c9104f48d",
+               "name": "William Nigh",
+               "profile_path": "/7ntwPMxBZGbNXUwgC3rAQTdDi8i.jpg",
+               "id": 89226,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe46479251416c9104f493",
+               "name": "Adam Shirk",
+               "profile_path": null,
+               "id": 117624,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46479251416c9104f499",
+               "name": "Richard Carroll",
+               "profile_path": null,
+               "id": 117630,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46479251416c9104f49f",
+               "name": "Harry Neumann",
+               "profile_path": null,
+               "id": 98161,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe46479251416c9104f4a5",
+               "name": "Karl Zint",
+               "profile_path": null,
+               "id": 117633,
+               "department": "Sound",
+               "job": "Recording Supervision"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46479251416c9104f4bf",
+               "name": "Curt Siodmak",
+               "profile_path": "/pJTXFWsOB5MX5umPBgyD3qrxZ6U.jpg",
+               "id": 5028,
+               "department": "Writing",
+               "job": "Adaptation"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46479251416c9104f4c5",
+               "name": "Curt Siodmak",
+               "profile_path": "/pJTXFWsOB5MX5umPBgyD3qrxZ6U.jpg",
+               "id": 5028,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe46479251416c9104f4cb",
+               "name": "Charles J. Bigelow",
+               "profile_path": null,
+               "id": 118216,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46479251416c9104f4d5",
+               "name": "Russell F. Schoengarth",
+               "profile_path": null,
+               "id": 29636,
+               "department": "Editing",
+               "job": "Editor"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Horror",
+            "id": 27
+         },
+         {
+            "name": "Science Fiction",
+            "id": 878
+         }
+      ],
+      "popularity": 0.722847,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 37426,
+      "vote_count": 9,
+      "budget": 0,
+      "overview": "A mad scientist searching for a cure for polio. Dr. Bernard Adrian is a kindly mad scientist who seeks to cure a young woman's polio. He needs spinal fluid from a human to complete the formula for his experimental serum. Meanwhile, a vicious circus ape has broken out of its cage, and is terrorizing towns people.",
+      "similar": [
+         1694,
+         3034,
+         18111,
+         3079,
+         27274,
+         228066,
+         3035,
+         869,
+         37135,
+         9738,
+         170,
+         5548,
+         9426,
+         871,
+         10329,
+         19,
+         98566,
+         52520,
+         263115,
+         11005
+      ],
+      "original_title": "The Ape",
+      "runtime": 62,
+      "poster_path": "/kHk3YFVAnZuCrqK2SA0BWdTObzD.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": null,
+         "name": "Monogram Pictures",
+         "id": 4395,
+         "origin_country": ""
+      }],
+      "release_date": "1940-09-30",
+      "vote_average": 4.7,
+      "belongs_to_collection": null,
+      "tagline": "Jungle Beast or Man of Science?",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Black and White",
+      "budgetCurrency": null,
+      "directors": ["William Nigh"],
+      "runtime": 62,
+      "synopsis": "Boris Karloff stars in The Ape as Doctor Bernard Adrian, a medical researcher who has retreated from the scientific world to live in the small town of Red Creek. Dr Adrian is haunted by the deaths of his wife and daughter to paralysis (polio) and since their deaths has been working towards a cure for the condition. For the last ten years he has been conducting experiments testing his serum on animals. The doctor is disliked and mistrusted by the local population who, although unaware of what he is trying to do still suspect him of unconventional medical practices and (rightly) suspect he is connected to the disappearance of local dogs. We see the townspeople gossiping about the Doctor when he goes to Quinn, the town's druggist (Harry C. Bradley) to collect medical supplies and although Adrian is kind to the local children their parents warnings about him prompt them to pelt his house with stones. In fact Dr Adrian has only one patient the beautiful, wheelchair bound Frances Clifford (Maris Wrixon) who reminds Adrian of his own daughter as Frances is afflicted by the same condition she had. Dr Adrian is determined to cure Frances and both the girl and her mother (Dorothy Vaughan) have faith in his ability - though Frances' auto-mechanic boyfriend Danny Foster (Gene O' Donnell) is frightened by Adrian's ideas. The Doctor needs one thing to complete his experimental serum so that he can test it on Frances and that is human spinal fluid, but in order to get it he would need a recently deceased subject as the removal of the spinal fluid would kill the donor. An opportunity for Dr Adrian to complete his serum soon presents itself when a travelling circus comes to Red Creek. One of the star attractions of the circus is Nabu (Ray Corrigan) a huge ape. Nabu is being horribly mistreated by his cruel trainer (Isaac Stanford Jolley) and when the creature fights back and mauls the trainer it accidentally starts a fire and in the resulting confusion the ape escapes into the surrounding countryside. The sheriff of Red Creek Jeff Halliday (Henry Hall) advises that the mortally wounded trainer be taken to Dr Adrian, but as he is tending to the man the doctor realises here is a chance to obtain the spinal fluid he needs. Adrian extracts the spinal fluid, killing the trainer in the process, and completes his serum and tests it on Frances. The experiment seems to have some effect as the girl has some feeling restored to her paralysed legs, but in his excitement at the effect Adrian drops the test-tube of serum. When Adrian returns to his home to use the remainder of the spinal fluid to make some more serum Nabu the ape breaks into the house. Adrian and the ape fight, smashing the flask containing the spinal fluid in the process, and the doctor throws acid into the face of the ape before killing the beast with a knife. Adrian instructs Jane (Gertrude Hoffman), his near silent housekeeper not to tell anyone that the creature is dead as Dr Adrian has a macabre plan. Dr Adrian skins Nabu and dresses himself up as the ape, this will allow Adrian to go out and kill the more unworthy members of society in order to save Frances - and it is Nabu who will be suspected of committing the crimes not the good doctor. Meanwhile, we see the local bank manager Henry Mason (Philo McCullough) portrayed as a real scoundrel. Quinn the druggist accuses him of usury and when his long suffering wife (Mary Field) confronts him about his philandering he tells her that if she doesn't like it then \"there is always the river\" - i.e. she can go and drown herself. Little surprise then that Mason is the first victim of the disguised Dr Adrian who kills him and extracts his spinal fluid. Again the doctor tries his serum on Frances and again she feels some benefit but as the feeling returns to her legs she is unwilling to heed Adrian's urging to get up from her chair - in part due the discouragement of her boyfriend, who seems to fear losing her if she regains the ability to walk. However, the Sheriff is becoming suspicious of Dr Adrian and orders some of the posse of men he is leading in the search for the ape to watch the doctor's house. When the doctor dons the ape suit once again and goes out into the countryside in search of another victim he is spotted by one of the Sheriff's men and mortally wounded. As Dr Adrian lies dying from his wound Frances finally gets up out of her wheelchair to go to him and she does so Dr Adrian's ape suit seems to fade from her view. Thus, the doctor feels his murders have been justified.",
+      "writers": [
+         "Adam Shirk",
+         "Curt Siodmak"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0032215/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMzg0NDcyNjA4MV5BMl5BanBnXkFtZTcwNjA0Mzk0NQ@@._V1_SY317_CR5,0,214,317_AL_.jpg",
+      "actors": ["Stars: Boris Karloff, Maris Wrixon, Gene O'Donnell | See full cast and crew »"],
+      "reviews": [
+         "It could be argued that the 1940's were something of a golden age for the B movie in America -at least in quantity terms - and several studios arose to make a great many cheap pictures for double bills and the sleazier end of the market . Monogram pictures were one such company and they strove with Universal for the horror end of the spectrum although with fewer resources . Like other such pictures The Ape gives a leading role to a horror icon , Boris Karloff ,while featuring unknowns, and untalented ones into the bargain, for the supporting parts . He plays Doctor Adrian who is regarded with suspicion by the small town locals but is revered by a young woman ,the wheelchair bound Frances Clifford whose paralysis he is striving to cure .His favoured method is by injection of spinal fluid but he is running out of the stuff till fate takes a hand .A giant ape escapes from the visiting circus ;unknown to the townsfolk he is shot .Adrian skins the dead beast and goes out at night dressed in the skin ,killing to obtain victims so he can continue the treatment . Karloff is his usual excellent self ,this time playing the scientist rather than a creation of a scientist ,and the script is quite sharp in its depiction of small town narrow mindedness .The ape suit is better than usual in this type of picture with this type of budget and this is a decent little horror number",
+         "It doesn't sound like much of a compliment, but this cheapie was better than I expected, thanks not only to Karloff's sympathetic performance but to a script by Curt Siodmak, who did much better things. Once you accept that the main idea is stupid, you can appreciate that each individual scene is well-written in terms of character development. Everyone is slightly more ambiguous than their stock character usually would be. The \"mad\" doctor is sincerely concerned with the insipid heroine who reminds him of his daughter, and his madness is a kind of beautiful tragedy. The \"good\" boyfriend says he doesn't want her hurt, but he also seems jealous of the doctor and resentful that the heroine won't be so dependent on him. There's real tension in their triangle. The hick sheriff is almost sharp enough to figure things out. The town blowhard gets several scenes showing what a well-chiseled wretch he is, especially the scene with his pathetic wife. The small-towners are all various little unflattering types--lazy, suspicious, gossipy, narrow-minded--not exactly an ad for rural life. Karloff's maid seems mute except when she suddenly whispers one word. There's a city doctor who comes on as an antagonist, then gets converted into an ally by Karloff's evidence, and disappears from the movie! There's the wise caretaker, introduced in a surprising pan shot that begins with a black circus worker playing a trumpet for a dancing elephant and ending with the ape being provoked by the rotten trainer. The very ending, too, has a certain power if you meet the movie halfway. The trouble is, just as you're pulled into the simplicity and effectiveness of all these human scenes, along comes another scene with that apesuit to pull the rug out from under the movie's credibility. The ape is the worst thing about THE APE!",
+         "William Nigh directs this low-budget Monogram picture about a circus ape escaping simultaneously with an eccentric doctor trying to cure a young girl's paralysis. Somehow the two plot strands meet and end in a very far-fetched denouement. Fantastical plot notwithstanding, The Ape is a quality picture at least as far as Monogram pictures go. Sure it has some real cheap sets and a threadbare, ridiculous story. The direction is adequate but nothing more. But what it does have is a fine performance from Boris Karloff as the doctor working endlessly to free a girl from the confines of her wheelchair all the while blurring the line of good and bad. For me there are three types of mad doctors. The first and probably most familiar is the crazed, maniacal, egocentric mad doctor looking for revenge or glory or the affections of a girl. These guys are the ones full of themselves and usually are dedicated in some form or fashion to evil. Bela Lugosi excelled at these. The second type is the same maniacal, crazed doctor but one that is more worldly. He wants money or power and position. He knows oftentimes that what he is doing is wrong(differentiates him from first type). I think Lionel Atwill played this type very well. The third type - and a very broad one - is the mad doctor who crosses the line of acceptable behaviour but his action are all done with good at the core. Karloff really perfected this type. The Ape has just such a \"mad doctor\" in it. Karloff gives such a good performance despite everything working against him. He creates genuine pathos in his role. The rest of the cast in this film is nothing too special. I enjoyed Henry Hall as the lawman, and Gertrude Hoffman as Karloff's quiet maid was chilling in her demeanor and silence. The Ape should not be overlooked simply because of its less than stellar roots with Monogram. Karloff rises above the material and this film rises above the standard fare usually created. The ape itself, well, quite ridiculous. In this one George Barrows gets a break and Ray \"Crash\" Corrigan(the alien in It! The Terror from Beyond Space)dons the unrealistic simian outfit.",
+         "In this very short and extremely cheap horror film, horror legend Boris Karloff once again stars as a devoted doctor/scientist on the verge of a big medical breakthrough. He played quite a few similar roles in his rich career and this time he's helping out a young woman who's suffering from an almost terminal case of polio. Dr. Adrian (Karloff's character) has great visions but his experiments are what they call 'unethical' and all the villagers avoid him. When a mad-raving ape escapes from a nearby circus, it brings Dr. Adrian to an idea\u0085 'The Ape' is quite an imaginative and well-intended horror film with a slick plot but unfortunately too little action. It never features a horrific atmosphere and the ape costume isn't exactly convincing. Still, I'd certainly categorize it as a worthwhile horror film if it were only for the performance by Boris (who looks quite thin and unhealthy here, though). In case you're looking for a really excellent film starring Karloff going insane while reaching new medical heights, I strongly recommend purchasing 'Corridors of Blood'. This film would make a neat appetizer before watching that one.",
+         "Monogram pictures produced rather low budget films and cut costs in every way imaginable. Karloff made this entire film possible with his great acting as Dr. Adrian, dedicating his career to finding a cure for the dread disease Polio. He ties to help the only person in town who believes he can cure her from paralyzis. Karloff soon learns that he needs spinal fluid from a human being, he tries to blame the Ape for his horrors. This \"APE Film\" finished Karloff's contract with Monogram and he returned after eighteen(18)years when Monogram became Allied Artists in 1953 where he made \"Frankenstein 1970\".",
+         "Watched this 1940 movie last night and had fun watching Karloff. His scenes as the caring Doctor trying to find a cure for the paralyzed girl (played by Maris Wrixon) were touching and well done. His mad obsession to cure her seemed very believable to me. Though it looks like Wrixon played mostly bit parts during her career, she did a good job in this larger role and she is beautiful. Gene O'Donnell as her protective and jealous boyfriend seemed unrealistic as he took an immediate and illogical dislike to Karloff, the man trying to help his girlfriend walk again. Maybe he thought he resembled some kind of mad scientist, remembering Dr.Janos Rukh in 'The Invisible Ray' or Dr.Ernest Sovac in 'Black Friday.' Of course, this Monogram film is lacking in production values and the supporting cast is for the most part forgettable. And, Karloff has certainly been more fun to watch in some of his other films. The killer ape was a little goofy, as were the never-ending posses hunting him. However, with all that being said, it was still fun to see an old Karloff film, if only for old time's sake.",
+         "If it weren't for the presence of Boris Karloff, this would be pretty bad. Apparently there has been a bout with polio in the community (paralysis) and there is a pretty young victim who the doctor fancies as looking like his late daughter. He makes it his life work to cure her. Unfortunately, he needs the bodily fluids of others to bring about that cure. Of course, he chooses the base, the outcast, for his work because the young pretty girl has more worth in the society than these others. He chooses his victims by judging this worth. He kills them by dressing in the skin of an ape that he killed and skinned. If this sounds silly, it's hard to defend. There's also a subplot of the jealousy of a young man who loves the young woman but may feel if she recovers she will reject him. Karloff's doctor is the constant victim of the community. They don't know what he's doing in that house and so he is victimized by the local kids (your garden variety brats), and looked on with suspicion. He is such a kindly man, it seems odd that there is such venom when it comes to him. Anyway, it's a small town and people do need their preoccupations. It just seems that a doctor with this much imagination could be a little more creative in his methods than the one he chooses. Imagine how lacking in dexterity if you were about 60 years old, running around in an ape pelt. It's rather forgettable and predictable, but it's fun to see Karloff's character.",
+         "A local doctor and scientist (Boris Karloff) is working on a treatment for paralysis. He finds the cure requires human spinal fluid. But to get such a thing, he must kill. And then a local circus starts on fire and a murderous ape escapes... First, let me give a shout out to director William Nigh of Berlin, Wisconsin. I always have to support my local directors, even if they're dead. And while there was nothing really out of the ordinary as far as directing style, it was good just the same. And Nigh has a history of working with Karloff, which I'm sure helps quite a bit (look at Tim Burton and Johnny Depp). This film has a strong point, a weak point and a mediocre pint. The strong point is the plot. My summary will sound strange to those who haven't seen the movie. There is a circus, an ape, a scientist and people are getting killed. It really fits together very nicely, and I found this to be impressive. Many older films fill time with extra fluff, but this one was only the necessities and even that was pretty thorough. The weak point is the film quality. I don't think I can blame the movie for its quality, but the sound is not great, the picture is not great, and many frames are missing entirely. Either lost, or filmed with bad equipment. Once I adjusted, this wasn't such a big deal. But other films from this time period have fared better, so I wish this had been one of them. A restored, touched up version of this film would have been vastly superior. The mediocre point is the costume designer. The ape was obviously a man in a costume. However, despite this being obvious it was still a very good costume and worked for the sake of the picture. Can I reasonably expect a better ape without a real ape being used (which would be much harder to control, of course)? Perhaps not. So I give them credit for the effort. (And I assume the costume here is much nicer than the one used in the earlier theatrical production.) This film was alright. As far as older, lower quality movies go, I think this is better than much of the stuff we now call \"classic\". Karloff delivers, as usual... and we get a good story that has a nice dark comedy element to it, or at least an element of sympathy for evil acts. And that's always nice.",
+         "Boris Karloff's performance is wonderful as always, mainly because the moral ambiguity with which he presents his character makes it unique. Most \"mad scientist\" movies portray truly mad doctors who perform their awful experiments for less-than-pure purposes. Karloff, on the other hand, kills only a mortally-wounded, insolent trainer, and an exceedingly evil cheater (\"there's always the river\"), and does it for a wonderful young woman who he truly cares about. Karloff augments this story by making his character nearly the most sympathetic player in the story. The sheriff is crooked, the polio scientist accommodating, the men in town drunken gossipers, and even the girl's boyfriend \"afraid of what he doesn't know\". The only characters we really root for are the mother and daughter, and the happy ending centers on the daughter, so we are appeased. Overall, the acting (outside of Karloff) is OK, but nothing special, and the direction pedestrian, but this makes for a solid hour of entertainment and thought.",
+         "In between episodes of the Mr. Wong detective series, Monogram Pictures found some time to cast Boris Karloff in his traditional role as a scientist experimenting in things unknown. The Ape has him in a more traditional Karloff type role. Boris is a doctor who has settled in a small community and is not well liked by the inhabitants of this place. Rumors abound of his experiments on animals. What he's doing in fact is exploring a cure for infantile paralysis. It's hard to understand these days, but that was a dreaded thing back in the day, the President of the United States had that disease, but Karloff isn't worried about curing FDR, it's pretty Maris Wrixon, that's got his attention who's confined to a wheelchair like the president. At the same time a circus ape that's been abused by his trainer gets loose and sets fire to the big top. What The Ape getting loose has to do with Karloff and his experiments is for you to see. Let's just say that Jonas Salk was not pursuing the same line of research as Boris Karloff was."
+      ],
+      "genres": ["Horror"],
+      "productionCompanies": ["Monogram Pictures"],
+      "summaries": ["Dr. Bernard Adrian is a kindly mad scientist who seeks to cure a young woman's polio. He needs spinal fluid from a human to complete the formula for his experimental serum. Meanwhile, a vicious circus ape has broken out of its cage, and is terrorizing towns people."],
+      "budget": 0
+   },
+   "movielensId": 3058,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1940-09-30",
+      "dvdReleaseDate": "1999-11-02",
+      "directors": ["William Nigh"],
+      "runtime": 62,
+      "movieId": 3058,
+      "title": "The Ape",
+      "mpaa": "G",
+      "actors": [
+         "Boris Karloff",
+         "Maris Wrixon",
+         "Gene O'Donnell",
+         "Dorothy Vaughan",
+         "Henry Hall",
+         "Selmer Jackson",
+         "Gertrude Hoffmann",
+         "Jessie Arnold",
+         "Billy Bletcher",
+         "Harry C. Bradley",
+         "George Cleveland",
+         "Ray Corrigan",
+         "Pauline Drake",
+         "Mary Field",
+         "Gibson Gowland",
+         "Julia Griffith",
+         "I. Stanford Jolley",
+         "Stan Jolley",
+         "Jack Kennedy",
+         "Donald Kerr",
+         "Philo McCullough",
+         "Buddy Swan",
+         "Minerva Urecal"
+      ],
+      "imdbMovieId": "0032215",
+      "originalTitle": "The Ape",
+      "genres": [
+         "Drama",
+         "Horror",
+         "Science Fiction"
+      ],
+      "youtubeTrailerIds": ["qWCMKtt_9lg"],
+      "plotSummary": "A mad scientist searching for a cure for polio. Dr. Bernard Adrian is a kindly mad scientist who seeks to cure a young woman's polio. He needs spinal fluid from a human to complete the formula for his experimental serum. Meanwhile, a vicious circus ape has broken out of its cage, and is terrorizing towns people.",
+      "tmdbMovieId": 37426,
+      "avgRating": 2.22917,
+      "releaseYear": "1940",
+      "numRatings": 72,
+      "posterPath": "/kHk3YFVAnZuCrqK2SA0BWdTObzD.jpg"
+   }
+}

@@ -1,0 +1,884 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "defense industry",
+            "id": 3599
+         },
+         {
+            "name": "toy shop",
+            "id": 6476
+         },
+         {
+            "name": "technical toy",
+            "id": 7136
+         },
+         {
+            "name": "soldier",
+            "id": 13065
+         },
+         {
+            "name": "prototype",
+            "id": 156337
+         },
+         {
+            "name": "killer toys",
+            "id": 180691
+         },
+         {
+            "name": "toy comes to life",
+            "id": 187065
+         }
+      ],
+      "imdb_id": "tt0122718",
+      "video": false,
+      "title": "Small Soldiers",
+      "recommendations": [
+         929,
+         9279,
+         332,
+         1498,
+         9312,
+         9607,
+         9824,
+         10336,
+         8487,
+         8840,
+         2157,
+         9327,
+         9354,
+         8584,
+         10603,
+         9574,
+         888,
+         9896,
+         9397,
+         9593
+      ],
+      "backdrop_path": "/xy9MUcAcUCsxDnp5QEuLJIcFzGJ.jpg",
+      "revenue": 54682547,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Alan Abernathy",
+               "gender": 2,
+               "credit_id": "52fe44589251416c750316f7",
+               "name": "Gregory Smith",
+               "profile_path": "/h13wfMQQrcyg98Gxg8Ult3vCSR9.jpg",
+               "id": 20814,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Christy Fimple",
+               "gender": 1,
+               "credit_id": "52fe44589251416c750316fb",
+               "name": "Kirsten Dunst",
+               "profile_path": "/hA5wdCWKbRi7vOZExgEuGxakLsA.jpg",
+               "id": 205,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Gil Mars",
+               "gender": 2,
+               "credit_id": "52fe44589251416c750316ff",
+               "name": "Denis Leary",
+               "profile_path": "/lnk4HjUeqDlT6Kg9PaQsVIDpl56.jpg",
+               "id": 5724,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Phil Fimple",
+               "gender": 2,
+               "credit_id": "52fe44589251416c75031703",
+               "name": "Phil Hartman",
+               "profile_path": "/rf62sAab9vOjm9x7ZA0VBWDkHvD.jpg",
+               "id": 14104,
+               "order": 3
+            },
+            {
+               "cast_id": 16,
+               "character": "Irwin Wayfair",
+               "gender": 2,
+               "credit_id": "52fe44589251416c75031749",
+               "name": "David Cross",
+               "profile_path": "/aHSmsfJ48W59WlGB5ZiTjK67I0D.jpg",
+               "id": 212,
+               "order": 4
+            },
+            {
+               "cast_id": 17,
+               "character": "Larry Benson",
+               "gender": 2,
+               "credit_id": "52fe44589251416c7503174d",
+               "name": "Jay Mohr",
+               "profile_path": "/6HGBa7y15h6Xrg55Wr8BepS363R.jpg",
+               "id": 12217,
+               "order": 5
+            },
+            {
+               "cast_id": 18,
+               "character": "Stuart Abernathy",
+               "gender": 0,
+               "credit_id": "52fe44589251416c75031751",
+               "name": "Kevin Dunn",
+               "profile_path": "/85thH2pUn2tPP97QhnYQI7MBiCW.jpg",
+               "id": 14721,
+               "order": 6
+            },
+            {
+               "cast_id": 31,
+               "character": "Irene Abernathy",
+               "gender": 1,
+               "credit_id": "52fe44589251416c75031785",
+               "name": "Ann Magnuson",
+               "profile_path": "/ry9H1u1GFbwXiWWolYA63pjBctp.jpg",
+               "id": 37042,
+               "order": 7
+            },
+            {
+               "cast_id": 32,
+               "character": "Marion Fimple",
+               "gender": 1,
+               "credit_id": "52fe44589251416c75031789",
+               "name": "Wendy Schaal",
+               "profile_path": "/6rDQCbwOYXblJWeUL0stc5w1Sdz.jpg",
+               "id": 37600,
+               "order": 8
+            },
+            {
+               "cast_id": 33,
+               "character": "Timmy Fimple",
+               "gender": 2,
+               "credit_id": "52fe44589251416c7503178d",
+               "name": "Jacob Smith",
+               "profile_path": "/m3COX4g0WNOm2Bo83A4PPedHi9c.jpg",
+               "id": 9829,
+               "order": 9
+            },
+            {
+               "cast_id": 19,
+               "character": "Chip Hazard",
+               "gender": 2,
+               "credit_id": "52fe44589251416c75031755",
+               "name": "Tommy Lee Jones",
+               "profile_path": "/gRXugLFvr1oHZ6alLUxmYDq8cgW.jpg",
+               "id": 2176,
+               "order": 10
+            },
+            {
+               "cast_id": 20,
+               "character": "Archer",
+               "gender": 2,
+               "credit_id": "52fe44589251416c75031759",
+               "name": "Frank Langella",
+               "profile_path": "/wMlcjLBQouQjE0iceseNTxUF3BF.jpg",
+               "id": 8924,
+               "order": 11
+            },
+            {
+               "cast_id": 21,
+               "character": "Kip Killagin",
+               "gender": 2,
+               "credit_id": "52fe44589251416c7503175d",
+               "name": "Ernest Borgnine",
+               "profile_path": "/kQhcGAc2TgohrvLZSYapT2SHRby.jpg",
+               "id": 7502,
+               "order": 12
+            },
+            {
+               "cast_id": 30,
+               "character": "Butch Meathook",
+               "gender": 2,
+               "credit_id": "52fe44589251416c75031781",
+               "name": "Jim Brown",
+               "profile_path": "/u2woKBMGvouznYELvlPwqj4Y81A.jpg",
+               "id": 4774,
+               "order": 13
+            },
+            {
+               "cast_id": 22,
+               "character": "Link Static",
+               "gender": 2,
+               "credit_id": "52fe44589251416c75031761",
+               "name": "Bruce Dern",
+               "profile_path": "/fYhCiXGBARWUevnWDkeCEpwi4h4.jpg",
+               "id": 6905,
+               "order": 14
+            },
+            {
+               "cast_id": 23,
+               "character": "Brick Bazooka",
+               "gender": 2,
+               "credit_id": "52fe44589251416c75031765",
+               "name": "George Kennedy",
+               "profile_path": "/vNYRh8f0QuA2eK8ahKftOBxtDN7.jpg",
+               "id": 12950,
+               "order": 15
+            },
+            {
+               "cast_id": 28,
+               "character": "Nick Nitro",
+               "gender": 2,
+               "credit_id": "52fe44589251416c75031779",
+               "name": "Clint Walker",
+               "profile_path": "/422PgQ40WJ1mlUsdvPrnvUnfzWB.jpg",
+               "id": 40207,
+               "order": 16
+            },
+            {
+               "cast_id": 24,
+               "character": "Slamfist / Scratch-It",
+               "gender": 2,
+               "credit_id": "52fe44589251416c75031769",
+               "name": "Christopher Guest",
+               "profile_path": "/fhEQq0q2aR2sh4HU824xunoyAce.jpg",
+               "id": 13524,
+               "order": 17
+            },
+            {
+               "cast_id": 25,
+               "character": "Insaniac / Freakenstein",
+               "gender": 2,
+               "credit_id": "52fe44589251416c7503176d",
+               "name": "Michael McKean",
+               "profile_path": "/iVcsvBb15nep7TZ07MlJFcxMzvD.jpg",
+               "id": 21731,
+               "order": 18
+            },
+            {
+               "cast_id": 29,
+               "character": "Punch-It",
+               "gender": 2,
+               "credit_id": "52fe44589251416c7503177d",
+               "name": "Harry Shearer",
+               "profile_path": "/qtGHYpWLbqQVY9ymVPtrJZV6MHg.jpg",
+               "id": 6008,
+               "order": 19
+            },
+            {
+               "cast_id": 26,
+               "character": "Gwendy Doll",
+               "gender": 1,
+               "credit_id": "52fe44589251416c75031771",
+               "name": "Sarah Michelle Gellar",
+               "profile_path": "/gCX6MburZMncZrqGh6niLofn7nb.jpg",
+               "id": 11863,
+               "order": 20
+            },
+            {
+               "cast_id": 27,
+               "character": "Gwendy Doll",
+               "gender": 1,
+               "credit_id": "52fe44589251416c75031775",
+               "name": "Christina Ricci",
+               "profile_path": "/dzB58d6fNrTEi7nBAU1tySJc2at.jpg",
+               "id": 6886,
+               "order": 21
+            },
+            {
+               "cast_id": 67,
+               "character": "Joe",
+               "gender": 2,
+               "credit_id": "57def74ac3a36808ec009434",
+               "name": "Dick Miller",
+               "profile_path": "/c2lakgh0bCckVoDxDplqTvMLVZ4.jpg",
+               "id": 102441,
+               "order": 22
+            },
+            {
+               "cast_id": 68,
+               "character": "Neighbor",
+               "gender": 1,
+               "credit_id": "5a4ab01fc3a36805e9019b37",
+               "name": "Belinda Balaski",
+               "profile_path": "/rOrH8mdW1F3HGmCb2W3EoCdv1Ox.jpg",
+               "id": 16173,
+               "order": 23
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe44589251416c75031709",
+               "name": "Ted Elliott",
+               "profile_path": "/9OXGC59dpVDdfwSeEdHgxpoHXVu.jpg",
+               "id": 1705,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44589251416c7503170f",
+               "name": "Terry Rossio",
+               "profile_path": "/zvlhzykondhUf26gknMo8hLMuCn.jpg",
+               "id": 1706,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44589251416c75031715",
+               "name": "Gavin Scott",
+               "profile_path": "/giBDvBzc08v1DT6zr4sVVfLVCm.jpg",
+               "id": 58034,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44589251416c7503171b",
+               "name": "Adam Rifkin",
+               "profile_path": "/6gm8cFTfvBgesIlZ2TwJUvX84KL.jpg",
+               "id": 50583,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44589251416c75031727",
+               "name": "Jamie Anderson",
+               "profile_path": null,
+               "id": 13622,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44589251416c7503172d",
+               "name": "Marshall Harvey",
+               "profile_path": null,
+               "id": 44993,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44589251416c75031733",
+               "name": "Michael Finnell",
+               "profile_path": null,
+               "id": 16154,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44589251416c75031739",
+               "name": "Walter F. Parkes",
+               "profile_path": null,
+               "id": 2212,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44589251416c7503173f",
+               "name": "Colin Wilson",
+               "profile_path": null,
+               "id": 490,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44589251416c75031745",
+               "name": "Joe Dante",
+               "profile_path": "/6tXq6DyArD72Nus1PBdxuksIgXo.jpg",
+               "id": 4600,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "552c44799251411ff500042c",
+               "name": "Chuck Duke",
+               "profile_path": null,
+               "id": 1453594,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5583f3b0c3a36853d20011fd",
+               "name": "Michael Thau",
+               "profile_path": null,
+               "id": 1231241,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5583f3cec3a36853c400116b",
+               "name": "Denise Chamian",
+               "profile_path": "/mEn7U8Dt5zqnNMO0Y1YtXO7evS.jpg",
+               "id": 2215,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5583f3e3c3a36853dd001023",
+               "name": "William Sandell",
+               "profile_path": null,
+               "id": 6877,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5583f40f925141534d0001cb",
+               "name": "Brad Ricker",
+               "profile_path": null,
+               "id": 8705,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5583f424925141587f000fbe",
+               "name": "Rosemary Brandenburg",
+               "profile_path": "/rrlIjwGSprN47jjXCVIhoIBjKXr.jpg",
+               "id": 13588,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5583f43bc3a36853c400117b",
+               "name": "Carole Brown-James",
+               "profile_path": null,
+               "id": 1319404,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5583f457c3a36853d200120c",
+               "name": "Judith A. Cory",
+               "profile_path": null,
+               "id": 1412188,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5583f48fc3a36853e40010dd",
+               "name": "Christina Smith",
+               "profile_path": null,
+               "id": 936194,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Department Head"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5583f4b1925141588c00106d",
+               "name": "Molly Click",
+               "profile_path": null,
+               "id": 1478848,
+               "department": "Art",
+               "job": "Art Department Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5583f4dac3a36853dd001047",
+               "name": "Marvin Salsberg",
+               "profile_path": null,
+               "id": 1401758,
+               "department": "Art",
+               "job": "Construction Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5583f501c3a36853ce0010e0",
+               "name": "Jerry Moss",
+               "profile_path": null,
+               "id": 1400849,
+               "department": "Crew",
+               "job": "Property Master"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5583f52ec3a36853c400119e",
+               "name": "Petra Bach",
+               "profile_path": null,
+               "id": 1424155,
+               "department": "Sound",
+               "job": "ADR & Dubbing"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5583f55e9251415879001005",
+               "name": "Thom Brennan",
+               "profile_path": null,
+               "id": 1478854,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5583f570c3a36853d8001207",
+               "name": "Hilda Hodges",
+               "profile_path": null,
+               "id": 1341856,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5583f588925141588c00108e",
+               "name": "John Roesch",
+               "profile_path": null,
+               "id": 1116937,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5583f5c0c3a36853c40011aa",
+               "name": "John Pospisil",
+               "profile_path": null,
+               "id": 1440822,
+               "department": "Sound",
+               "job": "Sound Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5583f5df9251415879001014",
+               "name": "Julia Evershade",
+               "profile_path": null,
+               "id": 143915,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5583f605925141534d00020e",
+               "name": "Ken Pepiot",
+               "profile_path": null,
+               "id": 26988,
+               "department": "Crew",
+               "job": "Special Effects Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5583f6759251416a80000621",
+               "name": "David Andrews",
+               "profile_path": null,
+               "id": 1424172,
+               "department": "Visual Effects",
+               "job": "Animation Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5583f6c2c3a36853c40011c1",
+               "name": "Joel Aron",
+               "profile_path": null,
+               "id": 1354803,
+               "department": "Crew",
+               "job": "Sequence Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5583f6e4c3a36853d2001255",
+               "name": "David Meny",
+               "profile_path": null,
+               "id": 1478856,
+               "department": "Crew",
+               "job": "Sequence Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5583f706c3a36853ca000ee5",
+               "name": "George Hull",
+               "profile_path": null,
+               "id": 1335873,
+               "department": "Crew",
+               "job": "Visual Effects Art Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5583f725925141534d000222",
+               "name": "Christopher S. Baird",
+               "profile_path": null,
+               "id": 1478857,
+               "department": "Crew",
+               "job": "Visual Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5583f741c3a36853ce001119",
+               "name": "Kim Bromley",
+               "profile_path": null,
+               "id": 1478858,
+               "department": "Visual Effects",
+               "job": "Visual Effects Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5583f78b92514171f7000dab",
+               "name": "Stefen Fangmeier",
+               "profile_path": "/fv6ObyJnaielYg2YbgHFbszinYd.jpg",
+               "id": 25453,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5583f7adc3a36853ce001126",
+               "name": "Jeff Matakovich",
+               "profile_path": null,
+               "id": 1478860,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5583f7dd9251416a80000635",
+               "name": "M. James Arnett",
+               "profile_path": null,
+               "id": 10632,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "570b6b3a92514139e8000182",
+               "name": "Mark W. Mansbridge",
+               "profile_path": null,
+               "id": 21070,
+               "department": "Art",
+               "job": "Supervising Art Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5675e5d492514179d4003a82",
+               "name": "Jack Keller",
+               "profile_path": null,
+               "id": 1551320,
+               "department": "Crew",
+               "job": "Sound Recordist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "571fb889c3a3682f5c0001e9",
+               "name": "Jerry Goldsmith",
+               "profile_path": "/e6sd10VuwFXkgRFrCTCygbhMq2q.jpg",
+               "id": 1760,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Adventure",
+            "id": 12
+         },
+         {
+            "name": "Fantasy",
+            "id": 14
+         },
+         {
+            "name": "Science Fiction",
+            "id": 878
+         },
+         {
+            "name": "Action",
+            "id": 28
+         }
+      ],
+      "popularity": 10.452754,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 11551,
+      "vote_count": 666,
+      "budget": 40000000,
+      "overview": "When missile technology is used to enhance toy action figures, the toys soon begin to take their battle programming too seriously.",
+      "similar": [
+         19995,
+         1865,
+         11249,
+         3176,
+         792,
+         250546,
+         11932,
+         1654,
+         11187,
+         10590,
+         8741,
+         167032,
+         9093,
+         11186,
+         11597,
+         983,
+         12775,
+         464867,
+         68942,
+         98205
+      ],
+      "original_title": "Small Soldiers",
+      "runtime": 110,
+      "poster_path": "/l5laJWvcxgkoqC3nRPs9N5u55jR.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Français",
+            "iso_639_1": "fr"
+         },
+         {
+            "name": "Magyar",
+            "iso_639_1": "hu"
+         },
+         {
+            "name": "Español",
+            "iso_639_1": "es"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": "/mpGWkDeikYLeAR8LVNaixig0vwE.png",
+            "name": "Amblin Entertainment",
+            "id": 56,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+            "name": "Universal Pictures",
+            "id": 33,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": "/jCwNupLautLSk6iB28VXrDPUqD8.png",
+            "name": "DreamWorks",
+            "id": 7,
+            "origin_country": "US"
+         }
+      ],
+      "release_date": "1998-07-10",
+      "vote_average": 6.2,
+      "belongs_to_collection": null,
+      "tagline": "The few, the proud, the small.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Joe Dante"],
+      "runtime": 108,
+      "synopsis": "Toy company Heartland Playsystems is acquired by the multinational conglomerate GloboTech Industries, which is expanding from manufacturing high-quality military hardware. GloboTech CEO Gil Mars (Denis Leary) pays a visit to Heartland to meet with Larry Benson (Jay Mohr) and Irwin Wayfair (David Cross) concerning their newest projects, which involve the creation of intelligent, interactive toys. Irwin offers the Gorgonites, peaceful creatures whose mission is to gather information about Earth, prompting children to learn with them, whereas Larry presents the Commando Elite, a special task force of action figures. Despite Irwin's objections, Mars chooses the ugly-looking Gorgonites as the Commando Elite's enemies and imposes a three-month deadline, which Irwin protests as 'impossible' due to the rigorous testing and design period required. Through Larry's inexperience with the GloboTech database, he commits a critical mistake: rather than standard toy-related computer chips, the action figures are fitted with surplus X-1000 \"intelligence\" chips designed for use by the military. Three months later, schoolboy Alan Abernathy (Gregory Smith) and his parents Stuart (Kevin Dunn) and Irene (Ann Magnuson) have moved to Cleveland, Ohio, hoping for a fresh start after Alan's expulsion from two schools for playing practical jokes. His father Stuart owns an unpopular traditional toy store that does not sell electronic toys or violent action figures. Stuart goes on a business trip, leaving Alan in charge of the store, hoping that Alan will prove worthy of his trust. During his absence, Alan sees a box containing Commando Elite and Gorgonite toys bound for another larger toy store, and convinces the delivery truck driver Joe (Dick Miller) to leave him a complete set of each to sell, so as to make the shop wealthier and more sophisticated. Joe initially resists, but relents after Alan pleads with him. When released from their boxes, the toys become animated and begin to wage war against each other. Alan's neighbor and romantic interest Christy Fimple (Kirsten Dunst) visits the store with her younger brother Timmy (Jacob Smith) who stumbles across the feuding toys in the back room, and is shot by Elite Commander Chip Hazard. Because the toys' weapons are merely imitations, he is not hurt and pleads his sister to buy one of them. Alan and Christy later lock up the store and part ways, while the Gorgonite leader called Archer (voiced by Frank Langella) hides in Alan's backpack. During the night, Chip Hazard (voiced by Tommy Lee Jones) activates the others of the Commando Elite consisting of Kip Killagan (voiced by Ernest Borgnine), Brick Bazooka (voiced by George Kennedy), Butch Meathook (voiced by Jim Brown), Nick Nitro (voiced by Clint Walker), and Link Static (voiced by Bruce Dern). Chip issues functional weapons, and orders all Gorgonites in the store to be destroyed. During the ensuing melee, the Commandos and Gorgonites make a mess. The Gorgonites, who are programmed to lose any battle with the Elite, hide in a garbage dumpster behind the store. At Alan's house, Alan discovers Archer in his backpack; but the Gorgonite refuses to respond in any 'intelligent' manner. Eventually, Alan realizes that the X-1000 is, in fact an 'intelligent' computer chip that is capable of learning, reasoning, and adapting, and has turned the former 'toys' into artificial intelligence. The next day, at Archer's direction, Alan finds the remains of one destroyed Gorgonite Troglokhan, but no sign of the Commando Elite or the remaining Gorgonites. Alan manages to repair most of the damage done to the store by their fight and calls the company to complain about the Commandos' actions, but receives an apathetic response and is transferred to a voice-mail machine, where he leaves an angry message but is unable to record his telephone number. Archer tries to talk to Alan, but the furious Alan tells Archer to 'shut up and stop talking'. Archer obeys and remains silent until later in the night. Alan and Archer headhome on Alan's bike, but are closely followed by the Commando Elite. Brick Bazooka is sent to assassinate Archer, and is caught in the bike's wheel and has his legs and hips torn off by the spokes. After reparing Brick, Chip notes Alan's House and orders the Commando Elite to move in. During the night, the Commandos enter the house, capture Archer, and interrogate him in the kitchen over the garbage disposal. Alan awakens, saves Archer, drives off the Commando Elite, and jams Commando Nick Nitro into the garbage disposal, destroying him from the knees down. Nick escapes out the window while Alan is caught by his parents, to whom he is forced to confess his illegal acquisition of the toys. The parent-to-son discussion becomes a heated argument when Alan asserts that the toys were responsible for his father's crafting tools missing, leading his parents to suspect he might be using drugs and regressing to his mischievous lifestyle. Alan, furious at Archer for not supporting him, demands why he did not speak up to prove to his parents that the toys are alive, to which Archer responds by repeating Alan's earlier command to 'shut up'. Alan worries that he will suffer losses of others' trust if the Gorgonites have been destroyed, whereupon Archer replies that the Gorgonites must be alive, because the Commandos are still seeking them. The Commandos regroup in the Fimples' garage next-door, where Chip Hazard delivers a stirring, noticeably incoherent speech to his followers. Nick crawls his way into the garage and dies in Chip's arms. He then announces that Alan, for rescuing Archer, must be eliminated. The Commandos begin to convert all the sharp tools, electronics, and other hardware into makeshift vehicles and miniature weapons of mass destruction. Alan returns to the toy store in the morning and retrieves Gorgonites Slamfist (voiced by Christopher Guest), Ocula (vocal effects done by Jim Cummings), Punch-It (voiced by Harry Shearer), Scratch-It (also voiced by Christopher Guest), Insaniac (voiced by Michael McKean), and finds Troglokhan, who has been repaired by the Gorgonites as Freakenstein (also voiced by Michael McKean) from parts of Alan's father's radio. They thereafter use his computer to seek out their imagined homeland of Gorgon. That night, the Commando Elite tap the phone lines and discover Alan and Christy's relationship. They enter Christy's room while she is away and find her collectible Gwendy dolls. Chip retrieves Nick Nitro's body and tear open his head to find his X-1000 chip. They create a Frankenstein-esque laboratory in her room to raise the Gwendy dolls, using Nick's chip as their mindset. With the \"reinforcements\" lying in ambush, they drug Christy's parents Marion (Wendy Schaal) and Phil (Phil Hartman), tie up her brother, and scare off her visiting sweetheart Brad (Jonathan Bouck), then force Christy to a hostage video demanding the surrender of the Gorgonites. Alan and Archer trick the Commandos by putting an old radio into a cardboard box, playing a tape of supposed Gorgonites debating the merits of an idea. They rescue Christy after defeating the Gwendy dolls (voiced by Sarah Michelle Gellar and Christina Ricci) animated by the Elite in battle. The Commandos blast their way out of the garage on their vehicles and pursue Christy, Alan, and Archer, who escape on Christy's motor scooter. In the chase, all the Elite crash into a pond and are destroyed. Chip, however, survives the crash with part of his face melted and floats downstream to a local toy store. Chip then hijacks a shipment of new Commando Elite figures by forcing the driver to Alan's house. As the parents meet and begin arguing about what has happened, Larry and Irwin of the toy company arrive in response to Alan's earlier phone call. They have learned about the dangers of the X-1000 chip (and a possible weakness) from its designer, and are trying to circumvent any lawsuits. Returning to the Abernathy home, Chip Hazard activates dozens of Commandos and declares war on the Gorgonites and their human allies, whom they attack by cutting off the electricity supply and then shooting nails, flaming tennis balls, and firework rockets at the house. The humans are frantic and scared until Irwin and Larry recall that an electro-magnetic pulse might deactivate the X-1000 chip: desperate to find an available source thereof, Mr. Fimple suggests connecting a power-transformer in parallel, resulting in an explosion. Alan sends Christy, Larry, and Irwin to Fimple's house to turn on every single piece of Mr. Fimple's massive assembly of electronic components, so that the power will be flowing to overload the transformer. He then prepares to go out into the 'warzone' to complete this task himself, only to be stopped by his father, who wishes to protect him. Alan disobeys his father and goes to activate the E.M.P. Nearby, the Gorgonites override their program and decide to achieve victory, then set out to do so. Chip Hazard flies after Alan in a toy helicopter, but Freakenstein hijacks one of the vehicles and uses its weapons to shoot it down. Before it crashes into the Fimples' new satellite dish, Hazard ejects himself from it and attempts to knock Alan down. The situation changes when Archer confronts Hazard; after a brief fight, Hazard kicks Archer from the pole. In retaliation, Alan grabs Hazard and jams him between the transformers to activate the E.M.P., destroying the Commando Elite and their doll allies. The Gorgonites survive by hiding beneath a fallen satellite-signal receiver and are discovered later by Alan. The next morning, Gil Mars arrives to bribe all witnesses to the crisis into silence. Larry is fearful to lose his job, but Mars proposes that they increase the price of the Commando Elite and sell them to the military of a South American nation. Alan and Christy kiss passionately. At the end of the film, the Gorgonites set out in search for their home, Gorgon, on Stuart's model ship in a river in Yosemite National Park. (Source: WikiPedia. Bangs_McCoy)",
+      "writers": [
+         "Gavin Scott",
+         "Adam Rifkin"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0122718/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTI5NjE4NzM4OF5BMl5BanBnXkFtZTcwMTc5MDEzMQ@@._V1_SY317_CR3,0,214,317_AL_.jpg",
+      "actors": ["Stars: Kirsten Dunst, Gregory Smith, David Cross | See full cast and crew »"],
+      "reviews": [
+         "Who would have thought? A \"family film\" that doesn't suck! Small Soldiers, while not perfect, is still great fun. It's success is completely down to Joe Dante, a guy with an obvious love of classic b-grade, sf, horror and exploitation movies. It's no suprise he started his career with Roger Corman. Small Soldiers is basically a variation on his previous Gremlins ( cute, seemingly harmless, kiddie-friendly objects run amok) but I enjoyed it more. You can always tell how smart a movie is by its supporting cast, and the presence of the legendary Dick Miller ( a Dante mascot), Phil Hartman, Dennis Leary, and Mr Show's David Cross, not to mention the terrific voice talent, emphasize just how cluey Small Soldiers is. And any movie with Bride Of Frankenstein references gets my thumbs up! I hope Dante brings Dick Miller back to the big screen SOON! We need him!",
+         "I had been aware of the gem, yes, gem, that is Small Soldiers ever since I was quite little. I had also always owned it, and had watched it on numerous occasions. Time went by without a watch for many, many years, as I lost interest in it for a awhile, and then later on, when I became more indulged in the film life, I saw it in my collection and decided it was time to freshen up on it. I popped it in and was ready to be overwhelmed with the memories of how great this film truly manages to hold up being over time. I thought this movie was overall just a really great and enjoyable little film that even though it was just meant for entertainment, ended up being so lovable and cherished, much more than I thought I would love and cherish it. What was really that bad about it, folks? I have heard a lot of negativity directed at this film for being a weak Dreamworks animation with practically no depth or originality. Depth? Originality? You were honestly looking for those qualities with Small Soldiers? Maybe if you would lighten up on it, you'd enjoy it for the truly fun and enticing film it is. Some I bet were already even doubting it from the start, which that's no way to enter with a film as lighthearted and good-willed as Small Soldiers. Most of the comedic antics were quite laughable, and that's laughable in the tasteful kind of way, especially the renovated Barbies and cowardliness of the Gorgonites. It completely entertains you, and it certainly keeps you interested through the whole movie with the fun characters and non-stop deliverance of toy warfare and excellent voice-overs. The fighting scenes were cool and amusing, and the script was pretty different and new, even though many think Dreamworks tries to silently and sneakily follow in the footsteps of previous Disney/Pixar films that are big hits, in this case, Toy Story. I don't see why this movie has the rating it does, for I thought a lot more people would've liked it better than this, but I guess not everybody can spot a great film when they see one. If you haven't seen this movie yet, I completely recommend it, because it is a nice little movie that I am honored to own. It is getting too much harsh treatment. I had loads of fun watching it, always have, and I'm sure you will too, in the right mood. Plus, I love the usage of the song \"Wannabe\" at the right time in this film; forever a Spice Girl fan.",
+         "I found this movie in my attic recently. When I was looking at the VHS, nostalgia instantly flew back into me. I remember the toys, I remember seeing this is theaters opening day, and I remember me and my friends playing our own version of \"Small Soldiers\" at our local park. Great memories... I was SO baffled to see a 5.9 rating on IMDb. Why? This is a great family\\action film. After seeing the rating and many negative reviews, I decided to watch it again on VHS. Well, I liked it then, and I liked it now! Still, it was a good film. What I liked the most was the music and the special effects. The musical score was outstanding and so was the \"War\" remix. The CGI in the film amazes me on so many levels...I thought they were real! Overall, if you like edgy family films, watch 'Small Solders'. I think you will enjoy it.",
+         "Small Soldiers is good old fashioned, Tongue-in-cheek fun. Regular movie watchers will see many of their favorite characters, all caricatured here together as either a Commando-Elite or a Gorgonite warrior. The names of the characters, particularly the Commando-Elite, are extremely good, and worthy of an award of their own. Although some of the animation is a little wooden, that just seemed to add to the whole flavour of the film. As long as you don't have any pre-conceptions about this film, and ignore the hype, you are in for some highly entertaining fun. After all, who can watch a room full of bikini-clad barbie-dolls-with-attitude, \"playing with their owner for a change\", without breaking into a grin... Favorite quote: \"Lets see how you like being played with\"",
+         "Ah yes a Hollywood family film in the same vein as TOY STORY , so expect some highly patronizing , derivative drivel , or rather don`t because I found SMALL SOLDIERS to be a far better film than I expected . Much of this was down to the fact that the movie doesn`t talk down to its audience and the fact I didn`t have to put up with a myriad of scenes featuring bad CGI. Okay fair enough , it`s very obvious that`s a GI Joe doll trailing along on a bicycle but in the context of the story that`s exactly what it`s supposed to be . SMALL SOLDIERS also makes witty references to the likes of PATTON and THE TERMINATOR , ( See if you can spot them ) and what a charming creature Archer of the Gorgonites is . Gorgonites ! You`ve gotta love that name I enjoyed this movie and despite it not being an all time classic I do recommend it as an entertaining family film",
+         "Let's be honest, the concept of Small Soldiers(toys coming to life) came from Toy Story. However, DreamWorks came up with a MUCH different plot and the result is a great-and grossly underrated-family movie/action flick with top notch CGI. I'm sure many say DreamWorks is a poor man's Disney/Pixar, and I agree, but this one movie in which DreamWorks shines. One might argue that the Commandos are glorified G.I. Joes, but I will gladly look past that because, c'mon, they're awesome. Small Soldiers is a fine piece of entertainment and some of DreamWorks' best work to boot. I am begging you, don't pass it up. You won't regret giving it your time.",
+         "When \"Small Soldiers\" came out, it was right after back-to-back school shootings (plus the murder of Phil Hartman), so there was some controversy about having a movie where toys get violent. But this movie is actually quite good. You see, it's not some ridiculous, rah-rah military movie; it sides with the Gorgonites (the soldiers' adversaries), showing how - whether or not they win or lose - they always remain supportive of each other. As for the cast members, this is a Joe Dante movie, so Dick Miller and Robert Picardo get supporting roles. In this case, they play a delivery man and clean room technician, respectively. Phil Hartman is probably the funniest cast member, playing the ultimate suburban consumer (he wants to remove his neighbor's tree to make room for a satellite dish). All in all, this is definitely a movie worth seeing. As far as I remember, Joe Dante always does a good job.",
+         "I'm not really sure who this film is aimed at. At times it seems to be a child's movie and at other times it seems to be for adults. But nonetheless, I loved the film. I thought it was a fun story. The special effects alone are worth watching the film. It's truly amazing how fluidly the toys move and life-like the little toys are. Also, I really liked the various Gorgonite characters, they all looked quite unique. The cast is quite good too. Phil Hartman is quite funny in the film, as usual. Kirsten Dunst pulls off a great performance. The rest of the cast is quite good as well: Gregory Smith, Jay Mohr, David Cross, Denis Leary, and Kevin Dunn, to name a few. I really feel that actors in films like this don't get the credit they deserve, because they are acting against small little harmless platic or metal animatronic toys, or, in some cases, against nothing at all. So just keep that in mind when you're watching this film. The voice talents in this film are also quite good, with plenty of big names to go around including Tommy Lee Jones, Frank Langella, Ernest Borgnine, Jim Brown, Bruce Dern, George Kennedy, Clint Walker, Sarah Michelle Gellar, Christopher Guest, Michael McKean, Harry Shearer, and Christina Ricci. This film is just a fun film, there's nothing terribly deep or mind-boggling about this film, just enjoy it for what it is. I wouldn't recommend this to everyone, but if you read the plot description and it sounds interesting, then by all means, check it out. If you do end up seeing the film, I hope you enjoy it. Thanks for reading, -Chris",
+         "When Joe Dante first started directing, he made two above average B movies, Piranha and The Howling. Run through with Dante's enthusiasm for the horror/SF genre, they make numerous references and in-jokes to other films of the genre. Then in 1984, he had a huge hit with Gremlins, one of the finest comedies of the 80s. But sadly, every other film he's made since has performed poorly at the box office. That's not to say he's a terrible director. I think he's one of the world's most underrated filmmakers, having produced gems like Matinée, The burbs, Explorers. And the marvellous TV series Eerie Indiana. With Small Soldiers, Dante has sort of remade Gremlins, where another small all-American town comes under attack. But not from little monsters. From toys fitted with military microchips that go berserk. Small Soldiers never feels as satisfying as Gremlins. There was something tremendously entertaining in watching a sleepy, sugary wholesome town get torn to shreds by malicious monsters. But Small Soldiers is still entertaining, and just as subversive as you'd expect from Joe Dante. Gil Mars (the fast-talking Denis Leary) is the conglomerate of Globotech Industries. Having just recently bought Hartland Play Systems, a toy company, he is looking to market toys that actually do what they do in the adverts. Toys that can walk, talk and even think for themselves. He gets his chance when two of his employees come up with the Commando Elite, soldier toys programmed to crush their enemies, the Gorgonites. The leader of the Commando Elite, Major Chip Hazard (perfectly voiced by Tommy Lee Jones) is fitted with a special microchip that came from the Department of Defence. Along with the rest of his troops, they actually believe they're in a real war, and when they're shipped to the town of Winslow Corners with the Gorgonites, led by the passive Archer (a dignified performance by Frank Langella) all hell breaks loose! The Gorgonites end up in the care of Alan Abernathy, a delinquent with a reputation for being a troublemaker. With the help of his next door neighbour Christy (Kirsten Dunst), they get caught up in the war between the Commando Elite and the Gorgonites, which leads to full-scale warfare within Alan's home. Small Soldiers was criticised for being too violent for a kids film. I'm not sure if such a thing is possible in this day and age of desensitisation. And while it is violent on a comic level, the humour is never as dark as Gremlins. That film was occasionally disturbing, but Small Soldiers never crosses the line into outright bloodshed. There is quite an eclectic list of actors providing the voice-work. Tommy Lee Jones has the perfect voice for Major Chip Hazard, who has down pat what it takes to be a drill instructor. The rest of the Commando Elite are provided by the Dirty Dozen, and make a motley crew of hardasses. Frank Langella makes Archer into a very likable character, and his friendship with Alan is handled well without being too mawkish. An added treat is the Gorgonites are voiced by Spinal Tap, making Small Soldiers one of the best voiced animated films ever made. But as entertaining as the film is, it never reaches the anarchic heights of Gremlins. It seems too watered down. Except for one scene that is inspired in its subversiveness. Christy is held hostage by a group of Barbie-like dolls that have been malformed, twisted and altered beyond recognition until they become insane freaks drafted into the Commando Elite. Voiced wonderfully by Sarah Michelle Gellar and Christina Ricci, that scene will stay with you long after the film is over. Dante also makes some very funny satirical observations over the toy industry and corporate politics, from the Stepford-like receptionists who work for Globotech, to the way they frown upon educational toys. But in some ways, although Small Soldiers never gets as chaotic as Gremlins, it borrows a little too heavily from it. There are scenes lifted right from it. Like a kitchen scene where Archer is nearly put in a disposal, bursting through garage doors, even the soldiers being wiped out leaving only Major Chip Hazard alive. Dante puts a new spin on the events, but it does show a slight lack of imagination on his part. The human cast are capably played by some good actors, including some from Dante's stock company, like Dick Miller and Robert Picardo, and a final performance from the late Phil Hartman. There are also numerous references to other war movies. So look out for affectionate nods to Patton, Platoon, Full Metal Jacket and Apocalypse Now. It's doubtful Small Soldiers will be remembered in 20 years like Gremlins. But it's still above average entertainment, the special effects work is superb, and it's interesting to watch films like Toy Story with their gentle ideals be subverted in whole new directions to create a film like Small Soldiers.",
+         "The characters were not well developed because of the archetypal nature of the story, which was simple and insightful, with a lot of action and no real brutality. Filled with parodies and even musical quotes from other films, this film has a plot similar to _Gremlins_ with the greater feel of its sequel with its archetypal powerhouse of a Daniel Clamp (that is, sans Clamp's failings). Dante makes the film comical and thought-provoking, with main characters who seem like we are supposed to see ourselves in their place, rather than learn about who they are. There is wonderful use of a boat motif leading to an ending straight out of _The Gods Must Be Crazy_, with its power and charm. Despite this, Dante realized he was doing somewhat of a retread, hence all of the gremlin jokes. Dante had a better portrait of younger teenagers with _Explorers_ for those who miss the character development, which really only seems lacking after the film is over."
+      ],
+      "genres": [
+         "Action",
+         "Adventure",
+         "Comedy",
+         "Fantasy",
+         "Sci-Fi"
+      ],
+      "productionCompanies": [
+         "Universal Pictures",
+         "DreamWorks SKG",
+         "Amblin Entertainment"
+      ],
+      "summaries": [
+         "15-year-old Alan Abernathy, the son of a toy store owner, tries out some new action figures: The Commando Elite vs. The Gorgonites. But three months ago, a toy company believes it is onto something when it employs the latest government military technology in a series of action figures, enabling them to talk. They underestimate the power of the special micro chips they've employed, however, as the two opposing sides of the toy line start thinking for themselves and engaging in real combat! The Commando Elite vow to wipe out the Gorgonites in a suburban neighborhood. Alan, his neighbor Christy Fimple, (on whom he has a massive crush) with the help of the kind Gorgonites, must protect his home and family from the Commandos.",
+         "After military manufactured computer chips are put in a line of action figures, they end up with minds of their own and try to invade an Ohio suburb, and do battle with another line of toys that have the same chips.",
+         "Alan, son of a toy store owner, tries out some new action figures: The Commando Elite vs. The Gorgonites. What he does not know, is that both sets of toys were designed to move, talk and play back. The Commando Elite's purpose is to destroy the Gorgonites. Unfortunately, the toy designer who was responsible for the programming, bought highly intelligent military computer chips that are usually used for steering missiles - and are able to learn. Now, the Commando Elite, led by Major Chip Hazard, is up to destroying the Gorgonites, led by peaceful Archer, who hide in Alan's parents' house. Now, a battle, in which the destructive ability of creative computer chips against creative computer chips with a different attitude comes to light, is about to begin.",
+         "When missile technology is used to enhance toy action figures, the toys soon begin to take their battle programming too seriously."
+      ],
+      "budget": 40000000
+   },
+   "movielensId": 1920,
+   "movielens": {
+      "languages": [
+         "English",
+         "Français",
+         "Magyar",
+         "Español"
+      ],
+      "releaseDate": "1998-07-10",
+      "dvdReleaseDate": "1999-07-06",
+      "directors": ["Joe Dante"],
+      "runtime": 110,
+      "movieId": 1920,
+      "title": "Small Soldiers",
+      "mpaa": "PG-13",
+      "actors": [
+         "Gregory Smith",
+         "Kirsten Dunst",
+         "Denis Leary",
+         "Phil Hartman",
+         "David Cross",
+         "Jay Mohr",
+         "Kevin Dunn",
+         "Ann Magnuson",
+         "Wendy Schaal",
+         "Jacob Smith",
+         "Tommy Lee Jones",
+         "Frank Langella",
+         "Ernest Borgnine",
+         "Jim Brown",
+         "Bruce Dern",
+         "George Kennedy",
+         "Clint Walker",
+         "Christopher Guest",
+         "Michael McKean",
+         "Harry Shearer",
+         "Sarah Michelle Gellar",
+         "Christina Ricci",
+         "Dick Miller",
+         "Belinda Balaski"
+      ],
+      "imdbMovieId": "0122718",
+      "originalTitle": "Small Soldiers",
+      "genres": [
+         "Comedy",
+         "Adventure",
+         "Fantasy",
+         "Science Fiction",
+         "Action"
+      ],
+      "youtubeTrailerIds": ["YwIt5wagRsg"],
+      "plotSummary": "When missile technology is used to enhance toy action figures, the toys soon begin to take their battle programming too seriously.",
+      "tmdbMovieId": 11551,
+      "avgRating": 2.82597,
+      "releaseYear": "1998",
+      "numRatings": 4640,
+      "posterPath": "/l5laJWvcxgkoqC3nRPs9N5u55jR.jpg"
+   }
+}

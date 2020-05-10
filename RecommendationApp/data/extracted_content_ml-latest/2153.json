@@ -1,0 +1,435 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "london england",
+            "id": 212
+         },
+         {
+            "name": "weather manipulation",
+            "id": 3823
+         },
+         {
+            "name": "wretch",
+            "id": 4391
+         }
+      ],
+      "imdb_id": "tt0118661",
+      "video": false,
+      "title": "The Avengers",
+      "recommendations": [
+         11374,
+         7007,
+         6623,
+         11398,
+         479,
+         178,
+         2157,
+         10498,
+         10003,
+         9455,
+         6520,
+         9208,
+         9292,
+         9415,
+         9306,
+         10461,
+         11258,
+         12123,
+         4824,
+         9770
+      ],
+      "backdrop_path": "/8YW4rwWQgC2JRlBcpStMNUko13k.jpg",
+      "revenue": 48585416,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "John Steed",
+               "gender": 2,
+               "credit_id": "52fe44e7c3a36847f80b0e6d",
+               "name": "Ralph Fiennes",
+               "profile_path": "/95C56hfbvSA1UNvD433EzXviyV5.jpg",
+               "id": 5469,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Emma Peel",
+               "gender": 1,
+               "credit_id": "52fe44e7c3a36847f80b0e71",
+               "name": "Uma Thurman",
+               "profile_path": "/6SuOc2R7kXjq3Em24KTNDW9qblJ.jpg",
+               "id": 139,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Sir August de Wynter",
+               "gender": 2,
+               "credit_id": "52fe44e7c3a36847f80b0e75",
+               "name": "Sean Connery",
+               "profile_path": "/ce84udJZ9QRSR44jxwK2apM3DM8.jpg",
+               "id": 738,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Invisible Jones (voice)",
+               "gender": 2,
+               "credit_id": "52fe44e7c3a36847f80b0e79",
+               "name": "Patrick Macnee",
+               "profile_path": "/i7olaWWHDaOIou49JMSkykl8nWt.jpg",
+               "id": 10662,
+               "order": 3
+            },
+            {
+               "cast_id": 13,
+               "character": "Mother",
+               "gender": 2,
+               "credit_id": "52fe44e7c3a36847f80b0ead",
+               "name": "Jim Broadbent",
+               "profile_path": "/50TV6UKJKjmqdn1GQNuuCIYHLzP.jpg",
+               "id": 388,
+               "order": 4
+            },
+            {
+               "cast_id": 14,
+               "character": "Father",
+               "gender": 1,
+               "credit_id": "52fe44e7c3a36847f80b0eb1",
+               "name": "Fiona Shaw",
+               "profile_path": "/74b0OuN3xKs0dTMYBnbhDLwv8Oq.jpg",
+               "id": 10981,
+               "order": 5
+            },
+            {
+               "cast_id": 15,
+               "character": "Bailey",
+               "gender": 2,
+               "credit_id": "52fe44e7c3a36847f80b0eb5",
+               "name": "Eddie Izzard",
+               "profile_path": "/j5hzBqmcyWG2GC754uACCoNgAvS.jpg",
+               "id": 1926,
+               "order": 6
+            },
+            {
+               "cast_id": 16,
+               "character": "Alice",
+               "gender": 1,
+               "credit_id": "52fe44e7c3a36847f80b0eb9",
+               "name": "Eileen Atkins",
+               "profile_path": "/lLT7M1hjhWS2z2sZLIdl910LjNM.jpg",
+               "id": 20300,
+               "order": 7
+            },
+            {
+               "cast_id": 24,
+               "character": "Trubshaw",
+               "gender": 2,
+               "credit_id": "52fe44e7c3a36847f80b0ed5",
+               "name": "John Wood",
+               "profile_path": "/bWt4JT9eGxFtu3q0iCAKFtNv5XK.jpg",
+               "id": 8937,
+               "order": 8
+            },
+            {
+               "cast_id": 18,
+               "character": "Brenda",
+               "gender": 1,
+               "credit_id": "52fe44e7c3a36847f80b0ebd",
+               "name": "Carmen Ejogo",
+               "profile_path": "/yAiQAfxCAFw2SNIVpAePKXBvT58.jpg",
+               "id": 37158,
+               "order": 9
+            },
+            {
+               "cast_id": 19,
+               "character": "Tamara",
+               "gender": 1,
+               "credit_id": "52fe44e7c3a36847f80b0ec1",
+               "name": "Keeley Hawes",
+               "profile_path": "/1gPPMAbUlZG2WexWDc3RzwYeJ1z.jpg",
+               "id": 22809,
+               "order": 10
+            },
+            {
+               "cast_id": 20,
+               "character": "Donavan",
+               "gender": 0,
+               "credit_id": "52fe44e7c3a36847f80b0ec5",
+               "name": "Shaun Ryder",
+               "profile_path": null,
+               "id": 141549,
+               "order": 11
+            },
+            {
+               "cast_id": 21,
+               "character": "Dr. Darling",
+               "gender": 2,
+               "credit_id": "52fe44e7c3a36847f80b0ec9",
+               "name": "Nicholas Woodeson",
+               "profile_path": "/mJEQiX9inQzWEJb8LCm2xr7mgyl.jpg",
+               "id": 118617,
+               "order": 12
+            },
+            {
+               "cast_id": 22,
+               "character": "Butler",
+               "gender": 0,
+               "credit_id": "52fe44e7c3a36847f80b0ecd",
+               "name": "Michael Godley",
+               "profile_path": null,
+               "id": 141550,
+               "order": 13
+            },
+            {
+               "cast_id": 23,
+               "character": "Boodle's Porter",
+               "gender": 2,
+               "credit_id": "52fe44e7c3a36847f80b0ed1",
+               "name": "Richard Lumsden",
+               "profile_path": "/2YwiyGY1w1W4OQbnjGUf1yBvRbk.jpg",
+               "id": 141551,
+               "order": 14
+            },
+            {
+               "cast_id": 26,
+               "character": "Bob",
+               "gender": 2,
+               "credit_id": "58cbda9cc3a3682899010ff8",
+               "name": "Solly Assa",
+               "profile_path": null,
+               "id": 1776385,
+               "order": 15
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe44e7c3a36847f80b0e7f",
+               "name": "Jeremiah S. Chechik",
+               "profile_path": "/avEcJTGsWFEzxpSOutwhkP3adQ8.jpg",
+               "id": 34682,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44e7c3a36847f80b0e85",
+               "name": "Sydney Newman",
+               "profile_path": "/1YfvkmiBjWPI67GsfoMd1NoPews.jpg",
+               "id": 57293,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe44e7c3a36847f80b0e91",
+               "name": "Susan Ekins",
+               "profile_path": null,
+               "id": 57295,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44e7c3a36847f80b0e97",
+               "name": "Jerry Weintraub",
+               "profile_path": "/wqmJO4ChjNmmlz3wZ8qoCIC1VG9.jpg",
+               "id": 1888,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44e7c3a36847f80b0e9d",
+               "name": "Joel McNeely",
+               "profile_path": null,
+               "id": 49285,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44e7c3a36847f80b0ea3",
+               "name": "Roger Pratt",
+               "profile_path": "/5a4fQyqEo5Mqq1QROrBxTy7urv1.jpg",
+               "id": 293,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44e7c3a36847f80b0ea9",
+               "name": "Mick Audsley",
+               "profile_path": null,
+               "id": 294,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5525a6b392514171cb0095d0",
+               "name": "Don MacPherson",
+               "profile_path": null,
+               "id": 57294,
+               "department": "Writing",
+               "job": "Writer"
+            }
+         ]
+      },
+      "genres": [{
+         "name": "Thriller",
+         "id": 53
+      }],
+      "popularity": 9.815691,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 9320,
+      "vote_count": 242,
+      "budget": 60000000,
+      "overview": "British Ministry agent John Steed, under direction from \"Mother\", investigates a diabolical plot by arch-villain Sir August de Wynter to rule the world with his weather control machine. Steed investigates the beautiful Doctor Mrs. Emma Peel, the only suspect, but simultaneously falls for her and joins forces with her to combat Sir August.",
+      "similar": [
+         646,
+         657,
+         667,
+         668,
+         708,
+         682,
+         699,
+         253,
+         691,
+         658,
+         707,
+         714,
+         954,
+         177677,
+         146216,
+         379149,
+         259693,
+         210479,
+         634,
+         207703
+      ],
+      "original_title": "The Avengers",
+      "runtime": 89,
+      "poster_path": "/zxjJ2IxhilZLzl8eXjj7S0apZ7k.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Jerry Weintraub Productions",
+            "id": 2596,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/6rFNo5taSC9i0Sxnl81nucQMsw9.png",
+            "name": "Warner Bros. Pictures",
+            "id": 174,
+            "origin_country": "US"
+         }
+      ],
+      "release_date": "1998-08-13",
+      "vote_average": 4.3,
+      "belongs_to_collection": null,
+      "tagline": "Saving the World in Style.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Jeremiah S. Chechik"],
+      "runtime": 89,
+      "synopsis": null,
+      "writers": [
+         "Sydney Newman",
+         "Don MacPherson"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0118661/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMjA3NzcxODYzNV5BMl5BanBnXkFtZTcwOTcwOTcxMQ@@._V1_SY317_CR8,0,214,317_AL_.jpg",
+      "actors": ["Stars: Ralph Fiennes, Uma Thurman, Sean Connery | See full cast and crew »"],
+      "reviews": [
+         "I love the Avengers. Emma Peel was a hero of my childhood. I was ridiculously excited for the arrival of this film and had nauseated all my friends when the project was first announced about who was to be our two spies. I was thrilled with the selection of Fiennes -- but Thurman? I was hesitant. Then Diana Rigg passed on being in the film. Another bad sign. Then, the television trailers, yet a third omen but I told myself the movie could not possibly be that bad. IT was worse than my wildest nightmares -- and I have an excellent imagination. Thurman was as bad as I thought, Fiennes had nothing to play to. Macnee, oh, how it could have improved if we'd seen him. I think this movie is terrible because they didn't get the joke. The Avengers is cheeky, campy, fun, and never without some form of the double entendre somewhere. Apparently, the script writes never actually saw the series and didn't get the joke. I beg, some British filmmaker somewhere give it a chance. Make your own version. Give some dignity back.",
+         "Frankly, when THE AVENGERS was released, I wanted it to bomb--I wanted Hollywood to finally get the idea that ripping off old TV shows is IMBECILIC and almost never successful. Thus, I was happy that the movie did poorly and closed quickly. (I also took a trip to London just as the movie was released, and if you think it was ill-received here, the British took it times TEN.) Ironically, though, it isn't that bad a movie. Not great, but certainly not the despicable mess that most others seem to think. It's been called ridiculous, slow, talky, surreal. Well, what a shock, so was the original series. I've recently viewed the entire 1967 season (bought all four boxed sets), and the show is all those things at times. It is slow, generally, at a very langorous pace throughout most stories. It is talky, since most of the charm of the original was in the dialogue between characters. It was surreal, even ridiculous (The Winged Avenger, anyone? Eeee-urp.) Uma Thurman does a passable job as Emma--she's no Diana Rigg, but who is? She plays the character smart enough, although she doesn't quite capture Rigg's regal command of situation. Ralph Fiennes, however, misses the character of Steed quite a bit, playing him as reserved, without any of Steed's charisma. Steed always had a quality about him that made you feel as if he woke up every morning feeling absolutely smashing--Fiennes seems to miss that. The problem the film faces is twofold: Those of us who have seen the original will always compare the two, and a copy can't hope to compare. Those who haven't seen the series have no grounds to assess it on--(see some of the above user comments which begin 'I never saw the original series...')and since I think this series is not exactly vividly-remembered by the majority of the population (particularly the 18 and under movie-goers, who don't have much grasp of the nuances The Avengers operated on). Frankly, The Avengers was probably just a bad choice to try to remake (--LIKE ALL OLD TV SHOWS. Tell me one old-TV remake that has ever spawned a sequel (which Hollywood is always sure to do when something is a success)-- only THE BRADY BUNCH...point proven?)",
+         "This movie based on the popular British TV series is such a flop it doesn't really deserve comment, but here are a few nonetheless. This is the kind of movie making that really has you wonder if you should ever visit a theater again, when you consider the waste of millions of dollars on sets, special effects and high-powered actors that could have been used for such better causes (such as, oh, say a big-screen version of \"My Mother the Car\"). At any rate, the film got what it deserved by being universally panned by critics and bombing at the box office. It was then rushed out of theaters with the bad-film strategy that relative obscurity would result in more bread at the video stores. Considering that Ralph Fiennes (Schindler's List, Englsh Patient) and Uma Thurman (Pulp Fiction, etc.) were at the top of their box-office draw potential, and with the addition of the always popular Sean Connery in a unique role as a villain, one would think that this movie would have been a sure hit. However, the potential went lightning fast down the tubes, greased by a stinky script, second-guessed editing and incompetent direction. The best elements of the original series, namely, its charm and style, are absent. A lot of the charm came from the relationship between Steed and Peel. But Fiennes' Steed is aloof and Thurman's Mrs. Peel is cold as ice. The two appear to be sleepwalking through their respective roles, with visions of fat paychecks dancing in their heads. Ironically, an imprudent element of the TV series that was indicative of its downhill slide after the departure of Diana Rigg (the original Mrs. Peel), namely, the introduction of the silly character of \"Mother,\" IS included in the film. Go figure. Connery 's performance as a mastermind who can manipulate the world's weather falls flat. Like Fiennes and Thurman, he appears to be going through the motions of a script he has no faith in. Quirky aspects of the original series that were cute and amusing have been replaced with gimmicks that are just unfunny strange and head-scratchingly bizarre. For example: the requisite cameo of an actor from the original series features only the voice of Patrick Macnee in the role of an invisible man behind a desk. What this character has to do with anything, other than adding to an already disjointed script, is anybody's guess. On a website competently dedicated to the series it has been speculated that the director never saw a single episode of the TV Avengers. If you were any kind of fan, you will immediately observe that there is a good reason to believe this. Jeremiah Chechik's direction seems to lack any instinct for the flavor of the original series. At any rate, with this brand of TV series-inspired movie making, you may find yourself yearning for \"Return to Gilligan's Island.\" Originally hyped as a summer blockbuster, the cinematic version of \"The Avengers\" is only spectacular in its capacity to disappoint.",
+         "Uma Thurman's catsuits aside, \"The Avengers\" is one of the flattest movies to come down the pike in a long time. The failing Sean Connery isn't really the villain in this movie, the true villains are a director who thought he could \"improve\" on the original, and an editor who really shouldn't have been let out of film school. Fiennes and Thurman do an adquate job with what they were given, which wasn't much, and then the editor took half of that away. Connery got one half-choked off rant, (all of which you see in the trailer) and then hid in the leftover set for the power supply from the floating city in \"The Empire Strikes Out\" (Er -- \"Back\"). A pathetic effort from a formerly stellar actor. Eileen Atkins was rather fun as Alice, Steed's minder, and the guest appearance by Patrick Macnee was somewhat amusing. As for the writing, well.... I think (despite the credits) they actually gave the job to a couple of public school lads who rather thought that they were being clever. Overall, not worth the money spent to make it, nor the $6 I paid to see it. One star, mostly for some rather nice, if somewhat generic, cinematography.",
+         "Is The Avengers a good film? No. Is it the worst film ever made? No. I first saw the movie at the cinema upon its release and, at that time, I did think that it was one of the worst films I'd seen up to that point. I've watched it 2 or 3 times since then and my opinion of it has improved, well, very slightly at any rate. Apart from a pervading incoherence, I think the film's major problem is its slightness; it's only an hour and a half long and the plot is very simplistic to say the least. It's not hard to imagine audiences feeling a bit short-changed when it first came out, especially as the film was a big-budget, would-be summer blockbuster. Another big problem is the casting of Uma Thurman as Emma Peel. Thurman has shown herself to be a fine actress in movies such as Pulp Fiction but she just looks out of her depth here (I never believed in her as a top-level scientist for a second) and her English accent doesn't sound natural. Nicole Kidman, to whom the role was first offered, would surely have been better, in particular, she's displayed flawless English accents in films such as The Others and The Hours. An English actress I also think would have made a great Peel is Joely Richardson but the studio would probably have vetoed such a choice on the grounds of her not being a big enough name. Ralph Fiennes was a real enigma in this film - there was nothing wrong in principle in casting him as Steed but he looks ill at ease throughout the movie as if he'd rather be elsewhere. I can only assume he'd already twigged that the film was going to be a turkey. What's worse, Fiennes and Thurman have absolutely no chemistry between them, which wastes the snappy dialogue they have with each other throughout the film. The supporting cast fare a bit better with seasoned pros such as Sean Connery, Jim Broadbent and Fiona Shaw making the most of their underdeveloped parts. The retro-chic world of the original TV series is nicely recreated and there's no shortage of nice cars, costumes and locations but what's good about the film is easily drowned out by what's bad; The Avengers is ultimately a shallow, rushed and messy affair, severely hampered by the performances of its two leads. Handled properly, the film could have been a wonderful success for all concerned, the first chapter of an entertaining and lucrative franchise, stretching well beyond the 1990s; instead it's one of the most embarrassing flops of that decade. The original cut of the film was apparently two and a half hours long but, following negative reactions from audiences at test screenings, the studio hacked the film down to its present one and a half hour length. This doesn't actually come as much of a surprise as there is a lack of proper narrative flow to the film suggestive of chunks of explanatory scenes having been cut out. Just one example: towards the end of the film, just before they enter Sir August's underwater lair, Steed and Peel enter a phone box and Peel says \"how now brown cow?\" down the phone. The phrase seems to be a password to enter the premises but how does Peel know it? There's been talk here and there of the possibility of Warners releasing a director's cut or special edition DVD, restoring the original two and a half hour version. I think this would be a good idea and I'd definitely be interested in watching the full version of the film. It's highly unlikely to be any kind of masterpiece but it's difficult to imagine that it wouldn't improve upon the movie as it stands. At the very least you'd have to assume that it would be more coherent. Sadly I don't think the chances of Warners going down this line are high; I have the feeling that this is a movie the studio would rather forget about than draw attention to.",
+         "Warner Bros. fantasies have always had a certain memorable flare. Dating back to films like \"Superman\" and \"Blade Runner\", a viewer could always be guaranteed at least a ticket into another world. \"The Avengers\" would have been that next \"big\" thing for Warner Bros. had it not been so shoddily edited at the last minute. It should be duly noted, however, that this film had all the signs of a thanksgiving turkey: It's release date, which was moved from late June to the dog days of August. Then the fact that no press screenings have been allowed for critics. No good can come of these prophecies. \"The Avengers\", which, at best, is a second rate version of the original \"Batman\" has all the features of your top blockbuster: A Big name or two, a plethora of explosions, and enough special-effects to put \"Godzilla\" to shame. The Plot follows the exploits of the legendary secret agents John Steed (Ralph Fiennes) and Emma Peel (Uma Thurman), as they do battle with a maniacal meteorologist (Sean Connery) who has intentions on controlling the world's weather. Simple enough. Or so one would have thought. It would appear that some 25 minutes (!) was excised from the film as a result of poor test screenings. As history has told, no good comes from test screenings. As a result, the film becomes so utterly confusing that the viewer would sooner give up, rather than be insulted by a film that insists on staying one step ahead of you at all times. Only potentially good films are butchered in an attempt to make the film more appealing to youngster's attention spans. But make no mistake about it, this film is certainly not for children. Perhaps the last half hour will provide enough enjoyable action (and it does, believe me!) to distract them, but up until then the film consists of awkward dialogue, inane action (Gigantic teddy bears, anyone?), and an uncomfortable overdose of strangeness. The cast, at one time, might have been game, but only once in a while does Ralph Fiennes even crack a smile. Thurman has apparently got the English accent down perfectly, but the only problem lies in the fact that she forgets to give a performance worth remembering. And last, but certainly not least, Sean Connery. Sadly, he doesn't even look like he wants to take over the world. Only once, in a mumbled rant, does he evoke some feelings of evil. That being said, \"The Avengers\" is a technical masterpiece. Providing the viewer with a universe of dazzling sets (that should at least be nominated for an oscar), imaginative visual effects, and beautiful costumes, one almost forgets that England doesn't look like this anymore. Unless of course, you live there. The score, composed by Joel McNeely proves to be one of the coolest scores ever produced. Inducing excitement, tension, and a little smoothness, provided by some nifty jazz notes. All of which the film is unable to do itself. For those who won't enjoy this film, it is mercifully brief. So brief to the point that it's strange. It jumps from a one hour section of the beginning to a half hour of climactic action that the viewer blinks and the movie might just be rolling into the credits. One can only hope for an improvement with a director's cut. Until then, this film should gain cult status before it makes it's way to video. Which I'm sure will be soon. Out Of Four - **",
+         "Well I don't know how this one slipped through the studio system but I'm very glad it did. When I heard about an Avengers movie I assumed we'd be getting a bastardised Hollywood formula movie, and it would resemble some of the recent Bond films more than the original series. But I was thrilled to find the film had the same wonderful sense of absurdity as the show. :) I think a lot of people are unaware this is a complete comedy. This being the case it's not surprising people think it's bad, but that's their problem. The comedy style is not a popular one, it's a particular style of generally British humour, best described as complete and utter nonsense. If you have no appreciation for absurdity, then you will NOT like this film. Nothing in The Avengers should be taken at face value, it's all a load of s***. Steed and Peel are full of s***, that's the point. No one acts the way they do, they are both constantly trying to out cocky each other. The world of The Avengers is a place where \"small things are taken with the utmost seriousness and important things are not taken seriously at all\". The Avengers purposely doesn't explain things, it's not supposed to make sense, that would ruin it. It's the little things in The Avengers that make it shine. Small asides from left-field that seem to go over most peoples heads. Fiennes and Thurman are different than Macnee and Rigg, but I'm not sure they're much worse. Fiennes could perhaps have been a bit more cheerful. Thurmans whole screen presence is so vastly different from Riggs that it's impossible to compare, but I did enjoy Thurmans version of the infalable Peel. Connery going nuts was fun to see too. BTW Eddie Izzard not talking was the point of him being there, get it. Having Eddie Izzard in your movie and not having him say anything is to my mind very funny. It's very hard to explain to people who flock to films like The Waterboy, why a film like The Avengers is so funny. Most people I guess will just never get it. I got it, and I'm glad that there ARE plenty of other people who did too. Congrats to the makers for daring to be different and convincing the studio into letting you spend $70 million. 8/10",
+         "In spite of all the negative reviews and the low rating, I have immensely enjoyed this new version of 'The Avengers'. No, it does not replace Patrick MacNee nor Diana Rigg. But it's not supposed to, so that does not count. Yet what positively surprised me is that the film does have the flavour of the original Avengers, that it is full of understatements, and that the acting is in the - difficult - vein of what I'd call 'grotesque underacting'. Uma Thurman delivers a worthy Emma Peel with more than enough man appeal to keep me starry-eyed to the screen for 90 minutes. Mr. Fiennes combines distinction, humour and resolution in a way that is worthy of Mr. John Steed. The plot is original, yet partly predictable - but aren't all of the original 'Avengers' episodes predictable by modern audiences? Isn't a Mozart symphony predictable? Add to this the cinematography that is just delicious, and you have a real audience treat, even for those who consider themselves long-time Avengers fans like me.",
+         "Oh, wait, that's from Get Smart, not The Avengers. No matter. As a longtime fan of The Avengers (since childhood), I will say, right off the bat, that this movie did not fail on all levels. If nothing else, the makers of this film understood, at least, what The Avengers was about. This puts them head and shoulders above, say, the makers of The Wild Wild West movie, who had only the most rudimentary (and faulty) knowledge of what made that series an icon of popular American culture. They might not have been successful in the execution, but they did understand what made The Avengers tick, and if the studio heads hadn't ordered extreme and desperate editing, we might have been able to see more of what the filmmakers imagined. Two scenes stand out as perfect examples of this understanding: When Mrs. Peel tries to escape by running endlessly down an Escher-like staircase, and when Steed and Mrs. Peel walk on water in giant bubbles. Sean Connery's eccentric megalomaniac (so much more interesting than a serious, conservative megalomaniac) fit right in with the The Avenger's roster of enemies. Whatever sense of fun the movie had (and The Avengers tv series never seemed to take itself too seriously; does anyone remember Steed being shrunk to the size of a mouse and jabbing a villain in the ankle with a fountain pen?) was destroyed when the nut jobs at the studio fell for the old \"edit out what the test audience didn't like\" trick, and put a botched film on the screen. Too bad these studio honchos have such weak nerves and such short memories; will they never learn?",
+         "John Steed is an agent for the Ministry; he is trained to perfection and one of the best despite his belief that the enemies of the past are no longer relevant. When a research laboratory into a weather-based defence system is blown up the main suspect is one Dr Emma Peel, although Dr Peel is adamant that she is innocent. With her being their only lead into the bomb, the Ministry assign Steed to work alongside her and use her to get to the bottom of the mystery \u0096 well, after tea anyway. At the time of release I decided to give this film a miss as I felt I had heard too much of the critics having a field day to really be able to view it with a clear eye. Years later though I decided to give it a go on the basis that each year will see a blockbuster getting a kicking from all critics \u0096 sometimes deserved but at other time it is just a poor film that critics jump on it. However by the time I had reached the point where Sean Connery reveals his plan to a bunch of partners dressed as day-glow teddy bears I realised that things were not going to go well. Up till this point I had felt that the film was developing a nice little sense of humour that spoofs the idea of the typically English gentleman spy; however tongue-in-cheek humour is hard to do right and it is very easy to turn the film into a very silly affair that is not so much funny as it is embarrassing. And so it was with The Avengers, a film that has some reasonable moments but is generally an unengaging and rather silly mess that can only be enjoyed as such. The problem is, this is a very expensive film for one that is just meant to be silly and it really needed to be fun, exciting and enjoyable as well, not just feature some silly points. For me the bear costumes were silly but enjoyable (it is such a weird sight that it stayed with me) but the majority of the rest of the film were just plain silly. The weather plot was poorly done and it never engaged me once. The cast look good on paper but they are lost in the material and can do little with it. Of course in the case of Connery, it may have helped a little bit if he'd even tried, but he is poor throughout and just looks like a man getting paid. Fiennes is well cast and he is very English, it would have been a good performance had the rest of the film got the tone even half right. Thurman is not an actress I really rate and she has turned in too many average performances recently and here is no exception. Fans may appreciate her squeezed into tight costumes but for me that doesn't come close to covering a very poor performance where she gets it all wrong. Support from Broadbent, Izzard and Macnee sounds like a good prospect but really they have nothing to do and are pretty pointless in reality. Overall this is not a laughingly terrible film, it is just lacking in any real, consistent value. Some bits are amusing but mostly it is all misjudged with the humour being too silly to work and damaging any dramatic value the film may have had. The actors are mostly poor, thanks to the material and an apparent uncertainty about what they are meant to be doing. It isn't the child of Satan or anything but I would be hard pressed to give you one reason why you should watch this."
+      ],
+      "genres": [
+         "Action",
+         "Adventure",
+         "Sci-Fi",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "Warner Bros.",
+         "Jerry Weintraub Productions"
+      ],
+      "summaries": [
+         "British Ministry agent John Steed, under direction from \"Mother\", investigates a diabolical plot by arch-villain Sir August de Wynter to rule the world with his weather control machine. Steed investigates the beautiful Doctor Mrs. Emma Peel, the only suspect, but simultaneously falls for her and joins forces with her to combat Sir August.",
+         "British Ministry secret agent John Steed, teams up with Emma Peel to stop Sir August De Wynter from destroying the world with a weather changing machine. They are called in to investigate Prospero, a plot to blackmail Britain by controlling the weather. Emma Peel is suspected of being involved but it is discovered that she has a double who works for the real baddie, Sir August de Wynter. He threatens to freeze Britain, at one point unleashing a blizzard on Trafalgar Sqaure.",
+         "British secret agent John Steed teams up with scientist Emma Peel to investigate dramatic changes in the earth's climate. Under the direction of agency boss Mother - and apparently with Father's help - the trail quickly leads to kilted ex-agent August de Wynter who seems always to be ahead of the game. Peel and Steed have to work fast and closely if they are to save the world and themselves.",
+         "Two British agents (John Steed and Emma Peel) team up to stop Sir August De Wynter from destroying the world with a weather changing machine."
+      ],
+      "budget": 60000000
+   },
+   "movielensId": 2153,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1998-08-13",
+      "dvdReleaseDate": "1998-12-29",
+      "directors": ["Jeremiah S. Chechik"],
+      "runtime": 89,
+      "movieId": 2153,
+      "title": "The Avengers",
+      "mpaa": "PG-13",
+      "actors": [
+         "Ralph Fiennes",
+         "Uma Thurman",
+         "Sean Connery",
+         "Patrick Macnee",
+         "Jim Broadbent",
+         "Fiona Shaw",
+         "Eddie Izzard",
+         "Eileen Atkins",
+         "John Wood",
+         "Carmen Ejogo",
+         "Keeley Hawes",
+         "Shaun Ryder",
+         "Nicholas Woodeson",
+         "Michael Godley",
+         "Richard Lumsden",
+         "Solly Assa"
+      ],
+      "imdbMovieId": "0118661",
+      "originalTitle": "The Avengers",
+      "genres": ["Thriller"],
+      "youtubeTrailerIds": [
+         "kgTiFsCMCo4",
+         "XPsU_u6S71k"
+      ],
+      "plotSummary": "British Ministry agent John Steed, under direction from \"Mother\", investigates a diabolical plot by arch-villain Sir August de Wynter to rule the world with his weather control machine. Steed investigates the beautiful Doctor Mrs. Emma Peel, the only suspect, but simultaneously falls for her and joins forces with her to combat Sir August.",
+      "tmdbMovieId": 9320,
+      "avgRating": 2.10678,
+      "releaseYear": "1998",
+      "numRatings": 3025,
+      "posterPath": "/zxjJ2IxhilZLzl8eXjj7S0apZ7k.jpg"
+   }
+}

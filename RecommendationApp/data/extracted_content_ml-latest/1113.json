@@ -1,0 +1,821 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "career",
+            "id": 3658
+         },
+         {
+            "name": "sexism",
+            "id": 4411
+         },
+         {
+            "name": "autonomy",
+            "id": 4970
+         },
+         {
+            "name": "broker",
+            "id": 5628
+         },
+         {
+            "name": "wall street",
+            "id": 5636
+         },
+         {
+            "name": "partner",
+            "id": 9104
+         }
+      ],
+      "imdb_id": "tt0115580",
+      "video": false,
+      "title": "The Associate",
+      "recommendations": [
+         11107,
+         50116,
+         41852,
+         21887,
+         19118,
+         107934,
+         10896,
+         18862,
+         27141,
+         18856,
+         10729,
+         13982,
+         17133,
+         36288,
+         49803,
+         61418,
+         14167,
+         83489,
+         48123,
+         399786
+      ],
+      "backdrop_path": "/jZVSzUzYDzwXrRNYvhQR9tvMIcs.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Laurel Ayres",
+               "gender": 1,
+               "credit_id": "52fe43fa9251416c75024d85",
+               "name": "Whoopi Goldberg",
+               "profile_path": "/n3lF8w4X4rDa4J2LMDIxMEcuUeH.jpg",
+               "id": 2395,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Sally Dugan",
+               "gender": 1,
+               "credit_id": "52fe43fa9251416c75024d89",
+               "name": "Dianne Wiest",
+               "profile_path": "/sWm7Oar69rHGJzKgcP4iutwUmLb.jpg",
+               "id": 1902,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Donald Fallon",
+               "gender": 2,
+               "credit_id": "52fe43fa9251416c75024d8d",
+               "name": "Eli Wallach",
+               "profile_path": "/nRoyZzUjzY7iGdnp2V2kOgrMMFi.jpg",
+               "id": 3265,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Frank Peterson",
+               "gender": 2,
+               "credit_id": "52fe43fa9251416c75024d91",
+               "name": "Tim Daly",
+               "profile_path": "/eLBlqpzOv1F9oPcWSU76yiuXneU.jpg",
+               "id": 68122,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Camille Scott",
+               "gender": 1,
+               "credit_id": "52fe43fa9251416c75024d95",
+               "name": "Bebe Neuwirth",
+               "profile_path": "/xm58rpMRVDHS0IGttw1pTlqGwkN.jpg",
+               "id": 10739,
+               "order": 4
+            },
+            {
+               "cast_id": 20,
+               "character": "Aesop Franklin",
+               "gender": 2,
+               "credit_id": "52fe43fa9251416c75024ded",
+               "name": "Austin Pendleton",
+               "profile_path": "/pxcdhd4oAsnhvUg0BalmiiKJyXg.jpg",
+               "id": 6168,
+               "order": 5
+            },
+            {
+               "cast_id": 21,
+               "character": "Cindy Mason",
+               "gender": 1,
+               "credit_id": "52fe43fa9251416c75024df1",
+               "name": "Lainie Kazan",
+               "profile_path": "/qI20obSkCyWbo13xh20rWeUuMXp.jpg",
+               "id": 53647,
+               "order": 6
+            },
+            {
+               "cast_id": 22,
+               "character": "Walter Manchester",
+               "gender": 2,
+               "credit_id": "52fe43fa9251416c75024df5",
+               "name": "George Martin",
+               "profile_path": "/sTMvxjcCRKfyT7r5IMd02wYDYtU.jpg",
+               "id": 2701,
+               "order": 7
+            },
+            {
+               "cast_id": 23,
+               "character": "Charlie",
+               "gender": 0,
+               "credit_id": "52fe43fa9251416c75024df9",
+               "name": "Kenny Kerr",
+               "profile_path": null,
+               "id": 1171524,
+               "order": 8
+            },
+            {
+               "cast_id": 24,
+               "character": "Bissel",
+               "gender": 2,
+               "credit_id": "52fe43fa9251416c75024dfd",
+               "name": "Lee Wilkof",
+               "profile_path": "/hLMn7bvQy1kKuqMxhzOJQxQTjxt.jpg",
+               "id": 21154,
+               "order": 9
+            },
+            {
+               "cast_id": 25,
+               "character": "Mrs. Cupchick",
+               "gender": 1,
+               "credit_id": "52fe43fa9251416c75024e01",
+               "name": "Helen Hanft",
+               "profile_path": null,
+               "id": 82487,
+               "order": 10
+            },
+            {
+               "cast_id": 26,
+               "character": "Plaza Manager",
+               "gender": 2,
+               "credit_id": "52fe43fa9251416c75024e05",
+               "name": "George Morfogen",
+               "profile_path": "/82Ziv9cjBbI0BKYFzxbmVpPk2S5.jpg",
+               "id": 39017,
+               "order": 11
+            },
+            {
+               "cast_id": 27,
+               "character": "SEC Agent Thompkins",
+               "gender": 2,
+               "credit_id": "52fe43fa9251416c75024e09",
+               "name": "Zeljko Ivanek",
+               "profile_path": "/bQbyb11FgEPwNSfFeb6ChTfkqEM.jpg",
+               "id": 6752,
+               "order": 12
+            },
+            {
+               "cast_id": 28,
+               "character": "Harry",
+               "gender": 2,
+               "credit_id": "52fe43fa9251416c75024e0d",
+               "name": "Miles Chapin",
+               "profile_path": "/5XPfiknhd6rXRIppSDmN0P4dndC.jpg",
+               "id": 104418,
+               "order": 13
+            },
+            {
+               "cast_id": 29,
+               "character": "Loan Officer",
+               "gender": 1,
+               "credit_id": "52fe43fa9251416c75024e11",
+               "name": "Jean De Baer",
+               "profile_path": null,
+               "id": 78518,
+               "order": 14
+            },
+            {
+               "cast_id": 30,
+               "character": "Peabody Club Concierge",
+               "gender": 2,
+               "credit_id": "52fe43fa9251416c75024e15",
+               "name": "Louis Turenne",
+               "profile_path": "/7Z0QkPQXv1j7AchZgakXlUi62oH.jpg",
+               "id": 55960,
+               "order": 15
+            },
+            {
+               "cast_id": 32,
+               "character": "Detective Jones",
+               "gender": 1,
+               "credit_id": "52fe43fa9251416c75024e1d",
+               "name": "Colleen Camp",
+               "profile_path": "/3SbQnaC4SjykOIPDzrDlyIKzD9I.jpg",
+               "id": 13023,
+               "order": 17
+            },
+            {
+               "cast_id": 33,
+               "character": "Eddie",
+               "gender": 2,
+               "credit_id": "52fe43fa9251416c75024e21",
+               "name": "Brian Tarantina",
+               "profile_path": "/3wJWb5xIxkwvSWVvdgEE92YIBaS.jpg",
+               "id": 4890,
+               "order": 18
+            },
+            {
+               "cast_id": 34,
+               "character": "Harley Mason",
+               "gender": 2,
+               "credit_id": "52fe43fa9251416c75024e25",
+               "name": "Jerry Hardin",
+               "profile_path": "/vMXJijoMhBktN2rWmwAjT59jP9B.jpg",
+               "id": 89141,
+               "order": 19
+            },
+            {
+               "cast_id": 35,
+               "character": "Harley's Associate",
+               "gender": 2,
+               "credit_id": "52fe43fa9251416c75024e29",
+               "name": "John Short",
+               "profile_path": "/vuFM4Yf11ZZoF30Zik4GaXQvehs.jpg",
+               "id": 61410,
+               "order": 20
+            },
+            {
+               "cast_id": 36,
+               "character": "Harley's Associate",
+               "gender": 2,
+               "credit_id": "52fe43fa9251416c75024e2d",
+               "name": "Thomas Wagner",
+               "profile_path": "/zabgxfbAOSSYdEg4DBKKXKx1L8f.jpg",
+               "id": 555084,
+               "order": 21
+            },
+            {
+               "cast_id": 37,
+               "character": "Himself",
+               "gender": 0,
+               "credit_id": "52fe43fa9251416c75024e31",
+               "name": "Johnny Miller",
+               "profile_path": null,
+               "id": 1171525,
+               "order": 22
+            },
+            {
+               "cast_id": 38,
+               "character": "Dalton",
+               "gender": 0,
+               "credit_id": "52fe43fa9251416c75024e35",
+               "name": "Nicholas Kepros",
+               "profile_path": "/5rcQWSlnpQaKsGriV0GKlyamAan.jpg",
+               "id": 162127,
+               "order": 23
+            },
+            {
+               "cast_id": 39,
+               "character": "Executive at Strip Club",
+               "gender": 2,
+               "credit_id": "52fe43fa9251416c75024e39",
+               "name": "Peter McRobbie",
+               "profile_path": "/ynPUzInVl3ZyQyU8DICUeecpDuR.jpg",
+               "id": 19489,
+               "order": 24
+            },
+            {
+               "cast_id": 40,
+               "character": "Executive at Strip Club",
+               "gender": 2,
+               "credit_id": "52fe43fa9251416c75024e3d",
+               "name": "Daryl Edwards",
+               "profile_path": "/i9lsNn3oXOKgnEXdvpYq468qa1o.jpg",
+               "id": 96539,
+               "order": 25
+            },
+            {
+               "cast_id": 41,
+               "character": "Sandy",
+               "gender": 1,
+               "credit_id": "52fe43fa9251416c75024e41",
+               "name": "Allison Janney",
+               "profile_path": "/cDcB8mKP1GiIeoM3Qe7GIucs0iv.jpg",
+               "id": 19,
+               "order": 26
+            },
+            {
+               "cast_id": 42,
+               "character": "Carl Bode",
+               "gender": 2,
+               "credit_id": "52fe43fa9251416c75024e45",
+               "name": "Frederick Rolf",
+               "profile_path": null,
+               "id": 162568,
+               "order": 27
+            },
+            {
+               "cast_id": 43,
+               "character": "Thomas, Plaza Bellhop",
+               "gender": 2,
+               "credit_id": "52fe43fa9251416c75024e49",
+               "name": "Lawrence Gilliard Jr.",
+               "profile_path": "/2lfE8pAW8Hb5ounAQL8VqPJHn1.jpg",
+               "id": 37947,
+               "order": 28
+            },
+            {
+               "cast_id": 44,
+               "character": "Charlotte, Plaza Concierge",
+               "gender": 0,
+               "credit_id": "52fe43fa9251416c75024e4d",
+               "name": "Lianna Pai",
+               "profile_path": null,
+               "id": 189128,
+               "order": 29
+            },
+            {
+               "cast_id": 45,
+               "character": "José, Plaza Waiter",
+               "gender": 2,
+               "credit_id": "52fe43fa9251416c75024e51",
+               "name": "Vincent Laresca",
+               "profile_path": "/1uONrRIcJqQCx7tfQppuqjfJIzA.jpg",
+               "id": 1983,
+               "order": 30
+            },
+            {
+               "cast_id": 46,
+               "character": "Plaza Men's Room Attendant",
+               "gender": 2,
+               "credit_id": "52fe43fa9251416c75024e55",
+               "name": "Arthur French",
+               "profile_path": "/zfubSF4YKsG15HWQyavn3EOMe5R.jpg",
+               "id": 91827,
+               "order": 31
+            },
+            {
+               "cast_id": 47,
+               "character": "Frank's Girlfriend",
+               "gender": 1,
+               "credit_id": "52fe43fa9251416c75024e59",
+               "name": "Kathleen McClellan",
+               "profile_path": null,
+               "id": 165232,
+               "order": 32
+            },
+            {
+               "cast_id": 49,
+               "character": "Jogging Track Executive",
+               "gender": 2,
+               "credit_id": "52fe43fa9251416c75024e61",
+               "name": "John Rothman",
+               "profile_path": "/bRSoDm75c5fKBbCrbrXwaPiAeST.jpg",
+               "id": 60205,
+               "order": 34
+            },
+            {
+               "cast_id": 50,
+               "character": "Hockey Game Executive",
+               "gender": 2,
+               "credit_id": "52fe43fa9251416c75024e65",
+               "name": "Jonathan Freeman",
+               "profile_path": "/7TGFlxMjGdFRj9E1CDTBqfabQpb.jpg",
+               "id": 15830,
+               "order": 35
+            },
+            {
+               "cast_id": 51,
+               "character": "Syntonex Worker",
+               "gender": 0,
+               "credit_id": "52fe43fa9251416c75024e69",
+               "name": "Socorro Santiago",
+               "profile_path": null,
+               "id": 164473,
+               "order": 36
+            },
+            {
+               "cast_id": 52,
+               "character": "Client at Cutty Ayres",
+               "gender": 2,
+               "credit_id": "52fe43fa9251416c75024e6d",
+               "name": "Bernie McInerney",
+               "profile_path": "/q8clbGAiRLiFLjoeotLlg0KZyAB.jpg",
+               "id": 183653,
+               "order": 37
+            },
+            {
+               "cast_id": 53,
+               "character": "Reporter",
+               "gender": 1,
+               "credit_id": "52fe43fb9251416c75024e71",
+               "name": "Katherine Wallach",
+               "profile_path": "/8foK7rkVKGHmiLkPIjUkxxcmxZq.jpg",
+               "id": 164093,
+               "order": 38
+            },
+            {
+               "cast_id": 54,
+               "character": "Reporter",
+               "gender": 0,
+               "credit_id": "52fe43fb9251416c75024e75",
+               "name": "Leon Addison Brown",
+               "profile_path": null,
+               "id": 171601,
+               "order": 39
+            },
+            {
+               "cast_id": 55,
+               "character": "Herself",
+               "gender": 1,
+               "credit_id": "52fe43fb9251416c75024e79",
+               "name": "Sally Jessy Raphael",
+               "profile_path": null,
+               "id": 166823,
+               "order": 40
+            },
+            {
+               "cast_id": 59,
+               "character": "Detective Templeton",
+               "gender": 0,
+               "credit_id": "5396e7d30e0a266dce008fcc",
+               "name": "William Hill",
+               "profile_path": "/oz9jaTi6roTcrCjnN8ZZ6YxSJzG.jpg",
+               "id": 1232496,
+               "order": 41
+            },
+            {
+               "cast_id": 60,
+               "character": "Door Slam Executive",
+               "gender": 2,
+               "credit_id": "5421b3a00e0a260a1f0001a0",
+               "name": "Robert Levine",
+               "profile_path": "/sCPpVThpG9tOXpGatAr56AKA9Le.jpg",
+               "id": 1217995,
+               "order": 42
+            },
+            {
+               "cast_id": 62,
+               "character": "Donald Trump",
+               "gender": 2,
+               "credit_id": "5a5ff3ac92514159d500c6c3",
+               "name": "Donald Trump",
+               "profile_path": "/gP73QwYUzskedHNFzQsEfJ7pLzP.jpg",
+               "id": 33663,
+               "order": 43
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe43fa9251416c75024d9b",
+               "name": "Donald Petrie",
+               "profile_path": "/skokYnTDYIKogfeH7DU49dfhRsj.jpg",
+               "id": 18281,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe43fa9251416c75024da1",
+               "name": "Jenaro Prieto",
+               "profile_path": null,
+               "id": 68123,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43fa9251416c75024da7",
+               "name": "Nick Thiel",
+               "profile_path": null,
+               "id": 68124,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43fa9251416c75024dad",
+               "name": "Robert W. Cort",
+               "profile_path": null,
+               "id": 18389,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43fa9251416c75024db3",
+               "name": "Ted Field",
+               "profile_path": "/qmB7sZcgRUq7mRFBSTlSsVXh7sH.jpg",
+               "id": 9196,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe43fa9251416c75024db9",
+               "name": "Frederic Golchan",
+               "profile_path": "/pkjidGY8yKa4cBcPds4Skswtc6g.jpg",
+               "id": 68125,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43fa9251416c75024dbf",
+               "name": "Scott Kroopf",
+               "profile_path": null,
+               "id": 9184,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43fa9251416c75024dc5",
+               "name": "Adam Leipzig",
+               "profile_path": null,
+               "id": 38795,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43fa9251416c75024dcb",
+               "name": "David Madden",
+               "profile_path": null,
+               "id": 24051,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43fa9251416c75024dd1",
+               "name": "Patrick Markey",
+               "profile_path": null,
+               "id": 4146,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43fa9251416c75024dd7",
+               "name": "Vassal Benford",
+               "profile_path": null,
+               "id": 12994,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43fa9251416c75024ddd",
+               "name": "Christopher Tyng",
+               "profile_path": null,
+               "id": 68126,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43fa9251416c75024de3",
+               "name": "Alex Nepomniaschy",
+               "profile_path": null,
+               "id": 59443,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe43fa9251416c75024de9",
+               "name": "Bonnie Koehler",
+               "profile_path": null,
+               "id": 68127,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43fb9251416c75024e7f",
+               "name": "Andrew Jackness",
+               "profile_path": null,
+               "id": 1124531,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe43fb9251416c75024e85",
+               "name": "April Ferry",
+               "profile_path": null,
+               "id": 7238,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe43fb9251416c75024e8b",
+               "name": "Mary Colquhoun",
+               "profile_path": null,
+               "id": 21517,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5675e7c192514179e10039c6",
+               "name": "Jack Keller",
+               "profile_path": null,
+               "id": 1551320,
+               "department": "Crew",
+               "job": "Sound Recordist"
+            }
+         ]
+      },
+      "genres": [{
+         "name": "Comedy",
+         "id": 35
+      }],
+      "popularity": 5.162778,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 11112,
+      "vote_count": 60,
+      "budget": 0,
+      "overview": "Laurel Ayres is a businesswoman trying to make it but unfortunately she works at a investment firm where she does all the work but all the senior investors like Frank Peterson grab all the credit. She then leaves and starts her own firm. While trying to find clients Laurel pretends that she has a male partner named Robert Cutty. And when she starts to do well all of her clients wants to meet Cutty which is difficult since he doesn't exist.",
+      "similar": [
+         318846,
+         44639,
+         50839,
+         13020,
+         184125,
+         10673,
+         22074,
+         283235,
+         65034,
+         246308,
+         28227,
+         332749,
+         221418,
+         221800,
+         15320,
+         31869,
+         68197,
+         52056,
+         111886,
+         44660
+      ],
+      "original_title": "The Associate",
+      "runtime": 114,
+      "poster_path": "/y9h0SD2w9JqZlqanbUnyVfYSXRW.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Interscope Communications",
+            "id": 10201,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+            "name": "Universal Pictures",
+            "id": 33,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": "/xXojkyRWFZ0JTJyjiu13ThKeFbz.png",
+            "name": "Hollywood Pictures",
+            "id": 915,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1996-10-25",
+      "vote_average": 6.3,
+      "belongs_to_collection": null,
+      "tagline": "Behind Every Great Man Is A Woman... Wishing He'd Get The Hell Out Of Her Way.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Donald Petrie"],
+      "runtime": 114,
+      "synopsis": "Struggling to forge a financial career in white male dominated wall street society, taken for granted Laurel Ayers a black woman decided to change the playing field. Quickly realizing that only white males would ever achieve greatness she invents an elusive,Howard Hugh's like character Robert Cutty. Pretending to be Mr. Robert Cutty, Laural Ayers establishes a wealthy investment firm until events force Mr. Cutty to psychically materialize; as of this point he is never seen. Enlisting the help of her drag queen friend and her associate, Sally Dugan she is able to create a physical prosthetic entity. A chain of events mostly due to Laural Ayers adversaries force her to abandon her fictional character and deal her out once again. Down and out didn't necessary leave her out of the game. Laural Ayers is smart and proves she can have the upper hand. Striking back, she reveals who Robert Cutty really is to a group of her colleagues, proving it isn't who you are on the outside but who you are in the inside Check out my review at: www.dereksheldon.blogpsot.com",
+      "writers": [
+         "Jenaro Prieto",
+         "Jean-Claude Carrière"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0115580/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTczNDYyNjUyOV5BMl5BanBnXkFtZTcwNDc3MTAyMQ@@._V1_SY317_CR5,0,214,317_AL_.jpg",
+      "actors": ["Stars: Whoopi Goldberg, Dianne Wiest, Eli Wallach | See full cast and crew »"],
+      "reviews": [
+         "Too many people/reviews comment negatively on this movie and so, even though I would normally not post my comments on this site, I felt the need to create some *balance* here. This movie is well done, honest, and we ALL need more American movies that sway away from the usual \"man-saves-world\" trend. Credit to Whoopi and the other actors for choosing these roles. Acted well. It just plain _worked_. It's obvious that I am not too spiffy at this movie-critic role (duh), but as a 16 year old teenager who is unfamiliar with all the movie-jargan yet knows very well when she sees an underrated movie, I tell anyone reading this to watch this movie. And to those who don't think very highly of it, slap yourselves across the face and directly compare the quality of THIS to some of the more popular titles out there... I personally think that 'The Associate' would be better and deserves a much higher rating.",
+         "I gave this movie a 10 not because it's perfect, not because it's the best movie I've seen, but because the way it made me feel when I watched it. I love Whoopi and she does a great job in this movie, as she does on any other movie she made. Her personality just shines. I used to think that \"actors\" can really learn any role and they can be whoever they were needed to be. But Whoopi fits this role perfectly. I couldn't have thought of a better actress to fit the character. The movie is funny. The bad guy always gets it and it has a happy ending. Sounds a bit cliché, but isn't that how we all want it to end? This is a perfect screening for the stay-at-home moms or housewives.",
+         "Never having seen this film, we decided to take a chance with it. We were quite surprised to learn this Hollywood film is based on a French one, \"L'associe\", written for the screen by Jean Claude Carriere and based on Jenaro Prieto's novel \"El Socio\". Daniel Petrie, its director is working with Nick Thiel's adaptation, which appears to have been a vehicle for its star, Whoopi Goldberg. Some comments have compared this movie with \"Working Girl\", a film that also dealt with a smart woman working in the financial world, one of the themes in \"The Associate\". We are introduced to an intelligent woman, Laurel Ayers, who happens to have three things going against her, she is black, a woman, and is intelligent enough to merit a promotion in the Wall Street firm she works for. Unfortunately, it comes as no surprise that Laurel is passed and her co-worker, Frank, gets the good job and becomes her boss. The film is mildly funny, as Laurel goes to make a name for herself by creating a \"silent\" partner, Mr. Cutty, who is never seen. The financial world is all in a frenzy to meet him, and the hilarious appearance at the Plaza Hotel, instead of making things clear, contributes to his myth. Ms. Goldberg is delightful to watch. Dianne Wiest makes an impressive appearance as the loyal Sally, who is an under appreciated woman. Timothy Daly is perfect as the egotistical Frank. The supporting cast is good. Bebe Neuwirth, Eli Wallach, Austin Pendelton, and a funny Lanie Kazan as a financial gossip writer. While the film is predictable, it offers some funny moments.",
+         "The low rating this movie got here is very strange since statistically , I think, the user rating should reflect the movie resonance/quality quite well - however not in this case. This evening I watched The Associate for the 4th time and I loved it even more then ever. Its funny and very cleverly crafted. I will dare and say - a must see. 9/10",
+         "Very funny. Very entertaining. Very well done movie. Excellent acting and a lot of fun. I enjoyed it. Whoopi Goldberg is perfect in the part of a financial analyst who seems to get no where in a man's world until she creates an maginary partner only to find that the imaginary partner--a man--is taking all the credit for her hard work. I thought the idea and the concept were imaginative and well done. Dianne Weist is perfect in her part as is Tim Daly. You know a movie is funny when Lanie Kazan is in it--remember her as Freida in the Nanny. I recommend The Associate for all. It's a family film as well and you will be glad you saw it!!!",
+         "For me, 'The Associate' makes a decent one-time watch. It starts on a promising note with a female black lawyer trying to make it in the man's world. However, at some point as the plot moves, it fails to engage and it's quite clear what will happen in the end. The point 'The Associate' tries to make is that woman can make it on top but it (perhaps unintentionally) presents the men under a negative light. Some of the male characters are presented as stereotypical chauvinists. There are some funny moments that bring a few chuckles but not much that would make one laugh out loud. The best scenes are the ones with Wiest and Goldberg together. Wiest is adorable as the sweet and smart Dugan and Goldberg is adequate as Ayres. However, Goldberg has played several such roles and done numerous similar movies before and even though she's very versatile, she hardly presents anything new in 'The Associate'. I would like to see more of her and Wiest in better movies.",
+         "I think the only reason people hate this movie is because it shows women making men look stupid and foolish - as if it needs to take a leap to do that. Playing their own game against them and winning. This movie was a lot of fun and I enjoyed it completely. I would watch it over and over again. Truly wonderful. Remember Waiting to Exhale. Men hated that movie too, because it made them look bad and told the truth. This movie told the truth.",
+         "I saw the ending of this film before I saw anything else, so I was misled as to the exact nature of what was going on. As a result, there were more surprises than I expected. And some plot twists that I didn't see coming. So for me seeing the entire film was like watching a Columbo murder mystery--I knew what the result was going to be, but not how the movie would get there. Having said that, I think Whoopi Goldberg did a wonderful job. Her scenes as 'Robert Cutty' were especially good, even though the movie turned out to be more about explaining his absence rather than actually showing the mystery man. But I really enjoyed Laurel's efforts to come up with ideas and get the ideas into the hands of those who counted. She had to be so creative to get anything done, even making up a name for her partner under pressure. Like Robin Williams' character in 'Mrs. Doubtfire', she used the first name she saw, as a bartender poured Cutty whiskey. And the makeup job, if that is what it was, looked almost as professional as Mrs. Doubtfire's. Goldberg was quite convincing as a slightly effeminate Wall Street whiz. Dianne Wiest did an outstanding job as Sally, the secretary to Frank and later Laurel. Yes, I said secretary. I'm sick and tired of hearing the word 'assistant' used for the position. As long as one doesn't work for the likes of Frank, the term 'secretary' does not have to refer to a meaningless job where one is unappreciated. And Sally made the most of her job with Laurel, becoming much more than 'just' a secretary. Eli Wallach did a great job as Fallon, one of the Wall Street suits who finally had to listen to Laurel--but only because of Cutty. Bebe Neuwirth also shined as one of the people who allowed Laurel to pass along 'secrets' and make Cutty look good. Timothy Daly, on the other hand, just made Frank look like a jerk. Fine, they achieved their goal if that's what it was, but to me it was a performance that belonged in a bad TV-movie. Don't misunderstand; I like bad TV-movies like this and I liked to hate Frank, but this was a well-done theatrical film. The plot twists were interesting if not particularly realistic, though I have to wonder if a person could get in real trouble for what Laurel did. The SEC did not know precisely what she was doing, and it was never made clear whether they cleared her, though in a movie I suppose anything's possible. Overall I was very happy.",
+         "Very mild spoilers.... This film is a fun romp through all kinds of business world clichés - which are only clichés because they are all so true! I'm a WG fan all the way and I especially loved her in this film (she had ME believing for a few minutes here and there that she really was a white man!) But Dianne Wiest was absolutely THE BEST in this movie. I just loved her character, and as always DW is likable, funny, sweet-natured, a little timid on the surface, but UNDERNEATH is a hotbed of energy and fire in the belly. And yet always so understated. I especially love her line pointing out that she and Whoopi have no way to get home after their attempt to fake Robert's death in a car explosion - the line delivered so quietly and matter-of-factly: \"We came in THAT car.\" FUN FUN FUN movie! One to watch over again - more than once.",
+         "Don't usually like Whoopie starrers, but she really does herself proud in this funny but sadly true account of discrimination against women in the business world (and others - academic, entertainment, etc.). Amusing and clever film, but you have to be a working woman to really appreciate its truth and poetic justice."
+      ],
+      "genres": ["Comedy"],
+      "productionCompanies": [
+         "Hollywood Pictures",
+         "Interscope Communications",
+         "Polygram Filmed Entertainment"
+      ],
+      "summaries": [
+         "Laurel Ayres is a businesswoman trying to make it but unfortunately she works at a investment firm where she does all the work but all the senior investors like Frank Peterson grab all the credit. She then leaves and starts her own firm. While trying to find clients Laurel pretends that she has a male partner named Robert Cutty. And when she starts to do well all of her clients wants to meet Cutty which is difficult since he doesn't exist.",
+         "Struggling to forge a financial career in white male dominated wall street society, taken for granted Laurel Ayers a black woman decided to change the playing field. Quickly realizing that only white males would ever achieve greatness she invents an elusive, Howard Hugh's like character: Robert Cutty. Pretending to be Mr. Robert Cutty, Laural Ayers establishes a wealthy investment firm until events force Mr. Cutty to psychically materialize; as of this point he is never seen.",
+         "A comedy about making it on Wall Street. Prejudices are hard to break and Laurel Ayres quickly learns that in order for people to take her seriously she has to work for an older white man or be one."
+      ],
+      "budget": 0
+   },
+   "movielensId": 1113,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1996-10-25",
+      "dvdReleaseDate": "1999-07-20",
+      "directors": ["Donald Petrie"],
+      "runtime": 114,
+      "movieId": 1113,
+      "title": "The Associate",
+      "mpaa": "PG-13",
+      "actors": [
+         "Whoopi Goldberg",
+         "Dianne Wiest",
+         "Eli Wallach",
+         "Tim Daly",
+         "Bebe Neuwirth",
+         "Austin Pendleton",
+         "Lainie Kazan",
+         "George Martin",
+         "Kenny Kerr",
+         "Lee Wilkof",
+         "Helen Hanft",
+         "George Morfogen",
+         "Zeljko Ivanek",
+         "Miles Chapin",
+         "Jean De Baer",
+         "Louis Turenne",
+         "Colleen Camp",
+         "Brian Tarantina",
+         "Jerry Hardin",
+         "John Short",
+         "Thomas Wagner",
+         "Johnny Miller",
+         "Nicholas Kepros",
+         "Peter McRobbie",
+         "Daryl Edwards",
+         "Allison Janney",
+         "Frederick Rolf",
+         "Lawrence Gilliard Jr.",
+         "Lianna Pai",
+         "Vincent Laresca",
+         "Arthur French",
+         "Kathleen McClellan",
+         "John Rothman",
+         "Jonathan Freeman",
+         "Socorro Santiago",
+         "Bernie McInerney",
+         "Katherine Wallach",
+         "Leon Addison Brown",
+         "Sally Jessy Raphael",
+         "William Hill",
+         "Robert Levine",
+         "Donald Trump"
+      ],
+      "imdbMovieId": "0115580",
+      "originalTitle": "The Associate",
+      "genres": ["Comedy"],
+      "youtubeTrailerIds": ["A3ewBTXlGP0"],
+      "plotSummary": "Laurel Ayres is a businesswoman trying to make it but unfortunately she works at a investment firm where she does all the work but all the senior investors like Frank Peterson grab all the credit. She then leaves and starts her own firm. While trying to find clients Laurel pretends that she has a male partner named Robert Cutty. And when she starts to do well all of her clients wants to meet Cutty which is difficult since he doesn't exist.",
+      "tmdbMovieId": 11112,
+      "avgRating": 3.18806,
+      "releaseYear": "1996",
+      "numRatings": 1122,
+      "posterPath": "/y9h0SD2w9JqZlqanbUnyVfYSXRW.jpg"
+   }
+}

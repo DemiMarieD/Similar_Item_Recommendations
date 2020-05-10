@@ -1,0 +1,574 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "experiment",
+            "id": 1706
+         },
+         {
+            "name": "frankenstein",
+            "id": 6737
+         },
+         {
+            "name": "remake",
+            "id": 9714
+         }
+      ],
+      "imdb_id": "tt0109836",
+      "video": false,
+      "title": "Mary Shelley's Frankenstein",
+      "recommendations": [
+         10395,
+         4961,
+         6069,
+         8592,
+         11503,
+         9095,
+         11976,
+         10016,
+         11352,
+         2142,
+         8973,
+         9566,
+         10873,
+         10329,
+         2067,
+         11929,
+         11896,
+         1551,
+         11566,
+         10699
+      ],
+      "backdrop_path": "/vVyF1OMjsdsboBBjEVL8wmOdPNG.jpg",
+      "revenue": 112006296,
+      "reviews": [{
+         "author": "DRDMovieMusings",
+         "id": "58e0986a9251415e40016771",
+         "content": "Excellent version of an enduring classic\r\n\r\nThis is not a monster movie in any shallow slasher sense. It probes and contemplates some eternal questions humans have been pondering for thousands of years, set in a time when so many things we know today were yet unknown, adding to the mystery and horror of the situations that occurred. This movie has pathos, sumptuous sets, costumes and screenplay, some utterly disturbing scenes and ideas, and culminates in classic tragedy.",
+         "url": "https://www.themoviedb.org/review/58e0986a9251415e40016771"
+      }],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 16,
+               "character": "The Creature",
+               "gender": 2,
+               "credit_id": "52fe437fc3a36847f80588e3",
+               "name": "Robert De Niro",
+               "profile_path": "/lvTSwUcvJRLAJ2FB5qFaukel516.jpg",
+               "id": 380,
+               "order": 0
+            },
+            {
+               "cast_id": 17,
+               "character": "Victor Frankenstein",
+               "gender": 2,
+               "credit_id": "52fe437fc3a36847f80588e7",
+               "name": "Kenneth Branagh",
+               "profile_path": "/bmpGjbqvAVNOK3ggiuET2Jl96tZ.jpg",
+               "id": 11181,
+               "order": 1
+            },
+            {
+               "cast_id": 18,
+               "character": "Henry Clerval",
+               "gender": 2,
+               "credit_id": "52fe437fc3a36847f80588eb",
+               "name": "Tom Hulce",
+               "profile_path": "/t4m5xqxovPP1GUXZ9MivPa7XloN.jpg",
+               "id": 3999,
+               "order": 2
+            },
+            {
+               "cast_id": 19,
+               "character": "Elizabeth",
+               "gender": 1,
+               "credit_id": "52fe437fc3a36847f80588ef",
+               "name": "Helena Bonham Carter",
+               "profile_path": "/rHZMwkumoRvhKV5ZvwBONKENAhG.jpg",
+               "id": 1283,
+               "order": 3
+            },
+            {
+               "cast_id": 20,
+               "character": "Cap. Robert Walton",
+               "gender": 2,
+               "credit_id": "52fe437fc3a36847f80588f3",
+               "name": "Aidan Quinn",
+               "profile_path": "/fOiuJIBJUdiuqjQtGkffpSbRQ49.jpg",
+               "id": 18992,
+               "order": 4
+            },
+            {
+               "cast_id": 21,
+               "character": "Baron Frankenstein",
+               "gender": 2,
+               "credit_id": "52fe437fc3a36847f80588f7",
+               "name": "Ian Holm",
+               "profile_path": "/27SAk1v043GdOeAxT5pPoMUYhGg.jpg",
+               "id": 65,
+               "order": 5
+            },
+            {
+               "cast_id": 22,
+               "character": "Großvater",
+               "gender": 2,
+               "credit_id": "52fe437fc3a36847f80588fb",
+               "name": "Richard Briers",
+               "profile_path": "/cdOxeResI28YXe912GbQKKvbKv8.jpg",
+               "id": 29859,
+               "order": 6
+            },
+            {
+               "cast_id": 23,
+               "character": "Prof. Waldman",
+               "gender": 0,
+               "credit_id": "52fe437fc3a36847f80588ff",
+               "name": "John Cleese",
+               "profile_path": "/kg63gNYQtGPi2fSNIvCnVAclCbi.jpg",
+               "id": 8930,
+               "order": 7
+            },
+            {
+               "cast_id": 24,
+               "character": "Prof. Krempe",
+               "gender": 2,
+               "credit_id": "52fe437fc3a36847f8058903",
+               "name": "Robert Hardy",
+               "profile_path": "/y6NTr4kw3mNQnPmvhs4XMiFT8v5.jpg",
+               "id": 23076,
+               "order": 8
+            },
+            {
+               "cast_id": 25,
+               "character": "Caroline Beaufort Frankenstein",
+               "gender": 1,
+               "credit_id": "52fe437fc3a36847f8058907",
+               "name": "Cherie Lunghi",
+               "profile_path": "/z4KvEdYUxhZyQZTAMZe8wgyTwok.jpg",
+               "id": 20768,
+               "order": 9
+            },
+            {
+               "cast_id": 26,
+               "character": "Mrs. Moritz",
+               "gender": 1,
+               "credit_id": "52fe437fc3a36847f805890b",
+               "name": "Celia Imrie",
+               "profile_path": "/tAEzs5PFVX5GsfD3KTWINnuTzMJ.jpg",
+               "id": 9139,
+               "order": 10
+            },
+            {
+               "cast_id": 27,
+               "character": "Justine",
+               "gender": 0,
+               "credit_id": "52fe437fc3a36847f805890f",
+               "name": "Trevyn McDowell",
+               "profile_path": null,
+               "id": 29860,
+               "order": 11
+            },
+            {
+               "cast_id": 29,
+               "character": "Greigori",
+               "gender": 2,
+               "credit_id": "542d9e9ac3a36859e20003fc",
+               "name": "Jimmy Yuill",
+               "profile_path": "/zeuinVj4XOYzWSty96mM3SaD1mB.jpg",
+               "id": 151797,
+               "order": 12
+            },
+            {
+               "cast_id": 30,
+               "character": "Schiller",
+               "gender": 2,
+               "credit_id": "5882e2e6c3a368064d00431f",
+               "name": "Hugh Bonneville",
+               "profile_path": "/vHxgbEvQfp30MiYxtH53hoCOMOg.jpg",
+               "id": 19923,
+               "order": 13
+            },
+            {
+               "cast_id": 31,
+               "character": "Ship's Crew #2",
+               "gender": 0,
+               "credit_id": "5882e2fbc3a3680643004a0d",
+               "name": "Shaun Prendergast",
+               "profile_path": "/3IMUCBXLXb7KRvRBWqH9MVVxupo.jpg",
+               "id": 1211929,
+               "order": 14
+            },
+            {
+               "cast_id": 32,
+               "character": "Ship's Crew #4",
+               "gender": 2,
+               "credit_id": "5882e30f925141044c0046c4",
+               "name": "David Kennedy",
+               "profile_path": "/refiQ4V3hLc9xzBwCbemVrXXpNB.jpg",
+               "id": 62498,
+               "order": 15
+            },
+            {
+               "cast_id": 33,
+               "character": "Midwife",
+               "gender": 1,
+               "credit_id": "5882e321925141045100451f",
+               "name": "Siobhan Redmond",
+               "profile_path": "/n6x0peIS6poPnaLoWkati335tU4.jpg",
+               "id": 992504,
+               "order": 16
+            },
+            {
+               "cast_id": 34,
+               "character": "Guard",
+               "gender": 0,
+               "credit_id": "5882e32b925141044c0046d1",
+               "name": "Angus Wright",
+               "profile_path": "/jcVb6Z421Z3zshe9R7dCOn2NpO9.jpg",
+               "id": 1252814,
+               "order": 17
+            },
+            {
+               "cast_id": 35,
+               "character": "Executioner (uncredited)",
+               "gender": 2,
+               "credit_id": "5882e3449251410454004908",
+               "name": "Jim Carter",
+               "profile_path": "/ycS14B6YHA2k4IlEPNgh0eQOv7u.jpg",
+               "id": 20070,
+               "order": 18
+            },
+            {
+               "cast_id": 36,
+               "character": "Young Victor",
+               "gender": 2,
+               "credit_id": "5992cde99251417c1100d680",
+               "name": "Rory Jennings",
+               "profile_path": "/dlHZqvt4X3fic36juxCBcU6SZ3w.jpg",
+               "id": 1231914,
+               "order": 19
+            }
+         ],
+         "crew": [
+            {
+               "gender": 1,
+               "credit_id": "52fe437fc3a36847f8058891",
+               "name": "Mary Shelley",
+               "profile_path": "/rcTyPNOKNFmZi61FVdAivtBroXt.jpg",
+               "id": 28970,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe437fc3a36847f8058897",
+               "name": "Steph Lady",
+               "profile_path": null,
+               "id": 29855,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe437fc3a36847f805889d",
+               "name": "Frank Darabont",
+               "profile_path": "/9KVvZtDyy8DXacw2TTsjC9VLxQi.jpg",
+               "id": 4027,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe437fc3a36847f80588a3",
+               "name": "Francis Ford Coppola",
+               "profile_path": "/vEGwqahu7UlI6OwELy92xbXk9Kd.jpg",
+               "id": 1776,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe437fc3a36847f80588a9",
+               "name": "James V. Hart",
+               "profile_path": "/uwRqqSLT3qY2tYJET0uDFUbyiHK.jpg",
+               "id": 10295,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe437fc3a36847f80588af",
+               "name": "John Veitch",
+               "profile_path": null,
+               "id": 29856,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe437fc3a36847f80588b5",
+               "name": "Patrick Doyle",
+               "profile_path": "/mo87kZiHO5gsoax80Us0S2CPmS.jpg",
+               "id": 9152,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe437fc3a36847f80588bb",
+               "name": "Roger Pratt",
+               "profile_path": "/5a4fQyqEo5Mqq1QROrBxTy7urv1.jpg",
+               "id": 293,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe437fc3a36847f80588c1",
+               "name": "Andrew Marcus",
+               "profile_path": null,
+               "id": 4868,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe437fc3a36847f80588c7",
+               "name": "Priscilla John",
+               "profile_path": null,
+               "id": 3311,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe437fc3a36847f80588cd",
+               "name": "Tim Harvey",
+               "profile_path": null,
+               "id": 29857,
+               "department": "Art",
+               "job": "Set Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe437fc3a36847f80588d3",
+               "name": "Desmond Crowe",
+               "profile_path": null,
+               "id": 29858,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe437fc3a36847f80588d9",
+               "name": "John Fenner",
+               "profile_path": null,
+               "id": 10497,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe437fc3a36847f80588df",
+               "name": "James Acheson",
+               "profile_path": null,
+               "id": 11386,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe437fc3a36847f8058915",
+               "name": "Kenneth Branagh",
+               "profile_path": "/bmpGjbqvAVNOK3ggiuET2Jl96tZ.jpg",
+               "id": 11181,
+               "department": "Directing",
+               "job": "Director"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Horror",
+            "id": 27
+         },
+         {
+            "name": "Science Fiction",
+            "id": 878
+         },
+         {
+            "name": "Romance",
+            "id": 10749
+         }
+      ],
+      "popularity": 12.017648,
+      "production_countries": [
+         {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+         },
+         {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+         },
+         {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+         }
+      ],
+      "id": 3036,
+      "vote_count": 364,
+      "budget": 45000000,
+      "overview": "Based on Mary Shelley's novel, \"Frankenstein\" tells the story of Victor Frankenstein, a promising young doctor who, devastated by the death of his mother during childbirth, becomes obsessed with bringing the dead back to life. His experiments lead to the creation of a monster, which Frankenstein has put together with the remains of corpses. It's not long before Frankenstein regrets his actions.",
+      "similar": [
+         3034,
+         1694,
+         228066,
+         9426,
+         3035,
+         126889,
+         399055,
+         384521,
+         3079,
+         9738,
+         76492,
+         159824,
+         336843,
+         4961,
+         18111,
+         1927,
+         19,
+         686,
+         8078,
+         264660
+      ],
+      "original_title": "Frankenstein",
+      "runtime": 123,
+      "poster_path": "/uG0YLHdiBuWBv99MLwthucsvKLZ.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": "/ueaENQkPcy8rlr5fGZVBXKOhlBh.png",
+            "name": "American Zoetrope",
+            "id": 70,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": "/rzgMLzPgJ2ZBYnlVwNi8ZDfOMwo.png",
+            "name": "TriStar Pictures",
+            "id": 559,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1994-11-04",
+      "vote_average": 6.2,
+      "belongs_to_collection": null,
+      "tagline": "Be Warned.  It's Alive",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Kenneth Branagh"],
+      "runtime": 123,
+      "synopsis": null,
+      "writers": [
+         "Mary Shelley",
+         "Steph Lady"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0109836/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTc1MzQ5NTA3MV5BMl5BanBnXkFtZTcwMDUzNDIyMQ@@._V1_SY317_CR5,0,214,317_AL_.jpg",
+      "actors": ["Stars: Robert De Niro, Kenneth Branagh, Helena Bonham Carter | See full cast and crew »"],
+      "reviews": [
+         "I nearly spit out my teeth when I saw how low Frankenstein (94) score was. This film is quite simply spectacular! It goes in the same category as From Hell, they are both too sophisticated and beautiful to be JUST horror films. The cleverness of this film and its sheer radiance must throw some people off. Robert De Niro is the creature! De Niro gives the foul beast a soul of his own. De Niro's performance brings out genuine pity, sorrow, and most importantly, fear. Kenneth Branagh has always added a bit of class to his films, and his version of Frankenstein is no different. A visually brilliant triumph as a director.",
+         "One of Branagh's more maligned works, though for the life of me I can't see why. Sticking closer to the book than to any preconcieved notions of Boris Karloff (perhaps that's why), this injects true horror into the story of a medical student who brings a corpse to life. If you don't like melodrama then maybe it's not the thing for you, but this deserves a far better reputation than it has.",
+         "While many people seem to scorn this film, I found it wonderfully enjoyable. Like the great Orson Welles, He stars in, and directs, many of his movies. This one in particular shows some of his more excentric, if not marketable, passions in filmmaking that make movie buffs and connaisseurs alike enjoy this stylized and emotional film. Yes, it is melodramatic. Yes, the acting is often over the top. But what many critics of this film fail to recognize is that this is precisly the point. By staying very true to the source material(until the Elizabeth thing) and the significant changes that WERE made are clear evidence of this. The book was melodramatic. What Kenneth Branagh does here is stay true to the spirit of the classic gothic novel. The great close-ups define the characters, and through them you can understand them. Do not mistake stylization for poor film-making, because this is a wonderfully made and presented film, that if understood captivates you from the first spoken words(a quote from Mary Shelly, setting up the stylization) to the last frame. Know what you're getting into, a passionatly made film about what drives one to both excel and what drives one to madness, and the dangers of excess beyond reason. If you have read the book, regardless of whether you liked it or not,see this movie. You will love what they have retained, and will embrace what they've changed. this is not a film(not a movie, a film) for everyone. But for those who are willing to have an open mind, it is pure bliss!",
+         "I didn't appreciate this film until the second viewing, when I saw it on widescreen. Three viewings later, I have nothing but the highest regard for this Frankenstein rendition which is still, as other reviewers have pointed out, the most underrated of movies. One MUST see this on widescreen DVD to full appreciate the incredible visuals. But this film is a lot more than eye candy. Supposedly, it was very close to Mary Shelley's book, which is the best compliment you can give it. I liked the fact that the \"monster\" could talk and comprehend and, frankly, I liked the revenge factor and fact the monster decided his fate, not hysterical townsfolk as in the original Boris Karloff film (which has a sadder ending.) This version, in my humble opinion, also had a more appropriate ending: the monster and his creator both dying together. All the main characters acted the way you would think they would, meaning there was no ridiculousness here, as so often is the case in horror films. In other words, there was great realism put in a story that is a famous far-fetched-type of tale. To be fair, there are some scenes in which you wonder how the monster got where he did (inside homes, etc.) without being seen....so, to say there weren't SOME credibility issues would not be true...but overall, no complaints here. I'd like to put a quick plug in here for the music, too. Wonderful sweeping classic music complements the astounding visuals. Add an involving story that is tough to put down once you start viewing, and you have one of the most undeservedly-panned movies of our time.",
+         "(spoilers herein) I saw this movie for the first time, in the dark solitude of my attic late at night. (I was trying to create a scary atmosphere for maximum effect) To my surprise, though, after it finished, I wasn't very frightened, but very emotionally drained. I had expected Frankenstein to be your classic, everyday, lame horror film which you only watch to get some cheap thrills, and see some horrible overacting. I didn't find it so at all. This movie was, there is no other word for it, beautifully done - a powerful, dynamic story of how man attempts to achieve greatness, but ends up ruining their lives and the lives of others as a result. I have not read Mary Shelley's book, but if it has half the emotional effect of this movie, I'll consider it time well spent! What really surprised me though, was that this wasn't a horror film in the traditional sense of the word - it wasn't so that the monster would jump out and the audience would scream. It was more about how the audience would slowly writhe as they realize the tortured motivations of the creature and what he's willing to do as consequence. Kenneth Branagh brought this movie together wonderfully, with both his directing and powerful, memorable acting as the tormented Dr. Victor Frankenstein. Frankenstein is somewhat obsessed with death, after losing his mother at an early age, so he attempts to create a new form of artificial life, derived from various body parts of corpses: a life which cannot be so easily extinguished, and is superior to normal human life in every aspect. (except, perhaps, looking normal) However, he soon learns that it's not good to muck around with creating life, when his creation attacks him, and he abandons it. The creature, although initially showing signs of being a sympathetic and caring soul, quickly learns that the ways of man are harsh and judgmental, so he swears revenge on his creator for bringing him into this world of isolation. The 'creature', was played absolutely masterfully by Robert De Niro. Before Frankenstein, the only movies I had seen with him were Analyze This and Analyze That, and those were comedies, so it was difficult to see his skills as a serious actor, but in playing Frankenstein's creation he created a character that is confused, alone, hostile, manipulative and clever: a very conflicted anti-hero. The scene at the end at Victor Frankenstein's funeral left me in shock by the sheer aura he projects - mixed hatred with compassion and confusion. In my opinion, his best moment is when he meets the ship's captain who asks him 'Who are you?' and the creature nods to his dead creator and responds 'He never gave me a name.' If nobody felt the power in that line, then I don't know what to say to them. I think De Niro deserved an Oscar, or at least a nomination for this role. The supporting cast is also very good, with Helena Bonham Carter doing a wonderful and chilling job as Frankenstein's wife (another one who I think should have gotten an Oscar nod), and John Cleese (in probably the only downright serious role in his career) being very creepy as Frankenstein's mentor, who realized before that the moral implications of his kind of work cannot be lived with. Ian Holm as Baron Frankenstein was also good, but sadly, his part was underused. It would have been nice to see more of this great actor in this movie alongside all these other great actors. This isn't really a problem for the film as a whole: Holm played a relatively minor character, but I have a lot of respect for his acting skills, and I would have liked to see more of them in this movie. This is probably one of the most powerful and draining movies I've ever seen in my life; I was so impressed by it that I had to run out and buy the DVD right away. I realize this film has many critics, who claim that it is 'seriously flawed' - I really can't understand what they're talking about. I guess some people are harder to please than others, but I find it almost impossible to find anything wrong with this film. Perhaps it was expected that it would be more your traditional horror film, but it really wasn't a horror movie - it was a character movie. It's true that there were some disgusting parts (I won't go into specifics, but you can probably get the idea), but they seemed to merely add to the mood of the movie, and increase your revulsion that Victor Frankenstein would have thought of creating such a monstrosity. For anyone who needs a good, powerful movie that'll leave you drained and thoughtful, this is THE movie for you! -9/10",
+         "Not knowing what to expect, I was fascinated by this movie. It offered a great story, and finale which lacks in most movies. I loved the Lon Chaney \"Frankenstein\", and loved this one too! DeNiro was interestingly cast as the monster. Branagh as Dr. Frankenstein was the most engaging of all, being devastated by deaths all around him and wanting to stop death. It's really a story of playing God, but also having the ability and intelligence to do it ---- and to have the intelligence to see it was not the greatest decision ever made. It's just a love story, bottom line. Wouldn't we want to bring someone back from the dead so we can spend more time with them? Branagh never got the credit he deserved for this movie. He directed a brilliant story that could have gone anywhere - yet he kept it within the story of love. Kudos Mr. Branagh!!",
+         "Written by Steph Lady and Frank Darabont (who later disowned this film) and ambitiously directed by Kenneth Branagh, Mary Shelley's Frankenstein is a likable film which succeeds mostly in a refreshingly old-fashioned, Hammeresque vein. (I think Christopher Lee hated this movie and equally class-dripping Bram Stoker's Dracula because he felt that they were competing in the same area.) There's the classic monsters (Robert DeNiro!), the period sets, the lovely heroines in the lovely period costumes, the beautiful and suitably turbulent score... Certainly not a perfect film, but as a classy, gorgeous monster movie, it is a woefully underrated one.",
+         "as i watched the trailer of the movie on TV, i thought it'll be another horror movie with the same old clichés, full of blood and disgusting scenes...However,when i saw the movie i was moved by the dramatic melancholic and tragic way in which branagh directed it...it wasn't at all such a trivial horror movie..on the contrary..it was another philosophical deep way of reviving Shelley's novel..it was another masterpiece of branagh's...he adopted the novel in such a delicate dramatic romantic way..and dipped into the moral that Shelley meant by her story..Branagh made of Victor Frankenstein another Odesseus whose vanity and arrogance makes him think that he could imitate God and defy Him..he made him a tragic hero haunted by the death of his mother which has created in him the urging desire of fighting death and creating an alternative life...Branagh's choice of the actors was more than perfect, De Niro made a sympathetic touching creature despite his violence and thick hands ,the creature in this movie managed to escape being another scary pale dead monster walking the earth as it was in the old Frankenstein movies,the genius De Niro made us feel and believe that this creature bears great equal amounts of love and rage and that if he cannot satisfy one ,he'll indulge the other (as he says to frankenstein), Helena Bonham Carter was splendid as Elizabeth,she was like the refreshing breeze in the movie which could decrease the intensity of the bloody scenes, Tom Hulce in the role of Henry was in his friendship to Victor as intimate as the friendship of Horatio to Hamlet, Ian Holm as the baron Frankenstein was very good ,but his part was too small that he couldn't show all his talents, Richard Briers was great in the role of the tender grandfather, and of course Kenneth Branagh himself as Frankenstein was perfect,he could make us pity for Frankenstein rather than hating him. Generally the movie despite its several bloody scenes,makes an intense powerful drama..and makes you saturated with a strange sense of melancholy after seeing it...Branagh's Frankenstein is really a must-see :)))",
+         "Victor Frankenstein is the son of a famous doctor who watches his mother die in labour with his younger brother. As an idealistic young man he travels to university to study to become a great doctor. However he brings with him non-scientific teachings he has researched into life and the influence of electric currents. His belief is supported by shadowy lecturer Dr Waldeman and Frankenstein continues his work and brings a man back to life using parts of other men. Realising what he has done, Frankenstein leaves his monster to die but the creature learns fast and wants revenge for his creation. I have seen far too many monster movies that all blur together and share the same focus on effects and gore than story or character. So when this was promoted as being close to the original material, dark and more of a story than a horror I was looking forward to watching it. For the most part it sort of works but it's main flaw runs all the way through it like a stick of rock \u0096 it's far too worthy. Or at least it thinks it is. The film has a constant swell of dramatic music that is only ever seconds away and it really makes the film feel grander and more serious than it really is. The film isn't scary but that wasn't a problem to me \u0096 it just has all these big worthy dialogue scenes with sudden pauses (up comes the music) and then lines. It doesn't work and the film feels heavy and even dull as a result. This is never more evident than in Branagh's own performance. He is far too dashing and too much of a young man gone wrong to be believed. If he'd played it a little less worthy he would have been more of a human and less a cardboard type. De Niro really tries hard and did well for me. He may be stuck with a creature but it has been developed past the cliché (but not far enough perhaps). I did feel for him and it was all De Niro's doing. Carter is miscast both before and after \u0096 far to light and modern for the role, Briers is OK but Cleese is way to miscast. First of all the fact that he only appears half in shadows and when he opens his mouth the music comes up doesn't help, but it didn't feel like him. Quinn is a good cameo but the majority of the cast seem to have bought into the whole `worthy' thing and are dulled as a result. Overall the film is worth watching because it is a good telling of the classic tale and De Niro does a good job of showing us the basic human behind the combined dead body parts. If only Branagh hadn't been overwhelmed by the sheer importance of what he thought he was doing and had let the film flow and bit more and given in less to worthy music, acting and directing.",
+         "In 1794, in the Arctic Sea, Captain Robert Walton (Aidan Quinn) is a man obsessed to reach the North Pole, pushing his crew to the exhaustion. When his ship hits an iceberg, she is stranded in the ice. Out of the blue, Captain Walton and his men overhear a dreadful cry and they see a stranger coming to the ship. He introduces himself as Victor Frankenstein (Kenneth Branagh) and he tells to the captain the story of his life since he was a little boy in Geneva. Victor is a brilliant student and in love with his stepsister Elizabeth (Helena Bonham Carter), an orphan that was raised by his father Baron Frankenstein (Ian Holm). In 1793, Victor moves to Ingolstadt to join the university and he promises to get married to Elizabeth. In the school, Victor befriends Henry Clerval (Tom Hulce) that becomes his best friend. Victor gets close to Professor Waldman (John Cleese) and decides to create life to cheat death, but Waldman advises him that he should not try this experiment since the result would be an abomination. When Waldman dies, Victor steals his notes and tries to create life. He succeeds and gives life to a strong Creature (Robert De Niro), composed of parts of deceased persons. However he realizes that his experiment is a mistake and he abandons The Creature expecting that it could die alone. however The Creature survives and learns how to read and write, but he is a monster rejected by the society and by his own creator. The Creature decides to revenge from Victor killing everyone that he loves. \"Frankenstein\" is an underrated version of the classic story. Directed by Kenneth Branagh, the dramatic story was not well accepted by the professional critics and by many viewers. I saw this movie in 1995 and I have just saw it again on DVD, and it is a great movie that has not aged. Unfortunately I have never read the novel by Mary Shelley to compare with this version that \"is considered the most faithful film adaptation of Mary Shelley's novel Frankenstein. My vote is eight. Title (Brazil): \"Frankenstein de Mary Shelley\" (\"Mary Shelley's Frankenstein\")"
+      ],
+      "genres": [
+         "Drama",
+         "Horror",
+         "Romance",
+         "Sci-Fi"
+      ],
+      "productionCompanies": [
+         "TriStar Pictures",
+         "Japan Satellite Broadcasting (JBS)",
+         "IndieProd Company Productions"
+      ],
+      "summaries": [
+         "In 1794, in the Arctic Sea, Captain Robert Walton is a man obsessed to reach the North Pole, pushing his crew to exhaustion. When his ship hits an iceberg, it is stranded in the ice. Out of the blue, Captain Walton and his men overhear a dreadful cry and they see a stranger coming to the ship. He introduces himself and Victor Frankenstein and he tells to the captain the story of his life since he was a little boy in Geneva. Victor is a brilliant student and in love with his stepsister Elizabeth, an orphan that was raised by his father Baron Frankenstein. In 1793, Victor moves to Ingolstadt to study at the university and he promises to get married to Elizabeth. At the university, Victor befriends Henry Clerval who becomes his best friend. Victor gets close to Professor Waldman and decides to create life to cheat death, but Waldman advises him that he should not try this experiment since the result would be an abomination. When Waldman dies, Victor steals his notes and tries to create life. He succeeds and gives life to a strong Creature, composed of parts of deceased persons. However he realizes that his experiment is a mistake and he abandons the Creature expecting that it will die alone. However the Creature survives and learns how to read and write, but he is a monster rejected by society and his own creator. The Creature decides to seek revenge from Victor by killing everyone he loves.",
+         "Dr. Frankenstein creates a simple creature from various body parts. The creature turns into a monster when Dr. Frankenstein rejects him. Sticking close to the original novel, Kenneth Branagh guides us through the story of Frankenstein's quest for knowledge and his creature's search for his \"father\".",
+         "Based on Mary Shelley's novel, \"Frankenstein\" tells the story of Victor Frankenstein, a promising young doctor who, devastated by the death of his mother during childbirth, becomes obsessed with bringing the dead back to life. His experiments lead to the creation of a monster, which Frankenstein has put together with the remains of corpses. It's not long before Frankenstein regrets his actions.",
+         "When Victor Frankenstein rejects the artificial man he just created, the monster escapes and later swears revenge."
+      ],
+      "budget": 45000000
+   },
+   "movielensId": 273,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1994-11-04",
+      "dvdReleaseDate": "1998-07-28",
+      "directors": ["Kenneth Branagh"],
+      "runtime": 123,
+      "movieId": 273,
+      "title": "Mary Shelley's Frankenstein",
+      "mpaa": "R",
+      "actors": [
+         "Robert De Niro",
+         "Kenneth Branagh",
+         "Tom Hulce",
+         "Helena Bonham Carter",
+         "Aidan Quinn",
+         "Ian Holm",
+         "Richard Briers",
+         "John Cleese",
+         "Robert Hardy",
+         "Cherie Lunghi",
+         "Celia Imrie",
+         "Trevyn McDowell",
+         "Jimmy Yuill",
+         "Hugh Bonneville",
+         "Shaun Prendergast",
+         "David Kennedy",
+         "Siobhan Redmond",
+         "Angus Wright",
+         "Jim Carter",
+         "Rory Jennings"
+      ],
+      "imdbMovieId": "0109836",
+      "originalTitle": "Frankenstein",
+      "genres": [
+         "Drama",
+         "Horror",
+         "Science Fiction",
+         "Romance"
+      ],
+      "youtubeTrailerIds": ["Lg17y6iz7Xs"],
+      "plotSummary": "Based on Mary Shelley's novel, \"Frankenstein\" tells the story of Victor Frankenstein, a promising young doctor who, devastated by the death of his mother during childbirth, becomes obsessed with bringing the dead back to life. His experiments lead to the creation of a monster, which Frankenstein has put together with the remains of corpses. It's not long before Frankenstein regrets his actions.",
+      "tmdbMovieId": 3036,
+      "avgRating": 3.12246,
+      "releaseYear": "1994",
+      "numRatings": 8366,
+      "posterPath": "/uG0YLHdiBuWBv99MLwthucsvKLZ.jpg"
+   }
+}

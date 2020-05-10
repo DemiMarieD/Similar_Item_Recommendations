@@ -1,0 +1,782 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "monster",
+            "id": 1299
+         },
+         {
+            "name": "experiment",
+            "id": 1706
+         },
+         {
+            "name": "industrialist",
+            "id": 2456
+         },
+         {
+            "name": "sequel",
+            "id": 9663
+         },
+         {
+            "name": "fly the insect",
+            "id": 181304
+         }
+      ],
+      "imdb_id": "tt0097368",
+      "video": false,
+      "title": "The Fly II",
+      "recommendations": [
+         11133,
+         12521,
+         10127,
+         11503,
+         10306,
+         11415,
+         9599,
+         11428,
+         11342,
+         16288,
+         10906,
+         11285,
+         10349,
+         37530,
+         24929,
+         11495,
+         9529,
+         9059,
+         12120,
+         10131
+      ],
+      "backdrop_path": "/jk7lRH7mwFTA4RgRTN5fvoImLow.jpg",
+      "revenue": 38903179,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Martin Brundle",
+               "gender": 2,
+               "credit_id": "52fe435d9251416c7500d8b7",
+               "name": "Eric Stoltz",
+               "profile_path": "/fXaULtqnMDKsqT1to8vnLjSXe0w.jpg",
+               "id": 7036,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Beth Logan",
+               "gender": 1,
+               "credit_id": "52fe435d9251416c7500d8bb",
+               "name": "Daphne Zuniga",
+               "profile_path": "/oubh9t5lMknsf388P3GhpNvU1xo.jpg",
+               "id": 14668,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Anton Bartok",
+               "gender": 2,
+               "credit_id": "52fe435d9251416c7500d8bf",
+               "name": "Lee Richardson",
+               "profile_path": "/yqJMNzrKEwLIGnHky1DZZ9Gj4jw.jpg",
+               "id": 21283,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Stathis Borans",
+               "gender": 2,
+               "credit_id": "52fe435d9251416c7500d8c3",
+               "name": "John Getz",
+               "profile_path": "/a0uOMxCiYqvcr3h49jopyKzKVfX.jpg",
+               "id": 20211,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Shepard",
+               "gender": 2,
+               "credit_id": "52fe435d9251416c7500d8c7",
+               "name": "Frank C. Turner",
+               "profile_path": "/jSp2SxsNrhZw4JRBBxdwuGJdhyV.jpg",
+               "id": 61167,
+               "order": 4
+            },
+            {
+               "cast_id": 6,
+               "character": "Dr. Jainway",
+               "gender": 0,
+               "credit_id": "52fe435d9251416c7500d8cb",
+               "name": "Ann Marie Lee",
+               "profile_path": null,
+               "id": 64874,
+               "order": 5
+            },
+            {
+               "cast_id": 63,
+               "character": "Scorby",
+               "gender": 2,
+               "credit_id": "55e51f0ac3a3681405000ec2",
+               "name": "Garry Chalk",
+               "profile_path": "/1estlif6pDM9uV7sgOsTU3WQeYw.jpg",
+               "id": 26089,
+               "order": 6
+            },
+            {
+               "cast_id": 18,
+               "character": "Ronnie",
+               "gender": 1,
+               "credit_id": "52fe435d9251416c7500d909",
+               "name": "Saffron Henderson",
+               "profile_path": null,
+               "id": 160111,
+               "order": 8
+            },
+            {
+               "cast_id": 19,
+               "character": "10 year old Martin",
+               "gender": 2,
+               "credit_id": "52fe435d9251416c7500d90d",
+               "name": "Harley Cross",
+               "profile_path": "/ho11xBDWXeJP6ub4b4e7XmYx9dL.jpg",
+               "id": 35547,
+               "order": 9
+            },
+            {
+               "cast_id": 20,
+               "character": "4 year old Martin",
+               "gender": 2,
+               "credit_id": "52fe435d9251416c7500d911",
+               "name": "Matthew Moore",
+               "profile_path": null,
+               "id": 198472,
+               "order": 10
+            },
+            {
+               "cast_id": 21,
+               "character": "Wiley",
+               "gender": 0,
+               "credit_id": "52fe435d9251416c7500d915",
+               "name": "Rob Roy",
+               "profile_path": null,
+               "id": 1084740,
+               "order": 11
+            },
+            {
+               "cast_id": 22,
+               "character": "Hargis",
+               "gender": 2,
+               "credit_id": "52fe435d9251416c7500d919",
+               "name": "Andrew Rhodes",
+               "profile_path": null,
+               "id": 190204,
+               "order": 12
+            },
+            {
+               "cast_id": 23,
+               "character": "Mackenzie",
+               "gender": 2,
+               "credit_id": "52fe435d9251416c7500d91d",
+               "name": "Pat Bermel",
+               "profile_path": null,
+               "id": 294790,
+               "order": 13
+            },
+            {
+               "cast_id": 24,
+               "character": "Dr. Trimble",
+               "gender": 2,
+               "credit_id": "52fe435d9251416c7500d921",
+               "name": "William S. Taylor",
+               "profile_path": "/ybSevlF2F7Cb4uGJirxUyd6LYUB.jpg",
+               "id": 67520,
+               "order": 14
+            },
+            {
+               "cast_id": 25,
+               "character": "Simms",
+               "gender": 2,
+               "credit_id": "52fe435d9251416c7500d925",
+               "name": "Jerry Wasserman",
+               "profile_path": "/wNIZZXmI0LMnf2231auSExQz7FT.jpg",
+               "id": 21091,
+               "order": 15
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe435d9251416c7500d8d1",
+               "name": "Chris Walas",
+               "profile_path": null,
+               "id": 64875,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe435d9251416c7500d8d7",
+               "name": "Steven-Charles Jaffe",
+               "profile_path": null,
+               "id": 2093,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe435d9251416c7500d8dd",
+               "name": "Jim Wheat",
+               "profile_path": null,
+               "id": 63920,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe435d9251416c7500d8e3",
+               "name": "Ken Wheat",
+               "profile_path": null,
+               "id": 63921,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe435d9251416c7500d8e9",
+               "name": "Frank Darabont",
+               "profile_path": "/9KVvZtDyy8DXacw2TTsjC9VLxQi.jpg",
+               "id": 4027,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe435d9251416c7500d8ef",
+               "name": "Christopher Young",
+               "profile_path": "/2laVovSXDVpHRS6HSpKyCspSmze.jpg",
+               "id": 19155,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe435d9251416c7500d8f5",
+               "name": "Robin Vidgeon",
+               "profile_path": "/vRGYUGymluUYK69CwnSoFkebVC6.jpg",
+               "id": 56548,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe435d9251416c7500d8fb",
+               "name": "Sean Barton",
+               "profile_path": null,
+               "id": 64876,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe435d9251416c7500d901",
+               "name": "Mick Garris",
+               "profile_path": "/g7NQv3FBJaQaXTVHDydqaDADir6.jpg",
+               "id": 61824,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 1,
+               "credit_id": "532d74f0c3a3685fbb001aa3",
+               "name": "Deborah Lucchesi",
+               "profile_path": null,
+               "id": 956983,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "532d754cc3a3685fb3001abc",
+               "name": "Christopher Ryan",
+               "profile_path": null,
+               "id": 183220,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55153df4c3a3684239002bda",
+               "name": "Michael S. Bolton",
+               "profile_path": null,
+               "id": 1136056,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55153e0892514153b2000d53",
+               "name": "Sandy Cochrane",
+               "profile_path": null,
+               "id": 53813,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55153e20c3a36841f3002c6f",
+               "name": "Rose Marie McSherry",
+               "profile_path": null,
+               "id": 11822,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 1,
+               "credit_id": "55153e41925141070100ca9f",
+               "name": "Sherry Linder-Gygli",
+               "profile_path": null,
+               "id": 1426761,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55153e62c3a3684239002be1",
+               "name": "Jayne Dancose",
+               "profile_path": null,
+               "id": 1446192,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55153eabc3a36841030026aa",
+               "name": "Thom Wells",
+               "profile_path": null,
+               "id": 229909,
+               "department": "Art",
+               "job": "Construction Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55153ee4c3a3684239002bf2",
+               "name": "Glen W. Pearson",
+               "profile_path": null,
+               "id": 1446194,
+               "department": "Art",
+               "job": "Assistant Art Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "55153f52925141538d000cad",
+               "name": "Steve Craine",
+               "profile_path": null,
+               "id": 1059708,
+               "department": "Art",
+               "job": "Lead Painter"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55153f739251412be4002834",
+               "name": "Avo Liva",
+               "profile_path": null,
+               "id": 1397161,
+               "department": "Art",
+               "job": "Greensman"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55153f8fc3a36840a30026d2",
+               "name": "James H. Chow",
+               "profile_path": null,
+               "id": 1446196,
+               "department": "Crew",
+               "job": "Property Master"
+            },
+            {
+               "gender": 2,
+               "credit_id": "55153fbd925141538d000cb1",
+               "name": "Patrick Dodd",
+               "profile_path": null,
+               "id": 957581,
+               "department": "Sound",
+               "job": "ADR & Dubbing"
+            },
+            {
+               "gender": 2,
+               "credit_id": "55153fedc3a36803da001e6a",
+               "name": "Leslie Shatz",
+               "profile_path": null,
+               "id": 56765,
+               "department": "Sound",
+               "job": "Sound Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55154010c3a36861950049b8",
+               "name": "Ralph Wikke",
+               "profile_path": null,
+               "id": 1446198,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "551540319251412cec0026de",
+               "name": "Patrick Dodd",
+               "profile_path": null,
+               "id": 957581,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55154057925141045c004d04",
+               "name": "Danny Kopelson",
+               "profile_path": null,
+               "id": 1446199,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "55154071c3a36821e5000c6c",
+               "name": "David Parker",
+               "profile_path": null,
+               "id": 1406614,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55154156c3a36861950049cf",
+               "name": "Katherine Kean",
+               "profile_path": null,
+               "id": 1445981,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5515416bc3a36841030026c4",
+               "name": "January Nordman",
+               "profile_path": null,
+               "id": 1446200,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55154187925141046200348e",
+               "name": "Joseph Thomas",
+               "profile_path": null,
+               "id": 1446201,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5515419bc3a368351e001d64",
+               "name": "John T. Van Vliet",
+               "profile_path": null,
+               "id": 1400820,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "551541bac3a368351e001d68",
+               "name": "John Wardlow",
+               "profile_path": null,
+               "id": 102751,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "551541fec3a36803da001e82",
+               "name": "John Clothier",
+               "profile_path": null,
+               "id": 1394974,
+               "department": "Camera",
+               "job": "Steadicam Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "551542149251412c520026d0",
+               "name": "Joseph Lederer",
+               "profile_path": null,
+               "id": 1394973,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "55154246c3a368351e001d6d",
+               "name": "Stephen Jackson",
+               "profile_path": null,
+               "id": 91341,
+               "department": "Lighting",
+               "job": "Gaffer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5515425b9251412be4002863",
+               "name": "Richard Buckmaster",
+               "profile_path": null,
+               "id": 1446202,
+               "department": "Lighting",
+               "job": "Rigging Gaffer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55154297925141538d000cd9",
+               "name": "Michelle Allen",
+               "profile_path": null,
+               "id": 75538,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "551542da925141538d000cdd",
+               "name": "Jay Ignaszewski",
+               "profile_path": null,
+               "id": 1446203,
+               "department": "Editing",
+               "job": "First Assistant Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5515431ec3a36821e5000c81",
+               "name": "Michael Smith",
+               "profile_path": null,
+               "id": 1446204,
+               "department": "Editing",
+               "job": "First Assistant Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "55154337c3a36861950049e7",
+               "name": "Earl Ghaffari",
+               "profile_path": null,
+               "id": 1341141,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5515434a925141045c004d2f",
+               "name": "Jay Ignaszewski",
+               "profile_path": null,
+               "id": 1446203,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55154367c3a36840a3002718",
+               "name": "Jean Bereziuk",
+               "profile_path": null,
+               "id": 1426782,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "551543b292514104620034a8",
+               "name": "Tracey Jeffrey",
+               "profile_path": null,
+               "id": 63553,
+               "department": "Production",
+               "job": "Location Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "551543cd9251412be4002875",
+               "name": "Steve Newman",
+               "profile_path": null,
+               "id": 1403550,
+               "department": "Crew",
+               "job": "Unit Publicist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5540ecda9251414ae8001ae1",
+               "name": "Cyrus Block",
+               "profile_path": null,
+               "id": 1271804,
+               "department": "Camera",
+               "job": "Camera Operator"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Horror",
+            "id": 27
+         },
+         {
+            "name": "Science Fiction",
+            "id": 878
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         }
+      ],
+      "popularity": 9.456496,
+      "production_countries": [
+         {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+         },
+         {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+         }
+      ],
+      "id": 10344,
+      "vote_count": 192,
+      "budget": 0,
+      "overview": "Martin Brundle, born of the human/fly, is adopted by his father's place of employment (Bartok Inc.) while the employees simply wait for his mutant chromosomes to come out of their dormant state.",
+      "similar": [
+         39256,
+         7191,
+         124905,
+         40761,
+         10973,
+         1927,
+         588,
+         5876,
+         9426,
+         126889,
+         384521,
+         339967,
+         336843,
+         3034,
+         339530,
+         46261,
+         15767,
+         9383,
+         9077,
+         22825
+      ],
+      "original_title": "The Fly II",
+      "runtime": 105,
+      "poster_path": "/zoIWGWVMCbkmsVieP99br9ZC8yY.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Polski",
+            "iso_639_1": "pl"
+         }
+      ],
+      "production_companies": [{
+         "logo_path": null,
+         "name": "Brooksfilms",
+         "id": 5612,
+         "origin_country": ""
+      }],
+      "release_date": "1989-02-10",
+      "vote_average": 5.2,
+      "belongs_to_collection": {
+         "backdrop_path": "/6nU5cC8qaVO3hzSMDMJp4HCFwDA.jpg",
+         "name": "The Fly Collection",
+         "id": 109609,
+         "poster_path": "/r6mRcDV2MIbDQ79JpeGls5DnDfr.jpg"
+      },
+      "tagline": "Like Father Like Son",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Chris Walas"],
+      "runtime": 105,
+      "synopsis": "Several months after the death of Seth Brundle, his lover Veronica is giving birth to their son at Bartok Industries, the company that funded Brundle's experiments. The labor is very painful, and her accomplice Stathis Borans is dragged away from the procedure after he objects to her treatment. She eventually gives birth to a larval sac, causing her to go into shock and die. The larval sac is opened by the surgeons to reveal a seemingly normal human baby inside. The baby is named \"Martin\" by the scientists. He begins to age much faster than a normal human; the company's CEO, Bartok, tells him that this is due to an extremely rare disease called \"Brundle's Accelerated Growth Syndrome\", caused by inherited mutant DNA from his father (hence the disease's name). Martin is just as much of a genius as his father, and Bartok wants him to finish the work Seth started. One day, Martin sneaks into a room where animals are held for testing, and befriends a Golden Retriever. He slips out of his room one day to bring the dog some of his dinner, but he finds that it has been transferred to another section. Martin goes there to discover a new set of Telepods, like the ones his father invented; his dog is being prepared for teleportation. The scientists send the dog through, but it unfortunately emerges as a hideous mutant, biting off a scientist's fingers. A horrified Martin screams, as Bartok consoles him. Five years after Martin's birth, he is now physically 20 years old. He is taken to a new living space, which is much more luxurious and wide open. Bartok also tells Martin that he wants him to fix the Telepods; as Martin saw with the dog, they are unable to properly teleport anything, even inanimate objects like apples. Bartok assures Martin that the dog didn't suffer long, and apologizes for it. Martin is still skeptical about working on the Telepods, but Bartok gives him videotapes of his father being interviewed by Veronica to watch. On the tapes, Seth says that the teleportation somehow invigorated him and gave him more energy (though he was unaware of his eventual mutation at the time). Seeing this, Martin begins working on the Telepods. Martin eventually manages to send a telephone through the pods with no ill effects, but he quickly decides he needs organic matter to transmit. He befriends another Bartok employee, Beth, and tries to send a cactus she owns through the Telepods. It comes out heavily damaged. Beth then invites Martin to have dinner with her, and he agrees. One day, Beth takes Martin to a party in the Genetic Research area. He overhears someone talking about a hideous mutant the company has kept alive for two years. Martin slips away from the party and goes down to see it, discovering to his horror that the mutant in question is the Golden Retriever from his childhood. Outraged, Martin slips into the holding pen where the dog is to visit it. The dog is initially hostile, but it soon realizes who he is and relents. Martin sits and pets his dog for a while, before taking out some chloroform and putting it to sleep. The next day, Bartok asks Martin about a break-in at Genetic Research, which Martin denies knowledge of. Bartok realizes he is lying, and theorizes that Martin will eventually become just like him. Martin invites Beth to watch him teleport a kitten. While she initially reacts with horror, she is relieved when the kitten goes through unharmed. Later that night, Beth and Martin make love. The morning after, Beth notices what appears to be an open sore on Martin's arm. Theorizing that this is from the mutant DNA Bartok told him about, Martin asks the computer what can be done. It tells him that the mutant DNA can be replaced with healthy DNA from another donor, using a gene-swapping program built into the Telepod computer. Martin rejects this idea when he sees such a process would turn the donor into a horrific mutant. Martin notices the sore on his arm is secreting a sticky, web-like fluid. When Bartok finds out, he realizes that Martin will soon become a human/fly hybrid like his father. Beth then discovers she is denied access to Martin's work area, and is told that the company taped her and Martin in bed. She tells Martin, who angrily trashes his living area and eventually discovers the hidden camera inside. He destroys it and breaks into the surveillance area, discovering that every moment of his life has been secretly taped. He then runs into another tape of his father, this time in the initial stage of mutation, recounting how a fly had gotten into the telepod with him. Realizing what is happening to him, Martin escapes from Bartok's facility and goes to see Beth at her houseboat. Bartok's scientists attempt to activate the telepods, but they quickly discover that Martin has installed a password system (the computer asks for \"the magic word\"). If the wrong password is entered, the computer will use a tapeworm virus to completely wipe its memory. Realizing that Martin must be brought back, Bartok's henchmen chase him and Beth, who go on the run. The two visit Stathis Borans, now a reclusive drunk, who theorizes that a cure for Martin's condition involves the Telepods. He gives them his car, and they check into a motel for the night. Martin's transformation quickly becomes too much for Beth to bear, and she surrenders the two of them to Bartok. A now-cocooned Martin is brought back to Bartok Industries, while Beth is interrogated about the \"magic word\". After some time, Martin's cocoon bursts open and reveals a human/fly hybrid-- \"Martinfly.\" Unlike Martin's father, who was a sickly, deformed mutant, Martin's transformed form is extremely deadly, likely owing to Martin having been born with fly genes rather than being fused with them. It goes on a rampage throughout the facility, killing several security guards. However, a trace of Martin's humanity remains intact; the creature simply strokes a guard dog sent to locate it, and also refuses to harm Beth when it encounters her. Eventually, it breaks into the Telepod bay, grabs Bartok, and uses his hands to type in the his password -- \"Dad.\" The gene-swapping program boots up, and the telepod door opens. Martinfly drags Bartok into the telepod with it, and uses Bartok's hands to gesture at Beth, telling her to activate the teleportation sequence. Over Bartok's objections, she activates it, and Martinfly and Bartok are teleported just as security breaks into the area. Bartok emerges from the pods as a horrible mutant, but Martin is transformed into a normal human again. An exhausted Martin assures Beth that he is okay, and they embrace. Later, the Bartok mutant suffers an ironic fate; it is placed into the same area Martin's mutated dog was, doomed to messily eat gruel through its dying days. As the mutant crawls to the bowl of food, it notices a fly crawling on the rim of the bowl. With this shot, the film ends.",
+      "writers": [
+         "Mick Garris",
+         "Jim Wheat"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0097368/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTk3MjUyMzMyOF5BMl5BanBnXkFtZTcwNjM4Nzk0MQ@@._V1_SY317_CR5,0,214,317_AL_.jpg",
+      "actors": ["Stars: Eric Stoltz, Daphne Zuniga, Lee Richardson | See full cast and crew »"],
+      "reviews": [
+         "This does not touch the Cronenberg movie (or the Vincent Price movies, from what I've seen of those), but is definitely worth the watch for fans of gross-out monster flicks. The plot? The son of Seth Brundle (Harley Cross) is born in a corporate laboratory. He grows up at a very fast rate (now played by Eric Stoltz) and falls in love while discovering the evil secrets of the bigwig and his scientists, who have raised him. Nothing helps him on his quest to destroy them more than when the metamorphosis that took place in Dad begins to take place even faster in Son. It has its funny moments (the under-used John Getz from the original gets some big, cynical laughs), as well as very emotionally moving moments (especially when Stoltz puts the mutant dog to sleep, which is very sad and touching). There is a hackneyed element, to be sure (the romantic part with the awful country song is something that would be perfectly acceptable to fast-forward through), but, overall, it's still a kinda fun movie that's more effective than many people might tell you. As far as the gore quotient goes, this one I would consider more of a splatter movie than Cronenberg's (which had its gross-out moments throughout, but wasn't as bloody as this one was). Still, if you like gore, I would suggest it especially. I myself have no problems with gore as long as I like the movie around it, and I liked \"The Fly 2\" enough to actually watch it more than once without that choice being under the influence of substances! Also, one way it was better than the first film was how it ended. While the ending to the first was somewhat abrupt (even if it was a great movie and didn't really need anything extra), this one features a happy ending that is not sappy (always commendable), as well as one of the greatest acts of vengeance ever agonizingly drawn out on film. All in all, I agree that \"The Fly 2\" doesn't really touch David Cronenberg's \"The Fly\" in overall quality, but it doesn't deserve the terrible reputation that's been heaped on it over the years, even if there's nothing to disguise the fact that is inferior.",
+         "I caught this movie on cable last night; this is one of those films where the memory of having seen it years ago is better than the actual film. The production design is actually quite good, surprising when, upon closer inspection, they apparently only built one set (the lab), and the rest of the scenes-- all brief ones-- were shot at cheap locations, such as Beth's houseboat, Martin's condo, and such. The acting is decent, considering the lack of any character at all (especially braindead Beth). Eric Stoltz and Daphne Zuniga actually put some effort forth here, which is nice, considering this was probably little more than a paycheck for both. The problem is the script. First-time director Chris Walas does well with what he was handed-- probably in pieces, from four different screenwriters-- but I got the feeling that a coherent, dramatic story arc was chopped down to a lightning-paced 111 minutes. It seems like entire scenes are missing-- or else they were never written. The bare bones I watched were perhaps merely excuses to link together special effects and make-up from Walas's FX company. In that sense, it's kinda like a porno film. No one cares about the plot, the just wanna see the \"money shot.\" And this one has a few-- they spent all their money on a) mutant dog ($100), b) Unlucky Security Guard #2 ($1000), c) fly cocoon ($50), and d) Alterna-Stoltz (priceless). This explains why, with the exception of Unlucky Security Guard #2, the deaths are not nearly graphic enough, and thus unsatisfying... considering how great a length the \"story\"-tellers go to make us hate everyone in the film who ISN'T Martin or Beth (or Borans). The film is shot well, considering how few locations are used, though several directing mistakes jumped out, not necessarily worthy of the \"goofs\" section. For example, note how when Beth enters the lab, never having been there before.... at the end of scene, she somehow knows the exact command to type into the computer to open the doors on the OTHER SIDE of the room. How does she expect to find her way back to her desk? (which is apparently down the hall, less than 100 feet away... just like everything else in this building, which, by the way, we never see from the outside) More proof there's another hour of this movie that's either on a cutting room floor somewhere, or just never got filmed. Pity the entire movie couldn't fulfill the promise of the single, memorable final shot, as the credits appear. 5/10, cuz it's half a film.",
+         "\"The Fly II\" As I write this review, I have never seen the remake of \"The Fly\" with Ian Malcolm - err, Jeff Goldblum - and Geena Davis. So I really have no basis to compare this sequel to. Therefore, I will continue with this review in light that I have not seen the original remake... The film opens with a Geena Davis Lookalike giving birth to a son; she dies, the baby lives. Baby grows older, and because he is 1/4 fly, he grows at a rapid rate, for some reason. I'm not sure why this would make him bigger instead of smaller, but oh well. His name is Martin, and he turns into Eric Stoltz when he is five. Yes, you read that right. Five. Martin is looked over by the head of a company, where he is kept and given medication to keep him from turning into a fly... But soon young Martin finds out that not everything is what it seems, and he begins to mutate into...THE LIZARD. Well, that's what he looks like, anyway. As I watched this, I kept a careful eye on Eric Stoltz. Why? Well, as I'm sure everyone knows by now, he was originally cast for Marty McFly for \"Back to the Future,\" and they filmed much of the movie with him before Bob Zemeckis dropped him for Fox. In fact, there is still a scene where he is diving into the Delorean that is intact. Freeze frame the film and you can see it's not Fox. I always thought that footage looked odd - like it wasn't Fox doing the stunt... Anyway, I watched Stoltz and realized how bad he would have been as Marty McFly. He just isn't hyper enough - Michael J. Fox was perfect for Marty, Stoltz would have ruined it. He's not a bad actor, mind you. He's perfect for this role (well at least \"good\" for this role), but for Marty? Nah... On a side note, I'm not sure if this is a coincidence or bizarre in-joke, but Stoltz's character plays a kid named Martin...similar to Fox's character Marty McFly...Martin...Marty.... And, I thought of something else that I haven't seen someone point out before. Marty's last name in \"BttF\" is McFly. What does Martin turn into in this film? A FLY! Martin the Fly, Marty McFly...taking a quote from \"Uncle Buck\": \"Is there a little similarity here? Ooh, I think there is!\" The film was directed by the creature effects artist of the original - and sequel: Chris Walas. You might recognize his name, because he wrote \"Gremlins 2\" and did the creature effects for \"Gremlins,\" as well. Anyway, he directs the film pretty good for a creature effects artist...I guess... What I like so much about this movie is its high campy quality. It is a hybrid of B horror movies from the fifties and sixties and the \"new breed\" of horror films in the eighties, that were like B horror movies with gore. Lots of gore. I guess it doesn't qualify as strictly campy, because the old horror movies were not so disgusting...so I just call these films the eighties B horror movies. Simple enough, eh? I have always been a sucker for the campy horrors from the eighties, especially when they are sequels that tread into old territory. For example, in one scene we see footage of Jeff Goldblum being interviewed. Martin watches this with interest. And what I think is so interesting is that we can look back and say, \"Oh, yes, that was before Goldblum knew he was turning into a fly.\" It's just interesting to do that. It seems like many films from the eighties would have archive footage from the original film. Anyway, \"The Fly II\" is a lot like these films. It gives us a glance back at the original. I'm not sure if I can explain in words what this does. It just provides a feeling for me - kind of like campy horrors make some people feel good. I like when horror movies--or any movies, for that matter--travel into the film before...we can look at the old characters and say, \"Oh, yes, that was before this was going to happen...\" It's just fun to do. I can't describe it in words. This movie, like many horror sequels from the eighties, is just enjoyable. Odd, but enjoyable. It's hard not to have fun watching it. If you take it seriously you're going to have a pretty hard time watching, but if you turn off the brain for two hours you'll have some fun. My only two complaints is that this movie is about a half hour too long, and the creature looks like a lizard and not a fly. Other than that, it is a fun ride. Not great, but a good, well done horror movie that never takes itself too seriously. Perfect for a Friday night. 3/5 stars - John Ulmer",
+         "On second viewing - all these years later - my first impressions regarding my feelings on \"The Fly 2\" have been altered; like the DNA of our central character. Though you wanted the quirkiness and tour de force performance that Jeff Goldblum gave in the first \"The Fly\" or the gravitas and grit that David Cronenberg is so adept at, this sequel actually has a sensible storyline, vivid and shocking special effects and an ending that ultimately makes you care how the characters find their way out of their pus-filled cocooned predicament. Chris Walas's direction induced a strong pacing and tension throughout the journey, whilst the screenwriters provided a thought provoking social commentary on the nefarious activities of profit over human concerns in the corporate world. Eric Stoltz, in dark hair and a high pitched voice, as the mutating offspring of Seth Brundle (Goldblum's character from the first film), inhabited the child-like qualities of his role with the sensitivity he displayed in \"Mask\", adding an appropriate amount of dark dimension when the situation or two called for it. Daphne Zuniga, in the follow up female role from Geena Davis, is empathetic as the caring and defiant Beth Logan. And Lee Richardson, does a masterful job of a torn, yet despotic CEO of Bartok industries, becoming the surrogate father figure that Stoltz's rapidly aging Brundle so requires. Whether you watch this sequel immediately after the first film or years later, you'll soon realize that \"The Fly 2\" stands on its own merits as a crisp horror tale, as well as continuing a legacy with intellect and thrills. Maybe having Frank Darabont (\"The Mist\", \"The Shawshank Redemption\") work on the script helped bring the depth and arc this follow up required. 8/10",
+         "Yep, the same studio that made the original classic \"The Fly\" from the late Fifties decided that it was time to revisit the franchise a few decades later. But this sequel to the far superior David Cronenberg re-visitation is not so much a vehicle for its grade-B cast, as it is a showcase for its new director, special effects wiz Chris Walas. To his credit, he knew that this was his opportunity to go bananas, and that's exactly what he did. Eric Stoltz is given the unenviable task of picking up where Jeff Goldblum left off, as the equally hapless son of the Seth Brundle character. Geena Davis wisely took a time-out, so a lookalike actress takes her place as Veronica \"Ronnie\" Quaife, who conveniently gets to die in the first few minutes, in a childbirth sequence that may make anything in the \"Alien\" series pale by comparison. As ooky and icky as Cronenberg's bodily mutation-horror point of view was in the previous outing, Walas takes those cues to the 'nth' degree here, so those who are animal lovers or possessing delicate stomachs are hereby given fair warning: this is NOT a pretty picture. Cinephiles who have wasted oceans of print criticizing THE FLY II should take note: the notices were equally severe all those years ago for RETURN OF THE FLY, when Fox tried to cash in then on the predecessor that had such a great pedigree. That cast included Vincent Price, Herbert Marshall, Patricia Medina and Al (David) Hedison. With the new-fangled model starring Jeff Goldblum and Geena Davis, didn't anyone get even a hint of \"deja vu all over again?\" C'est la vie. The only person sticking around (pun intended) from the \"new original\" is John Getz as the unfortunate bastard Stathis Borans, and to his credit, he played it with deadpan perfection, not to mention that his character is given the sequel's best dialogue. In other words, it's pretty obvious from the way he played things that Getz \"gets\" it. Even if Stoltz and the non-descript Daphne Zuniga had been up to the task of overcoming the FX bombast on display (which they obviously weren't), the producers, writers and director weren't out to surpass the last episode in quality, as much as in the queaze quotient. Only Lee Richardson as Anton Bartok, the wicked, narrow-minded industrialist bent on exploiting the late Dr. Brundle's experiments to the max, does his job admirably well. You love to hate him on first sight, and the fact that he delivers the goods makes the gruesome fate his character suffers that much more satisfying. So, in closing, let's sum up the main points here: for classic terror and the not-so classic follow up, go back to the Fifties original and its progeny. For modern-day mayhem and mounds of moldering makeup effects, go to the creepy Cronenberg version, then do not pass go, skip lunch and try this ordeal of offal on for size. You will be grossed-out, guaranteed, and popcorn is definitely optional, skipping the extra butter, of course.",
+         "It kinda goes without saying that with FX man Chris Walas taking the directorial reins from Cronenberg, the sequel to the 1986 horror hit The Fly ain't going to be on a par with its predecessor. But even though The Fly 2 doesn't quite pack the emotional wallop or sophistication of part one, it's still an enjoyable slice of hokey B-movie monster madness that should particularly appeal to those who love a bit of splatter with their big-bug action. Part Two begins as Veronica, the pregnant girlfriend of tragic deceased scientific genius Seth Brundle, dies whilst giving birth to son Martin under the watchful eye of Bartok Industries, the organisation that funded Seth's telepod experiments (baboons don't grow on trees, y'know). Thanks to the unique human/fly genetic make-up he has inherited from his father, Martin experiences accelerated growth, and by the age of five, is a fully grown scientific whizz-kid (played by Eric Stoltz) working for his benefactor Anton Bartok (on the same telepod project that claimed his father's life) and romancing pretty computer operator Beth Logan (Daphne Zuniga). Bartok (Lee Richardson), however, is not as benevolent as he seems: with his own wicked agenda in mind, he has led Martin to believe that his rapid growth is the result of a very rare growth disorder, and has kept the lad under continuous observation, waiting for the day that his dormant insect genes fully awaken to transform him into a multi-limbed monster. Despite being a newbie in the director's chair, Chris Walas proves to be no slouch when calling the shots: working from a script by frequent Stephen King collaborators Frank Darabont and Mick Garris, he delivers a surprisingly polished product that offers spirited performances from B-list stars Stoltz and Zuniga, a touch of pathos with a memorable key scene involving a mutated dog, and a whole slew of top-notch special effects, the most stomach churning of which see one poor guy having his head crushed by an elevator! Yowch! I do struggle a little with the notion that entering a telepod with another human being (especially a full clothed one) would revert a Brundlefly to perfect human form, but since this was something alluded to in the original, and there's a fitting payoff for the bad guy as a result, I'll cut the film some slack. Besides, I had lots of fun with The Fly 2, and that's what really matters.",
+         "This sequel picks up a few months after the original. Jeff Goldblum's baby is born and he is anything but normal. Growing up at an incredible pace, only at 5 years old he looks like an adult. But his father's fly genes have not escaped him and he awaits his terrible fate. This sequel is nowhere near the class of the original but I didn't find it that bad either. Here the characters aren't as interesting, the pacing is uneven and in the end the film succumbs wholly to an FX showcase with little to no suspense. But there are bright spots here I thought. The acting is generally very good, particularly Stoltz as the unfortunate offspring. He should be used to acting under heavy makeup and he fares well in building sympathy for his character. Richardson, as Stoltz father figure, is also good and on the whole their father-son-mentor-student relationship is well played out. Spoiler alert. I liked the ending quite a bit. When Stoltz finally turns into this bizarre fly the story takes a turn into revenge territory. Stoltz starts killing off his tormentors in a very grisly fashion and I thought that capped the film off well. Plus, the happy ending is welcomed, there was no need to let it end on a downbeat note. End of spoiler. All in all I found The Fly II to be a satisfactory viewing experience on a slow night. You could do a lot worse.",
+         "Seth Brundle's offspring, Martin, is born and begins his life in a controlled lab environment at Bartok Industries. He grows at an accelerated rate both physically and intellectually. After seeing some of the ruthless ethic that the company has towards its experiments and the length they go for results Martin goes on a rampage and escapes. Also, his mysterious and idling chromosomes start to become active and he begins to mutate. First he has better strength and speed and soon he turns into a monster. Much of the visceral symbols and themes from David Cronenberg's film are lost at the expense of gore and special effects, but parts of this obviously inferior film are nonetheless engaging. The character's motivation is clear, the atmosphere is pretty defined, and the film's last act is pretty exciting. Featuring some good gore effects and a ruthless act of revenge against an evil character ultimately make this film more satisfying than its reputation would suggest. 5/10 Rated R for violence, gore/gruesome images, and a sex scene",
+         "The Fly II picks up where the first Fly left off. Seth Brundle is dead, and Veronica Quaife is giving birth to their child. We learn that the child has rapid growth disorder, and we skip ahead to when he's 5 years old and a grown man. He is continuing his father's work under the watchful eye of Amos Bartok, a shrewd business man. Unknown to Martin Brundle, he carries his father's genes, and he begins to rapidly transform into a monstrous human/fly abhorration. Everything that made the first Fly so good is suddenly gone in this sequel. Just to name a few things: David Cronenberg, a good plot, good dialogue, good acting. They all decided to leave this project. The Fly had everything. Tense, suspenseful horror, sci fi, drama, and even a sort of love story. The Fly II has got disgusting gory horror, little to no sci fi, no drama, and the love story is so underdeveloped that you might as well call it friendship with sex. The acting in this movie is so dull and unbelievable that it's pretty bad to watch. The only thing remotely okay in this movie is the FX, even though it's all used to show disgusting gore that the viewing audience doesn't really want to see. The Fly II should only be watched if you're curious about the continuing storyline, but be warned that it is nowhere close to on par with the original. 2/10",
+         "This is overall one of my favorite horror movies. Good, creepy monster, scenes of anticipation, and some characters you care about or despise. The first Fly remake (with Jeff G.), is also a great movie; but I see it as a drama with horror elements that escalates the level a couple can take commitment to horrific heights. It uses horror to punctuate the \"OMG!\" of the drama. It was an excellent movie. Fly 2 reverses the priority of drama vs horror. It adds the popcorn munching fearsome good time of the old horror movies, updated to todays standards. The old Boris Karloff movies can be shown to a 5 year old today and he'd see it as anything but scary. If you scoff, then you need to watch this at home, with surround or the stereo, lights off. IF you're not scared, you'll at least be captivated. Fly 2 gives you enough character development to care, but not enough for serious drama. That's fine. The story however, has more twists than the original, and rather than exposing the bug and killing him immediately at the end like the first fly, this one gets to buzz around and do some damage. If it didn't, it would be virtually the same formula as the original; and the detractors would have even more a field day trashing this movie; as would I. If you liked the original, and also like movies like the remakes of The Blob and The Thing from the 80's you won't be sorry seeing this one. The creature effects are much better than those two movies as well. However, if you thought those movies were trash, then skip this one. You are just too um... \"deep\" for this movie."
+      ],
+      "genres": [
+         "Horror",
+         "Sci-Fi"
+      ],
+      "productionCompanies": ["Brooksfilms"],
+      "summaries": [
+         "Seth Brundle was a renowned scientist whose warped experiments with teleportation transformed him into a man/fly hybrid called BrundleFly. A few months after the BrundleFly insect met its demise by his lover's, Veronica, shotgun, she dies while giving birth to their son, Martin. Seth's corrupt employer, Bartok, adopts Martin, only so Martin can solve the new problems that the still-functioning TelePods present and to use him as a science project because of the dormant insect genes. Martin is now fully grown, even though he is five, and the fly genes begin to awaken and make him just like dear, dead dad. With the help of his girlfriend, Beth, they go to wherever they can find a possible cure before Bartok finds them and brings them back, but not before Martin finishes his transformation into MartinFly, the deadliest of the BrundleFly species.",
+         "A few months after a hideously deformed Seth Brundle was mercifully killed by his lover Veronica, she dies giving birth to Seth's son Martin. Martin is raised by Seth's evil employer Anton Bartok, who requires Martin's help to solve the problems of the Telepods, believing the Telepods are the key for worldwide domination. Martin ages at an accelerated rate (being the equivalent of 20 human years old at the age of 5), and the fly genes he inherited from his father begin to transform him into Martinfly, who, unlike his sickly father, is a very deadly force to be reckoned with. Befriended by beautiful computer specialist Beth Logan, Martin sets out for a way to cure himself, discovering that the answer lies within the Telepods...",
+         "The almost human son of \"The Fly\" searches for a cure to his mutated genes while being monitored by a nefarious corporation that wish to continue his father's experiments."
+      ],
+      "budget": 0
+   },
+   "movielensId": 2456,
+   "movielens": {
+      "languages": [
+         "English",
+         "Polski"
+      ],
+      "releaseDate": "1989-02-10",
+      "dvdReleaseDate": "2000-09-05",
+      "directors": ["Chris Walas"],
+      "runtime": 105,
+      "movieId": 2456,
+      "title": "The Fly II",
+      "mpaa": "R",
+      "actors": [
+         "Eric Stoltz",
+         "Daphne Zuniga",
+         "Lee Richardson",
+         "John Getz",
+         "Frank C. Turner",
+         "Ann Marie Lee",
+         "Garry Chalk",
+         "Saffron Henderson",
+         "Harley Cross",
+         "Matthew Moore",
+         "Rob Roy",
+         "Andrew Rhodes",
+         "Pat Bermel",
+         "William S. Taylor",
+         "Jerry Wasserman"
+      ],
+      "imdbMovieId": "0097368",
+      "originalTitle": "The Fly II",
+      "genres": [
+         "Horror",
+         "Science Fiction",
+         "Thriller"
+      ],
+      "youtubeTrailerIds": ["-yS6E2EXlnI"],
+      "plotSummary": "Martin Brundle, born of the human/fly, is adopted by his father's place of employment (Bartok Inc.) while the employees simply wait for his mutant chromosomes to come out of their dormant state.",
+      "tmdbMovieId": 10344,
+      "avgRating": 2.30576,
+      "releaseYear": "1989",
+      "numRatings": 1946,
+      "posterPath": "/zoIWGWVMCbkmsVieP99br9ZC8yY.jpg"
+   }
+}

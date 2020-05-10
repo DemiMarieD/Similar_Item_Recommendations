@@ -1,0 +1,736 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "civil war",
+            "id": 393
+         },
+         {
+            "name": "parent child relationship",
+            "id": 970
+         },
+         {
+            "name": "east india trading company",
+            "id": 1319
+         },
+         {
+            "name": "traitor",
+            "id": 2052
+         },
+         {
+            "name": "death penalty",
+            "id": 2122
+         },
+         {
+            "name": "thailand",
+            "id": 3434
+         },
+         {
+            "name": "palace",
+            "id": 3998
+         },
+         {
+            "name": "burma",
+            "id": 5499
+         },
+         {
+            "name": "daughter",
+            "id": 5600
+         },
+         {
+            "name": "royalty",
+            "id": 9920
+         },
+         {
+            "name": "teacher",
+            "id": 10508
+         },
+         {
+            "name": "battle",
+            "id": 14643
+         },
+         {
+            "name": "denunciation",
+            "id": 197602
+         }
+      ],
+      "imdb_id": "tt0166485",
+      "video": false,
+      "title": "Anna and the King",
+      "recommendations": [
+         6520,
+         11860,
+         4806,
+         397,
+         1049,
+         11352,
+         6435,
+         2020,
+         9587,
+         10130,
+         15556,
+         746,
+         4380,
+         11521,
+         10449,
+         10763,
+         2064,
+         1844,
+         795,
+         11472
+      ],
+      "backdrop_path": "/5E6WPMQDWP9910ZyiGhLCxFdIpj.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Anna Leonowens",
+               "gender": 1,
+               "credit_id": "52fe42f7c3a36847f803057b",
+               "name": "Jodie Foster",
+               "profile_path": "/eAIE6bnOQ8rm0f933gyeAQdIwrP.jpg",
+               "id": 1038,
+               "order": 0
+            },
+            {
+               "cast_id": 26,
+               "character": "King Mongkut",
+               "gender": 2,
+               "credit_id": "52fe42f7c3a36847f80305f9",
+               "name": "Chow Yun-fat",
+               "profile_path": "/6JbF55y5nPn4APoVxRzuDBMiVLh.jpg",
+               "id": 1619,
+               "order": 1
+            },
+            {
+               "cast_id": 28,
+               "character": "Tuptim",
+               "gender": 1,
+               "credit_id": "52fe42f7c3a36847f8030603",
+               "name": "Bai Ling",
+               "profile_path": "/bZUGN7PsOCWWVTvs6jZgNbq19uu.jpg",
+               "id": 39126,
+               "order": 2
+            },
+            {
+               "cast_id": 2,
+               "character": "Louis Leonowens",
+               "gender": 2,
+               "credit_id": "52fe42f7c3a36847f803057f",
+               "name": "Tom Felton",
+               "profile_path": "/1lzM9lcwuZynxX3WEfzJqAAxVag.jpg",
+               "id": 10993,
+               "order": 3
+            },
+            {
+               "cast_id": 11,
+               "character": "Lord John Bradley",
+               "gender": 2,
+               "credit_id": "52fe42f7c3a36847f80305a3",
+               "name": "Geoffrey Palmer",
+               "profile_path": "/6ouSoFGy8Rd9viyHmWHoEJfknFa.jpg",
+               "id": 10746,
+               "order": 4
+            },
+            {
+               "cast_id": 4,
+               "character": "General Alak",
+               "gender": 2,
+               "credit_id": "52fe42f7c3a36847f8030587",
+               "name": "Randall Duk Kim",
+               "profile_path": "/9AWMELz25S915kaUr5OzHJN4Xtm.jpg",
+               "id": 9462,
+               "order": 5
+            },
+            {
+               "cast_id": 5,
+               "character": "Prince Chowfa, King Mongkut's Brother",
+               "gender": 2,
+               "credit_id": "52fe42f7c3a36847f803058b",
+               "name": "Kay Siu Lim",
+               "profile_path": "/gdIoIsYDraSwIIfXVdt54p5mD0p.jpg",
+               "id": 17155,
+               "order": 6
+            },
+            {
+               "cast_id": 6,
+               "character": "Princess Fa-Ying",
+               "gender": 1,
+               "credit_id": "52fe42f7c3a36847f803058f",
+               "name": "Melissa Campbell",
+               "profile_path": "/rvpOnkqPNJ85eq0vQwGWOjnkCDf.jpg",
+               "id": 17156,
+               "order": 7
+            },
+            {
+               "cast_id": 7,
+               "character": "Prince Chulalongkorn",
+               "gender": 2,
+               "credit_id": "52fe42f7c3a36847f8030593",
+               "name": "Keith Chin",
+               "profile_path": "/hP69zW9YYCg11pUsbQrKXS1zTiA.jpg",
+               "id": 17157,
+               "order": 8
+            },
+            {
+               "cast_id": 8,
+               "character": "Moonshee, Leonowens' Indian Servant",
+               "gender": 2,
+               "credit_id": "52fe42f7c3a36847f8030597",
+               "name": "Mano Maniam",
+               "profile_path": "/iwiqbS6eOROfJgv2Qj10hPIEDNX.jpg",
+               "id": 17158,
+               "order": 9
+            },
+            {
+               "cast_id": 9,
+               "character": "Beebe, Leonowens' Indian Servant",
+               "gender": 1,
+               "credit_id": "52fe42f7c3a36847f803059b",
+               "name": "Shanthini Venugopal",
+               "profile_path": "/ngGskt27tMOWqXZo4aMvZbvyF9h.jpg",
+               "id": 17159,
+               "order": 10
+            },
+            {
+               "cast_id": 10,
+               "character": "Lady Thiang, Head Wife",
+               "gender": 1,
+               "credit_id": "52fe42f7c3a36847f803059f",
+               "name": "Deanna Yusoff",
+               "profile_path": "/gnVastLwINGC6cqPjRrxRrAYGKu.jpg",
+               "id": 17160,
+               "order": 11
+            },
+            {
+               "cast_id": 12,
+               "character": "Lady Bradley",
+               "gender": 1,
+               "credit_id": "52fe42f7c3a36847f80305a7",
+               "name": "Ann Firbank",
+               "profile_path": "/xFCoMlE02MUrc1bD26ef0q5jAn4.jpg",
+               "id": 17161,
+               "order": 12
+            },
+            {
+               "cast_id": 29,
+               "character": "Phim",
+               "gender": 1,
+               "credit_id": "57a9a206c3a368254e010ab5",
+               "name": "K.K. Moggie",
+               "profile_path": "/ysVzflffMwAUBZOhDfwy6YeMlER.jpg",
+               "id": 221810,
+               "order": 13
+            },
+            {
+               "cast_id": 30,
+               "character": "Mycroft Kincaid, East India Trading Co.",
+               "gender": 2,
+               "credit_id": "57a9a2e492514138b4004e24",
+               "name": "Bill Stewart",
+               "profile_path": "/3LWXrHrCfXhCZa6qZlo5jKdD5rU.jpg",
+               "id": 17789,
+               "order": 14
+            },
+            {
+               "cast_id": 31,
+               "character": "Khun Phra Balat",
+               "gender": 2,
+               "credit_id": "57a9a49392514177dc00f9ff",
+               "name": "Sean Ghazi",
+               "profile_path": "/nDBzitDjtqb63vvIBrcbR3wbOkc.jpg",
+               "id": 1533619,
+               "order": 15
+            },
+            {
+               "cast_id": 3,
+               "character": "The Kralahome, Prime Minister",
+               "gender": 2,
+               "credit_id": "52fe42f7c3a36847f8030583",
+               "name": "Syed Alwi",
+               "profile_path": null,
+               "id": 17154,
+               "order": 16
+            },
+            {
+               "cast_id": 32,
+               "character": "Noi",
+               "gender": 2,
+               "credit_id": "57a9a5fd92514138b1005351",
+               "name": "Dharma Harun",
+               "profile_path": "/uPVH4Es7tIkgsNKRS7EGzWzMx0D.jpg",
+               "id": 1279480,
+               "order": 17
+            },
+            {
+               "cast_id": 33,
+               "character": "Nikorn",
+               "gender": 0,
+               "credit_id": "57a9a62cc3a36873d80053de",
+               "name": "Harith Iskander",
+               "profile_path": "/1AgYk1O526BODZVaZ09S0g0Ukg9.jpg",
+               "id": 127088,
+               "order": 18
+            },
+            {
+               "cast_id": 34,
+               "character": "Interpreter",
+               "gender": 0,
+               "credit_id": "57a9a69fc3a36873d800541d",
+               "name": "Afdlin Shauki",
+               "profile_path": "/nlU60EzqUJpkroVvcqAqLTzrBfu.jpg",
+               "id": 111248,
+               "order": 19
+            },
+            {
+               "cast_id": 35,
+               "character": "Lady Jao Jom Manda Ung",
+               "gender": 1,
+               "credit_id": "57a9a777c3a368738f004a1f",
+               "name": "Swee Lin Neo",
+               "profile_path": "/cgsg9n5rpQ4AGHjAmjwOfPD9pVj.jpg",
+               "id": 1663702,
+               "order": 20
+            },
+            {
+               "cast_id": 36,
+               "character": "King Chulalongkorn",
+               "gender": 0,
+               "credit_id": "57a9d902c3a368739f006c9c",
+               "name": "Ramli Hassan",
+               "profile_path": "/scOhs9xrnCi5g0nsTJB8kqP0A44.jpg",
+               "id": 1281012,
+               "order": 21
+            },
+            {
+               "cast_id": 37,
+               "character": "Captain Blake",
+               "gender": 2,
+               "credit_id": "57a9d95fc3a3680e4e000566",
+               "name": "Robert Hands",
+               "profile_path": "/boNu2KD4hbC8aTQtIlBK3XAOFUg.jpg",
+               "id": 73847,
+               "order": 22
+            },
+            {
+               "cast_id": 38,
+               "character": "Scarfaced leader",
+               "gender": 0,
+               "credit_id": "57a9da92c3a3680ec5000546",
+               "name": "Lim Yu-Beng",
+               "profile_path": "/39P1VgO3q2FPsCKYdYH6MZnHe2K.jpg",
+               "id": 93738,
+               "order": 23
+            },
+            {
+               "cast_id": 39,
+               "character": "Justice Phya Phrom",
+               "gender": 0,
+               "credit_id": "57a9db50c3a3687273006d23",
+               "name": "Kenneth Tsang",
+               "profile_path": "/6oYTIjKlp8vsyxod7nPJ1R9V8Hf.jpg",
+               "id": 10885,
+               "order": 24
+            },
+            {
+               "cast_id": 40,
+               "character": "Second Judge",
+               "gender": 2,
+               "credit_id": "57a9dbc6925141114a00063a",
+               "name": "Kee Thuan Chye",
+               "profile_path": "/DtdbxXzpjSBSLxbqfg4FBiMtmu.jpg",
+               "id": 1332617,
+               "order": 25
+            },
+            {
+               "cast_id": 41,
+               "character": "Third Judge",
+               "gender": 0,
+               "credit_id": "57a9dc54c3a3680e4e000646",
+               "name": "Patrick Teoh",
+               "profile_path": "/sw8kRQLE6Z9dcvI4hlAuklOJGSB.jpg",
+               "id": 1285664,
+               "order": 26
+            },
+            {
+               "cast_id": 42,
+               "character": "Lady of Court",
+               "gender": 1,
+               "credit_id": "57a9dcca925141384c006655",
+               "name": "Ruby Wong",
+               "profile_path": "/vCscEEJPy6i9gS4vk0ueu3z35Uj.jpg",
+               "id": 25252,
+               "order": 27
+            },
+            {
+               "cast_id": 43,
+               "character": "Lady of Court",
+               "gender": 0,
+               "credit_id": "57a9de07c3a368739f006e3f",
+               "name": "Ellie Suriaty Omar",
+               "profile_path": "/cjfAfKvByQKfupJoPHrbs0SZZar.jpg",
+               "id": 1279267,
+               "order": 28
+            },
+            {
+               "cast_id": 44,
+               "character": "La-Ore",
+               "gender": 0,
+               "credit_id": "57a9df449251411175000792",
+               "name": "Fariza Azlina",
+               "profile_path": "/rmdjThcKjvpWdraXuJv71BMOplm.jpg",
+               "id": 1275331,
+               "order": 29
+            },
+            {
+               "cast_id": 45,
+               "character": "Siamese trader",
+               "gender": 0,
+               "credit_id": "57a9e2e8925141383f006851",
+               "name": "Zaibo",
+               "profile_path": "/a1KEW3xhOy5vrcv6WRFvC80FPXq.jpg",
+               "id": 1280244,
+               "order": 30
+            },
+            {
+               "cast_id": 46,
+               "character": "Lady Thiang (uncredited)",
+               "gender": 1,
+               "credit_id": "57a9e529c3a368739f007080",
+               "name": "Espérance Pham Thai Lan",
+               "profile_path": "/7QoylAC6hYfu2raiHHcf0HADT6K.jpg",
+               "id": 1430430,
+               "order": 31
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe42f7c3a36847f80305ad",
+               "name": "Lawrence Bender",
+               "profile_path": "/5EzlP8qdCYQrhqEYB2MTmY74KFB.jpg",
+               "id": 2545,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe42f7c3a36847f80305b3",
+               "name": "Ed Elbert",
+               "profile_path": null,
+               "id": 17162,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe42f7c3a36847f80305b9",
+               "name": "Roger Bondelli",
+               "profile_path": null,
+               "id": 17164,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe42f7c3a36847f80305bf",
+               "name": "Priscilla John",
+               "profile_path": null,
+               "id": 3311,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe42f7c3a36847f80305c5",
+               "name": "Luciana Arrighi",
+               "profile_path": null,
+               "id": 17165,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe42f7c3a36847f80305cb",
+               "name": "Ian Whittaker",
+               "profile_path": null,
+               "id": 5060,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe42f7c3a36847f80305d1",
+               "name": "Jenny Beavan",
+               "profile_path": "/n6bhe5AsdnHYUV2AT7EVt2ZJWjc.jpg",
+               "id": 17166,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe42f7c3a36847f80305d7",
+               "name": "Andy Tennant",
+               "profile_path": "/9gK8xFzybwDnWENijTdDHiP4M6o.jpg",
+               "id": 17167,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe42f7c3a36847f80305dd",
+               "name": "Anna Leonowens",
+               "profile_path": null,
+               "id": 17168,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe42f7c3a36847f80305e3",
+               "name": "Steve Meerson",
+               "profile_path": null,
+               "id": 2019,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe42f7c3a36847f80305e9",
+               "name": "Peter Krikes",
+               "profile_path": null,
+               "id": 2020,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe42f7c3a36847f80305ef",
+               "name": "George Fenton",
+               "profile_path": "/23V03rGdkvNgeiBwLodJzNKdhJC.jpg",
+               "id": 1528,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe42f7c3a36847f80305f5",
+               "name": "Robert Kraft",
+               "profile_path": null,
+               "id": 17169,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe42f7c3a36847f80305ff",
+               "name": "Caleb Deschanel",
+               "profile_path": "/2TsYnZibZRfHY3vcmEdLTJSR4kl.jpg",
+               "id": 8750,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5949b82492514145a8001224",
+               "name": "Leila Kirkpatrick",
+               "profile_path": null,
+               "id": 1235306,
+               "department": "Production",
+               "job": "Unit Production Manager"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "History",
+            "id": 36
+         },
+         {
+            "name": "Romance",
+            "id": 10749
+         }
+      ],
+      "popularity": 5.993161,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 1439,
+      "vote_count": 271,
+      "budget": 75000000,
+      "overview": "The story of the romance between the King of Siam (now Thailand) and the widowed British school teacher Anna Leonowens during the 1860s. Anna teaches the children and becomes romanced by the King. She convinces him that a man can be loved by just one woman.",
+      "similar": [
+         11631,
+         334,
+         634,
+         342878,
+         118,
+         810,
+         7555,
+         2310,
+         49519,
+         8390,
+         103663,
+         166,
+         8457,
+         1075,
+         10735,
+         1116,
+         13466,
+         20,
+         7508,
+         5951
+      ],
+      "original_title": "Anna and the King",
+      "runtime": 148,
+      "poster_path": "/518WmPyfc9YcnFiehqCiyGgbhmt.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Español",
+            "iso_639_1": "es"
+         },
+         {
+            "name": "ภาษาไทย",
+            "iso_639_1": "th"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Lawrence Bender Productions",
+            "id": 2253,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Fox 2000 Pictures",
+            "id": 711,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1999-12-16",
+      "vote_average": 6.6,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Andy Tennant"],
+      "runtime": 148,
+      "synopsis": null,
+      "writers": [
+         "Anna Leonowens",
+         "Steve Meerson"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0166485/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTQ0Njk4Njc1NF5BMl5BanBnXkFtZTYwNjIyNDc4._V1_SY317_CR5,0,214,317_AL_.jpg",
+      "actors": ["Stars: Jodie Foster, Yun-Fat Chow, Bai Ling | See full cast and crew »"],
+      "reviews": [
+         "This is the second film of the year (the other being \"The Green Mile\") that I have seen that I believe will recieve Oscar nominations in several categories, of which, best film, best male and femal actor and best cinematography will be definitely considered. \"Anna and the King\" is an epic film about a British woman who accepts an offer to go to Siam (Thailand) to teach western education to the King of Siam's 58 children. Upon reaching Siam, Ms. Leonowens (Jodie Foster) is made to find her way to the King's palace by herself and subsequently made to wait weeks before she is allowed to meet him. Coming from a British background she is appalled by this treatment and decides to take matters into her own hands by bursting into the King's court, breaking every protocol on the way, and boldly confronting King Mongkut (Chow Yun-Fat) about her situation. This obviously does not sit well with the King but at the same time he is intrigued by this woman's boldness and so the story begins about cultural education (both British and Siamese) and a blossoming romance that has you yearning for a happy ending. Foster plays Anna Leonowens very well and at times makes you hate her for her narrow minded view of the world as she portrays a woman who truely believes that \"British teachings are the ways of the world.\" Her comments about British rule and colonization makes you cringe at times as she comes across as this arrogant, cold woman who believes that she is in Siam to bring culture and wisdom to a backwards country. Foster manages to portray every aspect of this character flawlessly and takes the audience for an emotional rollercoaster from, hate to love to compassion and every emotion in between. The most notable difference in character development is the portrayal of King Mongkut. Chow Yun-Fat brings a quiet strength and sophistication that was never present in Yul Brynner's portrayal of the King. In this film we are shown a very intelligent man that understands more than he lets on. In fact, he seems to lead Ms. Leonowens around without her really knowing it and in some cases teaches her lessons about the world and how it really is. As the saying goes, \"actions speak louder than words\" and this is definitely the case for King Mongkut. Fat does not have as many lines as Foster does but he is in as many scenes and in most cases commands more of a presence. The rest of the cast was excellent as well and there were very few slow points in the film. The colors used were very vibrant and creates a feel of exoticness. As well, the cinematography was incredible. Sweeping shots of the landscape showing the green carpets of the land and the incredible shots of the elaborate palace create an atmosphere of an epic film. Subtitles are used quite a bit but it only adds to the authenticity of the film. The one thing that I was disappointed in was the fact this movie was based on Ms. Leonowens' diary which may be subject to biased occurances of certain situations or historical inaccuracies. Overall though, I was thoroughly impressed and entertained with this film. Although Jodie Foster is the top billing name, this film definitely belongs to Chow Yun-Fat and it would be ashame not to see him get an oscar consideration for his performance. He is an accomplished international actor and it seems that Hollywood has finally discovered that. My recommendation, go see this film. You will not be disappointed. A",
+         "I saw a trailer for this film a few months before the Australian opening. Originally it was the lush cinematography that caught my eye. I assumed it would be a re-make either of the original 1946 movie or the better known Rodgers and Hammerstein musical of 1956. In actual fact, the movie is neither a re-make of these previous FOX efforts, but rather an adaption of Anna Leonowens' own memoirs of the time she spent in Siam. Jodie Foster gave a fascinating, beautiful performance as Anna. I found her portrayal of the character interesting, as it was far different from Deborah Kerr's interpretation. Yul Brynner left his mark on the King in both stage and film versions of \"The King and I\". However, Chow Yun Fat in a different role is excellent. I feel they are both up with a chance for an oscar nomination. The film is a fine example of movie making. In addition to the supporting cast, the costumes and art decoration were of an excellent standard. Although the film was shot in Malaysia and not Thailand, I only suspected the film was not shot there because of all versions of the story being banned there. Despite the fact I have been to some of the Malaysian locations, I hardly noticed it. Skeptical in my viewing of this movie because of my fondness for \"The King and I\", \"Anna and the King\" has forever shattered my illusions of the story. No longer can I picture the children swaying to the strains of \"Getting to Know You\". However, I was greatly surprised by this movie. I cannot recommend it highly enough. Rating: 10/10",
+         "This is a masterful piece of filmmaking that over romanticizes a true story to improve its entertainment value. However, the generous use of artistic license can be almost completely forgiven because the final product is so pleasing. Director Andy Tennant weaves together resplendent visual images, wonderfully warm lighting, magnificent set design, breathtaking locations and beautiful costumes to produce a banquet of sensory delight. I'm surprised this film didn't get more technical awards, since it was one of the most exhilarating filmmaking experiences I had all year. The story was engaging, though admittedly the characters were overly idealized. This is especially true of King Mongkut, who was far more educated, dashing and genteel than it would have been reasonable to expect. Also, the romantic overtones between him and Anna were a bit much. But the way they were presented enhanced the overall effect so I have difficulty being too critical. The story also had some constructive subtleties. In addition to the obvious storylines about the education of the children, the effect Anna was having on the King and the impending war, there was a deeper message. It illustrated the truism that exposure to different peoples and cultures can help us to grow in understanding not only of them, but of ourselves as well. For it was clear that Anna was as much changed by Siam and the King as he and the children were by her. I was highly impressed with the performance turned in by Yun-Fat Chow. His English is much improved since my last viewing of him in \u0091Replacement Killers' and \u0091The Corruptor'. He imbued King Mongkut with dignity and strength without forsaking the human side. The camera just eats him up. It is easy to see why he has been the dominating force in eastern films for years. Jodie Foster, on the other hand, was off her game. She was good as Anna, but frankly, we've come to expect more from her. Foster is a powerful actor who didn't seem quite sure what to do with this character. In some scenes she rose to the occasion and gave us the Anna we hoped for; resolute, defiant, opinionated and principled. At other times she seemed tentative and totally intimidated by the role, just limping through her lines. I give her high marks for her English accent, but her total performance just wasn't up to her capabilities. This was one of the most entertaining and delightful films I've seen this year. Yes, liberties were taken but I am inclined to overlook them. It was beautifully filmed and directed; a feast for the senses. I rated it a 9/10. I highly recommend it.",
+         "Lush, epic, sweeping, entrancing. It's all here. If there's any \"justice\" in Hollywood, this one should be Oscar bait for at least cinematography, costuming, musical score and the magnum-magnificent presence of some dude I never heard of before I saw AATK -- Chow Yun Fat. Now, I have been informed that he is the Coolest Actor in the World (according to L.A. Times). I can see this dark, cool elegance in his breathtaking performance as a real and fascinating historic figure, King Mongkut, who in actuality learned Latin, astronomy and memorized major parts of both Bible and Koran while a Buddhist monk. Contrary to the buffoonery of Yul Brynner's overblown portrayal, Chow opens for us an entirely new cultural door, brushing for the eager audience a portrait of a monarch of absolutely power who wields it so well that he is unafraid of gentleness, hugging his enchanting, on-screen children without reserve and finding himself mystifyingly in love with a foreign woman he cannot tame or bed because of the constraint of the times. The betrayal, revolution and barbarity of l9th century Thailand (Siam) become pale watercolor in comparison to the bold red and orange of unresolved love and religious and cultural interplay represented by Foster and Chow. We fear that more of these mesmerizing moments between the two lie on the editing room floor. However, Chow's sensitive face and body language reflect this inner evolution and bittersweet turmoil far better than does Jodie Foster's rather wooden performance accompanied by a troubling British accent. I respect Foster's talent immensely, though it shone through only intermittently, blossoming only when she softens to the King's patient (sometimes stormy) friendship. The indelible etching of the film comes during a non-speaking sequence involving the disposition of Tuptim and Balat which sub-plot likely was originally meant to be a subtle reflection of the untenable love affair between Anna and Mongkut. This is so well-edited and scored that it's going to be hard to forget. When the King kneels in agonized prayer before his talismanic Emerald Buddha, one is compelled to conclude that he is in anguish -- not only over what's happening to his concubine and his throne -- but the fact that his actions necessitated by politics will also probably forever separate him from his tea-tray-tossing Anna and all she believes in and has worked for in his country. Okay, so I cried in several places (something I nearly never do) -- the mark of a film which has accomplished its goal, i.e., the moving of hearts. I was fascinated with this movie. It made me read and research a part of the world I've generally ignored, and whole new palace gates have opened. Sumptuous and rich it is; and award-winning it should be, but the sun-star opulence of this new guy, Chow, is the stellar pin on that film curtain. Thanks, Mr. Tennant. And thank you, Mr. Chow.",
+         "Going in I had expected a solid performance by Jodie Foster and some nicely photographed scenes; what I got was much more. Chow Yun-Fat commands the viewers' attention whenever he is on the screen, fairly radiating a regal and aloof presence. There is a palpable chemistry between Jodie and Chow, something not seen in the actresses films since she squared off with Anthony Hopkins' Lecter. The script is solid and generally well-paced. Keen attention is paid to the dialog and interplay between the principals and the secondary characters, too. That they didn't actually film in Thailand, but in Malaysia never shows on the screen. The photography and costumes should be automatic nominees for Oscar. For that matter, both Jodie and Chow could comfortably fit in their respective nominee lists for Best Actor and Best Actress. Overall, a wonderful film and I'm really looking forward to the DVD in June!",
+         "My overall experience with this film was very good. I felt the detail to costumes and set design was exceptional; we were really transported to Siam in the 1860's. And the acting was excellent, especially Chow Yin Fat, although I felt the relationship between Jodie Foster and Chow Yin Fat was not completely believable. Perhaps, this is because I could not push far from my mind the thought that this is only another movie loosely based on the memoirs by Anna Lenowens. But, this is probably the most realistic of them all. I'd give it 8/10.",
+         "Let the magic of romance and the beauty of Siam sweep and take you away to a world where the king rules the land and a teacher rules the king's heart. There are only two other movies I would consider to be worthy of masterpiece status: \"Saving Private Ryan\" and \"Titanic.\" Now a third can be added to this list: \"Anna And The King.\" \"Anna and The King\" is a true masterpiece that is filled with heart & soul, a beautful setting and superb performances. I was very impressed with the performance of Chow-Yun Fat because he made the transition from action star to dramatic actor flawlessly. Fat showed his versatility in playing a king. Fat pulled off this role with perfection. He made it so easy for me to enjoy this movie because of his screen presence and believability of the performance as well as the chemistry between Anna and the King. This masterpiece can not be completed without the performance Jodie Foster turned in. Foster delivers the type of performance worthy of an oscar. She once again has established herself among the elite that have the special gift of natural talent. Foster and Fat come together beautifully to bring the true story of the romance of Anna Leonowens and King Momokut. The chemistry can be felt from a distance and it works from the first minute they come together. I knew Foster and Fat were compatible; however, I failed to realize how much until I viewed the movie. \"Anna and The King\" is visually stunning in so many ways with beautiful settings such as the palace. Also, the costumes are well-made and suited the movie perfectly. \"Anna & The King\" will take you on a journey that will touch, warm and fill your heart with spirit only a motion picture masterpiece can bring.",
+         "Yes this movies was certainly better than previous musicals and renditions of the Anna Leonowen's adventures in Thailand. It also is more historically accurate than those previous versions. Although this doesn't necessarily make it more culturally accurate as well, so conclusions shouldn't be made concerning how Thailand is today. Of the acting, it is true what everyone else has been saying that both Jodie Foster and Chow Yun-Fat acted extremely well. I've always been a Chow Yun-Fat fan. He's certainly a versatile actor, this I know from his Asian movies, but this is his break-out performance in America. Basically, if you really like great acting, then you'll love this movie. Anna and the King is also a very heart-warming movie mixed with enough excitement to please most people. This isn't entirely a romance movie either. A history lesson is trying to be told here. Although as documentaries go...well Anna and the King is not 100% correct. However history seems so much more drier if it was told by facts alone. No one would go pay money to see documentaries in movie theaters, but they will go to see a movie especially if it's a good movie. Anna and the King is a good movie. Some people have griped about the theme song, the one scene with explosion, and whether or not the title of the movie appeared in the credits. For those people, keep in mind that what makes a movie a good movie can be found in the story, acting, and directing of the movie, not in the theme song or any other locations in the credit. Concerning the length of the movie, every movie these days seem to go past the two hour mark, which is some sort of current trend in movies. Personally, I don't mind this as it allows me to let myself go and be sympathetic for the characters as if they had meaning for two hours and nine minutes in my life. Besides the acting was so well done that you won't get bored at anytime during the movie. Anna and the King will be one of the best two hours nine minutes you will spend this year if you see it.",
+         "This movie is one of my favorite romances of all times. :)And It's the first time I see Jodie Foster in a role that she is in love with a man! *laughs* But really, many people are criticizing and saying bad things about this film, only because that in the real relationship between Anna and the King they never fell in love with each other,among other things. I personally think this is bullshit and people should enjoy more the movie and not worry so much; I mean, even that there are many non realistic elements, this movie is cool,right? Gone With The Wind,was not accurate as well and even in this way, many people loved it. And I read that even the present King and Queen from Thailand liked.:) Beautiful scenarios,clothes and photography,this movie should be watched spite of the bad rumors.",
+         "Once again the \"critics\" led me astray, and I waited until now to see this fascinating film. Jodie Foster is fine as the strong-willed British teacher who tries to civilize, at least according to Western standards, the King of Siam and his kingdom. The filming was done in Malaysia and it is nothing short of superb, for the most part. Good story, good acting, some action, the bridge is blown up near the end to eradicate the villain. I never saw the 1956 \"King and I\" with Brenner, so I can't compare the two. Taken on its own, this 1999 version is a fine film. 09Dec2004 addendum: Since my earlier comments, I have spoken with several friends who have also seen this movie recently, and all the impressions follow a common thread. This is a fine movie and does not deserve the occasional bad review."
+      ],
+      "genres": [
+         "Drama",
+         "History",
+         "Romance"
+      ],
+      "productionCompanies": [
+         "Fox 2000 Pictures",
+         "Lawrence Bender Productions"
+      ],
+      "summaries": [
+         "This is the story of Anna Leonowens, the English schoolteacher who came to Siam in the 1860s to teach the children of King Mongkut. She becomes involved in his affairs, from the tragic plight of a young concubine to trying to forge an alliance with Britain to a war with Burma that is orchestrated by Britain. In the meantime, a subtle romance develops between them.",
+         "The story of the romance between the King of Siam and widowed British schoolteacher, Anna Leonowens, during the 1860s."
+      ],
+      "budget": 75000000
+   },
+   "movielensId": 3155,
+   "movielens": {
+      "languages": [
+         "English",
+         "Español",
+         "ภาษาไทย"
+      ],
+      "releaseDate": "1999-12-16",
+      "dvdReleaseDate": "2002-05-21",
+      "directors": ["Andy Tennant"],
+      "runtime": 148,
+      "movieId": 3155,
+      "title": "Anna and the King",
+      "mpaa": "PG-13",
+      "actors": [
+         "Jodie Foster",
+         "Chow Yun-fat",
+         "Bai Ling",
+         "Tom Felton",
+         "Geoffrey Palmer",
+         "Randall Duk Kim",
+         "Kay Siu Lim",
+         "Melissa Campbell",
+         "Keith Chin",
+         "Mano Maniam",
+         "Shanthini Venugopal",
+         "Deanna Yusoff",
+         "Ann Firbank",
+         "K.K. Moggie",
+         "Bill Stewart",
+         "Sean Ghazi",
+         "Syed Alwi",
+         "Dharma Harun",
+         "Harith Iskander",
+         "Afdlin Shauki",
+         "Swee Lin Neo",
+         "Ramli Hassan",
+         "Robert Hands",
+         "Lim Yu-Beng",
+         "Kenneth Tsang",
+         "Kee Thuan Chye",
+         "Patrick Teoh",
+         "Ruby Wong",
+         "Ellie Suriaty Omar",
+         "Fariza Azlina",
+         "Zaibo",
+         "Espérance Pham Thai Lan"
+      ],
+      "imdbMovieId": "0166485",
+      "originalTitle": "Anna and the King",
+      "genres": [
+         "Drama",
+         "History",
+         "Romance"
+      ],
+      "youtubeTrailerIds": ["xHPoKOi1XcM"],
+      "plotSummary": "The story of the romance between the King of Siam (now Thailand) and the widowed British school teacher Anna Leonowens during the 1860s. Anna teaches the children and becomes romanced by the King. She convinces him that a man can be loved by just one woman.",
+      "tmdbMovieId": 1439,
+      "avgRating": 3.40957,
+      "releaseYear": "1999",
+      "numRatings": 4097,
+      "posterPath": "/518WmPyfc9YcnFiehqCiyGgbhmt.jpg"
+   }
+}

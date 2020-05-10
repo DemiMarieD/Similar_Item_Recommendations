@@ -1,0 +1,413 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "canada",
+            "id": 1329
+         },
+         {
+            "name": "rocky mountains",
+            "id": 2805
+         },
+         {
+            "name": "wilderness",
+            "id": 3593
+         },
+         {
+            "name": "spring",
+            "id": 6202
+         },
+         {
+            "name": "kodiak bear",
+            "id": 6533
+         },
+         {
+            "name": "brown bear",
+            "id": 6534
+         },
+         {
+            "name": "puma",
+            "id": 6535
+         },
+         {
+            "name": "trapper",
+            "id": 6536
+         },
+         {
+            "name": "summer",
+            "id": 13088
+         }
+      ],
+      "imdb_id": "tt0095800",
+      "video": false,
+      "title": "The Bear",
+      "recommendations": [
+         11002,
+         235443,
+         198831,
+         120506,
+         98986,
+         81024,
+         75996,
+         3543,
+         12111,
+         1829,
+         2721,
+         44607,
+         115360,
+         107673,
+         50796,
+         12539,
+         40044,
+         86404,
+         21200,
+         10130
+      ],
+      "backdrop_path": "/nAtslrKrdajuBNoKf7qSmKa28iT.jpg",
+      "revenue": 138241022,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 20,
+               "character": "Tom",
+               "gender": 2,
+               "credit_id": "52fe4353c3a36847f804bc0d",
+               "name": "Tchéky Karyo",
+               "profile_path": "/9rMF25F5r3Giix9jkwfuUz2utHv.jpg",
+               "id": 10698,
+               "order": 2
+            },
+            {
+               "cast_id": 21,
+               "character": "Bill",
+               "gender": 2,
+               "credit_id": "52fe4353c3a36847f804bc11",
+               "name": "Jack Wallace",
+               "profile_path": "/83wIH9unPcgk1lIIqYcojhVyOOP.jpg",
+               "id": 24435,
+               "order": 3
+            },
+            {
+               "cast_id": 22,
+               "character": "Le chasseur aux chiens",
+               "gender": 2,
+               "credit_id": "52fe4353c3a36847f804bc15",
+               "name": "André Lacombe",
+               "profile_path": "/S8MunASjWabo8MfcjU3S2loT8S.jpg",
+               "id": 24436,
+               "order": 4
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4353c3a36847f804bba7",
+               "name": "Jean-Jacques Annaud",
+               "profile_path": "/sxNr4V5xESbnn6To1etsLoPj5SC.jpg",
+               "id": 2352,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4353c3a36847f804bbad",
+               "name": "James Oliver Curwood",
+               "profile_path": null,
+               "id": 24426,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4353c3a36847f804bbb3",
+               "name": "Gérard Brach",
+               "profile_path": null,
+               "id": 2356,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4353c3a36847f804bbb9",
+               "name": "Claude Berri",
+               "profile_path": "/1gpsO0gdsHJPhUzFGMHvE3Qo5yZ.jpg",
+               "id": 20718,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4353c3a36847f804bbbf",
+               "name": "Philippe Sarde",
+               "profile_path": null,
+               "id": 20075,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4353c3a36847f804bbc5",
+               "name": "Philippe Rousselot",
+               "profile_path": null,
+               "id": 1301,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4353c3a36847f804bbcb",
+               "name": "Noëlle Boisson",
+               "profile_path": null,
+               "id": 12758,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4353c3a36847f804bbd1",
+               "name": "Mary Jo Slater",
+               "profile_path": null,
+               "id": 2121,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4353c3a36847f804bbd7",
+               "name": "Toni Lüdi",
+               "profile_path": null,
+               "id": 24428,
+               "department": "Art",
+               "job": "Set Designer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4353c3a36847f804bbdd",
+               "name": "George Dietz",
+               "profile_path": null,
+               "id": 24429,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4353c3a36847f804bbe3",
+               "name": "Heidi Lüdi",
+               "profile_path": null,
+               "id": 2318,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4353c3a36847f804bbe9",
+               "name": "Hans Jürgen Schmelzle",
+               "profile_path": null,
+               "id": 24430,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4353c3a36847f804bbef",
+               "name": "Antony Greengrow",
+               "profile_path": null,
+               "id": 24431,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4353c3a36847f804bbf5",
+               "name": "Bernhard Henrich",
+               "profile_path": null,
+               "id": 21846,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4353c3a36847f804bbfb",
+               "name": "Françoise Disle",
+               "profile_path": null,
+               "id": 24432,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4353c3a36847f804bc01",
+               "name": "Corinne Jorry",
+               "profile_path": null,
+               "id": 19070,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "587d2250c3a3684a6501d1f2",
+               "name": "Pierre Grunstein",
+               "profile_path": "/bcwjFDlHZZMZZGIS6UsNirmQ9Sx.jpg",
+               "id": 11204,
+               "department": "Production",
+               "job": "Associate Producer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Adventure",
+            "id": 12
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Family",
+            "id": 10751
+         }
+      ],
+      "popularity": 6.147069,
+      "production_countries": [
+         {
+            "iso_3166_1": "FR",
+            "name": "France"
+         },
+         {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+         }
+      ],
+      "id": 2383,
+      "vote_count": 123,
+      "budget": 0,
+      "overview": "An orphan bear cub hooks up with an adult male as they try to dodge human hunters.",
+      "similar": [
+         241927,
+         26444,
+         9717,
+         309050,
+         19209,
+         141733,
+         466557,
+         46845,
+         28994,
+         49332,
+         113814,
+         57953,
+         169379,
+         381427,
+         456817,
+         311211,
+         312730,
+         333580,
+         205202
+      ],
+      "original_title": "L'Ours",
+      "runtime": 94,
+      "poster_path": "/1EgJJ7uIsMYZJ69T6KfQunuLLBk.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Renn Productions",
+            "id": 82,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Price",
+            "id": 1121,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1988-10-21",
+      "vote_average": 6.9,
+      "belongs_to_collection": null,
+      "tagline": "He's an orphan... at the start of a journey. A journey to survive.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "France",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Jean-Jacques Annaud"],
+      "runtime": 96,
+      "synopsis": null,
+      "writers": [
+         "James Oliver Curwood",
+         "Gérard Brach"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0095800/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTM5NDQ0MzYxMl5BMl5BanBnXkFtZTgwMzUyNjIzMTE@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Tchéky Karyo, Bart the Bear, Youk the Bear | See full cast and crew »"],
+      "reviews": [
+         "We rarely see in our contemporary world simple, subtle films regarding nature which in turn give us a true essence of the meaning and beauty of life. All we absorb out of proportion day by day from watching television and films is the violence, vulnerability and sexual tendencies of the human being. The 60's and 70's were infested with the drugs and sex appeal trend and the 80's crammed more action macho flicks than one can count sheep. However, it was the 90's and the turn of the millennium that exploded into the CGI craze and destroyed the film industry, reducing it into a commercial quick-produce supermarket in which quality films came close to none-existent and where violence was more popular than ever before. A rare example of subtle contemporary masterful film making is 'L'Ours', better known in English translation as 'The Bear'. Jean-Jacques Annaud, the man behind the most extraordinary of prehistoric based films, 'Quest For Fire', stunned the world with his unparalleled mesmerizing vision of a natural world destroyed by man in what virtually is a film without dialogue. Yet it is an experience that will play with your emotions and warm your heart, right up to the chilling finale. The story is set around the 1800's and revolves around an orphaned bear cub and its struggle to survive the harsh wilderness of British Columbia following the death of its mother. Alone and with no survival skills, the bear cub must learn the necessities of life the hard way. That is until it meets a tough, lone, but wounded Grizzly bear whose endeavor to survive is all the same after mountain hunters, blinded by their hunger for wealth, pursue their valuable skins. The two Grizzlies form a bond more powerful than the guns that pursue them in which the cub learns all the hardships of life first hand and grows to stand up for itself against the vast, relentless world that it lives in. Does man, the pursuer, become one with nature and understand the value of life? Very few films without dialogue have captured the imagination that 'The Bear' has inscribed in my memory. Following the film's conclusion, I made a pledge to myself that one day I will be going to British Columbia myself. The cinematography was excruciatingly beautiful - I felt like I was there throughout the whole duration of the picture. The music was so uplifting and poignant throughout, that it completely drained me of my emotions - especially the finale! Tcheky Karyo (famous French actor) playing one of the hunting mountain men who comes to terms with nature, plays his role convincingly, but there was no better performance than that of the starring bear cub and its much larger assistant. Their commanding presence leaves us laughing, crying and despising. All were simply natural expressions and worked on a documentary level, giving this film immaculate credibility. The subtlest of all films I have ever seen, I recommend this to anybody who likes the occasional escape from reality to a world where life makes all the more sense. A definitive addition in my collection and an escape I will be taking for years to come. A masterwork of epic proportions and a classic in its genre. May the film industry bestow upon us more of these pleasures in the near future!",
+         "Almost 20 years later, this remains the best of \"animal\" movies I've ever seen - where there is little dialog and animals dominate the screen. The amazing photography with the bears, the stunning cinematography overall and the great landscape (British Columbia) all make this a visual treat. Even better, it's an interesting story and has remained that with each of the viewings I've had of this film since discovering it in the mid '90s. It's a solid adventure story, and the little bear in here is lovable. The \"bad guys\" (the hunters) aren't really all that bad, either. The bears' performances are fascinating, simply amazing. It must have taken incredible patience to film this movie. Outside of a couple of \"damns,\" there is no profanity and, I would think, is a great film for any age person to see. Highly recommended.",
+         "The movie really cares about animals as the movie portrays them in a light that only an animal lover would. I should know because I love animals. Perhaps the most telling thing about the movie is it almost made from the viewpoint of a bear. The humans are part of the plot and are not the plot itself. The movie avoids two mistakes all animal movies seem to fall prey to(pun intended): silly talking animals or animal melodrama with significant roles for people. The score is perfect and the closing scene is nothing but heart warming and fulfilling. As a scientist and as a thinking sentient being, the movie portrays bears in the same way science is beginning to. Feeling and maybe maybe thinking. The only difference between us and them is a matter of degrees (speech, tools).They have feelings and thoughts as well. JK",
+         "I have this on video but have not watched it for quite some time, the other night I watched it again and was of course entranced. The director has captured perfectly the life of the cub. If I have one gripe it is the use of a \"human\" voice for the emotions of the cub, in many scenes it is fairly obvious that it is a human being trying to express the emotions of the cub at the time. Secondly, while I understand the storyline of the hunters being integral to the film to be honest I felt that every scene with humans involved was boring beyond belief and I couldn't wait for it to be over. Overall this movie is a sheer joy to behold and the final scene where the cub finally goes to sleep without nightmares is pure bliss. You have to live with animals and know animals to realize how impressive this movie is and I firmly believe that the director has captured pure magic on film. Don't miss it.",
+         "I saw only a small part of this movie on TV recently but found it compelling enough to spend an hour on the Internet trying to find out its title and then rented it as 'The Bear'. It was worth the effort. What a refreshing change from the parade of Hollywood block busters. An orphaned bear cub is the star along with an adult Kodiak bear. They are being hunted by two men with guns and dogs in a breathtaking never ending landscape where no dialogue is needed. Appropriately, one of the few lines of dialogue has one of the hunters refer to himself as a \"stupid human\". I wondered how on earth some of the shots were achieved but not too much, the story is too compelling. \"The Bear\" is an enchanting glimpse into a world few people ever witness and a cautionary tale for hunters everywhere.",
+         "The Bear was an art film veiled in the guise of a nature film. I never looked at the roving vistas and sharp cinematography, because when I first watched this, I was more concerned with the bear cub. This is certainly a minimalist film, but the execution was so well done, the power of the images speaks more than the occasional piece of dialogue that is spoken throughout the movie. While it can never be described as kids movie, I think kids might be interested in it due to the very National Geographic-like quality of the film (only without the voice overs). While it has been a long time since I last watched this film (about four years ago), the interesting imagery and the simple, yet meaningful story of survival will always stick with me.",
+         "\"The Bear\" is a rare film when it comes to the ordinary cinema that we usually view. The main characters are animals, and the connection we get from them is something no human actor could emulate. The movie is expertly crafted, especially the direction and the cinematography. The animal trainers are in a class all their own, making everyone else involved with the film seemingly a lot less talented. The film, as previously said, isn't for children, despite the PG rating. It has a fair amount of blood, peril, sadness, and some bear sex! The film is great though, and I'm so glad I found it at Walfart on DVD for $5.50! *** 1/2",
+         "I am very fond of this movie. I watched it for first time when I was a very little kid and loved it. Years later, I watched it again and again I was enchanted. This is, in my opinion, the best film about animals ever made. It is very touching, with big emotional power, very beautiful movie. It has moments in which you can cry and moments, in which you can laugh, moments of high tension and moments, in which you feel the harmony of the nature. The bear cub is very, very cute and the big bear is quite formidable. I have such nice memories of this film, I'm very fond of it. I recommend it to everybody - it is a film about life, and there aren't that many of them. I rarely give a full mark, but here I can do it - 10/10.",
+         "A bear cub loses its mother while being fed. The orphan bear cub follows a huge male bear, being \"adopted\", protected and fed by the adult bear. Meanwhile, two hunters are following the big animal, which tries to evade in the mountainous forest. \"The Bear\" is a magnificent ecological fable, having the story developed through the eyes of the bears, which are indeed the \"lead actors\". I have read somewhere that it has been taken four years to Jean-Jacques Annaud prepare such a homage to the nature. Sometimes, the shooting recalls a National Geographic movie. Unfortunately the DVD released in Brazil does not have any information about the preparation of this movie. In the present days, it is hard to point out what computer makes, and what is real in a film, but it seems that the movie was shot using real trained animals. \"The Bear\" is another excellent work of the outstanding director Jean-Jacques Annaud and highly recommended as a perfect family entertainment and even to be presented for children in classrooms. My vote is nine. Title (Brazil): \"O Urso\" (\"The Bear\")",
+         "A difficult bet to make a movie with animals as actors. And however, Jean-Jacques Annaud managed to take up the challenge with guts and determination. His efforts were rewarded because his movie won three oscars in France in 1989 including the Best Director. The story of the film is plain and simple and the movie succeeds in creating an intense emotion thanks partly to Philippe Sarde's music and the strength of a few sequences. I think notably about the death of the bear cub's mother at the beginning of the movie. It's a very harrowing and touching sequence and it's difficult to refrain his tears. Landscapes are so gorgeous that they're taking the breath away (the movie was shot in Canada) and they confer to the movie a sensation of big and wild. It's just a pity that Jean-Jacques Annaud's movie is spoiled by an easy and conventional moral: \"you mustn't kill but live and let live\". Nevertheless, \"l'ours\" is a daring movie which was highly successful when it was released in France in 1988."
+      ],
+      "genres": [
+         "Adventure",
+         "Family",
+         "Drama"
+      ],
+      "productionCompanies": [
+         "Price",
+         "Renn Productions"
+      ],
+      "summaries": [
+         "The director of _Quest for Fire_ creates yet another film in nature with almost no human dialogue in this picturesque story of an orphaned bear cub who is adopted by an adult male bear and must avoid hunters. Bart the Bear stars in this anthropomorphic fantasy.",
+         "An orphan bear cub hooks up with an adult male as they try to dodge human hunters."
+      ],
+      "budget": 0
+   },
+   "movielensId": 3412,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1988-10-21",
+      "dvdReleaseDate": "2000-03-07",
+      "directors": ["Jean-Jacques Annaud"],
+      "runtime": 94,
+      "movieId": 3412,
+      "title": "The Bear",
+      "mpaa": "PG",
+      "actors": [
+         "Tchéky Karyo",
+         "Jack Wallace",
+         "André Lacombe"
+      ],
+      "imdbMovieId": "0095800",
+      "originalTitle": "L'Ours",
+      "genres": [
+         "Adventure",
+         "Drama",
+         "Family"
+      ],
+      "youtubeTrailerIds": [
+         "z8_m1H0YpkQ",
+         "E6N3Ow-DLWY"
+      ],
+      "plotSummary": "An orphan bear cub hooks up with an adult male as they try to dodge human hunters.",
+      "tmdbMovieId": 2383,
+      "avgRating": 3.46832,
+      "releaseYear": "1988",
+      "numRatings": 1089,
+      "posterPath": "/1EgJJ7uIsMYZJ69T6KfQunuLLBk.jpg"
+   }
+}

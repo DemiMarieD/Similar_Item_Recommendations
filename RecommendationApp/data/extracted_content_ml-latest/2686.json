@@ -1,0 +1,912 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "auction",
+            "id": 2096
+         },
+         {
+            "name": "violin",
+            "id": 4721
+         }
+      ],
+      "imdb_id": "tt0120802",
+      "video": false,
+      "title": "The Red Violin",
+      "recommendations": [
+         26748,
+         107268,
+         104697,
+         84582,
+         106808,
+         129863,
+         53224,
+         42510,
+         162749,
+         79720,
+         233913,
+         106805,
+         190609,
+         168407,
+         72668,
+         128753,
+         196293,
+         48276,
+         196605,
+         105560
+      ],
+      "backdrop_path": "/atlwDP7j2yuhYEduyvp3vlH5Ojr.jpg",
+      "revenue": 9495408,
+      "reviews": [{
+         "author": "atpar4",
+         "id": "54183555c3a36819b8002ee6",
+         "content": "If you're passionate about music, and history, if violins make you weak in the knees, and if you like a timeless love story, The Red Violin won't disappoint.",
+         "url": "https://www.themoviedb.org/review/54183555c3a36819b8002ee6"
+      }],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "Nicolo Bussotti (Cremona)",
+               "gender": 2,
+               "credit_id": "52fe45e19251416c75065b4f",
+               "name": "Carlo Cecchi",
+               "profile_path": "/oIOFKqLJVpE6FFlcYyDOur1HxGl.jpg",
+               "id": 96974,
+               "order": 0
+            },
+            {
+               "cast_id": 3,
+               "character": "Anna Bussotti (Cremona)",
+               "gender": 1,
+               "credit_id": "52fe45e19251416c75065b53",
+               "name": "Irene Grazioli",
+               "profile_path": "/g9kam3z9DHeCSnvTir1clUEz8qL.jpg",
+               "id": 141715,
+               "order": 1
+            },
+            {
+               "cast_id": 4,
+               "character": "Cesca (Cremona)",
+               "gender": 0,
+               "credit_id": "52fe45e19251416c75065b57",
+               "name": "Anita Laurenzi",
+               "profile_path": "/owIk2gGhUNcmNHwbuL0R8dK4M5w.jpg",
+               "id": 141716,
+               "order": 2
+            },
+            {
+               "cast_id": 5,
+               "character": "Apprentice (Cremona)",
+               "gender": 0,
+               "credit_id": "52fe45e19251416c75065b5b",
+               "name": "Tommaso Puntelli",
+               "profile_path": null,
+               "id": 141717,
+               "order": 3
+            },
+            {
+               "cast_id": 6,
+               "character": "Boy (Cremona)",
+               "gender": 0,
+               "credit_id": "52fe45e19251416c75065b5f",
+               "name": "Samuele Amighetti",
+               "profile_path": null,
+               "id": 141718,
+               "order": 4
+            },
+            {
+               "cast_id": 7,
+               "character": "Georges Poussin (Vienna)",
+               "gender": 0,
+               "credit_id": "52fe45e19251416c75065b63",
+               "name": "Jean-Luc Bideau",
+               "profile_path": "/q977v7I75dvrfR5iCms6XQiAS8V.jpg",
+               "id": 38898,
+               "order": 5
+            },
+            {
+               "cast_id": 8,
+               "character": "Assistant (Cremona)",
+               "gender": 0,
+               "credit_id": "52fe45e19251416c75065b67",
+               "name": "Aldo Brugnini",
+               "profile_path": null,
+               "id": 141719,
+               "order": 6
+            },
+            {
+               "cast_id": 9,
+               "character": "Kaspar Weiss (Vienna)",
+               "gender": 0,
+               "credit_id": "52fe45e29251416c75065b6b",
+               "name": "Christoph Koncz",
+               "profile_path": null,
+               "id": 141720,
+               "order": 7
+            },
+            {
+               "cast_id": 10,
+               "character": "Antoinette Pussin (Vienna)",
+               "gender": 1,
+               "credit_id": "52fe45e29251416c75065b6f",
+               "name": "Clotilde Mollet",
+               "profile_path": "/8aXYC2plPTD48hhTnpZSZs3KoSX.jpg",
+               "id": 2411,
+               "order": 8
+            },
+            {
+               "cast_id": 11,
+               "character": "Anton von Spielmann (Vienna)",
+               "gender": 2,
+               "credit_id": "52fe45e29251416c75065b73",
+               "name": "Florentín Groll",
+               "profile_path": null,
+               "id": 134467,
+               "order": 9
+            },
+            {
+               "cast_id": 12,
+               "character": "Father Richter (Vienna)",
+               "gender": 2,
+               "credit_id": "52fe45e29251416c75065b77",
+               "name": "Johannes Silberschneider",
+               "profile_path": "/wNoBsSTxoWuRYlr7o3zNI7AUdSf.jpg",
+               "id": 23750,
+               "order": 10
+            },
+            {
+               "cast_id": 13,
+               "character": "Brother Christophe (Vienna)",
+               "gender": 2,
+               "credit_id": "52fe45e29251416c75065b7b",
+               "name": "Rainer Egger",
+               "profile_path": "/8P59Vr0cYZEWmECipwxllQhWLEK.jpg",
+               "id": 141721,
+               "order": 11
+            },
+            {
+               "cast_id": 14,
+               "character": "Brother Gustav (Vienna)",
+               "gender": 0,
+               "credit_id": "52fe45e29251416c75065b7f",
+               "name": "Paul Koeker",
+               "profile_path": null,
+               "id": 141722,
+               "order": 12
+            },
+            {
+               "cast_id": 15,
+               "character": "Brother Michael (Vienna)",
+               "gender": 0,
+               "credit_id": "52fe45e29251416c75065b83",
+               "name": "Wolfgang Böck",
+               "profile_path": "/rcw1t1iLAndFYn6ZJXcLlDncSme.jpg",
+               "id": 48081,
+               "order": 13
+            },
+            {
+               "cast_id": 16,
+               "character": "Brother Franz (Vienna)",
+               "gender": 0,
+               "credit_id": "52fe45e29251416c75065b87",
+               "name": "Josef Mairginter",
+               "profile_path": null,
+               "id": 141723,
+               "order": 14
+            },
+            {
+               "cast_id": 17,
+               "character": "Funeral Monk (Vienna)",
+               "gender": 0,
+               "credit_id": "52fe45e29251416c75065b8b",
+               "name": "Johan Gotsch",
+               "profile_path": null,
+               "id": 141724,
+               "order": 15
+            },
+            {
+               "cast_id": 18,
+               "character": "Gypsy Violonist (Vienna)",
+               "gender": 0,
+               "credit_id": "52fe45e29251416c75065b8f",
+               "name": "Geza Hosszu-Legocky",
+               "profile_path": null,
+               "id": 141725,
+               "order": 16
+            },
+            {
+               "cast_id": 19,
+               "character": "Gypsy Violonist (Vienna)",
+               "gender": 0,
+               "credit_id": "52fe45e29251416c75065b93",
+               "name": "David Alberman",
+               "profile_path": null,
+               "id": 141726,
+               "order": 17
+            },
+            {
+               "cast_id": 20,
+               "character": "Prince Mansfeld (Vienna)",
+               "gender": 0,
+               "credit_id": "52fe45e29251416c75065b97",
+               "name": "Arthur Denberg",
+               "profile_path": null,
+               "id": 141727,
+               "order": 18
+            },
+            {
+               "cast_id": 21,
+               "character": "Gypsy Violonist (Vienna)",
+               "gender": 0,
+               "credit_id": "52fe45e29251416c75065b9b",
+               "name": "Andrzej Matuszewiski",
+               "profile_path": null,
+               "id": 141728,
+               "order": 19
+            },
+            {
+               "cast_id": 22,
+               "character": "Frederick Pope (Oxford)",
+               "gender": 2,
+               "credit_id": "52fe45e29251416c75065b9f",
+               "name": "Jason Flemyng",
+               "profile_path": "/kzzQoiO3bbi2UeDJL9QtBT5jaQn.jpg",
+               "id": 973,
+               "order": 20
+            },
+            {
+               "cast_id": 23,
+               "character": "Victoria Byrd (Oxford)",
+               "gender": 1,
+               "credit_id": "52fe45e29251416c75065ba3",
+               "name": "Greta Scacchi",
+               "profile_path": "/uHPHNwBnhBIs1z2sJcKQODtaY2n.jpg",
+               "id": 21245,
+               "order": 21
+            },
+            {
+               "cast_id": 24,
+               "character": "Sara (Oxford)",
+               "gender": 1,
+               "credit_id": "52fe45e29251416c75065ba7",
+               "name": "Eva Marie Bryer",
+               "profile_path": null,
+               "id": 141729,
+               "order": 22
+            },
+            {
+               "cast_id": 25,
+               "character": "Gypsy Father (Oxford)",
+               "gender": 0,
+               "credit_id": "52fe45e29251416c75065bab",
+               "name": "Dimitri Andreas",
+               "profile_path": null,
+               "id": 39662,
+               "order": 23
+            },
+            {
+               "cast_id": 26,
+               "character": "Conductor (Oxford)",
+               "gender": 2,
+               "credit_id": "52fe45e29251416c75065baf",
+               "name": "David Gant",
+               "profile_path": "/hDrKggQ1lYc8bjiEHBKVKAS5QDi.jpg",
+               "id": 21431,
+               "order": 24
+            },
+            {
+               "cast_id": 27,
+               "character": "Manservant (Oxford) (as Stuart Ong)",
+               "gender": 2,
+               "credit_id": "52fe45e29251416c75065bb3",
+               "name": "Sai-Kit Yung",
+               "profile_path": "/uMo7T92kqH116RIc2FDsUbTpEnW.jpg",
+               "id": 62937,
+               "order": 25
+            },
+            {
+               "cast_id": 28,
+               "character": "Xiang Pei (Shanghai)",
+               "gender": 1,
+               "credit_id": "52fe45e29251416c75065bb7",
+               "name": "Sylvia Chang",
+               "profile_path": "/2gLgQxPqunlRMdEh57ZXhAjbVZi.jpg",
+               "id": 26739,
+               "order": 26
+            },
+            {
+               "cast_id": 29,
+               "character": "Chou Yuan (Shanghai) (as Zi Feng Liu)",
+               "gender": 0,
+               "credit_id": "52fe45e29251416c75065bbb",
+               "name": "Zifeng Liu",
+               "profile_path": null,
+               "id": 130867,
+               "order": 27
+            },
+            {
+               "cast_id": 30,
+               "character": "Comrade Chan Gong (Shanghai)",
+               "gender": 0,
+               "credit_id": "52fe45e29251416c75065bbf",
+               "name": "Tao Hong",
+               "profile_path": "/jfbTIHJO6eHIBC8elmTZ8QrWdQI.jpg",
+               "id": 134122,
+               "order": 28
+            },
+            {
+               "cast_id": 31,
+               "character": "Young Ming (Shanghai)",
+               "gender": 0,
+               "credit_id": "52fe45e29251416c75065bc3",
+               "name": "Xio Fei Han",
+               "profile_path": null,
+               "id": 141730,
+               "order": 29
+            },
+            {
+               "cast_id": 32,
+               "character": "Guard (Shanghai) (as Zeng Wei Tan)",
+               "gender": 0,
+               "credit_id": "52fe45e29251416c75065bc7",
+               "name": "Zheng Wei Tan",
+               "profile_path": null,
+               "id": 141731,
+               "order": 30
+            },
+            {
+               "cast_id": 33,
+               "character": "Senior Policeman (Shanghai)",
+               "gender": 0,
+               "credit_id": "52fe45e29251416c75065bcb",
+               "name": "Zhi Qing Zhou",
+               "profile_path": null,
+               "id": 141732,
+               "order": 31
+            },
+            {
+               "cast_id": 35,
+               "character": "Elderly Woman (Shanghai)",
+               "gender": 0,
+               "credit_id": "52fe45e29251416c75065bd3",
+               "name": "Zhi Qiao",
+               "profile_path": null,
+               "id": 141733,
+               "order": 33
+            },
+            {
+               "cast_id": 36,
+               "character": "Deputy (Shanghai)",
+               "gender": 0,
+               "credit_id": "52fe45e29251416c75065bd7",
+               "name": "Kun Qi Cao",
+               "profile_path": null,
+               "id": 141734,
+               "order": 34
+            },
+            {
+               "cast_id": 37,
+               "character": "Young Xian Pei (Shanghai)",
+               "gender": 0,
+               "credit_id": "52fe45e29251416c75065bdb",
+               "name": "Rei Yang",
+               "profile_path": null,
+               "id": 141735,
+               "order": 35
+            },
+            {
+               "cast_id": 38,
+               "character": "Pawnbroker (Shanghai)",
+               "gender": 0,
+               "credit_id": "52fe45e29251416c75065bdf",
+               "name": "Lidou",
+               "profile_path": null,
+               "id": 141736,
+               "order": 36
+            },
+            {
+               "cast_id": 39,
+               "character": "Charles Morritz (Montréal)",
+               "gender": 2,
+               "credit_id": "52fe45e29251416c75065be3",
+               "name": "Samuel L. Jackson",
+               "profile_path": "/AvCReLikjzYEf9XjTQxbv3JWgKT.jpg",
+               "id": 2231,
+               "order": 37
+            },
+            {
+               "cast_id": 40,
+               "character": "Auctioneer (Montréal)",
+               "gender": 2,
+               "credit_id": "52fe45e29251416c75065be7",
+               "name": "Colm Feore",
+               "profile_path": "/ack88BRQ7mApRMOdaiOqEUh2FDu.jpg",
+               "id": 10132,
+               "order": 38
+            },
+            {
+               "cast_id": 41,
+               "character": "Mme. Leroux (Montréal)",
+               "gender": 1,
+               "credit_id": "52fe45e29251416c75065beb",
+               "name": "Monique Mercure",
+               "profile_path": "/4LL8lmS9pzEUFnPbTFR3UR6yk8t.jpg",
+               "id": 27812,
+               "order": 39
+            },
+            {
+               "cast_id": 42,
+               "character": "Evan Williams (Montréal)",
+               "gender": 2,
+               "credit_id": "52fe45e29251416c75065bef",
+               "name": "Don McKellar",
+               "profile_path": "/cV1nEafG1CqIdnrce5pVw2hcaep.jpg",
+               "id": 20173,
+               "order": 40
+            },
+            {
+               "cast_id": 43,
+               "character": "Mr. Ruselsky (Montréal)",
+               "gender": 0,
+               "credit_id": "52fe45e29251416c75065bf3",
+               "name": "Ireneusz Bogajewicz",
+               "profile_path": null,
+               "id": 141738,
+               "order": 41
+            },
+            {
+               "cast_id": 44,
+               "character": "Nicolas Olsberg (Montréal)",
+               "gender": 2,
+               "credit_id": "52fe45e29251416c75065bf7",
+               "name": "Julian Richings",
+               "profile_path": "/ia2Xo99pxLX3sxZ0jVcj7eai56l.jpg",
+               "id": 2320,
+               "order": 42
+            },
+            {
+               "cast_id": 45,
+               "character": "Older Ming (Montréal)",
+               "gender": 2,
+               "credit_id": "52fe45e29251416c75065bfb",
+               "name": "Russell Yuen",
+               "profile_path": "/jCzbsp4aN7xUd8iW6FZ4HGoNovF.jpg",
+               "id": 29466,
+               "order": 43
+            },
+            {
+               "cast_id": 46,
+               "character": "Madame Ming (Montréal)",
+               "gender": 1,
+               "credit_id": "52fe45e29251416c75065bff",
+               "name": "Sandra Oh",
+               "profile_path": "/ojy6psDO5f0O7N2RBxCVUImGrpD.jpg",
+               "id": 25540,
+               "order": 44
+            },
+            {
+               "cast_id": 47,
+               "character": "Suzanne (Montréal)",
+               "gender": 0,
+               "credit_id": "52fe45e29251416c75065c03",
+               "name": "Paula de Vasconcelos",
+               "profile_path": null,
+               "id": 141739,
+               "order": 45
+            },
+            {
+               "cast_id": 48,
+               "character": "Customs Agent (Montréal)",
+               "gender": 2,
+               "credit_id": "52fe45e29251416c75065c07",
+               "name": "Rémy Girard",
+               "profile_path": "/4OXis57mBuJMxqLkQ31uunkEXCe.jpg",
+               "id": 38526,
+               "order": 46
+            },
+            {
+               "cast_id": 49,
+               "character": "Hotel Concierge (Montréal)",
+               "gender": 1,
+               "credit_id": "52fe45e29251416c75065c0b",
+               "name": "Marie-Josée Gauthier",
+               "profile_path": null,
+               "id": 141740,
+               "order": 47
+            },
+            {
+               "cast_id": 50,
+               "character": "Cabby (Montréal)",
+               "gender": 2,
+               "credit_id": "52fe45e29251416c75065c0f",
+               "name": "Dany Laferrière",
+               "profile_path": "/d6tGMoUOTApv5I23v42lghYU6Kd.jpg",
+               "id": 17422,
+               "order": 48
+            },
+            {
+               "cast_id": 51,
+               "character": "Secretary (Montréal)",
+               "gender": 1,
+               "credit_id": "52fe45e29251416c75065c13",
+               "name": "Dorothée Berryman",
+               "profile_path": "/zlc88cQfPJuNYCIJC3RYu5L0mVO.jpg",
+               "id": 67905,
+               "order": 49
+            },
+            {
+               "cast_id": 52,
+               "character": "Handler (Montréal)",
+               "gender": 2,
+               "credit_id": "52fe45e29251416c75065c17",
+               "name": "David La Haye",
+               "profile_path": "/kE7zI4RSCi1P4OzFKco8EQhyKGp.jpg",
+               "id": 58012,
+               "order": 50
+            },
+            {
+               "cast_id": 53,
+               "character": "Coat Attendant (Montréal)",
+               "gender": 0,
+               "credit_id": "52fe45e29251416c75065c1b",
+               "name": "Gregory Hlady",
+               "profile_path": "/nflwPaKuyIR6LMCqSH8G1FMxSlj.jpg",
+               "id": 141741,
+               "order": 51
+            },
+            {
+               "cast_id": 54,
+               "character": "Registrar (Montréal)",
+               "gender": 0,
+               "credit_id": "52fe45e29251416c75065c1f",
+               "name": "Herman Meckler",
+               "profile_path": null,
+               "id": 141742,
+               "order": 52
+            },
+            {
+               "cast_id": 55,
+               "character": "Ruselsky's Companion (Montréal)",
+               "gender": 0,
+               "credit_id": "52fe45e29251416c75065c23",
+               "name": "Sheena Macdonald",
+               "profile_path": null,
+               "id": 141743,
+               "order": 53
+            },
+            {
+               "cast_id": 56,
+               "character": "Autograph Seeker (Montréal)",
+               "gender": 0,
+               "credit_id": "52fe45e29251416c75065c27",
+               "name": "Jody Shapiro",
+               "profile_path": null,
+               "id": 141744,
+               "order": 54
+            },
+            {
+               "cast_id": 57,
+               "character": "Stagehand (Montréal)",
+               "gender": 2,
+               "credit_id": "52fe45e29251416c75065c2b",
+               "name": "James Bradford",
+               "profile_path": "/pBYOvR05UoVsoszZgZnebgF9qCQ.jpg",
+               "id": 29468,
+               "order": 55
+            },
+            {
+               "cast_id": 58,
+               "character": "Violinist (Oxford) (uncredited)",
+               "gender": 0,
+               "credit_id": "52fe45e29251416c75065c2f",
+               "name": "Joshua Bell",
+               "profile_path": null,
+               "id": 141745,
+               "order": 56
+            },
+            {
+               "cast_id": 59,
+               "character": "Security Guard (uncredited)",
+               "gender": 1,
+               "credit_id": "52fe45e29251416c75065c33",
+               "name": "Sylvia Stewart",
+               "profile_path": "/xnzGB8Q9Ebec8LgSq2DyQnMwJh4.jpg",
+               "id": 141746,
+               "order": 57
+            },
+            {
+               "cast_id": 62,
+               "character": "Junior Policeman (Shanghai)",
+               "gender": 2,
+               "credit_id": "53018a88925141219e1aea5d",
+               "name": "Wang Xiaoshuai",
+               "profile_path": "/bHeg0Pf4NZvSCr26CLkV8yxmKED.jpg",
+               "id": 1016305,
+               "order": 58
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe45e19251416c75065b4b",
+               "name": "François Girard",
+               "profile_path": "/qapy77nmB5gaFXoMZ2yKxQ4VY7s.jpg",
+               "id": 78012,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe45e29251416c75065c39",
+               "name": "Don McKellar",
+               "profile_path": "/cV1nEafG1CqIdnrce5pVw2hcaep.jpg",
+               "id": 20173,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe45e29251416c75065c3f",
+               "name": "François Girard",
+               "profile_path": "/qapy77nmB5gaFXoMZ2yKxQ4VY7s.jpg",
+               "id": 78012,
+               "department": "Writing",
+               "job": "Writer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         },
+         {
+            "name": "Mystery",
+            "id": 9648
+         },
+         {
+            "name": "Music",
+            "id": 10402
+         },
+         {
+            "name": "Romance",
+            "id": 10749
+         }
+      ],
+      "popularity": 6.09092,
+      "production_countries": [
+         {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+         },
+         {
+            "iso_3166_1": "IT",
+            "name": "Italy"
+         },
+         {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+         }
+      ],
+      "id": 14283,
+      "vote_count": 118,
+      "budget": 18000000,
+      "overview": "Spans 300 years in the life of one famed musical instrument that winds up in present-day Montreal on the auction block. Crafted by the Italian master Bussotti (Cecchi) in 1681, the red violin derives its unusual color from the human blood mixed into the finish. With this legacy, the violin travels to Austria, England, China, and Canada, leaving both beauty and tragedy in its wake.",
+      "similar": [
+         52371,
+         26701,
+         9417,
+         335,
+         11253,
+         382399,
+         48171,
+         10974,
+         78206,
+         37797,
+         12924,
+         13707,
+         11665,
+         80591,
+         11337,
+         6283,
+         17332,
+         65218,
+         4516,
+         10389
+      ],
+      "original_title": "The Red Violin",
+      "runtime": 131,
+      "poster_path": "/lh6EZuSSmGzaRgYuJeO7uSynQR4.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Français",
+            "iso_639_1": "fr"
+         },
+         {
+            "name": "Deutsch",
+            "iso_639_1": "de"
+         },
+         {
+            "name": "Italiano",
+            "iso_639_1": "it"
+         },
+         {
+            "name": "普通话",
+            "iso_639_1": "zh"
+         },
+         {
+            "name": "Español",
+            "iso_639_1": "es"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Rhombus Media",
+            "id": 164,
+            "origin_country": "CA"
+         },
+         {
+            "logo_path": null,
+            "name": "Channel Four Films",
+            "id": 181,
+            "origin_country": "GB"
+         }
+      ],
+      "release_date": "1998-09-10",
+      "vote_average": 7.4,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Canada",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["François Girard"],
+      "runtime": 130,
+      "synopsis": "This film centres on a red violin created in 1681 by Cremonese master violinmaker, Nicolo Bussotti, for the forthcoming birth of his child. The film tells the subsequent fate of the violin in episodes, linked together by a fortune telling, read by the servant woman Cesca, for Nicolo´s pregnant wife, Anna. Instead of predicting the future of Anna, the tarot cards reveal the future of the violin. The violin was to become Nicolo´s final masterpiece, an impossible instrument with perfect resonance in all three characteristics. Following the death of his wife Anna in childbirth, Nicolo varnishes the violin with ingredients from which it derives it red colouring. The main return point in the movie is the auctioning of the Red Violin at the Duval auction house in Canada. The film then proceeds to follow the violin's history as it passes from person to person beginning at an Austrian monastery where it goes from child to child, culminating its sojourn at the monastery with a talented orphan of about 6 years age, Kaspar Weiss. Kaspar is taken under the wing of mentor Georges Poussin, but Kaspar comes to an untimely death auditioning to the Prince Mansfeld. The violin \"slumbers\" in the grave with Kaspar, but is dug up and moves on to have several gypsy owners. One band of gypsies brings the violin to the English country lands of Lord Frederick Pope, who is a violin virtuoso. Lord Pope overhears the violin being played by the gypsies. Pope readily procures what he immediately perceives to be an exceptional violin. He is aesthetically or carnally transfixed by this one violin in such a manner that his jealous lover first leaves him to travel to Europe, then returns unannounced. Whereupon she shoots the violin when she discovers Pope in bed in a ménage-a-trois with the violin & another woman. Subsequently Pope kills himself and the violin gets taken to China by Pope´s former servant who sells it at the bond shop of a Shanghai merchant. This merchant only sees the value of the gemstone mounted in the scroll of the violin, and he removes the stone. By 1937 the violin belongs to a bourgeois Chinese family.The violin then barely survives the Great Proletarian Cultural Revolution of a communist China which at that time found western music unacceptable. Ultimately, when the collector dies the Chinese government \"inherits\" the by now anonymous violin in a motley collection of stringed instruments, including at least one genuine Stradivarius. At the Canadian auction descendants of the previous owners of the violin are there competing for the red, together with one Charles Morritz (Samuel L. Jackson) who is a violin expert who was to authenticate and value the Stradivarius for Canadian customs assessment. Serendipitously Morritz is one of the few people who suspects the truth about the anonymous red instrument included in the consignment from China. He tries to keep his suspicions secret, but as the film proceeds we see one after another determined buyers of the red violin arrive at the auction.",
+      "writers": [
+         "Don McKellar",
+         "François Girard"
+      ],
+      "originalLanguage": "French",
+      "imdbLink": "http://www.imdb.com/title/tt0120802/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMzg5MDczNzQxNV5BMl5BanBnXkFtZTcwMjQ0MjM3MQ@@._V1_SY317_CR17,0,214,317_AL_.jpg",
+      "actors": ["Stars: Carlo Cecchi, Jean-Luc Bideau, Christoph Koncz | See full cast and crew »"],
+      "reviews": [
+         "I thought this might be one of those films that would be \"good for me\" to see. I was mildly intrigued by descriptions of the story I had read and with the trailer, so I thought to take a chance. I took someone very close to me, an actual violin prodigy. Coincidently, her and I have recently been searching for a decent violin for her that is affordable by actual humans, so we could relate to parts of the plot first-hand. We arrived to a very thin theater in one of those mega-complex theaters, and while everyone was queuing up next-door to see the latest blockbuster from Hollywood I settled into an amazingly comfortable seat with an excellent view and prepared for whatever might come. I was shocked. This film turned out to be clearly one of the best movie going experiences I have had in ages. We see this as the story unfolds and is creatively told through the reading of the violin makers wife's fortune with a deck of Tarot cards. It is the story of a part of the life of a violin; of the humans who would dare to possess her beauty. A masterpiece of a craftsman's art, it is desired by many for it's acoustic perfection. But, as Tolstoy said, \"how complete is the delusion that beauty is goodness.\" Or more interestingly, from Saint Augustine: \"Beauty is indeed a good gift of God; but that the good may not think it a great good, God dispenses it even to the wicked.\" There seems to be a curse on this instrument as it brings ill to those who manage to possess it. This makes the ending especially eerie. An original, imaginative and thought provoking story that engaged one's mind as American films almost never do. I will not describe more of the plot, it's far too good to ruin. The memory of this film will be one long treasured. Oh, as for my guest, the honest-to-God prodigy: she said the music was magnificent (it was) even though a real musician could tell the actors weren't playing, it was well done.",
+         "I saw this film the same day it came highly recommended to me by a coffee shop friend who couldn't stop gushing about it. While this guy is also a member of the Academy and has steered me to some pretty good picks in the past, I walked into the theater fearing the usual letdown that invariably follows going into a film with overly high expectations (i.e. The English Patient, The Truman Show, etc.) This film not only managed to exceed my expectations, it restored my faith in the magic and mystery of cinema altogether. We start with a rather simple but cleverly structured story about a very unique red violin that emblematically (and quite literally for that matter) takes on the heart and fate of a 16th century Italian woman as it passes across several centuries and continents on its way to the auction block in present day Montreal. The unfolding vignettes reveal more and more about the nature of this instrument and, when strung together in the bigger picture, play out like finely orchestrated movements of a great sonata; each movement plucking out its own stirring and poignant variation on theme. I was so swept up in the majesty and spectacle of this film that it didn't even occur to me until much later that the violin is nothing less than a personification of beauty itself (okay, okay, maybe I'm starting to overly deconstruct things here in retrospect, but the parallels are too perfect to remain unexplored). It's fascinating to watch both the transformative and destructive power of this beauty as it's placed into the hands of a sensitive young boy, a self absorbed musical protege, and a remorseful ring leader of a totalitarian regime. Much praise goes to director Francois Girard in how he refrained from overplaying the social and moral commentary, repeating this theme at mostly an emotional level rather than an intellectual one -- much in the same way that beauty itself, to some degree anyway, defies analytical discussion and belongs in the realm of pure and simple experience. You obviously can't dissect it, as co-writer Don McKellar¹s onscreen character thought to do, and so it remains as it was in it's original form: timeless, magical, elusive. The stuff that pompous nobility and rich collectors the world over will offer a king's ransom for and still never manage to posses in the end. Performances were good to great all around. It's hard to go wrong with Samuel L. Jackson in a leading role and I appreciated the fact that the actors actually appeared to be playing the violin on camera, as opposed to watching the typical hokey cutaways and cheat shots often associated with onscreen musical performances; nauseating contrivances that always tear down the wall of suspended disbelief with a resounding crash. The costuming, set design and cinematography were absolutely stunning (Oscar nominations soon to follow I'm sure) without taking center stage from the story. I especially loved the amazing period recreations of China and Austria. I felt like I was fully transported in both space and time to these places and walking among people who really belonged there. Overall I would rate this one as a true film classic on the level of masterpiece. Perhaps this is in part due to my love for music and the undeniable fact that, being the sentimental guy that I am, I'm always a sucker for haunting open-ended films like this where you leave the theater in a half daze, pondering all the implications, mesmerized by the lingering imagery. I'm still speculating about the future of Mr. Moritz and what will ultimately happen when beauty is placed into the hands of our modern world.",
+         "After watching too many would-be \"great pieces\" lately that are enticing you from TV commercials, leaving you (or me, I should say) disappointed most of the time, \"The Red Violin\" is a gem among all these fleeting flicks or time-wasters. Recommended by a good friend I went to see this piece and frankly, I came out of the theater speechless! I was overwhelmed, enriched as well as happy that I finally, in years, got to see something that's well worth while. From the story, costumes, cinematography, acting and finally its greatest actor -the superb music- all absolutely flawless! S.L.Jackson acts at his best, his performance is unforgettable and I am sure one of his own most favourite; I can tell. I was estatic to see J.Corigliano win the Oscar for the best score, and saddened at the fact that the whole movie wasn't nominated for even more Oscars - are they blind in that Academy or what?! Now that's a shame but you know what I don't care what the Academy has to say, important is my subjective feeling and this movie made my day, and days to come. I couldn't wait to get hold of both, the video and the sound track, and I never seem to get tired watching or hearing that beauty all over again. And believe it or not, that ingenious soundtrack can be so erotic at times that if I may give a little advice to all these men out there seeking to entice and seduce their partners - hey, this might be the way to go - worked for me (and her!)!!! Anyways, I'd like to recommend this movie to everybody with an open heart and mind, I guarantee satisfaction and enrichment in every possible way. And lastly let me bestow my gratitude and thanks to the very director F.Girard for enlightening my spirit, my heart and my soul with his vision of a truly quality story that I can never forget.",
+         "The Red Violin is the saga of spirit and soul as they press onward through time. The adventure begins with Anna, a young woman whose only child brings about her untimely death. A gift of a violin to be given to the babe becomes host to Anna's spirit. The Red Violin narrowly escapes the grips of greed, ignorance, and vengeful lust as she is passed from hand to hand of those who would have her. She wanders about the globe until at last she is exonerated by the one man who knows the truth that she holds within her wooden belly. In spite of the death and despair, the film is truly positive. It teaches us to appreciate people from all walks of life. From the violin maker of the 16th century who made the Red Violin for the bittersweet arrival of his baby son, we travel through time with the violin to the Chinese Communist Party who spelled out certain death to any instrument that may threaten the ideals of the collective. In our travels, we learn the dark and sordid side to each person, but we also learn that to create a shadow there must be light. That light, or hope, that the people shed is what gives the violin her vitality and will to survive. A truly magnificent film, The Red Violin inspired me to recollect my own past I shared with my aged upright piano; the certain spiritual vibrations I felt while playing a ragtime melody. Suddenly, memories came rushing back to me tenfold. I recalled the times as a young girl I would listen as my father played his rendition of Scott Joplin's Maple Leaf Rag. Wiping a tear from my eye, I remembered how long ago that truly was; how my piano shaped and molded me, as I shaped and molded it. I am left wondering where my beloved piano is now. Who is influencing his instrumental life? In the end, what stories will he have to tell, and will they be of me Take the journey of the Red Violin. Visit other lands and other times. Feel the strings of life against your fingers; the bow of spirit in your palm. Rest your chin against the weathered wood of wisdom. Listen closely and hear the music that is the gentle rhythm of time and change. See the film to learn about music; to learn about history; to learn the boundless raptures of the spirit. Perhaps, as I, you will learn just a little more about yourself.",
+         "I was captivated from the moment the film started. The music flowed effortlessly and the scene was set immediately. Some people may be put off by the use of foreign language and subtitles early on in the film but I found this served to enhance the story and grab my attention even more. It reminds you of the true beauty of language and music and no matter what your taste you cannot help but to be drawn into the story. The story follows the journey of the Red Violin from its creation and you really feel that something special is happening from the way the red violin is revered. The different people who come into contact with the instrument all have there own stories and you find yourself trying to guess how the Violin will affect them. Sometimes you are right and sometimes not. Francois Girard has produced a wonderful film and the original score enhances this. This film is one that I will watch again and again and one that should be highly recommended.",
+         "Literally spanning centuries to unfold its mesmerizing tale, The Red Violin traces the unbelievable history of an acoustically flawless masterpiece crafted in the late 1600s by an Italian master. Co-screenwriters Francois Girard (who directed) and Don McKellar (who acts in the film) structure the movie around a wealth of richly detailed locales, including Vienna, China, and Oxford, and provide a unique modern-day Montreal framework which intertwines with the often tragic history of the instrument to provide the narrative with a rather unique element of mystery. The late-19th century English section shows the film at its most baroque, but each of the finely tuned tales reaches for some truth about music, life, love, and passion -- and that is commendable. Music lovers take note: the sounds that come out of the crimson treasure throughout the course of its journey are utterly thrilling and inspiring.",
+         "this movie, like a book of short stories, can hook you once and annoy you the next. The segments follow a violin for 3 centuries obviously shooting for a wide range of settings, thus a wide range of stories and characters. But they are all much different. The Red Violin will be rewarding for those who pay attention, and a pain for those who don't, because the transaction of the violin from person to person isn't smooth, whoever is not willing to pay attention should steer clear. I definitely recommend it to all big movie buffs, because those willing to see it, should. I really enjoyed Don Mcellars work before, and this is no different. Some segments, like 'Vienna' are very enjoyable and sad (in a good way, like bambi's mom getting shot) well some like 'Oxford' are dark and depressing. You may not leave thinking it's spectacular, but ya gotta respect it. Thumbs up.",
+         "What can you say about a film that covers three centuries, people from all stations of society, and several European countries and Canada. Ambitious is a good start. This film was very well crafted and at about one hundred forty minutes was too short for me. The story follows a red violin, an inanimate object, although at times it seemed alive to me, thru three centuries and the influences good and ill that it has on its possessors. It does ever seem to be owned. Each of its possessors lives a life of passion and turmoil. The violin's birth is during turmoil and during its life it buried, shot, and almost burned. The writing which includes this parallel between the violin and its possessor , five somewhat independent segments that mell and converge in the final scenes, and a story told by tarot cards make for an extremely unique experience. Add to that the musical score, scenery, the varied languages and cultures and you have a great offering. The performances were all strong, but I thought Jason Flemyng as Lord Frederick Pope stood out. To say his character was eccentric and maybe a little over the top is justifiable but I'm sure that was intended. English nobility has always been known for its idiosyncrasies. The ending has incongruous feel with the remainder of the film but is satisfactory and I can not suggest a better one. Great entertainment! Three and a half stars!!!",
+         "Just to tease those who have not seen this incredible work of art and to make the others think you should see it again ! Who could think that a movie about a simple violin could turn into such magnificent beauty? «The Red Violin» whole story is based on a piece of wood and strings, which carries a whole story of humanity and social issues. We travel through 400 years of history and music, to end up in what you might think is the end of the story of the «red violin» but in fact, takes you to the next chapter. If you are a classical and historical music fan, you will love this movie. The Oscar to composer John Corigliano was not an option. François Girard clearly has something for music, as he did another wonderful movie about pianist Glenn Gould, «Thirty Two Short Films About Glenn Gould», a movie that really drives us through the life of a great piano interpreter. Quite different from «The Red Violin», but quite good too. I can't wait to see his next movie, if he ever plans to do one, but the challenge to surpass «The Red Violin» is quite big.",
+         "There are a few great films about artists like Camille Claudelle, Goya in Bordeaux and Tous Les Matins du Monde (All the Mornings of the World). But this is the only film I can recall about a piece of art, and the remarkable journey it takes, with many people through distant lands, over hundreds of years. With all of it fitting nicely into 2 hours of great cinema, drawn from a most exceptional story. Perhaps I should say stories - as there are many, and of course the stories are about people. I don't think a great cast necessarily means famous names, lengthy reputations, or even a lot of acting experience - but one that simply works well. Meaning actors (or acting ability) that fit the characters, with a flow of believability or at least the right feel. Some of the best movies I've ever seen have had several cast members that were never heard of before or after being seen in the one film I saw them in. Here everyone fits. From the child prodigy in Vienna to the instrument expert in Montreal (Samuel Jackson) - this film is well cast. Shot on location in at least 4 different countries, this is storytelling at it's best. One of my favorite films, it is one of the truest examples of what good movie making is all about. It also happens to have an inanimate object (a violin) as one of the stars of the show. Like so many of the rare occasions in your life when something happening seems like a dream come true, it would sound like a fairy tale if you told it. It's that way here. This is a real gem of a movie and a bit of a fairy tale, but it is one for grown ups . . . and a most delightful one at that. http://fullgrownministry.wordpress.com/2013/05/11/destiny/"
+      ],
+      "genres": [
+         "Drama",
+         "Romance",
+         "Mystery",
+         "Music"
+      ],
+      "productionCompanies": [
+         "Rhombus Media",
+         "Mikado Film",
+         "New Line International"
+      ],
+      "summaries": [
+         "In present day Montreal, a famous Nicolo Bussotti violin, known as \"the red violin,\" is being auctioned off. During the auction, we flash back to the creation of the violin in 17th century Italy, and follow the violin as it makes its way through an 18th century Austrian monastery, a violinist in 19th century Oxford, China during the Cultural Revolution, and back to Montreal, where a collector tries to establish the identity and the secrets of \"the red violin.\"",
+         "A perfect red-colored violin inspires passion, making its way through three centuries over several owners and countries, eventually ending up at an auction where it may find a new owner."
+      ],
+      "budget": 10000000
+   },
+   "movielensId": 2686,
+   "movielens": {
+      "languages": [
+         "English",
+         "Français",
+         "Deutsch",
+         "Italiano",
+         "普通话",
+         "Español"
+      ],
+      "releaseDate": "1998-09-10",
+      "dvdReleaseDate": "1999-12-14",
+      "directors": ["François Girard"],
+      "runtime": 131,
+      "movieId": 2686,
+      "title": "The Red Violin",
+      "mpaa": "R",
+      "actors": [
+         "Carlo Cecchi",
+         "Irene Grazioli",
+         "Anita Laurenzi",
+         "Tommaso Puntelli",
+         "Samuele Amighetti",
+         "Jean-Luc Bideau",
+         "Aldo Brugnini",
+         "Christoph Koncz",
+         "Clotilde Mollet",
+         "Florentín Groll",
+         "Johannes Silberschneider",
+         "Rainer Egger",
+         "Paul Koeker",
+         "Wolfgang Böck",
+         "Josef Mairginter",
+         "Johan Gotsch",
+         "Geza Hosszu-Legocky",
+         "David Alberman",
+         "Arthur Denberg",
+         "Andrzej Matuszewiski",
+         "Jason Flemyng",
+         "Greta Scacchi",
+         "Eva Marie Bryer",
+         "Dimitri Andreas",
+         "David Gant",
+         "Sai-Kit Yung",
+         "Sylvia Chang",
+         "Zifeng Liu",
+         "Tao Hong",
+         "Xio Fei Han",
+         "Zheng Wei Tan",
+         "Zhi Qing Zhou",
+         "Zhi Qiao",
+         "Kun Qi Cao",
+         "Rei Yang",
+         "Lidou",
+         "Samuel L. Jackson",
+         "Colm Feore",
+         "Monique Mercure",
+         "Don McKellar",
+         "Ireneusz Bogajewicz",
+         "Julian Richings",
+         "Russell Yuen",
+         "Sandra Oh",
+         "Paula de Vasconcelos",
+         "Rémy Girard",
+         "Marie-Josée Gauthier",
+         "Dany Laferrière",
+         "Dorothée Berryman",
+         "David La Haye",
+         "Gregory Hlady",
+         "Herman Meckler",
+         "Sheena Macdonald",
+         "Jody Shapiro",
+         "James Bradford",
+         "Joshua Bell",
+         "Sylvia Stewart",
+         "Wang Xiaoshuai"
+      ],
+      "imdbMovieId": "0120802",
+      "originalTitle": "The Red Violin",
+      "genres": [
+         "Drama",
+         "Thriller",
+         "Mystery",
+         "Music",
+         "Romance"
+      ],
+      "youtubeTrailerIds": ["DhqgV4flGdE"],
+      "plotSummary": "Spans 300 years in the life of one famed musical instrument that winds up in present-day Montreal on the auction block. Crafted by the Italian master Bussotti (Cecchi) in 1681, the red violin derives its unusual color from the human blood mixed into the finish. With this legacy, the violin travels to Austria, England, China, and Canada, leaving both beauty and tragedy in its wake.",
+      "tmdbMovieId": 14283,
+      "avgRating": 3.87611,
+      "releaseYear": "1998",
+      "numRatings": 6966,
+      "posterPath": "/lh6EZuSSmGzaRgYuJeO7uSynQR4.jpg"
+   }
+}

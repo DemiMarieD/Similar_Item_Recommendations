@@ -1,0 +1,931 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "secret passage",
+            "id": 352
+         },
+         {
+            "name": "martial arts",
+            "id": 779
+         },
+         {
+            "name": "gold",
+            "id": 1321
+         },
+         {
+            "name": "treasure",
+            "id": 1454
+         },
+         {
+            "name": "temple",
+            "id": 1530
+         },
+         {
+            "name": "voodoo",
+            "id": 3392
+         },
+         {
+            "name": "wretch",
+            "id": 4391
+         },
+         {
+            "name": "treasure hunt",
+            "id": 6956
+         },
+         {
+            "name": "jungle",
+            "id": 10787
+         },
+         {
+            "name": "human sacrifice",
+            "id": 10864
+         },
+         {
+            "name": "soldier",
+            "id": 13065
+         },
+         {
+            "name": "drinking",
+            "id": 15111
+         },
+         {
+            "name": "central america",
+            "id": 15222
+         },
+         {
+            "name": "disguise",
+            "id": 18118
+         },
+         {
+            "name": "catfight",
+            "id": 18142
+         },
+         {
+            "name": "pretty woman",
+            "id": 156322
+         },
+         {
+            "name": "aztec indian",
+            "id": 156393
+         },
+         {
+            "name": "wisecrack humor",
+            "id": 162487
+         },
+         {
+            "name": "buddy comedy",
+            "id": 167541
+         },
+         {
+            "name": "bar fight",
+            "id": 188933
+         },
+         {
+            "name": "woman in peril",
+            "id": 209118
+         },
+         {
+            "name": "stranded in the desert",
+            "id": 227693
+         }
+      ],
+      "imdb_id": "tt0091055",
+      "video": false,
+      "title": "Firewalker",
+      "recommendations": [
+         16113,
+         14854,
+         20721,
+         24825,
+         38950,
+         32065,
+         15983,
+         27352,
+         12764,
+         18562,
+         17135,
+         21376,
+         27786,
+         115972,
+         42566,
+         11037,
+         122894,
+         36859,
+         26263,
+         97589
+      ],
+      "backdrop_path": "/59ua18FLA6MACrVT96ytcNrNN12.jpg",
+      "revenue": 11949484,
+      "reviews": [{
+         "author": "John Chard",
+         "id": "586a652cc3a3680f4e017b65",
+         "content": "Max, Leo and Fruitcake.\r\n\r\nOne of the many treasure seeking action adventure films that surfaced after Raiders of the Lost Ark reignited the flames in 81, Firewalker has a somewhat iffy reputation. Yet it's a glorious cheese sandwich of a movie, a ball of laughs and high energy jinks, a pic where Chuck Norris, Louis Gosset Jr. and Melody Anderson are having fun and not taking it as seriously as some film punters have.\r\n\r\nStandard rules apply here, two adventure seeking guys, very buddy buddy and playing off of each other with sarcasm and respect in equal measure, hook up with a sexy gal who has a treasure map - oh and she has a gift involving visions type of thing. Cue lots of scrapes, arguing, bit of romance, more peril, over the top bad guy (Sonny Landham) and a friend in need (an over the top John Rhys- Davies).\r\n\r\nIn this one we get to see some of Norris' martial arts skills, especially during an action packed bar-room brawl, while the intentional comedy hits the required part of the funny bone (a swimming sequence and the use of religious disguises are particularly fun packed). If you be so inclined then you can easily find problems and weaknesses in the production and technical aspects, but roll with it in the name of mindless entertainment and you can have a blast. I know I did. 7/10",
+         "url": "https://www.themoviedb.org/review/586a652cc3a3680f4e017b65"
+      }],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Max Donigan",
+               "gender": 2,
+               "credit_id": "52fe45199251416c7504bba9",
+               "name": "Chuck Norris",
+               "profile_path": "/v37EfVIoKV4ooy1KE5z8BxsT6wU.jpg",
+               "id": 51576,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Leo Porter",
+               "gender": 2,
+               "credit_id": "52fe45199251416c7504bbad",
+               "name": "Louis Gossett, Jr.",
+               "profile_path": "/ggWZg5ADOjhMLqfr9canl7gNTGD.jpg",
+               "id": 20959,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Patricia Goodwin",
+               "gender": 1,
+               "credit_id": "52fe45199251416c7504bbb1",
+               "name": "Melody Anderson",
+               "profile_path": "/g4vKuHiixuxZdTBnriU1fanjFMS.jpg",
+               "id": 33322,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Tall Eagle",
+               "gender": 2,
+               "credit_id": "52fe45199251416c7504bbb5",
+               "name": "Will Sampson",
+               "profile_path": "/qcufMVWjaK0jlcDkkUZ6Kawvj2l.jpg",
+               "id": 68301,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "El Coyote",
+               "gender": 2,
+               "credit_id": "52fe45199251416c7504bbb9",
+               "name": "Sonny Landham",
+               "profile_path": "/dmOpsfsz56FtcrQMfyiivmoEXXP.jpg",
+               "id": 1105,
+               "order": 4
+            },
+            {
+               "cast_id": 6,
+               "character": "Corky Taylor",
+               "gender": 2,
+               "credit_id": "52fe45199251416c7504bbbd",
+               "name": "John Rhys-Davies",
+               "profile_path": "/dvT1NPY8CXIVQh0O1h6rpfYOgKz.jpg",
+               "id": 655,
+               "order": 5
+            },
+            {
+               "cast_id": 7,
+               "character": "Boggs",
+               "gender": 2,
+               "credit_id": "52fe45199251416c7504bbc1",
+               "name": "Ian Abercrombie",
+               "profile_path": "/uywWX3MCmr9N2WFBcsInPzGFV4X.jpg",
+               "id": 11764,
+               "order": 6
+            },
+            {
+               "cast_id": 22,
+               "character": "Chinese Man / The General",
+               "gender": 0,
+               "credit_id": "578e9384c3a3685acb015212",
+               "name": "Richard Lee-Sung",
+               "profile_path": null,
+               "id": 61709,
+               "order": 7
+            },
+            {
+               "cast_id": 23,
+               "character": "Indian Girl",
+               "gender": 1,
+               "credit_id": "578e93a09251412ec20008ae",
+               "name": "Zaide Silvia Gutiérrez",
+               "profile_path": "/oe6TB7VKyAiYOdfHZJvXu08CBhL.jpg",
+               "id": 36635,
+               "order": 8
+            },
+            {
+               "cast_id": 24,
+               "character": "Willie",
+               "gender": 0,
+               "credit_id": "578e93bbc3a3686ecc00b584",
+               "name": "Álvaro Carcaño",
+               "profile_path": null,
+               "id": 104396,
+               "order": 9
+            },
+            {
+               "cast_id": 25,
+               "character": "Tubbs",
+               "gender": 2,
+               "credit_id": "578e93db925141183f006a0a",
+               "name": "John Hazelwood",
+               "profile_path": null,
+               "id": 1653294,
+               "order": 10
+            },
+            {
+               "cast_id": 26,
+               "character": "Co-Pilot",
+               "gender": 2,
+               "credit_id": "578e94099251413fa4015a8d",
+               "name": "José Escandón",
+               "profile_path": null,
+               "id": 1653295,
+               "order": 11
+            },
+            {
+               "cast_id": 36,
+               "character": "Guerilla Leader",
+               "gender": 0,
+               "credit_id": "5a0474f7c3a3680fe7013e37",
+               "name": "Mário Arévalo",
+               "profile_path": null,
+               "id": 1076589,
+               "order": 12
+            },
+            {
+               "cast_id": 37,
+               "character": "Big Man",
+               "gender": 2,
+               "credit_id": "5a04755a9251412e0d014ae5",
+               "name": "Miguel Ángel Fuentes",
+               "profile_path": "/5vK6pOHpavXyP7AGlUREnSK4r40.jpg",
+               "id": 57380,
+               "order": 13
+            },
+            {
+               "cast_id": 38,
+               "character": "Jose",
+               "gender": 2,
+               "credit_id": "5a0475ce9251412dc1015455",
+               "name": "Robert Wall",
+               "profile_path": "/lsffFZ7zG2PkLMAOSv1PyYrYr0v.jpg",
+               "id": 131170,
+               "order": 14
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe45199251416c7504bbc7",
+               "name": "Robert Gosnell",
+               "profile_path": null,
+               "id": 73766,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe45199251416c7504bbcd",
+               "name": "Norman Aladjem",
+               "profile_path": null,
+               "id": 73765,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe45199251416c7504bbd9",
+               "name": "Yoram Globus",
+               "profile_path": "/bKbeXNvErtCQiK3pEEnFgmR9cvo.jpg",
+               "id": 33009,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe45199251416c7504bbdf",
+               "name": "Menahem Golan",
+               "profile_path": "/qGtHMLd4E7tRyw75H4lWTRelW7B.jpg",
+               "id": 33008,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe45199251416c7504bbe5",
+               "name": "Jeffrey M. Rosenbaum",
+               "profile_path": null,
+               "id": 73768,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe45199251416c7504bbeb",
+               "name": "Gary Chang",
+               "profile_path": null,
+               "id": 40438,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe45199251416c7504bbf7",
+               "name": "Richard Marks",
+               "profile_path": null,
+               "id": 3175,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe451a9251416c7504bc09",
+               "name": "J. Lee Thompson",
+               "profile_path": "/cVHgJwHOh4j7q1tn3vQEcopblrJ.jpg",
+               "id": 18669,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "571396b7c3a368412200c679",
+               "name": "Álex Phillips Jr.",
+               "profile_path": null,
+               "id": 1020068,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "578ea2439251413fa40160e0",
+               "name": "Robert MacDonald",
+               "profile_path": null,
+               "id": 33144,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "578e9774c3a3681748006d58",
+               "name": "Norman Aladjem",
+               "profile_path": null,
+               "id": 73765,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "578e978f9251413fa4015bf7",
+               "name": "Jeffrey M. Rosenbaum",
+               "profile_path": null,
+               "id": 73768,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "578e97bd9251412e96000a94",
+               "name": "Robert Gosnell",
+               "profile_path": null,
+               "id": 73766,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "578e980fc3a36817960064df",
+               "name": "Carlos Gil",
+               "profile_path": "/rZDrKcBybzscxJ1Fn9PD0mZAKFg.jpg",
+               "id": 73769,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "578ea27cc3a3681748007227",
+               "name": "José Rodríguez Granada",
+               "profile_path": null,
+               "id": 12886,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "578ea29ec3a36806eb000f01",
+               "name": "Kleomenes Stamatiades",
+               "profile_path": null,
+               "id": 1618492,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 1,
+               "credit_id": "578ea2d3c3a3682bb201d661",
+               "name": "Poppy Cannon-Reese",
+               "profile_path": null,
+               "id": 1653318,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "578ea3699251410848010aa7",
+               "name": "Pablo Buelna",
+               "profile_path": null,
+               "id": 1475843,
+               "department": "Production",
+               "job": "Unit Production Manager"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5a0476d69251412dc10155d6",
+               "name": "Agripina Lozada",
+               "profile_path": null,
+               "id": 1697366,
+               "department": "Costume & Make-Up",
+               "job": "Key Hair Stylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a0477d0c3a3680f7d016af8",
+               "name": "Russ Harling",
+               "profile_path": null,
+               "id": 1920582,
+               "department": "Directing",
+               "job": "First Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a04780cc3a3680f7d016b3d",
+               "name": "Alfonso Godínez",
+               "profile_path": null,
+               "id": 1391104,
+               "department": "Art",
+               "job": "Property Master"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a04784d9251412e1a014636",
+               "name": "Martin J. Bram",
+               "profile_path": null,
+               "id": 66809,
+               "department": "Sound",
+               "job": "Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a0478759251412dc50159ed",
+               "name": "Barney Cabral",
+               "profile_path": null,
+               "id": 1372880,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a04788dc3a3680fc1013a45",
+               "name": "Larry Carow",
+               "profile_path": null,
+               "id": 1920583,
+               "department": "Sound",
+               "job": "Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a0478b29251412de2012c11",
+               "name": "Zack Davis",
+               "profile_path": null,
+               "id": 1404841,
+               "department": "Sound",
+               "job": "Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a047938c3a3680f94013dcf",
+               "name": "Don Digirolamo",
+               "profile_path": null,
+               "id": 1397310,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a0479789251412e28014d5d",
+               "name": "Mike Dobie",
+               "profile_path": null,
+               "id": 1710247,
+               "department": "Sound",
+               "job": "Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a0479f2c3a3680fd401351f",
+               "name": "Stanley B. Gill",
+               "profile_path": null,
+               "id": 1411687,
+               "department": "Sound",
+               "job": "Sound Recordist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a047a299251412de2012df1",
+               "name": "Robert Glass",
+               "profile_path": null,
+               "id": 1104829,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a047a9ec3a3680f7d016ee6",
+               "name": "Mark Hollingsworth",
+               "profile_path": null,
+               "id": 1920588,
+               "department": "Sound",
+               "job": "Sound Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a047b1b9251412e28014f6b",
+               "name": "Jerry Jacobson",
+               "profile_path": null,
+               "id": 1545463,
+               "department": "Sound",
+               "job": "ADR Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a047c049251412e0d0153ed",
+               "name": "Robert Knudson",
+               "profile_path": null,
+               "id": 1052766,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a047c86c3a3680f7d01722c",
+               "name": "Gary Mundheim",
+               "profile_path": null,
+               "id": 1390525,
+               "department": "Sound",
+               "job": "Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a047ca99251412dc5016083",
+               "name": "Chuck Neely",
+               "profile_path": null,
+               "id": 1456479,
+               "department": "Sound",
+               "job": "Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a047ce79251412df801501d",
+               "name": "Bruce Stambler",
+               "profile_path": null,
+               "id": 1115736,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a047d179251412e1a014d22",
+               "name": "Fred Wasser",
+               "profile_path": null,
+               "id": 1808568,
+               "department": "Sound",
+               "job": "Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a047d40c3a3680fc10140c8",
+               "name": "Michael D. Wilhoit",
+               "profile_path": null,
+               "id": 1417972,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a047d6ec3a3680fc1014107",
+               "name": "Reyes Abades",
+               "profile_path": null,
+               "id": 16989,
+               "department": "Visual Effects",
+               "job": "Special Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a047d979251412df80150df",
+               "name": "Sergio Jara",
+               "profile_path": null,
+               "id": 1760138,
+               "department": "Crew",
+               "job": "Special Effects Coordinator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a047dc99251412e1a014e06",
+               "name": "Aaron Norris",
+               "profile_path": "/mVLP6tlo4XFufHvuXxz1IrWdUBx.jpg",
+               "id": 51572,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a047dfa9251412dc1015f7c",
+               "name": "Donaciano De Anda",
+               "profile_path": null,
+               "id": 1920596,
+               "department": "Lighting",
+               "job": "Gaffer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a047e1ac3a3680f6c016c68",
+               "name": "Gerardo Flores",
+               "profile_path": null,
+               "id": 1520619,
+               "department": "Camera",
+               "job": "First Assistant Camera"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a047e359251412df80151b5",
+               "name": "Juan Luna Gómez",
+               "profile_path": null,
+               "id": 1920597,
+               "department": "Camera",
+               "job": "Key Grip"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a047e47c3a3680fd4013ad0",
+               "name": "Manuel Jiminez",
+               "profile_path": null,
+               "id": 1920599,
+               "department": "Camera",
+               "job": "First Assistant Camera"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a047f499251412e1a015015",
+               "name": "Alfredo Ruvalcaba",
+               "profile_path": null,
+               "id": 1877141,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a047f70c3a3680f7d0176fb",
+               "name": "Salvador 'Apache' Serrano",
+               "profile_path": null,
+               "id": 1920601,
+               "department": "Camera",
+               "job": "Dolly Grip"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a047fe0c3a3680fc101448f",
+               "name": "Mary E. Jochem",
+               "profile_path": null,
+               "id": 1096223,
+               "department": "Editing",
+               "job": "First Assistant Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a0480119251412df80154e4",
+               "name": "Grace Valenti",
+               "profile_path": null,
+               "id": 1920604,
+               "department": "Editing",
+               "job": "First Assistant Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a0480339251412e1a0151a9",
+               "name": "Ted Whitfield",
+               "profile_path": null,
+               "id": 1637593,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a04805f9251412de20136bd",
+               "name": "Wenden K. Baldwin",
+               "profile_path": null,
+               "id": 1121599,
+               "department": "Art",
+               "job": "Title Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a048083c3a3680fc10145bb",
+               "name": "Karin Cooper",
+               "profile_path": null,
+               "id": 1631829,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a0480abc3a3680fa70155fa",
+               "name": "Enid L. Kantor",
+               "profile_path": null,
+               "id": 1857117,
+               "department": "Production",
+               "job": "Production Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a0480c89251412de201378a",
+               "name": "Kyle Seidenbaum",
+               "profile_path": null,
+               "id": 1766421,
+               "department": "Art",
+               "job": "Title Designer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Adventure",
+            "id": 12
+         },
+         {
+            "name": "Comedy",
+            "id": 35
+         }
+      ],
+      "popularity": 3.976622,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 12715,
+      "vote_count": 55,
+      "budget": 0,
+      "overview": "A pair of adventurers try to track down an ancient Aztec/Mayan/Egyptian/Apache horde of gold.",
+      "similar": [
+         6637,
+         9326,
+         2059,
+         85,
+         34851,
+         217,
+         605,
+         792,
+         604,
+         1995,
+         9502,
+         24,
+         87,
+         89,
+         1996,
+         17578,
+         140300,
+         682,
+         55292,
+         6415
+      ],
+      "original_title": "Firewalker",
+      "runtime": 104,
+      "poster_path": "/v8DC9qUY6KNF4tqYq7agbwFqR78.jpg",
+      "spoken_languages": [
+         {
+            "name": "Magyar",
+            "iso_639_1": "hu"
+         },
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Golan-Globus Productions",
+            "id": 13549,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/5jvFLUVXGXxkyszL9cqJN5hNhJ6.png",
+            "name": "Cannon Group",
+            "id": 1444,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1986-11-21",
+      "vote_average": 5,
+      "belongs_to_collection": null,
+      "tagline": "A pair of down-and-out fortune hunters cash in on high adventure!",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["J. Lee Thompson"],
+      "runtime": 104,
+      "synopsis": null,
+      "writers": [
+         "Robert Gosnell",
+         "Jeffrey M. Rosenbaum"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0091055/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTgxODA5NTIwN15BMl5BanBnXkFtZTcwMjMzNjcyMQ@@._V1_SY317_CR9,0,214,317_AL_.jpg",
+      "actors": ["Stars: Chuck Norris, Louis Gossett Jr., Melody Anderson | See full cast and crew »"],
+      "reviews": [
+         "I personally love this movie. I think the interaction between Norris and Gossett is hilarious. Quite a few of the fight scenes are really funny, while still showing good action. One of the best things about this movie is that Chuck Norris isn't perfect in it. His character fights very well, {the karate sequences are excellent} but he can't hit the broad side of a barn with a gun, and isn't particularly bright. For those that hadn't figured it out, this is intentional. I found the imperfect Chuck to be a delightful part of this movie. I thought it was a great spoof of the treasure hunter movies. and it's tongue in cheek approach was very refreshing.",
+         "Here I come, knight in shining armour, to rescue you, Firewalker!! I don't see why so many people gave it not only low rating but also very negative reviews. On the other hand, maybe after reading this review many people might think that I am an utterly hopeless... person (but I doubt that I am if I may say so myself ;-) I virtually love this film! I even baught it on VHS!! So there! ;-D Yes it is most certainly some kind of Indiana Jones story, but hey?! How many of you out there who love the I.J. movies do not think that there are far too little such movies ever made, the true adventure stories in an undiscovered world! Next thing is that this movie is certainly not trying to be better than I.J. because it is quite clear it can never be, but what it does is open its own realm so it can co-exist with whatever you want to compare it to. Anyway, I think Norris acting is rather bad and clumsy. He plays like a frozen brick (unless its in the fighting scenes). Louie... I think he gives the movie what it deserves. But what I just did is something you shouldn't really do with this movie - look at each actor at a time. Because both actors form a greater whole than what they individually could create! They are a real acting team in some way, both are somewhat lost in the world, they don't seem to really belong in that adventure business, they should have rather stayed at home and become park rangers of the smallest parks they could find... but since they didn't: all what they are, do and represent turns into some kind of comical base for the movie. What is comedy? Mostly that you find something in a place where you wouldn't expect it! That is the case with those two dorks out there in the jungle! They don't even know how to fire a pistol but they do it anyway! This movie is in a way innocent and easy going. It is not so much about having a mission and being unbeatable and hard as iron on your way to your goal. It is rather about not being sure how, but going there anyway without even really being prepared for it so to speak. No, for gods sake, don't take it seriously, just turn off your sensors and let it fill your brain with all the nonsense, the many very nice humourous scenes, the sometimes flat but charming dialog, the playfulness and the situations where the heroes are in trouble but where you know they're gonna make it eventho they are a bit stupid but they manage anyway because they just hang on and have a bit of luck (which they definatly need). This is a very easy going, fun and entertaining movie. Rip-off or not, it has it's very own style, pace, and most certainly a LOTTTT of charm!",
+         "I have to say that I thought \"Firewalker\" was one of Chuck Norris's best films. I know many don't agree with me on that, especially my movie critic partner, Bryan, but truly, if you look past the cheesiness at some times, the movie was quite entertaining. It's actually one of my favorites too. I guess I could never explain thoroughly as to why I think that it's a great movie, but maybe being a Chuck Norris fan is one. The movie is no longer in print, so the only way to see it, is by renting it at a movie store. I actually got lucky enough to find a copy of it at Best Buy about 4 years ago. If you haven't yet seen it, I suggest renting it and seeing for yourself.",
+         "I actually think this movie is Norris's best effort to date. I enjoyed it. The interplay between him and Gossett was good stuff and it didn't have much of the martial arts nonsense I hate so much. I give it a 9 out of 10. I liked the story and to me, Chuck was funny. He's a far better actor than Seagal, but then, who isn't? It's kind of a pity Chuck didn't continue along the lines of this movie and went in other directions. None of which, in my opinion, were as entertaining. As a rule, I never watch any movies made by Martial arts people turned \"actors\" but I made an exception for this one and was pleasantly surprised. Not a classic by any means, but worth watching.",
+         "...of running a Jeep into a huge water-hole in the middle of the desert?I don't know, but Chuck Norris did in this surprisingly funny flick. It seems people either like it or hate it. Granted, it's no classic, but it is funny (not hilarious) and the whole family can watch it together. It has some pretty good gags (like our two heroes dressed up in priestly frocks) and one liners (\"You'll still be bald\"). It's a good example of efficient 80's film making. Don't expect a bloated CGI filled Speilberg epic. Firewalker is just plain fun.",
+         "No matter how bad a movie may be to most people someone is going to like it, and I like this one. Not the greatest film ever made by a long shot, for me it has a certain charm to it. I think Chuck Norris and Louis Gossett Jr both do great jobs and work well and complement each other. The story has them going after a bunch of gold. Along the way they run into many obstacles. This movie for me has a nice combination of action and humor, and it is definitely more fun if you don't take it too seriously. Despite the fact it is rated so low though I saw it is worth a look...but you may want to read the other reviews here first.",
+         "The special effects for this one are (what can I say?) missing, but the story-line is interesting, and the cast obviously had fun making this film. The problem most viewers would have with this is that it's not a karate flick (sorry). No, this one is an adventure comedy. As for not being Abbott and Costello, nobody but the incomparable Bud Abbott and Lou Costello could be. What we have here are reluctant, but trusting, partners. This story revolves around a long-lost mythical treasure (Romancing the Stone?), guarded by a demigod with supernatural powers (Jewel of the Nile?). Take the kids and have a good time.",
+         "This is great cheesy fun at it's best!, Chuck Norris,Louis Gossett Jr. and Melody Anderson were all fantastic in this!. I can't believe this only has a 4.0 rating on IMDb i found it to be a great film,with awesome characters, and a great cast, plus Norris and Gossett Jr. Had excellent chemistry together!. Yes it's somewhat of a Raiders Of The Lost Ark rip off, however it also has it's own ideas, and it has lots of funny moments, plus the ending was hilarious. The finale is pretty exciting, and it had some cool dialog, plus Chuck Norris and Louis Gossett Jr. were simply amazing in this. Critics panned this, however i don't see why, it's exciting, funny has a great cast, and great performances, just turn your brain off while viewing it!. It's very well made, and it will never bore you not 1 minute of it, plus the opening was very cool. This is great cheesy fun at it's best, Chuck Norris, Louis Gossett Jr. and Melody Anderson were all fantastic, i highly recommend this one!. The Direction is very good. J. lee Thompson does a very good job here, with great camera work, great angles, and keeping the film at an exciting pace!. The Acting is awesome!. Chuck Norris is AMAZING as always, and is amazing here, he is extremely likable, hilarious, had awesome chemistry with Gossett Jr. and Anderson, and was surprisingly suited to this role! (Norris Rules!). Louis Gossett Jr.is also AMAZING as always, he is very funny, had awesome chemistry with Norris seemed to be enjoying himself, and was perfect for this part! (Gossett rules!). Melody Anderson is fantastic here, she is stunningly gorgeous funny, had good chemistry with Norris, and played her role extremely well!, where is she now?. Sonny Landham is decent as the main villain, and was somewhat menacing at times i guess. Will Sampson is good in his small role. John Rhys-Davies is also good in his small role and seemed to be having a ball. Rest of the cast are OK. Overall i highly recommend this one!. ***1/2 out of 5",
+         "\"Firewalker\" is more than a bit of a mess. Like most movies from the Cannon studio, it's not low budget enough to dip into Ed Wood land, but not well done enough to rise to a major studio production. The sets are cheap and the story is not much more than a vaguely connected series of scenes referencing better films--but I think the filmmakers were well aware of these and other shortcomings and set a self effacing, tongue in cheek tone from the start. Though as sloppy and slapdash as most of director J. Lee Thompson's other 80's efforts, \"Firewalker\" shows Thompson turning these attributes to his advantage and giving us a breezy, goofy, self-aware-yet-totally-clueless, low budget pop culture gem. I don't think anyone was under the impression that they were making the next \"Raiders of the Lost Ark,\" they just wanted to give us some old fashioned fun. I mean, an Academy Award winner costarring with CHUCK NORRIS? How could it not be great in its own way? And while we're on the subject, this is one of the few films where you couldn't call Norris \"Old Stone Face.\" In this film Chuck gives one of his liveliest, most natural performances ever--almost charming. Too bad he didn't work with Thompson more often.",
+         "I just got a kick out of the Firewalker movie. I enjoyed the comedy very much as well as Chuck Norris's fights. I also enjoyed the roles played by Louis Gossett, Jr. and Melody Anderson. The adventures of those three were very impressive as well as the variety of rolls played by them. I also got a kick out of the rolls played by Will Sampson as well as John Rhys-Davies. I enjoyed Chuck Norris's role in that movie much more than some of the very serious roles that he has played in many other movies. I purchased that movie on a DVD a relatively short time ago and have enjoyed it so much that I've watched it many times. I also have a couple of Chuck Norris's other movies on DVDs but did not enjoy them nearly as much as Firewalker."
+      ],
+      "genres": [
+         "Action",
+         "Adventure",
+         "Comedy"
+      ],
+      "productionCompanies": [
+         "Cannon Group",
+         "Golan-Globus Productions"
+      ],
+      "summaries": [
+         "Max Donigan sets off on a treasure hunt with his friend Leo and newly-acquired partner Patricia, who provided the treasure map. Along the way they encounter a few bar fights, evil \"coyotes\", and other obstacles they are able to overcome with ease. When they find the temple with the treasure, they also find the Firewalker, who wants to retain the power of his ancestors and put an end to the trio's treasure hunt. In the end, Max and his two friends persevere and return home wealthy.",
+         "A pair of adventurers try to track down an ancient Aztec/Mayan/Egyptian/Apache hoard of gold."
+      ],
+      "budget": 0
+   },
+   "movielensId": 2477,
+   "movielens": {
+      "languages": [
+         "Magyar",
+         "English"
+      ],
+      "releaseDate": "1986-11-21",
+      "dvdReleaseDate": "2005-03-22",
+      "directors": ["J. Lee Thompson"],
+      "runtime": 104,
+      "movieId": 2477,
+      "title": "Firewalker",
+      "mpaa": "PG",
+      "actors": [
+         "Chuck Norris",
+         "Louis Gossett",
+         " Jr.",
+         "Melody Anderson",
+         "Will Sampson",
+         "Sonny Landham",
+         "John Rhys-Davies",
+         "Ian Abercrombie",
+         "Richard Lee-Sung",
+         "Zaide Silvia Gutiérrez",
+         "Álvaro Carcaño",
+         "John Hazelwood",
+         "José Escandón",
+         "Mário Arévalo",
+         "Miguel Ángel Fuentes",
+         "Robert Wall"
+      ],
+      "imdbMovieId": "0091055",
+      "originalTitle": "Firewalker",
+      "genres": [
+         "Action",
+         "Adventure",
+         "Comedy"
+      ],
+      "youtubeTrailerIds": [
+         "P6RfBo0me4E",
+         "wLQoGdpXGaQ"
+      ],
+      "plotSummary": "A pair of adventurers try to track down an ancient Aztec/Mayan/Egyptian/Apache horde of gold.",
+      "tmdbMovieId": 12715,
+      "avgRating": 2.44729,
+      "releaseYear": "1986",
+      "numRatings": 332,
+      "posterPath": "/v8DC9qUY6KNF4tqYq7agbwFqR78.jpg"
+   }
+}

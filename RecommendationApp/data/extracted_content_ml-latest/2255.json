@@ -1,0 +1,902 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "drama",
+            "id": 8029
+         },
+         {
+            "name": "parody",
+            "id": 9755
+         },
+         {
+            "name": "cult comedy",
+            "id": 9808
+         },
+         {
+            "name": "spoof",
+            "id": 11931
+         },
+         {
+            "name": "medical",
+            "id": 13004
+         },
+         {
+            "name": "screwball comedy",
+            "id": 155457
+         },
+         {
+            "name": "physical comedy",
+            "id": 161823
+         },
+         {
+            "name": "soap opera",
+            "id": 168622
+         },
+         {
+            "name": "sex comedy",
+            "id": 170827
+         }
+      ],
+      "imdb_id": "tt0084938",
+      "video": false,
+      "title": "Young Doctors in Love",
+      "recommendations": [
+         18446,
+         44941,
+         55492,
+         29610,
+         15313,
+         26200,
+         41480,
+         911,
+         28001,
+         42176,
+         32450,
+         42010,
+         56120,
+         65997,
+         32221,
+         25269,
+         117342,
+         63945,
+         41243,
+         44801
+      ],
+      "backdrop_path": "/4BTMt3fIzvBPvfyNOedYSeEK8QN.jpg",
+      "revenue": 30688860,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 3,
+               "character": "Dr. Simon August",
+               "gender": 2,
+               "credit_id": "52fe4750c3a36847f812eb5b",
+               "name": "Michael McKean",
+               "profile_path": "/iVcsvBb15nep7TZ07MlJFcxMzvD.jpg",
+               "id": 21731,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Dr. Stephanie Brody",
+               "gender": 1,
+               "credit_id": "52fe4750c3a36847f812eb57",
+               "name": "Sean Young",
+               "profile_path": "/4zgkRFQruIlaJ4JakNZLoKJ70fH.jpg",
+               "id": 586,
+               "order": 1
+            },
+            {
+               "cast_id": 17,
+               "character": "Angelo / Angela Bonafetti",
+               "gender": 2,
+               "credit_id": "54f92cda9251414b65000914",
+               "name": "Héctor Elizondo",
+               "profile_path": "/48UNfVFZVr0jyMIlLPhzm8IIM7f.jpg",
+               "id": 1210,
+               "order": 2
+            },
+            {
+               "cast_id": 8,
+               "character": "Dr. Oliver Ludwig",
+               "gender": 2,
+               "credit_id": "52fe4750c3a36847f812eb6f",
+               "name": "Harry Dean Stanton",
+               "profile_path": "/fkl5iJYpKxSFGixyvAsBpLdDmqN.jpg",
+               "id": 5048,
+               "order": 3
+            },
+            {
+               "cast_id": 26,
+               "character": "Jacob",
+               "gender": 2,
+               "credit_id": "558fc2a89251416489001f7a",
+               "name": "Patrick Macnee",
+               "profile_path": "/i7olaWWHDaOIou49JMSkykl8nWt.jpg",
+               "id": 10662,
+               "order": 4
+            },
+            {
+               "cast_id": 12,
+               "character": "Dr. Joseph Prang",
+               "gender": 2,
+               "credit_id": "52fe4750c3a36847f812eb7f",
+               "name": "Dabney Coleman",
+               "profile_path": "/95I1LdB2PS2RcAL4mqUzAmJWI5x.jpg",
+               "id": 12850,
+               "order": 5
+            },
+            {
+               "cast_id": 4,
+               "character": "Dr. Charles Litto",
+               "gender": 2,
+               "credit_id": "52fe4750c3a36847f812eb5f",
+               "name": "Kyle T. Heffner",
+               "profile_path": "/9c8G4diZ3Nr8jClTANqMOwmTN9z.jpg",
+               "id": 31115,
+               "order": 6
+            },
+            {
+               "cast_id": 5,
+               "character": "Dr. Thurman Flicker",
+               "gender": 2,
+               "credit_id": "52fe4750c3a36847f812eb63",
+               "name": "Rick Overton",
+               "profile_path": "/584g2eLl6ZmZ71ikvGw5tyqEv1p.jpg",
+               "id": 1539,
+               "order": 7
+            },
+            {
+               "cast_id": 6,
+               "character": "Dr. Bucky DeVol",
+               "gender": 2,
+               "credit_id": "52fe4750c3a36847f812eb67",
+               "name": "Ted McGinley",
+               "profile_path": "/4a87REVZvPgTuM1WW8Sz1uzbai8.jpg",
+               "id": 18982,
+               "order": 8
+            },
+            {
+               "cast_id": 7,
+               "character": "Floyd Kurtzman",
+               "gender": 2,
+               "credit_id": "52fe4750c3a36847f812eb6b",
+               "name": "Saul Rubinek",
+               "profile_path": "/1gsXmCmJIegqK0U8dwLz005UM0.jpg",
+               "id": 3712,
+               "order": 9
+            },
+            {
+               "cast_id": 9,
+               "character": "Nurse Norine Sprockett",
+               "gender": 1,
+               "credit_id": "52fe4750c3a36847f812eb73",
+               "name": "Pamela Reed",
+               "profile_path": "/lJgMi6Y4OvB8ZTpopFmJ3Efe5Sq.jpg",
+               "id": 14699,
+               "order": 10
+            },
+            {
+               "cast_id": 10,
+               "character": "Dr. Phil Burns",
+               "gender": 2,
+               "credit_id": "52fe4750c3a36847f812eb77",
+               "name": "Taylor Negron",
+               "profile_path": "/l641HJtE8WSjWAJGHAer5Hx89SG.jpg",
+               "id": 37043,
+               "order": 11
+            },
+            {
+               "cast_id": 11,
+               "character": "Dr. Walter Rist",
+               "gender": 2,
+               "credit_id": "52fe4750c3a36847f812eb7b",
+               "name": "Patrick Collins",
+               "profile_path": null,
+               "id": 4891,
+               "order": 12
+            },
+            {
+               "cast_id": 13,
+               "character": "Malamud Callahan",
+               "gender": 2,
+               "credit_id": "52fe4750c3a36847f812eb83",
+               "name": "Michael Richards",
+               "profile_path": "/fhUgS8p7YBSwDNEFb7WO0jdItBx.jpg",
+               "id": 50807,
+               "order": 13
+            },
+            {
+               "cast_id": 16,
+               "character": "Julie",
+               "gender": 0,
+               "credit_id": "52fe4750c3a36847f812eb93",
+               "name": "Crystal Bernard",
+               "profile_path": "/puAY1Aam0AtZyC8lH9BppzJQO4.jpg",
+               "id": 1226789,
+               "order": 14
+            },
+            {
+               "cast_id": 25,
+               "character": "Dr. Milton Chamberlain",
+               "gender": 2,
+               "credit_id": "558fc27492514122ae0008f0",
+               "name": "Gary Friedkin",
+               "profile_path": null,
+               "id": 182851,
+               "order": 15
+            },
+            {
+               "cast_id": 27,
+               "character": "Sal Bonafetti",
+               "gender": 0,
+               "credit_id": "558fc31292514122ae0008fa",
+               "name": "Titos Vandis",
+               "profile_path": "/LXcP5GMuCeOcNdxOVMlExUXqrg.jpg",
+               "id": 140177,
+               "order": 16
+            },
+            {
+               "cast_id": 28,
+               "character": "",
+               "gender": 2,
+               "credit_id": "558fc359c3a3684349002e67",
+               "name": "Paul Stanley",
+               "profile_path": "/5lAqU8Xn00CV8q9VBrESiNH7S00.jpg",
+               "id": 123255,
+               "order": 17
+            },
+            {
+               "cast_id": 29,
+               "character": "Drug dealer",
+               "gender": 2,
+               "credit_id": "558fc36692514129630008f0",
+               "name": "Richard Dean Anderson",
+               "profile_path": "/w9Wi0OUEFGy9vMUpiZjj9GLzpag.jpg",
+               "id": 26085,
+               "order": 18
+            },
+            {
+               "cast_id": 30,
+               "character": "New intern",
+               "gender": 1,
+               "credit_id": "558fc37c925141600300058e",
+               "name": "Demi Moore",
+               "profile_path": "/eLNoOYnxvhpV0BMSkNNnyyo5In7.jpg",
+               "id": 3416,
+               "order": 19
+            },
+            {
+               "cast_id": 31,
+               "character": "Paul Stanley",
+               "gender": 2,
+               "credit_id": "558fc387c3a3687bdb008055",
+               "name": "Paul Stanley",
+               "profile_path": "/5lAqU8Xn00CV8q9VBrESiNH7S00.jpg",
+               "id": 123255,
+               "order": 20
+            },
+            {
+               "cast_id": 32,
+               "character": "Susan Lucci",
+               "gender": 1,
+               "credit_id": "558fc397c3a368686d0056e5",
+               "name": "Susan Lucci",
+               "profile_path": "/2NCJz4Ci56MM4G5gFNp9x504ZGs.jpg",
+               "id": 194477,
+               "order": 21
+            },
+            {
+               "cast_id": 33,
+               "character": "Girl with broken nose",
+               "gender": 1,
+               "credit_id": "558fc3abc3a3687bdb00805c",
+               "name": "Cynthia Geary",
+               "profile_path": "/6ovufvSpcZD3Et7vBjzJJG9UzWR.jpg",
+               "id": 162945,
+               "order": 22
+            },
+            {
+               "cast_id": 34,
+               "character": "",
+               "gender": 1,
+               "credit_id": "558fc3b792514122ae000907",
+               "name": "Monique Gabrielle",
+               "profile_path": "/jIlS9UmmvOoX2Pu0MWPHX05LQrB.jpg",
+               "id": 44995,
+               "order": 23
+            },
+            {
+               "cast_id": 35,
+               "character": "",
+               "gender": 0,
+               "credit_id": "558fc3bd9251416489001f98",
+               "name": "John E. Coleman",
+               "profile_path": null,
+               "id": 1056193,
+               "order": 24
+            },
+            {
+               "cast_id": 36,
+               "character": "The Nurses - Chang",
+               "gender": 1,
+               "credit_id": "558fc3d392514145080006b1",
+               "name": "Haunani Minn",
+               "profile_path": null,
+               "id": 158684,
+               "order": 25
+            },
+            {
+               "cast_id": 37,
+               "character": "The Nurses - Perez",
+               "gender": 1,
+               "credit_id": "558fc3ddc3a3684349002e73",
+               "name": "Becky Gonzalez",
+               "profile_path": null,
+               "id": 198996,
+               "order": 26
+            },
+            {
+               "cast_id": 38,
+               "character": "The Nurses - Thatcher",
+               "gender": 0,
+               "credit_id": "558fc3eec3a368686d0056ec",
+               "name": "Lynne Marie Stewart",
+               "profile_path": "/bcu1p1ul7Fyds9sZdkYQsmmMRVD.jpg",
+               "id": 1232417,
+               "order": 27
+            },
+            {
+               "cast_id": 39,
+               "character": "The Candystripers - Bunny",
+               "gender": 1,
+               "credit_id": "558fc3fcc3a3685d4500258f",
+               "name": "Toni Hudson",
+               "profile_path": null,
+               "id": 91726,
+               "order": 28
+            },
+            {
+               "cast_id": 40,
+               "character": "The Gangsters - Rocco",
+               "gender": 2,
+               "credit_id": "558fc40f9251416489001fa6",
+               "name": "Frank Pesce",
+               "profile_path": "/qkMpNT7rJj8offjNuv5OZ0VeUVQ.jpg",
+               "id": 101615,
+               "order": 29
+            },
+            {
+               "cast_id": 41,
+               "character": "The Gangsters - Jerry",
+               "gender": 2,
+               "credit_id": "558fc419c3a3685d45002592",
+               "name": "Nicholas Mele",
+               "profile_path": "/wI1YLddYXotk9JZiFr2aj3ShjoJ.jpg",
+               "id": 87112,
+               "order": 30
+            },
+            {
+               "cast_id": 42,
+               "character": "",
+               "gender": 2,
+               "credit_id": "558fc42ac3a36824710008c4",
+               "name": "Michael Damian",
+               "profile_path": "/k9sGJ4SfMbUwHlhKVz9p6YHiNCD.jpg",
+               "id": 62081,
+               "order": 31
+            },
+            {
+               "cast_id": 43,
+               "character": "",
+               "gender": 2,
+               "credit_id": "558fc4319251416489001fa9",
+               "name": "Steven Ford",
+               "profile_path": "/iw8CUyekmYkGwmg0bp7foY4KvrH.jpg",
+               "id": 9258,
+               "order": 32
+            },
+            {
+               "cast_id": 44,
+               "character": "",
+               "gender": 2,
+               "credit_id": "558fc4429251412c4300076d",
+               "name": "Stuart Damon",
+               "profile_path": "/14dUnVQ7Ne5CWe6Gu07qlVhbRHw.jpg",
+               "id": 159142,
+               "order": 33
+            },
+            {
+               "cast_id": 45,
+               "character": "",
+               "gender": 1,
+               "credit_id": "558fc44a92514122ae000916",
+               "name": "Jaime Lyn Bauer",
+               "profile_path": "/w0GZXkHgErqwz5KGUucRbtlSvyb.jpg",
+               "id": 99838,
+               "order": 34
+            },
+            {
+               "cast_id": 46,
+               "character": "",
+               "gender": 2,
+               "credit_id": "558fc452c3a3685d4500259c",
+               "name": "Tom Ligon",
+               "profile_path": "/A4os0TvbKSWcnhrCjroPdPGlqv3.jpg",
+               "id": 163548,
+               "order": 35
+            },
+            {
+               "cast_id": 47,
+               "character": "",
+               "gender": 2,
+               "credit_id": "558fc458c3a3685cf900251d",
+               "name": "Kin Shriner",
+               "profile_path": "/zakNLDtPLEwTgYmymvPUVe20rnF.jpg",
+               "id": 70422,
+               "order": 36
+            },
+            {
+               "cast_id": 48,
+               "character": "",
+               "gender": 1,
+               "credit_id": "558fc45ec3a3687bdb00806c",
+               "name": "Janine Turner",
+               "profile_path": "/52pvn7fi9siuBGwntyklTHpHxCI.jpg",
+               "id": 51580,
+               "order": 37
+            },
+            {
+               "cast_id": 49,
+               "character": "",
+               "gender": 1,
+               "credit_id": "558fc465925141338e0006b6",
+               "name": "Jacklyn Zeman",
+               "profile_path": "/1yUPMsoeDOLjwMbfLopTr24paPS.jpg",
+               "id": 107073,
+               "order": 38
+            },
+            {
+               "cast_id": 50,
+               "character": "The Cops - Emilia",
+               "gender": 0,
+               "credit_id": "558fc47e92514122ae00091c",
+               "name": "Diane Markoff",
+               "profile_path": null,
+               "id": 166064,
+               "order": 39
+            },
+            {
+               "cast_id": 51,
+               "character": "The Cops - Bed Mechanic",
+               "gender": 2,
+               "credit_id": "558fc48dc3a3687bdb008075",
+               "name": "Walter Scott",
+               "profile_path": "/l8uXZW6xypNY7e4wd7a0HqzP6iA.jpg",
+               "id": 16474,
+               "order": 40
+            },
+            {
+               "cast_id": 52,
+               "character": "The Cops - Cicerelli",
+               "gender": 0,
+               "credit_id": "558fc499c3a368686d005703",
+               "name": "Reynaldo Rey",
+               "profile_path": "/t6A6xsI7A1Kk9MeXkqkC2pdhnH4.jpg",
+               "id": 97781,
+               "order": 41
+            },
+            {
+               "cast_id": 53,
+               "character": "The Hospital Staff - Flower Lady",
+               "gender": 1,
+               "credit_id": "558fc4a7c3a3687bdb008078",
+               "name": "Billie Bird",
+               "profile_path": "/6RFp87vKu8CPWnNFEdMNk4pDC2f.jpg",
+               "id": 140778,
+               "order": 42
+            },
+            {
+               "cast_id": 54,
+               "character": "The Hospital Staff - Miss Ditka",
+               "gender": 0,
+               "credit_id": "558fc4b69251416489001fb5",
+               "name": "Millee Taggart",
+               "profile_path": null,
+               "id": 1213471,
+               "order": 43
+            },
+            {
+               "cast_id": 55,
+               "character": "The Hospital Staff - Paul the Orderly",
+               "gender": 2,
+               "credit_id": "558fc4d992514145080006c5",
+               "name": "Larry \"Flash\" Jenkins",
+               "profile_path": "/iriLZ3jKRlGp1Ykusqj3G65zLSu.jpg",
+               "id": 124603,
+               "order": 44
+            },
+            {
+               "cast_id": 56,
+               "character": "The Hospital Staff - Warren the Orderly",
+               "gender": 2,
+               "credit_id": "558fc4e292514145080006c7",
+               "name": "Stuart Charno",
+               "profile_path": "/67yRU3WNiHUNwm4dfYc7EKI86TC.jpg",
+               "id": 55931,
+               "order": 45
+            },
+            {
+               "cast_id": 57,
+               "character": "The Patients - 82 Year Old Man",
+               "gender": 2,
+               "credit_id": "558fc4f7c3a3684349002e87",
+               "name": "John Steadman",
+               "profile_path": null,
+               "id": 101765,
+               "order": 46
+            },
+            {
+               "cast_id": 58,
+               "character": "The Patients - Boy with Fly",
+               "gender": 0,
+               "credit_id": "558fc559c3a36824710008d6",
+               "name": "Scott Marshall",
+               "profile_path": null,
+               "id": 83070,
+               "order": 47
+            },
+            {
+               "cast_id": 59,
+               "character": "The Patients - Disgusting Looking Patient",
+               "gender": 2,
+               "credit_id": "558fc57292514160030005b4",
+               "name": "George Furth",
+               "profile_path": "/hVSE8zXoN7BmNbimcnZZpHYOMYj.jpg",
+               "id": 9597,
+               "order": 48
+            },
+            {
+               "cast_id": 60,
+               "character": "The Flashback - Young Simon's Father",
+               "gender": 2,
+               "credit_id": "558fc583c3a3687fcb000cb2",
+               "name": "Ed Begley Jr.",
+               "profile_path": "/au4qlxxeHitgPDHmt7WhWTA7Znb.jpg",
+               "id": 42157,
+               "order": 49
+            },
+            {
+               "cast_id": 61,
+               "character": "The Others - Spectator",
+               "gender": 0,
+               "credit_id": "558fc5959251415a260012fa",
+               "name": "Michael Elias",
+               "profile_path": null,
+               "id": 163244,
+               "order": 50
+            },
+            {
+               "cast_id": 62,
+               "character": "The Others - Christmas Elf",
+               "gender": 0,
+               "credit_id": "558fc5b49251415a260012fe",
+               "name": "Peggy Trentini",
+               "profile_path": "/zScxR579DA4xhmXbBQoP7GOP4hP.jpg",
+               "id": 101170,
+               "order": 51
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4750c3a36847f812eb53",
+               "name": "Garry Marshall",
+               "profile_path": "/kx77E8p5rnEmKxIhFT0qWCEMEik.jpg",
+               "id": 1201,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4750c3a36847f812eb89",
+               "name": "Michael Elias",
+               "profile_path": null,
+               "id": 163244,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4750c3a36847f812eb8f",
+               "name": "Rich Eustis",
+               "profile_path": null,
+               "id": 163245,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "558fc1d5c3a3684e6e001208",
+               "name": "Jerry Bruckheimer",
+               "profile_path": "/lQu9eRzRX264j2LFQwvKC50wb9s.jpg",
+               "id": 770,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "558fc1eac3a3684349002e4b",
+               "name": "Garry Marshall",
+               "profile_path": "/kx77E8p5rnEmKxIhFT0qWCEMEik.jpg",
+               "id": 1201,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "558fc1f4c3a3687fcb000c65",
+               "name": "Nick Abdo",
+               "profile_path": null,
+               "id": 1255941,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "558fc1fd9251414508000686",
+               "name": "Jeffrey Ganz",
+               "profile_path": null,
+               "id": 1227217,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "558fc206c3a3687fcb000c67",
+               "name": "Maurice Jarre",
+               "profile_path": "/yJDDi7RKlxHjb7g8NZTEhnS4drG.jpg",
+               "id": 2704,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "558fc216925141600300056c",
+               "name": "Donald Peterman",
+               "profile_path": null,
+               "id": 9614,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "558fc22fc3a3684e6e00120c",
+               "name": "Dov Hoenig",
+               "profile_path": null,
+               "id": 15842,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "55f21695c3a36822ef002af4",
+               "name": "Polly Platt",
+               "profile_path": null,
+               "id": 21067,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "55f216c3c3a3683bec002eb4",
+               "name": "Lynn Stalmaster",
+               "profile_path": "/rhyzo2qgsGAXIpGTN5OabbZU95U.jpg",
+               "id": 1263,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55f21725c3a3683bec002eb9",
+               "name": "Tracy Bousman",
+               "profile_path": null,
+               "id": 570963,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55f21798c3a36822f5003061",
+               "name": "Toni Howard",
+               "profile_path": null,
+               "id": 1508088,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "55f217a49251416711002e62",
+               "name": "Nancy Klopper",
+               "profile_path": null,
+               "id": 14096,
+               "department": "Production",
+               "job": "Casting"
+            }
+         ]
+      },
+      "genres": [{
+         "name": "Comedy",
+         "id": 35
+      }],
+      "popularity": 1.925362,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 47947,
+      "vote_count": 18,
+      "budget": 0,
+      "overview": "An \"Airplane!\"-style spoof of hospital soap operas: a brilliant young trainee can't stand the sight of blood; a doctor romances the head nurse in order to get the key to the drugs cabinet; there's a mafioso on the loose disguised as a woman - in other words all the usual ingredients present and correct, though in this case the laughs are intentional.",
+      "similar": [
+         4258,
+         435126,
+         11072,
+         9824,
+         8005,
+         351819,
+         9267,
+         23943,
+         40264,
+         2182,
+         15493,
+         26827,
+         14771,
+         377587,
+         38087,
+         121493,
+         185474,
+         79934,
+         438459,
+         210293
+      ],
+      "original_title": "Young Doctors in Love",
+      "runtime": 96,
+      "poster_path": "/9tiVp0TJRNcxrswAtOMKHa9OTmO.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "ABC Motion Pictures",
+            "id": 13671,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+            "name": "20th Century Fox",
+            "id": 25,
+            "origin_country": "US"
+         }
+      ],
+      "release_date": "1982-07-16",
+      "vote_average": 5.6,
+      "belongs_to_collection": null,
+      "tagline": "Warning: This Movie May Be Dangerous To Your Health. You May Never Stop Laughing.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Garry Marshall"],
+      "runtime": 96,
+      "synopsis": null,
+      "writers": [
+         "Michael Elias",
+         "Rich Eustis"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0084938/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTY0NzUxOTAwOF5BMl5BanBnXkFtZTcwNjczMTcyMQ@@._V1_SY317_CR9,0,214,317_AL_.jpg",
+      "actors": ["Stars: Michael McKean, Sean Young, Gary Friedkin | See full cast and crew »"],
+      "reviews": [
+         "The title \"Young Doctors In Love\" is perhaps the most mis-leading title ever to be placed on a movie. It sounds like a passionate love story and not like a hilarious \"spoof\" movie that it is. This spoof movie is right up there with the \"Airplane\" and \"Naked Gun\" movies, and far better than the spoof movies of the 90's such as \"Wrongfully Accused\", \"The Silence Of The Hams\", \"Hot Shots\", and \"Mafia\". Rather than poking fun at other movies, \"Young Doctors In Love\" has an original idea for a spoof movie....A Total Satire On Hospitals!!!! It may sound crude or it may sound boring, but it's nothing less than hysterical and once you view it you'll find out for yourself. I loved Michael Richards' performance as a hit man who tries to assassinate a mafia godfather who is a hospital patient but has trouble finishing the job due to his mis-identity. Hector Elizondo is great as the godfather's son who dresses up as a woman to disguise himself from the other gangsters! There are great one-liners! Dabney Coleman was marvelous as an insane surgeon! Every doctor, along with the patients, have something comical about them that makes all of the jokes that are pulled in this film work 100%! If you love silly movies, then this one is a treasure! Stay tuned during and after the credits! Great fun from beginning to end!",
+         "This is a great movie. The two subplots are almost better than the main storyline. I've always liked Michael McKean and it was nice to see him in a serious role. If you used to be hooked on General Hospital and recognize the characters in their cameo roles it's even funnier. It's very seldom seen on television but well worth watching, even though they will cut it up a bit.",
+         "When I was younger, this was one of my favorite movies. Don't ask why... just accept it. I remembered the little things. Michael McKean cutting out the pinatas appendix as a child. The kids imitating Sean Young as she goes into convulsions during a dance class. Gary Friedkin trying to hang up the phone (he's a 'little person'... you know the scene.) The Philadelphia F'in Philharmonic. Harry Dean Stanton... as though you need anything more, right? I bought a used copy in the late 90s and watched it again... oh boy... nowhere near the film I thought it was. Then I realized it followed up Airplane! and several other like-minded spoofs of the day. It was confused in a lot of ways, as though it wanted to be raunchy but wasn't sure how to do it. I still like the film in bits... some of them are genuinely funny. But as others said, it has a genuine sitcom feel to it. This is Marshall's first film after having worked in television for over 20 years and considering his track record since, you can tell he learned a few things from this film. After this, he went on to make Pretty Woman, the Runaway Bride, and Frankie & Johnny, all of which are decent films. Of course he also directed Exit to Eden (Rosie O'Donnell and Dan Aykroyd in bondage-wear? OUCH!) but we'll forgive him for that...",
+         "This was a pretty amusing movie. I couldn't believe how many actors I recognized. Since I have to write at least 10 freakin' lines for this comment to be allowed, i'll list all of 'em. For some reason a few of the actors are uncredited even though they have speaking lines. Demi Moore has a one word line (uncredited), Richard Dean Anderson (MacGyver) has quite a few lines but is still uncredited. Crystal Bernard has a couple lines (lookin' hot!), Ted McGinley (what a stud!), Michael Richards (Kramer), Kim McArthur (Playboy Playmate!), Billie Bird (Sixteen Candles-'Well what did they want?' 'Sex!'), Ed Begley Jr., Susan Lucci (uncredited), Mr. T and Christie Brinkley are uncredited but I never remember seeing them. I think the first 30-45 minutes are the best. Hector Elizondo is so hilarious! This movie and Private Resort are classic Hector Elizondo. Just him alone is worth seeing this movie. Michael Richards has some great lines,too. You factor in all of that and some breasts and you've got yourself one hell of a good time!",
+         "Why isn't this movie better known? I stumbled across it in a used video store and paid $2 for lack of anything else available. What a great surprise! It is the funniest movie I have ever seen. You can't take the world so seriously after watching \"Young Doctors in Love.\" All \"Airplane-sque\" films have to be extremely broad (but not vulgar) comedy that still somehow doesn't insult the viewer's intelligence. Such is a really tough combination (recall any of Leslie Neilson's attempts without the Zukers). Their audience is bright people who aren't embarrassed to laugh in the presence of other bright people. Young Doctors in Love is even better than Airplane. It is multilayered, and indeed does require several watchings to catch all its simultaneous hilarious flickers. Nothing is sacred here. Dancing orphans, little people, egotistic surgeons, stroke victims with pointy tongues, balloon pregnancies (my personal favorite), (un?)requited transsexual love, nurses with pharmacy keys up for grabs, latino rumbra seducers, even vanilla ice cream. And poor \"Kramer\". Michael Richards fans must see this movie if for no other reason. \"Think fast!\" and rent Young Doctors in Love today. You will be delighted. Guaranteed.",
+         "Hi, Everyone, Enough of this works to make it a very funny movie for your weekly movie night with the Fenwicks who live next door. The comedy ranges from low brow to pelvis with a couple of stops in between. My favorite part of this movie is Hector Elizondo as Angelo/Angela. There are some guys-in-drag movies that are really fun to watch. If you saw Some Like It Hot, you probably marveled at Jack Lemmon's and Tony Curtis' female personalities. The same was true with Laurel and Hardy when they would don dresses and take on a new character. Hector Elizondo is one of the funniest women I have ever seen on film. It's a shame more ladies can't be this funny in a dress. The lead actors are not as important as the supporters. Like any good truss, they supply support to what otherwise might sag. Michael Richards (Kramer?), is the hit man you want to have trying to wipe you out. He is just slightly South of stupid. Harry Dean Stanton looks like he just returned from drama class at Professor Irwin Corey's Night School. Stanton is funny just sitting down. Taylor Negron shows promise as a Latin lover for some future Tango film. He does a great job here on several levels. Check out his facial expression as he is handcuffed to a policeman during a wedding scene. He also is excellent as he kisses his love interest while he is handcuffed. The blind policeman who is part of the SWAT team has a funny line. There is a lot to like here. You should probably see your Young Doctors every six months if you are over fifty-five or once a year if you are feeling OK. If you liked this, try Tootsie or Naked Gun or The Hospital (1971) with George C. Scott. If you like zany comedies you might also like Movie, Movie with George C. Scott. Tom Willett",
+         "In the tradition of other spoof movies, \"Young Doctors in Love\", a skewering of medical soap operas such as 'General Hospital', is the kind of thing that does require some attention to be paid, as there's a fair amount of detail to its presentation. It's handled by a group of TV veterans - Garry Marshall made his theatrical directing debut here, and the writers are Michael Elias and Rich Eustis, who also pack the movie with cameos by actual soap opera actors (you get to see a very young Demi Moore, who at the time was on GH). The main story line is of an arrogant, insufferable prick, Simon August (Michael McKean) who wants to be a top surgeon but who is scarred by a childhood prank, and the fellow doctor he loves, Stephanie Brody (Sean Young, looking just beautiful) and attempts to save after realizing she needs special surgery. Some gags are good, such as the pitiful fate of terminally unlucky hit man Malamud (Michael Richards, long before 'Seinfeld'), although it's some of the throwaway gags and lines that are the funniest. References to pop culture of the time are there, such as a line involving \"E.T.\". There's also the standard device of the popular man-in-drag idea as gangster Hector Elizondo (who as we all know became Marshall's good luck charm in all of his movies) disguises as a woman in order to smuggle his sickly dad (Titos Vandis), who's been targeted by other mob families, into the hospital. There aren't many performers here who did little else of note, and people will have a high old time noting all of the familiar faces. Ted McGinley, Taylor Negron, and Rick Overton are among the group of doctors, Dabney Coleman is the stressed out guy in charge, Patrick Macnee is utterly wasted in a next to nothing part, Crystal Bernard is an underage prostitute, Harry Dean Stanton is the expert in tasting bodily fluids, and Pamela Reed the dorky nurse who blossoms when she thinks Negron's doctor is interested in her (really, he just wants the key to the drug cabinet). It's a bit of a revelation that this first effort from Marshall is so unabashedly R rated with its sexual jokes and liberal use of profanity. It's not always terribly successful, but it does generate a pretty respectable amount of genuine laughs. What's amusing is the device it employs at the end, which we see sometimes in film, when the fates of the characters after the events of the movie are revealed, and the actors also get a roll call as well, which is nice. While \"Young Doctors in Love\" doesn't set off any real comedy fireworks, it's still not bad at all, and does present a respectable effort to go for a certain zaniness, even if it's not on the level of a \"Blazing Saddles\", \"Young Frankenstein\", or \"Naked Gun\". Generally likable. Seven out of 10.",
+         "A friend of mine knew I loved the movies \"Repossessed\" and \"Silence of the Hams\" along with the Zucker and Brooks films and introduced me to this one. Just as funny as those, this movie struck me with having just as many of the stars of the day as well as several up and coming future stars such as Ted McGinley, Richard Dean Anderson, Crystal Bernard, Rick Overton, Saul Rubinek and Michael Richards as a very Krameresque hit-man trying to bump off a underworld figure in the hospital. The main plot isn't as good as the sub-plots, but there's also some light nudity in order to really get your attention. Some of the jokes were later stolen to use in other parodies, but I was surprised to see an \"E.T.\" reference since I was sure this movie predated that one. I don't know if this was shown theatrically, but I do consider myself lucky enough to find it on tape.",
+         "This is the wackiest spoof of any hospital movie EVER! From the makers of \"Airplane!\" this send up to daytime-TV soaps that's got promiscuous candy-stripes, a cross-dressing Mafia good-fellow stalked by an assassin played by Micheal Richards, doctor who tries to get over his fear of a childhood incident, to a young lady trying to ditch being a prostitute by trying to get pregnant (even though she used a balloon!) This flick has sight-gags, one-liners, and running gags galore! Yes, it has EVERY soap star (and yes, Sean Young!)and Crystal Bernard is so cute! *RAWR* -Prescribed for those who WANT to laugh!-",
+         "Everyone from Demi Moore to Kramer !!! Just the line about the Philadelphia Philharmonic gives it a 10 in my book. Love'd It!! Please give us the DVD Wide Screen Version! An Awesome Satire in the vision of \"Airplane\" and General Hospital. If you're a Godfather fan, you have to love the Mafia references. It's got Fall on the Floor and pass out laughing lines for everyone!! We can't wait till it comes out in a Widescreen DVD Format. A Must See Movie."
+      ],
+      "genres": ["Comedy"],
+      "productionCompanies": ["ABC Motion Pictures"],
+      "summaries": ["An 'Airplane'-style spoof of hospital soap operas: a brilliant young trainee can't stand the sight of blood; a doctor romances the head nurse in order to get the key to the drugs cabinet; there's a mafioso on the loose disguised as a woman - in other words all the usual ingredients present and correct, though in this case the laughs are intentional."],
+      "budget": 0
+   },
+   "movielensId": 2255,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1982-07-16",
+      "dvdReleaseDate": "2004-12-07",
+      "directors": ["Garry Marshall"],
+      "runtime": 96,
+      "movieId": 2255,
+      "title": "Young Doctors in Love",
+      "mpaa": "R",
+      "actors": [
+         "Michael McKean",
+         "Sean Young",
+         "Héctor Elizondo",
+         "Harry Dean Stanton",
+         "Patrick Macnee",
+         "Dabney Coleman",
+         "Kyle T. Heffner",
+         "Rick Overton",
+         "Ted McGinley",
+         "Saul Rubinek",
+         "Pamela Reed",
+         "Taylor Negron",
+         "Patrick Collins",
+         "Michael Richards",
+         "Crystal Bernard",
+         "Gary Friedkin",
+         "Titos Vandis",
+         "Paul Stanley",
+         "Richard Dean Anderson",
+         "Demi Moore",
+         "Paul Stanley",
+         "Susan Lucci",
+         "Cynthia Geary",
+         "Monique Gabrielle",
+         "John E. Coleman",
+         "Haunani Minn",
+         "Becky Gonzalez",
+         "Lynne Marie Stewart",
+         "Toni Hudson",
+         "Frank Pesce",
+         "Nicholas Mele",
+         "Michael Damian",
+         "Steven Ford",
+         "Stuart Damon",
+         "Jaime Lyn Bauer",
+         "Tom Ligon",
+         "Kin Shriner",
+         "Janine Turner",
+         "Jacklyn Zeman",
+         "Diane Markoff",
+         "Walter Scott",
+         "Reynaldo Rey",
+         "Billie Bird",
+         "Millee Taggart",
+         "Larry \"Flash\" Jenkins",
+         "Stuart Charno",
+         "John Steadman",
+         "Scott Marshall",
+         "George Furth",
+         "Ed Begley Jr.",
+         "Michael Elias",
+         "Peggy Trentini"
+      ],
+      "imdbMovieId": "0084938",
+      "originalTitle": "Young Doctors in Love",
+      "genres": ["Comedy"],
+      "youtubeTrailerIds": ["XuezEXC3P7Y"],
+      "plotSummary": "An \"Airplane!\"-style spoof of hospital soap operas: a brilliant young trainee can't stand the sight of blood; a doctor romances the head nurse in order to get the key to the drugs cabinet; there's a mafioso on the loose disguised as a woman - in other words all the usual ingredients present and correct, though in this case the laughs are intentional.",
+      "tmdbMovieId": 47947,
+      "avgRating": 2.62079,
+      "releaseYear": "1982",
+      "numRatings": 505,
+      "posterPath": "/9tiVp0TJRNcxrswAtOMKHa9OTmO.jpg"
+   }
+}

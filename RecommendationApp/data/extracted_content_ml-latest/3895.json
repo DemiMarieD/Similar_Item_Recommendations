@@ -1,0 +1,448 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "chicago",
+            "id": 520
+         },
+         {
+            "name": "fbi",
+            "id": 1812
+         },
+         {
+            "name": "menace",
+            "id": 2250
+         },
+         {
+            "name": "covered investigation",
+            "id": 3877
+         },
+         {
+            "name": "state of emergency",
+            "id": 4633
+         },
+         {
+            "name": "investigation",
+            "id": 5340
+         },
+         {
+            "name": "suspense",
+            "id": 9937
+         },
+         {
+            "name": "serial killer",
+            "id": 10714
+         },
+         {
+            "name": "little girl",
+            "id": 12663
+         },
+         {
+            "name": "psychiatrist",
+            "id": 15106
+         },
+         {
+            "name": "fbi agent",
+            "id": 18525
+         },
+         {
+            "name": "psychotherapy",
+            "id": 157154
+         }
+      ],
+      "imdb_id": "tt0204626",
+      "video": false,
+      "title": "The Watcher",
+      "recommendations": [
+         178,
+         9039,
+         10383,
+         9271,
+         8080,
+         12123,
+         10550,
+         9423,
+         9057,
+         11258,
+         11058,
+         12103,
+         9770,
+         12146,
+         10479,
+         28902,
+         11892,
+         11398,
+         10596,
+         13572
+      ],
+      "backdrop_path": "/byCM0qkRJd76L6HrmFji96zCDr6.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "FBI Special Agent Joel Campbell",
+               "gender": 2,
+               "credit_id": "52fe43a29251416c75018201",
+               "name": "James Spader",
+               "profile_path": "/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg",
+               "id": 13548,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "David Allen Griffin",
+               "gender": 2,
+               "credit_id": "52fe43a29251416c75018205",
+               "name": "Keanu Reeves",
+               "profile_path": "/bOlYWhVuOiU6azC4Bw6zlXZ5QTC.jpg",
+               "id": 6384,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Dr. Polly Beilman",
+               "gender": 1,
+               "credit_id": "52fe43a29251416c75018209",
+               "name": "Marisa Tomei",
+               "profile_path": "/l87UKhZ1ethWmn8lksmLZ2LcQJ1.jpg",
+               "id": 3141,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "FBI Special Agent in Charge Mike Ibby",
+               "gender": 2,
+               "credit_id": "52fe43a29251416c7501820d",
+               "name": "Ernie Hudson",
+               "profile_path": "/h6hSUIuvJEjUih3wgMqYOZhNe57.jpg",
+               "id": 8874,
+               "order": 3
+            },
+            {
+               "cast_id": 11,
+               "character": "Hollis",
+               "gender": 2,
+               "credit_id": "52fe43a29251416c75018235",
+               "name": "Chris Ellis",
+               "profile_path": "/vbltM7DQXON9xvpiyNuUCglNRmz.jpg",
+               "id": 8191,
+               "order": 4
+            },
+            {
+               "cast_id": 12,
+               "character": "Mitch",
+               "gender": 2,
+               "credit_id": "52fe43a29251416c75018239",
+               "name": "Robert Cicchini",
+               "profile_path": "/nvrzmogQGwWeULp8kzjG8EM1lsQ.jpg",
+               "id": 156431,
+               "order": 5
+            },
+            {
+               "cast_id": 13,
+               "character": "Lisa",
+               "gender": 1,
+               "credit_id": "52fe43a29251416c7501823d",
+               "name": "Yvonne Niami",
+               "profile_path": null,
+               "id": 554629,
+               "order": 6
+            },
+            {
+               "cast_id": 14,
+               "character": "Diana",
+               "gender": 1,
+               "credit_id": "52fe43a29251416c75018241",
+               "name": "Jenny McShane",
+               "profile_path": "/8ctvd4VZXb6bO2bqYyfThzYK1FN.jpg",
+               "id": 42209,
+               "order": 7
+            },
+            {
+               "cast_id": 15,
+               "character": "Sharon",
+               "gender": 1,
+               "credit_id": "52fe43a29251416c75018245",
+               "name": "Gina Alexander",
+               "profile_path": null,
+               "id": 554630,
+               "order": 8
+            },
+            {
+               "cast_id": 16,
+               "character": "Ellie",
+               "gender": 0,
+               "credit_id": "52fe43a29251416c75018249",
+               "name": "Rebekah Louise Smith",
+               "profile_path": null,
+               "id": 154666,
+               "order": 9
+            },
+            {
+               "cast_id": 17,
+               "character": "Skater",
+               "gender": 2,
+               "credit_id": "52fe43a29251416c7501824d",
+               "name": "Joseph Sikora",
+               "profile_path": "/rNGXbssgOE9clqMyqGSdeiKvBJD.jpg",
+               "id": 82631,
+               "order": 10
+            },
+            {
+               "cast_id": 18,
+               "character": "Jessica",
+               "gender": 0,
+               "credit_id": "52fe43a29251416c75018251",
+               "name": "Jill Peterson",
+               "profile_path": null,
+               "id": 554631,
+               "order": 11
+            },
+            {
+               "cast_id": 19,
+               "character": "Rachel",
+               "gender": 0,
+               "credit_id": "52fe43a29251416c75018255",
+               "name": "Michele DiMaso",
+               "profile_path": null,
+               "id": 554632,
+               "order": 12
+            },
+            {
+               "cast_id": 20,
+               "character": "Jack Fray",
+               "gender": 2,
+               "credit_id": "52fe43a29251416c75018259",
+               "name": "Andrew Rothenberg",
+               "profile_path": "/daNiuZmplaVjWcUqukYcAfDDSrC.jpg",
+               "id": 59581,
+               "order": 13
+            },
+            {
+               "cast_id": 21,
+               "character": "Norton",
+               "gender": 2,
+               "credit_id": "52fe43a29251416c7501825d",
+               "name": "David Pasquesi",
+               "profile_path": "/gdmc0k64Tz1s7mJRVIWKjJJSn1M.jpg",
+               "id": 74487,
+               "order": 14
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe43a29251416c75018213",
+               "name": "Joe Charbanic",
+               "profile_path": null,
+               "id": 66604,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43a29251416c75018219",
+               "name": "David Elliot",
+               "profile_path": null,
+               "id": 34672,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43a29251416c7501821f",
+               "name": "Christopher Eberts",
+               "profile_path": null,
+               "id": 56171,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43a29251416c75018225",
+               "name": "Marco Beltrami",
+               "profile_path": "/tTBQHKWVieP5ARRfJRMkbnLTW6C.jpg",
+               "id": 7229,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43a29251416c7501822b",
+               "name": "Richard Nord",
+               "profile_path": null,
+               "id": 53291,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43a29251416c75018231",
+               "name": "Michael Chapman",
+               "profile_path": "/uGg69IydM1NTgbjEHZVVyCDOW8s.jpg",
+               "id": 1044,
+               "department": "Camera",
+               "job": "Director of Photography"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Mystery",
+            "id": 9648
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         }
+      ],
+      "popularity": 6.195174,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 10685,
+      "vote_count": 140,
+      "budget": 33000000,
+      "overview": "FBI agent Joel Campbell, burnt-out and shell-shocked after years spent chasing serial killers, flees L.A. to begin a new life for himself in Chicago. But five months later, Joel's best laid plans are abruptly cut short when his new hometown becomes the setting for some particularly gruesome murders--murders that could only have been committed by one man: David Allen Griffin. One of Joel's most elusive and cunning nemeses, Griffin has followed his former pursuer to Chicago in order to play a sadistic game of cat and mouse. Taunting Joel with photographs of his intended victims and leaving his crime scenes meticulously free of clues in order to keep the police at bay, Griffin derives as much pleasure out of watching Joel react to every movement as watching his victims die. But when Griffin moves into Joel's inner circle, Joel must quickly find some way to stop him before someone close to him becomes the next one to die.",
+      "similar": [
+         274,
+         8090,
+         2832,
+         273481,
+         261023,
+         395834,
+         1939,
+         8834,
+         1923,
+         4349,
+         21484,
+         3595,
+         12149,
+         8836,
+         1949,
+         186,
+         949,
+         807,
+         1571,
+         65754
+      ],
+      "original_title": "The Watcher",
+      "runtime": 96,
+      "poster_path": "/jesZYsaqtqEaaekAVlyAxpZGDqZ.jpg",
+      "spoken_languages": [
+         {
+            "name": "Tiếng Việt",
+            "iso_639_1": "vi"
+         },
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         }
+      ],
+      "production_companies": [{
+         "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+         "name": "Universal Pictures",
+         "id": 33,
+         "origin_country": "US"
+      }],
+      "release_date": "2000-09-08",
+      "vote_average": 5,
+      "belongs_to_collection": null,
+      "tagline": "Don't go home alone.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Joe Charbanic"],
+      "runtime": 97,
+      "synopsis": "Retired FBI Special Agent Joel Campbell (James Spader) lives in Chicago, where he is struggling to come to terms with his failure to capture a serial killer back when he was working in Los Angeles. Campbell attends therapy sessions with Dr. Polly Beilman (Marisa Tomei), but otherwise has no other friends or social life. Campbell learns that a girl who lived in his apartment building has been killed. He does not pay it much attention until he opens his mail and finds that a picture of the girl had been sent to his apartment three days before the murder. He brings this information to the attention of the detective on the case, Det. Mackie (Chris Ellis), and comes to the conclusion that the same serial killer has arrived in Chicago. FBI Special Agent in Charge Ibby (Ernie Hudson) tries to persuade Campbell to return to the case, but he refuses. One night Campbell receives a phone call from David Griffin (Keanu Reeves), the serial killer, who reveals that he followed Campbell to Chicago and wants to rebuild the \"rapport\" they once had. Griffin tells Campbell that he will send a photo of a girl in the morning, and Campbell has until 9.00 at night to find her. Campbell tells Ibby that he wants back in on the case, and his request is granted. Campbell works together with Mackie and the rest of the team in getting the word out on finding the girl before the deadline. However, by the time Campbell gets her house number and calls, Griffin is already there, and has strangled her to death. Griffin suggests they continue with a different girl. The next day similar events follow as Campbell and his team try to find the next girl before the 9:00 pm deadline. They corner and almost catch Griffin, but he manages not only to kill the second girl but also escape. Campbell is injured during the car chase. The next day, another photo arrives, but it turns out to be the image of Lisa Anton (Yvonne Niami), Campbell's former lover who was killed indirectly because of Griffin back in Los Angeles. Campbell goes to Lisa's grave, where Griffin is waiting for him. Griffin explains that he has Beilman hostage somewhere, and only wants to talk with him. Campbell negotiates for Beilman's safety, and Griffin eventually agrees to bring Campbell to see her. During the drive, Griffin explains that he cares a great deal for Campbell, and considers him a \"good friend\". Campbell secretly uses his cell phone to call Mackie, cluing him in on the situation. Griffin and Campbell arrive at an abandoned warehouse, where inside Beilman has been tied up and gagged and surrounded by flammable materials and candles. The two men face off as the police arrive outside. The struggle culminates with the place catching fire. Campbell unties Beilman and gets them both to safety before the place explodes, killing Griffin.",
+      "writers": [
+         "Darcy Meyers",
+         "David Elliot"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0204626/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTM3NTM5NDYwMl5BMl5BanBnXkFtZTYwNzA0MTk5._V1_SX214_AL_.jpg",
+      "actors": ["Stars: James Spader, Keanu Reeves, Marisa Tomei | See full cast and crew »"],
+      "reviews": [
+         "Having failed to catch a serial killer who finally murdered a woman he had been sleeping with, Joel Campbell moves cities and lives his life on benefits suffering from migraines, heavily medicated most of the time. This painful but quiet life is shattered when the killer follows him to the city and begins a game of cat and mouse with him - sending him a picture of a woman 24 hours before he kills her. Joel rejoins the police in an effort to save his potential victims as well as catching him. I, like many others, wasn't too bothered by this film when it was released - it looked like it would be yet another serial killer movie, and it was! The plot requires the usual gimmick and here it is the old chestnut of the cop and bad guy needing each other and the killer having a sort of respect and need for his pursuer. None of the film will surprise you but it still moves forward reasonably quickly without being dull and it is reasonably enjoyable. The action scenes are not great and the film never really has a real air of menace or tension, but it is still slick enough to watch - even if it is almost impossible to be emotionally involved. The director managed to get his timing right to get Reeves in the midst of a reasonable cast; he shot a few videos for Reeves' band years prior in exchange for Reeves doing this film which, despite hitting it big with The Matrix, was a promise he honoured. However as a director his music video roots are heavily showing here with far too many flashy visual tricks that stick out from the body of the film and actually take away more than they bring. However, getting Reeves was worth him having the chair for his star does surprisingly well to step out of his Neo role and into a mean, playful role. No, he's not doing anything different with it from anyone else who plays this type of serial killer role but he is still charismatic enough to make a difference. Spader is also pretty good and has more to work with than Reeves, but Tomsei is almost totally wasted with very little to do to justify such a well known actress. To be honest none of them have much to work with above the norm, but they still add to the film by their names. Overall I did quite enjoy the film but I will be the first to admit that it was nothing new and really didn't do anything different or unusual with the basic premise and material. The director tries to liven it up a bit with the odd visual trick, but it only serves to make the film look a little desperate to be different. The end result is an average thriller that has a better than average cast (for this type of thing) and will pass the time without annoying you if you know what to expect.",
+         "Joel Campbell (James Spader) is an FBI agent on leave. He literally \"left\" his home base in Los Angeles, defeated, because of a particularly hairy case involving an unusually devious, crafty and risk-loving serial killer who went by the name of David Allen Griffin (Keanu Reeves). The Watcher begins with Campbell resettled in Chicago, trying to put his life back in order. But what will happen when Griffin shows up in the Windy City? This is an unusual film in many ways. Although on one level it's a fairly standard thriller with Reeves playing a subtly twisted baddie, it's really a complex psychological portrait that focuses more on Spader as Campbell. Campbell's life is a mess in Chicago. He can't work and he can barely take care of himself. He looks and feels miserable. His apartment reflects his life--though sparse in content, it's extremely unkempt and unhealthy looking. He is having continual nightmares. He has to inject himself in the stomach with prescription drugs to get over panic attacks and to enable at least a couple hours sleep at night. Of course Campbell is making regular visits to a psychiatrist, Dr. Polly Beilman (Marisa Tomei). He became such a wreck because of being wrapped up so long with the Griffin case. Griffin regularly toyed with Campbell, communicating with him and even giving him clues so that Campbell would be able to almost but not quite beat Griffin to the punch. Amusingly, director Joe Charbanic portrays Griffin as more well adjusted and much more focused than Campbell. As Dr. Beilman discerns, Griffin was Campbell's raison d'etre for so long--almost his sole concern--that abandoning the case resulted in Campbell effectively abandoning his life. Thus Charbanic gives us a clever, ethically gray twist. Griffin may be beneficial to Campbell; he may be the only one who can get him back on track. Likewise, Griffin is shown to be a bit lost without Campbell. It creates a fascinating psychological dependency in a twisted relationship that mirrors the two other male-female relationships that propel the plot, providing a subtext about co-dependency and slightly off-kilter, questionably healthy relationships in general. Although Reeves is often criticized for his acting ability, The Watcher is an excellent example of what that is unjustified. It's not that Reeves doesn't have range. It's that he's extremely subtle. He's not an actor to chew scenery. His Griffin is really just as psychotic as, say, De Niro's Travis Bickle in Taxi Driver (1976) or Jack Nicholson's Jack Torrance in The Shining (1980), but Reeves isn't usually one to maniacally chop down a door with an axe and crazily intone \"Heeeere's Johnny\", you have to watch him closer than that to see the character. Even when he's in full action mode, either as a killer, as he is here, or as a superhero, as in The Matrix (1999), Reeves is all about a kind of quiet control. It's not a better or worse style than De Niro or Nicholson, just different. Spader also gives a finely tuned performance. As the character requirements have it, he's a fine complement for Reeves, somewhat paralleling Reeves' style, somewhat providing a counterpoint. The film has interesting things to say about anonymity in modern societies, especially big cities. Griffin is able to play the games he does only because so many people are faceless and ignored. Charbanic films The Watcher with a unique visual style can be \"arty\"--especially during the flashbacks--and conventionally build suspense at the same time. He's also aided by a great score (including a couple brief snippets of Reeves \"dancing\" to Rob Zombie) and attractive production design. The Watcher isn't the typical \"10 out of 10\" film, as its surface gloss is more pedestrian than the usual film of that caliber. But if you dig just a little deeper, you'll find gold.",
+         "Really enjoyed this movie. It is not in the least bit predictable, as so many thrillers seem to be. Fast paced & lots of action. Kept me on the edge of my seat the whole way through. Many threads are woven throughout and they tie up towards the end of the movie so that most of our questions are answered. Casting is great. Spader, our hero, is far from perfect & his obsession with catching 'his' man has had a disasterous affect on his life. He is a complex character who is introducted to us in stages- as the story unravels so does his life. Reeves surprises in his portrayal of a psycho serial killer. He plays this guy with an eerie realism that see him really well cast here. We hear so many poor reviews of this guy's acting but I can't figure it. He is really believable in this role and shows once again that he can take any character and 'become' him; whether it is Neo in the Matrix or the lovable Ted from Bill & Ted's Excellent Adventure. We enter the world of the serial killer & get to see his version of our reality. We follow the agent in a chase against time to stop the madness. This movie is not run of mill. It is different & provocative. I highly recommend it.",
+         "After being identified and harassed by the elusive serial killer David Allen Griffin (Keanu Reeves), the distressed FBI agent Joel Campbell (James Spader) moves to Chicago from Los Angeles in order to secure his own safety and peace of mind. However, tormented by the anguish of past failures, Campbell is unable to ameliorate his physical and mental health and his bruised existence is again challenged by Griffin's reappearance in Chicago. Amused and motivated by Campbell's compassion toward all female victims, Griffin (who spies on lonely women and then kills them) heightens the stakes of his hide-and-seek game with Campbell by sending him a photograph of the intended victim of the day, thus testing his ability to save her. However, when Griffin's final defiance involves Campbell's psychologist (Marisa Tomei), the two test each other's limits. The Watcher follows its two main characters intimately, often detailing the mechanics of Griffin's moves through Campbell's point of view as an observer who must solve a mystery. By depicting Campbell's dependence on painkillers, for example, The Watcher successfully transmits the deteriorated mental and physical state of this protagonistic character. The Watcher is most intriguing when it attempts to portray a society that --through its indifference-- creates its own victims and delivers, so to speak, the loneliest and most vulnerable to their executioner. The Watcher uses this notion of people's unwillingness to help and builds its suspense by simultaneously emphasizing the protagonist's struggles to beat the murderer's deadline. Furthermore, The Watcher successfully defines both protagonist and antagonist as \"the watcher\" of the other, thus suggesting a somewhat sado-masochistic bond between the two. In spite of this success, The Watcher relies on an excess of repeated flashbacks in the form of highly stylized, often blurry, shots that depict Campbell's previous interaction with Griffin. This choice weakens The Watcher's attempts to establish realism around both characters' past connection, and loosens the otherwise tight pace of the plot. The watcher hits on both a realistic level, and an entertaining level never before reached with a movie starring Keanu Reeves.",
+         "The relationship between the characters in the Watcher sets it apart from other serial killer movies. In fact, I would have liked another 15 minutes in the movie to bring out those relationships even more. I would have liked a little more elaboration on what happened in the past between James Spader and Keanu Reeves. Also, I wish the movie had shown part of the session between the Psychologist, played by Marisa Tomei, and the serial killer, played by Keanu Reeves. Marisa Tomei's facial reaction to Keanu Reeves' comment prior to the session was perfect. \"Do clients come to see you because you are good or because you are very pretty.\" (Line by Reeves to Tomei - maybe not verbatum) Keanu Reeves plays David Griffin very well. This is another example showing how Keanu Reeves can take any character and make it both believable and likeable to some extent. Both Reeves and Spader display the need for each other by the end of the film. Yes, I did detect at least a professional need by Spader for Reeves in the Watcher. So did Marisa Tomei I think. This movie had both a good balance of a crime drama, with the police and car chase scenes, and strong character development. My only complaint is like others have said on this board, I felt it was rushed.",
+         "Rated:PG Runtime:94mins Release Date:2000 Federal Agent Joel Campbell thought leaving behind his old life would mean leaving behind his worst nightmare, but unfortunately for Joel Campbell, his worst nightmare didn't want to leave him behind. The Watcher stars James Spader as F.B.I. agent Joel Campbell, an elite special agent who always got the job done. But then along came his worst nightmare, serial killer David Allen Griffen (Keanu Reeves in a surprisingly solid performance), an elusive and brilliant serial killer, who preys on innocent women at night and seemingly can't be caught. He's a methodical Killer who knows his work. He's detailed at everything his work involves, including the ins and outs of police procedure. After a year of trying to outsmart this sophisticated killer and always being one step behind, Joel decides to give up and head to Chicago. Here he hopes that maybe he can forget Griffen and his nightmares. But Griffen doesn't want to forget, so he follows Campbell to Chicago to continue their relationship and the killing. While trying to cloud himself in a haze of dependant drugs and self pity, Campbell is forced back in to the game of cat and mouse when Griffen starts sending him pictures of the women he's going to kill. Only this time Griffen puts a new spin on this particular game. Now, instead of just murdering the women, Griffen gives Campbell a chance to save the women, by sending him pictures of his potential victims twelve hours before they actually become his victims. The Watcher isn't a first rate, edge of your seat thriller, but that's okay because I think making it a well made and stylish thriller was the actual intent of Director Joe Charbaniz. This solid mid-budget (by Hollywood standards) thriller boasts some great performances by star Spader, and Academy Award nominee Marisa Tomei, who in the film stars as Spader's psychiatrist, Dr Polly Bellman. But it also has Keanu Reeves showing the best acting display of his carrer in my opinion (maybe because he doesn't have many lines, I'm not really sure), as the demented killer, Griffen. Now for me, and I'm sure for a few other movie fans, there is an added bonus of having Ernie Hudson in it as a Police Chief. I find this an extra treat because I haven't seen Ernie in many A list movies lately, and I find he just has a way of sprucing them up. Charbaniz also used an innovative cat and mouse style due to the fact that it's not so much chase scenes, but duelings of the mind. However, I did find some of the slow motion camera work they used while Reeves was stalking around to be a bit much. Writers David Elliot and Darcy Meyers put together a well made story with the underlining idea that good is nothing without evil, using two men as the message. It also has a few good encounters between Spader and Reeves in which you're actually able to see how these characters are driven in to the relationship they have with one another. I do, however, have to discredit one bit of the movie, where Spader and the police force are looking for a woman who is intended to be the next victim and no one seems to know who she is, or have even seen her for that matter, even though she works in a huge shopping mall where thousands of people dwell everyday. Especially corny is a scene in which they are in the mall looking for her while she is literally standing right beside them, but not one of the ten or so officers turns his or her head for even a second to actually see her. Aside from being bogged down by a few minor details, this fast paced thriller, with style to spare, does work on many different levels and in my opinion is certainly worth a rent. It's a little more sharp then most of its preceeding thrill movies (including Kiss the Girls) even though it's storyline is not overly original. However you can sit through this whole movie and not have a bad aftertaste left in your mouth, which is a lot more then I can say for most of Hollywood's recent releases. So, if you want a little excitement from your entertainment for the evening, don't expect too much from the Watcher and just watch it. Overall Rating: 7 out of 10",
+         "THE WATCHER / (2000) ** (out of four) By Blake French: A serial killer wreaks havoc on a large city while playing mind games with an FBI agent who is desperately attempting to save his targets before they meet a horrifying death. Sound familiar? It should. Joe Charbanic's \"The Watcher\" is another rehearse in Hollywood's obsession with serial killer films that call for big stars and bloody murders. Just a few weeks ago, \"Urban Legends: Final Cut\" was released, also detailing a psychopath brutally murdering young adults while teasing potential victims with cruel gimmicks. I am getting very tired of the same old recycled material found in this kind of production. All serial killer movies have a gimmick; this film's is the protagonist's involvement with the killer himself. The main character, Joel Campbell (James Spader), is an FBI agent who recently moved from Los Angeles to Chicago to escape the stress and recollections of his experiences tracking down psychotic murderers, specifically David Allen Griffin (Keanu Reeves), who's trademark includes strangling young women with piano strings. Campbell's past has left him with severe migraine headaches and a dependency on prescription medication, both problems he and Dr. Polly Peilman (Marisa Tomei), a young psychiatrist, are trying to solve. It isn't long before Griffin discovers Campbell and begins playing cat and mouse games again. Griffin mails Campbell a photo of his next victim and allows 24 hours for the police to find and rescue her. With the help of two other detectives, Hollis Mackey (Chris Ellis) and Mitch Casper (Robert Cicchini), Campbell is determined to bring down this mad man. The movie is over the top in most elements. The style teases and interrogates, but is also boastful and distracting. The protagonist's personality is also exaggerated, supported by blunt dialogue (supporting character: \"That is gonna be hard.\" Campbell: \"Life is hard.\") and filled with familiar clichés including personal tragedy involved with the killer and his own family. But the killer himself lacks successful development. The movie lazily introduces Griffin through voice-over narration and silhouetted images; we never really receive a description, but instead intuition and implications. A big problem I had with the film is that many of its murder sequences consist of a brainless victim screaming helplessly instead of attempting to defend themselves. The victims stand out more than the main characters here, so they should have much more priority in their murder sequences. They also need further examination so we actually care about someone in the story. There is a lengthy, exciting, and suspenseful sequence in which a homeless young woman actually puts up a fight to escape the clutches of Griffin, developing tension and one of the most insinuating chase scenes all year. Too bad there were not more of this type of incident in \"The Watcher.\" The performances are actually better than the movie deserves, as is some of the suspense. Perhaps the biggest controversy found within this movie is Keanu Reeves playing a villain. After being in movies like \"The Matrix\" and \"Speed,\" audiences come to expect him to save the day, not brutally murder women. As Griffin, he makes more of the character than the film provides; I liked his effective performance, although he does not include the psychotic touch that actors like Vince Vaughn and Christian Bale have. James Spader comes off as his usual stale, boring self in a role that is way too oppressive for his capabilities. \"The Watcher\" is a one-line script: it is predictable and the same situation is repeated over and over, sagging its line of tension. It concludes in a predicable, expected outcome that is explosive and action packed, but lacks a satisfying feeling we normally experience in this kind of movie. \"The Watcher\" is simply another serial killer picture made with the hopes of grossing millions of dollars, which probably explains why there are so many things wrong with it.",
+         "This is a weird, weird movie. Basically, Keanu Reeves plays a serial killer who becomes so obsessed with James Spader (the FBI agent who is trying to catch Keanu), that Keanu kidnaps Spader's girlfriend, who ends up dying. The killer actually even says that he does this because he thought the FBI guy was spending too much time focusing on her instead of him (!). FBI guy then has a nervous breakdown of some sort, quits the FBI, moves across the country and lives on disability in what is probably the most depressing apartment ever. James Spader really gives this role 110%. He looks like he's in excruciating pain all the time. The killer tries to get on with his life, even trying to form a new \"relationship\" with the new FBI agent assigned to track him down, but it's just not the same. So the killer follows Spader across country and mails him pictures of girls he is going to (and has) killed, in order to coax the former FBI guy back into tracking him. When this fails to get the attention of Spader (he's a total basketcase and doesn't open his mail), the killer SENDS HIM FLOWERS, along with a picture of the girl Keanu is going to kill in 24 hours unless Spader can find her first. This effectively breaks the basketcase away from his new full time job of staring at the walls of his bleak apartment and gets him back in the swing of hunting the killer. Up to this point, the movie is actually really good and engaging. I cared about this broken shell of a man who is trying to recover from his mental breakdown caused by a maniac who refuses (for what appear to be rather taboo reasons) to leave him alone. But about halfway through the film, the movie seemed to just sort of give up and degenerated into a fairly run of the mill cat-and-mouse type thing. Usually, when a movie starts out quirky, it stays quirky. Or if it's going to be mediocre, it starts out that way and doesn't change. This movie could have been something really special if the filmmakers would have had the guts to follow through on the set up and what was REALLY going on between the killer and the FBI guy, instead of just letting the movie devolve into a boring rehash of just about every other cop-chasing-maniacal-killer movie we've ever seen.",
+         "James Spader in an outstanding performance as a cop tormented by many demons, both in his mind and on the other end of his telephone. Keanu Reeves is every woman's nightmare---a charming killer with the face of an angel and the soul of a demon. Tense, twisting plot, great ending. Gotta own it on DVD...satisfying for both men and women.",
+         "I didn't expect to like this movie as much as I did. The plot was written in a way to make the characters very believable and real. Spader plays a tragic hero that needs the bad guy (under-played to perfection by Reeves) to come back into his life in order to find closure with his past and come to terms with the present. Neither Spader nor Reeves played to stereotypes common to this genre, and as a result, their performances were gritty and powerful without coming across as over-the-top. Stereotyped performances are a common weakness in many other similar movies, which are also good movies, but they rely on star performances from their marquee actors. This becomes a troublesome thing when the acting tends to define the movie and hides weaknesses and implausibility within the script. Recent examples of this are seen in The Bone Collector, Copycat, and Kiss The Girls. I liked each of these movies for different reasons, but The Watcher was more real to me because the actors weren't playing a type. Spader showed a reluctant vulnerability and a controlled intensity that was very true-to-life in my experience. And Reeves was so spooky as the serial killer because he tried to show a small sliver of his Evil each time without ever overdoing it. Another great surprise was Tomei, who came out of semi-retirement to also give us a dead-on performance as Spader's psychiatrist. She, too, acted emotionally in a way that filled the role without ever becoming a movie stereotype. Visually, her hair, make-up, and clothes helped downplay her character and allowed her to become just another real person who arbitrarily became involved in things. I think this was a great choice for her."
+      ],
+      "genres": [
+         "Crime",
+         "Horror",
+         "Mystery",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "Lewitt / Eberts Prouctions",
+         "Choi / Niami Prouctions",
+         "Driven Productions"
+      ],
+      "summaries": [
+         "David Allen Griffin is a cool killer- time and time again, he chooses a female victim, studies her for weeks till he knows her routine to the smallest detail, makes meticulous preparations using his forensic knowledge to gain entry when she's quite alone, subdues her and administers a long, torturous death. Joel Campbell got so frustrated by his failure to capture Griffin in LA that he quit the FBI, moved to Chicago and remains in psychiatric therapy, unable to function normally. Then he realizes, when opening his mail very late, that a new murder victim is Griffin's, and the killer send him pictures of her. Campbell reports this to the police, but is unwilling to join them in the search, suggesting Griffin is too slick and clever; yet he won't get out of it that easily...",
+         "A detective tracking a serial killer gives up all hope of solving the crimes and moves to another city. After he's settled in the old acquaintance he makes himself known. The serial killer has resurrected and resumes sending him pictures of his next victim."
+      ],
+      "budget": 33000000
+   },
+   "movielensId": 3895,
+   "movielens": {
+      "languages": [
+         "Tiếng Việt",
+         "English"
+      ],
+      "releaseDate": "2000-09-08",
+      "dvdReleaseDate": "2001-02-20",
+      "directors": ["Joe Charbanic"],
+      "runtime": 96,
+      "movieId": 3895,
+      "title": "The Watcher",
+      "mpaa": "R",
+      "actors": [
+         "James Spader",
+         "Keanu Reeves",
+         "Marisa Tomei",
+         "Ernie Hudson",
+         "Chris Ellis",
+         "Robert Cicchini",
+         "Yvonne Niami",
+         "Jenny McShane",
+         "Gina Alexander",
+         "Rebekah Louise Smith",
+         "Joseph Sikora",
+         "Jill Peterson",
+         "Michele DiMaso",
+         "Andrew Rothenberg",
+         "David Pasquesi"
+      ],
+      "imdbMovieId": "0204626",
+      "originalTitle": "The Watcher",
+      "genres": [
+         "Mystery",
+         "Thriller"
+      ],
+      "youtubeTrailerIds": [],
+      "plotSummary": "FBI agent Joel Campbell, burnt-out and shell-shocked after years spent chasing serial killers, flees L.A. to begin a new life for himself in Chicago. But five months later, Joel's best laid plans are abruptly cut short when his new hometown becomes the setting for some particularly gruesome murders--murders that could only have been committed by one man: David Allen Griffin. One of Joel's most elusive and cunning nemeses, Griffin has followed his former pursuer to Chicago in order to play a sadistic game of cat and mouse. Taunting Joel with photographs of his intended victims and leaving his crime scenes meticulously free of clues in order to keep the police at bay, Griffin derives as much pleasure out of watching Joel react to every movement as watching his victims die. But when Griffin moves into Joel's inner circle, Joel must quickly find some way to stop him before someone close to him becomes the next one to die.",
+      "tmdbMovieId": 10685,
+      "avgRating": 2.50859,
+      "releaseYear": "2000",
+      "numRatings": 873,
+      "posterPath": "/jesZYsaqtqEaaekAVlyAxpZGDqZ.jpg"
+   }
+}

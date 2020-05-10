@@ -1,0 +1,615 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "prison",
+            "id": 378
+         },
+         {
+            "name": "blues",
+            "id": 2636
+         },
+         {
+            "name": "half-brother",
+            "id": 6231
+         },
+         {
+            "name": "orphanage",
+            "id": 6783
+         },
+         {
+            "name": "band",
+            "id": 33624
+         }
+      ],
+      "imdb_id": "tt0118747",
+      "video": false,
+      "title": "Blues Brothers 2000",
+      "recommendations": [
+         9099,
+         525,
+         11384,
+         306,
+         9644,
+         10804,
+         26261,
+         4954,
+         11718,
+         11821,
+         11896,
+         11595,
+         10498,
+         10945,
+         9080,
+         10859,
+         8592,
+         11584,
+         11310,
+         51036
+      ],
+      "backdrop_path": "/9cvnNAjC0LaNDqPpp1bkKzif76W.jpg",
+      "revenue": 14051384,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 16,
+               "character": "Elwood Blues",
+               "gender": 2,
+               "credit_id": "52fe445d9251416c750321e7",
+               "name": "Dan Aykroyd",
+               "profile_path": "/lV7t37Dla8SILS1G7KpOplmviPg.jpg",
+               "id": 707,
+               "order": 0
+            },
+            {
+               "cast_id": 11,
+               "character": "Mighty Mack McTeer",
+               "gender": 2,
+               "credit_id": "52fe445d9251416c750321cf",
+               "name": "John Goodman",
+               "profile_path": "/eOIx8zj1vYIRhVY2bK5cjIQfua0.jpg",
+               "id": 1230,
+               "order": 1
+            },
+            {
+               "cast_id": 13,
+               "character": "Cab Chamberlain",
+               "gender": 2,
+               "credit_id": "52fe445d9251416c750321d7",
+               "name": "Joe Morton",
+               "profile_path": "/5adJxjbFX2GeuTTCNqc9dg4Twgx.jpg",
+               "id": 3977,
+               "order": 2
+            },
+            {
+               "cast_id": 12,
+               "character": "Buster Blues",
+               "gender": 2,
+               "credit_id": "52fe445d9251416c750321d3",
+               "name": "J. Evan Bonifant",
+               "profile_path": "/ua6kxblfEKBmBmREZNmWfreeZFq.jpg",
+               "id": 69924,
+               "order": 3
+            },
+            {
+               "cast_id": 17,
+               "character": "Malvern Gasperon",
+               "gender": 2,
+               "credit_id": "52fe445d9251416c750321eb",
+               "name": "B.B. King",
+               "profile_path": "/gdGaX5j620BczzspinHLmdoKPFd.jpg",
+               "id": 44999,
+               "order": 4
+            },
+            {
+               "cast_id": 18,
+               "character": "Junior Wells",
+               "gender": 0,
+               "credit_id": "52fe445d9251416c750321ef",
+               "name": "Junior Wells",
+               "profile_path": null,
+               "id": 100709,
+               "order": 5
+            },
+            {
+               "cast_id": 19,
+               "character": "Willie Hall",
+               "gender": 0,
+               "credit_id": "52fe445d9251416c750321f3",
+               "name": "Willie Hall",
+               "profile_path": "/1p2aSnSkYi0maqqdpzQ73KZSDPO.jpg",
+               "id": 7179,
+               "order": 6
+            },
+            {
+               "cast_id": 20,
+               "character": "Matt 'Guitar' Murphy",
+               "gender": 2,
+               "credit_id": "52fe445d9251416c750321f7",
+               "name": "Matt Murphy",
+               "profile_path": "/axMQQHAx4hlj2YkQR3I7wzEHWz4.jpg",
+               "id": 7209,
+               "order": 7
+            },
+            {
+               "cast_id": 21,
+               "character": "'Blue Lou' Marini",
+               "gender": 2,
+               "credit_id": "52fe445d9251416c750321fb",
+               "name": "Lou Marini",
+               "profile_path": "/yM4f4bnNV9ZCE1cHlnWuCvIbb6a.jpg",
+               "id": 7208,
+               "order": 8
+            },
+            {
+               "cast_id": 22,
+               "character": "Mrs. Murphy",
+               "gender": 1,
+               "credit_id": "52fe445d9251416c750321ff",
+               "name": "Aretha Franklin",
+               "profile_path": "/3n2tVxufvL0MAsoocz61IGUdJDL.jpg",
+               "id": 7175,
+               "order": 9
+            },
+            {
+               "cast_id": 23,
+               "character": "Donald 'Duck' Dunn",
+               "gender": 0,
+               "credit_id": "52fe445d9251416c75032203",
+               "name": "Donald \"Duck\" Dunn",
+               "profile_path": "/AjEOByuk15OkT4Pezlq5CvdM9Fx.jpg",
+               "id": 7177,
+               "order": 10
+            },
+            {
+               "cast_id": 24,
+               "character": "Steve 'The Colonel' Cropper",
+               "gender": 2,
+               "credit_id": "52fe445d9251416c75032207",
+               "name": "Steve Cropper",
+               "profile_path": "/sDp2m5fIAUamVu5BpGk30WWWRoS.jpg",
+               "id": 7176,
+               "order": 11
+            },
+            {
+               "cast_id": 25,
+               "character": "'Bones' Malone",
+               "gender": 0,
+               "credit_id": "52fe445d9251416c7503220b",
+               "name": "Tom Malone",
+               "profile_path": "/c8MT4CiaxbBw2qm0jCTYZx7uzMa.jpg",
+               "id": 76150,
+               "order": 12
+            },
+            {
+               "cast_id": 26,
+               "character": "'Mr. Fabulous'",
+               "gender": 0,
+               "credit_id": "52fe445d9251416c7503220f",
+               "name": "Alan Rubin",
+               "profile_path": null,
+               "id": 122115,
+               "order": 13
+            },
+            {
+               "cast_id": 27,
+               "character": "Custodian",
+               "gender": 0,
+               "credit_id": "52fe445d9251416c75032213",
+               "name": "Jonny Lang",
+               "profile_path": "/4o6OVXyggEONFt5S1YBMFiZ8SbB.jpg",
+               "id": 115088,
+               "order": 14
+            },
+            {
+               "cast_id": 28,
+               "character": "Mr. Pickett",
+               "gender": 2,
+               "credit_id": "52fe445d9251416c75032217",
+               "name": "Wilson Pickett",
+               "profile_path": "/cDDbvmYfOaGdh0CnETWdM2SYyTS.jpg",
+               "id": 70146,
+               "order": 15
+            },
+            {
+               "cast_id": 29,
+               "character": "Reverend Morris",
+               "gender": 2,
+               "credit_id": "52fe445d9251416c7503221b",
+               "name": "Sam Moore",
+               "profile_path": "/ffvxrFyDtzpVhtbpKbEXdwkghxt.jpg",
+               "id": 107616,
+               "order": 16
+            },
+            {
+               "cast_id": 30,
+               "character": "Cleophus James",
+               "gender": 2,
+               "credit_id": "52fe445d9251416c7503221f",
+               "name": "James Brown",
+               "profile_path": "/opGiGzOwSRmhnUtWZcFjlyyK8Zx.jpg",
+               "id": 7172,
+               "order": 17
+            },
+            {
+               "cast_id": 31,
+               "character": "Marco",
+               "gender": 2,
+               "credit_id": "52fe445d9251416c75032223",
+               "name": "Paul Shaffer",
+               "profile_path": "/gYzsDxVSklmGuHHH2wZpWljqBrJ.jpg",
+               "id": 69921,
+               "order": 18
+            },
+            {
+               "cast_id": 32,
+               "character": "The Louisiana Gator Boys",
+               "gender": 2,
+               "credit_id": "52fe445d9251416c75032227",
+               "name": "Eric Clapton",
+               "profile_path": "/5Y9eRWlz7AMR4eofCm6OVSZkc1s.jpg",
+               "id": 2585,
+               "order": 19
+            },
+            {
+               "cast_id": 33,
+               "character": "The Louisiana Gator Boys",
+               "gender": 0,
+               "credit_id": "52fe445d9251416c7503222b",
+               "name": "Jack de Johnette",
+               "profile_path": null,
+               "id": 229877,
+               "order": 20
+            },
+            {
+               "cast_id": 34,
+               "character": "The Louisiana Gator Boys",
+               "gender": 0,
+               "credit_id": "52fe445d9251416c7503222f",
+               "name": "Bo Diddley",
+               "profile_path": null,
+               "id": 22863,
+               "order": 21
+            },
+            {
+               "cast_id": 35,
+               "character": "The Louisiana Gator Boys",
+               "gender": 2,
+               "credit_id": "52fe445d9251416c75032233",
+               "name": "Isaac Hayes",
+               "profile_path": "/4igh7emwzt4xBLw1r05gCUHxwzD.jpg",
+               "id": 6542,
+               "order": 22
+            },
+            {
+               "cast_id": 36,
+               "character": "The Louisiana Gator Boys",
+               "gender": 0,
+               "credit_id": "52fe445d9251416c75032237",
+               "name": "Malcolm John Rebennack, Jr.",
+               "profile_path": "/pwMypW0wx1ISL1UNg9geiAP9h9k.jpg",
+               "id": 76141,
+               "order": 23
+            },
+            {
+               "cast_id": 37,
+               "character": "The Louisiana Gator Boys",
+               "gender": 2,
+               "credit_id": "52fe445d9251416c7503223b",
+               "name": "Lou Rawls",
+               "profile_path": "/kxze9RTugaTfD21dXn5XaxZqvsy.jpg",
+               "id": 112099,
+               "order": 24
+            },
+            {
+               "cast_id": 38,
+               "character": "The Louisiana Gator Boys",
+               "gender": 0,
+               "credit_id": "52fe445d9251416c7503223f",
+               "name": "Jimmie Vaughan",
+               "profile_path": null,
+               "id": 227004,
+               "order": 25
+            },
+            {
+               "cast_id": 39,
+               "character": "Dancer",
+               "gender": 1,
+               "credit_id": "53f5772fc3a3683407002c5c",
+               "name": "Kim Roberts",
+               "profile_path": "/buXKE9uKIjT4u0TZXv32zgqDCOR.jpg",
+               "id": 2676,
+               "order": 26
+            },
+            {
+               "cast_id": 40,
+               "character": "Queen Moussette",
+               "gender": 1,
+               "credit_id": "58189168c3a3683879004ba0",
+               "name": "Erykah Badu",
+               "profile_path": "/8kbFerDFjymiIOITUk8L3hpNoFS.jpg",
+               "id": 4237,
+               "order": 27
+            },
+            {
+               "cast_id": 41,
+               "character": "Ghostrider",
+               "gender": 2,
+               "credit_id": "58626d22c3a3681a7d03c37f",
+               "name": "Max Landis",
+               "profile_path": "/yC3fFj2ilwxFph3b7Qb9thcdB6e.jpg",
+               "id": 203285,
+               "order": 28
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe445d9251416c750321a7",
+               "name": "John Landis",
+               "profile_path": "/4MVt3MDXZzW2TsiQNvZCGv1ivRx.jpg",
+               "id": 4610,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe445d9251416c750321ad",
+               "name": "John Landis",
+               "profile_path": "/4MVt3MDXZzW2TsiQNvZCGv1ivRx.jpg",
+               "id": 4610,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe445d9251416c750321b3",
+               "name": "Leslie Belzberg",
+               "profile_path": null,
+               "id": 58148,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe445d9251416c750321b9",
+               "name": "John Landis",
+               "profile_path": "/4MVt3MDXZzW2TsiQNvZCGv1ivRx.jpg",
+               "id": 4610,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe445d9251416c750321bf",
+               "name": "Paul Shaffer",
+               "profile_path": "/gYzsDxVSklmGuHHH2wZpWljqBrJ.jpg",
+               "id": 69921,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe445d9251416c750321c5",
+               "name": "David Herrington",
+               "profile_path": null,
+               "id": 69922,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe445d9251416c750321cb",
+               "name": "Dale Beldin",
+               "profile_path": null,
+               "id": 4615,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe445d9251416c750321dd",
+               "name": "Dan Aykroyd",
+               "profile_path": "/lV7t37Dla8SILS1G7KpOplmviPg.jpg",
+               "id": 707,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe445d9251416c750321e3",
+               "name": "Dan Aykroyd",
+               "profile_path": "/lV7t37Dla8SILS1G7KpOplmviPg.jpg",
+               "id": 707,
+               "department": "Production",
+               "job": "Producer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Music",
+            "id": 10402
+         },
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Crime",
+            "id": 80
+         }
+      ],
+      "popularity": 7.334259,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 11568,
+      "vote_count": 204,
+      "budget": 28000000,
+      "overview": "Elwood, the now lone \"Blues Brother\" finally released from prison, is once again enlisted by Sister Mary Stigmata in her latest crusade to raise funds for a children's hospital. Once again hitting the road to re-unite the band and win the big prize at the New Orleans Battle of the Bands, Elwood is pursued cross-country by the cops, led by Cabel the Curtis' son",
+      "similar": [
+         278,
+         107846,
+         1701,
+         76640,
+         525,
+         5925,
+         9291,
+         1368,
+         1429,
+         708,
+         38234,
+         10734,
+         398175,
+         5971,
+         6075,
+         11471,
+         5503,
+         11412,
+         38055,
+         348893
+      ],
+      "original_title": "Blues Brothers 2000",
+      "runtime": 123,
+      "poster_path": "/87FRtfvpH6nGhGRIDymcNGn6duK.jpg",
+      "spoken_languages": [
+         {
+            "name": "Pусский",
+            "iso_639_1": "ru"
+         },
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         }
+      ],
+      "production_companies": [{
+         "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+         "name": "Universal Pictures",
+         "id": 33,
+         "origin_country": "US"
+      }],
+      "release_date": "1998-02-05",
+      "vote_average": 5.2,
+      "belongs_to_collection": {
+         "backdrop_path": "/i4Jai1IlkbOWd8eNFM0S1lupyLt.jpg",
+         "name": "The Blues Brothers Collection",
+         "id": 112636,
+         "poster_path": "/pQf9LzCokihzlLmgQlPG7yBpZ1o.jpg"
+      },
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["John Landis"],
+      "runtime": 123,
+      "synopsis": null,
+      "writers": [
+         "Dan Aykroyd",
+         "John Landis"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0118747/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMjEyOTkzNjUyOV5BMl5BanBnXkFtZTYwNDEyNzU5._V1_SY317_CR6,0,214,317_AL_.jpg",
+      "actors": ["Stars: Dan Aykroyd, John Goodman, Walter Levine | See full cast and crew »"],
+      "reviews": [
+         "It takes guts to make a sequel to a movie after 20 years, especially after the original has become a legend and the star has died since. However this movie does a lot of things right and frankly, even if it had been perfect, some people would hate it anyway. The film suffers from not having John Belushi, but John Goodman puts in a good effort, and I for one was surprised at the quality of his singing. James Brown and Aretha Franklin reprise their guest roles. The music is not as good as the original but still better than most music in the charts these days. The humour from the original is here but it is not as funny as the original. In fact all elements from the original are here in slightly inferior forms, with the exception of the car chase, which is better. To be honest, it is worth seeing this film just to see how all the band has aged. i would recommend it to anyone who enjoys Blues music, though fans of the original may be disappointed",
+         "Contrary to popular opinion, this is not a sequel. It is supposed to be a tribute to the original. People who bash this movie without reading Aykroyd's interviews are ignorant to the intent here. This movie was originally to be a sequel back in 1981 just before Belushi died. When that happened, the idea for another adventure fell away. But after almost two decades, Aykroyd wanted to do something to revisit the classic film and pay homage to his friend and co-star Belushi, so he assembled this \"Concert Movie\", which is supposed to be all about THE MUSIC, not the story. The only reason a story was put in was to keep it moving from musical number to musical number, because everyone knows that straight concert films are pretty boring, even if you really like the performer(s). So here it is, for the true Blues Brothers fans to enjoy. P.S.-And if your problem with the plot was some of the cartoony style actions that occur (Cabel being pulled heavenward and his clothes magically \"changing\", et cetera), remember that the original had the same things. In the first one the entire band's clothing \"magically\" changes for a concert, but if you know that this is merely a representation of the character's psychological state and not a literal change, then the film works much better. The same idea works for the much-maligned \"zombie\" sequence near the end at Queen Mousette's mansion. Also, people complain about the Bluesmobile in this film being able to drive underwater. Well, in the first film the car flew, performed flips, and was nearly indestructible. In fact, if you watch the DVD of the first film, you find in the deleted scenes and \"Making-of\" section that the Bluesmobile is supposed to be \"magic\", because it was parked each night inside a power transformer. How is that for cheesiness on the first film? So that also explains Elwood's ability to smuggle himself in the dash of the car in this one, and the car being able to crash land from a fiery loop-de-loop at the fairgrounds. Even though I wish this film could have been a little edgier and darker in tone like the original, I do find its bold and effective use of color to be magnificent and fascinating. Perhaps this film has a little more depth than people expect, so they incorrectly perceive it to be a lackluster and shallow mindnumbing entertainment. I know better ....... Remove the stars in the address to e-mail me.",
+         "Here's another film in which I totally go against the critics - both professional and on this board, who take themselves too seriously at times. They hated this sequel to \"The Blues Brothers,\" but I enjoyed it very much. They need to chill a bit and realize the purpose of this film: simply a tribute to the music. How could any fan of \"blues,\" not like this? I mean, look at all the great performers in this film and how much better does it get to have all of them join in for a couple of jam sessions at the end? The movie sports a \"Who's Who\" of modern-day blues musicians and singers and also is directed by John Landis, who has directed some of the most entertaining films of the last 25 years. Plus, it was simply a funny movie with two funny guys - Dan Akyroyd and John Goodman - and a really neat-looking little kid in J. Evan Bonifant who really makes me laugh. Just looking at this 10-year-old dancing is his Blues Brothers outfit alone is worth a number of laughs. Some of the characters in here are so outrageous they would be tough to describe. The car chases, the dances and clothing and over-the-top story all add up to two hours of lamed-brained fun. No, this isn't Shakespeare and it wasn't mean to be. It's a much nicer-edged movie than the first Blues Brothers, too. Unfortunately, too many people want \"edgy\" material all the time . Not only are the characters colorful, so is the cinematography, making it both a visual and audio treat. So....just look at it as a blue concert with laughs, and, hopefully, you'll enjoy it.",
+         "Blues Brothers 2000 is a movie with good intentions, Aykroyd and Landis once again team up to recapture the magic in tribute to John Belushi, and almost all of the original cast are still here. Musically the magic is still there and without a doubt this film is all about the music, but the original Blues Brothers film was about so much more. Blues Brothers 2000 like the first film has very little plot, and that didn't matter the first time around, but this time; without the comedy, the lack of plot is all too apparent. I just didn't find this film funny, with a few rehashed gags and some new ones that didn't work Blue Brothers 2000 really does struggle to entertain. John Goodman doesn't try and replace John Belushi, and he actually does a good job in poor role, but the introduction of a kid to the Blues Brothers Band seemed completely pointless and adds absolutely nothing to the film. The saving grace is the music, with Eric Clapton, BB King, Aretha Franklin, James Brown, etc. and the original Blues Brothers Band, the music is damn good, but this alone is not enough. Thanks for trying, but must try harder. 5/10",
+         "I found Ackroyd to be completely horrible. He looked more like Joe Friday than Elwood Blues. His Chicago accent was forced, the dialog moved through at a horribly slow pace. There was absolutely zero comic timing in this movie. Every scene in the movie, including the musical numbers, took too long-from Elwood talking to the Penguin, to the Car chases-long shots of police cars-to the car-under-the-water routing-to the 50 car pile up that seemed to take 10 minutes. The musical numbers-the lifeblood of the original-were completely devoid of soul. Aretha Franklin's lip-syncing in particular was horrible. Matt Guitar Murphy looked more like a broken down old man than the body-builder he did in the original. Who could believe that the `Dunn and Cropper' radio talk show could possibly exist when they both seemed to be reading off of cue cards the entire movie? The things that we funny and subtle in the first film-Elwood's parking ability, Jake's transformation at the hands of Reverend Cleophus, the miracle performance of the Bluesmobile, the new jobs of the former band members, were hackneyed and overdone in this film. The lack of energy from the band, though, is the coffin nail for this film. They perform with such little life that CGI animation of a skeleton riding a skeletal horse over the stage has to be imposed during their rendition of `Ghost Rider.' This comes from the same Blues Brothers band that made the theme to Rawhide sound like a hit twenty years ago. Finally, the movie seems too bright and too clean. The original took place at night for the most part, and seemed dungier. This film is shiny and clean and that just doesn't feel right. The new Bluesmobile didn't even look right until Elwood littered up the dashboard with trash, and-get this-the cigarette lighter worked! Other fatal flaws: dumbing-down Elwood Blues, inserting a kid into the cast, having Elwood eat something other than dry, white toast, the shaving-cream-ball schtick, no SCMODS, no lines like `Man, I haven't been pulled over in six months.' All the jokes hit you in the face-like they all have to be explained. Complete bomb.",
+         "Who cares about the plot? There wasn't one. The best thing about this movie is the top notch music and performers. Having all those folks in one film is incredible. A hundred years from now, this film would be a great case study of the R & B, Soul, and Blues of this time. And this tease.stay after the final credits, and you will be greatly rewarded. For this type of film I wish there was 2 scoring systems, one for the plot and the other for the music.",
+         "I have to admit that some parts of this movie were clever indeed. It was cool that they tied in the deaths of John Belushi and Cab Calloway into the movie's plot, making the characters they played dead as well. If Jim Belushi took the part of Joliet Jake, that would have been a disaster. Still, the plot of this movie could have used some serious work. For instance, in the original movie, the Blues Brothers (a) were actually brothers and (b) were on an actual \"mission from God\". Their goal was to make some honest money to save an orphanage from shutting down, while trying to flee from the police at the same time. The movie brought back blues legends such as Aretha Franklin and James Brown back into the spotlight, and it helped contribute to the death of disco. Eighteen years later, Jake's dead, Cab Calloway's dead, the orphanage has been shut down, so why are they being chased by the police? Because a half brother of Elwood got p***ed off at finding his real past? The kid, I must add, was a nice touch, and it was cool to see twice as many blues legends in this movie, including some new artists like Johnny Lang and Erykah Badu. But there should have been a better plot, because it seemed as though the Blues Brothers Band were going from event to event for the hell of it. Where's the plot in that? Police, leave these guys alone. The big mistake in this movie was its attempt to outdo the original movie. The music was great, and I highly recommend buying the soundtrack. However, don't expect to see a plot in this story. Otherwise, enjoy.",
+         "The only way this film can not be awe inspiring is if you watch it on a 10\" black and white TV with a 4 watt sound system. Maybe that's a bit extreme, but I watched this on a 70\" projection screen and 7.2 pristine and precise surround sound. I have seen this film at least 20 times and get the same pleasure from it each time. Aretha Franklin's voice and the musical abilities of almost the entire cast would carry any film, but this one doesn't need it. The story might not be completely developed (euphemism) but the Russian mobsters and GI Joes scenes are gutbustingly funny. Also, for anyone who has ever listened to \"modern\" music and wondered where the world was going to, Dan Akroyd's motivational speech is something to behold. Although I never expected to say this, because I'm a non-religious person, the gospel choir's rendition of \"John the Revelator\" sends shivers down your spine. I love this film, and would recommend it to anyone who likes good music.",
+         "This is one of the few movies I have ever seen which actually made me angry... not just disappointed, mind you, but downright furious! No one expected this film to live up to the classic original, but for a sequel to fall this far short of the mark is just plain insulting. This cinematic ipecac fails on just about every possible level; the worst failure being that is just no fun to watch! Instead, it made me uncomfortable and a little embarrassed for the people on the screen. And for those who are confused by the fact that some people have rated this movie very highly, notice that the majority of positive reviews focus on the music. Yes, I love the Blues, and this movie features some good numbers, but GOOD MUSIC DOES NOT MAKE A GOOD MOVIE!! If you want to hear the tunes, by all means get the soundtrack CD. Or simply fast-forward through the lame dialog, wooden acting, and ridiculous plot to watch the music scenes. But I highly discourage anyone who liked the original Blues Brothers from wasting their time on this crassly commercial, soulless, and painfully unfunny movie. ...But that's just my opinion.",
+         "Blues Brothers 2000 has a few points in its favor. The opening is 99% right. It only lacks a brief explanation on why the red car turns up (most likely because the manager made a phone call). Otherwise it is great, a tribute to the lost Belushi. There are also much good music, almost as good as the original. Not least, Aretha Franklin's appearance is truly funny, especially when you have seen the original movie. But the movie lacks the plot of the original. The original plot may have been thin, but it was enough to drive the story. This one lacks that, there is no motivation, no goal to speak of, and the result is that the ending comes as a surprise. Was that it, was that the end of the movie? Then what? But when I saw it the second time, I was prepared and enjoyed the music instead. Another weakness is the lack of special effects. The original movie made a big thing of overdoing car chases in very funny ways. This movie rather under-does them. In the time it was made, it should have used computer graphics to do plenty more than the original. Now they smash a few cars, but little remarkable happens. In particular, there are no original ideas in the car chases. So don't expect too much, just enjoy the music and the fun parts (they sure exist). And don't get bothered by Buster. Without him, Cab wouldn't go after Elwood, right?"
+      ],
+      "genres": [
+         "Action",
+         "Comedy",
+         "Crime",
+         "Music"
+      ],
+      "productionCompanies": ["Universal Pictures"],
+      "summaries": [
+         "Elwood, the now lone \"Blues Brother\" finally released from prison, is once again enlisted by Sister Mary Stigmata in her latest crusade to raise funds for a children's hospital. Once again hitting the road to re-unite the band and win the big prize at the New Orleans Battle of the Bands, Elwood is pursued cross-country by the cops, led by Cabel the Curtis' son (and Elwood's step-brother), the Russian Mafia, and a militia group. On his new \"mission from God\" Elwood enlists the help of a young orphan, and a strip club bartender.",
+         "Eighteen years after completing their \"mission from God\", Elwood J. Blues is released from prison only to learn of the deaths of his brother and partner in crime, 'Joliet' Jake Blues, and his father figure and mentor, Curtis, as well as the destruction of the orphanage he was raised in. With no family, no roots, and no life, a discouraged Elwood goes to meet with Sister (now Mother) Mary Stigmata. At this meeting, in addition to getting stuck mentoring a wise-ass orphan named Buster, Elwood learns of the existence of Curtis' illegitimate son, Cable. Now determined to seek out the only family he has left and to reassemble The Band, Elwood, with the help of his new associate and lead singer, 'Mighty' Mack McTeer, embarks on a death-defying journey that will pit them against the Russian Mafia, a Neo-Confederate Militia, the State Police and the FBI, and end with The Band competing in a Battle of the Bands competition against The Louisiana Gator boys led by B.B. King!",
+         "This sequel picks up 18 years later from the original and finds Elwood Blues being released from prison and trying to re-form his old band with new lead singer Mighty Mac replacing Jake. A road trip culminates with a battle of the bands against the Louisiana Gators led by B.B. King, Eric Clapton, Dr. John, and others.",
+         "Elwood must reunite the old band, with a few new members, and go on another \"Mission from God.\""
+      ],
+      "budget": 28000000
+   },
+   "movielensId": 1772,
+   "movielens": {
+      "languages": [
+         "Pусский",
+         "English"
+      ],
+      "releaseDate": "1998-02-05",
+      "dvdReleaseDate": "1998-08-04",
+      "directors": ["John Landis"],
+      "runtime": 123,
+      "movieId": 1772,
+      "title": "Blues Brothers 2000",
+      "mpaa": "PG-13",
+      "actors": [
+         "Dan Aykroyd",
+         "John Goodman",
+         "Joe Morton",
+         "J. Evan Bonifant",
+         "B.B. King",
+         "Junior Wells",
+         "Willie Hall",
+         "Matt Murphy",
+         "Lou Marini",
+         "Aretha Franklin",
+         "Donald \"Duck\" Dunn",
+         "Steve Cropper",
+         "Tom Malone",
+         "Alan Rubin",
+         "Jonny Lang",
+         "Wilson Pickett",
+         "Sam Moore",
+         "James Brown",
+         "Paul Shaffer",
+         "Eric Clapton",
+         "Jack de Johnette",
+         "Bo Diddley",
+         "Isaac Hayes",
+         "Malcolm John Rebennack",
+         " Jr.",
+         "Lou Rawls",
+         "Jimmie Vaughan",
+         "Kim Roberts",
+         "Erykah Badu",
+         "Max Landis"
+      ],
+      "imdbMovieId": "0118747",
+      "originalTitle": "Blues Brothers 2000",
+      "genres": [
+         "Music",
+         "Action",
+         "Comedy",
+         "Crime"
+      ],
+      "youtubeTrailerIds": ["_ESdH-CRUAE"],
+      "plotSummary": "Elwood, the now lone \"Blues Brother\" finally released from prison, is once again enlisted by Sister Mary Stigmata in her latest crusade to raise funds for a children's hospital. Once again hitting the road to re-unite the band and win the big prize at the New Orleans Battle of the Bands, Elwood is pursued cross-country by the cops, led by Cabel the Curtis' son",
+      "tmdbMovieId": 11568,
+      "avgRating": 2.61722,
+      "releaseYear": "1998",
+      "numRatings": 3340,
+      "posterPath": "/87FRtfvpH6nGhGRIDymcNGn6duK.jpg"
+   }
+}

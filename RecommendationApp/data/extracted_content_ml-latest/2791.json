@@ -1,0 +1,784 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "chicago",
+            "id": 520
+         },
+         {
+            "name": "alcohol",
+            "id": 567
+         },
+         {
+            "name": "cataclysm",
+            "id": 843
+         },
+         {
+            "name": "guitar",
+            "id": 953
+         },
+         {
+            "name": "medicine",
+            "id": 1279
+         },
+         {
+            "name": "taxi driver",
+            "id": 1749
+         },
+         {
+            "name": "passenger",
+            "id": 1757
+         },
+         {
+            "name": "saxophone",
+            "id": 2007
+         },
+         {
+            "name": "stewardess",
+            "id": 2080
+         },
+         {
+            "name": "pilot",
+            "id": 3203
+         },
+         {
+            "name": "airplane",
+            "id": 3800
+         },
+         {
+            "name": "fear of flying",
+            "id": 4544
+         },
+         {
+            "name": "air controller",
+            "id": 4545
+         },
+         {
+            "name": "landing",
+            "id": 4547
+         },
+         {
+            "name": "autopilot",
+            "id": 4548
+         },
+         {
+            "name": "kiss",
+            "id": 5091
+         },
+         {
+            "name": "spoof",
+            "id": 11931
+         },
+         {
+            "name": "los angeles",
+            "id": 12670
+         },
+         {
+            "name": "alcohol abuse",
+            "id": 15237
+         },
+         {
+            "name": "aftercreditsstinger",
+            "id": 179430
+         },
+         {
+            "name": "anarchic comedy",
+            "id": 236316
+         }
+      ],
+      "imdb_id": "tt0080339",
+      "video": false,
+      "title": "Airplane!",
+      "recommendations": [
+         37136,
+         2665,
+         11072,
+         2609,
+         37137,
+         8872,
+         36593,
+         957,
+         816,
+         9595,
+         1542,
+         6471,
+         11153,
+         11977,
+         2292,
+         817,
+         90,
+         137,
+         8699,
+         942
+      ],
+      "backdrop_path": "/tFPvOmz0uNmfp1sq2ebYAeUCLQ4.jpg",
+      "revenue": 83453539,
+      "reviews": [{
+         "author": "schoosskyler",
+         "id": "59fe35df925141471d027d4b",
+         "content": "An American Comedy _**Classic**_ - Everything about this film screams 'American Cinema Comedy'. A lot of the humor is a precursor to modern american humor, including the terribly cheesy pulp humor. This film is an homage to the comedies that came before it, but is innovative in its combination of wordplay and referential humor. I see vestiges of this film in everything from 'The Hangover' to 'The Office'. \r\n\r\nIf at any point you are watching this and find yourself saying 'This is really stupid', just remember: Relax. It's supposed to be stupid.",
+         "url": "https://www.themoviedb.org/review/59fe35df925141471d027d4b"
+      }],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 5,
+               "character": "Ted Striker",
+               "gender": 2,
+               "credit_id": "52fe427ac3a36847f8021bbf",
+               "name": "Robert Hays",
+               "profile_path": "/1KWB4DXcsTVNDkDOaTJYatiTmDn.jpg",
+               "id": 14416,
+               "order": 0
+            },
+            {
+               "cast_id": 4,
+               "character": "Elaine",
+               "gender": 1,
+               "credit_id": "52fe427ac3a36847f8021bbb",
+               "name": "Julie Hagerty",
+               "profile_path": "/3L0l8TVSzqYNmJA1b2Ve6bU2iwz.jpg",
+               "id": 14415,
+               "order": 1
+            },
+            {
+               "cast_id": 1,
+               "character": "Murdock",
+               "gender": 2,
+               "credit_id": "52fe427ac3a36847f8021baf",
+               "name": "Kareem Abdul-Jabbar",
+               "profile_path": "/xUzZxzrAaAKZ1l2quIJRgmBwOGU.jpg",
+               "id": 14414,
+               "order": 2
+            },
+            {
+               "cast_id": 2,
+               "character": "McCroskey",
+               "gender": 2,
+               "credit_id": "52fe427ac3a36847f8021bb3",
+               "name": "Lloyd Bridges",
+               "profile_path": "/qez0xZiQGt3f530vAGcoYAWd7FM.jpg",
+               "id": 2177,
+               "order": 3
+            },
+            {
+               "cast_id": 3,
+               "character": "Captain Oveur",
+               "gender": 2,
+               "credit_id": "52fe427ac3a36847f8021bb7",
+               "name": "Peter Graves",
+               "profile_path": "/sR9B0mE399EGI9aRxMbWMpk2GKT.jpg",
+               "id": 9111,
+               "order": 4
+            },
+            {
+               "cast_id": 6,
+               "character": "Dr. Rumack",
+               "gender": 2,
+               "credit_id": "52fe427ac3a36847f8021bc3",
+               "name": "Leslie Nielsen",
+               "profile_path": "/cZpuTfE1j63tCEXoSL2A7KZjk5d.jpg",
+               "id": 7633,
+               "order": 5
+            },
+            {
+               "cast_id": 7,
+               "character": "Randy",
+               "gender": 1,
+               "credit_id": "52fe427ac3a36847f8021bc7",
+               "name": "Lorna Patterson",
+               "profile_path": null,
+               "id": 14418,
+               "order": 6
+            },
+            {
+               "cast_id": 8,
+               "character": "Rex Kramer",
+               "gender": 2,
+               "credit_id": "52fe427ac3a36847f8021bcb",
+               "name": "Robert Stack",
+               "profile_path": "/f1MchlCMVc4LDWEALsodZHPkbIu.jpg",
+               "id": 2493,
+               "order": 7
+            },
+            {
+               "cast_id": 9,
+               "character": "Johnny",
+               "gender": 2,
+               "credit_id": "52fe427ac3a36847f8021bcf",
+               "name": "Stephen Stucker",
+               "profile_path": null,
+               "id": 14423,
+               "order": 8
+            },
+            {
+               "cast_id": 10,
+               "character": "Religious zealot #6",
+               "gender": 2,
+               "credit_id": "52fe427ac3a36847f8021bd3",
+               "name": "Jim Abrahams",
+               "profile_path": "/lXpyiQ7tSxrxBeop8LLIltOorUN.jpg",
+               "id": 12936,
+               "order": 9
+            },
+            {
+               "cast_id": 11,
+               "character": "Victor Basta",
+               "gender": 2,
+               "credit_id": "52fe427ac3a36847f8021bd7",
+               "name": "Frank Ashmore",
+               "profile_path": "/kueRs1fMu5ECpWqhk1aTh1OsGNM.jpg",
+               "id": 14427,
+               "order": 10
+            },
+            {
+               "cast_id": 12,
+               "character": "Gunderson",
+               "gender": 2,
+               "credit_id": "52fe427ac3a36847f8021bdb",
+               "name": "Jonathan Banks",
+               "profile_path": "/s6K0lromCtmSTzuX9hig8OPiRsC.jpg",
+               "id": 783,
+               "order": 11
+            },
+            {
+               "cast_id": 38,
+               "character": "Paul Carey",
+               "gender": 0,
+               "credit_id": "52fe427ac3a36847f8021c75",
+               "name": "Craig Berenson",
+               "profile_path": null,
+               "id": 174872,
+               "order": 12
+            },
+            {
+               "cast_id": 39,
+               "character": "Jive Lady",
+               "gender": 1,
+               "credit_id": "52fe427ac3a36847f8021c79",
+               "name": "Barbara Billingsley",
+               "profile_path": "/nPPVnuRO35oAotjw6kovTk5f6zZ.jpg",
+               "id": 117723,
+               "order": 13
+            },
+            {
+               "cast_id": 40,
+               "character": "Mrs. Hammen",
+               "gender": 1,
+               "credit_id": "52fe427ac3a36847f8021c7d",
+               "name": "Lee Bryant",
+               "profile_path": "/riFEbXO78dRCTxzQ358AVr1m4uD.jpg",
+               "id": 160328,
+               "order": 14
+            },
+            {
+               "cast_id": 41,
+               "character": "Mrs. Davis",
+               "gender": 1,
+               "credit_id": "52fe427ac3a36847f8021c81",
+               "name": "Joyce Bulifant",
+               "profile_path": null,
+               "id": 153386,
+               "order": 15
+            },
+            {
+               "cast_id": 42,
+               "character": "Security Lady",
+               "gender": 0,
+               "credit_id": "52fe427ac3a36847f8021c85",
+               "name": "Mae E. Campbell",
+               "profile_path": null,
+               "id": 169802,
+               "order": 16
+            },
+            {
+               "cast_id": 43,
+               "character": "Lieutenant Hurwitz",
+               "gender": 1,
+               "credit_id": "52fe427ac3a36847f8021c89",
+               "name": "Ethel Merman",
+               "profile_path": "/p3nRo1lALyD6FVHA01Rs9SojzSr.jpg",
+               "id": 109897,
+               "order": 17
+            },
+            {
+               "cast_id": 44,
+               "character": "Windshield Wiper Man",
+               "gender": 2,
+               "credit_id": "52fe427ac3a36847f8021c8d",
+               "name": "Jimmie Walker",
+               "profile_path": "/3E8l7vhY1LHSOqbb6UTjRpHIZRM.jpg",
+               "id": 31366,
+               "order": 18
+            },
+            {
+               "cast_id": 45,
+               "character": "Lisa Davis",
+               "gender": 1,
+               "credit_id": "52fe427ac3a36847f8021c91",
+               "name": "Jill Whelan",
+               "profile_path": "/fyDOGDvnevuZ8gvrxrkSwyk6Jsy.jpg",
+               "id": 173263,
+               "order": 19
+            },
+            {
+               "cast_id": 51,
+               "character": "",
+               "gender": 1,
+               "credit_id": "52fe427ac3a36847f8021cb3",
+               "name": "Kitten Natividad",
+               "profile_path": "/m3wYX0x4ED2shOSYxJ0lqyLvT65.jpg",
+               "id": 41711,
+               "order": 20
+            },
+            {
+               "cast_id": 52,
+               "character": "Cocaine Lady",
+               "gender": 0,
+               "credit_id": "551f18ef9251415c7a000280",
+               "name": "Nora Meerbaum",
+               "profile_path": null,
+               "id": 1449360,
+               "order": 21
+            },
+            {
+               "cast_id": 54,
+               "character": "Air Controller Neubauer",
+               "gender": 2,
+               "credit_id": "56ef73a99251414dba00b29e",
+               "name": "Kenneth Tobey",
+               "profile_path": "/eDD3rIv203f48tnu7ONwfjXQW7J.jpg",
+               "id": 103069,
+               "order": 22
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe427ac3a36847f8021be1",
+               "name": "Jim Abrahams",
+               "profile_path": "/lXpyiQ7tSxrxBeop8LLIltOorUN.jpg",
+               "id": 12936,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe427ac3a36847f8021be7",
+               "name": "David Zucker",
+               "profile_path": "/rJzWA35n0dsn4xecDGW8x7EkmKB.jpg",
+               "id": 12987,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe427ac3a36847f8021bed",
+               "name": "Jerry Zucker",
+               "profile_path": "/n2iX1gJyOxImJie2LTORZNKM9n9.jpg",
+               "id": 3415,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe427ac3a36847f8021bf3",
+               "name": "Jim Abrahams",
+               "profile_path": "/lXpyiQ7tSxrxBeop8LLIltOorUN.jpg",
+               "id": 12936,
+               "department": "Writing",
+               "job": "Author"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe427ac3a36847f8021bf9",
+               "name": "David Zucker",
+               "profile_path": "/rJzWA35n0dsn4xecDGW8x7EkmKB.jpg",
+               "id": 12987,
+               "department": "Writing",
+               "job": "Author"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe427ac3a36847f8021bff",
+               "name": "Jerry Zucker",
+               "profile_path": "/n2iX1gJyOxImJie2LTORZNKM9n9.jpg",
+               "id": 3415,
+               "department": "Writing",
+               "job": "Author"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe427ac3a36847f8021c05",
+               "name": "Jon Davison",
+               "profile_path": null,
+               "id": 7723,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe427ac3a36847f8021c0b",
+               "name": "Howard W. Koch",
+               "profile_path": "/ocnNi4vGIENHuQFzv2ecoLjP9pB.jpg",
+               "id": 3428,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe427ac3a36847f8021c11",
+               "name": "Elmer Bernstein",
+               "profile_path": "/3H3AqKesJnkwJzWFJY9hyFwci5m.jpg",
+               "id": 7182,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe427ac3a36847f8021c17",
+               "name": "Joseph F. Biroc",
+               "profile_path": null,
+               "id": 14431,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe427ac3a36847f8021c23",
+               "name": "Joel Thurm",
+               "profile_path": null,
+               "id": 8882,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe427ac3a36847f8021c29",
+               "name": "Ward Preston",
+               "profile_path": null,
+               "id": 14433,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe427ac3a36847f8021c2f",
+               "name": "Anne D. McCulley",
+               "profile_path": null,
+               "id": 11375,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe427ac3a36847f8021c35",
+               "name": "Rosanna Norton",
+               "profile_path": "/mfiXzHEDQrKvFJIjayyEhlFuk5R.jpg",
+               "id": 13589,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe427ac3a36847f8021c3b",
+               "name": "Edwin Butterworth",
+               "profile_path": null,
+               "id": 14436,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe427ac3a36847f8021c41",
+               "name": "Joan Phillips",
+               "profile_path": null,
+               "id": 14440,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe427ac3a36847f8021c47",
+               "name": "Maurice Vaccarino",
+               "profile_path": null,
+               "id": 14441,
+               "department": "Production",
+               "job": "Unit Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe427ac3a36847f8021c4d",
+               "name": "Mike Higelmire",
+               "profile_path": null,
+               "id": 14442,
+               "department": "Art",
+               "job": "Art Department Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe427ac3a36847f8021c53",
+               "name": "Clancy T. Troutman",
+               "profile_path": null,
+               "id": 14443,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe427ac3a36847f8021c59",
+               "name": "Jeff Carson",
+               "profile_path": null,
+               "id": 12945,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe427ac3a36847f8021c5f",
+               "name": "John Frazier",
+               "profile_path": null,
+               "id": 10631,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe427ac3a36847f8021c65",
+               "name": "Robert Blalack",
+               "profile_path": null,
+               "id": 14444,
+               "department": "Visual Effects",
+               "job": "Visual Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe427ac3a36847f8021c6b",
+               "name": "Conrad E. Palmisano",
+               "profile_path": null,
+               "id": 12948,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe427ac3a36847f8021c71",
+               "name": "Leigh Walsh",
+               "profile_path": null,
+               "id": 14445,
+               "department": "Actors",
+               "job": "Stunt Double"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe427ac3a36847f8021c97",
+               "name": "Arthur Hailey",
+               "profile_path": null,
+               "id": 52096,
+               "department": "Writing",
+               "job": "Teleplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe427ac3a36847f8021c9d",
+               "name": "Hunt Lowry",
+               "profile_path": null,
+               "id": 18350,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe427ac3a36847f8021ca3",
+               "name": "Jim Abrahams",
+               "profile_path": "/lXpyiQ7tSxrxBeop8LLIltOorUN.jpg",
+               "id": 12936,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe427ac3a36847f8021ca9",
+               "name": "David Zucker",
+               "profile_path": "/rJzWA35n0dsn4xecDGW8x7EkmKB.jpg",
+               "id": 12987,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe427ac3a36847f8021caf",
+               "name": "Jerry Zucker",
+               "profile_path": "/n2iX1gJyOxImJie2LTORZNKM9n9.jpg",
+               "id": 3415,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "561fab5dc3a3680e0e0038e3",
+               "name": "Patrick Kennedy",
+               "profile_path": null,
+               "id": 1118130,
+               "department": "Editing",
+               "job": "Editor"
+            }
+         ]
+      },
+      "genres": [{
+         "name": "Comedy",
+         "id": 35
+      }],
+      "popularity": 23.101244,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 813,
+      "vote_count": 1419,
+      "budget": 3500000,
+      "overview": "Alcoholic pilot, Ted Striker has developed a fear of flying due to wartime trauma, but nevertheless boards a passenger jet in an attempt to woo back his stewardess girlfriend. Food poisoning decimates the passengers and crew, leaving it up to Striker to land the plane with the help of a glue-sniffing air traffic controller and Striker's vengeful former Air Force captain, who must both talk him down.",
+      "similar": [
+         5559,
+         676,
+         744,
+         1538,
+         87502,
+         363676,
+         27932,
+         86838,
+         339,
+         451,
+         9644,
+         11355,
+         1257,
+         11856,
+         8764,
+         9308,
+         22640,
+         11352,
+         7227,
+         308084
+      ],
+      "original_title": "Airplane!",
+      "runtime": 88,
+      "poster_path": "/b4sAWNIbfXw4WTdc1wiVRBk2Vko.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
+         "name": "Paramount",
+         "id": 4,
+         "origin_country": "US"
+      }],
+      "release_date": "1980-07-02",
+      "vote_average": 7.2,
+      "belongs_to_collection": {
+         "backdrop_path": "/w7bNIqVMZaaWf1LnMIZ1HywXbP8.jpg",
+         "name": "Airplane Collection",
+         "id": 91663,
+         "poster_path": "/u8IXYbpoRcKMlnhUvND0NB8HsAM.jpg"
+      },
+      "tagline": "What's slower than a speeding bullet, and able to hit tall buildings at a single bound?",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": [
+         "Jim Abrahams",
+         "David Zucker"
+      ],
+      "runtime": 88,
+      "synopsis": "Ex-fighter pilot Ted Striker (Robert Hays) became traumatized after an incident during the war, leading to his fear of flying. Recovering his courage, Striker attempts to regain the love of his life from the war, Elaine (Julie Hagerty), now a stewardess. In order to win her love, Striker overcomes his fear and buys a ticket on a flight she is serving on, from Los Angeles to Chicago. However, during the flight, Elaine rebuffs his attempts. After dinner is served, many of the passengers fall ill, and Dr. Rumack (Leslie Nielsen) quickly realizes that one of the meal options gave the passengers food poisoning. The stewards discover that the pilot crew, including Captain Oveur (Peter Graves) and Roger Murdock (Kareem Abdul-Jabbar), have all come down with food poisoning, leaving no one aboard to fly the plane. Elaine is instructed by the Chicago control tower supervisor Steve McCroskey (Lloyd Bridges) to activate the plane's autopilot a large blow-up doll named \"Otto\" which will get them to Chicago but will not be able to land the plane. Elaine realizes that Striker is their only chance, and he is convinced to fly the plane, though he still feels his trauma will prevent him from safely landing the plane. McCroskey, after hearing Striker's name on the radio, sends for Striker's former commander, Rex Kramer (Robert Stack) to help talk him down. As the plane nears Chicago, Striker neglects to check the oil temperature which damages one of the engines while a bad thunderstorm reduces visibility, making the landing even more difficult. Thanks to Kramer's endless stream of advice, Striker is able to overcome his fears and safely land the plane with only minor injuries to some passengers. Striker's courage rekindles Elaine's love for him, and the two share a kiss while Otto takes off in the evacuated plane after inflating a female autopilot doll.",
+      "writers": [
+         "Jim Abrahams",
+         "David Zucker"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0080339/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BNDU2MjE4MTcwNl5BMl5BanBnXkFtZTgwNDExOTMxMDE@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Robert Hays, Julie Hagerty, Leslie Nielsen | See full cast and crew »"],
+      "reviews": [
+         "\"Airplane!\" is, was and always shall be the master of spoof movies. It is single-handedly responsible for literally inventing a sub-genre of comedy. It is the ultimate Silly Movie. A satire of the disaster movies of the 1970s, particularly the \"Airport\" series, nothing makes sense and it doesn't need to. There's no real plot. Just laughs - and plenty of 'em. It was helmed by the ZAZ trio (Zucker, Abrahams and Zucker), whose dedication to making the audience laugh is surprisingly adamant. Recent spoofs may have left a bad aftertaste in your mouth, but it seems to be a universal agreement: \"Airplane\" is the funniest film of its genre ever made. (Closely followed by \"The Naked Gun\" - also penned by the ZAZ trio - perhaps.) The plot: Ted Striker (Robert Hays) is a war veteran-turned-cab-driver who decides to chase after his girlfriend, an airline stewardess named Elaine (Julie Hagerty), who has dumped him in order to pursue a new life. Right before her plane takes off, Ted climbs aboard, hitching a ride in order to woo her back into a relationship again. When the aircraft is in midflight, both pilots become very ill after eating their meals. Eventually many passengers begin to show symptoms of a rare disease, apparently transmitted by the food. Onboard, Dr. Rumack (Leslie Nielsen) takes care of the sick passengers as Ted - an ex-fighter pilot from the war - decides to try and land the plane. If he messes up they will all die, and in a particularly funny scene, the pressure becomes so unbearable that he begins to literally sweat gallons in the cockpit. That is essentially all the film is about, but most of its duration is spent cracking jokes. Spoof films are entirely different from other movies because normally we would criticize a film if it considered its plot to be the least important element. Not so here. This is a truly brainless piece of celluloid - a movie that doesn't try to be anything that it isn't. From the opening credits - that cleverly spoof \"JAWS\" - to the closing we realize that this is an altogether unique film going experience. The movie's biggest laughs come through unexpected flashbacks, such as when Ted remembers where he first met Elaine in a crummy bar (\"...it was worse than Detroit...\"), and begins to disco-dance a la John Travolta from \"Saturday Night Fever\" (complete with Bee Gees soundtrack blaring in the background and the famous Travolta pose). Then, later, we are taken back to when Ted was hospitalized after the war, and finds out that he was responsible for the death of six men. \"Seven, actually,\" he is informed, which adds to the pain of the moment for him. Though this movie is very funny, many jokes misfire. If you're not pop culture savvy and you don't remember Mrs. Cleaver from TV's \"Leave it to Beaver\", the humor is going to go over your head. But unlike many comedies, \"Airplane!\" offers something unique for each person. I know that as a film lover, I picked up on many movie in-jokes that some people might not recognize. And then there were the gags that I first missed but picked up after a second viewing, or when someone explained them to me, or both. And I'm sure there are many yet that I'm not aware of. It seems that every time I watch it, there's something else to laugh at that I missed previously. \"Airplane!\" not only was a huge success in 1980 (the year of its release), spinning off a horde of imitators and one sequel - it was also responsible for crowning Leslie Nielsen \"The King of Spoof.\" Prior to \"Airplane!\" Nielsen had been a veteran of more serious productions, stemming back to playing cowboys on \"The Mickey Mouse Club\" and other embarrassing attempts at acting. However, Nielsen later claimed that he had always wanted to do a comedy, even when he first started acting seriously with projects such as the classic \"Forbidden Planet\" (one of the best science-fiction films ever made). He later reunited with the ZAZ trio for \"The Naked Gun\" trilogy, appeared in similar spoof films over the years such as \"Wrongfully Accused\" and \"Scary Movie 3,\" and had his iconic comedy shtick ripped off by many screen veterans - most noticeably by George Gaynes in the unbearable \"Police Academy\" (1984). When it comes down to a single evaluation, \"Airplane\" is simply the best spoof film ever made. It's like a MAD Magazine parody come to life. There are the occasional misfires, but unlike many other spoof film imitators, this one contains far more hits. The deadpan acting is genius and everything else fits into place, resulting in what may arguably be one of the absolute funniest films ever conceived and put on the big screen. And if you decide to watch the movie, don't blink - you might miss a gag or two. The \"Police Academies\" will come and go but \"Airplane!\" will never be forgotten.",
+         "It is my understanding that there are still a few people in the world that haven't seen \"Airplane!\" yet. Those people probably are still waiting for electricity, indoor plumbing and all the other great advances in humanity, too. To see \"Airplane!\" is to take part in the great move to subvert all self-importance in movies, which this film does with great relish (and plenty of corn). You get a chance to see such \"serious\" actors as Peter Graves, Lloyd Bridges, Robert Stack and Leslie Nielsen subvert themselves and their own personnae into near oblivion thanks to the writing/directing team of Zucker, Abrahams and Zucker. Not to mention visual and verbal send-ups of darn near every movie that ever took place in the air, and a few that didn't, but should have. Kudos to Leslie Nielsen, who with this movie gave himself the greatest reinvention of any actor this century. At one time, he was the very model of stoic sensibility. I swear. Seriously. A looooong time ago. Ten stars. A laugh riot. And I STILL think this would make a great in-flight movie.",
+         "War pilot Ted Striker boards a flight for the first time since the war in order to stop his relationship with stewardess Elaine breaking up. Unfortunately the fish meal on the flight is bad and causes the crew to go sick leaving the plane on automatic pilot. With Striker the only man on board who can land the plane can he overcome his fears of failure stemming from the war? This without a doubt one of the best comedies of cinema, it is far and away the best spoof ever made - and it was made when this type of humour was still fresh. From the opening moments right down to the closing credits this is hilarious. The plot is a straight spoof of 1970's Airport disaster movies, and is only an excuse for a range of jokes. However the plot is bang on - it's detailed enough that it could be a serious disaster movie and allows the film to poke fun directly at the disasters movies themselves. The cast are perfect. For Robert Hays and Julie Hagerty this represents the best things they've ever done. Both play the straight men for the majority and are relied upon to take it all seriously and drive the plot while jokes occur all round them, that said they deliver many themselves but always straight faced. Nielsen and Bridges are also spot on as stereotypical doctor and traffic control guy who \"chose the wrong day to give up drinking\"! They are both so straight faced that they make the whole thing seem even more silly. Robert Stack is excellent as the man brought in to talk the plane down, playing the butch masculine figure ignoring all the madness around him. Also on the ground, Stephen Stucker is great as the camp controller who delivers many brilliant one liners as he walks through scenes. Peter Graves and Kareen Abdul Jabbar are great as two of the pilots that almost are in a different movie the things they say! The film is a spot on spoof of disaster movies, making fun of the many clichés of the genre - the nuns on board, the sick child, the \"only man who can land the plane\", the poisoned food etc. But it does more than just poke fun at these - it is hilarious in it's own right. All the cast deliver their lines brilliantly and the script! The script is excellent - I'm not going to start listing lines but they come so thick and fast that you usually miss something because you're laughing at the last joke. This is the mould for all spoofs - this is the one to beat. While many spoofs are hit and miss this is almost a total hit. Decades on and many viewings later this is still as fresh and as funny as it ever was. A brilliant, brilliant comedy!",
+         "Unfortunately, Airplane! has been, for me, one of those comedies that I have seen so many times in the video store that its appeal has gradually worn down to almost nothing, resulting in a total absence of interest in renting it. I eventually watched it one day because I worked at the video store and could rent movies for free, and was continuing on my desperate attempt to watch every movie in the store (a goal which continues to this day, although by now I've come to realize that it's never going to happen). During my quest, by the way, I also saw the old 1970 film Airport, probably ten years after having seen parts of Airplane!, and realized that this is one of the many movies that inspired Airplane! In general, I'm a little cautious about movies that have exclamation points in the titles, but Airplane! is without a doubt one of the funniest movies ever made. Consider, for example, those little montages that studios sometimes put together and put at the beginning of movies when they come out on videotape, honoring the great movies that the studio has made in the past. They show lots of memorable clips from their old movies (and I always write all of these titles down, determined to watch them all, and then promptly lose the list that I made) to remind you how great they are. I had a good time watching Airplane! and picking out how many scenes are in the movie that can and do go into those memorable montages. Airplane! is made up of a series of hilarious scenes that string together a thin shoestring plot, which ironically speaks in the movie's defense. In general, movies with weak stories that are driven along by comedic stunts and pranks and whatnot tend to be pretty weak, but Airplane! is not driven by stunts to cover a weak story as much as the quality of the stunts and the slapstick comedy is so good that they overshadow everything else. It's interesting to watch someone like Robert Stack so many years ago and see that he looked and talked exactly like he did in Unsolved Mysteries so many years later, a show the seriousness of which boggles the mind, given that it's hosted by someone who did so well in a movie like this one. My favorite thing about this movie is, obviously, the huge amount of sound bytes that comes from it, just the cleverness of the way it was written and put together. You have the main character's `drinking problem,' the airport announcers (`Listen, Betty, don't start up with your white zone sh*t again\u0085'), the stress of the people investigating the situation on the plane (`Looks like I picked the wrong week to quit smoking/drinking/amphetamines.'), the plays on words (`There's a problem at the control tower!' `What is it?' `It's the big tower where the air traffic controllers talk to the planes.'), that one airport employee who was suspiciously bubbly and excited throughout the entire movie (while providing some of its best comedy), and then of course were the situational gags, such as Robert Stack pulling off his sunglasses to reveal another pair underneath (arguably the most famous scene in the entire film). This is a movie where a list like this could go on and on, and I'm sure if you go to the memorable quotes page on the IMDb you'll find a gigantic list of hilarious quotes from the movie there. It is no secret that this is something of a childish and immature comedy, but it is smartly written and has so many great scenes and bits of dialogue that it's one of those rare movies that makes you want to take notes so you won't forget a lot of the lines. It is one of the earlier versions of Leslie Nielsen's spoofs, a genre in itself which went on to tremendous success with lots of great (and some not so great) spoofs to follow.",
+         "Airplane is simply the funniest movie of all time. It handles the broad range of parody, satire, and plain silliness expertly, and has some of the greatest one-liners and sight gags ever put in a movie. Sure some of the jokes are dated, but great comedies (especially parodies) exist in the moment, and you have to expect that. The fact is, enough jokes hit the bullseye that it really is one of those rare movies where you are laughing constantly. I am, at least. This movie launched Leslie Nielsen's career as a comedy actor, although he still hasn't made anything this good (Naked Gun comes closest, but it's still light years away from this). Do any movies come close to hitting the zenith that this one does? \"Young Frankenstein\" comes close, but even the best Mel Brooks film doesn't top this. There has simply never been a funnier movie than \"Airplane!\" and for that, it deserves to be considered one of the greatest MOVIES of all time (I know for many people that's a stretch, but I stand by it; I've been watching it my whole life and there's still nothing I flat-out enjoy watching more).",
+         "Still one of funniest spoof movies ever made, Airplane is one of the first and one of the best around. Hot Shots, Loaded Weapon even Naked Gun have tried to follow in its footsteps, but they have failed to hit the mark. That's not to say that they are bad movies, just that its difficult to follow a movie of this calibre. Spoof movies definitely have there place in everyone's collection, but this is probably the best you'll ever see in the genre, if you have never seen it and you fancy a laugh, I can't recommend a better film, even though it has dated; it's still hilarious 9/10",
+         "This is voted as one of the funniest comedies of all time, and it deserves that honor! The film is filled with hilarious gags! Sure, in every one of these campy farces, there's usually a few gags that are way too silly. In this case, it was the \"drinking problem\" gag and that annoying gay man who works on Lloyd Bridges' staff. But when I can actually count on my hand how many gags didn't work, that's a good sign. The majority of the film sent me into a frenzy of laughter! One of my favorites is when the blow-up auto-pilot runs out of air and Julie Hagerty blows it back up again. You'll have to see the movie to find out why it was so hilarious! I also got a great kick out of the running gag in which every passenger who listens to Robert Hays ends up killing themselves. This is definitely the Zuckers and Abrahams in top form! Unfortunately, I haven't seen a great spoof in years. The \"Scary Movie\" films were pretty good, but incredibly lewd and crude. And obviously the Zuckers and Abrahams have much better eyes for satire than the Wayans brothers. I caught \"Scary Movie\" on cable and watched it a second time, and I didn't laugh nearly as many times as I did the first time. I can watch \"Airplane\" 200 times and still laugh like there's no tomorrow! The film was made back when comedies didn't go strictly for sex and toilet gags to make an audience laugh. This was back when writers used to employ this quality called \"wit.\" \"Kentucky Fried Movie\" had some racy gags, but even those were witty for the most part. There is a certain rhythm in every gag that helps make the film work. For example, Lloyd Bridges starts out by saying \"I think I picked the wrong day to quit smoking.\" Then he says he picked the wrong day to quit drinking. And when he finally says \"I picked the wrong day to quit amphetamines,\" I was laughing my head off! So basically, you watch a film like this and feel the urge to mail a copy of the video to the Wayans Brothers and whatever crackheads wrote \"Not Another Teen Movie,\" along with a note saying \"THIS is how to make a spoof!\" There are so many other gags worth mentioning, including the \"Saturday Night Fever\" sendup, which is definitely one of the best comic moments caught on film! That scene also contains my favorite line: \"I told the guy next to me to pinch me to make sure I wasn't dreaming.\" After that voice-over, we see the guy next to Robert Hays repulsed and walking away from him. Another great example of perfect comic timing and delivery! If you want to get some authentic belly laughs--I'm not talking chuckles, but actual LAUGHS!--you must check out \"Airplane.\" Trust me, movies don't get much more original or funny than this! My score: 9 (out of 10)",
+         "If you really need a good laugh out loud movie, to make you feel good, this is one of them! The 1st time we saw this movie, on cable, not long after it came out, we were rolling with laughter! This movie was one of the all-time best, with Lloyd Bridges, and that crazy air traffic controllers' scenes were the funniest. With every line of the movie having a comeback, and another meaning--this movie ranks up there with the pool scene in Caddyshack as one of the best--you're rolling with laughter! With Lloyd Bridges slowly going insane throughout the movie, with an all-star cast including Robert Hayes,very funny, they even had Ethel Merman doing a cameo, (not long before her death), it was hilarious. Even the sequel came out to be as good as the original.",
+         "In a tense moment where Ted Striker (Robert Hays) needs to land an airplane where the pilots (Peter Graves and Kareem Abdul-Jabbar) have fallen sick, and several passengers need to get off the airplane for various reasons, all Striker can think to himself (with an echo in his mind, of course) is \"I've got to concentrate... concentrate... concentrate... I've got to concentrate... concentrate... concentrate... Hello?... hello... hello... Echo... echo... echo... Pinch hitting for Pedro Borbon... Manny Mota... Mota... Mota...\" That pretty much sums up the seriousness of Airplane!, the lampoon of the 1970s Airport movies, and pretty much every other disaster movie pumped out by Hollywood. The same guys who pieced together the Naked Gun movies write and direct this silly movie. Most of the jokes need to be seen to be properly experienced, the first rate actors are what brings the laughs. Robert Stack plays it straight, over-the-top straight, as a problem solver for the airline who happens to wear 2 pairs of sunglasses at all times. Stack's comedic timing and deadpan delivery bring out some of the biggest laughs of the film. Lloyd Bridges is the over-worked, over-stressed traffic controller who has picked the wrong week to stop drinking, smoking, and sniffing glue. And Leslie Neilson plays a doctor who has an acute sense for the obvious, surely one who could save the passengers and airline crew if they land safely, just don't call him Shirley. A few cheap laughs, a few misses, but over all, a pretty funny movie. If you like The Naked Gun, you'll like Airplane!",
+         "Very rarely does a film come out that is as truly brilliant as Airplane. It has everything that a comedy should have. The cast is fantastic, the jokes hilarious and almost constant. One of the best things about Airplane that I have found is that the jokes are not all obvious, and because of this it has far more re-watchability than most comedies, as every time you watch it you pick up on more of the subtler jokes and background sight gags. It is a film that manages to cater for almost all tastes in humour, from dry wit to slapstick via spoofery and dark humour. If you haven't seen this film you MUST watch it. This is one of those few films that everybody can enjoy. It's fairly rare to find a comedy the whole family can enjoy, most are either unsuitable for children or too childish for adults, but Airplane manages to find that balance where all ages can enjoy it. In conclusion, if you have yet to see this film, watch it. If you have seen it, watch it again."
+      ],
+      "genres": ["Comedy"],
+      "productionCompanies": ["Paramount Pictures"],
+      "summaries": [
+         "Still craving for the love of his life, Ted Striker follows Elaine onto the flight that she is working on as a member of the cabin crew. Elaine doesn't want to be with Ted anymore, but when the crew and passengers fall ill from food poisoning, all eyes are on Ted.",
+         "This is a spoof of the airport disaster movies. When the crew of an airplane are struck by some form of virus, the fate of the passengers depends on an ex-war pilot who is the only one able to land the plane safely! The passengers represent a selection of interesting wacky characters who seem to take every word for its literal meaning.",
+         "Ex-Navy pilot Ted Striker has been nervous about flying ever since THAT incident during the war. He's on a flight which would cause anyone concern: he seems to be the only sane person aboard. Of course, everything that could possibly go wrong on this flight will go wrong... what do you expect with a co-pilot who doesn't realize he's a basketball star, and an air traffic controller with a substance abuse problem?",
+         "Ted Striker just got dumped by his long-time girlfriend Elaine Dickinson, who works as a stewardess at Trans American Airlines. In his wish to get her back, he follows her aboard the plane, although he has had a deep aversion against anything winged since he lost several men in the war. During flight, he tries to contact her again and again, but as the crew and many passengers get seriously ill due to a bad fish meal, he has no chance to get to her. In fact, Ted Striker seems to be the only healthy person aboard that has piloting experience. Now, it is up to him to get the bird down in Chicago safely, before the poisoning starts causing casualties. But Ted Striker's aversion really is a serious psychosis, which breaks open and needs to be cured - right now.",
+         "An airplane crew takes ill. Surely the only person capable of landing the plane is an ex-pilot afraid to fly. But don't call him Shirley."
+      ],
+      "budget": 3500000
+   },
+   "movielensId": 2791,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1980-07-02",
+      "dvdReleaseDate": "2005-12-13",
+      "directors": [
+         "Jim Abrahams",
+         "David Zucker",
+         "Jerry Zucker"
+      ],
+      "runtime": 88,
+      "movieId": 2791,
+      "title": "Airplane!",
+      "mpaa": "PG",
+      "actors": [
+         "Robert Hays",
+         "Julie Hagerty",
+         "Kareem Abdul-Jabbar",
+         "Lloyd Bridges",
+         "Peter Graves",
+         "Leslie Nielsen",
+         "Lorna Patterson",
+         "Robert Stack",
+         "Stephen Stucker",
+         "Jim Abrahams",
+         "Frank Ashmore",
+         "Jonathan Banks",
+         "Craig Berenson",
+         "Barbara Billingsley",
+         "Lee Bryant",
+         "Joyce Bulifant",
+         "Mae E. Campbell",
+         "Ethel Merman",
+         "Jimmie Walker",
+         "Jill Whelan",
+         "Kitten Natividad",
+         "Nora Meerbaum",
+         "Kenneth Tobey"
+      ],
+      "imdbMovieId": "0080339",
+      "originalTitle": "Airplane!",
+      "genres": ["Comedy"],
+      "youtubeTrailerIds": [
+         "HMnVs287AJ4",
+         "si3E43eaRac"
+      ],
+      "plotSummary": "Alcoholic pilot, Ted Striker has developed a fear of flying due to wartime trauma, but nevertheless boards a passenger jet in an attempt to woo back his stewardess girlfriend. Food poisoning decimates the passengers and crew, leaving it up to Striker to land the plane with the help of a glue-sniffing air traffic controller and Striker's vengeful former Air Force captain, who must both talk him down.",
+      "tmdbMovieId": 813,
+      "avgRating": 3.78724,
+      "releaseYear": "1980",
+      "numRatings": 22424,
+      "posterPath": "/b4sAWNIbfXw4WTdc1wiVRBk2Vko.jpg"
+   }
+}

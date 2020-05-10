@@ -1,0 +1,873 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "sheriff",
+            "id": 798
+         },
+         {
+            "name": "journalism",
+            "id": 917
+         },
+         {
+            "name": "new mexico",
+            "id": 1508
+         },
+         {
+            "name": "satire",
+            "id": 8201
+         },
+         {
+            "name": "rescue",
+            "id": 10084
+         },
+         {
+            "name": "reporter",
+            "id": 12193
+         },
+         {
+            "name": "trapped",
+            "id": 18029
+         },
+         {
+            "name": "desert",
+            "id": 18034
+         },
+         {
+            "name": "media hype",
+            "id": 34250
+         },
+         {
+            "name": "newspaper man",
+            "id": 155744
+         },
+         {
+            "name": "film noir",
+            "id": 195402
+         },
+         {
+            "name": "film gris",
+            "id": 234848
+         }
+      ],
+      "imdb_id": "tt0043338",
+      "video": false,
+      "title": "Ace in the Hole",
+      "recommendations": [
+         678,
+         976,
+         934,
+         18030,
+         28580,
+         1939,
+         17057,
+         19119,
+         16305,
+         15794,
+         14638,
+         14580,
+         12493,
+         980,
+         25504,
+         25955,
+         14537,
+         20532,
+         18671,
+         32255
+      ],
+      "backdrop_path": "/tks1iihrgodKkUobDjr0UFENimk.jpg",
+      "revenue": 1300000,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Chuck Tatum",
+               "gender": 2,
+               "credit_id": "52fe44c3c3a368484e03599d",
+               "name": "Kirk Douglas",
+               "profile_path": "/vIZgu07gJtS2j460jgBlI1IvkAO.jpg",
+               "id": 2090,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Lorraine Minosa",
+               "gender": 1,
+               "credit_id": "52fe44c3c3a368484e0359a1",
+               "name": "Jan Sterling",
+               "profile_path": "/eeWVkgt1f4xjzhrei6ctkkSGdb4.jpg",
+               "id": 20418,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Herbie Cook",
+               "gender": 2,
+               "credit_id": "52fe44c3c3a368484e0359a5",
+               "name": "Robert Arthur",
+               "profile_path": "/anDUTgihNYWD5qTJhaXaHzr9kns.jpg",
+               "id": 78304,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Jacob Q. Boot",
+               "gender": 2,
+               "credit_id": "52fe44c3c3a368484e0359a9",
+               "name": "Porter Hall",
+               "profile_path": "/73hzC2AnpyFHOceuq4ZdUbsNQds.jpg",
+               "id": 14975,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Mr. Federber",
+               "gender": 2,
+               "credit_id": "52fe44c3c3a368484e0359ad",
+               "name": "Frank Cady",
+               "profile_path": "/1st0r0fw1GfB7RRE7GJzbDkkP00.jpg",
+               "id": 93622,
+               "order": 4
+            },
+            {
+               "cast_id": 6,
+               "character": "Leo Minosa",
+               "gender": 2,
+               "credit_id": "52fe44c3c3a368484e0359b1",
+               "name": "Richard Benedict",
+               "profile_path": "/eEXhzpiIDoZl4QrSYWoyWvRXbJX.jpg",
+               "id": 93623,
+               "order": 5
+            },
+            {
+               "cast_id": 7,
+               "character": "Sheriff Gus Kretzer",
+               "gender": 0,
+               "credit_id": "52fe44c3c3a368484e0359b5",
+               "name": "Ray Teal",
+               "profile_path": "/vddCtm4m8enym2C6QZ69eT3MUJo.jpg",
+               "id": 93624,
+               "order": 6
+            },
+            {
+               "cast_id": 8,
+               "character": "McCardle",
+               "gender": 2,
+               "credit_id": "52fe44c3c3a368484e0359b9",
+               "name": "Lewis Martin",
+               "profile_path": null,
+               "id": 93625,
+               "order": 7
+            },
+            {
+               "cast_id": 9,
+               "character": "Papa Minosa",
+               "gender": 2,
+               "credit_id": "52fe44c3c3a368484e0359bd",
+               "name": "John Berkes",
+               "profile_path": null,
+               "id": 93626,
+               "order": 8
+            },
+            {
+               "cast_id": 10,
+               "character": "Mama Minosa",
+               "gender": 0,
+               "credit_id": "52fe44c3c3a368484e0359c1",
+               "name": "Frances Dominguez",
+               "profile_path": null,
+               "id": 93627,
+               "order": 9
+            },
+            {
+               "cast_id": 11,
+               "character": "Deputy Sheriff",
+               "gender": 2,
+               "credit_id": "52fe44c3c3a368484e0359c5",
+               "name": "Gene Evans",
+               "profile_path": "/eDYw74XKJXVV4R0psNtt6BaJuyk.jpg",
+               "id": 89582,
+               "order": 10
+            },
+            {
+               "cast_id": 12,
+               "character": "Sam Smollett",
+               "gender": 0,
+               "credit_id": "52fe44c3c3a368484e0359c9",
+               "name": "Frank Jaquet",
+               "profile_path": "/aWWYC4iYh5F918go8tFfLilntZ5.jpg",
+               "id": 83993,
+               "order": 11
+            },
+            {
+               "cast_id": 13,
+               "character": "Dr. Hilton",
+               "gender": 2,
+               "credit_id": "52fe44c3c3a368484e0359cd",
+               "name": "Harry Harvey",
+               "profile_path": "/6YL4zhffF9rekiWv6twdn1h4jkN.jpg",
+               "id": 93628,
+               "order": 12
+            },
+            {
+               "cast_id": 14,
+               "character": "Radio Announcer",
+               "gender": 0,
+               "credit_id": "52fe44c3c3a368484e0359d1",
+               "name": "Bob Bumpas",
+               "profile_path": null,
+               "id": 93629,
+               "order": 13
+            },
+            {
+               "cast_id": 15,
+               "character": "Nellie Federber",
+               "gender": 1,
+               "credit_id": "52fe44c3c3a368484e0359d5",
+               "name": "Geraldine Hall",
+               "profile_path": null,
+               "id": 93630,
+               "order": 14
+            },
+            {
+               "cast_id": 16,
+               "character": "Nagel",
+               "gender": 2,
+               "credit_id": "52fe44c3c3a368484e0359d9",
+               "name": "Richard Gaines",
+               "profile_path": "/brbWt9ZeanMekA9wnZS952HYgOp.jpg",
+               "id": 14976,
+               "order": 15
+            },
+            {
+               "cast_id": 52,
+               "character": "Jessop (uncredited)",
+               "gender": 2,
+               "credit_id": "57890be1c3a36817d7002b42",
+               "name": "Ken Christy",
+               "profile_path": null,
+               "id": 151887,
+               "order": 16
+            },
+            {
+               "cast_id": 53,
+               "character": "Indian Copy Boy (uncredited)",
+               "gender": 2,
+               "credit_id": "57890c23c3a36836c0002199",
+               "name": "Iron Eyes Cody",
+               "profile_path": "/clpm9HMt91vJCiEl2JmfHm5GM6B.jpg",
+               "id": 127032,
+               "order": 17
+            },
+            {
+               "cast_id": 54,
+               "character": "Photographer (uncredited)",
+               "gender": 0,
+               "credit_id": "57890c6c92514134bc001f38",
+               "name": "Francisco Day",
+               "profile_path": null,
+               "id": 559904,
+               "order": 18
+            },
+            {
+               "cast_id": 55,
+               "character": "Father Diego (uncredited)",
+               "gender": 2,
+               "credit_id": "57890cb09251410a8e002ea2",
+               "name": "Lester Dorr",
+               "profile_path": "/l6iPmfBJvMLyTTcZkJZ4MNx1WaJ.jpg",
+               "id": 121122,
+               "order": 19
+            },
+            {
+               "cast_id": 56,
+               "character": "Spinster (uncredited)",
+               "gender": 1,
+               "credit_id": "57890cdc9251413585001c5b",
+               "name": "Claire Du Brey",
+               "profile_path": "/AmPRRNPgaBqJkvEcpFFLG2DmrbD.jpg",
+               "id": 68653,
+               "order": 20
+            },
+            {
+               "cast_id": 57,
+               "character": "Miss Deverich (uncredited)",
+               "gender": 1,
+               "credit_id": "57890d0e9251411e29002737",
+               "name": "Edith Evanson",
+               "profile_path": "/nocf7KthPB0tKaip5KGJ5SilfAr.jpg",
+               "id": 17662,
+               "order": 21
+            },
+            {
+               "cast_id": 58,
+               "character": "Sad-Faced Man (uncredited)",
+               "gender": 0,
+               "credit_id": "57890d539251411ed40023c8",
+               "name": "William Fawcett",
+               "profile_path": "/4IWcWzlR34zzejjRpALE1Sifs2e.jpg",
+               "id": 30849,
+               "order": 22
+            },
+            {
+               "cast_id": 59,
+               "character": "Minor Role (uncredited)",
+               "gender": 0,
+               "credit_id": "57890d93c3a36834e1001edc",
+               "name": "Joe Gray",
+               "profile_path": "/tnTxSB80qmQtlB8pmAre8YFLBjx.jpg",
+               "id": 120048,
+               "order": 23
+            },
+            {
+               "cast_id": 60,
+               "character": "Mr. Wendel (uncredited)",
+               "gender": 0,
+               "credit_id": "57890dd292514134bc001fc1",
+               "name": "Charles Griffin",
+               "profile_path": null,
+               "id": 1469564,
+               "order": 24
+            },
+            {
+               "cast_id": 61,
+               "character": "Digger (uncredited)",
+               "gender": 0,
+               "credit_id": "57890e17c3a368191700254f",
+               "name": "Bob Kortman",
+               "profile_path": "/n8rmEFRPwJOsuyguYWh9HY7lpbB.jpg",
+               "id": 137405,
+               "order": 25
+            },
+            {
+               "cast_id": 62,
+               "character": "Mover (uncredited)",
+               "gender": 1,
+               "credit_id": "57890e9dc3a36817d7002c76",
+               "name": "Lee Miller",
+               "profile_path": null,
+               "id": 136128,
+               "order": 26
+            },
+            {
+               "cast_id": 63,
+               "character": "Kusac - Miner (uncredited)",
+               "gender": 0,
+               "credit_id": "57890ef69251411ed400244d",
+               "name": "Ralph Moody",
+               "profile_path": "/7TAlilRZmRpU0cB2sEO7JmhkwMf.jpg",
+               "id": 100944,
+               "order": 27
+            },
+            {
+               "cast_id": 64,
+               "character": "Josh Morgan (uncredited)",
+               "gender": 0,
+               "credit_id": "57890f2992514135d6001e0c",
+               "name": "Bert Moorhouse",
+               "profile_path": "/p0v0vNPZOnocEbD9tqQky6Gy0Cz.jpg",
+               "id": 122984,
+               "order": 28
+            },
+            {
+               "cast_id": 65,
+               "character": "Customer at Minosa's (uncredited)",
+               "gender": 2,
+               "credit_id": "57890f5ac3a36817d7002cda",
+               "name": "William H. O'Brien",
+               "profile_path": "/d8BySpwzgqv8rVezb0QbtXvmxbb.jpg",
+               "id": 1176510,
+               "order": 29
+            },
+            {
+               "cast_id": 66,
+               "character": "Newspaperman (uncredited)",
+               "gender": 0,
+               "credit_id": "57890ff1c3a3681917002611",
+               "name": "Jack Roberts",
+               "profile_path": null,
+               "id": 1298969,
+               "order": 30
+            },
+            {
+               "cast_id": 67,
+               "character": "Reporter (uncredited)",
+               "gender": 0,
+               "credit_id": "57891043c3a36817d7002d86",
+               "name": "Bert Stevens",
+               "profile_path": null,
+               "id": 1208035,
+               "order": 31
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "52fe44c3c3a368484e0359df",
+               "name": "Billy Wilder",
+               "profile_path": "/nWV9BDDCbRegP7etiPjl3vYnJEq.jpg",
+               "id": 3146,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44c3c3a368484e0359e5",
+               "name": "Billy Wilder",
+               "profile_path": "/nWV9BDDCbRegP7etiPjl3vYnJEq.jpg",
+               "id": 3146,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44c3c3a368484e0359eb",
+               "name": "Lesser Samuels",
+               "profile_path": null,
+               "id": 93631,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44c3c3a368484e0359f1",
+               "name": "Walter Newman",
+               "profile_path": null,
+               "id": 7335,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44c3c3a368484e0359fd",
+               "name": "Billy Wilder",
+               "profile_path": "/nWV9BDDCbRegP7etiPjl3vYnJEq.jpg",
+               "id": 3146,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44c3c3a368484e035a09",
+               "name": "Arthur P. Schmidt",
+               "profile_path": null,
+               "id": 8621,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44c3c3a368484e035a0f",
+               "name": "A. Earl Hedrick",
+               "profile_path": null,
+               "id": 120450,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44c3c3a368484e035a15",
+               "name": "Hal Pereira",
+               "profile_path": null,
+               "id": 5188,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44c3c3a368484e035a1b",
+               "name": "Hugo Friedhofer",
+               "profile_path": null,
+               "id": 13571,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "53721fcac3a368435f001076",
+               "name": "Charles Lang",
+               "profile_path": "/1k74XckQqxOwdPYvhvhEdZ9jl4l.jpg",
+               "id": 3148,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 1,
+               "credit_id": "53721ff0c3a36843580010d8",
+               "name": "Edith Head",
+               "profile_path": "/63ZeXQOh26sGa8nTbYWntieyWrz.jpg",
+               "id": 4350,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "552029c5c3a36854730019f4",
+               "name": "William Schorr",
+               "profile_path": null,
+               "id": 9101,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57881fa6c3a3683930002c9e",
+               "name": "Bert McKay",
+               "profile_path": null,
+               "id": 51312,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "57881fcdc3a36869ad000803",
+               "name": "Sam Comer",
+               "profile_path": null,
+               "id": 7687,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 2,
+               "credit_id": "57881fe992514138df0008c0",
+               "name": "Ray Moyer",
+               "profile_path": null,
+               "id": 7688,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5788201cc3a3683329001287",
+               "name": "Wally Westmore",
+               "profile_path": null,
+               "id": 7689,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Department Head"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5788203dc3a3683930002ccf",
+               "name": "Hal Lierley",
+               "profile_path": null,
+               "id": 1542032,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5788205fc3a3683329001293",
+               "name": "Hugh Brown",
+               "profile_path": null,
+               "id": 8624,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5788208b92514131c2002b61",
+               "name": "Richard Blaydon",
+               "profile_path": null,
+               "id": 1306283,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "578820e49251410f9700119f",
+               "name": "Charles C. Coleman",
+               "profile_path": null,
+               "id": 1183417,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5788212b92514131c2002ba0",
+               "name": "Francisco Day",
+               "profile_path": null,
+               "id": 559904,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "578821ec92514138df00097a",
+               "name": "Gene Garvin",
+               "profile_path": null,
+               "id": 9106,
+               "department": "Crew",
+               "job": "Sound Recordist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5788220dc3a3686969000a69",
+               "name": "Harold Lewis",
+               "profile_path": null,
+               "id": 9107,
+               "department": "Crew",
+               "job": "Sound Recordist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "57882244c3a368392d0029bb",
+               "name": "John Cope",
+               "profile_path": null,
+               "id": 8627,
+               "department": "Sound",
+               "job": "Sound"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5788227792514138d000092d",
+               "name": "Farciot Edouart",
+               "profile_path": null,
+               "id": 1027339,
+               "department": "Visual Effects",
+               "job": "Visual Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "578822a7c3a3686a160009b9",
+               "name": "Irmin Roberts",
+               "profile_path": null,
+               "id": 1587294,
+               "department": "Visual Effects",
+               "job": "Visual Effects"
+            },
+            {
+               "gender": 2,
+               "credit_id": "578823299251410fbb001409",
+               "name": "Doane Harrison",
+               "profile_path": null,
+               "id": 3159,
+               "department": "Editing",
+               "job": "Supervising Film Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5788237792514138df000a03",
+               "name": "Sidney Cutner",
+               "profile_path": null,
+               "id": 29275,
+               "department": "Sound",
+               "job": "Orchestrator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "578823a592514138d000098a",
+               "name": "George Parrish",
+               "profile_path": null,
+               "id": 34228,
+               "department": "Sound",
+               "job": "Orchestrator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "578823cec3a3683919003158",
+               "name": "Leo Shuken",
+               "profile_path": null,
+               "id": 30257,
+               "department": "Sound",
+               "job": "Orchestrator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "578823f7c3a3686a16000a2d",
+               "name": "Van Cleave",
+               "profile_path": null,
+               "id": 52593,
+               "department": "Sound",
+               "job": "Orchestrator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5788243092514138d00009b8",
+               "name": "Irene Martin",
+               "profile_path": null,
+               "id": 127194,
+               "department": "Crew",
+               "job": "Stand In"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5788254dc3a3686a16000a85",
+               "name": "William Rand",
+               "profile_path": null,
+               "id": 1650433,
+               "department": "Camera",
+               "job": "Camera Operator"
+            }
+         ]
+      },
+      "genres": [{
+         "name": "Drama",
+         "id": 18
+      }],
+      "popularity": 7.52493,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 25364,
+      "vote_count": 162,
+      "budget": 1821052,
+      "overview": "A frustrated former big-city journalist now stuck working for an Albuquerque newspaper exploits a story about a man trapped in a cave to revitalize his career, but the situation quickly escalates into an out-of-control media circus.",
+      "similar": [
+         12162,
+         600,
+         44115,
+         296524,
+         205584,
+         49021,
+         9792,
+         41446,
+         405775,
+         27331,
+         82390,
+         5919,
+         1852,
+         279641,
+         9652,
+         995,
+         17030,
+         10779,
+         22383,
+         11071
+      ],
+      "original_title": "Ace in the Hole",
+      "runtime": 111,
+      "poster_path": "/fK4qnwqEgNjA3E5wR4BGnZdOJNp.jpg",
+      "spoken_languages": [
+         {
+            "name": "Latin",
+            "iso_639_1": "la"
+         },
+         {
+            "name": "Español",
+            "iso_639_1": "es"
+         },
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         }
+      ],
+      "production_companies": [{
+         "logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
+         "name": "Paramount",
+         "id": 4,
+         "origin_country": "US"
+      }],
+      "release_date": "1951-06-29",
+      "vote_average": 7.8,
+      "belongs_to_collection": null,
+      "tagline": "Rough, tough Chuck Tatum, who battered his way to the top ... trampling everything in his path - men, women and morals !",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Black and White",
+      "budgetCurrency": "$",
+      "directors": ["Billy Wilder"],
+      "runtime": 111,
+      "synopsis": "Chuck Tatum (Kirk Douglas) is a driven and talented news reporter whose short temper and contempt for authority has gotten him fired from many of Americas best newspapers. Tatum finds himself broken down in Albuquerque and appeals to the local news paper editor Jacob Q. Boot (Porter Hall) for a job until he can scrape up enough money to get back to New York, or Chicago or some other big newspaper. Boot hires him but after a year Tatum roams around the newspaper office ranting over the lack of any news in the town. Boot sends him and Photographer Herbie Cook (Robert Arthur) to Los Brios to cover the annual rattlesnake roundup, but on the way Tatum happens upon a real human interest story. Local merchant Leo Minosa (Richard Benedict) is caught in a cave in and old tunnel inside an ancient Indian burial location. The local Indians and Leo himself say Indian spirits may have caused the cave in because Leo has been raiding the mine for old religious relics. Tatum writes up the story with great hooks angling in the superstitious Indian lore, and focusing on Leos wife Lorraine (Jan Sterling) as a faithful wife even though she wants to leave Leo and. Tatums story gets picked up by the news services and to insure that he keeps the rights Tatum makes a deal with the local crooked sheriff Kretzer (Ray Teal) for help in isolating the location where Leo is. When Tatum learns that the rescuers can get Leo out in about 12 hours by shoring up the inside of the mine, he convinces the rescue crew to drill in from above instead, a job that will take 6 days and will give Tatum enough time to whip the story into a real career-changing event. As Lorraine agrees to allow people to come into to see the event for a price, she sees the profits at the diner increase greatly and a big-time newspaper editor from New York agrees to pay Tatum a huge amount for the story and give him his old job back. Leo begins to become ill as time passes and his health decides the futures of those making a profit from his demise.",
+      "writers": [
+         "Billy Wilder",
+         "Lesser Samuels"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0043338/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTIwNjYzMTc0M15BMl5BanBnXkFtZTcwMzM2Njc0MQ@@._V1_SY317_CR5,0,214,317_AL_.jpg",
+      "actors": ["Stars: Kirk Douglas, Jan Sterling, Robert Arthur | See full cast and crew »"],
+      "reviews": [
+         "Billy Wilder's first commercial failure, but one of his best films, almost up there with \"Sunset Blvd.\" Ambitious reporter Chuck Tatum (Kirk Douglas) finds out a man is trapped in a collapsed mine. By spewing out bogus engineering, he manages the rescue of the poor man to become more complicated, and time consuming then needed. Meanwhile, it becomes an amazing news item, something that makes Tatum the best known reporter in the country. However, everybody's luck runs out at the end. Perhaps the cause of failure of this film is that there are no sympathetic characters here. Douglas plays a total creep, the trapped man's wife is a floozy \"I'm not going to pray for him! Praying ruins my nylons!\" in the film. Even the trapped man is somebody who was poking around Indian graves. The screenplay, and the lead performances are top class. The extensive location photography, and somewhat documentary look of the film makes the film feel more modern than most 1951 films. Billy Wilder calls this film \"the runt of his litter\" Don't be so harsh, Billy, it's an excellent picture!",
+         "The cynical, unethical and unscrupulous journalist Charles 'Chuck' Tatum (Kirk Douglas) arrives in a small New Mexico newspaper asking for a chance. He was fired from famous newspapers because of drinking problem, lying and even for having an affair with the wife of one of his bosses. His real intention is to use the small newspaper as a \"swimming board\" to a bigger one. After one year without a bang news and totally bored, Chuck travels with a younger reporter to make the coverage of a matter about rattlesnakes. When they arrive in an isolated gas station, he is informed that a man called Leo Minosa (Richard Benedict) is trapped alive in an old Indian mine in a nearby place called Mountain of the Seven Vultures. Chuck manipulates the local corrupt sheriff, the engineer responsible for the rescue operation and Leo's wife Lorraine Minosa (Jan Sterling), and a rescue that could be made using a simple and common process in twelve hours, lasts six days using a sophisticated drilling system and creating a circus in the previously desert place. Everybody profits with the accident except the victim. Movies about manipulation of people are usually excellent. I remember Costa-Gravas' \"Mad City (1997), Barry Levinson's \"Wag the Dog (1997)\", Howard Hawks' \"His Girl Friday (1940)\", and even the recent real case of the chemical weapons. Yesterday I saw \"Ace in the Hole\" for the first time and I really was impressed how this film is amazingly real and updated. There are elements present in every modern society, such as: the powerful sheriff very corrupt, like most of the worldwide members of the governments; the press, interested in selling news only; the victim used for other interests greater than rescuing him; and the people, completely manipulated and with very short memory. Kirk Douglas is amazing in the role of a nasty reporter. I do not understand why this movie is not in the IMDb Top 250. My vote is ten. Title (Brazil): \"A Montanha dos Sete Abutres\" (\"The Mountain of the Seven Vultures\")",
+         "Of the many movies I viewed in the early 50's, so many ,like now, were here today, forgotten tomorrow. However some movies that became memorable and that were able to make a dramatic impact on this young guy include, Duel in the Sun and Gone with the Wind. Strangely enough, Ace in the Hole is the most memorable of all movies viewed. It is one that invades the mind and leaves one sad. Few films I remember as vividly as this dark movie, the images linger to haunt me still. 'Why?' one might ask 'would a sombre movie like this made over 50 years ago remain so memorable, when so many others have vanished. Was it the surreal inhumanity of the plot, the repugnant newsman devoid of ethics, the exploitation of the trapped victim, the purposeful prolonging of the victim's entrapment to create a media frenzy, the ultimate commercial creation of an 'event' style attraction complete with a circus like atmosphere surrounding the cave while the victim remained entrapped and close to death.' Supposedly based on a real incident, it's a tough movie to watch and more so if one is prepared to accept the premise that such inhumanity displayed in the movie has an element of truth. I echo the desires of others to have the availability of this movie on VHS or DVD. In the interim my memory will continue to keep the images intact. See it if you can.",
+         "One of Billy Wilder's great movies, with a superb acting job by Kirk Douglas as the cynical, glory-seeking and even desperate reporter whose only goal is get back in the limelight by regaining his former big-city news desk job. The idea of such a newspaper reporter manipulating events to stretch out a story at the expense of and disregard for the victim still seems nearly inhuman, but Douglas' performance makes it instantly believable. The story scenario in which locals, then passers-by and finally distant tourists gravitate to and then make a festival or circus out of the event (the film was also released under the title \"The Big Carnival\") is supported by the real events on which the story was most likely based: the West VA mine disaster in 1925 that trapped miner Floyd Collins and was reported for 17 days, much as in the film, by local newspaperman Skeets Miller, who crawled into the mineshaft for face-to-face interviews with the trapped and doomed Collins. This movie fits nicely into the Film Noir genre, although it takes place largely under the hot, harsh glare of the Arizona sun, highlighting the sweat and grime visible on the characters' skin and creating a visual metaphor for the sorry state of their souls. I wonder if Henri-Georges Clouzot saw this film before he began filming \"The Wages of Fear,\" because the visually pervasive atmosphere of sweat and filth and opportunism are equally present in both.",
+         "The movie very closely parallels the real events of January 30 to February 16, 1925 in terms of the general story line. There are some significant differences concerning the actions of the characters. Floyd Collins, a cave explorer working alone (not a real good idea), was trapped in Sand Cave KY, near Mammoth Cave. He was not looking for treasure, but for a new cave suitable for commercializing to produce income in an economically depressed region...and this was before the Depression occurred. He became trapped on the way out of the cave by a 27 lb. rock which rolled onto his leg in a narrow crawlway. The configuration was such that it could not be moved enough to get his foot past. When he failed to return home, the family went searching and quickly found him only 150' inside the cave. A huge rescue effort was mounted and a cub reporter, Skeets Miller, from Louisville KY showed up to cover the story. It became one of the three most widely broadcast events of the time. Besides the extensive newspaper coverage, the relatively new medium of commercial radio riveted listeners with hourly accounts. It quickly became the first media circus ever seen. Because of the print and radio coverage people began flocking to the site. A carnival atmosphere did indeed spring up around the cave. The state police and National Guard were called out by the governor to control the chaos and the more than 20,000 onlookers. The similarity between the real event and the movie on this account are likely nearly identical. As in the movie, a decision was made to drill a shaft and, also as in the movie, the rock was fairly unstable and prone to collapse from the pounding of the cable tool drilling rig. The longer the effort went on, the more unstable the cave passage became. Unlike Kirk Douglas' character in the movie, Skeets Miller served a most honorable role. Due to his small build he became one of very few persons able, and eventually the only one willing, to enter in an attempt to deliver food and water to Collins. He received a Pulitzer Prize for his reporting. Also unlike the movie, there was no manipulation of the event to delay the rescue, but there was considerable disagreement over how to best do it. Area coal miners made the initial attempts and the event concluded with the above-mentioned shaft. Collins was presumed to have died 3 days before rescuers reached him. Because the conditions were so unstable, the body was left in the cave. The family was able to remove him about 80 days afterward for a proper burial. Later, his glass-topped casket was returned to the now-commercial cave as a tourist attraction. It was removed once again, and finally, in 1989. In 1982, a definitive account of the event was published in the book 'Trapped!'. A most informative read. In a take-off of the 'Free Tibet' bumper stickers, vehicles are occasionally seen with a 'Free Floyd Collins' sticker.",
+         "There are some films that when you see them you ask why they aren't available to rent or own. This is one of them. I had the fortune of seeing this hidden gem on the big screen and was pleasantly surprised. With Kirk Douglas playing a Reporter whose been around the block, always looking for a shortcut, comes across an opportunity to exploit a man caught in a mine shaft. I have read where critics had considered the circus atmosphere of the the film unrealistic. It seems Mr. Wilder got the last laugh. If you are interesting in great dialogue and good story telling, I suggest you find this",
+         "Fifty years later,Billy Wilder's tour de force has worn so well it should be considered the finest movie dealing with the media,topping \"network\" for instance.The world described here is so depressing,so disheartening that it takes drama to new limits.Not only Tatum is evil,but so are the miner's wife and family who take advantage of the situation ,regardless of any morals.So is the faceless crowd ,who has a wild time, near a dying man.You and me,we could be part of this populace,and maybe we've already been!Remember the little South American girl who fell into a pit in the eighties.The fair sequences might have influenced Fellini for \"la dolce vita\" (hype about a girl who would have seen Virgin Mary).The soundtrack ,with its relentless thud ,is so oppressive you feel the unfortunate victim's plight within your body and your soul .",
+         "A powerful toasting of the media of the day. Imagine what this would have been like in the age of television. Kirk Douglas plays a self-centered heel, and does so very well. I also liked Jan Sterling as Lorraine. It's true that there is no really sympathetic character in this film, except maybe Leo, the man trapped in the cave. Someone wrote that he too, wasn't a sympathetic character, because he was trapped while collecting Indian artifacts for sale, but I don't think that would have bothered anyone in 1951. The tone of the film throughout was one of total cynicism, that seems a bit out of place for the times. Maybe that's why this movie was not a commercial success. It fits much better now, though, since everyone has seen the media behaving in such disgraceful fashion. However, that may rob it of some of its (probably intended) shock value. Grade: A",
+         "I first saw this film in 1951. At least two decades passed before it was occasionally shown on network TV, usually on local afternoon movie programs. The lack of a happy ending (to put it mildly) may have played a part. A flop when it was originally released (and referred to by Billy Wilder as \"the runt of the litter\"), this movie is still not available in DVD or VHS. This is a shame, because it is a taut, very cynical, and extremely well-made rumination on the idea of media observation and manipulation, and the easy corruption of otherwise earnest citizens. The movie also contains what I feel is the single greatest scene in all moviedom: An extremely high view of a trainload of gawkers arriving at the \"big carnival\" (the movie's alternate title), along with the soundtrack of a made-for-the-movie country-western song. You'll know it when you see it. Observe as well the hordes of people and cars, the cast of thousands, assembled for the exterior shots. This was not digital, it was casting and logistics and bullhorns and the gimlet-eyed vision of the director. Do not miss this treasure!",
+         "Saw this films years ago and it's still gripping.Mr.Wilder seldom did films that gripped the human condition like this one.After this movie flopped he stuck to screen adaptions of stage hits through most of the fifties.Both director and star,Kirk Douglas really delivered a stinging expose of media hype and manipulation of the newspaper business.Herein,burned out reporter Douglas chances on a man trapped in a cave and ruthlessly exploits it for his own gain.There's no softness here,even the leading lady (played wonderfully by Jan Sterling)is as hard as Douglas.The scenes of all the gawkers showing up,complete with carnival,are outright creepy.There's even a cheesy country western singer plunking a guitar and singing about poor Leo,(the trapped man.) The only sympathetic person is poor Leo's mom who continually prays for his release.Definitely a film for lovers of great movie drama."
+      ],
+      "genres": [
+         "Drama",
+         "Film-Noir"
+      ],
+      "productionCompanies": ["Paramount Pictures"],
+      "summaries": [
+         "Charles Tatum, a down-on-his-luck reporter, takes a job with a small New Mexico newspaper. The job is pretty boring until he finds a man trapped in an old Indian dwelling. He jumps at the chance to make a name for himself by taking over and prolonging the rescue effort, and feeding stories to major newspapers. He creates a national media sensation and milks it for all it is worth - until things go terribly wrong.",
+         "Ex-New York reporter Charles Tatum lands a job on a Albuquerque newspaper in hopes that a sensational story will return him to the big time. When a man is trapped in an Indian cave, Tatum conspires with an unscrupulous sheriff to keep him there until the story can build to national proportions, which it does.",
+         "The cynical, unethical and unscrupulous journalist Chuck Tatum arrives at a small New Mexico newspaper asking for a chance. He was fired from famous newspapers because of drinking, lying and even for having an affair with the wife of one of his bosses. His real intention is to use the small newspaper as a platform to reach a bigger one. After one year without any sensational news and totally bored, Chuck travels with a younger reporter to cover a story about rattlesnakes. When they arrive at an isolated gas station, he is informed that a man called Leo Minosa is trapped alive in an old Indian mine in a nearby place called the Mountain of the Seven Vultures. Chuck manipulates the local corrupt sheriff, the engineer responsible for the rescue operation and Leo's wife Lorraine Minosa, so that a rescue that could have been made in twelve hours lasts six days using a sophisticated drilling system. Chuck Tatum uses the time to create a media circus. Everybody profits from the accident - everybody except the victim.",
+         "A frustrated former big-city journalist now stuck working for an Albuquerque newspaper exploits a story about a man trapped in a cave to re-jump start his career, but the situation quickly escalates into an out-of-control circus."
+      ],
+      "budget": 1821052
+   },
+   "movielensId": 3736,
+   "movielens": {
+      "languages": [
+         "Latin",
+         "Español",
+         "English"
+      ],
+      "releaseDate": "1951-06-29",
+      "dvdReleaseDate": "2007-07-17",
+      "directors": ["Billy Wilder"],
+      "runtime": 111,
+      "movieId": 3736,
+      "title": "Ace in the Hole",
+      "mpaa": "PG-13",
+      "actors": [
+         "Kirk Douglas",
+         "Jan Sterling",
+         "Robert Arthur",
+         "Porter Hall",
+         "Frank Cady",
+         "Richard Benedict",
+         "Ray Teal",
+         "Lewis Martin",
+         "John Berkes",
+         "Frances Dominguez",
+         "Gene Evans",
+         "Frank Jaquet",
+         "Harry Harvey",
+         "Bob Bumpas",
+         "Geraldine Hall",
+         "Richard Gaines",
+         "Ken Christy",
+         "Iron Eyes Cody",
+         "Francisco Day",
+         "Lester Dorr",
+         "Claire Du Brey",
+         "Edith Evanson",
+         "William Fawcett",
+         "Joe Gray",
+         "Charles Griffin",
+         "Bob Kortman",
+         "Lee Miller",
+         "Ralph Moody",
+         "Bert Moorhouse",
+         "William H. O'Brien",
+         "Jack Roberts",
+         "Bert Stevens"
+      ],
+      "imdbMovieId": "0043338",
+      "originalTitle": "Ace in the Hole",
+      "genres": ["Drama"],
+      "youtubeTrailerIds": [
+         "omeiMYMe5-4",
+         "OoisPnhZZis"
+      ],
+      "plotSummary": "A frustrated former big-city journalist now stuck working for an Albuquerque newspaper exploits a story about a man trapped in a cave to revitalize his career, but the situation quickly escalates into an out-of-control media circus.",
+      "tmdbMovieId": 25364,
+      "avgRating": 3.94413,
+      "releaseYear": "1951",
+      "numRatings": 698,
+      "posterPath": "/pkotGgcrakpnUj3fo4841VYLTf9.jpg"
+   }
+}

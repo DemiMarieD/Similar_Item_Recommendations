@@ -1,0 +1,883 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "rock star",
+            "id": 2570
+         },
+         {
+            "name": "groupie",
+            "id": 4044
+         },
+         {
+            "name": "mockumentary",
+            "id": 11800
+         },
+         {
+            "name": "cult film",
+            "id": 34117
+         },
+         {
+            "name": "music band",
+            "id": 41591
+         },
+         {
+            "name": "aftercreditsstinger",
+            "id": 179430
+         },
+         {
+            "name": "duringcreditsstinger",
+            "id": 179431
+         },
+         {
+            "name": "amplifier",
+            "id": 232186
+         }
+      ],
+      "imdb_id": "tt0088258",
+      "video": false,
+      "title": "This Is Spinal Tap",
+      "recommendations": [
+         11072,
+         378,
+         6471,
+         13446,
+         13342,
+         13785,
+         903,
+         290,
+         30197,
+         10322,
+         1092,
+         1480,
+         8873,
+         592,
+         10774,
+         11368,
+         10218,
+         25188,
+         9749,
+         8872
+      ],
+      "backdrop_path": "/o21qmruJenPD9YunYFUxHnojKac.jpg",
+      "revenue": 4736202,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 7,
+               "character": "Nigel Tufnel",
+               "gender": 2,
+               "credit_id": "52fe43e79251416c75022873",
+               "name": "Christopher Guest",
+               "profile_path": "/fhEQq0q2aR2sh4HU824xunoyAce.jpg",
+               "id": 13524,
+               "order": 0
+            },
+            {
+               "cast_id": 6,
+               "character": "David St. Hubbins",
+               "gender": 2,
+               "credit_id": "52fe43e79251416c7502286f",
+               "name": "Michael McKean",
+               "profile_path": "/iVcsvBb15nep7TZ07MlJFcxMzvD.jpg",
+               "id": 21731,
+               "order": 1
+            },
+            {
+               "cast_id": 8,
+               "character": "Derek Smalls",
+               "gender": 2,
+               "credit_id": "52fe43e79251416c75022877",
+               "name": "Harry Shearer",
+               "profile_path": "/qtGHYpWLbqQVY9ymVPtrJZV6MHg.jpg",
+               "id": 6008,
+               "order": 2
+            },
+            {
+               "cast_id": 1,
+               "character": "Marty DiBergi",
+               "gender": 2,
+               "credit_id": "52fe43e79251416c75022867",
+               "name": "Rob Reiner",
+               "profile_path": "/2zw9Iq9uo4vZiTQNQWdNFwbA1TA.jpg",
+               "id": 3026,
+               "order": 3
+            },
+            {
+               "cast_id": 83,
+               "character": "Jeanine Pettibone",
+               "gender": 1,
+               "credit_id": "58910715c3a368701400a335",
+               "name": "June Chadwick",
+               "profile_path": "/rx7TKxoWKaRKlzAQUuwN8IOm2lI.jpg",
+               "id": 104410,
+               "order": 4
+            },
+            {
+               "cast_id": 51,
+               "character": "Ian Faith",
+               "gender": 0,
+               "credit_id": "58134d159251414f9b023a2b",
+               "name": "Tony Hendra\t",
+               "profile_path": null,
+               "id": 1040043,
+               "order": 5
+            },
+            {
+               "cast_id": 9,
+               "character": "Tommy Pischedda",
+               "gender": 2,
+               "credit_id": "52fe43e79251416c7502287b",
+               "name": "Bruno Kirby",
+               "profile_path": "/jGRVym5zAQZix5N4ZRabuE3XKHm.jpg",
+               "id": 9257,
+               "order": 6
+            },
+            {
+               "cast_id": 5,
+               "character": "Mick Shrimpton",
+               "gender": 0,
+               "credit_id": "52fe43e79251416c7502286b",
+               "name": "R.J. Parnell",
+               "profile_path": null,
+               "id": 67861,
+               "order": 7
+            },
+            {
+               "cast_id": 11,
+               "character": "Viv Savage",
+               "gender": 2,
+               "credit_id": "52fe43e79251416c7502287f",
+               "name": "David Kaff",
+               "profile_path": null,
+               "id": 67863,
+               "order": 8
+            },
+            {
+               "cast_id": 52,
+               "character": "John 'Stumpy' Pepys",
+               "gender": 2,
+               "credit_id": "58134d24925141571e02442b",
+               "name": "Ed Begley Jr.",
+               "profile_path": "/au4qlxxeHitgPDHmt7WhWTA7Znb.jpg",
+               "id": 42157,
+               "order": 9
+            },
+            {
+               "cast_id": 64,
+               "character": "Ronnie Pudding",
+               "gender": 0,
+               "credit_id": "5891041bc3a368701000afb2",
+               "name": "Danny Kortchmar",
+               "profile_path": null,
+               "id": 69501,
+               "order": 10
+            },
+            {
+               "cast_id": 55,
+               "character": "Bobbi Flekman",
+               "gender": 1,
+               "credit_id": "58134d6d925141571e024454",
+               "name": "Fran Drescher",
+               "profile_path": "/vQxr8CRgyDkH3GTFLwacs9W9tF4.jpg",
+               "id": 53122,
+               "order": 11
+            },
+            {
+               "cast_id": 65,
+               "character": "Sir Denis Eton-Hogg",
+               "gender": 2,
+               "credit_id": "58910451c3a36838ff0000fd",
+               "name": "Patrick Macnee",
+               "profile_path": "/i7olaWWHDaOIou49JMSkykl8nWt.jpg",
+               "id": 10662,
+               "order": 12
+            },
+            {
+               "cast_id": 67,
+               "character": "Mime Waitress",
+               "gender": 1,
+               "credit_id": "5891049992514103f300b569",
+               "name": "Julie Payne",
+               "profile_path": null,
+               "id": 78620,
+               "order": 13
+            },
+            {
+               "cast_id": 53,
+               "character": "Mime Waiter",
+               "gender": 2,
+               "credit_id": "58134d40925141579b023530",
+               "name": "Dana Carvey",
+               "profile_path": "/1SyPT9N3J3NAycz89JmSmPd2xZ7.jpg",
+               "id": 56159,
+               "order": 14
+            },
+            {
+               "cast_id": 68,
+               "character": "Angelo DiMentibelio",
+               "gender": 2,
+               "credit_id": "589104c492514103e400b4b9",
+               "name": "Sandy Helberg",
+               "profile_path": "/1nnKx0hI04LtakMQfGM6pqIjTNL.jpg",
+               "id": 101653,
+               "order": 15
+            },
+            {
+               "cast_id": 70,
+               "character": "Rolling Stone Reporter",
+               "gender": 0,
+               "credit_id": "5891053492514103e400b515",
+               "name": "Zane Buzby",
+               "profile_path": null,
+               "id": 1315107,
+               "order": 16
+            },
+            {
+               "cast_id": 49,
+               "character": "Morty the Mime",
+               "gender": 2,
+               "credit_id": "5512fc599251410445001a0b",
+               "name": "Billy Crystal",
+               "profile_path": "/22PBSROMN6GmD7uxHpTNb0Unftt.jpg",
+               "id": 7904,
+               "order": 17
+            },
+            {
+               "cast_id": 74,
+               "character": "Tucker 'Smitty' Brown",
+               "gender": 2,
+               "credit_id": "589105c792514103f300b659",
+               "name": "Paul Benedict",
+               "profile_path": "/Al8zMhyw1EpWVySU0XONYGfXcvB.jpg",
+               "id": 41243,
+               "order": 18
+            },
+            {
+               "cast_id": 54,
+               "character": "Terry Ladd",
+               "gender": 2,
+               "credit_id": "58134d52925141579b023534",
+               "name": "Howard Hesseman",
+               "profile_path": "/AvzHr1Ul5xmcoGvmGW8t9mrwBTG.jpg",
+               "id": 35516,
+               "order": 19
+            },
+            {
+               "cast_id": 76,
+               "character": "Duke Fame",
+               "gender": 0,
+               "credit_id": "5891062192514103f300b69c",
+               "name": "Paul Shortino",
+               "profile_path": null,
+               "id": 1748255,
+               "order": 20
+            },
+            {
+               "cast_id": 78,
+               "character": "Fame Groupie",
+               "gender": 1,
+               "credit_id": "5891066692514103fd00ae5a",
+               "name": "Lara Cody",
+               "profile_path": "/4dnyxiAU97ypy551s64PiXnxPVj.jpg",
+               "id": 146184,
+               "order": 21
+            },
+            {
+               "cast_id": 79,
+               "character": "Student Promoter",
+               "gender": 0,
+               "credit_id": "5891068b92514103e800b4c0",
+               "name": "Andrew J. Lederer",
+               "profile_path": null,
+               "id": 104409,
+               "order": 22
+            },
+            {
+               "cast_id": 80,
+               "character": "Eric 'Stumpy Joe' Childs",
+               "gender": 0,
+               "credit_id": "589106ccc3a368700d00af29",
+               "name": "Russ Kunkel",
+               "profile_path": "/zYWQEI5XJDvJyidUPRQmQEGpoIN.jpg",
+               "id": 1528912,
+               "order": 23
+            },
+            {
+               "cast_id": 84,
+               "character": "Cindy",
+               "gender": 0,
+               "credit_id": "5891073592514103f700b772",
+               "name": "Victory Tischler-Blue",
+               "profile_path": null,
+               "id": 587330,
+               "order": 24
+            },
+            {
+               "cast_id": 85,
+               "character": "Belinda",
+               "gender": 1,
+               "credit_id": "5891076dc3a36841a4000039",
+               "name": "Joyce Hyser",
+               "profile_path": "/fiHh4qzH5bgEJGA8xkLUGIIlUo8.jpg",
+               "id": 91724,
+               "order": 25
+            },
+            {
+               "cast_id": 86,
+               "character": "Airport Security Officer",
+               "gender": 1,
+               "credit_id": "5891078792514103f300b7a6",
+               "name": "Gloria Gifford",
+               "profile_path": null,
+               "id": 92587,
+               "order": 26
+            },
+            {
+               "cast_id": 56,
+               "character": "Artie Fufkin",
+               "gender": 2,
+               "credit_id": "58134d83c3a368798d0207bf",
+               "name": "Paul Shaffer",
+               "profile_path": "/gYzsDxVSklmGuHHH2wZpWljqBrJ.jpg",
+               "id": 69921,
+               "order": 27
+            },
+            {
+               "cast_id": 87,
+               "character": "Room Service Guy",
+               "gender": 2,
+               "credit_id": "58c42cfec3a368347800055f",
+               "name": "Archie Hahn",
+               "profile_path": "/zoJxxnnIexRpLGDJ9NOxQeY0Tcz.jpg",
+               "id": 93670,
+               "order": 28
+            },
+            {
+               "cast_id": 88,
+               "character": "Disc 'n' Dat Manager",
+               "gender": 2,
+               "credit_id": "58c42d23c3a36834600004c2",
+               "name": "Charles Levin",
+               "profile_path": null,
+               "id": 118071,
+               "order": 29
+            },
+            {
+               "cast_id": 57,
+               "character": "Polly Deutsch",
+               "gender": 1,
+               "credit_id": "58134d99925141579b02354e",
+               "name": "Anjelica Huston",
+               "profile_path": "/Aiyv68gYWcEe9OYhyCkOa09kjmy.jpg",
+               "id": 5657,
+               "order": 30
+            },
+            {
+               "cast_id": 89,
+               "character": "Background Vocalist",
+               "gender": 0,
+               "credit_id": "58c42d36c3a3683411000665",
+               "name": "Donald Kendrick",
+               "profile_path": null,
+               "id": 1774395,
+               "order": 31
+            },
+            {
+               "cast_id": 58,
+               "character": "Colonel on Military Base",
+               "gender": 2,
+               "credit_id": "58134da99251415743023573",
+               "name": "Fred Willard",
+               "profile_path": "/j1jWdqmklfIH4hpAbw1DK0gPMX0.jpg",
+               "id": 20753,
+               "order": 32
+            },
+            {
+               "cast_id": 90,
+               "character": "Backstage Maintenance Worker",
+               "gender": 0,
+               "credit_id": "58c42d4a92514116030005c2",
+               "name": "Wonderful Smith",
+               "profile_path": null,
+               "id": 182715,
+               "order": 33
+            },
+            {
+               "cast_id": 59,
+               "character": "Heavy Metal Fan",
+               "gender": 0,
+               "credit_id": "5891032c92514103f700b421",
+               "name": "Kimberly Stringer",
+               "profile_path": null,
+               "id": 67858,
+               "order": 34
+            },
+            {
+               "cast_id": 60,
+               "character": "Heavy Metal Fan",
+               "gender": 0,
+               "credit_id": "5891035592514103e800b240",
+               "name": "Chazz Dominguez",
+               "profile_path": null,
+               "id": 67859,
+               "order": 35
+            },
+            {
+               "cast_id": 61,
+               "character": "Heavy Metal Fan",
+               "gender": 0,
+               "credit_id": "5891036492514103f300b487",
+               "name": "Shari Hall",
+               "profile_path": null,
+               "id": 67860,
+               "order": 36
+            },
+            {
+               "cast_id": 62,
+               "character": "Ethereal Fan",
+               "gender": 0,
+               "credit_id": "589103c8c3a368701400a16f",
+               "name": "Jean Cromie",
+               "profile_path": null,
+               "id": 1748248,
+               "order": 37
+            },
+            {
+               "cast_id": 63,
+               "character": "New York M.C.",
+               "gender": 0,
+               "credit_id": "589103e6c3a36838ff0000b5",
+               "name": "Patrick Maher",
+               "profile_path": null,
+               "id": 1748249,
+               "order": 38
+            },
+            {
+               "cast_id": 66,
+               "character": "Bartender",
+               "gender": 0,
+               "credit_id": "58910469c3a368701700b959",
+               "name": "Memo Vera",
+               "profile_path": null,
+               "id": 1748251,
+               "order": 39
+            },
+            {
+               "cast_id": 69,
+               "character": "Angelo's Associate",
+               "gender": 0,
+               "credit_id": "589104f192514103ec00b2b6",
+               "name": "Robin Menken",
+               "profile_path": null,
+               "id": 193653,
+               "order": 40
+            },
+            {
+               "cast_id": 71,
+               "character": "Limo Groupie",
+               "gender": 0,
+               "credit_id": "5891055492514103e800b3c1",
+               "name": "Jennifer Child",
+               "profile_path": null,
+               "id": 1748252,
+               "order": 41
+            },
+            {
+               "cast_id": 72,
+               "character": "Rack Jobber",
+               "gender": 2,
+               "credit_id": "5891057d92514103ec00b33c",
+               "name": "J.J. Barry",
+               "profile_path": null,
+               "id": 157507,
+               "order": 42
+            },
+            {
+               "cast_id": 73,
+               "character": "Southern Rock Promoter",
+               "gender": 0,
+               "credit_id": "589105a392514103ec00b356",
+               "name": "George McDaniel",
+               "profile_path": null,
+               "id": 1193284,
+               "order": 43
+            },
+            {
+               "cast_id": 75,
+               "character": "Reba",
+               "gender": 0,
+               "credit_id": "589105d692514103f000b299",
+               "name": "Anne Churchill",
+               "profile_path": null,
+               "id": 1748253,
+               "order": 44
+            },
+            {
+               "cast_id": 77,
+               "character": "Fame Groupie",
+               "gender": 0,
+               "credit_id": "58910630c3a368701700ba4c",
+               "name": "Cherie Darr",
+               "profile_path": null,
+               "id": 1748256,
+               "order": 45
+            },
+            {
+               "cast_id": 81,
+               "character": "'Jamboree Bop' Dancer",
+               "gender": 0,
+               "credit_id": "589106d992514103fd00aeca",
+               "name": "Diana Duncan",
+               "profile_path": null,
+               "id": 1748257,
+               "order": 46
+            },
+            {
+               "cast_id": 82,
+               "character": "'Jamboree Bop' Dancer",
+               "gender": 0,
+               "credit_id": "589106e6c3a36838ff000262",
+               "name": "Gina Marie Pitrello",
+               "profile_path": null,
+               "id": 1748259,
+               "order": 47
+            },
+            {
+               "cast_id": 91,
+               "character": "Girlfriend (uncredited)",
+               "gender": 1,
+               "credit_id": "58d10a2ec3a36838e9008dfe",
+               "name": "Brinke Stevens",
+               "profile_path": "/zTbesUkb0CKBnT29xRegVRUq4dg.jpg",
+               "id": 97621,
+               "order": 48
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe43e79251416c75022885",
+               "name": "Rob Reiner",
+               "profile_path": "/2zw9Iq9uo4vZiTQNQWdNFwbA1TA.jpg",
+               "id": 3026,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe43e79251416c7502288b",
+               "name": "Karen Murphy",
+               "profile_path": null,
+               "id": 6467,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43e79251416c75022891",
+               "name": "Christopher Guest",
+               "profile_path": "/fhEQq0q2aR2sh4HU824xunoyAce.jpg",
+               "id": 13524,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43e79251416c75022897",
+               "name": "Michael McKean",
+               "profile_path": "/iVcsvBb15nep7TZ07MlJFcxMzvD.jpg",
+               "id": 21731,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43e79251416c7502289d",
+               "name": "Rob Reiner",
+               "profile_path": "/2zw9Iq9uo4vZiTQNQWdNFwbA1TA.jpg",
+               "id": 3026,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43e79251416c750228a3",
+               "name": "Harry Shearer",
+               "profile_path": "/qtGHYpWLbqQVY9ymVPtrJZV6MHg.jpg",
+               "id": 6008,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43e79251416c750228a9",
+               "name": "Peter Smokler",
+               "profile_path": null,
+               "id": 67864,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43e79251416c750228af",
+               "name": "Kent Beyda",
+               "profile_path": null,
+               "id": 13584,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe43e79251416c750228b5",
+               "name": "Kim Secrist",
+               "profile_path": null,
+               "id": 67865,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43e79251416c750228bb",
+               "name": "Rob Reiner",
+               "profile_path": "/2zw9Iq9uo4vZiTQNQWdNFwbA1TA.jpg",
+               "id": 3026,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43e79251416c750228c1",
+               "name": "Christopher Guest",
+               "profile_path": "/fhEQq0q2aR2sh4HU824xunoyAce.jpg",
+               "id": 13524,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43e79251416c750228c7",
+               "name": "Michael McKean",
+               "profile_path": "/iVcsvBb15nep7TZ07MlJFcxMzvD.jpg",
+               "id": 21731,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43e79251416c750228cd",
+               "name": "Harry Shearer",
+               "profile_path": "/qtGHYpWLbqQVY9ymVPtrJZV6MHg.jpg",
+               "id": 6008,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe43e79251416c750228d3",
+               "name": "Eve Brandstein",
+               "profile_path": null,
+               "id": 1098053,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56ee99209251412b3300391b",
+               "name": "Bryan Jones",
+               "profile_path": null,
+               "id": 1593281,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5ab6e56c0e0a261ff1014013",
+               "name": "Gregg Rudloff",
+               "profile_path": null,
+               "id": 1341858,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Music",
+            "id": 10402
+         }
+      ],
+      "popularity": 12.540188,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 11031,
+      "vote_count": 517,
+      "budget": 2500000,
+      "overview": "\"This Is Spinal Tap\" shines a light on the self-contained universe of a metal band struggling to get back on the charts, including everything from its complicated history of ups and downs, gold albums, name changes and undersold concert dates, along with the full host of requisite groupies, promoters, hangers-on and historians, sessions, release events and those special behind-the-scenes moments that keep it all real.",
+      "similar": [
+         762,
+         1359,
+         9659,
+         141,
+         8810,
+         9355,
+         627,
+         111,
+         80585,
+         30497,
+         704,
+         81446,
+         13820,
+         10373,
+         626,
+         11663,
+         9034,
+         11401,
+         11326,
+         136
+      ],
+      "original_title": "This Is Spinal Tap",
+      "runtime": 82,
+      "poster_path": "/2VDPeoPJ2bKdmfuJxxCktx1hr5g.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": null,
+         "name": "Spinal Tap Prod.",
+         "id": 3566,
+         "origin_country": ""
+      }],
+      "release_date": "1984-05-04",
+      "vote_average": 7.7,
+      "belongs_to_collection": null,
+      "tagline": "Does for rock & roll what 'The Sound of Music' did for hills.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Rob Reiner"],
+      "runtime": 82,
+      "synopsis": "Neophyte director Marty DiBergi (Rob Reiner) presents this \"rockumentary\" showcasing the North American tour of aging rockers Spïnal Tap. Band members David St. Hubbins (Michael McKean), Nigel Tufnel (Christopher Guest), and Derick Smalls (Harry Shearer) form the core of the group, with various drummers dying over the years in freak accidents or through spontaneous human combustion. The band is set to promote their new record, \"Smell the Glove,\" featuring a degrading photograph of a woman in bondage smelling a glove. The cover is deemed too offensive for many chain stores, and is redone in 100% black, lacking a band logo or even a title. Their first gig is a huge success selling out New York City's Madison Square Garden. Before the tour begins their promoter holds a huge party for the band as they've successfully completed their latest record \"Smell The Glove\". The record company CEO toasts Spinal Tap's success by \"Tapping Into The Millenium\", which coincidentally is the name of their tour. Next they're being interviewed by Marty DiBergi. We learn the history of Spinal Tap from the beginning of the band's origins through the present day. It seems that they've gone through a number of lineup changes and drummers - one spontaneously combusted while another choked on his own vomit. Spinal Tap is being transported to their next gig, and to pass the time they're reading the autobiography of Rat Pack member Sammy Davis Jr.. The limo driver has a one-sided conversation with them about Frank Sinatra's history. The next song being played is their smash hit single \"Big Bottom\". We also learn how Spinal Tap's back catalog was received by critics. Most of the albums received rather mixed reviews, but one album called \"Shark Sandwich\" received just a two word review - \"Shit sandwich\". Their religious rock album \"The Gospel According To Spinal Tap\" was also rather poorly received. Their next stop takes them to Atlanta for the Recording Industry Convention. There, they learn a couple of gigs were canceled, but nothing to be worried about. While there, they're presented with the finished copies of their new album, but are completely shocked that it's all black. It appears that the record label marketing department was completely offended by the proposed cover as stores have said they flat out weren't going to sell the album, citing it as \"filth\". Spinal Tap's promoters get into a huge argument with the record label CEO who cites their album cover as \"sexist\". While backstage for their next gig in Chapel Hill, North Carolina, Nigel is complaining about the quality (or complete lack thereof) of the food being presented to them. He tells the manager that it's a complete catastrophe and that they wouldn't like being served that food either. The next song they play is \"Hell Hole\" which is rather well received by the theater crowd. During the song David gets in a rather tense guitar solo and falls to the ground requiring roadies to pick him up. The next day Marti is going over Nigel's massive amounts of equipment that they transport from show to show. He then explains how their amplifiers don't end at 10, they go to 11 which is one louder. Their next gig in Charlotte proves to be another disaster when their gig is cancelled due to a \"lack of advertising funds\". The next interview with Marti we learn that Spinal Tap has a dwindling audience. At the start of last year's tour they were booked into 10,000 and 15,000 seat arenas. Now they're being booked into 4,000 and 6,000 seat arenas. They proceed to take out their frustrations by destroying their hotel room. As Nigel is on the phone to their promoter, they learn that a number of their gigs across the Midwest have been cancelled. But thankfully they're saved when Derek informs them that a song they recorded in the past called \"Listen To The Flower People\" was being played on the local radio. But their happiness is short lived when the announcer refers to them in the \"where are they now\" segment. Thankfully Spinal Tap has managed to secure a gig in Memphis. There, they pay tribute to Elvis Presley by making a stop at Graceland and singing \"Heartbreak Hotel\", though none of the band members can remember the words, nor sing in harmony. Spinal Tap's first single was released in 1968 and they've been a band ever since, and evolving with the times and trends, though the recent times have not been kind to them. We also learn of another drummer that died a mysterious death - this one spontaneously combusted on stage. At their next gig in Milwaukee, they play a sound check where they play another song from their \"Flower People\" era called \"Give Me Some Money\". They're finally presented with a box of copies of \"Smell The Glove\" where they're stunned to learn that the studio has decided to go with their decision to release the album cover in all black instead of the proposed and very controversial cover. Their next song is called \"Rock And Roll Creation\" and Derek gets trapped in his pod during the entire song and the roadies desperately try to free him with no success. The next interview with Marti DiBergi interviews Spinal Tap's drummer. There he asks whether or not the history of Spinal Tap drummers has him afraid of what might happen to him. He says it's no big deal. On the tour bus to their next gig the band throws a huge party. Spinal Tap manages to secure their next gig in Denver. Unfortunately as the crowd is demanding they play, they get lost making their way to the stage repeatedly. The next gig in Albequerque proves to be particularly embarrassing as the only gig they've managed to secure has them opening for a magician at a rich kid's birthday party. This causes a rift in the band. The next gig all hell breaks loose. They play one of their most famous songs - a tribute to the ancient Stonehenge monument in Northern England, complete with dwarf dancers and live props. The live prop happens to be a life size replica of Stonehenge, according to Nigel's design. Unfortunately thanks to a typo the Stonehenge monument actually appears much smaller than he originally specified. This proves to be a huge disaster. And things only get worse from there. Their next gig takes them to San Diego and the Miramar Air Force Base where they're the entertainment for a huge reception with a major US Admiral. Unfortunately the crowd isn't interested and the band loses interest as well. A frustrated Nigel finally walks out on the band. And then their last gig on the US tour is their worst to date as they're opening for a puppet show at the Zoo. But Spinal Tap isn't done yet - fortunately their music and their new album prove to be a huge hit in Japan. Upon hearing the news Nigel reunites with the group and they begin a tour of Japan. Finally, at the group's last show, Nigel reappears with a message from Ian: the single \"Sex Farm\" is a big hit in Japan and promoters would be interested in booking the band for a tour there. Spïnal Tap is thus reborn, even as another drummer explodes.",
+      "writers": [
+         "Christopher Guest",
+         "Michael McKean"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0088258/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTQ2MTIzMzg5Nl5BMl5BanBnXkFtZTgwOTc5NDI1MDE@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Rob Reiner, Michael McKean, Christopher Guest | See full cast and crew »"],
+      "reviews": [
+         "'This Is Spinal Tap' has been part of my life for so many years that it's hard to remember a time when I hadn't seen it. Having recently bought it on DVD and rewatched it for the nth time I was once again struck and just how clever and amusing this movie is. Christopher Guest and friends are not only very talented comedians with an amazing ability to improvise, but they know their music, and this is the real strength of the movie. Even though I have almost memorized every scene and joke it's STILL funny to me no matter how many times I watch it. Not only is the movie itself a classic, but the DVD is one of the best buys around with plenty of extras, deleted scenes, many as good as those chosen, and best of all a hilarious commentary by Tufnel, St Hubbins and Smalls which is even funnier than the movie itself. In fact it's the most entertaining DVD commentary track I've heard to date. This movie is a comedy classic, and easily the sharpest rock'n'roll parody ever made. If you haven't seen it before you're in for a treat! Absolutely essential viewing for all rock'n'roll fans, metal or otherwise!",
+         "The gritty, unpretty reality of rock music is on display in director Marty DiBergi's unsparing rockumentary \"This Is Spinal Tap,\" which chronicles the British metal band's tour through the United States in the latter part of 1982. Cold sores, drugs, late-night debauchery, and the brutal snubbing of a Sinatra-loving chauffeur are just some of the antics on display, in what could be the most penetrating and uncensored examination of the rock n' roll lifestyle since \"Gimme Shelter.\" Whereas that movie features one grainy, out-of-focus killing, this film actually shows the band's drummer spontaneously combusting on stage! And apparently this was the second time that happened (or maybe I'm thinking of the drummer they lost to an unexplained gardening accident, I'm a little unclear.) DiBergi hasn't made a movie since \"Spinal Tap,\" which is a shame. No chance he'll make a sequel though. In the 2000-issue DVD, band members Nigel Tufnel, David St. Hubbins, and Derek Smalls make clear that they feel betrayed by DiBergi's work, calling it \"a hatchet job\" and hinting that his jealousy about not being the sixth band member caused him to show only the band's bad side. For example, we see in the movie Spinal Tap backstage at Cleveland's legendary Xanadu Star Theater wandering fruitlessly through a warren of back corridors trying to find their way onto the stage. Nine times out of ten the band found their way on stage without problem, as they point out on the commentary track, but DiBergi has to show the one time they don't. Murphy's Law seems to predominate elsewhere, too, like when Nigel's back gives out in the middle of a blistering solo, or Derek is trapped in a giant peapod prop for an entire song. Viewers of a particularly cruel disposition may even find some cause for amusement when a misunderstanding in Austin, Texas leads to the band performing their legendary number \"Stonehenge\" in front of a model of the ancient monument that barely comes up to the drummer's kit. Maybe they could have gotten away with it if they didn't let the dwarfs come onstage and dance alongside it, but the result, as St. Hubbins notes, is almost \"a comedy number, and I didn't bloody appreciate being part of the comedy.\" The band struggles on, and perceptive viewers may detect a slight note of friction between Tufnel and Jeanine, St. Hubbins's girlfriend, for example when Tufnel throws his guitar down on stage, stares at Jeanine accusingly for a minute, and then quits the band. Misogynists will say Jeanine is the kind of rock wife that 'puts the yoke in Yoko,' but they shallowly ignore her tambourine-playing, or her fearless use of red satin as a pant fabric. Admittedly, Jeanine is less on point as a manager, as an early gig under her control at an amusement park finds them billed under their opening act. 'If I told them once, I told them a thousand times,' she muses. 'Put the band's name first, puppet show after.' But the band soldiers on, and by the end, you will be glad you stuck around, too, rough as it is to see the harshness on screen. It's the kind of documentary that demands periods of quiet reflection to take it all in, to register the pain, sweat, and unpleasant odors behind the entertainment we too often take for granted on the radio. Sadly, the film doesn't feature a complete version of Spinal Tap standards 'Hell Hole' or the big-in-Japan 'Sex Farm.' We do get a full-throated version of the classic 'Big Bottom,' a power ballad which examines the seat of female beauty with a wry Steely Dan-type lyrical subtlety: 'Big Bottom/Big Bottom/Talk about mud flaps/My girl's got 'em.' Why don't they make songs like that any more? I give this film a 9 out of 10, but with the DVD commentary, you gotta boost that to 11. Rock on, Tap!",
+         "Spinal Tap has been called one of the funniest movies ever made by many people over the years. I had always been familiar with it. I was very familiar with almost 70% of the scenes: the amplifier that goes to 11, the Stonehenge dance, the inability to find the way onstage in Cleveland. Plus, when it was first released on VHS, I had rented and loved Fear of a Black Hat, a mockumentary about a rap group which more or less rips off every scene of This Is Spinal Tap. After finally sitting down with This Is Spinal Tap, I am still a fan of Fear of a Black Hat (and I recommend it to anyone who hasn't heard of it), but it can not come close to touching the genius of the collective vision of Rob Reiner, Christopher Guest, Micheal McKean and Harry Shearer. I laughed pretty much constantly, and belly laughs, all through the film. It does kind of slow down nearer the end with the bands falling apart (i.e., the plot gets in the way of the documentary), but there was never a scene in the film that didn't have something hilarious. I have to give this film 10/10. This Is Spinal Tarp, er, um, I mean Tap is one of the funniest comedies ever made.",
+         "Spinal Tap seemed funny the first time I saw it, but I never got all the jokes. Now though, I saw it through and through and I loved it even more (especially on DVD where the extras are hilarious). Nearly every gag in the movie is dead pan funny, from the cover of \"Smell the Glove\" (just the description will make you laugh) to all the others including the three piece guitar solo, the animal costumes (\"this is what you'll look like as a crab\" is the funniest line of the 80's next to \"Frank, they're not here for you, Weird Al is on the plane\" in Naked Gun), the backstage food, (of course) the amp that goes to 11 and the 18 inch stonehenge. Satire at one of it's best, and it's excellent. Cameos include Bruno Kirby, Billy Crystal, Dana Carvey, Paul Schaffer and Anjelica Houston. Other best line: you can not do free flow jazz odyssey in front of a festival crowd! A+",
+         "THIS IS SPINAL TAP (1984) **** Rob Reiner, Christopher Guest, Michael McKean, Harry Shearer (Cameos: Billy Crystal, Dana Carvey, Fran Drescher, Paul Shaffer, Howard Hesseman, Ed Begley, Jr., Fred Willard, Angelica Huston {note spelling!} ). Hysterically funny and dead-on \"rockumentary\" spoof of absurd documentaries and lame so-called rock groups with wicked satirical approach and clever camera shots as well. Directed by Reiner (his debut) with accurate depiction of super-inflated egos, pompous hangers-on and hilarious intimate moments with great dialogue thanks to the improvisations of the trio who reportedly worked from no screenplay. Best moment: Spinal Tap trying to find the stage. And I personally agree with the keyboardist's philosophy of \"Have a good time, all the time\".",
+         "The humor of \"This is Spinal Tap\" has a special time-release formula. I didn't find myself rolling on the floor laughing the first time I saw this but as the day went on my friends and I couldn't stop recalling the dialogue. This movie is a legend. \"See Spinal Tap\" should be written in the dictionary next to satire. Lately satire has come to mean a simple mockery of pop-culture instead of \"human vice or folly attacked through irony, derision or wit\". Movies like \"Scary Movie\" claim to be parodies or satire without even trying to be witty. They just imitate something as opposed to commenting on it. True satire takes a bit more work by the writers and will make you laugh much harder. Spinal Tap gives you the absurdity of the rock and roll world, yet still respects the music. I understood this when I saw a clip of the movie for the first time at the Rock and Roll Hall of Fame. It was the scene with amps that go to \"11\". I couldn't stop thinking about that scene until I finally saw the movie. Every aspect of the music world is lampooned; arrogance, absurdity, backstage crybabies, has-beenism, volume, even the Beatles. This movie is quoted like the Simpsons, which isn't always good but certainly proof of legendary movie. It's dry, deadpan humor and it may take a day to sink in but this movie is hilarious.",
+         "In 1982 the world's loudest band is about to undertake it's comeback tour of America to coincide with the release of the new album. The group, Spinal Tap, is accompanied by documentary filmmaker Marti DeBergi on what turns out to be a fateful chapter in the band's colourful history. Despite what anyone else tells you, this is easily one of the most quotable movies made and is just as funny today as it was when it was made, unless you are so out of touch with the world that it affectionately spoofs. The film is almost a tragedy so well does it chronicle the absurd collapse of the band. However, regardless of the hows and whats, the comedy is in the characters and the sharp dialogue. While most of the specific action is really funny, it is best during the backstage arguments and the candid interviews. The dialogue is fantastic from start to finish and is made better by a superb cast delivering absurd lines with a straight face! McKean, Guest and Shearer are the strongest of the cast have most of the best lines. The support cast is also crammed with cameos from such people as Bruno Kirby, Billy Crystal, Begley Jnr, Macnee, Paul Shaffer, Anjelica Huston and others. Reiner excels as director, writer and documentarian, the film has his hands all over it. Overall this is a great film, so much has been said about it that I won't go on any longer. While it is not an out and out spoof like Naked Gun, this film is wittier as the comedy comes from the dialogue and the sheer imagination of the writing!",
+         "By many seen as the favorite cult classic (together with 'The Rocky Horror Picture Show') 'This is Spinal Tap' is truly a comedy masterpiece. The rockumentary about fake band Spinal Tap seems so honest and serious that the slightest joke gets a huge laugh. We follow the band together with a documentary filmmaker, played by director Rob Reiner, on a tour that must make sure they will have a comeback. We see some of their shows where things go wrong, we see how they argue about the cover of their album, and we see how a girlfriend almost destroys the band. The movie handles all these events as serious as possible, presenting itself as a real documentary about a real band. The fact that the band members are not too bright makes it funny. Especially the scene where the lead singer talks about an amplifier that goes to eleven instead of ten and therefore produces louder sounds is hilarious. The scene where the band plays on a Stonehenge stage is a classic, very memorable. Writer Christopher Guest recently wrote and starred in 'Best in Show' (2000) and 'A Mighty Wind' (2003), two hilarious and terrific fake documentaries, the so-called mockumentaries, but 'This is Spinal Tap' stays the classic example. He and his co-writers, including director Reiner, have created the ultimate cult classic.",
+         "This is FANTASTIC! Writers Christopher Guest, Michael McKean and Harry Shearer in collaboration with director Rob Reiner have created a satire so dead-on its target that it might be scary if it wasn't so hilarious. Filmmaker Marty DiBergi, taking a break from dog food commercials, is determined to capture the sights, sounds and smells of his favorite rock group, the legendary Spinal Tap, on their latest U.S. tour. They're a 20-year old heavy metal outfit from England centering around lead singer David St. Hubbins (McKean), lead guitarist Nigel Tufnel (Guest) and bass guitarist Derek Smalls (Shearer). The rest of the band is a revolving door of personnel including a series of unlucky drummers who have met with bizarre demises. The new tour is the first the band has made of America in years, and unfortunately the they seem to have lost about as many fans as they've lost brain cells. When asked if the smaller venues that the band is playing on this tour means they are losing popularity, manager Ian Faith (Tony Hendra) quickly dismisses the idea. The band's fans are just becoming more \"selective,\" he says. Still, the group is received well at their initial shows--that is if the gig hasn't been canceled, if their balky stage props don't malfunction, and if the band can find its way to the stage from their dressing rooms. But the tour is one disaster following another. Fans don't show up for autograph sessions at record stores. Radio stations play their oldies and ask, \"where are they now?\" To top things off, David's girlfriend Jeanine (June Chadwick), the band's Yoko Ono, arrives. She soon starts contributing her ideas, such as having the band dress in fantasy creature costumes and recording their music \"in Dubly.\" Even with all this trouble, the band feels things will pick up if they can just get their new album released. But Polymer Records refuses to distribute \"Smell the Glove\" with its lurid cover art. Eventually it's released with a solid black record sleeve, with nary a word or picture on it. This turns out to be a reverse image of the Beatles' white album in appearance, artistic success and sales. The band sinks so low as to be billed second to a puppet show at a theme park. The pressures are just too much and as the tour limps to a close the long life of Spinal Tap seems at an end. But rock & roll is a funny business... Throughout we're treated to the band's rock & roll wisdom and philosophy. For instance, Nigel lets Marty in on one of the reasons for their success--loud amplifiers. While the volume settings on other bands' equipment might just go to 10, theirs goes to 11! Asked if there's really a difference, Nigel replies, \"Yeah, well it's like... one louder, innit?\" There are tons of cameos by all sorts of people, including some funny portrayals of PR flacks by Fran Drescher and Paul Shaffer. This is a brilliant comedy that, despite all the parody, loves its subject. Treat yourself to it.",
+         "Not too long ago, my classmates and I were allowed to bring in a DVD of our choice as it was nearing the end of the school term. Knowing that these pop culturists wouldn't be too happy to watch one of my 'arty cult films', I didn't give a shite and brought in 'This is Spinal Tap'. They quite happily agreed to put it on after I told them it was funny and had swearing in it. But soon, boredom started to sink in with the class. \"Crap\", they labelled it. \"Boring\", they yelled. After less than ten minutes, my teacher was changing the disk to, wait for it\u0085 'The Others'. One of my chums, being a fan of the film, dismissed them as idiots. However, I told him it was all a matter of taste and that they would be much happier settling down to watch their 40-year-old virgins and American pies than this more subtly-coloured tin of paint. So as I walked over to the front of the classroom, tail between my legs, to pick up my DVD my teacher leaned over and said, \"Don't worry, I liked it. You have to be cultured to enjoy this sort of thing.\" And you know what, she's right. To be quite frank, 'Spinal Tap' is just like marmite. You'll either love everything about it or hate every frame of it. Some people say it's like watching wet paint dry, others say it was so funny it gave them a hernia. I definitely fall into that latter category. After the umpteenth viewing, I still find it painfully hilarious! But that's not the only reason for seeing it. It's also a totally accurate, observational and witty deconstruction of rock's strutting pretensions. If you're someone who thinks rock bands take themselves far too seriously, you need this movie. If, on the other hand, you feel like rock stars should forever be treated like gods and worshipped on a regular basis, you might just want to avoid this. After all, when Aerosmith's Steven Tyler had finished watching it he said he just felt like he wanted to throw himself off a cliff! It reveals the utter shallowness of rock 'n' roll without even flinching! If you're also a lover of in-your-face laugh-out-loud got-it-straight-away humour, just stay away. Far, far away. This is intellectual stuff. You have to possess intelligence to enjoy it. I've never met any stupid people who did enjoy this film. Director Rob Reiner really shows how broad his range is with this (his best in my opinion!), bringing every authentic detail, no matter how seemingly minor, to the screen effortlessly with a wonderfully sharp cast. Its still a challenge to get my head around the fact that this is from the same tubby Santa Claus look-alike who made 'The Princess Bride' and 'Stand By Me'! Reiner has always been a man with extraordinarily wide horizons and always will be, constantly entertaining cinema-goers with so many different stories! The film's fly-on-the-wall mockumentary style works wonders, getting some beautiful performances from its actors (namely Michael McKean and Christopher Guest) and adding to its 'natural' feel. Many films, mainly British ones, have imitated this style ever since. Even one of the film's actors and co-writers has stuck to the hip of this film for the most part of his career, coming up with new and even more outlandish 'mockumentaries' to entertain and sate his legion of followers. On each viewing, you'll erupt into laughter at the discovery of a new joke. Then for weeks on end, you'll be quoting it to your friends and everyone you know. It's like a treasure trove without a bottom! To finish this not-so-critical analysis, I can never find any fault or flaw even after the innumerable viewings I've had. I never get bored of it either. I think the reason I like this so much is, honestly, because it was made for people like me!"
+      ],
+      "genres": [
+         "Comedy",
+         "Music"
+      ],
+      "productionCompanies": ["Spinal Tap Prod."],
+      "summaries": [
+         "In 1982 legendary British heavy metal band Spinal Tap attempt an American comeback tour accompanied by a fan who is also a film-maker. The resulting documentary, interspersed with powerful performances of Tap's pivotal music and profound lyrics, candidly follows a rock group heading towards crisis, culminating in the infamous affair of the eighteen-inch-high Stonehenge stage prop.",
+         "British heavy metal band Spinal Tap embarks on their biggest tour in the US to date to promote their new album \"Smell The Glove\". The tour is so big that it's attracted the attention of documentary filmmaker Marti DeBergi, who decides to make a movie about Spinal Taps' trek across America. But as the documentary goes along, Spinal Tap sees their audiences dwindle from selling out huge arenas to going to play at charity benefits, and eventually playing private parties where no one pays attention to their music. Their new album drops and it's decently reviewed by critics, but the record stores have a huge problem with the sexist overtones of the album's cover, causing a loss in sales. However, a series of incidents that constantly shoot themselves in the foot - whether it's a minuscule Stonehenge monument, a stage prop malfunction, or a simple two word review of an album - keep preventing the band from enjoying the success they deserve. But how long can they keep playing to 11? And will they find the audience that suits them?",
+         "Marty DeBergi is a film-maker who decides to make a documentary, a rockumentary actually, about the world's loudest band, the British heavy metal group Spinal Tap. The movie is in fact a biting satire and spoof of the whole rock and roll scene that passes itself off as a real documentary of a real band. Hilarious behind-the-scenes footage is combined with faux-concert clips to breathe life into the imaginary group.",
+         "Spinal Tap, one of England's loudest bands, is chronicled by film director Marty DeBergi on what proves to be a fateful tour."
+      ],
+      "budget": 2500000
+   },
+   "movielensId": 1288,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1984-05-04",
+      "dvdReleaseDate": "2004-09-07",
+      "directors": ["Rob Reiner"],
+      "runtime": 82,
+      "movieId": 1288,
+      "title": "This Is Spinal Tap",
+      "mpaa": "R",
+      "actors": [
+         "Christopher Guest",
+         "Michael McKean",
+         "Harry Shearer",
+         "Rob Reiner",
+         "June Chadwick",
+         "Tony Hendra\t",
+         "Bruno Kirby",
+         "R.J. Parnell",
+         "David Kaff",
+         "Ed Begley Jr.",
+         "Danny Kortchmar",
+         "Fran Drescher",
+         "Patrick Macnee",
+         "Julie Payne",
+         "Dana Carvey",
+         "Sandy Helberg",
+         "Zane Buzby",
+         "Billy Crystal",
+         "Paul Benedict",
+         "Howard Hesseman",
+         "Paul Shortino",
+         "Lara Cody",
+         "Andrew J. Lederer",
+         "Russ Kunkel",
+         "Victory Tischler-Blue",
+         "Joyce Hyser",
+         "Gloria Gifford",
+         "Paul Shaffer",
+         "Archie Hahn",
+         "Charles Levin",
+         "Anjelica Huston",
+         "Donald Kendrick",
+         "Fred Willard",
+         "Wonderful Smith",
+         "Kimberly Stringer",
+         "Chazz Dominguez",
+         "Shari Hall",
+         "Jean Cromie",
+         "Patrick Maher",
+         "Memo Vera",
+         "Robin Menken",
+         "Jennifer Child",
+         "J.J. Barry",
+         "George McDaniel",
+         "Anne Churchill",
+         "Cherie Darr",
+         "Diana Duncan",
+         "Gina Marie Pitrello",
+         "Brinke Stevens"
+      ],
+      "imdbMovieId": "0088258",
+      "originalTitle": "This Is Spinal Tap",
+      "genres": [
+         "Comedy",
+         "Music"
+      ],
+      "youtubeTrailerIds": ["YZbHagBNY98"],
+      "plotSummary": "\"This Is Spinal Tap\" shines a light on the self-contained universe of a metal band struggling to get back on the charts, including everything from its complicated history of ups and downs, gold albums, name changes and undersold concert dates, along with the full host of requisite groupies, promoters, hangers-on and historians, sessions, release events and those special behind-the-scenes moments that keep it all real.",
+      "tmdbMovieId": 11031,
+      "avgRating": 4.00887,
+      "releaseYear": "1984",
+      "numRatings": 18439,
+      "posterPath": "/2VDPeoPJ2bKdmfuJxxCktx1hr5g.jpg"
+   }
+}

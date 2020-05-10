@@ -1,0 +1,602 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "helicopter",
+            "id": 720
+         },
+         {
+            "name": "river",
+            "id": 1261
+         },
+         {
+            "name": "captain",
+            "id": 1316
+         },
+         {
+            "name": "underground",
+            "id": 1353
+         },
+         {
+            "name": "mexican standoff",
+            "id": 1666
+         },
+         {
+            "name": "countdown",
+            "id": 1825
+         },
+         {
+            "name": "pilot",
+            "id": 3203
+         },
+         {
+            "name": "fistfight",
+            "id": 5572
+         },
+         {
+            "name": "canyon",
+            "id": 8122
+         },
+         {
+            "name": "major",
+            "id": 9052
+         },
+         {
+            "name": "betrayal",
+            "id": 10085
+         },
+         {
+            "name": "gunfight",
+            "id": 12371
+         },
+         {
+            "name": "train",
+            "id": 13008
+         },
+         {
+            "name": "explosion",
+            "id": 14601
+         },
+         {
+            "name": "park ranger",
+            "id": 15263
+         },
+         {
+            "name": "desert",
+            "id": 18034
+         },
+         {
+            "name": "military",
+            "id": 162365
+         },
+         {
+            "name": "nuclear device",
+            "id": 208547
+         },
+         {
+            "name": "boxing",
+            "id": 209476
+         },
+         {
+            "name": "stealth aircraft",
+            "id": 214472
+         },
+         {
+            "name": "abandoned mine",
+            "id": 215861
+         },
+         {
+            "name": "humvee",
+            "id": 219869
+         }
+      ],
+      "imdb_id": "tt0115759",
+      "video": false,
+      "title": "Broken Arrow",
+      "recommendations": [
+         9268,
+         9350,
+         4824,
+         8845,
+         11228,
+         9869,
+         9319,
+         3595,
+         8012,
+         9618,
+         9604,
+         9691,
+         10538,
+         7007,
+         9772,
+         9331,
+         11074,
+         2320,
+         2112,
+         9946
+      ],
+      "backdrop_path": "/pi0Z4gmbvwl6j7tKbwMj8elSzzT.jpg",
+      "revenue": 150270147,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Maj. Vic 'Deak' Deakins",
+               "gender": 2,
+               "credit_id": "52fe44dcc3a36847f80ae6e7",
+               "name": "John Travolta",
+               "profile_path": "/6CKR08ipxM8d2xOB26ja7OlXx7H.jpg",
+               "id": 8891,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Capt. Riley Hale",
+               "gender": 2,
+               "credit_id": "52fe44dcc3a36847f80ae6eb",
+               "name": "Christian Slater",
+               "profile_path": "/3ElLWjnvchMS6Q4cIQOK8QNAoMG.jpg",
+               "id": 2224,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Terry Carmichael",
+               "gender": 1,
+               "credit_id": "52fe44dcc3a36847f80ae6ef",
+               "name": "Samantha Mathis",
+               "profile_path": "/dzUjIFu7AAbwwJfj6aFRPfvYgC3.jpg",
+               "id": 20767,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Colonel Max Wilkins",
+               "gender": 2,
+               "credit_id": "52fe44dcc3a36847f80ae6f3",
+               "name": "Delroy Lindo",
+               "profile_path": "/uhjdTemc2kYbQj47bVqRb7OdVjH.jpg",
+               "id": 18792,
+               "order": 3
+            },
+            {
+               "cast_id": 21,
+               "character": "Pritchett",
+               "gender": 2,
+               "credit_id": "52fe44dcc3a36847f80ae751",
+               "name": "Bob Gunton",
+               "profile_path": "/b3NfI0IzPYI40eIEtO9O0XQiR8j.jpg",
+               "id": 4029,
+               "order": 4
+            },
+            {
+               "cast_id": 22,
+               "character": "Giles Prentice",
+               "gender": 2,
+               "credit_id": "52fe44dcc3a36847f80ae755",
+               "name": "Frank Whaley",
+               "profile_path": "/ma1lgPwUHUlgdt9BIcIbEPjdx0h.jpg",
+               "id": 11805,
+               "order": 5
+            },
+            {
+               "cast_id": 23,
+               "character": "Kelly",
+               "gender": 2,
+               "credit_id": "52fe44dcc3a36847f80ae759",
+               "name": "Howie Long",
+               "profile_path": "/sjwTca5rVsDywsvMlVuN0hyrATP.jpg",
+               "id": 126418,
+               "order": 6
+            },
+            {
+               "cast_id": 24,
+               "character": "Chief Sam Rhodes",
+               "gender": 2,
+               "credit_id": "52fe44dcc3a36847f80ae75d",
+               "name": "Vondie Curtis-Hall",
+               "profile_path": "/tH7QvQ9ST9zLuZZsTHzxMXkgtIy.jpg",
+               "id": 6198,
+               "order": 7
+            },
+            {
+               "cast_id": 25,
+               "character": "Chairman, Joint Chief of Staff",
+               "gender": 2,
+               "credit_id": "52fe44dcc3a36847f80ae761",
+               "name": "Jack Thompson",
+               "profile_path": "/l2NNfs9bd6qxqzIOahcz2hErrq8.jpg",
+               "id": 12536,
+               "order": 8
+            },
+            {
+               "cast_id": 26,
+               "character": "Johnson",
+               "gender": 2,
+               "credit_id": "52fe44dcc3a36847f80ae765",
+               "name": "Vyto Ruginis",
+               "profile_path": "/dDZyaISuF9FVK18nTmsuDgOpyKl.jpg",
+               "id": 61216,
+               "order": 9
+            },
+            {
+               "cast_id": 27,
+               "character": "Lt. Thomas",
+               "gender": 2,
+               "credit_id": "52fe44dcc3a36847f80ae769",
+               "name": "Ousaun Elam",
+               "profile_path": "/wYr28o3cuqZ3iLCMWBMwjhrA05o.jpg",
+               "id": 4607,
+               "order": 10
+            },
+            {
+               "cast_id": 28,
+               "character": "Max",
+               "gender": 2,
+               "credit_id": "52fe44dcc3a36847f80ae76d",
+               "name": "Shaun Toub",
+               "profile_path": "/qRHZD8EdqeUor8A6tazJ3v3gxyD.jpg",
+               "id": 17857,
+               "order": 11
+            },
+            {
+               "cast_id": 29,
+               "character": "Novacek",
+               "gender": 2,
+               "credit_id": "52fe44dcc3a36847f80ae771",
+               "name": "Casey Biggs",
+               "profile_path": "/iFi43Gv1pGeywgMCBenbPtyTxr7.jpg",
+               "id": 62548,
+               "order": 12
+            },
+            {
+               "cast_id": 30,
+               "character": "Shepherd",
+               "gender": 0,
+               "credit_id": "52fe44dcc3a36847f80ae775",
+               "name": "Jeffrey J. Stephen",
+               "profile_path": "/krBGyBelQSG7FOFS7WpKDQSA0eQ.jpg",
+               "id": 141582,
+               "order": 13
+            },
+            {
+               "cast_id": 31,
+               "character": "Frakes",
+               "gender": 2,
+               "credit_id": "52fe44dcc3a36847f80ae779",
+               "name": "Joey Box",
+               "profile_path": null,
+               "id": 9558,
+               "order": 14
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe44dcc3a36847f80ae6f9",
+               "name": "Graham Yost",
+               "profile_path": "/l0tZHqHwvLZkd5uipumPQ0I2ucC.jpg",
+               "id": 21206,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44dcc3a36847f80ae6ff",
+               "name": "Hans Zimmer",
+               "profile_path": "/7IjJpvGtCfY0DsritmfCh2iX9I4.jpg",
+               "id": 947,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44dcc3a36847f80ae705",
+               "name": "Bill Badalato",
+               "profile_path": null,
+               "id": 35510,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44dcc3a36847f80ae70b",
+               "name": "Terence Chang",
+               "profile_path": null,
+               "id": 11404,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44dcc3a36847f80ae711",
+               "name": "Joe Gareri",
+               "profile_path": null,
+               "id": 56995,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44dcc3a36847f80ae717",
+               "name": "Christopher Godsick",
+               "profile_path": null,
+               "id": 56996,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44dcc3a36847f80ae71d",
+               "name": "Brad Lewis",
+               "profile_path": "/wfIglAFUH6n1Jbxt7P2Wh317jvI.jpg",
+               "id": 32532,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44dcc3a36847f80ae723",
+               "name": "Dwight H. Little",
+               "profile_path": "/9Q77ZzYvRkVmfdU6twRQyvW4YB8.jpg",
+               "id": 56998,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44dcc3a36847f80ae729",
+               "name": "Michele Maples",
+               "profile_path": null,
+               "id": 56999,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44dcc3a36847f80ae72f",
+               "name": "Peter Levy",
+               "profile_path": null,
+               "id": 2044,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44dcc3a36847f80ae735",
+               "name": "Joe Hutshing",
+               "profile_path": null,
+               "id": 4186,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44dcc3a36847f80ae73b",
+               "name": "Steve Mirkovich",
+               "profile_path": null,
+               "id": 8751,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44dcc3a36847f80ae741",
+               "name": "John Wright",
+               "profile_path": null,
+               "id": 8752,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44dcc3a36847f80ae747",
+               "name": "John Woo",
+               "profile_path": "/d1ovGZj05qWU1MjVKAePVj7ZMRh.jpg",
+               "id": 11401,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44dcc3a36847f80ae74d",
+               "name": "Mark Gordon",
+               "profile_path": "/lATsud5NyaXaKE5p8H1kEkUsbWN.jpg",
+               "id": 6048,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44dcc3a36847f80ae77f",
+               "name": "Allison Lyon Segan",
+               "profile_path": null,
+               "id": 21983,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "553746c2c3a36815ac00511c",
+               "name": "John Bermudes",
+               "profile_path": null,
+               "id": 1451661,
+               "department": "Crew",
+               "job": "Compositors"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Adventure",
+            "id": 12
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         }
+      ],
+      "popularity": 7.176137,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 9208,
+      "vote_count": 530,
+      "budget": 50000000,
+      "overview": "When rogue stealth-fighter pilot Vic Deakins deliberately drops off the radar while on maneuvers, the Air Force ends up with two stolen nuclear warheads -- and Deakins's co-pilot, Riley Hale, is the military's only hope for getting them back. Traversing the deserted canyons of Utah, Hale teams with park ranger Terry Carmichael to put Deakins back in his box.",
+      "similar": [
+         9268,
+         1701,
+         1979,
+         8007,
+         49021,
+         242166,
+         5503,
+         7191,
+         9737,
+         9679,
+         4421,
+         562,
+         1572,
+         1573,
+         1927,
+         97630,
+         11228,
+         916,
+         96,
+         9654
+      ],
+      "original_title": "Broken Arrow",
+      "runtime": 108,
+      "poster_path": "/avqUG5RYB93rwSUNL5r16Vtbc9g.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "WCG Entertainment Productions",
+            "id": 456,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+            "name": "20th Century Fox",
+            "id": 25,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": "/ccz9bqCu3jSFKbPFnfWmjAKZLBL.png",
+            "name": "The Mark Gordon Company",
+            "id": 1557,
+            "origin_country": "US"
+         }
+      ],
+      "release_date": "1996-02-09",
+      "vote_average": 5.7,
+      "belongs_to_collection": null,
+      "tagline": "Prepare to Go Ballistic.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["John Woo"],
+      "runtime": 108,
+      "synopsis": "Major Vic \"Deak\" Deakins (John Travolta) and Captain Riley Hale (Christian Slater) are pilots in the United States Air Force. After a sparring match between the two, the pilots are assigned to a top secret exercise on a B-3 Stealth Bomber (a fictional advanced version of the actual B-2 Spirit stealth bomber) with two B-83 nuclear bombs on board. Deakins and Hale take off from Whiteman Air Force Base carrying the two live nuclear weapons on an evening exercise over Utah. After successfully evading Air Force radar during the exercise, Deakins begins a friendly conversation to distract and shoot Hale. A struggle ensues, ending when Deakins ejects Hale. He then releases the bombs from the plane without detonating them. When the Air Force base regains radar contact with the aircraft, Deakins reports, \"Hale's lost it. I'm punching out\", and ejects, leaving the plane to crash on the mountainside over the Utah canyons. A search and rescue team is sent to recover the warheads. They do not find the warheads in the plane's payload bay remains and report a \"Broken Arrow\", a situation wherein nuclear weapons are missing. The team later locates the warheads in a canyon but are killed while recovering them by mercenaries, including Sgt. Kelly (Howie Long), a corrupt member of the team. Deakins arrives moments later and plots his next move with Pritchett (Bob Gunton), the operation's financier. Meanwhile, Hale survives the ejection and is found by Park Ranger Terry Carmichael (Samantha Mathis) whom, after a brief stand-off, he convinces to help him track down Deakins and foil his plot. After recovering the weapons from a hijacked Humvee and escaping to a nearby copper mine, Hale attempts to disable them using a safety feature which would render them unusable, by intentionally entering the arming code incorrectly. Deakins, however, had anticipated this scenario, and Hale inadvertently arms the warhead. Finding himself unable to disarm the warhead, Hale decides to place the unarmed weapon deep in the abandoned mine to prevent them from being used elsewhere. Deakins arrives and secures the unarmed warhead, leaving Hale and Terry to die in the upcoming explosion. A helicopter chases Deakins, as the mercenaries proceed with their mission to blackmail the government with the threat of detonating the warhead in a civilian area. Pritchett berates him for allowing the helicopter to give chase, and Deakins, fed up with his complaining, kills Pritchett by crushing his throat with a flashlight. Hale and Terry escape from the mine via an underground river just before the bomb detonates. The bomb's EMP disables and subsequently destroys the NEST Team sent in to recover the warheads. Terry and Hale track Deakins to a motorboat to be used for transporting the remaining warhead. While trying to steal the boat, Terry is forced to hide on board while Deakins moves the warhead. Military forces rescue Hale. Hale deduces that Deakins intends to move the warhead on board a train and sets off in a helicopter to find the train and hunt down the remaining mercenaries. Aboard the train, Hale finds Terry, whom Deakins has tried, unsuccessfully, to threaten into arming the weapon. A gunfight ensues in which the helicopter that Hale was on with Colonel Wilkins (Delroy Lindo) is destroyed, and Wilkins and most of Deakins' mercenaries are killed. With his own helicopter sabotaged by Hale and his plan falling apart, Deakins decides to detonate the nuke early. Kelly, realizing they will have no chance to get away in time, holds Deakins at gunpoint and demands he disarm the weapon. As the train passes over a viaduct, Hale leaps into the boxcar and kicks Kelly out to his death below. Terry detaches the rear section of the train (with the bomb) from the front, but soon gets into a shootout with the engineer, resulting in the engineer falling on the train brakes and causing the train to stop. However, the detached boxcars continue to coast at high speed. Deakins, still in possession of a device that can either disarm or detonate the bomb instantly, forces Hale to drop his gun and challenges him to a hand-to-hand fight. Hale uses his greater speed to match Deakins' strength, ultimately winning their rematch from the night before. Hale leaps out of the train at the last second with the weapon's remote control and disarms it. As he does so, the detached boxcars slam into the halted front-half of the train. The impact from the collision propels the disarmed warhead into Deakins, and the entire train derails, exploding in a fireball, incinerating Deakins. Hale survives and finds a 20-dollar bill fluttering on a twig in the debris - the same 20-dollar bill Deakins had won from him earlier during their boxing practice - plus the nuclear warhead, damaged but intact. He then finds Terry and they formally introduce themselves to each other amidst the wreckage.",
+      "writers": ["Graham Yost"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0115759/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTY1NTQzMDQwMF5BMl5BanBnXkFtZTYwOTQ1OTk4._V1_SY317_CR4,0,214,317_AL_.jpg",
+      "actors": ["Stars: John Travolta, Christian Slater, Samantha Mathis | See full cast and crew »"],
+      "reviews": [
+         "Usually I'm the first person to label this sort of movie. Look at it, you'd think it was bad. It's got the usual assortment of action movie clichés and conventions. The John Woo directed action scenes stretch over the top at times, there's the mentally unstable talkative nemesis and yes even one of those bombs that graces us with a digital readout. All prerequisites for movies of this type and saying all that I'd usually be complaining by now. Yet for one reason I can't. This movie entertained me. It finds a way to come together in a really enjoyably manner and I'm happy with what I got. I can't bad mouth it. Nothing got in my way of everlasting enjoyment of seeing people die, bombs going off and the baritone guitar instrumental. It just all clicks from the get-go. If your reading this you don't need me to recycle the plot summary. It's of a trivial nature. Good action, decent cast and a fun atmosphere go a long way with Travolta ultimately holding it all together. He plays his role over-the-top and delivers some fantastic lines. It doesn't hurt that him and Slater tango well neither. If Travolta attempted this movie now instead of when he did - it wouldn't work. He's done too many goody-goody roles to come back down to this. Laws of nature will not allow him to make another good movie where he plays a bad guy. Chances are anyone else than Travolta in Broken Arrow and you'd be reading a completely different review right now too. A guilty pleasure if there ever was one.",
+         "John Travolta stars in this mindless thriller in which he steals a nuclear weapon and its up to Christian Slater and Samantha Mathis to save the world.. Overall a good action flick with a leave your brain at home plot..Travolta goes slightly over the top with his character but is still good..Slater is ok and Mathis does what she can with what little the script gives her.. on a scale of one to ten... 6",
+         "There are so many stupid action movies out there -- mind-numbing, explosion-filled, cartoonish, slow-motion-bodies-falling, gore, ugly guns, special f/x, mismatched heroic couple of mixed sex, wisecracking villain -- and I've SEEN so many that I'm beginning to be able to tell the difference between them. This is one of the better ones. The plot has John Travolta as the smiling treacherous heavy, and Christian Slater as the true-blue captain in the USAF out to spoil Travolta's plot to blow up Denver with a kidnapped nuclear device. There is a cute red head thrown fortuitously together with Slater. She has nice plump lips, big blue eyes, and the tightly tailored slacks of a Park Ranger. Very nice. We watch her from below as she climbs the ladder on the side of a boxcar. There's no reason for her to be IN the movie except to have her climb boxcars, roll down sandy hills, and so on. But then there's no particular reason for ANYTHING to be in the movie. What I mean is that if you found it necessary to leave the room for a minute or two -- a knock on the door, a tug on the trigonal, whatever -- you would find that you hand't missed much when you returned. None of the characters changes in any way. There is no dialogue worth remembering. There are some unusual special effects but if you've missed one example it's okay because another is right around the corner. I particularly enjoy the scene in which the exploding bomb takes out the helicopter. I've sat through this thing three times and I am now convinced it has turned the higher reasoning centers of my brain into tofu. That's why I genuinely like it. I like it for Travolta's toothy reptilian grin, for Slater's imitation of Jack Nicholson, for the ripoffs from \"Indiana Jones,\" for the gorgeous Utah scenery, for the rocketing diesel train, Lake Powell, the redhead climbing the ladder, the fist fights, the bouncing Humvees, the civilian who proudly announces he used to be a lieutenant in the ROTC at Yale, the redhead climbing the ladder, the bodies of people who tumble in slow motion towards the camera as a fireball explodes behind them (three times), the redhead climbing the ladder. I just like it, that's all. Anybody up for some sesame oil?",
+         "In his \"TV Movies and Video Guide,\" Leonard Maltin asks, \"Why was this movie made?\" The answer is simple: To entertain the people. I was certainly entertained by this far-fetched action thriller, due in no small part to John Woo's imaginative direction of the action sequences. John Travolta overdoes the psycho routine, hamming it up when some restraint would have made for a more believable performance, but his considerable charm sees him through. Christian Slater, an actor who hasn't impressed me as anything more than a Jack Nicholson wannabe, makes a surprisingly commendable hero. This movie is junk food, of course, but it's very tasty indeed.",
+         "If you want an action film in which the hero has a personality, and the bad guy has an even better personality, take a look at Broken Arrow. John Woo's choreographed action is not as dramatic as the Matrix-clone films that are so common today. He is great at creating interesting relationships between heroes and villains, and this film is a good example. John Travolta is terrific. Christian Slater breaks typecast by playing a nice, sane soldier doing his duty. The love interest isn't an idiotic supermodel playing a nuclear scientist or something, but a park ranger, also doing her duty. She is cute, earthy, and actually believable. If you want a film that will repeat every aspect of every other military adventure film you have ever seen, you will be disappointed. If dialog bores you, skip this film. If you like action movies filmed entirely in parking garages and spooky allies, then you will not appreciate the settings in this film in America's majestic West.",
+         "\"Broken Arrow\" is a good action film about a Stealth pilot (John Travolta) who steals nuclear weapons one night during a practice mission. His goal is to sell the weapons back to the United States government by blackmailing them. Old partner Christian Slater is willing to stop Travolta at all costs with the help of ranger Samantha Mathis. Howie Long makes an impressive film debut as Travolta's evil henchman. The screenplay is smart enough to work and the direction is fast and furious. A film that is about as good as it can be. 4 stars out of 5.",
+         "Like nearly every other in this genre BROKEN ARROW is dumb with a capital DUM . It suffers from a myriad of plot holes and factual errors that anyone who has surfed the net looking through sites dedicated to the military will be able to spot at once . One early example is when the pilots eject and control have no idea to their fate . It's a well known fact that pilot suits contain a homing beacon so pilots who eject on missions can be instantly traced We as an audience are supposed to forgive this ignorance and this audience member found it very easy to . Yeah it's a Hollywood movie from the 1990s so we're treated to very unlikely plot twists in a movie where the good guy and an innocent woman just doing her job have to stop bad guys so get ready for firefights , explosions and the obligatory scene of a countdown BROKEN ARROW might not be a classic action adventure movie ( It's a little too formuliac ) but it's better than most from the 1990s . Travolta purposely does an impression of Tom Cruise except he's a bad ass and Christian Slater may seem an unlikely action hero but he's far more convincing than Steven Seagal or even Keanu Reeves . John Woo directs in a workman like manner and though it's not his best movie Woo does treat us to some spectacular and grisly deaths",
+         "What a pointless piece of crap. A film whose dialog is comprised exclusively of \"tag-lines\". Acting as nuanced as that which might be found on an infomercial. A plot as contrived and preposterous as any one might find in a rejected RoadRunner cartoon script. This film has it all, culminating in a death scene as silly as you'll ever see. The plot involves the theft of a set of nuclear weapons which Christian Slater is trained \"to disable\". These nuclear weapons have a keypad you can set for thirty minutes. Can you, dear reader, explain to me the rationale for such a feature on a nuclear warhead? This film's plot devices come from a world where physics and logic have not yet been invented. This film does make you think. It's horrible.",
+         "John Woo's continued attempt to translate his foreign success into Hollywood gold sees him take on bigger stars than Van Damme in Christian Slater and the resurrected star of Travolta. Slater and Travolta play pilots testing a new bomber, when one of them decides to steal the missiles on board the other must begin a personal fight to stop him. As with Hard Target this is a solid enough action movie but it really could have been made by anyone, Woo's style only really comes through in a few scenes (the birds eye view of the opening boxing match, double handed gun play). This is a shame because the action scenes only occasionally get better than average. The plot is weak and relies a lot on coincident and luck to keep things moving. This is quite insulting to an audience because it just shows that the script writers couldn't fix the plot as a workable story and decided to try and get this past. Travolta overplays the villain well, but perhaps overdoes the ticks and the madness a bit too much to be believable. Slater clearly wants to be like Keanu was in Speed but doesn't convince as an action hero, Mathis is cute but that doesn't make her performance good - she pretty much a non-entity and doesn't really have much chemistry with Slater. Again a solid action movie that is OK for a Saturday night, but with the stars, the budget and a director of this calibre you can't help but feel this was a missed opportunity.",
+         "After \"Terminator 2\" this is one of the best directed action thrillers I have seen and it finds for ever a place in my best of DVD collection. There are two masters for action movies for me: John Woo and James Cameron. The stunts were great and all very real executed. I mean there doesn't exist any cartoonish scenes as we see today in the cinema at times. John Travolta did perhaps after \"Face Off\" one of the best jobs in his career. If you liked it I highly recommend the other broken arrow film called \"The Sum of All Fears\". \"Broken Arrow\" is incredibly underrated and should be classified as T2. For all action fans a must see, you won´t be disappointed. My wife and I vote 9.5/10."
+      ],
+      "genres": [
+         "Action",
+         "Adventure",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "Twentieth Century Fox Film Corporation",
+         "Mark Gordon Productions",
+         "WCG Entertainment Productions"
+      ],
+      "summaries": [
+         "\"Broken Arrow\" is the term used to describe a nuclear device that has been lost. In this movie, two nuclear missiles are stolen by rogue US pilot Deakins, but hot on his trail is his co-pilot Hale and a Park Ranger, Terry. The action takes place in Utah's canyon country; a high stakes game of cat and mouse.",
+         "Major Vic Deakins and Captain Riley Hale are Air Force pilots sent on a mission to fly a B-3 bomber carrying two live nuclear warheads to test for radiation emissions over a desert in Utah. The mission is messed up when Vic tries to kill Riley, and the airplane crashes in the desert. The warheads were made to survive crashes. Before the crash, Vic and Riley parachuted off of the airplane. Vic and his right hand man Emmitt Kelly (Howie Long) steal the two warheads, and they plan to detonate the two warheads in Salt Lake City unless they receive $250,000,000 from the government. Lost in the desert, Riley is found by park ranger Terry Carmichael, who decides to help him find Vic and Emmitt. Terry and Riley soon discover that Vic plans to send the warheads to Salt Lake City on a train, but Vic has only one warhead to use after one of the warheads explodes inside of an abandoned copper mine that Vic was using as a hideout. Then Terry and Riley discover that Vic is actually sending the remaining warhead to an even bigger target -- Denver, Colorado, not Salt Lake City. Can they stop the train before it reaches Denver?",
+         "Major Vic Deakins and Commander Riley Hale are training and combat partners and good friends. One day, they receive orders to perform another training exercise with a stealth bomber armed with real nuclear missiles. Then, in a flash, Deakins turns on Hale and crashes the bomber. The next morning, a team of soldiers, lead by a man named Emmitt Kelly, search for the lost Nuclear missiles. But, Kelly then kills off his own team and takes the missiles to Deakins. What Deakins is planning to do is demand the government to give him a promotion and money. But, it wasn't long at all before hale regained consciousness. He must stop Deakins from using the nuclear missiles to blow up the west with a help of a park ranger Teresa Charmichile.",
+         "Major Deakins is a tough U.S. Air Force pilot who is assigned to a flight mission with 'nice-guy' Captain Hale. They are to fly the B3 Stealth Bomber on wargame maneuvers over Utah loaded with two live nuclear weapons. Deakins, having been continually passed over for promotion, sells out his country and arranges to use the thermonuclear warheads under his command to blackmail the U.S. government. The only thing standing in his way is his old buddy, Captain Hale....",
+         "A corrupt Air Force major intentionally crash lands a U.S. plane in the middle of the desert and holds two nuclear warheads for ransom. The only ones who can stop him are his co-pilot, a younger Air Force captain, and an ambitious U.S. park ranger patrolling the area.",
+         "Terrorists steal nuclear warheads from the U.S. military but don't count on a pilot and park ranger spoiling their plans."
+      ],
+      "budget": 50000000
+   },
+   "movielensId": 95,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1996-02-09",
+      "dvdReleaseDate": "1999-03-09",
+      "directors": ["John Woo"],
+      "runtime": 108,
+      "movieId": 95,
+      "title": "Broken Arrow",
+      "mpaa": "R",
+      "actors": [
+         "John Travolta",
+         "Christian Slater",
+         "Samantha Mathis",
+         "Delroy Lindo",
+         "Bob Gunton",
+         "Frank Whaley",
+         "Howie Long",
+         "Vondie Curtis-Hall",
+         "Jack Thompson",
+         "Vyto Ruginis",
+         "Ousaun Elam",
+         "Shaun Toub",
+         "Casey Biggs",
+         "Jeffrey J. Stephen",
+         "Joey Box"
+      ],
+      "imdbMovieId": "0115759",
+      "originalTitle": "Broken Arrow",
+      "genres": [
+         "Action",
+         "Adventure",
+         "Drama",
+         "Thriller"
+      ],
+      "youtubeTrailerIds": ["De29KipeZQw"],
+      "plotSummary": "When rogue stealth-fighter pilot Vic Deakins deliberately drops off the radar while on maneuvers, the Air Force ends up with two stolen nuclear warheads -- and Deakins's co-pilot, Riley Hale, is the military's only hope for getting them back. Traversing the deserted canyons of Utah, Hale teams with park ranger Terry Carmichael to put Deakins back in his box.",
+      "tmdbMovieId": 9208,
+      "avgRating": 3.11062,
+      "releaseYear": "1996",
+      "numRatings": 25737,
+      "posterPath": "/avqUG5RYB93rwSUNL5r16Vtbc9g.jpg"
+   }
+}

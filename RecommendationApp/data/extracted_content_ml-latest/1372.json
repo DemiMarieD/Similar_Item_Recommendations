@@ -1,0 +1,624 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "farewell",
+            "id": 455
+         },
+         {
+            "name": "federation",
+            "id": 503
+         },
+         {
+            "name": "starfleet",
+            "id": 505
+         },
+         {
+            "name": "peace conference",
+            "id": 559
+         },
+         {
+            "name": "uss enterprise-a",
+            "id": 665
+         },
+         {
+            "name": "rura penthe",
+            "id": 750
+         },
+         {
+            "name": "court case",
+            "id": 3012
+         },
+         {
+            "name": "peace contract",
+            "id": 4732
+         },
+         {
+            "name": "plan",
+            "id": 4812
+         },
+         {
+            "name": "klingon",
+            "id": 155211
+         },
+         {
+            "name": "space opera",
+            "id": 161176
+         }
+      ],
+      "imdb_id": "tt0102975",
+      "video": false,
+      "title": "Star Trek VI: The Undiscovered Country",
+      "recommendations": [
+         172,
+         157,
+         168,
+         193,
+         152,
+         200,
+         154,
+         201,
+         199,
+         10803,
+         926,
+         865,
+         11884,
+         2157,
+         8536,
+         97,
+         9080,
+         11864,
+         1648,
+         860
+      ],
+      "backdrop_path": "/qzrOCLviAseY5WOmsgkNVIAHQea.jpg",
+      "revenue": 96900000,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 6,
+               "character": "James Tiberius Kirk",
+               "gender": 2,
+               "credit_id": "52fe4222c3a36847f8006acb",
+               "name": "William Shatner",
+               "profile_path": "/4byp8PsbRkC3UQVuvMAh4bcj7E2.jpg",
+               "id": 1748,
+               "order": 0
+            },
+            {
+               "cast_id": 7,
+               "character": "Spock",
+               "gender": 2,
+               "credit_id": "52fe4222c3a36847f8006acf",
+               "name": "Leonard Nimoy",
+               "profile_path": "/rTQulQ5WMehA3SSBnGTmayTsF0m.jpg",
+               "id": 1749,
+               "order": 1
+            },
+            {
+               "cast_id": 8,
+               "character": "Dr. Leonard McCoy",
+               "gender": 0,
+               "credit_id": "52fe4222c3a36847f8006ad3",
+               "name": "DeForest Kelley",
+               "profile_path": "/fUL1BY8XjLsQihueDD1UUAm0Qy6.jpg",
+               "id": 1750,
+               "order": 2
+            },
+            {
+               "cast_id": 9,
+               "character": "Montgomery Scott",
+               "gender": 2,
+               "credit_id": "52fe4222c3a36847f8006ad7",
+               "name": "James Doohan",
+               "profile_path": "/um8EusLMoUzId8mbfhIXx0J3M82.jpg",
+               "id": 1751,
+               "order": 3
+            },
+            {
+               "cast_id": 10,
+               "character": "Hikaru Sulu",
+               "gender": 2,
+               "credit_id": "52fe4222c3a36847f8006adb",
+               "name": "George Takei",
+               "profile_path": "/5eBSvAPy6DnWsMX61IlJyjUzCRJ.jpg",
+               "id": 1752,
+               "order": 4
+            },
+            {
+               "cast_id": 12,
+               "character": "Pavel Chekov",
+               "gender": 2,
+               "credit_id": "52fe4222c3a36847f8006ae3",
+               "name": "Walter Koenig",
+               "profile_path": "/itlUSqOqCBH8v4ECM9jGysqMIDz.jpg",
+               "id": 1754,
+               "order": 5
+            },
+            {
+               "cast_id": 11,
+               "character": "Uhura",
+               "gender": 1,
+               "credit_id": "52fe4222c3a36847f8006adf",
+               "name": "Nichelle Nichols",
+               "profile_path": "/1p5EIwiyFBxjs5e8a6AzPRzy1JL.jpg",
+               "id": 1753,
+               "order": 6
+            },
+            {
+               "cast_id": 13,
+               "character": "General Chang",
+               "gender": 2,
+               "credit_id": "52fe4222c3a36847f8006ae7",
+               "name": "Christopher Plummer",
+               "profile_path": "/fauMGxa6dc86nHNenQ8X6DlE6YV.jpg",
+               "id": 290,
+               "order": 7
+            },
+            {
+               "cast_id": 14,
+               "character": "Lieutenant Valeris",
+               "gender": 1,
+               "credit_id": "52fe4222c3a36847f8006aeb",
+               "name": "Kim Cattrall",
+               "profile_path": "/zWG2cZkaPdIMMhpujPdUXNa4yqu.jpg",
+               "id": 2109,
+               "order": 8
+            },
+            {
+               "cast_id": 15,
+               "character": "Chancellor Gorkon",
+               "gender": 2,
+               "credit_id": "52fe4222c3a36847f8006aef",
+               "name": "David Warner",
+               "profile_path": "/wgp2AlWKveLBOcs8YNuLeZiLsGL.jpg",
+               "id": 2076,
+               "order": 9
+            },
+            {
+               "cast_id": 16,
+               "character": "Azetbur",
+               "gender": 1,
+               "credit_id": "52fe4222c3a36847f8006af3",
+               "name": "Rosanna DeSoto",
+               "profile_path": "/ppAz1PLGnuxTgXYDVWblLgXKkqp.jpg",
+               "id": 2111,
+               "order": 10
+            },
+            {
+               "cast_id": 17,
+               "character": "Admiral Cartwright",
+               "gender": 2,
+               "credit_id": "52fe4222c3a36847f8006af7",
+               "name": "Brock Peters",
+               "profile_path": "/3yTNmSPH83fBpkU8fo7zrfErOJc.jpg",
+               "id": 2112,
+               "order": 11
+            },
+            {
+               "cast_id": 18,
+               "character": "Federation President",
+               "gender": 2,
+               "credit_id": "52fe4222c3a36847f8006afb",
+               "name": "Kurtwood Smith",
+               "profile_path": "/zDPAOOjHYKqePDIVSnRhBt4px24.jpg",
+               "id": 2115,
+               "order": 12
+            },
+            {
+               "cast_id": 28,
+               "character": "Martia",
+               "gender": 1,
+               "credit_id": "52fe4222c3a36847f8006b35",
+               "name": "Iman",
+               "profile_path": "/4HAfEFjc7XkJSGeL7nKiQzntHuw.jpg",
+               "id": 2124,
+               "order": 13
+            },
+            {
+               "cast_id": 29,
+               "character": "Sarek",
+               "gender": 2,
+               "credit_id": "52fe4222c3a36847f8006b39",
+               "name": "Mark Lenard",
+               "profile_path": "/sROqIxtLAUlK0BhbmNwRfCyPXrY.jpg",
+               "id": 1820,
+               "order": 14
+            },
+            {
+               "cast_id": 30,
+               "character": "Excelsior Communications Officer",
+               "gender": 1,
+               "credit_id": "52fe4222c3a36847f8006b3d",
+               "name": "Grace Lee Whitney",
+               "profile_path": "/h1uisJQaVHhNCYqvxgx3VevGNtA.jpg",
+               "id": 1759,
+               "order": 15
+            },
+            {
+               "cast_id": 31,
+               "character": "Chief in Command",
+               "gender": 2,
+               "credit_id": "52fe4222c3a36847f8006b41",
+               "name": "Leon Russom",
+               "profile_path": "/kITkYMh1VZgHSAMlMxsZ6jaUF7C.jpg",
+               "id": 169920,
+               "order": 16
+            },
+            {
+               "cast_id": 32,
+               "character": "Klingon Ambassador",
+               "gender": 2,
+               "credit_id": "52fe4222c3a36847f8006b45",
+               "name": "John Schuck",
+               "profile_path": "/8HJXSRTewFRic6wYmgJTMPNatUf.jpg",
+               "id": 24046,
+               "order": 17
+            },
+            {
+               "cast_id": 34,
+               "character": "Kerla",
+               "gender": 2,
+               "credit_id": "52fe4222c3a36847f8006b4d",
+               "name": "Paul Rossilli",
+               "profile_path": null,
+               "id": 160414,
+               "order": 18
+            },
+            {
+               "cast_id": 35,
+               "character": "Klingon Judge",
+               "gender": 2,
+               "credit_id": "52fe4222c3a36847f8006b51",
+               "name": "Robert Easton",
+               "profile_path": "/1FtmmVRUFFepaE5ovwfwcSId8Ka.jpg",
+               "id": 32494,
+               "order": 19
+            },
+            {
+               "cast_id": 36,
+               "character": "Klingon Defense Attorney",
+               "gender": 2,
+               "credit_id": "52fe4222c3a36847f8006b55",
+               "name": "Michael Dorn",
+               "profile_path": "/d89cHhByE4kpzQcUB7z51YV3EjA.jpg",
+               "id": 2391,
+               "order": 20
+            },
+            {
+               "cast_id": 37,
+               "character": "Excelsior Communications Officer",
+               "gender": 2,
+               "credit_id": "56ee33bbc3a36822560097d8",
+               "name": "Christian Slater",
+               "profile_path": "/3ElLWjnvchMS6Q4cIQOK8QNAoMG.jpg",
+               "id": 2224,
+               "order": 21
+            },
+            {
+               "cast_id": 38,
+               "character": "Excelsior Officer",
+               "gender": 2,
+               "credit_id": "57265cd292514132b8003367",
+               "name": "Jeremy Roberts",
+               "profile_path": "/pa0Svikgm2bQI3u6C0r7vg7yRSY.jpg",
+               "id": 15372,
+               "order": 22
+            },
+            {
+               "cast_id": 39,
+               "character": "Nanclus",
+               "gender": 2,
+               "credit_id": "5726687a9251417744003cbf",
+               "name": "Darryl Henriques",
+               "profile_path": "/7QMHooY9ewNQlE24WKAOdwW0evU.jpg",
+               "id": 1379424,
+               "order": 23
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4222c3a36847f8006aaf",
+               "name": "Nicholas Meyer",
+               "profile_path": "/942wEyuJVs1K0rGN2Q0ug2Yi7GE.jpg",
+               "id": 1788,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4222c3a36847f8006ab5",
+               "name": "Steven-Charles Jaffe",
+               "profile_path": null,
+               "id": 2093,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4222c3a36847f8006abb",
+               "name": "Ralph Winter",
+               "profile_path": "/gNkcdQLpzV8C27bAc2vlLAiaeKx.jpg",
+               "id": 2095,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4222c3a36847f8006ac1",
+               "name": "Nicholas Meyer",
+               "profile_path": "/942wEyuJVs1K0rGN2Q0ug2Yi7GE.jpg",
+               "id": 1788,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4222c3a36847f8006ac7",
+               "name": "Denny Martin Flinn",
+               "profile_path": null,
+               "id": 2104,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4222c3a36847f8006b01",
+               "name": "Hiro Narita",
+               "profile_path": null,
+               "id": 2116,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4222c3a36847f8006b07",
+               "name": "Nilo Rodis-Jamero",
+               "profile_path": null,
+               "id": 2025,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4222c3a36847f8006b0d",
+               "name": "Mickey S. Michaels",
+               "profile_path": null,
+               "id": 2118,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4222c3a36847f8006b13",
+               "name": "Dodie Shepard",
+               "profile_path": null,
+               "id": 2119,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4222c3a36847f8006b19",
+               "name": "Cliff Eidelman",
+               "profile_path": null,
+               "id": 2120,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4222c3a36847f8006b1f",
+               "name": "Herman F. Zimmerman",
+               "profile_path": null,
+               "id": 2083,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4222c3a36847f8006b25",
+               "name": "Mary Jo Slater",
+               "profile_path": null,
+               "id": 2121,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4222c3a36847f8006b2b",
+               "name": "William Hoy",
+               "profile_path": null,
+               "id": 2122,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4222c3a36847f8006b31",
+               "name": "Ronald Roose",
+               "profile_path": null,
+               "id": 2123,
+               "department": "Editing",
+               "job": "Editor"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Science Fiction",
+            "id": 878
+         },
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Adventure",
+            "id": 12
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         }
+      ],
+      "popularity": 7.206305,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 174,
+      "vote_count": 505,
+      "budget": 27000000,
+      "overview": "On the eve of retirement, Kirk and McCoy are charged with assassinating the Klingon High Chancellor and imprisoned. The Enterprise crew must help them escape to thwart a conspiracy aimed at sabotaging the last best hope for peace.",
+      "similar": [
+         172,
+         1892,
+         1894,
+         11,
+         199,
+         330459,
+         201,
+         152,
+         1891,
+         1895,
+         140607,
+         389,
+         93,
+         11975,
+         9623,
+         74849,
+         20714,
+         2263,
+         757,
+         55233
+      ],
+      "original_title": "Star Trek VI: The Undiscovered Country",
+      "runtime": 113,
+      "poster_path": "/5PvIZAOFDe63M1oByFEFDoQobkc.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
+         "name": "Paramount",
+         "id": 4,
+         "origin_country": "US"
+      }],
+      "release_date": "1991-12-05",
+      "vote_average": 6.8,
+      "belongs_to_collection": {
+         "backdrop_path": "/9BQj9hq0aK6yM9Tm2NJ28jg572y.jpg",
+         "name": "Star Trek: The Original Series Collection",
+         "id": 151,
+         "poster_path": "/zcB8KxHA4EapOoZZPAvwgmE1iGK.jpg"
+      },
+      "tagline": "The battle for peace has begun.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Nicholas Meyer"],
+      "runtime": 113,
+      "synopsis": "The story opens with an immense explosion somewhere in space. Huge shockwaves radiate out from the blast site. On board the USS Excelsior, Captain Ikaru Sulu makes an official entry in his log, noting that his mission of \"cataloging gaseous anomalies in Beta Quadrant\" is over and they are returning to Earth. The ship is suddenly struck by one of the shockwaves from the explosion. Sulu orders his crew to restore control to the ship, which is done quickly. Looking over their scanning equipment, the crew determines that the shockwave originated at the location of the Klingon moon Praxis. Sulu remarks that Praxis is the primary source of energy for the Klingon Empire, and orders a message be sent stating he and his crew will assist if necessary. They receive an emergency transmission from Praxis showing a Klingon worker consumed in flames. A second message comes from Brigadier General Kerla that acknowledges the explosion (he calls it \"an incident\") and that they do not require assistance from the Federation. He also commands them to stay out of the Neutral Zone. When one of the crew asks if they should report the incident, Sulu replies \"Are you kidding??\" On Earth, Captain James Kirk, Dr Leonard McCoy and Engineer Montgomery Scott attend a top-level meeting of Starfleet. They are told almost immediately that the Klingon Empire \"has roughly 50 years of life\" remaining. Charge of the meeting is turned over to the Federation's special envoy, Captain Spock. He tells the committee that the explosion of Praxis two months earlier has caused an environmental catastrophe on the Klingon homeworld of Q'ono'S (Kronos). Pollution of the planet's ozone layer has left Klingon civilization with only 50 Earth years of oxygen. The Klingon Empire, due to its enormous military budget, is unable to reverse the devastation and has turned to the Federation for assistance. However, as Spock notes, assistance cannot begin until a treaty has been negotiated with the Federation of Planets to cease all hostilities between the two. Spock, being the Federation's envoy, had been speaking directly with Chancellor Gorkon of the Klingon Empire to open treaty proposals. The committee is stunned by the news and debates whether Starfleet will be dissolved. Science and exploration will continue, however, military efforts will see a significant reduction. Admiral Cartwright protests, saying that the opportunity exists to \"bring them to their knees.\" Spock counters, saying that a peaceful solution is more prudent. In the midst of the debate, it is announced that Kirk will be sent in the Enterprise to the outskirts of Klingon space to escort Chancellor Gorkon's cruiser to Earth for negotiations. Kirk is wholly reluctant, despite Spock's endorsement of him, saying an experienced ambassador should be sent, however, the council leadership ignores him and closes the meeting. After everyone has left the meeting, Kirk confronts Spock, demanding to know why Spock chose him to escort the Chancellor. Kirk has a high distrust of Klingons, who were responsible for the murder of his son, David Marcus. Spock believes that Kirk, though an unlikely candidate for the mission, should still go, saying \"Only Nixon could go to China.\" Kirk also mentions that the Enterprise's crew was due to stand down (retire) in a few months. Kirk gathers his crew and the Enterprise leaves Earth. New to the Enterprise is Lt. Valeris, a Vulcan female officer, who is the first of her race to graduate at the top of her class and has been mentored and sponsored by Spock himself. As the ship races towards the rendezvous point with Gorkon, she and Spock share a ceremonial drink in his quarters and discuss the turning point of Federation relations with the Klingon Empire and their implications. Spock tells her that logic does apply to the events at hand but there must also be some acceptance of faith that the new era will bring peace. The Enterprise and Gorkon's cruiser, Kronos One, arrive at the meeting point. Kirk hails the Chancellor and invites him and his officers to dinner on the Enterprise that night. Lt. Valeris mentions to Kirk the availablility of an on-board supply of Romulan ale, which she suggests \"might make the evening pass more smoothly.\" Kirk replies, \"Officer thinking, Lieutenant.\" The Klingons are beamed aboard; the Chancellor has brought his daughter, Azetbur, his chief of staff, General Chang and Kerla. Though both sides are initially pleasant toward each other, and a few toasts to the peace accords and Gorkon himself are made over Romulan Ale, the underlying hostility of both sides still permeates the conversation. The Klingons themselves seem particularly fond of Shakespeare; their philosophical arguments about the peace accords are laced with Shakespearean thought. At one point Chang announces that his people need \"breathing room\", whereupon Kirk mentions that the same thought was expressed by Adolf Hitler in 1939. Azetbur speaks of the Federation being a \"homo-sapiens-only\" club, despite Spock's presence. Gorkon concludes that there is still much work to do. The Klingons leave and the Enterprise crew (literally) breathes a sigh of relief. Chekov mentions that their visitors had \"terrible table manners\" and Kirk says their own behavior, as humans, was fairly unacceptable as well. Resting in his quarters (and making a log note that Romulan ale is now banned from all diplomatic functions aboard the ship), Kirk receives a call from Spock to report to the bridge. Hung over, Kirk meets with Spock, who tells him a huge, unexplained neutron radiation surge has been detected on a scanner. As Spock and Kirk try to find it's origin, Kronos One is suddenly hit by a torpedo blast which appears to come from the Enterprise. The Klingon cruiser is hit again and begins to tumble helplessly, losing thruster power and their artificial gravity. On board Kronos One, two figures, wearing Starfleet space suits and magnetic gravity boots, beam aboard and begin to fire upon the Klingon crew with phasers. Several are killed, one is wounded, losing an arm. The assassins move through the ship, finding the Chancellor's chambers. The two Klingons with him are immediately killed, and Gorkon is shot through the chest. The assassins walk back to the transporter pads and beam out, trailing some Klingon blood with them. Chang hails Kirk and immediately accuses him of the attack on the ship. Kronos One moves into an attack positions and activates its torpedo cannon, preparing to fire on the Enterprise. Kirk, knowing that the attack would be deadly and spark an interstellar war, surrenders immediately. He offers to come aboard Kronos One and McCoy volunteers to go as well for medical assistance. As Kirk leaves the bridge, Spock surreptitiously touches his shoulder, placing a small object on his uniform. Kirk and McCoy beam to Kronos One and are escorted by Kerla to the Chancellor, who lies bleeding and dying on the deck. Chang tells them about the assassination and accuses them of lying when Kirk claims innocence. McCoy demands to treat Gorkon and does, however, his unfamiliarity with Klingon internal anatomy prevents him from doing more than reviving Gorkon for a few moments. Gorkon gestures for Kirk to approach him and, putting his hand on the back of Kirk's neck says \"Don't let it end this way.\" He dies. Chang immediately places Kirk and McCoy under arrest for the murder under the Federation's articles of interstellar law. On board the Enterprise, Uhura reports the arrest. Spock assumes command of the ship and orders a general standing down, knowing they cannot attack Kronos One to rescue Kirk and McCoy. Uhura also receives a message from Starfleet to return to Earth immediately, however Spock, wishing to investigate the attack on Kronos One and Gorkon further, discreetly orders Uhura to report that the ship is experiencing multiple malfunctions and cannot return until they are repaired. On Earth, the Federation president meets with several other council members about the incident. Among them is the Klingon ambassador, who defends his government's arrest of Kirk. The Klingon ambassador also cites, as Chang did, Federation interstellar law. Vulcan and Romulan ambassadors Sarek and Nanclus agree, as does the president, who does not want to provoke the already delicate relations with the Klingon Empire. A daring rescue plan, proposed by Colonel West, is dismissed by the president as well. In Gorkon's place, Azetbur is appointed chancellor and talks directly to the president, saying Kirk and McCoy will stand trial on Q'ono'S. She also affirms her reluctance to attend the peace accords, but agrees, saying that the location must be kept secret and that any attempt to rescue Kirk and McCoy will be an act of war. The trial begins; the prosecuting attorney is Chang himself, while Kirk and McCoy are defended by Colonel Worf (a cameo by the character from Star Trek: The Next Generation). Chang delivers the charges, that Kronos One was fired upon, the assassins came from the Enterprise and that Kirk ordered the attack. Though Worf successfully dismisses the final charge, Chang is still able to lay the conduct of the two assassins on Kirk, saying, as captain, he is responsible for the conduct of the crew under his command. Kirk does not deny the charge. When McCoy is questioned about his attempt to revive Gorkon, Chang attacks him verbally, challenging his medical expertise based on McCoy's age. He also cites the fact that McCoy, along with all the other dinner guests, consumed Romulan Ale that may have affected his ability to aid the Chancellor. The most damning evidence that influences the trial is Kirk's own words, possibly stolen from his personal log, where he stated \"I've never trusted Klingons, and I never will. I can't forgive them for the death of my boy.\" The jury and court are swayed and Kirk and McCoy are found guilty. They are sentenced to the Klingon penal colony, Rura Penthe (\"The Devil's Graveyard\") a remote and frozen asteroid deep in Klingon space, where they will mine dilithium for the rest of their lives along with 1000s of other Klingon prisoners. On the Enterprise, the bridge crew, at Spock's request, watches video of the torpedo hits to Kronos One. They determine that, though the memory banks of Enterprise show two torpedoes had been fired and that all the torpedoes they were carrying before the attack have been visually accounted for, the shots must have come from another ship. The only ship capable of remaining undetected would be one with a cloaking device, a Bird-of-Prey, which cannot fire while cloaked. Spock ascertains, through the logical statement \"once you eliminate the impossible, whatever remains, however improbable, must be the truth\" that the Bird-of-Prey that fired on Kronos One can fire while cloaked. After further deduction, the crew knows what they must search for: the two pairs of magnetic gravity boats worn by the assassins. The crew begins to search every corner of the ship; as they do, they are continually contacted by Starfleet and ordered to return to Earth. Spock tells Scotty to report that the Enterprise is experiencing a warp drive malfunction. When Scotty begins to protest, Spock slyly tells them they need more time to search the ship. Scotty heartily says it could take \"weeks\" to repair. Later, Chekov finds dried Klingon blood on the transporter pads and Spock says they will also search uniforms. A pair of gravity boots are found in the locker of Crewman Dax, however his feet are largely different from human feet so the boots cannot be his. Kirk and McCoy arrive on Rura Penthe. They are told that nothing can survive on the surface due to extremely cold temperatures, and a prisoner is cruelly thrown outside to prove the warden's point, freezing in mere minutes. A magnetic field above the asteroid prevents any unauthorized beaming to a ship. In the depths of the mine, Kirk is threatened by a large alien who demands his coat. Another prisoner, Martia, gets the thug to back off. Later, Kirk finds himself in a fight with another huge alien who is easily winning the battle. Kirk kicks the beast in the knees and it falls down defeated. When he remarks he was lucky, Martia tells him that he kicked the creature's in the genitals. Later, after they go to bed, McCoy relates their plight to the Kobayashi Maru test. Kirk theorizes that the incidents that led them to their imprisonment may have something to do with others who fear the peace accords with the Klingons. Suddenly, Martia appears and offers Kirk the chance to escape. The next morning they go to a meeting place arranged by Martia but do not see her. However, she is there, in the disguise of a large, hairy & ape-like alien. She later changes to the form of a young human girl, allowing her to slip out of her shackles. She takes Kirk and McCoy through a hidden tunnel that leads to the frozen surface of the planet and gives them warm winter clothing. They begin a lengthy march that will put them beyond the magnetic field covering the prison. Back on the Enterprise, the signal from the device that Spock secretly placed on Kirk, a viridium patch, appears on a scanner and they set a course for Rura Penthe. In order to evade Klingon security outposts, Uhura, unable to use a universal translating device, must speak in Klingon. She is able to fool a sleepy guard at an outpost and the Enterprise continues to Rura Penthe. Martia provides a flare for building a fire. Kirk says he recognizes her as a \"chameloid\", a shape-shifting species that were supposed to be mythical. Kirk also hits her, knowing she plays to turn them over to the warden, who will execute them both for attempted escape and give Martia a full pardon. Martia changes into a likeness of Kirk himself and the two fight. The warden and several guards appear. The warden vaporizes Martia with a blaster and is about to tell Kirk who's behind the plot to kill him when he and McCoy are suddenly beamed to the Enterprise. The ship streaks away from Klingon space. Spock brings them both up to date on his theory. As they make their way to the bridge, they find two crewmembers' bodies lying in a passageway, both killed by stun phaser shots at close range. Scotty runs up, having found the missing uniforms with dried Klingon blood, which belong to the two dead men. Kirk and Spock have a quiet discussion and set a trap for the crew members' killer. A shipwide announcement is broadcast, saying statements will be taken from the dead men in sickbay. Their killer goes there and finds Spock and Kirk posing as the corpses. The killer is Valeris and Spock is visibly furious. On the bridge, Kirk and Spock interrogate Valeris and discover she is part of a conspiracy to sabotage the peace accords and had stood outside Kirk's quarters, recording the log entry used as evidence at his trial. She refuses to reveal the names of her cohorts; Spock performs a mind-meld and finds out that Admiral Cartwright, Romulan Ambassador Nanclus and General Chang are also part of the conspiracy. She does not know, however, where the peace conference will take place. The Enterprise hails Excelsior and Sulu tells them that the conference will be held on the planet Khitomer. Valeris also reveals that there is only one Bird-of-Prey, a prototype. Detecting it will be difficult, however Kirk orders a course set for Khitomer, after warning Sulu about the evasive ship. Sulu says reaching them in time will be difficult but he agrees to help. The peace conference gets underway at Camp Khitomer. Several of the conspirators are present, one of the Klingons in the audience leaves the meeting hall and takes up a position above the speaker's podium and assembles a Klingon sniper rifle. Enterprise arrives at Khitomer and is quickly hailed by Chang in the prototype Bird-of-Prey. He taunts Kirk with Shakespearean dialog, saying that Kirk prefers war to peace and opens fire on the Enterprise. Enterprise takes heavy damage and its shields quickly collapse. Excelsior arrives shortly after the battle begins and provides distraction for Chang. In the meeting hall on Khitomer, Azetbur gives an impassioned speech about her father's efforts to secure peace. In space, the Bird-of-Prey fires several more severely damaging blasts at the two Federation ships. Spock suddenly has an idea; he mentions that the Bird-of-Prey expels gas as it's exhaust. Uhura suggests they use the equipment they have on board for studying gaseous anomalies and Spock and McCoy equip a photon torpedo with the components. The torpedo is fired and homes in on Chang's ship and scores a direct hit, crippling its cloaking device. Both Enterprise and Excelsior destroy the prototype with photon blasts. On the planet, the Federation president takes the podium while the Klingon sniper aims his rifle at him. Kirk, having beamed down with Spock, Valeris and Scotty, rushes the stage and pulls the president out of the way just as the sniper shoots. As the sniper, seeking another target, points his rifle at Valeris, Scotty bursts into the room and shoots him. He falls through a glass window and onto the hall floor. The sniper is actually Colonel West, wearing a Klingon mask. Kirk explains that they have evidence of the plot and that those involved were frightened of the potential changes that would result. Later, the Enterprise and Excelsior head out into space from Khitomer. Kirk makes a last entry in his log, stating that this will be the last voyage of the Enterprise. They communicate one last time with Sulu aboard his ship before he takes a different course. They receive a transmission from Starfleet ordering them to return to Earth. Spock suggests their reply be \"Go to hell.\" Chekov asks for a course heading and Kirk says \"Second star to the right and straight on 'til morning.\" The Enterprise goes to warp and disappears. Before the closing credits role, the signatures of the principle cast members appear on the screen one at a time.",
+      "writers": [
+         "Gene Roddenberry",
+         "Leonard Nimoy"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0102975/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTkyODE4MDIxNV5BMl5BanBnXkFtZTcwNzYxNDI4OA@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: William Shatner, Leonard Nimoy, DeForest Kelley | See full cast and crew »"],
+      "reviews": [
+         "The journey that began on the small screen in 1967 comes to its end on the big screen in 1991, after three TV seasons, six films, and the creation of a cultural phenomenon unrivaled in the history of television. The crew of the original series had met with mixed results on the big screen, producing the excellent The Wrath of Khan, but also the inexcusably bad The Final Frontier; the other four ranged from passable to good. After the financial failure of Star Trek V, Paramount brought back Star Trek II director Nicholas Meyer, and commissioned from him the final voyage of the original cast. As Star Trek so often does, the events depicted mirror the glasnost of the late 1980s, as the collapse of the Soviet Union eased global tensions and heralded the beginning of a new era. In the Trek universe, the possibility of rapproachment between the Federation and the Klingon Empire raises the hackles of hardliners on both sides, and Kirk and co. must prevent the weak peace from being destroyed. The original cast is in fine form, all of them giving their all to make the (potentially) final appearances of their characters memorable. Despite William Shatner's reputation as a ham actor, he delivers a great performance here; his final log entry is one of Trek's finest moments. As the villain of the piece, we get General Chang (Christopher Plummer), a Klingon out to insure \"no peace in our time\". Plummer is superb, chewing scenery and spewing Shakespeare with a wonderfully loathsome presence. I would rank Chang below Khan and the Borg Queen, but far above all the other Trek villains. There are some tacky anachronisms typical of Meyer's style, and the usual amount of discontinuities and canon issues; but that's inevitable, and I can accept it if it leads to a good story. Trek VI is a good story. 9/10.",
+         "The final Star Trek film to feature the original cast is an enormous improvement after the awful fifth film, and might just be the best in the series. Much of it is probably thanks to the return of director Nicholas Meyer, who is responsible also for the classic Star Trek II: The Wrath Of Khan (while film III through V were directed by cast members). Meyer's very professional directing shows in every scene on ST-VI, and the old cast - William Shatner (Kirk), Leonard Nimoy (Spock), DeForest Kelly (McCoy), James Doohan (Scotty) and the rest - give here what is without doubt their finest performance. Mind - Shatner and Nimoy are by now 60 years old, while Kelly and Doohan are well into their 70s. But there isn't a trace of the pathetic silliness that characterized the fifth movie; Meyer knows what to do with these aging actors that wouldn't make them look like idiots. What we see in Star Trek VI is a much more mature approach, and the crew members have to face, more than an outside enemy, their own aging, and their fear of change. That fear is a key element here, and it's an issue that is well handled and is always relevant. While the old cast members are doing splendidly here, the movie introduces some fantastic new characters. First and foremost, the experienced Shakespearean actor Christopher Plummer makes a fascinating villain in the conservative and suspicious Klingon General Chang, endlessly throwing out Shakespeare quotes on every turn. ('You haven't truly enjoyed Shakespeare until you've read it in the original Klingon') Also, Kim Cattrall, who achieved much success lately in the acclaimed 'Sex And The City'), plays the Vulcan Lt. Valeris and gives a great performance. Finally, David Warner gives a brief but memorable performance as the visionary Chancellor Gorkon. The real stars here, though, are Shatner and Kelly, whose attempt to save the Chancellor's life, as well as their trial for assassination before a Klingon court (CAMEO: Michael Dorn, who plays Worf in the Next Generation, plays Kirk and McCoy's attorney here - Colonel Worf. An ancestor, probably) make for some of the best scenes ever seen on Star Trek. The directing and camera work are splendid, and the script has just the right amount of self humor, which was dreadfully lacking from the fifth movie (e.g.: Spock: 'If I were human I believe my response would be \"go to hell.\" ...If I were human.' All in all, a remarkable sign off for the original crew of the Enterprise and one of the best sci-fi movies of all time.",
+         "You don't have to be Einstein to figure out the Klingon Empire represented the Soviet Union in the original series and films so it's fitting Kirk's old foes should re-appear and give the crew it's final adventure at a time when similar questions raised in the film faced the old Soviet Empire. This is the best of the film series for several reasons. The timeliness of the film's release with real-world events. (Funny how Col. West had a contingency plan for terrorism along the Federation's border. Made me wish we had one prior to 9-11) The issue of how people can be frightened of drastic change (what a very Clinton-esque message) mirroring Kirk and crew's emotional baggage helps propel the plot forward and makes it believable. A great tense score and tight editing (sorry, no overlong speeches and theorizing) combined with terrific performances from Christopher Plummer and the best yet from the original ensemble kept me glued to my seat the whole time. Additional characters are actually relevant, unlike Saavik, the Marcuses, et al., and although I should have seen it coming I was surprised how far-reaching the conspiracy to kill Gorkon actually was, even including a Vulcan! Fun cameos from Michael Dorn, Christian Slater and Iman lighten the mood. Her presence finally makes McCoy quip to Kirk \"What is it with you, anyway?\" which is something that should have been said years ago. Must be the girdle. The Klingon attack scene at the end is great unrelenting action and was better than Khan's attack on the Enterprise in Part II (see my comments on that film to get an idea). \"The Undiscovered Country\" is essentially a mystery in space with political overtones and it's great fun watching Spock and Valeris unravel the mystery piece by piece. Valeris (Kim Cattrall)is given more to do than Saavik ever was. The only nit-picking comments I have is just why couldn't the assassins just throw the boots out the window? If an explosion in space wasn't monitored until the shockwave hit the Excelsior, how would the Enterprise find the boots? Would the NCC-1701 just shift gears into reverse? A lot has been made about the clock errors. To me, it's not terribly important since it's just background and your attention should not be there anyway. It was a bad idea to include such a prop though. The only wasted role belongs to Scotty but he had his moment of greatness in \"The Voyage Home\" during the transparent aluminum scenes. He also delivers the corniest line of the film during dinner with the Klingons: \"Maybe we are looking at something of that future here!\" Well, duh! Everything that made Star Trek great is in this film: action, great one-liners from McCoy and Chekhov, the peace message, the Klingons, Spock's logic skills, literary quotes and celebrity cameos makes \"The Undiscovered Country\" a worthy send-off to perhaps the most celebrated ensemble cast in entertainment history. Even if you're not a Trek-fan, you would enjoy this picture and is well worth the rental/purchase.",
+         "This is a taut political thriller that rivals Dune for impact, if not for complexity. The issues explored here are both timely and universal. Somehow, this mixes the Star Trek mythos with commentary on the Cold War, race relations and military down-sizing. It is indescribable how cool this movie is.",
+         "I think that STVI is the greatest Trek film ever. The reason I think it is better then ST:FC is because First Contact was on such a large scale; save all of humanity from oblivion. Well, that's nice and all, but STVI was a part of Trek history. Peace with the Klingons, who would have guessed it. Peace with the Russians, who would have guessed it. Which brings me to my next point, it parallaled current world situations (which is why I bring up the USSR). It's a brilliant movie that will last the test of time.",
+         "Star Trek Movies are far more miss than hit, with only 3 excellent, 1 good and the rest rubbish (although NEMESIS may be slightly above rubbish level). Anyway, this movie was meant to contrast 60s style leadership and ethics with those of the 80s. Borrowing from the modern leadership styles and political correctness portrayed in the Next Generation series, \"The Undiscovered Country\" explores (in typical Hollywood sci-fi fashion) how our present day society has progressed toward multiculturalism. It explores how committed, loyal patriots can be burdened with their old prejudices after the world/universe has changed around them. The personal struggles of Kirk and the Chancellor's daughter, and even the violently opposed logical conclusions of two Vulcans in the same circumstances (but with differing priorities) are all clearly missed by most viewers. Of course, as with James Bond movies, Jim Kirk and his crew must save the day (and also nicely throw in some minor Star Trek future history trivia with the Khitomer massacre etc). An excellent story line, excellent themes, carefully produced and directed, this is a science fiction classic on par with Alien, Blade Runner and, yes, much better than any of the Star Wars movies.",
+         "In the theatre years ago when I saw this film I thought gosh this is really different for a Star Trek film. It had so much suspense and conspiracy, and so much mystery that this was one of the best films in the collection. The acting is great, the action and the effect are superb, and the music is very good! I recommend this to all Star Trek and sci-fi film fans!",
+         "Now this was a movie. The best case scenario for the orginial crew to leave the movie scene, making peace with the Klingons and Sulu finally becoming a Captain. Everything was great in this movie. It had humor, adventure, mystery and just about anything else you could possibly want. The best behind #2.",
+         "\"Star Trek VI: The Undiscovered Country\" is the final film with the entire original cast. This is also the best of the series because we see the Enterprise crew, past their prime, save the universe one more time. As the film opens, we are witness to an ecological disaster. As the starship Excelsior, now under the command of Capt. Sulu (George Takei)is on a survey, they witness the aftermath of the explosion of the Klingon moon called Praxis. Even though Sulu is ready to offer assistance, The Klingons want no help from them. Later, the Enterprise crew is called into a top secret meeting and is apprised of the situation,which is dire (Think Chernoble). Because of the devastation (Which will destroy their ozone within 50 years), the Klingons offer to extend an olive branch with the Federation. In other words, The Klingons and The Federation want a peace treaty. Considering that the Klingon Empire and the Federation have been at each others throats for ages, this doesn't sit well with the parties involved, especially Captain Kirk (William Shatner), who wants nothing to do with the process considering that it was the Klingons who had killed his son (See \"Star Trek III: The Search For Spock\"). In fact, when Mr. Spock (Leonard Nimoy), who has been working with the Klingons for the treaty, tells them that they are dying, Kirk viciously says \"Let them die!\" Ouch. However, he has to follow orders. Soon the crew of the Enterprise meets with Chancellor Gorkon (David Warner), his officer General Chang (Christopher Plummer) and his daughter Azetbur (Rosanna DeSoto). During a dinner in which pretty much everyone is intoxicated with Romulan Ale, there is some negativity among both sides, clearly indicating that the road to peace is going to be a bumpy one. And it is. Later, the Klingon ship is fired upon, seemingly by The Enterprise, and the Chancellor is assassinated, despite the attempts of Kirk and McCoy (DeForest Kelley) to save him. Both Kirk and McCoy are arrested and put on trial. Found guilty, both are sentenced to the ice planet known as Rura Penthe. How bad is it? Judging from Uhura's (Nichelle Nichols) and Scotty's(James Doohan)reaction, it would have been better for Kirk and McCoy to have been executed on the spot. Spock knows that a conspiracy is present. And so, while he is trying to find out the facts, Kirk and McCoy try to stay alive on the penal planet. With time running out before the peace conference starts, the crew of the Enterprise must not also save Kirk and McCoy, but to race to the site of the conference to stop another assassination from taking place, which will destroy any chance of peace. This proves even more difficult when they discover that there is a Klingon Bird of Prey that can fire when cloaked. And that those involved in the conspiracy work on both sides of the coin. What is interesting about the film is that it mirrors the general feelings between the U.S. and the former Soviet Union. Once considered enemies, each side works together for peace, even if both sides are skeptical. We also see the flaws of the crew of the Enterprise: everyone is prejudiced. Chekov (Walter Koenig), during dinner, mentions \"unalienable human rights,\" and is chastised by Azetbur for his \"racist\" comments. Even Mr. Spock is prejudiced: he's so blinded by the accomplishments of his Vulcan protégé Valeris (Kim Catrall), that he doesn't see how much of a threat she is (He admits this to Kirk later on) until it is almost too late. It is nice to see the crew back in action one last time, and you can't help but get a bit misty eyed (Gene Roddenberry, the creator of Star Trek died before it's release, and this film is dedicated to him). A nice way to end the series, but it's hard to say goodbye.",
+         "The last hurrah for the entire original crew sans Sulu, who now has command of the Excelsior featured in #2 and #3 (disregarding Kirk's goodbye in \"Star Trek: Generations\"), has Kirk and the gang playing diplomatic missionary of peace hosts to Klingon David Warner. Kirk does not like this because he honestly and openly admits he doesn't like Klingons and probably never will. After the dinner reception, however, the Klingon ship is attacked and Klingon David Warner killed. Kirk and McCoy try to help Warner in his hour of death but after Warner expires they are arrested and sentenced to life on a frozen wasteland of a planet. While they fight to stay alive, Spock and company try to figure out what's going on and the whole thing leads to a conspiracy on both sides of the Klingon/Federation dispute. After the box office woes of #5, the old crew gets a touching farewell in this politically charged science fictional drama that bears more than a few resemblances to the end of the Cold War. Superb special effects, a fun performance by Christopher Plummer as a sadistic Klingon and a fun cameo by Michael Dorn as Kirk & McCoy's Klingon lawyer. Dark and eerie in spots, uplifting in its finale."
+      ],
+      "genres": [
+         "Action",
+         "Adventure",
+         "Sci-Fi"
+      ],
+      "productionCompanies": ["Paramount Pictures"],
+      "summaries": [
+         "After an explosion on their moon, the Klingons have an estimated 50 years before their ozone layer is completely depleted, and they all die. They have only one choice - to make peace with the Federation, which will mean an end to 70 years of conflict. Captain James T. Kirk and crew are called upon to help in the negotiations because of their \"experience\" with the Klingon race. Peace talks don't quite go to plan, and eventually Kirk and McCoy are tried and convicted of assassination, and sent to Rura Penthe, a snowy hard-labor prison camp. Will they manage to escape? And will there ever be peace with the Klingons?",
+         "The Enterprise leads a battle for peace and a lunar cataclysm bring the Klingons to their knees. After seventy years of war, the Federation and the Klingon Empire prepare for a peace summit. Ironically, it is Captain James T. Kirk who is the first emissary to broker that peace. But the prospect of intergalactic glasnost with sworn enemies is an alarming one. When a Klingon ship is attacked and the Enterprise is held accountable, the dogs are war are unleashed again, as both worlds brace for what may be their final, deadly encounter.",
+         "It's all for one and one for all as Kirk and the crew of the Enterprise-A set course for the stars in their final adventure. The Klingon Empire has been one of the Federation's deadliest enemies for nearly a century. All of that changes when their key energy production facility, the moon Praxis, explodes, damaging the Klingon homeworld's atmosphere and meaning that all ozone will be depleted in 50 years. Unable to the cope with this disaster due to their massive military expenditures, the Empire seeks peace talks with the Federation in order to receive aid. However, Kirk is opposed to the peace talks; it has been eight years since his son David was killed at the Genesis planet and he has never been able to forgive the Klingons for it. But he is a Starfleet officer and must escort Kronos One, the ship carrying Klingon Chancellor Gorkon, to Earth. But while en route, Kronos One is fired upon and Gorkon is assassinated. All evidence points to the Enterprise-A as the source of the photon torpedoes and Kirk and McCoy as the assassins, who are subsequently arrested, tried and sentenced to life at the gulag Rura Penthe. But Spock is certain that Kirk and the Enterprise-A have been framed and with the aid of senior staff as well as help from Sulu, now captain of the Excelsior, set out to clear Kirk's name and cement a lasting peace between the United Federation of Planets and the Klingon Empire before all is too late.",
+         "An accident on the Klingon moon Praxis forces the reluctant Klingon Empire into a peace treaty with the Federation. Kirk, despite his mistrust of the Klingons after they murdered his son at Genesis, is forced to escort a Klingon cruiser carrying the Klingon Chancellor to Earth for the meetings. During the voyage, the Klingon cruiser is attacked, and Kirk and McCoy are taken prisoner after the Chancellor is murdered by two Starfleet crewmen. Spock immediately begins an investigation, while Kirk and McCoy are sentenced to life on Rura Penthe - a deep-frozen asteroid. Meanwhile, Spock has discovered that a Klingon Bird of Prey - one that can fire when cloaked, and under the command of Klingon General Chang - is the ship responsible for firing on the Chancellor, and the two assassins came from the Enterprise. A rescue of Kirk and McCoy is successful, after which they discover a conspiracy among Starfleet, Klingon and Romulan officials whose plan is to incite a full-blown war! The Enterprise and the Excelsior - under the command of Hikaru Sulu - head for a deadly rendezvous with General Chang at the peace summit to prevent war from breaking out... but will they be too late?",
+         "On the eve of retirement, Kirk and McCoy are charged with assassinating the Klingon High Chancellor and imprisoned. The Enterprise crew must help them escape to thwart a conspiracy aimed at sabotaging the last best hope for peace."
+      ],
+      "budget": 30000000
+   },
+   "movielensId": 1372,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1991-12-05",
+      "dvdReleaseDate": "2004-01-27",
+      "directors": ["Nicholas Meyer"],
+      "runtime": 113,
+      "movieId": 1372,
+      "title": "Star Trek VI: The Undiscovered Country",
+      "mpaa": "PG",
+      "actors": [
+         "William Shatner",
+         "Leonard Nimoy",
+         "DeForest Kelley",
+         "James Doohan",
+         "George Takei",
+         "Walter Koenig",
+         "Nichelle Nichols",
+         "Christopher Plummer",
+         "Kim Cattrall",
+         "David Warner",
+         "Rosanna DeSoto",
+         "Brock Peters",
+         "Kurtwood Smith",
+         "Iman",
+         "Mark Lenard",
+         "Grace Lee Whitney",
+         "Leon Russom",
+         "John Schuck",
+         "Paul Rossilli",
+         "Robert Easton",
+         "Michael Dorn",
+         "Christian Slater",
+         "Jeremy Roberts",
+         "Darryl Henriques"
+      ],
+      "imdbMovieId": "0102975",
+      "originalTitle": "Star Trek VI: The Undiscovered Country",
+      "genres": [
+         "Science Fiction",
+         "Action",
+         "Adventure",
+         "Thriller"
+      ],
+      "youtubeTrailerIds": [
+         "1wmQeXuDGGU",
+         "Apv2Bc3bt6w",
+         "geE1URQSDcs",
+         "PmJcVaOtJAw"
+      ],
+      "plotSummary": "On the eve of retirement, Kirk and McCoy are charged with assassinating the Klingon High Chancellor and imprisoned. The Enterprise crew must help them escape to thwart a conspiracy aimed at sabotaging the last best hope for peace.",
+      "tmdbMovieId": 174,
+      "avgRating": 3.29779,
+      "releaseYear": "1991",
+      "numRatings": 12529,
+      "posterPath": "/5PvIZAOFDe63M1oByFEFDoQobkc.jpg"
+   }
+}

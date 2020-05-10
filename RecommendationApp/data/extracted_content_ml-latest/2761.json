@@ -1,0 +1,941 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "cold war",
+            "id": 2106
+         },
+         {
+            "name": "friendship",
+            "id": 6054
+         },
+         {
+            "name": "giant robot",
+            "id": 10891
+         },
+         {
+            "name": "fear of unknown",
+            "id": 205726
+         },
+         {
+            "name": "1950s",
+            "id": 208611
+         }
+      ],
+      "imdb_id": "tt0129167",
+      "video": false,
+      "title": "The Iron Giant",
+      "recommendations": [
+         8916,
+         2300,
+         9837,
+         9928,
+         7443,
+         10501,
+         11688,
+         12144,
+         37135,
+         9016,
+         10865,
+         11970,
+         15512,
+         21032,
+         9325,
+         10137,
+         533,
+         11551,
+         11253,
+         10545
+      ],
+      "backdrop_path": "/11XLucJQvdgtchSfO0ZTbo966pp.jpg",
+      "revenue": 23159305,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 18,
+               "character": "Hogarth Hughes (voice)",
+               "gender": 2,
+               "credit_id": "52fe43649251416c7500e8b7",
+               "name": "Eli Marienthal",
+               "profile_path": "/eK4kfRpE12lCoCamBJWyHfWDDbq.jpg",
+               "id": 116027,
+               "order": 0
+            },
+            {
+               "cast_id": 1,
+               "character": "Annie Hughes (voice)",
+               "gender": 1,
+               "credit_id": "52fe43649251416c7500e86b",
+               "name": "Jennifer Aniston",
+               "profile_path": "/4d4wvNyDuvN86DoneawbLOpr8gH.jpg",
+               "id": 4491,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "The Iron Giant (voice)",
+               "gender": 2,
+               "credit_id": "52fe43649251416c7500e873",
+               "name": "Vin Diesel",
+               "profile_path": "/7rwSXluNWZAluYMOEWBxkPmckES.jpg",
+               "id": 12835,
+               "order": 2
+            },
+            {
+               "cast_id": 16,
+               "character": "Kent Mansley (voice)",
+               "gender": 2,
+               "credit_id": "52fe43649251416c7500e8af",
+               "name": "Christopher McDonald",
+               "profile_path": "/wrmn93czsOTrX8KtQuIAEh9PZpR.jpg",
+               "id": 4443,
+               "order": 3
+            },
+            {
+               "cast_id": 2,
+               "character": "Dean McCoppin (voice)",
+               "gender": 2,
+               "credit_id": "52fe43649251416c7500e86f",
+               "name": "Harry Connick Jr.",
+               "profile_path": "/zdIXPJyfpje8BGBjNQAe73CzSTx.jpg",
+               "id": 18688,
+               "order": 4
+            },
+            {
+               "cast_id": 17,
+               "character": "General Rogard (voice)",
+               "gender": 2,
+               "credit_id": "52fe43649251416c7500e8b3",
+               "name": "John Mahoney",
+               "profile_path": "/jK2uDKxfysuYjNAgUxbwyhd4fKD.jpg",
+               "id": 4251,
+               "order": 5
+            },
+            {
+               "cast_id": 4,
+               "character": "Mrs. Lynley Tensedge (voice)",
+               "gender": 1,
+               "credit_id": "52fe43649251416c7500e877",
+               "name": "Cloris Leachman",
+               "profile_path": "/8ByYhjEHavhZiQYriHVXsWUfu8c.jpg",
+               "id": 9599,
+               "order": 6
+            },
+            {
+               "cast_id": 15,
+               "character": "Foreman Marv Loach / Floyd Turbeaux (voice)",
+               "gender": 2,
+               "credit_id": "52fe43649251416c7500e8ab",
+               "name": "James Gammon",
+               "profile_path": "/4oTidbjDQ8XU3LHot249SMlVLn4.jpg",
+               "id": 16433,
+               "order": 7
+            },
+            {
+               "cast_id": 19,
+               "character": "Earl Stutz (voice)",
+               "gender": 2,
+               "credit_id": "52fe43649251416c7500e8bb",
+               "name": "M. Emmet Walsh",
+               "profile_path": "/dLf79xlsmE40rog0gryjxsZJzml.jpg",
+               "id": 588,
+               "order": 8
+            },
+            {
+               "cast_id": 20,
+               "character": "Additional Voices",
+               "gender": 2,
+               "credit_id": "52fe43649251416c7500e8bf",
+               "name": "Jack Angel",
+               "profile_path": "/qYvR57QBtXpdvj1jm2a8hjh7E4L.jpg",
+               "id": 19545,
+               "order": 9
+            },
+            {
+               "cast_id": 21,
+               "character": "Additional Voices",
+               "gender": 2,
+               "credit_id": "52fe43649251416c7500e8c3",
+               "name": "Bob Bergen",
+               "profile_path": "/8MRcVeLPBvzr368tOhvsLz4BDhl.jpg",
+               "id": 78317,
+               "order": 10
+            },
+            {
+               "cast_id": 22,
+               "character": "Additional Voices",
+               "gender": 1,
+               "credit_id": "52fe43649251416c7500e8c7",
+               "name": "Mary Kay Bergman",
+               "profile_path": "/q6zJHuTvaZAf8nOasfHRVl02U9a.jpg",
+               "id": 30695,
+               "order": 11
+            },
+            {
+               "cast_id": 23,
+               "character": "Additional Voices",
+               "gender": 0,
+               "credit_id": "52fe43649251416c7500e8cb",
+               "name": "Michael Bird",
+               "profile_path": "/7vE1uNNUi76GwwVlcnvJ6gAKIh0.jpg",
+               "id": 1075148,
+               "order": 12
+            },
+            {
+               "cast_id": 24,
+               "character": "Additional Voices",
+               "gender": 0,
+               "credit_id": "52fe43649251416c7500e8cf",
+               "name": "Devon Cole Borisoff",
+               "profile_path": null,
+               "id": 1075150,
+               "order": 13
+            },
+            {
+               "cast_id": 25,
+               "character": "Additional Voices",
+               "gender": 2,
+               "credit_id": "52fe43649251416c7500e8d3",
+               "name": "Rodger Bumpass",
+               "profile_path": "/eUmUsemt7pt4msjITyl8jLb2vW5.jpg",
+               "id": 70615,
+               "order": 14
+            },
+            {
+               "cast_id": 94,
+               "character": "Additional Voices",
+               "gender": 2,
+               "credit_id": "55fc699ac3a368618f00061b",
+               "name": "Robert Clotworthy",
+               "profile_path": "/m4poS8cn91Gz2uxSRqve5xrgkGI.jpg",
+               "id": 35172,
+               "order": 15
+            },
+            {
+               "cast_id": 95,
+               "character": "Additional Voices",
+               "gender": 1,
+               "credit_id": "55fc699a92514170720005e0",
+               "name": "Jennifer Darling",
+               "profile_path": "/yOOVSrq6pK495FB8kZR5zGOTx8x.jpg",
+               "id": 81843,
+               "order": 16
+            },
+            {
+               "cast_id": 99,
+               "character": "Additional Voices (voice)",
+               "gender": 0,
+               "credit_id": "571f97c69251417e8a002d18",
+               "name": "Zack Eginton",
+               "profile_path": null,
+               "id": 1407907,
+               "order": 17
+            },
+            {
+               "cast_id": 100,
+               "character": "Additional Voices (voice)",
+               "gender": 2,
+               "credit_id": "571f97de92514164b2000ace",
+               "name": "Paul Eiding",
+               "profile_path": "/73yCY9QBAKqFilmVLXATsrIzL2Q.jpg",
+               "id": 86006,
+               "order": 18
+            },
+            {
+               "cast_id": 101,
+               "character": "Additional Voices (voice)",
+               "gender": 2,
+               "credit_id": "571f97f3c3a3683393003fc4",
+               "name": "Bill Farmer",
+               "profile_path": "/dhIal4zmxsy7t2Bd6IfjpD8X5Mz.jpg",
+               "id": 84213,
+               "order": 19
+            },
+            {
+               "cast_id": 102,
+               "character": "Additional Voices (voice)",
+               "gender": 2,
+               "credit_id": "571f980d9251414df4003262",
+               "name": "Charles Howerton",
+               "profile_path": null,
+               "id": 160616,
+               "order": 20
+            },
+            {
+               "cast_id": 103,
+               "character": "Additional Voices (voice)",
+               "gender": 0,
+               "credit_id": "571f982e9251416f330037c7",
+               "name": "Ollie Johnston",
+               "profile_path": "/76RFwErmaMm7tx8OHFU0eYCvMMr.jpg",
+               "id": 143786,
+               "order": 21
+            },
+            {
+               "cast_id": 104,
+               "character": "Additional Voices (voice)",
+               "gender": 1,
+               "credit_id": "571f984d9251416f23003c25",
+               "name": "Sherry Lynn",
+               "profile_path": "/kQDSC2z7sb6S5HcpOH6cmeJokKE.jpg",
+               "id": 214701,
+               "order": 22
+            },
+            {
+               "cast_id": 105,
+               "character": "Additional Voices (voice)",
+               "gender": 0,
+               "credit_id": "571f9875925141052c002d90",
+               "name": "Mickie McGowan",
+               "profile_path": "/k7TjJBfINsg8vLQxJwos6XObAD6.jpg",
+               "id": 84493,
+               "order": 23
+            },
+            {
+               "cast_id": 106,
+               "character": "Additional Voices (voice)",
+               "gender": 2,
+               "credit_id": "571f988fc3a368339f003efc",
+               "name": "Ryan O'Donohue",
+               "profile_path": "/l1NV0rGZvHI7yGOeFbPeffoHtuP.jpg",
+               "id": 166406,
+               "order": 24
+            },
+            {
+               "cast_id": 107,
+               "character": "Additional Voices (voice)",
+               "gender": 2,
+               "credit_id": "571f98a5c3a3683393003ff0",
+               "name": "Phil Proctor",
+               "profile_path": "/15jVORFFWoRMcqKoeVJQXyEfLVz.jpg",
+               "id": 61969,
+               "order": 25
+            },
+            {
+               "cast_id": 108,
+               "character": "Additional Voices (voice)",
+               "gender": 2,
+               "credit_id": "571f98c9c3a368339f003f03",
+               "name": "Frank Thomas",
+               "profile_path": "/gfxSwlnGBikBjneXC3lWnENAQgo.jpg",
+               "id": 63646,
+               "order": 26
+            },
+            {
+               "cast_id": 109,
+               "character": "Additional Voices (voice)",
+               "gender": 1,
+               "credit_id": "571f98e2c3a3686c99002fa9",
+               "name": "Patti Tippo",
+               "profile_path": "/68mCQgI46gAO4YdVnbaZGnXW8gZ.jpg",
+               "id": 1196132,
+               "order": 27
+            },
+            {
+               "cast_id": 110,
+               "character": "Additional Voices (voice)",
+               "gender": 2,
+               "credit_id": "571f98fec3a3683393004003",
+               "name": "Brian Tochi",
+               "profile_path": "/2nAC2ssCFu74zkhg1722WQhArGO.jpg",
+               "id": 16060,
+               "order": 28
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe43649251416c7500e87d",
+               "name": "Brad Bird",
+               "profile_path": "/2XwJyYs6XNLaQuC1O2gbEHT3jxx.jpg",
+               "id": 7087,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43649251416c7500e883",
+               "name": "Pete Townshend",
+               "profile_path": "/kaPY86DY9de8iiU8Eae9AFFV5o7.jpg",
+               "id": 47098,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43649251416c7500e889",
+               "name": "Ted Hughes",
+               "profile_path": null,
+               "id": 65330,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43649251416c7500e88f",
+               "name": "Brad Bird",
+               "profile_path": "/2XwJyYs6XNLaQuC1O2gbEHT3jxx.jpg",
+               "id": 7087,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43649251416c7500e895",
+               "name": "Michael Kamen",
+               "profile_path": "/y83bqw1VP1PkuvOhG2XROwc9eXG.jpg",
+               "id": 7714,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe43649251416c7500e89b",
+               "name": "Steven Wilzbach",
+               "profile_path": null,
+               "id": 65332,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43649251416c7500e8a1",
+               "name": "Darren T. Holmes",
+               "profile_path": null,
+               "id": 21201,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43649251416c7500e8a7",
+               "name": "Tim McCanlies",
+               "profile_path": null,
+               "id": 77919,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5518c1e6c3a368155200279d",
+               "name": "Dao Le",
+               "profile_path": null,
+               "id": 1447300,
+               "department": "Crew",
+               "job": "Production Office Assistant"
+            },
+            {
+               "gender": 0,
+               "credit_id": "552596029251417be200b21a",
+               "name": "Laura Leganza Reynolds",
+               "profile_path": null,
+               "id": 1450317,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5537f678c3a36831dd005759",
+               "name": "Craig R. Maras",
+               "profile_path": null,
+               "id": 1447380,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "553d54179251416874005f93",
+               "name": "Viki Anderson",
+               "profile_path": null,
+               "id": 1335240,
+               "department": "Writing",
+               "job": "Storyboard"
+            },
+            {
+               "gender": 0,
+               "credit_id": "553d549fc3a3683e550063c4",
+               "name": "Piet Kroon",
+               "profile_path": "/92YUAr0WgWfHQXzmu4aElFXoZ4W.jpg",
+               "id": 554544,
+               "department": "Writing",
+               "job": "Storyboard"
+            },
+            {
+               "gender": 2,
+               "credit_id": "553d54adc3a3683c48004a6d",
+               "name": "Steve Lumley",
+               "profile_path": null,
+               "id": 22298,
+               "department": "Writing",
+               "job": "Storyboard"
+            },
+            {
+               "gender": 0,
+               "credit_id": "553d54b7c3a3683c48004a70",
+               "name": "Steve Markowski",
+               "profile_path": null,
+               "id": 1459473,
+               "department": "Writing",
+               "job": "Storyboard"
+            },
+            {
+               "gender": 0,
+               "credit_id": "553d54da92514137f9001c07",
+               "name": "Kevin O'Brien",
+               "profile_path": null,
+               "id": 1219041,
+               "department": "Writing",
+               "job": "Storyboard"
+            },
+            {
+               "gender": 0,
+               "credit_id": "553d54e4c3a3683c48004a77",
+               "name": "Fergal Reilly",
+               "profile_path": "/924xXlQnyah5S7IXy89UMdzXXsh.jpg",
+               "id": 52701,
+               "department": "Writing",
+               "job": "Storyboard"
+            },
+            {
+               "gender": 0,
+               "credit_id": "553d552ac3a3683e14006454",
+               "name": "Dean Wellins",
+               "profile_path": null,
+               "id": 1459476,
+               "department": "Writing",
+               "job": "Storyboard"
+            },
+            {
+               "gender": 0,
+               "credit_id": "553d557fc3a368066d001d19",
+               "name": "Amy Richards",
+               "profile_path": null,
+               "id": 1459477,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "553d559092514137f9001c17",
+               "name": "Jeannine Berger",
+               "profile_path": null,
+               "id": 1447310,
+               "department": "Crew",
+               "job": "Post Production Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "553fdc6d9251417b1c00014a",
+               "name": "Scott T. Petersen",
+               "profile_path": null,
+               "id": 1460439,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55423531c3a36839d9001ab6",
+               "name": "Bill Perkins",
+               "profile_path": null,
+               "id": 1447347,
+               "department": "Crew",
+               "job": "Technical Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5542d03ec3a3680ce600084e",
+               "name": "Tanya Calderon",
+               "profile_path": null,
+               "id": 1461337,
+               "department": "Crew",
+               "job": "Production Office Assistant"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5548e7e39251412ac50001bd",
+               "name": "John Williamson",
+               "profile_path": null,
+               "id": 1447566,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "554989b7c3a36841af00109c",
+               "name": "Phil Langone",
+               "profile_path": null,
+               "id": 1463874,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "554d0ab69251413fcf0025aa",
+               "name": "Adam Henry",
+               "profile_path": null,
+               "id": 1460480,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "555e37549251417e4d0006a4",
+               "name": "Shane Prigmore",
+               "profile_path": null,
+               "id": 1453498,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 2,
+               "credit_id": "572bd6c4c3a3687ff70002fe",
+               "name": "Tony Fucile",
+               "profile_path": "/jlSBVbXA5UAvQSOnmterUF3XQLn.jpg",
+               "id": 1260745,
+               "department": "Crew",
+               "job": "Supervising Animator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "590f7cdd9251414ead023488",
+               "name": "Stephan Franck",
+               "profile_path": null,
+               "id": 1205985,
+               "department": "Crew",
+               "job": "Supervising Animator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "590f9001c3a36864d4026483",
+               "name": "Sheri Galloway",
+               "profile_path": null,
+               "id": 582,
+               "department": "Editing",
+               "job": "First Assistant Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "590f90119251414e85025b2e",
+               "name": "John Currin",
+               "profile_path": null,
+               "id": 1460423,
+               "department": "Editing",
+               "job": "Assistant Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "571eb765c3a368338c00135e",
+               "name": "Allison Abbate",
+               "profile_path": null,
+               "id": 34894,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "571eb789c3a36833aa0012e7",
+               "name": "Des McAnuff",
+               "profile_path": "/1qcbrutvM9P9HAVW5dFWjQRrhPR.jpg",
+               "id": 588701,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "571eb7a4c3a3686c990004f8",
+               "name": "John Walker",
+               "profile_path": null,
+               "id": 33340,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "571f99b5c3a368339f003f33",
+               "name": "Marci Liroff",
+               "profile_path": "/54uSsUYIdK9UxomSwrwpBYnYyPN.jpg",
+               "id": 599,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "571f9a98c3a3686241001215",
+               "name": "Aaron Parry",
+               "profile_path": "/oBCIfRe5DMg3SSJQKxoQbRTx2iI.jpg",
+               "id": 60267,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 2,
+               "credit_id": "571f9b9ec3a3686c99003022",
+               "name": "Mark Dinicola",
+               "profile_path": null,
+               "id": 1451703,
+               "department": "Camera",
+               "job": "Camera Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "571f9c0ac3a368338c003d17",
+               "name": "Will Eisner",
+               "profile_path": "/yxM4ilFDEQs3JpE92GZvdzrU5l8.jpg",
+               "id": 83875,
+               "department": "Crew",
+               "job": "Thanks"
+            },
+            {
+               "gender": 2,
+               "credit_id": "571f9c7ec3a368339f003fbf",
+               "name": "Christopher Brooks",
+               "profile_path": null,
+               "id": 1458533,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "571f9d1d9251416f23003cec",
+               "name": "Terry Claborn",
+               "profile_path": null,
+               "id": 1552873,
+               "department": "Editing",
+               "job": "Color Timer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "572b7d3fc3a368121a001705",
+               "name": "Stephen Schaffer",
+               "profile_path": null,
+               "id": 59363,
+               "department": "Editing",
+               "job": "Assistant Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "572b82f19251416b24000b4b",
+               "name": "Lou Romano",
+               "profile_path": "/q5BXFPkFZA7RJh9Oj15WRQawMfk.jpg",
+               "id": 7962,
+               "department": "Visual Effects",
+               "job": "Visual Development"
+            },
+            {
+               "gender": 2,
+               "credit_id": "572f689692514118d3001a6f",
+               "name": "Peter Sohn",
+               "profile_path": "/ouaPg2hdBBXfq8N7HPatvEq3P81.jpg",
+               "id": 21198,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 2,
+               "credit_id": "590f90e2c3a3686519022a87",
+               "name": "Greg Snyder",
+               "profile_path": null,
+               "id": 8072,
+               "department": "Editing",
+               "job": "Assistant Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59c7959c9251415b87054f84",
+               "name": "Andrew L. Schmidt",
+               "profile_path": null,
+               "id": 8042,
+               "department": "Visual Effects",
+               "job": "Animation"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Adventure",
+            "id": 12
+         },
+         {
+            "name": "Animation",
+            "id": 16
+         },
+         {
+            "name": "Family",
+            "id": 10751
+         },
+         {
+            "name": "Fantasy",
+            "id": 14
+         },
+         {
+            "name": "Science Fiction",
+            "id": 878
+         }
+      ],
+      "popularity": 38.232993,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 10386,
+      "vote_count": 1894,
+      "budget": 70000000,
+      "overview": "In the small town of Rockwell, Maine in October 1957, a giant metal machine befriends a nine-year-old boy and ultimately finds its humanity by unselfishly saving people from their own fears and prejudices.",
+      "similar": [
+         862,
+         62211,
+         8839,
+         888,
+         1669,
+         1374,
+         28178,
+         40807,
+         235,
+         68718,
+         41630,
+         23168,
+         3170,
+         11430,
+         863,
+         585,
+         810,
+         10191,
+         12244,
+         9732
+      ],
+      "original_title": "The Iron Giant",
+      "runtime": 86,
+      "poster_path": "/rdN6IjV4xlDDhrT8ewkkJfPvp2e.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": "/l5zW8jjmQOCx2dFmvnmbYmqoBmL.png",
+         "name": "Warner Bros. Animation",
+         "id": 2785,
+         "origin_country": "US"
+      }],
+      "release_date": "1999-08-06",
+      "vote_average": 7.7,
+      "belongs_to_collection": null,
+      "tagline": "It came from outer space!",
+      "adult": false,
+      "homepage": "https://www.warnerbros.com/iron-giant",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Brad Bird"],
+      "runtime": 86,
+      "synopsis": "In 1957, a large alien robot crashes from orbit near the coast of Rockwell, Maine with no memory. Shortly after, the Iron Giant wanders off into the mainland. Nine-year-old Hogarth Hughes follows a trail of the forest's destruction and frees the robot, who is stuck in the power cables of an electrical substation. After being rescued by and befriended by Hogarth, the Giant follows him back to his house, where he lives with his widowed mother Annie. Upon their return, the Giant attempts to eat the rails off the ties of the nearby railroad tracks. Alarmed by the sound of an oncoming train, Hogarth tells the giant to repair the tracks. The Giant attempts this, but takes too long, causing the train to collide with his head. Hogarth hides the damaged robot in their barn where he discovers the robot is self repairing. Later that night, Hogarth returns to the barn with a stack of comic books to read to the Giant. The Giant is impressed with Superman, but distressed when he discovers a comic about an evil robot; Hogarth tells the Giant that he can be \"who you choose to be\". Investigating the destroyed substation, U.S. government agent Kent Mansley discovers evidence of the Giant and decides to continue his inquiries in nearby Rockwell. Finding a BB gun Hogarth left near the substation the night he found the Giant, Mansley takes up a room for rent at Hogarth's home and trails the boy to learn more. He is paranoid about an alien invasion and alerts the U.S. Army to the possible presence of the Giant. Worried that they will get caught, Hogarth evades Mansley and takes the Giant to beatnik artist Dean McCoppin, who passes off the robot as one of his works of scrap-metal art when Mansley and Lieutenant General Guy Rogard investigate. Once Mansley and Rogard are gone, Hogarth plays with the Giant using a toy gun, but inadvertently causes the Giant to activate a defence mechanism. Dean saves Hogarth and angrily commands the Giant to leave, but Hogarth, believing the Giant never meant to harm him, gives chase. Dean sees the toy gun and realizes that the Giant was reacting defensively against the gun. He catches up with Hogarth on his motorbike and they chase after the Giant before he can reach the town. In Rockwell, the Giant saves two boys, instantly getting on the good side of the bewildered citizen witnesses, and leading to the Giant telling Hogarth that he chooses not to be a gun. Unfortunately, the Giant is seen by the military and attacked. The Giant flees with Hogarth until he is shot down by a missile fired from an F-86. After crash-landing, the Giant thinks that the unconscious Hogarth is dead; enraged, it activates a massive arsenal of energy weapons and attacks the Army, who are no match for the Giant's advanced firepower. Mansley lies to Rogard that the robot killed Hogarth, before telling him to lure the Giant out to sea so they can destroy it with a nuclear ballistic missile from the USS Nautilus. Hogarth wakes up and pacifies the Giant, easing him to deactivate his weapons. He then shows himself to Rogard and his men. Rogard, after listening to Dean's explanation of the Giant and realizing that Mansley lied to him, is about to tell the Nautilus to stand down, but Mansley snatches the walkie-talkie and orders the Nautilus to launch the missile. Realizing the deadly mistake, Rogard lambastes Mansley and informs him that the missile will vapourize not only the Giant, but everyone in Rockwell as well. Mansley tries to escape Rockwell to save himself, but the Giant stops him and he is arrested by the Army. When Hogarth tells the Giant about Rockwell's fate, the Giant flies off to intercept the missile. With a smile of satisfaction, comparing himself to Superman, the Giant collides with the missile, causing a massive explosion high up in the atmosphere. The people of the town recognize the Giant as a hero, but everyone, especially Hogarth, is deeply saddened by the Giant's sacrifice. Some time later, Annie and Dean start a relationship and Dean builds a statue honoring the Giant. Hogarth receives a package from General Rogard, containing the only piece of the Giant they found, a small jaw bolt. That night, Hogarth awakens to a familiar beeping coming from the bolt, which is trying to get out his window. He realizes the Giant is still alive and repairing himself somewhere, and he opens the window to let the bolt out. On the Langjökull glacier in Iceland, various parts of the robot approach the snowdrift where the head rests, eyes glowing, as the Iron Giant wakes up and smiles.",
+      "writers": [
+         "Tim McCanlies",
+         "Brad Bird"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0129167/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMjE2NDc4MzY1NV5BMl5BanBnXkFtZTcwNDcxNjgxMQ@@._V1_SY317_CR2,0,214,317_AL_.jpg",
+      "actors": ["Stars: Eli Marienthal, Harry Connick Jr., Jennifer Aniston | See full cast and crew »"],
+      "reviews": [
+         "I'm 25 years old. I have no children. So why am I praising a 'kid's movie' which nobody saw? Because I have never seen a film pack the emotional wallop 'The Iron Giant' provided. The film's plot is similar to 'E.T.' - a young boy meets an alien robot from outer space, who is stranded on earth, and runs afoul of paranoid government agents. Not to knock the Spielberg film, but what makes 'The Iron Giant' the better film is that the young boy is the teacher. It is he who has to teach the Giant about the beauty of life, the difference between good and evil, and choices we have to make. The Iron Giant, it turns out, is a weapon, who has to struggle against his own nature. The film has an obvious (and timely) gun control message, but its real message is about the choice we make when dealing with other people. We can use our powers for good or lash out at everyone around us. I dare not give away the climax. All I will say is that it features a sacrifice absolutely breaktaking and emotionally shattering (albeit somewhat blunted by the ending). The animation is gorgeous, Michael Kamen's score is perfect, and the film beautifully evokes the 1950s. Sadly, poor marketing kept audiences away in droves. All I can say is, to heck with the box office gross. Despite Warner's appearant desire to pretend the film never existed, the word is getting around about what a magical film this is, and I have no doubt it will join 'It's a Wonderful Life' as a film which bombed in theatres but became a classic over the years. See it now, so you can say you discovered it before everyone else did.",
+         "What a GREAT movie! Not just for kids, but adults as well. Kids will love it on one level, and adults will love it on another level. Even adults who are not parents will love it! There's humor, there's action, there's nostalgia, there's the perfect capture of being a child, there are positive messages (be yourself, don't kill, etc.), there's satire, there are adults who are not stupid and not comic relief....there's GREAT WRITING! AND NO SONG AND DANCE NUMBERS! Also, there are NO COMIC-RELIEF ANIMAL SIDEKICKS! Take that, Disney! I know some people might be resisting this movie, because it looks like it's aimed for kids - and they might be expecting a Disney clone (and we all know the bad results of Disney wannabes).....but TRUST ME. Give this movie a chance - you'll love it! Is there ANYTHING wrong with it? Well, the only thing that bugged me (just a little) were some close-ups of the characters - these certain close-ups had a \"sketchy\" look a la the movies \"We're Back!\" and \"Balto\". Fortunately, there's very little of this. Other than that - this is a PERFECT MOVIE!",
+         "All too often, \"family films\" are only infantile, simplistic formulas with a few self-referential and pop-culture jokes thrown in to try and keep adults awake. But then along comes something like \"The Iron Giant\", which is sophisticated enough to demand respect while maintaining a mythic and pure-hearted tone that actually does appeal to the kid in everybody. \"The Iron Giant\" is refreshingly non-Disney in no end of ways. Characters seem real and chosen to fit the story, instead of being a superficial reshuffling of an old formula. The animation definitely has its eye-popping moments, but there are also scenes of great wonderment, pathos, and humour that only top-drawer animation can convey. The Giant itself is a great character, who only becomes MORE interesting as the film continues (another huge break from Disney). No scene is wasted in this film, either; every set piece, even the really funny ones, helps either to establish the \"world\" of the movie, or to advance the plot. At no time do you feel that you are merely waiting for the story to crank up again. \"The Iron Giant\" is funny, exhilarating, and touching as well. It's sad to see it failing at the box office, as a blunt reminder that the success of films is often in direct proportion to their publicity budget. Hopefully, though, word-of-mouth will come to its rescue. Go see it! Tell your friends! Then go again! (Repeat as necessary.) P.S. I find myself comparing the Iron Giant character to Martin Donovan's character in \"Amateur\". If there is anyone else on earth who has seen both films you may wish to entertain the notion yourself.",
+         "\"The Iron Giant\" is the kind of animated film you wish there was more of. It respects the audience's intelligence, it has genuine emotion without resorting to schmaltz, and best of all it balances fantasy (well, science fiction) with believability. I think Warner Brothers animation has out-Disneyed Disney by adding thoughtful writing to clean, understated animation. What a concept! The story is deceptively simple: Iron Giant falls from the sky at the dawn of the Space Race and befriends a young boy. But within that framework we get a double story, one for the grown ups and one for the kids, but the message is essentially the same one: paranoia and violence begets violence. I appreciate very much, as others who have commented, that no one burst into incongruous song and that there were no cutesy animal sidekicks. I should add that there were no clever yet implausible plot twists, nor were there any stock characters. The bad guy gets a little overheated, true, but he is never the embodiment of all things evil. The townspeople are your average small town Americans, not bumpkins. Mom is, well, mom-ish, caring but neither shrewish nor prone to whimpering outbursts. And our hero is plucky but not annoyingly precocious. A BIG plus for this film is how well it weds the computer animation to the hand-drawn animation, a feat that the Big Mouse hasn't mastered yet. Even as recently as \"Tarzan\" it is glaringly apparent what parts are computer graphics and which aren't, and the contrast is very distracting. \"The Iron Giant\" makes a virtue of streamlined animation that draws your eye to the beauty of its color and motion. It was a very VERY distinct and unusual pleasure to be treated to a film such as this. Give us more . . . please!",
+         "Animated movies have long been considered strictly for children. The old Disney classics that started it all are indeed aimed at kids, but are still very watchable, even for adults. With the advent of TOY STORY and its countless mimics, animated feature films have taken long strides to be considered worthy of serious attention. THE IRON GIANT is just such an animated piece. The 87 minute wonder is, to put it mildly, incredible. Everything about it is good. I've also never seen so many influences and references in an animated film before. This is a movie with a heart the size of the title character. A gentle, gigantic robot is rocketed to earth and befriends a 10 year old boy. The kid has a single mother (voiced nicely by Jennifer Aniston) and he is just looking for a friend, whether it be a squirrel, or even a 50 foot tall machine. The familiar premise is obviously out of Spielberg's E.T. One scene even has the giant reaching out his finger to the boy in much the same way ET did to 10 year old Elliott when he departed this earth. E.T. was an out of this world fantasy that took place on this earth. Here, it is animated and almost just as effective. IRON GIANT takes place during 1957 in a small town in Maine. The 1950's was a time when the American public was fearful of atomic bombs and the possibility of alien life off the earth. Live-action sci-fi films of the 1950's always depicted the arrival of \"dangerous\" alien life and our efforts to destroy it. THE DAY THE EARTH STOOD STILL is an influence on this film for evident reasons. Ultimately, the characters in that classic learn from the extra-terrestrial being and realize the dangers of the A-Bomb. It is amazing to see an animated feature which can relay this same type of message some 50 years later. A beautiful and touching ode to BAMBI is witnessed about halfway through. It also brings back some tearful moments from the key scene in that great, hand-drawn film. Here, we see both hand-drawn imagery coupled with a computer-generated \"iron giant\". The title character is actually a 3D composition done digitally, mixed with the 2D action surrounding him. There are some highly imaginative shots of the robot mixing in with the film's environment. At one point, he appears to be a lighthouse until the lights begin to blink. I guess robots must blink too. Enough analysis. I loved this movie. It is ranked #81 on the top list by other user authors for a reason. Not only is it escapist, fantastic entertainment for kids, adults, and seniors alike, it is an animated picture like no other. It combines the joy of SNOW WHITE and PINOCCHIO, the commentary of 1950's science fiction, and the wizardry and laughter of TOY STORY and its sequel. Do not miss this enchanting flick. RATING: ****",
+         "After seeing this movie, I was overcome by a strange feeling. I realized that I had found a treasure where I had least expected it. The Iron Giant is intelligent, funny, touching, and visually superb, and should show the world that an animated movie does not need to be A) computer-animated, or B) based on a fairy tale to be successful. One of the best American-made children's movies I have seen in a decade: [b]8.5/10.0[/b] Now, I'm a 17-year-old who is slowly transitioning into the domain of movie buffdom, which basically means that I am watching a stream of movies based on recommendations from friends, critics, and the IMDb Top 250 list. I got this one almost by accident after the local rental place could not find the movie I was really after, choosing it basically on the knowledge that it was the previous project of Brad Bird, director of The Incredibles (a personal favorite). After watching it, I felt like calling up every mother I knew and telling her to have her children (and herself) watch this. The Iron Giant revolves around an adventurous young boy in 1950s small-town America who discovers a gigantic robot out in the woods that has arrived on Earth from goodness-knows-where. He befriends the robot, while trying to keep him safe from a nosy government agent. The story seldom lags, with a series of comical adventures connected by the boy's growing relationship with his friend. This movie is very appealing as entertainment. The voices are well-done, and the scenery is also terrific. Most importantly, though, is the animation, which is a bright spot from this time period. The characters are well-drawn, especially the Giant, who through terrific design, lifelike movements, and clever small touches (i.e., the eyes) seems both alien and human, imposing and childlike. Furthermore, the animation is comical. I don't know when I have ever seen slapstick or punchlines so well-complimented by the animation. The script, written by Bird and based off the book The Iron Man, is also very well done. Though the movie relies upon a few minor crutches common to children's movies, it is still very original and clever. One thing that I must point out about this movie is its morals. Throughout the movie, the main moral of the story, about the Iron Giant learning and choosing to be good, is actually fairly adroitly handled. At no point when the subject comes up, including standard sentimental climax, does the idea seem contrived. Throughout the movie, evidence of Bird's influence by comic books is quite evident, and his ultimate message about heroes (variations of which will resurface in The Incredibles) is relevant and sincere. However, I do have to say that the secondary moral, about the evils of xenophobia and paranoia, both of which are embodied by the movie's antagonist, the government agent and the military, are very politically charged. While this may sound initially controversial and politically charged for a kids' movie (the second of which I do not deny), I noticed that it was in large part a thoughtful spoof of Cold War America, with jokes as well as valuable lessons about \"duck and cover\" and 1950s nuclear edginess that I found very clever. On a final note, I do have to point out that this movie had me laughing hard, but more importantly, it brought me closer to tears than any animated movie I can remember (including Bambi), closer than I like to admit. I wish that I had discovered it sooner, and I hope that everyone gets the chance to experience it the way I did.",
+         "The Iron Giant is a critically acclaimed piece of animated cinema. I wasn't expecting it to be that good, but The Iron Giant was an amazing movie, it is easily the most exquisite animated movie I have ever seen. Hogarth Hughes (Eli Marenthal) is obsessed by the opportunites offered by science fiction, the possibility of an alien take-over or, at the very least, an attack from outer space. The original story, which the late Poet Laureate had set in England, saw the innocent Titan of the title emerge from the sea; here he is a visitor from another galaxy. The Iron Giant is an amazing piece of animation, the voice-overs were done perfectly, the actors obviously enjoyed themselves, the animated art direction and cinematography was beautiful and the giant itself is just...breathtaking. The Iron Giant is not just another silly little kiddies movie, it is perfection in filmmaking. Please, for the love of God, make your life better and see this brilliant film. I rate The Iron Giant 10 out of 10.",
+         "Hmmm, what to say...well.... it was really good. I've seen it several times, and I've enjoyed it immensely each time for different reasons. Analytically I find the animation incredible. The characters are extremely alive and quite realistic, not because of incredible drawing, well, actually, yes: the way the characters are drawn, and animated, is incredible. From the jerking, swaying and swooshing of body parts to the magnificent and CONSISTENT use of eyes, eyebrows and cheekbones to show real emotions, it's definite that this movie is a masterpiece in terms of animation. The backgrounds are wonderfully lush, and evoke a wonderful sense of everything that shows fall for the beautiful season it is. I love animation, and I love good looking landscapes, so the artists behind this movie are making a fan out of me very quickly. I admire (analytically) most of all the enormous apparance of little details in the film: the season sublty changes from fall to winter; the characters are always doing something, even if they aren't directly in focus (the best ad-libbing a director could dream of); I also think in some parts of the movie the little details actually become crucial to the movie's strength and validity (the time and setting of the story help it to make more sense, also, the \"duck and cover\" scene) You know, I think it's amazing when sometimes a movie can move you so much, talking about it's good qualities seems like child's play. This is the kind of movie that you can watch over and over and take a long time to get sick of. We all have movies like that, very few can do that to us, but we have them. I'm realising as I write that I like this movie very much, because I've written two or three paragraphs and have not even started talking about the iron giant yet. The animation and expression of emotion in the giant, who is a computer graphics animated character, a hundred feet tall and with a certain old time sci fi persona to him, equals and even surpasses it's traditionally animated companions. There were scenes in the movie that the giant almost made me cry because of his expressions. The director, Brad Bird I think, should earn good credit for his work bringing the giant to life. The giant was very organic and fluid, always animated and extremely alive, without really trying to be. After a while it obvious he's not your average rigid robot. It's hard not to give away details when you write a lot, but thankfully I haven't really given anything away. I will say this...the movie is about not prejudging things you are unfamiliar with, big or small, and it's about doing what is right and not using gray areas and politics as an excuse not to do the right thing. The movie explores the strange concept of finding friendship, love, and innocence inbetween past guilts and prejudices. It is one of the most well rounded, enriching, thought provoking movies I have seen in my lifetime, and the best part is that it wasn't the visual effects that made me say that...something other feature animation companies have used a a string to lead me on for almost a decade. I feel like I just recovered from an extended brainwashing experiment. I've learned my lesson. No longer will movies that use stunning graphics to redeem themselves be an interest to me. Rather I will watch movies for the messages they give and the depth those movies have. If anything Brad Bird must have tried to make the giant as close in simplicity to the regular animated characters as possible, because you CANNOT tell the difference between CG and traditional in this movie. Exceptional stuff. I can't imagine anyone I know not liking this movie. I've shown it to a LOT of people, college students mostly, of all races and religions, with different prides and prejudices, the result, amazingly, always seems to be the same: I have some after movie comments here, and I quote:\"Wow!\" ; \"That was NICE!\"; \"That was SO...GOOD!\" ;\"That giant is crucial, dog!\" ;\"It was good...yeah...I liked it!\",; and \"Dang man, that joint TIGHT!\". If you actually read this review all the way, that's nice. Now forget everything I bumbled about and go see this movie, that way you can spent less time writing your own review than you did reading mine.",
+         "It's nice to see an elegantly crafted piece of animation come out of America. How did they manage it? The writing is great the animation is excellent and the voice acting is superb. I don't think I've liked an English animated film this much since The Plague Dogs. The film doesn't talk down to it's audience, and instead tells a simple story very well. My only complaint would be that Hogarth is somewhat of a smart-alec at times, but I guess this is the era of Leave it To Beaver. Many of the situations are standard movie-fare, the ex-lax in the food, the helmet on the bed, but it's nice to see them in an animated film for a change. As an anime fan, the realism of the movie didn't impress me as much as the quality of the writing, voice acting, and the music and sound effects. I particularly remember the sound of the power lines snapping and the musical score building up to the climax of the film. The character design for the giant is excellent, it's amazing how they could draw out very subtle emotions without noticeably distorting the face. I bawled like a baby near the end. Finally, most importantly for me, there are NO CHEAP LAUGHS in the movie. One of the best moments in the movie for me was when Hogarth is running through the woods and he slams his face into a low branch. The theater full of kids raised on recent Disney crap bursts into laughter, but wait, there's no stupid sound effect, he's not hopping back up to his feet instantly with a ridiculous lump or distorted face or little birds flying around his head, he's still on the ground ... and what's that coming out of his nose.. it CAN'T BE.. it IS, a trickle of BLOOD. The kids (and parents) quickly cease their laughter. I couldn't stop smiling because I knew then that like me, they actually cared about the character on the screen and frankly that doesn't happen very often. Tarzan was a small step in the right direction, and near the end of the long path beginning with that step is The Iron Giant.",
+         "An ambitious take on Ted Hughes' 1968 children's book The Iron Man, director Brad Bird's The Iron Giant works well as both archetype-infused allegory and heartstring-tugging tale of friendship. Set in small town Maine in the 1950s at the height of Cold War paranoia, the film explores the relationship between a lonely, fatherless boy (a photo on a nightstand hints that the father was a combat pilot killed in WWII) and a monstrously huge, hulking metal behemoth (the origins of which are brilliantly left to the imagination). The animation marks a welcome contrast from the virtually ubiquitous Disney template, with the human characters bearing a stylized, comic book exaggeration that fits perfectly with the story material. The Iron Giant has more than enough imagination and sparkle to interest kids and adults, and nicely balances its action-adventure aspirations with a solidly-crafted sense of moral purpose."
+      ],
+      "genres": [
+         "Animation",
+         "Action",
+         "Adventure",
+         "Comedy",
+         "Drama",
+         "Family",
+         "Sci-Fi"
+      ],
+      "productionCompanies": [
+         "Warner Bros.",
+         "Warner Bros. Animation",
+         "Warner Bros. Feature Animation"
+      ],
+      "summaries": [
+         "This is the story of a nine-year-old boy named Hogarth Hughes who makes friends with an innocent alien giant robot that came from outer space. Meanwhile, a paranoid U.S. Government agent named Kent Mansley arrives in town, determined to destroy the giant at all costs. It's up to Hogarth to protect him by keeping him at Dean McCoppin's place in the junkyard.",
+         "\"Iron Giant\" is based upon the 1968 story,'Iron Man,' by the British poet laureate Ted Hughes. The film is about a giant metal machine that drops from the sky and frightens a small town in Maine in 1958, only to find a friend named, Hogarth, that ultimately finds its humanity and saving the towns people of their fears and prejudices.",
+         "What if a gun had a soul? A gigantic mobile weapon from another planet is sent to destroy Earth, but is damaged on arrival and loses its memory. It is soon befriended by a young boy, Hogarth, who is an outcast at school and relishes the chance to have a real friend. However, soon the paranoid government agent Kent Mansley arrives in town, determined to destroy the giant at all costs.",
+         "A giant metal machine falls to Earth and frightens the residents of a small town in Maine in 1958, until it befriends a nine-year-old boy named Hogarth and ultimately finds its humanity by unselfishly saving people from their own fears and prejudices.",
+         "A boy makes friends with an innocent alien giant robot that a paranoid government agent wants to destroy."
+      ],
+      "budget": 48000000
+   },
+   "movielensId": 2761,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1999-08-06",
+      "dvdReleaseDate": "2004-11-16",
+      "directors": ["Brad Bird"],
+      "runtime": 86,
+      "movieId": 2761,
+      "title": "The Iron Giant",
+      "mpaa": "PG",
+      "actors": [
+         "Eli Marienthal",
+         "Jennifer Aniston",
+         "Vin Diesel",
+         "Christopher McDonald",
+         "Harry Connick Jr.",
+         "John Mahoney",
+         "Cloris Leachman",
+         "James Gammon",
+         "M. Emmet Walsh",
+         "Jack Angel",
+         "Bob Bergen",
+         "Mary Kay Bergman",
+         "Michael Bird",
+         "Devon Cole Borisoff",
+         "Rodger Bumpass",
+         "Robert Clotworthy",
+         "Jennifer Darling",
+         "Zack Eginton",
+         "Paul Eiding",
+         "Bill Farmer",
+         "Charles Howerton",
+         "Ollie Johnston",
+         "Sherry Lynn",
+         "Mickie McGowan",
+         "Ryan O'Donohue",
+         "Phil Proctor",
+         "Frank Thomas",
+         "Patti Tippo",
+         "Brian Tochi"
+      ],
+      "imdbMovieId": "0129167",
+      "originalTitle": "The Iron Giant",
+      "genres": [
+         "Adventure",
+         "Animation",
+         "Family",
+         "Fantasy",
+         "Science Fiction"
+      ],
+      "youtubeTrailerIds": [
+         "fq2FZdvQXXg",
+         "ej5PLxUlwls",
+         "1mSUMy534Y8"
+      ],
+      "plotSummary": "In the small town of Rockwell, Maine in October 1957, a giant metal machine befriends a nine-year-old boy and ultimately finds its humanity by unselfishly saving people from their own fears and prejudices.",
+      "tmdbMovieId": 10386,
+      "avgRating": 3.84079,
+      "releaseYear": "1999",
+      "numRatings": 10907,
+      "posterPath": "/rdN6IjV4xlDDhrT8ewkkJfPvp2e.jpg"
+   }
+}

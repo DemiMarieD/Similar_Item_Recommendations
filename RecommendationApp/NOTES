@@ -4,12 +4,14 @@ Possible Similarity-Methods
 1. Genre:
     - Get the once with the biggest genre overlap, sort by rating, get top5
     - Get every movie with at least an overlap of 2 genres, sort by rating, get top5
-
 2. Use Popularity: (amount of ratings) if reference is an "unpopular" movie we show "unpopular" once,
     person might more be into discover the unknown?!
 3. Title:
 4. Year:
-5. Content: try to compare the synopsis?!
+5. Director:
+6. Actors: Lead-role(s) (gender of the lead role ?!)
+7. Movie Cover:
+8. Content: try to compare the plotSummary or keywords
     A.  With Fuzzywuzzy (Python library)
         https://towardsdatascience.com/natural-language-processing-for-fuzzy-string-matching-with-python-6632b7824c49
         # pip install fuzzywuzzy

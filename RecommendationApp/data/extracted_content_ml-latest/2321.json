@@ -1,0 +1,756 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "sibling relationship",
+            "id": 380
+         },
+         {
+            "name": "tv show",
+            "id": 2571
+         },
+         {
+            "name": "dystopia",
+            "id": 4565
+         },
+         {
+            "name": "book burning",
+            "id": 5737
+         },
+         {
+            "name": "satire",
+            "id": 8201
+         },
+         {
+            "name": "coming of age",
+            "id": 10683
+         },
+         {
+            "name": "racism",
+            "id": 12425
+         },
+         {
+            "name": "black and white",
+            "id": 12999
+         },
+         {
+            "name": "alternate reality",
+            "id": 156282
+         },
+         {
+            "name": "color",
+            "id": 181235
+         }
+      ],
+      "imdb_id": "tt0120789",
+      "video": false,
+      "title": "Pleasantville",
+      "recommendations": [
+         9451,
+         11622,
+         9824,
+         2255,
+         11814,
+         1648,
+         11374,
+         8873,
+         1262,
+         11353,
+         9647,
+         9430,
+         11824,
+         11846,
+         2293,
+         1649,
+         11003,
+         10342,
+         11004,
+         1832
+      ],
+      "backdrop_path": "/vft46ewuQqbxGbruSOPculy5qk6.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "David",
+               "gender": 2,
+               "credit_id": "52fe4363c3a36847f80508df",
+               "name": "Tobey Maguire",
+               "profile_path": "/l8e9we9RmTsYgNpx4xqQIlMplLl.jpg",
+               "id": 2219,
+               "order": 0
+            },
+            {
+               "cast_id": 3,
+               "character": "Jennifer",
+               "gender": 1,
+               "credit_id": "52fe4363c3a36847f80508e3",
+               "name": "Reese Witherspoon",
+               "profile_path": "/a3o8T1P6yy4KWL7wZG6HuDeuh5n.jpg",
+               "id": 368,
+               "order": 1
+            },
+            {
+               "cast_id": 4,
+               "character": "George Parker",
+               "gender": 2,
+               "credit_id": "52fe4363c3a36847f80508e7",
+               "name": "William H. Macy",
+               "profile_path": "/cYmHYCGxkOVZgu2oDyhF6lKgfaj.jpg",
+               "id": 3905,
+               "order": 2
+            },
+            {
+               "cast_id": 14,
+               "character": "Betty Parker",
+               "gender": 1,
+               "credit_id": "52fe4363c3a36847f8050921",
+               "name": "Joan Allen",
+               "profile_path": "/Atg0mSjK9Dl98YBsFvBuGO8PG5m.jpg",
+               "id": 11148,
+               "order": 3
+            },
+            {
+               "cast_id": 15,
+               "character": "Bill Johnson",
+               "gender": 2,
+               "credit_id": "52fe4363c3a36847f8050925",
+               "name": "Jeff Daniels",
+               "profile_path": "/gai03gCu3DxMYxFympt7hUObpI5.jpg",
+               "id": 8447,
+               "order": 4
+            },
+            {
+               "cast_id": 19,
+               "character": "TV Repairman",
+               "gender": 2,
+               "credit_id": "52fe4363c3a36847f8050935",
+               "name": "Don Knotts",
+               "profile_path": "/qMqpOuJj69ozHCViUZSiFvgggva.jpg",
+               "id": 27726,
+               "order": 5
+            },
+            {
+               "cast_id": 26,
+               "character": "Skip Martin",
+               "gender": 2,
+               "credit_id": "52fe4363c3a36847f8050953",
+               "name": "Paul Walker",
+               "profile_path": "/iqvYezRoEY5k8wnlfHriHQfl5dX.jpg",
+               "id": 8167,
+               "order": 6
+            },
+            {
+               "cast_id": 17,
+               "character": "David's Mother",
+               "gender": 1,
+               "credit_id": "52fe4363c3a36847f805092d",
+               "name": "Jane Kaczmarek",
+               "profile_path": "/s03JyfEdklnzXsgC8dFop9FuL00.jpg",
+               "id": 27725,
+               "order": 7
+            },
+            {
+               "cast_id": 18,
+               "character": "Big Bob",
+               "gender": 2,
+               "credit_id": "52fe4363c3a36847f8050931",
+               "name": "J.T. Walsh",
+               "profile_path": "/39KZjhJSyDjvBhKGj0IbGVteFAm.jpg",
+               "id": 22131,
+               "order": 8
+            },
+            {
+               "cast_id": 16,
+               "character": "Margaret Henderson",
+               "gender": 1,
+               "credit_id": "52fe4363c3a36847f8050929",
+               "name": "Marley Shelton",
+               "profile_path": "/n3XgupzMwQfX7YyTjolsnbhIIyV.jpg",
+               "id": 6407,
+               "order": 9
+            },
+            {
+               "cast_id": 20,
+               "character": "Howard",
+               "gender": 2,
+               "credit_id": "52fe4363c3a36847f8050939",
+               "name": "Giuseppe Andrews",
+               "profile_path": "/tWAjcA240TR9x4GqGKj2gL4p68B.jpg",
+               "id": 4133,
+               "order": 10
+            },
+            {
+               "cast_id": 22,
+               "character": "Kimmy",
+               "gender": 1,
+               "credit_id": "52fe4363c3a36847f805093d",
+               "name": "Marissa Ribisi",
+               "profile_path": "/cKbSKPlaPIFbp5v32rekgENjYi2.jpg",
+               "id": 27727,
+               "order": 11
+            },
+            {
+               "cast_id": 27,
+               "character": "Mark's Lackey #2",
+               "gender": 2,
+               "credit_id": "554ae528c3a3685e5b000c3b",
+               "name": "Jason Behr",
+               "profile_path": "/ctlMa2J04dLLkicqJqm9LCywSXB.jpg",
+               "id": 20386,
+               "order": 12
+            },
+            {
+               "cast_id": 28,
+               "character": "Christin",
+               "gender": 1,
+               "credit_id": "5627ccbc925141282800059b",
+               "name": "Jenny Lewis",
+               "profile_path": "/6y5cKHxz8p7QK5YETtOmsUwZiQj.jpg",
+               "id": 1516101,
+               "order": 13
+            },
+            {
+               "cast_id": 59,
+               "character": "Basketball Hero",
+               "gender": 2,
+               "credit_id": "586559e8c3a36852c3024055",
+               "name": "Marc Blucas",
+               "profile_path": "/1pDk3uISYLyYOb8mHeyEbjqw7i.jpg",
+               "id": 46772,
+               "order": 14
+            },
+            {
+               "cast_id": 60,
+               "character": "Betty Jean",
+               "gender": 1,
+               "credit_id": "59e25d94c3a3687c6000235c",
+               "name": "Dawn Cody",
+               "profile_path": "/g51U04VrMAiH6QfqUdwytVgHzQC.jpg",
+               "id": 1229688,
+               "order": 15
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4363c3a36847f80508db",
+               "name": "Gary Ross",
+               "profile_path": "/dMoUDOJHsGrQcxKpFgbuMWRwiyI.jpg",
+               "id": 23964,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4363c3a36847f80508ed",
+               "name": "Jon Kilik",
+               "profile_path": null,
+               "id": 4446,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4363c3a36847f80508f3",
+               "name": "Steven Soderbergh",
+               "profile_path": "/dxdMRsAosaGlMRd7EMmm9lrXXsW.jpg",
+               "id": 1884,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4363c3a36847f80508f9",
+               "name": "Randy Newman",
+               "profile_path": "/w0JzfoiM25nrnxYOzosPHRq6mlE.jpg",
+               "id": 7885,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4363c3a36847f80508ff",
+               "name": "John Lindley",
+               "profile_path": null,
+               "id": 23969,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4363c3a36847f8050905",
+               "name": "William Goldenberg",
+               "profile_path": "/eOgoea8HbZt2TfLn0tDNI1TepSN.jpg",
+               "id": 15841,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4363c3a36847f805090b",
+               "name": "Jeannine Oppewall",
+               "profile_path": null,
+               "id": 9269,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4363c3a36847f8050911",
+               "name": "Dianne Wager",
+               "profile_path": null,
+               "id": 4727,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4363c3a36847f8050917",
+               "name": "Judianna Makovsky",
+               "profile_path": "/fdRHxR0k3b95mY8p3VOzFTFN2p9.jpg",
+               "id": 10970,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4363c3a36847f805091d",
+               "name": "Jay Hart",
+               "profile_path": null,
+               "id": 7237,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4363c3a36847f805094f",
+               "name": "Gary Ross",
+               "profile_path": "/dMoUDOJHsGrQcxKpFgbuMWRwiyI.jpg",
+               "id": 23964,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5673e0c59251412db10019a9",
+               "name": "Ellen Lewis",
+               "profile_path": null,
+               "id": 2242,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5673e0dec3a3685ee2001af4",
+               "name": "Debra Zane",
+               "profile_path": null,
+               "id": 495,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5673e14f9251412daf002683",
+               "name": "Ashley Burnham",
+               "profile_path": null,
+               "id": 95828,
+               "department": "Art",
+               "job": "Art Department Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5673e17e9251412da9001a2f",
+               "name": "Dave DeGaetano",
+               "profile_path": null,
+               "id": 1435689,
+               "department": "Art",
+               "job": "Construction Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5673e1acc3a3685ef10019a3",
+               "name": "Eric Rylander",
+               "profile_path": null,
+               "id": 1298897,
+               "department": "Crew",
+               "job": "Special Effects Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5673e28c9251412daf0026b3",
+               "name": "Thomas J. Smith",
+               "profile_path": null,
+               "id": 1392909,
+               "department": "Crew",
+               "job": "Digital Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5673e2ce9251412dab001c3f",
+               "name": "Logan Breit",
+               "profile_path": null,
+               "id": 1425328,
+               "department": "Crew",
+               "job": "Visual Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5673e2f0c3a3685eeb001b91",
+               "name": "Janette Shew",
+               "profile_path": null,
+               "id": 1550540,
+               "department": "Visual Effects",
+               "job": "Visual Effects Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5673e310c3a3685ee5001d45",
+               "name": "Estee Chandler",
+               "profile_path": "/zppLItc1pj6HFpW4V7RPlA8t93x.jpg",
+               "id": 78413,
+               "department": "Visual Effects",
+               "job": "Visual Effects Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5673e3eb9251412dbb001b73",
+               "name": "Chris Watts",
+               "profile_path": null,
+               "id": 1075261,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5673e427c3a3685eee001ba4",
+               "name": "Lisa Tomczeszyn",
+               "profile_path": null,
+               "id": 11106,
+               "department": "Costume & Make-Up",
+               "job": "Assistant Costume Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5673e445c3a3685ee5001d6f",
+               "name": "Eric H. Sandberg",
+               "profile_path": null,
+               "id": 1424540,
+               "department": "Costume & Make-Up",
+               "job": "Costume Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5673e46cc3a3685eeb001bca",
+               "name": "Bruno Coon",
+               "profile_path": null,
+               "id": 8172,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5673e4819251412da9001a86",
+               "name": "James Flamberg",
+               "profile_path": null,
+               "id": 1372885,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5673e4969251412db80019f3",
+               "name": "Jay B. Richardson",
+               "profile_path": null,
+               "id": 1389624,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5673e4b09251412dbb001ba7",
+               "name": "Bonnie Greenberg",
+               "profile_path": null,
+               "id": 91142,
+               "department": "Sound",
+               "job": "Music Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5673e567c3a3685ede001e7d",
+               "name": "Ken Ferris",
+               "profile_path": null,
+               "id": 1549590,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5673e57cc3a3685ede001e85",
+               "name": "Henry Cline",
+               "profile_path": null,
+               "id": 69717,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5673e5919251412db4001dd1",
+               "name": "Lawrence Karman",
+               "profile_path": null,
+               "id": 1411272,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5673e5b1c3a3685ee5001da7",
+               "name": "Bruce McCleery",
+               "profile_path": null,
+               "id": 1364399,
+               "department": "Lighting",
+               "job": "Gaffer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5673e5e4c3a3685eee001bec",
+               "name": "Ralph Nelson",
+               "profile_path": null,
+               "id": 1378173,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5673e616c3a3685edc001a27",
+               "name": "Christopher Prampin",
+               "profile_path": null,
+               "id": 1399475,
+               "department": "Lighting",
+               "job": "Rigging Gaffer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5673e629c3a3685ee5001db7",
+               "name": "Jeffrey P. Soderberg",
+               "profile_path": null,
+               "id": 1536385,
+               "department": "Lighting",
+               "job": "Rigging Gaffer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5673e67c9251412db1001a70",
+               "name": "Patti Lee",
+               "profile_path": null,
+               "id": 1550554,
+               "department": "Lighting",
+               "job": "Rigging Gaffer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5673e6aa9251412daf00272c",
+               "name": "Craig Doobie",
+               "profile_path": null,
+               "id": 1550555,
+               "department": "Lighting",
+               "job": "Rigging Grip"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5673e6d09251412daf002736",
+               "name": "Joseph Graham",
+               "profile_path": null,
+               "id": 1543758,
+               "department": "Lighting",
+               "job": "Rigging Grip"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5673e6f59251412db4001e09",
+               "name": "Carolyn Elias",
+               "profile_path": null,
+               "id": 1402016,
+               "department": "Costume & Make-Up",
+               "job": "Key Hair Stylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5673e70a9251412dbe00193c",
+               "name": "Susan A. Cabral",
+               "profile_path": null,
+               "id": 1314881,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "570ab422c3a3680ee10001de",
+               "name": "William Arnold",
+               "profile_path": null,
+               "id": 21747,
+               "department": "Art",
+               "job": "Supervising Art Director"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Fantasy",
+            "id": 14
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Comedy",
+            "id": 35
+         }
+      ],
+      "popularity": 9.11534,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 2657,
+      "vote_count": 643,
+      "budget": 0,
+      "overview": "Geeky teenager David and his popular twin sister, Jennifer, get sucked into the black-and-white world of a 1950s TV sitcom called \"Pleasantville,\" and find a world where everything is peachy keen all the time. But when Jennifer's modern attitude disrupts Pleasantville's peaceful but boring routine, she literally brings color into its life.",
+      "similar": [
+         227156,
+         17654,
+         14,
+         277216,
+         563,
+         376660,
+         11421,
+         11561,
+         157845,
+         36040,
+         837,
+         9871,
+         334538,
+         9414,
+         9389,
+         16129,
+         11598,
+         14832,
+         361069,
+         408435
+      ],
+      "original_title": "Pleasantville",
+      "runtime": 124,
+      "poster_path": "/cKL23HqEEQis7Nbasr5kSyolbFZ.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": "/iaYpEp3LQmb8AfAtmTvpqd4149c.png",
+            "name": "New Line Cinema",
+            "id": 12,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": null,
+            "name": "Larger Than Life Productions",
+            "id": 1163,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1998-09-17",
+      "vote_average": 7.1,
+      "belongs_to_collection": null,
+      "tagline": "Nothing is as simple as black and white.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Black and White",
+      "budgetCurrency": "$",
+      "directors": ["Gary Ross"],
+      "runtime": 124,
+      "synopsis": "David (Tobey Maguire) and Jennifer (Reese Witherspoon) are twins and attend the same high school. Jennifer is concerned mainly with her appearance, relationships and popularity, while David watches a lot of television, has few friends, and is socially awkward. Their mother (Jane Kaczmarek) leaves Jennifer and David alone at home while she heads out of town for a rendezvous with her younger boyfriend. The twins begin to fight over the use of the downstairs TV; Jennifer wants to watch an MTV concert with her date, Mark Davis, while David hopes to watch a marathon of his favorite show, Pleasantville. Pleasantville is a black-and-white '50s sitcom, a cross between Leave It to Beaver and Father Knows Best that centers around the idyllic Parker family George (William H. Macy), his wife Betty (Joan Allen), and their two children, Bud and Mary Sue. David is an expert on every episode and wants to watch the marathon so he can win a $1,000 trivia contest. During the fight between David and Jennifer, the remote control breaks and the TV cannot be turned on manually. A mysterious TV repairman (Don Knotts) shows up uninvited, and quizzes David on Pleasantville before giving him a strange-looking, retro-styled remote control. The repairman leaves, and David and Jennifer promptly resume fighting. However, through some mechanism of the remote control, they are transported into the television, ending up in the Parkers' black and white Pleasantville living room. David tries to reason with the repairman (who communicates with him through the Parkers' TV set) but succeeds only in chasing him away. David and Jennifer must now pretend they are, respectively, Bud and Mary Sue Parker. Jennifer is dismayed to be stranded, but she and David begin exposing the town to issues such as sex, personal freedoms, styles of art, and literature. Pleasantville soon begins changing at a rapid pace, and previously black and white objects and people begin to develop full and vibrant colors. After initially wanting to leave, David discovers a sense of belonging he lacked in the real world, so when the TV repairman returns and berates him for altering the show so much, David turns off the TV, relinquishing his ability to go home in the process. While the mayor is concerned, people in Pleasantville begin to explore hidden abilities and revel in their new freedoms. The town fathers, who see the changes as eating away at the town's moral values, remain unchanged. Certain youths, such as Skip and Whitey and their friends, also remain unaffected. They resolve to do something about their increasingly distant wives and disaffected youths. Behavior similar to Nazism, as well as racial segregation and subsequent rioting similar to that of the African-American Civil Rights Movement start to occur, incited by a nude painting of Betty on the window of Bud's boss Bill Johnsons soda shop; the window is smashed with a park bench, and the soda shop is destroyed, books are burned, and anyone who is \"colored\" is harassed in the streets. Bud begins to grow into a strong leader, advocating resistance to the new \"Pleasantville Code of Conduct\", a list of regulations preventing people from visiting the library and Lovers' Lane, playing loud music, or using colorful paints. Bud/David and Bill are arrested and tried in court for violating the paint rules, but ultimately everyone in the court room changes colors and Mayor Bob leaves in horror when he is exposed as having changed as well. Eventually, the entire town becomes colored, and the people of Pleasantville are finally introduced to the rest of the world. Televisions at the television repair shop now display full-colored images of various scenic vistas around the world, and Main Street, which had previously been a circuit that led back to its beginning again, now leads away to other towns and cities. Jennifer chooses to stay behind in neighboring Springfield, while says goodbye to Betty and his new girlfriend David returns home using the remote control after promising to return and check up on her soon. He finds his mother crying in the kitchen, distraught over her life and her failed relationship. She complains to him that her life was not supposed to run this undesirable course. David replies, \"It's not 'supposed' to be 'anything'.\" Back in Pleasantville, the citizens and Jennifer are enjoying their new freedoms and colors. Betty is seen sitting next to George on a park bench. George asks what will happen next and Betty admits incredulously that she doesn't know. When she asks George, he laughs upon realizing that he doesn't know either. The camera focuses on Betty for a second as she relaxes against the bench, then she turns once more toward the other side of the bench. The camera pans to the side to reveal Bill Johnson sitting where George had been. He says \"I guess I don't know either,\" and smiles.",
+      "writers": ["Gary Ross"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0120789/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMzg2NTc5OTUwOF5BMl5BanBnXkFtZTYwNDA1NDY2._V1_SY317_CR1,0,214,317_AL_.jpg",
+      "actors": ["Stars: Tobey Maguire, Jeff Daniels, Joan Allen | See full cast and crew »"],
+      "reviews": [
+         "I knew what this film would be about before I rented it, but I'm stunned that it would be THIS good. Nothing against \"Saving Private Ryan\" or \"Shakespeare in Love\", but this film should have won Best Picture in 1998 and it was a shame that it wasn't nominated. It's an even bigger injustice that it did not get a nomination for best screenplay or cinematography. In the hands of another writer, this movie could have been made as just a parody of 1950's sitcoms like \"Leave It To Beaver\" or \"Ozzie and Harriet.\" But this film isn't about how clichéd those series look decades later. It's about the false nostalgia for a past that never existed. We survived the past and we know that everything turned out all right. Because of this, we selectively choose our memories and weed out the unpleasant ones. That's why the past is sometimes seen as \"the good ol' days.\" Pleasantville does not represent how the 50's actually were but rather an idealization of what people THINK the 50's were---no one had sex, everyone got along swell, and life was fairly easy. Nothing could be further from the truth, and there are many film from that era which show how real people (even in suburbia) actually lived. This film argues that free will and choice is ESSENTIAL to life and that we should embrace freedom instead of fearing it. It isn't just about making out, but having the OPTION to make out. Another reviewer claimed that this film was an attack on the 50's, but David and Jennifer could very easily have been dumped in the world of \"The Brady Bunch\", \"Gilligan's Island\" , or \"Batman.\" But setting \"Pleasantville\" in a 1950's sitcom allows for the brilliant metaphor of black and white versus color. Black and white photography is a stylized depiction of the universe, but unless you're color blind it's not the way you actually see the universe. When we first see Pleasantville's citizens, all of them are cardboard cut-outs of stereotypes. As they begin to open up and become real people, color seeps into their world. The catalyst seems to be the willingness to experience new sensations and become vulnerable. Jennifer has slept with lot of guys when she was in the normal world, so sex does not change HER into a color character. On the other hand, when she actually finishes a book (without pictures) for the first time in her life, THEN she becomes colorized. Similarly, David does not bloom into color until he breaks out of his aloofness and defends his \"mother.\" Compare the way he ignores his real mother at the beginning of the film to how he consoles and comforts her at the end to see how much David has changed. I could go on and on, but I think you get the idea. There are a lot of films out there that are very entertaining and/or very moving--like \"Raiders of the Lost Ark\" or \"Titanic.\" Movies like \"Pleasantville\" which challenge the audience and force them to think are very rare, and should be treasured by the discerning filmgoer.",
+         "I thoroughly enjoyed \"Pleasantville\" from the 'Once upon a time' through the film fading to black. The acting was top notch all around, as was the use of special effects; in very few films has colour been used so effectively that it can convey a story seemingly without help from dialogue or music. I can see how some people would perceive it as merely another mouthpiece of liberalism, but I watched it twice, and I only noticed it attacking bigotry and censorship. What was wrong wasn't that these people were living according conservative values, but that they didn't really choose those values in the first place! I like the fact that the film was bold, and that it made its point as directly as it contrasted the black and white with the splotches of Technicolour. While \"Pleasantville\" had little subtlety in its allegory, it was, like any good fairytale, beautiful in its simplicity. Nine out of ten =)",
+         "Some critics here are saying the movie takes itself too seriously - but I believe some people are taking it too literally. ... Saying that the topics that are addressed have no impact on society anymore, clearly misses the point. ... The 50s -- or more specifically, 50s TV -- is used as a metaphor, because of the way 50s TV portrayed life in America. ... Thematically, this movie is about \"Living Life\" to the fullest, whatever that means. More specifically, to live life to the fullest -- to truly feel \"alive\" -- you need to take the good with the bad. Sweeping things under the rug and just acting \"pleasant\" all the time, is no way to live. That's what Tobey McGuire's speech at the end to his \"real\" mother is all about. Bad things happen, it's part of life. Having passion brings with it positives and negatives -- but suppressing true feelings for the sake of \"pleasantness\" is an empty life. THAT is the key ... and that \"issue\" is everlasting to the human condition. Another point: People fear change. This is universal from the start of time until the end of time. The film suggests that changing and growing as a society and as people -- even if scary -- is good. Just because the 50s were used as a metaphor for that, don't believe for a minute this isn't a universal issue that exists today and forever. Another issue common for people critical of this film is the sexual issue. They say that Gary Ross is promoting sexual promiscuity, sex out of wedlock, etc... Again, I believe it misses the point. Is Ross suggesting that premarital sex is OK? Yes, and I'd agree - and I'm sure there's plenty of people who don't agree with that, and that's OK too. But, again, the sex is just part of the theme - used as a high-profile example to making the overall point about \"openness\" - and not suppressing one's feelings. Note that the Reese Witherspoon character was already promiscuous, and her transformation was actually something completely different. I can't make everyone like this film - I'll just say that, on a personal note, I was so floored by this film, I had to see it again the next day. That had never happened to me before, or since. Ross' commentary goes on to speak of everything I felt about the film when I first saw it. It was great to hear that his reasons for what he did, meshed exactly with how I took it. I had to write him a letter to tell him so - another thing I'd never done before or since. This is not a perfect film. I liked its subtlety, but then the racism correlation, and the censorship stuff, got a bit more overt. The courtroom scene at the end is a bit cliche ... and I also agree with one poster who said that, to make the point about taking the good with the bad, we should've seen a bit more about the consequences of their actions. Those are merely nitpicks in the grand scheme of things. This is a 10 out of 10.",
+         "One night after working something like 6 or 7 hours at a movie store, I went to see a one of the last films on my list for the week that I hadn't gotten to. My manager and I seem to go out to movies a lot after work. It's odd how people who around film all day cling to it for relaxation at the end of the shift. We knew the manager of the theater, so we got in free. I knew Pleasantville was about some kids who fall into a world of television and adventures ensue. Plus I knew that it had Don Knotts and I've always loved his acting. Expecting a funny little film about TV, I got a brilliant commentary on the social and political environment of the 50's. There were countless religious, political, and racial references throughout the film. Life in Pleasantville is perfect. For breakfast you get everything your heart desires, the basketball team wins every game, and everyone is just swell. The only problem is that life is set; there is no free will, self-expression, or new thought. The Characters begin turning colour when they break their set mold, break out of their lives into something new. When Mary sue first has sex with Skip, he doesn't turn to colour because he doesn't know what's happened. The event does lead him to begin seeing the world differently, hence the red rose. People only change when they do something freely and of their own will. The mother and her bathroom incident, when Mary Sure finally discovers life beyond sex and seduction in books and thought, and when Bud finally stands up for himself. The fact that new thought and experience leads to the thought of the breakdown of the Pleasantville world speaks to the desire in the 50's not to change. Things were good, values were abundant, and life was good. Dinner was ready at 6, the wife was always home cleaning or cooking or something. Then came those greasers and people doing more than holding hands. One of the main points of this film was that change is one of those things that can become undesirable, but is needed to evolve and grow as a society. Another big statement this film makes is one the issue of racism, and very well I might add. There are no black people in Pleasantville. This isn't an attack of any sort on race. I'm sure you can count on one hand the average number of black people in a 50's television show. The point is that the colored people are representative of all nationalities oppressed in the fifties, even through today. Because of things they could not necessarily control, they are all hated and spat upon for being different. Especially in the end when all the `colored' people are at the top of the courthouse segregated from the non-colored people. And don't forget the `no colored people' signs in the shop windows. This film is about more than the way things were and how change is good. It's about the way we see ourselves inside and out. If life is static and non-changing, then all you get is black and white. It's only when people allow themselves to grow and mature as people and human beings that they see the world through coloured eyes. Pleasantville only becomes whole when everyone sees appears in colour. Only then do the roads open up and the life beyond the town exists. It's odd how people in the city know what colour is, yet are shocked when it appears everywhere.",
+         "First of all....I really liked it. Ignore any review (and reviewer) that says different. We live in a day and age that we seems like every movie has a touch of this old film and bit of that one...or is a remake or possibly a re-release. But Pleasantville is none of that...it is unique, fresh, reflective, pleasant (you knew I was going to use that word someplace), sad, but yet still had a touch of fun. The film begins by looking at the interaction between and the lives of a brother (Tobey Maguire) and sister (Reese Witherspoon). The brother is very content with his life and enjoys watching television, in particular, the show, Pleasantville. His sister, a bit more outgoing, enjoys meeting new people and seeing where this interaction will lead. A fight over which show to watch results in the intervention by Don Knotts (of Andy Griffith and Three's Company fame). Maguire and Witherspoon are wisked into the television set and take center stage as two of the Pleasantville cast. The only difference is while the world may be watching a tv show, to them, this is their reality. The film appears to be in black and white, but as each character opens their mind or changes from the perception of the Pleasantville tv show, then they begin to gain color. As those in color become more prevalent, the old black & whites become resistant to change. To ebb the flow of change, the black and whites react violently against the \"new colors\" and begin placing restrictions on them. Yes the similarities of the 60s civil rights movement are here as are the violent acts of the Nazis in pre-World War II. But while you see these, you are also brought to the realization that there still exists a great deal of prejudice, discrimination, and close-mindedness in this world. One of the most pleasing aspects of this film is the cinematography, the mixing of the colors with the black & white shots were great. The story keeps your interest and the characters impact upon each member of the audience in their own special way. This is one film to see for I think you will hear more about it around Oscar time. Bottom line...if we open our minds more towards others, letting them be who they are, rather than who we want them to be, then not only will we be richer in color, but also richer in character.",
+         "Three movies of the late '90s -The Truman Show, EdTv and Pleasantville- specifically examined how television made an impact on our world, our culture and our values. They both showed larger than life happenings and captured our minds with their perspectives. In EdTv there was a humble video store clerk guy having his life filmed for a reality show, which was happening in present time. Though in Truman Show very futurist and fantastically, Truman Burbank was not even aware that his life is being filmed, offering the viewer the vision of life from God's perspective. Distinctively here in Pleasantville, there is a journey which starts with materializing a TV-series into life and ends up with materializing the life into this TV-series. The cheerful 1950s' TV sit-com Pleasantville is revived in the '90s on cable. A homebody teen, David Wagner, escapes from the daily rush of the real unpleasant world by watching this show. He doesn't even miss the reruns, memorizes the scripts and speaks them out before the actors in the show say their part. One day after school, he and his sister Jennifer can't agree on the right TV channel to watch. Then they fight over the remote control and it breaks. The new remote, which will zap them inside Pleasantville, given them by a strange TV-repairman. When they entered Pleasantville, they become the part of the show and turn to black-and-white as the TV show displays. David and Jennifer take up residence as the son and the daughter of the sit-com family. Soon, they realize that there the life is always pleasant; the temperature is always lukewarm and the seasons are always spring with no rain no snow no hot no cold weather, books have no words, roads end where they start, nothing burns and matches are useless, married couples sleep in twin beds, sex does not exist, nobody gets sick, nobody gets hurt and nobody ever questions this hassle-free life. David fits right in as he always dreamt to be, while her sister persists on him to try to figure out what should they do to escape from there. Though she changes her mind when he gets a boyfriend from school. Her attempts of putting her lifestyle on effect causes Pleasantville gets colors. Thus wonderful and frightening changes start to take place. Pleasantville is a truly original film that soars with dynamism and aesthetic. From a social and deeply political perspective; it has deep meaning and relevance in today's society. Consequently, it should serve as a reminder for most that the world is made up of how its residents think and act. \"You can't stop something that's inside you.\" says David, and that could be summation of all that Pleasantville stands for.",
+         "Pleasantville should be nominated for Best Director and Best Cinematography, and perhaps Best Supporting Actor for William H. Macy. Joan Allen, Jeff Daniels and Tobey Maguire are also excellent, and the idea is brilliant. In other words, this film is one of the best of the year. It is fun for the eyes and filled with wonderful allusions to great books and other films, not to mention some similar events in our country's past. If you will let yourself go from reality and put a little thought into it, you will realize the sheer genius behind this film. The messages were plenty and appropriate, and while it is extremely fun to watch, it still is able to evoke deeper emotions. Fantastic, and my vote for second best film of the year behind Saving Private Ryan.",
+         "i wish i had the ability to put into a 1000 words what this movie impressed upon me. sadly enough, i am a verbose person, inclined to write and write and write, following a train of thought that never ends. however, i shall certainly give it a try, without botching it up. after having viewed this movie, i sat a while in my chair, watching the end credits play and listening to the music as it played along. not until the tape rewinded did i fully realise that i had watched a really good movie again, one that spoke on more levels than the simple obvious ones. if i were to speak of one of the main things in this movie that are so incredibly important, it's the fact that it speaks about people and society, and the patterns inherent in them. in the beginning, you see reese witherspoon in a normal 90's class situation, following what is a 'normal' situation in that environment. then she is dropped into pleasantville, and what happens? she loses all reference points towards a life that seems right to her; she misses her pattern in life. the first thing that happens is she tries to enforce it again, resulting in the start of the major happenings of the movie, and somewhere along the line, softly swerves away from it and finds another pattern. once she reads a book, and stays put reading in it while she could have gone out to 'do it', you know things have changed. william c. macy shows the same thing when he gets home, and his wife isn't there to greet him, and i could go on for ages to point to this, but i'd be overstepping my boundaries of these 1000 words, and definitely spoil someone elses movie experience. fact is, almost every single storyline in this movie is about change, change brought about because someone is stuck in a pattern and feels something is wrong, or through the self discovery that is inherent in every single one of us. not only that, it also shows how fear of breaking established patterns can bring out the worst, or get the upheaval that the major starts with his 'concerned citizens'. but even beyond all this, all the explanations and thought provoking issues that it brings up, if alone for the beauty of it and for the precious score that is attached, one should at least consider seeing it. i am personally a very jaded person concerning movies, having seen more than probably even a professional movie reviewer has seen taking my age as his career. even with that in mind, i thank my lucky stars for picking this up on a whim and getting a look at something that has taken me in more than most of the movies this year. several of the scenes are priceless, and as someone before commented, the drive through a black and white scenery with coloured blossom weaving through the soft winds will leave you breathless. in short, if you feel like watching a wonderful movie, catch this one and be impressed; try to follow the patterns every character exhibits and think about what the colour means in that sense, how it brings life back, how change is life.",
+         "PLEASANTVILLE had to be one of the biggest surprises I've ever had at the movies. This superbly mounted and completely winning fantasy starred Toby Maguire and Reese Witherspoon as a contemporary teenage brother and sister who are magically transported into a black and white television show called \"Pleasantville\", a show similar to \"Leave it to Beaver\" or \"I Love Lucy\", where everyone in the town knows each other, where the fire department only saves cats from trees and never put out fires and where there are no pages in the books or toilets in the bathrooms. Maguire's character is a \"Pleasantville\" trivia expert so he knows everyone there and everything that's going to happen but sis Witherspoon is a stranger in a strange land whose introduction of 1990's sensibilities to the citizens of this town brings about extraordinary changes. The film is beautifully made with a very smart screenplay and superb performances, the best of which is by Joan Allen, who is luminous as Betty, the mother in the sitcom who is shocked at first but learns to accept the 1990's coming to Pleasantville. Yes, it may borrow from other movies, but there is a freshness and originality to this movie that is most engaging and anytime with Don Knotts is time well spent.",
+         "The basic theme here being that the meaningful life requires breaking out of rigid, dull and conventional roles, this film's story sucks two teens back through their television set to a fictitious 1950s sitcom named \"Pleasantville,\" where life is in gray-tones until they start breaking the rules. The self-referential notion of having characters interact with the very media which represents them has its counterpart as far back as 1924 with Buster Keaton in \"Sherlock Jr.,\" in 1970 with a low-budget film named \"The Projectionist,\" and in 1985 with Woody Allen's \"The Purple Rose of Cairo.\" But where the others explore the private experience of self-discovery through their enmeshment with the media, this one explores a much wider public awareness. In that sense it is a very cleaver and intelligent story, offering numerous social messages worthy of consideration. On the downside, its message that \"different\" is better mostly translates into \"contrary\" means better, providing an \"anything goes\" mentality in answer to conventional values. The rules are to be broken by gratuitous sex, loud music, and cheap garish art. Not \"transcending\" in answer to different, but rather setting up what is conventional today as more desirable than what was conventional back then. Exchanging one convention for another is not for that reason an improvement, and the attempt to do so results in a self-congratulatory narcissism of the form: See how much more urbane and sophisticated we are than our parents were? The 1950s are set up as a straw-man, while the values of the 1990s are simply taken for granted as superior. Hence the deeper questions of change, growth and improvement, are never asked, and what we are given merely puts the past down without bringing up the present."
+      ],
+      "genres": [
+         "Comedy",
+         "Drama",
+         "Fantasy"
+      ],
+      "productionCompanies": [
+         "New Line Cinema",
+         "Larger Than Life Productions"
+      ],
+      "summaries": [
+         "David, single, lonely and not happy with his life, flees reality by watching Pleasantville - a 1950's b&w soap opera, where everything is just that... pleasant. His sister Jennifer, sexually far more active than her brother, gets in a fight with him about a very strange remote control. The remote was given to them just seconds after the TV broke, by an equally strange repair man. They suddenly find themselves in Pleasantville, as Bud and Mary-Sue Parker, completely assimilated and therefore black and white, in clothes a little different and with new parents... pleasant ones. David wants to get out of the situation as well as his sister, but whereas he tries to blend in (effortlessly, with his knowledge), she does whatever she wants to do. One event leads to the other, and suddenly there is a red rose growing in Pleasantville. The more rules are broken, the more colorful life gets in Pleasantville, USA.",
+         "Two 1990s teenagers find themselves in a 1950s sitcom where their influence begins to profoundly change that complacent world."
+      ],
+      "budget": 40000000
+   },
+   "movielensId": 2321,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1998-09-17",
+      "dvdReleaseDate": "1999-05-23",
+      "directors": ["Gary Ross"],
+      "runtime": 124,
+      "movieId": 2321,
+      "title": "Pleasantville",
+      "mpaa": "PG-13",
+      "actors": [
+         "Tobey Maguire",
+         "Reese Witherspoon",
+         "William H. Macy",
+         "Joan Allen",
+         "Jeff Daniels",
+         "Don Knotts",
+         "Paul Walker",
+         "Jane Kaczmarek",
+         "J.T. Walsh",
+         "Marley Shelton",
+         "Giuseppe Andrews",
+         "Marissa Ribisi",
+         "Jason Behr",
+         "Jenny Lewis",
+         "Marc Blucas",
+         "Dawn Cody"
+      ],
+      "imdbMovieId": "0120789",
+      "originalTitle": "Pleasantville",
+      "genres": [
+         "Fantasy",
+         "Drama",
+         "Comedy"
+      ],
+      "youtubeTrailerIds": ["v9EHRObUQqY"],
+      "plotSummary": "Geeky teenager David and his popular twin sister, Jennifer, get sucked into the black-and-white world of a 1950s TV sitcom called \"Pleasantville,\" and find a world where everything is peachy keen all the time. But when Jennifer's modern attitude disrupts Pleasantville's peaceful but boring routine, she literally brings color into its life.",
+      "tmdbMovieId": 2657,
+      "avgRating": 3.55897,
+      "releaseYear": "1998",
+      "numRatings": 15880,
+      "posterPath": "/cKL23HqEEQis7Nbasr5kSyolbFZ.jpg"
+   }
+}

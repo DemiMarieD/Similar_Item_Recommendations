@@ -1,0 +1,992 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "ocean",
+            "id": 270
+         },
+         {
+            "name": "extraterrestrial technology",
+            "id": 1603
+         },
+         {
+            "name": "space marine",
+            "id": 1826
+         },
+         {
+            "name": "paranoia",
+            "id": 2340
+         },
+         {
+            "name": "alien",
+            "id": 9951
+         },
+         {
+            "name": "psychologist",
+            "id": 11268
+         },
+         {
+            "name": "ocean floor",
+            "id": 162350
+         },
+         {
+            "name": "deepsea",
+            "id": 162351
+         },
+         {
+            "name": "spaceship crash",
+            "id": 237591
+         }
+      ],
+      "imdb_id": "tt0120184",
+      "video": false,
+      "title": "Sphere",
+      "recommendations": [
+         2067,
+         8870,
+         6950,
+         8413,
+         2157,
+         9348,
+         9946,
+         12088,
+         9886,
+         8452,
+         2756,
+         846,
+         1551,
+         3595,
+         8843,
+         9425,
+         9383,
+         9922,
+         8656,
+         9294
+      ],
+      "backdrop_path": "/41c9Posihpr1acKmY1zfVle8yET.jpg",
+      "revenue": 37020277,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 11,
+               "character": "Dr. Norman Goodman",
+               "gender": 2,
+               "credit_id": "52fe43369251416c75007ce3",
+               "name": "Dustin Hoffman",
+               "profile_path": "/3pZx8NB30KIw31rBAT62TUDQFEb.jpg",
+               "id": 4483,
+               "order": 0
+            },
+            {
+               "cast_id": 12,
+               "character": "Dr. Elizabeth 'Beth' Halperin",
+               "gender": 1,
+               "credit_id": "52fe43369251416c75007ce7",
+               "name": "Sharon Stone",
+               "profile_path": "/n28skoawvqAymYr6gRSm2pfro0i.jpg",
+               "id": 4430,
+               "order": 1
+            },
+            {
+               "cast_id": 13,
+               "character": "Dr. Harry Adams",
+               "gender": 2,
+               "credit_id": "52fe43369251416c75007ceb",
+               "name": "Samuel L. Jackson",
+               "profile_path": "/AvCReLikjzYEf9XjTQxbv3JWgKT.jpg",
+               "id": 2231,
+               "order": 2
+            },
+            {
+               "cast_id": 14,
+               "character": "Captain Harold C. Barnes",
+               "gender": 2,
+               "credit_id": "52fe43369251416c75007cef",
+               "name": "Peter Coyote",
+               "profile_path": "/5zVvYZxE6T0OeL1iaFBBCzY3QOi.jpg",
+               "id": 9979,
+               "order": 3
+            },
+            {
+               "cast_id": 15,
+               "character": "Dr. Ted Fielding",
+               "gender": 2,
+               "credit_id": "52fe43369251416c75007cf3",
+               "name": "Liev Schreiber",
+               "profile_path": "/qFn3npmqd1qaYOk6yohmi3FbPhc.jpg",
+               "id": 23626,
+               "order": 4
+            },
+            {
+               "cast_id": 16,
+               "character": "Alice 'Teeny' Fletcher",
+               "gender": 1,
+               "credit_id": "52fe43369251416c75007cf7",
+               "name": "Queen Latifah",
+               "profile_path": "/ht52no1SMDhYBwRAmWL9a5YCss1.jpg",
+               "id": 15758,
+               "order": 5
+            },
+            {
+               "cast_id": 24,
+               "character": "Jane Edmunds",
+               "gender": 0,
+               "credit_id": "5628a701c3a3684880001447",
+               "name": "Marga Gómez",
+               "profile_path": "/oLWYouKIajWsIHnDiSalU4fI12m.jpg",
+               "id": 1525534,
+               "order": 6
+            },
+            {
+               "cast_id": 25,
+               "character": "Helicopter Pilot",
+               "gender": 2,
+               "credit_id": "5628a70d9251414ccd00131f",
+               "name": "Huey Lewis",
+               "profile_path": "/5x30rIs9NnV4r1AUMpPIhw9UhgQ.jpg",
+               "id": 168702,
+               "order": 7
+            },
+            {
+               "cast_id": 26,
+               "character": "Seaman",
+               "gender": 2,
+               "credit_id": "5628a71c9251414cdb0013ee",
+               "name": "Bernard Hocke",
+               "profile_path": "/hb7Poj1clhZJFSWxNlF81LH5wlx.jpg",
+               "id": 132434,
+               "order": 8
+            },
+            {
+               "cast_id": 27,
+               "character": "O.S.S.A. Instructor",
+               "gender": 2,
+               "credit_id": "5628a72bc3a368487d0014a7",
+               "name": "James Pickens Jr.",
+               "profile_path": "/iddDcaysDQ6IVMUjJ97Bv3lTBCu.jpg",
+               "id": 25544,
+               "order": 9
+            },
+            {
+               "cast_id": 28,
+               "character": "O.S.S.A. Official",
+               "gender": 2,
+               "credit_id": "5628a7429251414ccd001328",
+               "name": "Michael Keys Hall",
+               "profile_path": "/zxMK53ViYb8jYY9V4gjCCEZ4z2G.jpg",
+               "id": 172677,
+               "order": 10
+            },
+            {
+               "cast_id": 29,
+               "character": "O.S.S.A. Official",
+               "gender": 2,
+               "credit_id": "5628a7519251414cd200140a",
+               "name": "Ralph Tabakin",
+               "profile_path": "/e1zRb4ND5XOZ6YmKzOqTHNNsuNv.jpg",
+               "id": 75205,
+               "order": 11
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe43369251416c75007ca9",
+               "name": "Barry Levinson",
+               "profile_path": "/AvPOBBODhSCtUJAqxeq2s0nYnTw.jpg",
+               "id": 8246,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43369251416c75007caf",
+               "name": "Michael Crichton",
+               "profile_path": "/lAQ6LYkhdVxa2tDSCOGxQZ3t0wO.jpg",
+               "id": 4782,
+               "department": "Writing",
+               "job": "Author"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe43369251416c75007cb5",
+               "name": "Stephen Hauser",
+               "profile_path": null,
+               "id": 64028,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43369251416c75007cbb",
+               "name": "Paul Attanasio",
+               "profile_path": "/b1kDQeND9wLhIOhowtqrZG6Alkr.jpg",
+               "id": 45543,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43369251416c75007cc1",
+               "name": "Michael Crichton",
+               "profile_path": "/lAQ6LYkhdVxa2tDSCOGxQZ3t0wO.jpg",
+               "id": 4782,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43369251416c75007cc7",
+               "name": "Barry Levinson",
+               "profile_path": "/AvPOBBODhSCtUJAqxeq2s0nYnTw.jpg",
+               "id": 8246,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe43369251416c75007ccd",
+               "name": "Andrew Wald",
+               "profile_path": null,
+               "id": 64029,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43369251416c75007cd3",
+               "name": "Elliot Goldenthal",
+               "profile_path": "/mr1rr5bQySCwp564E1Ag363SgLH.jpg",
+               "id": 5581,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43369251416c75007cd9",
+               "name": "Adam Greenberg",
+               "profile_path": "/te3aqArBCPkza8DeJpDx0Rncen8.jpg",
+               "id": 2723,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43369251416c75007cdf",
+               "name": "Stu Linder",
+               "profile_path": null,
+               "id": 5166,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "53736c14c3a3681518001245",
+               "name": "Ellen Chenoweth",
+               "profile_path": null,
+               "id": 1484,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "53736c29c3a3681518001248",
+               "name": "Gloria Gresham",
+               "profile_path": null,
+               "id": 9255,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "53736c41c3a3681539001170",
+               "name": "Norman Reynolds",
+               "profile_path": null,
+               "id": 669,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "53736c56c3a36815300011be",
+               "name": "Mark W. Mansbridge",
+               "profile_path": null,
+               "id": 21070,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "53736c98c3a368152000116d",
+               "name": "Jonathan McKinstry",
+               "profile_path": null,
+               "id": 18989,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 1,
+               "credit_id": "53736cabc3a3681539001178",
+               "name": "Anne Kuljian",
+               "profile_path": null,
+               "id": 8706,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 2,
+               "credit_id": "53736d04c3a3681528001181",
+               "name": "James W. Tyson",
+               "profile_path": null,
+               "id": 1206905,
+               "department": "Costume & Make-Up",
+               "job": "Costume Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58c5663c9251411b3a00ac4a",
+               "name": "Allen D. Easton",
+               "profile_path": null,
+               "id": 1566832,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58c56664c3a3687d0200a3a6",
+               "name": "Gary Capo",
+               "profile_path": null,
+               "id": 57432,
+               "department": "Camera",
+               "job": "Second Unit Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58c56679c3a3687d0200a3b6",
+               "name": "P. Scott Sakamoto",
+               "profile_path": null,
+               "id": 1357066,
+               "department": "Camera",
+               "job": "Steadicam Operator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58c5668dc3a3687cdc009e71",
+               "name": "Brian Hamill",
+               "profile_path": "/ipkdNt295kdCw1I32XGZX5rVQC3.jpg",
+               "id": 1194262,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58c566a9c3a3687d41009a29",
+               "name": "Ian Fox",
+               "profile_path": null,
+               "id": 42032,
+               "department": "Camera",
+               "job": "Underwater Camera"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58c566f29251411b4000aa55",
+               "name": "Brad Emmons",
+               "profile_path": null,
+               "id": 1745316,
+               "department": "Lighting",
+               "job": "Rigging Gaffer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58c567069251411b3a00ad1c",
+               "name": "Ronald A. Miller",
+               "profile_path": null,
+               "id": 1749920,
+               "department": "Lighting",
+               "job": "Rigging Grip"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58c56740c3a3687cdc009f22",
+               "name": "Jeff Kunkel",
+               "profile_path": null,
+               "id": 1735929,
+               "department": "Camera",
+               "job": "Dolly Grip"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58c56752c3a3687d0200a473",
+               "name": "Charles John Bukey",
+               "profile_path": null,
+               "id": 1681341,
+               "department": "Camera",
+               "job": "Key Grip"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58c567779251411b3600ac5c",
+               "name": "Steven C. McGee",
+               "profile_path": null,
+               "id": 3976,
+               "department": "Lighting",
+               "job": "Chief Lighting Technician"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58c568179251411b4000ab76",
+               "name": "Adrienne Manhan",
+               "profile_path": null,
+               "id": 1536378,
+               "department": "Costume & Make-Up",
+               "job": "Key Costumer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "58c5685b9251411b5200ae06",
+               "name": "Heather Harris",
+               "profile_path": null,
+               "id": 1468036,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "58c56877c3a3687cdc00a024",
+               "name": "Julie Pitkanen",
+               "profile_path": null,
+               "id": 1371069,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58c568fec3a3687d3600a0a5",
+               "name": "Nicole Herr",
+               "profile_path": null,
+               "id": 1591436,
+               "department": "Visual Effects",
+               "job": "3D Animator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58c569279251411b3600adf4",
+               "name": "Walter F. Hyneman",
+               "profile_path": null,
+               "id": 1775017,
+               "department": "Crew",
+               "job": "CG Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58c5694c9251411b4400b2cd",
+               "name": "Robert Bardy",
+               "profile_path": null,
+               "id": 1620000,
+               "department": "Crew",
+               "job": "CGI Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58c5695e9251411b4c00aaad",
+               "name": "Fernando Benítez",
+               "profile_path": null,
+               "id": 1316104,
+               "department": "Crew",
+               "job": "CGI Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58c5696fc3a3687d2e00a077",
+               "name": "Michael Kory",
+               "profile_path": null,
+               "id": 1573115,
+               "department": "Crew",
+               "job": "CGI Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58c5698bc3a3687d3600a130",
+               "name": "Jeff Lin",
+               "profile_path": null,
+               "id": 1462687,
+               "department": "Crew",
+               "job": "CGI Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58c5699d9251411b4000acdd",
+               "name": "Jason Wardle",
+               "profile_path": null,
+               "id": 1430490,
+               "department": "Crew",
+               "job": "CGI Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58c56a18c3a3687d1e00a51c",
+               "name": "Tim Gibbons",
+               "profile_path": null,
+               "id": 1775018,
+               "department": "Visual Effects",
+               "job": "Roto Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58c56aafc3a3687d3600a285",
+               "name": "Karen Klein",
+               "profile_path": null,
+               "id": 1591437,
+               "department": "Visual Effects",
+               "job": "Roto Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58c56ad69251411b4000ae67",
+               "name": "Richard O. Helmer",
+               "profile_path": null,
+               "id": 1411266,
+               "department": "Visual Effects",
+               "job": "Special Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58c56af2c3a3687d2e00a213",
+               "name": "Rod Basham",
+               "profile_path": null,
+               "id": 1775022,
+               "department": "Crew",
+               "job": "Visual Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58c56b07c3a3687cdc00a2ea",
+               "name": "Aaron Dem",
+               "profile_path": null,
+               "id": 1516079,
+               "department": "Visual Effects",
+               "job": "Visual Effects Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58c56b2bc3a3687cdc00a310",
+               "name": "Lydia Bottegoni",
+               "profile_path": null,
+               "id": 1118709,
+               "department": "Visual Effects",
+               "job": "Visual Effects Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58c56b4c9251411b7300ab95",
+               "name": "Jeffrey A. Okun",
+               "profile_path": null,
+               "id": 16739,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58c56b61c3a3687d3600a346",
+               "name": "Carlos Arguello",
+               "profile_path": null,
+               "id": 1591434,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58c56b9e9251411b4c00ad57",
+               "name": "Mark Boley",
+               "profile_path": null,
+               "id": 1775025,
+               "department": "Costume & Make-Up",
+               "job": "Hair Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58c56bbd9251411b3a00b265",
+               "name": "John Quaglia",
+               "profile_path": null,
+               "id": 1523419,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58c56bed9251411b3600b149",
+               "name": "Michael White",
+               "profile_path": null,
+               "id": 1428908,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58c56c019251411b4400b62b",
+               "name": "Catherine Childers",
+               "profile_path": null,
+               "id": 1460739,
+               "department": "Costume & Make-Up",
+               "job": "Key Hair Stylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58c56c219251411b4c00ae03",
+               "name": "Allan A. Apone",
+               "profile_path": null,
+               "id": 102343,
+               "department": "Costume & Make-Up",
+               "job": "Key Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58c56c389251411b5200b249",
+               "name": "Marietta Carter-Narcisse",
+               "profile_path": null,
+               "id": 9775,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58c56c6a9251411b5200b280",
+               "name": "Robert Ryan",
+               "profile_path": null,
+               "id": 1341847,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58c56c8c9251411b4400b703",
+               "name": "Tricia Sawyer",
+               "profile_path": null,
+               "id": 1457720,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58c56c9dc3a3687d1e00a84f",
+               "name": "June Westmore",
+               "profile_path": null,
+               "id": 1712068,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58c56cc3c3a3687d0200aa51",
+               "name": "Mark Daily",
+               "profile_path": null,
+               "id": 1775028,
+               "department": "Editing",
+               "job": "First Assistant Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58c56ce9c3a368410c000008",
+               "name": "Mo Henry",
+               "profile_path": null,
+               "id": 1733132,
+               "department": "Editing",
+               "job": "Negative Cutter"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58c56d62c3a3684120000068",
+               "name": "Lindakay Brown",
+               "profile_path": null,
+               "id": 1449172,
+               "department": "Sound",
+               "job": "ADR Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58c56d6b9251411d1900008f",
+               "name": "Lindakay Brown",
+               "profile_path": null,
+               "id": 1449172,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58c56d7bc3a36840f6000082",
+               "name": "Claire Sanfilippo",
+               "profile_path": null,
+               "id": 1438399,
+               "department": "Sound",
+               "job": "ADR Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58c56d85c3a368412000008c",
+               "name": "Claire Sanfilippo",
+               "profile_path": null,
+               "id": 1438399,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58c56d9b9251411d470000c2",
+               "name": "Gary Thomas",
+               "profile_path": null,
+               "id": 1775030,
+               "department": "Sound",
+               "job": "Boom Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58c56dac9251411d550000e2",
+               "name": "Dennie Thorpe",
+               "profile_path": null,
+               "id": 8160,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58c56dbcc3a36840b80000da",
+               "name": "Jana Vance",
+               "profile_path": null,
+               "id": 8163,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58c56dce9251411d620000f4",
+               "name": "Richard Beggs",
+               "profile_path": null,
+               "id": 2889,
+               "department": "Sound",
+               "job": "Sound Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58c56de1c3a36841300000e0",
+               "name": "J.R. Grubbs",
+               "profile_path": null,
+               "id": 1414177,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58c56df2c3a36841200000f7",
+               "name": "Mary Helen Leasman",
+               "profile_path": null,
+               "id": 1552883,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58c56e12c3a368413b0000fb",
+               "name": "Marian Wilde",
+               "profile_path": null,
+               "id": 1413167,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58c56e279251411d62000152",
+               "name": "Lora Hirschberg",
+               "profile_path": null,
+               "id": 1327030,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58c56e3a9251411d62000168",
+               "name": "Tom Johnson",
+               "profile_path": null,
+               "id": 3996,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58c56e5bc3a3684120000158",
+               "name": "Michael Silvers",
+               "profile_path": null,
+               "id": 8158,
+               "department": "Sound",
+               "job": "Supervising Dialogue Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58c56e6e9251411d6200019f",
+               "name": "Tim Holland",
+               "profile_path": null,
+               "id": 8276,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            }
+         ]
+      },
+      "genres": [{
+         "name": "Science Fiction",
+         "id": 878
+      }],
+      "popularity": 8.802158,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 10153,
+      "vote_count": 596,
+      "budget": 80000000,
+      "overview": "The OSSA discovers a spacecraft thought to be at least 300 years old at the bottom of the ocean. Immediately following the discovery, they decide to send a team down to the depths of the ocean to study the space craft.They are the best of best, smart and logical, and the perfect choice to learn more about the spacecraft.",
+      "similar": [
+         1091,
+         20424,
+         602,
+         679,
+         601,
+         348,
+         10200,
+         49849,
+         126889,
+         228161,
+         16866,
+         840,
+         846,
+         9982,
+         34851,
+         8836,
+         395,
+         607,
+         608,
+         2675
+      ],
+      "original_title": "Sphere",
+      "runtime": 134,
+      "poster_path": "/jrjzPjKnpJq99GPePKf64k7Fzqh.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Punch Productions",
+            "id": 2154,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Baltimore Pictures",
+            "id": 11407,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Constant c Productions",
+            "id": 23370,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/6rFNo5taSC9i0Sxnl81nucQMsw9.png",
+            "name": "Warner Bros. Pictures",
+            "id": 174,
+            "origin_country": "US"
+         }
+      ],
+      "release_date": "1998-02-13",
+      "vote_average": 5.9,
+      "belongs_to_collection": null,
+      "tagline": "A thousand feet beneath the sea, the blackest holes are in the mind...",
+      "adult": false,
+      "homepage": "https://www.warnerbros.com/sphere",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Barry Levinson"],
+      "runtime": 134,
+      "synopsis": "Dr. Norman Goodman (Dustin Hoffman) is called to a location in the Pacific Ocean, for what he thinks is a plane crash. His specialty is psychiatry and dealing with crash survivors. The helicopter pilot (Huey Lewis - yes THAT Huey Lewis!) tells him they've been ferrying all kinds of scientists to this location. Onboard a naval ship, Norman sees astrophysicist Dr. Ted Fielding (Liev Schriber) and biochemist Dr. Beth Halperin (Sharon Stone), but is unable to talk to them. The ship's captain, Harold Barnes (Peter Coyote) briefs them - the plane crash is a spacecraft, a huge ship buried under 300 years of coral. In addition to Beth, Norman and Ted, mathematician Dr. Harry Adams (Samuel L. Jackson) is also on the contact team, which was recommended by Norman many years ago. The team goes through a medical examination, and a dive briefing by an instructor (James Pickens Jr.), who tells them there is \"no quick return to the surface\". The team takes a sub to the crash site habitat, and they all begin to exhibit signs of nervousness. It's clear that Norman and Beth have some history. The habitat is manned by Edmunds (Marga Gomez) and Alice Fletcher (Queen Latifah), who is directing a Navy dive team to set up a drone by the ship's door. The team puts on dive suits and walks on the seafloor to the spacecraft, and the door opens for them. Beth sees footprints in the dust, and Barnes splits them into 2 groups. Beth and Norman step onto an elevator, which takes them to the bridge. Ted, Harry and Barnes find English text and advanced metallurgy. Beth finds a human skeleton, and deduces the ship is American. The flight recorder shows dates from the future and an entry for \"Unknown Entry Event\". A holographic display reveals that the ship travelled through a black hole. The team finds a huge sphere in a cargo hold. The sphere doesn't reflect the team members, but everything else. Back in the habitat, Ted theorizes that the ship time-travelled through a black hole and arrived 300 years ago. Harry thinks the sphere is alive, and that since the future ship has no information about the black hole, the contact team will not get a chance to warn anyone; therefore, they are destined to die in the habitat. He also expresses a desire to get into the sphere. At the same time, Barnes gets a message that a cyclone is approaching topside, and the team must return to the surface before it hits. As the team is preparing to return, alarms go off, and video monitors show Harry entering the sphere through his reflection. Due to Harry's disappearance, the return to the surface is cancelled. Norman goes to the sphere, and finds Harry at its base, unconscious. Norman sees his reflection in the sphere, and communications with the surface are suddenly interrupted. Harry is taken back to the sphere, as is Norman. Norman sits gazing out a window, and sees a jellyfish. Fletcher takes some tapes to the mini-sub outside, and is attacked and killed by jellyfish. Beth later analyzes the jellyfish and determines it's not a normal one. Barnes questions Norman about Beth's mental state, and Harry wakes up from his coma, feeling exuberant and making comments about never leaving. He appears calm about Fletcher's death, but freaks out over calamari. Later, as Norman and Ted argue over Ted's jealousy on Harry, Edmunds bring the to the communications center, where the computers are acting strangely. Harry notices the codes on the computer are in binary code. After decryption, the messages reads, \"Hello. How are you. I am fine. What is your name? My name is Jerry.\" Norman worries that Jerry appears to have emotions, and what the repercussions would be if Jerry gets mad. Later, they hear noise outside the habitat, and Norman and Beth investigate, finding Edmunds' mangled body outside. Meanwhile, Harry reads 20,000 Leagues Under the Sea. Norman and Beth bring Edmunds' body back inside, and are attacked by strange egg shapes, with something large approaching. Norman tries to contact Jerry, and discovers Jerry can hear them directly. When Norman asks to talk without Jerry listening, and Jerry becomes petulant, and a large squid approaches the habitat. Jerry says (via computer) \"I am here,\" and the squid attacks. Ted bashes his head while adjusting the internal pressure, and Norman activate the external defense system, which causes a fire. As they rush to combat the fire, Jerry states, \"I will kill you all\". Ted tries to wake Harry, but can't. Barnes get crushed by an emergency door and Ted is killed by fire, then the fire suddenly is extinguished. After the emergency, Norman talks to Jerry, who exhibits a childlike understanding of life, but immense power. Jerry tells Norman to stop calling him \"Jerry\". Norman then talks to Harry, who is calm but unaware of the incidents. Norman goes to reset the mini-sub, but on the way back, he gets holes in his suit. Harry watches dispassionately and directs Norman to the airlock, but Norman is attacked by a sea snake. Beth goes into the spaceship, saying she's looking for food. Distrust arises among the 3 survivors, as Beth was supposed to be monitoring Norman during his trek. Norman finds another copy of 20,000 Leagues Under the Sea, and then the entire pantry is full of copies. Beth plants mines around the spaceship. Norman re-calculates the code, and realizes the \"j\" and \"e\" are incorrect - they should be \"h\" and \"a\", which means Jerry is actually Harry. Later, Norman explains this to Beth and also explains the squid - it's a part of 20,000 Leagues Under the Sea. Norman theorizes the sphere made the change in Harry. Beth and Harry plot to sedate Harry, and he goes under quickly. Beth and Harry get a signal from topside that a sub will arrive in 6 hours. Norman is attacked by sea snakes in the bathroom, but Beth saves him without emotion, saying Norman manifested the snakes. She locks him inside the lab and tells him to sedate himself. When he refuses, she flood the lab, and Norman goes outside the habitat, returning through the main airlock. Meanwhile, Beth begins to doubt her own sanity and Harry wakes up. Norman realizes that all 3 of them went into the sphere, and that is what happened to the original crew. The explosives Beth set become armed. With 13 minutes remaining, the 3 head to the mini-sub. Reality keeps changing, but Norman finds a way to launch the sub. The bombs explode, destroying the spaceship and habitat, but the mini-sub makes it to the surface. Several hours later, the 3 complete decompression, and discuss their story. Norman reminds Harry that they shouldn't be alive, since they made it to the surface, and could tell the authorities what happened. Harry suggests they use their power to forget that they have the power. They count to three, and the sphere rises from the deep and disappears into outer space. Beth, Harry and Norman have successfully forgotten their power...perhaps.",
+      "writers": [
+         "Michael Crichton",
+         "Kurt Wimmer"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0120184/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTUyNTE2MjEyNV5BMl5BanBnXkFtZTcwODQ0NTYxMQ@@._V1_SY317_CR7,0,214,317_AL_.jpg",
+      "actors": ["Stars: Dustin Hoffman, Sharon Stone, Samuel L. Jackson | See full cast and crew »"],
+      "reviews": [
+         "This is the rarest of action films - one that engages your intellect not just your senses. On the seabed in mid-ocean a huge vessel is discovered. A team is dispatched to investigate - and what they find is beyond belief. Admittedly there were a couple of scenes which I felt missed the intended realism of the film, and occasionally it seemed far too obvious what was going on, but the ending resolved everything beautifully. I suspect that fans of action films will feel let down by the thought necessary to follow this film, and fans of science fiction may well feel that after the first half hour there is a lack of a traditional sci-fi element. Many people I'm sure will feel that too little is explained, but the point of the film is that it doesn't need to be - the message of the ending is strong enough that we don't need explanation. I'd particularly recommend this film to anyone who likes psychological thrillers. I was fairly impressed by the action integrated in The Abyss, but Sphere far surpasses it in terms of plot. Most of all, if you like films that simply entertain, this is not for you. It's more about the reactions it causes in you when you follow the story. If you come away from this film unchanged, you've missed the point.",
+         "Sphere represents a new standard in science fiction. With a solid plot and good acting, it proves itself to be better than the stereotypical childish effects films. Director Barry Levinson provides great visuals that make the spooky underwater environment come alive. The film is a psycological mystery thriller that keeps you guessing to the very end. It has good dialogue and is more concerned with characters and their development than with cool looking ways of killing them off. Based on Michael Crichton's book, Sphere is a breath of fresh air in a genre that really needs it.",
+         "After reading many users' mixed comments on the movie..i can't help but feel that a majority have underrated the film. True it could have been better, especially in the latter half, but having read the book first, i did not feel it actually falling off midway like the way other viewers have described it. People who have read the novel will acknowledge that the movie does follow the novel fairly closely. Thus comments about Hoffman's role and the ending are unfair, since i feel they are the closest big-screen reproductions of one of Crichton's best works. I feel Stone's character was the role followed the weakest. Definitely the giant squid thrills are insufficient (note that Crichton devoted a good part of his novel describing encounters with 'the monster'). I guess animation artists were short budgeted...though the film as a whole still is a visual treat...and the atmosphere is rightly captured, with nice music. Overall, I think the movie is worth watching and is definitely of a much higher caliber than 'The Lost World'. It follows a psychological-cum-sci-fi thriller theme and i feel is better than the similar flick 'Abyss'. As from the novel's point-of-view...it could have been done better though. 8/10 stars!",
+         "When the military discover what they believe to be a spaceship at the bottom of the ocean they bring in Dr Norman Goodman who had once written a report on the protocol for an alien encounter. His report had named a team of experts \u0096 this team is also assembled. The team descend to the craft and begin to find some astonishing things about the craft. However when they find a huge golden sphere they begin to experience problems. Problems that become worse when a storm traps them at the bottom of the ocean. With a cast like this \u0096 you gotta have high hopes. With a director and a writer to match you deserve something fantastic! And for the most part this delivers. The build up is dark, mysterious and exciting. However once the sphere is found it goes downhill. It still has some really good moments \u0096 the jellyfish bit is scary and other actions bits are cool. But it gets all muddled up in what the sphere is and who is doing what on the base. It almost manages to hold together until the final half hour then it all just collapses like a flan in a cupboard! It's a shame because for the most part it felt like it was building to something much better, but no. The cast promised much but didn't deliver. Jackson was great, but I don't think he can be bad \u0096 even in a bad movie. Hoffman stutters around like he doesn't know what he's doing. I know he's meant to be playing a character that isn't used to heroics, but he doesn't bring anything. Stone is OK but at times looks like she reading her lines off a board. Coyote is OK and Schreiber is understated by his own hammy standards. It's also cool to see Queen Latifah in a role. Overall this is worth watching as for the majority it's real good. However you notice that the film has got 30 minutes left to go \u0096 make your excuses and leave, by then you've seen the best it has to offer.",
+         "Sphere is a science fiction film that starts off with a tremendously fascinating story and ignores all of the possibilities that it entails. Four people (you know the drill \u0096 a psychologist (Dustin Hoffman), a mathematician (Samuel L. Jackson), a biochemist (Sharon Stone) and an astrophysicist (Liev Schreiber)) are flown out to the middle of the ocean on a top-secret missions (even they don't know where they're going). We would be just as confused as they were about the details of their mission if we had never seen the previews, but even though we already know what they're going to find out there, it's just as interesting to learn about the details of this ship that has been found on the bottom of the ocean, and that appears to have been sitting there for 300 years (well, okay, 288). The story keeps getting better and better as we learn that there is a hum coming from the ship, indicating that there is still something running inside it, and then even more fascinating revelations once we are taken inside the ship. There can be no doubt that Sphere contains some truly interesting and entertaining elements, and that things like the acting are just as superb as we would expect from such a spectacular cast, but as the movie progresses, we begin to realize how little the film is going to reveal. I can't say that I wasn't completely enraptured for at the least the first hour of the film, but there were just as many bitterly disappointing things about it as there were good things. Dustin Hoffman and Samuel L. Jackson, in particular, delivered absolutely brilliant performances in this film, delivering some of the best entertainment in the entire film by themselves. There is a mildly interesting but completely unconvincing ex-romantic tension between Sharon Stone's character, Dr. Beth Halperin, and Dustin Hoffman's character, Dr. Norman Goodman, that is there for little other reason than to complicate the lives of the characters as they try to solve the mystery of this undersea ship. (spoilers) It's really too bad that the movie completely falls on its face in the second half, because the first half of the film is excellent and undeniably entertaining. There's nothing like a bit of time travel and the suggestion of extraterrestrial life to keep you entertained, and it is definitely a great scene when we find out that the ship is a human ship. This is one of the many things in the film that really makes you think. The thing that makes a great film is that it inspires thought. This is probably the one thing that all of the great films have in common with each other. There are surely a lot of things about Sphere that really make you think, which is another reason that the first half of the film is so good. We see that it's a human ship, which opens a whole new area of possibilities for the film. Harry (Samuel L. Jackson) speculates on the fact that the last entry in the ship's log is an entry into an `Unknown entry event,' indicating that they will never reach the surface to reveal what they've found. There is also a possibly over-extensive excursion into the realm of the psychological element in the film, as the characters are all made to face their fears, some of which are not just your average fears, such as Harry's strange fear of finishing 20,000 Leagues Under The Sea. The special effects are definitely nothing to brag about, but there are some interesting scenes that take place in the deep ocean, such as the death of Teeny Fletcher (hey, she's black, she had it coming, right?) in the midst of a mass of strange sea creatures, as well as the scene with the thousands of squid eggs. Weird looking things, I've wondered since I saw the film what kind of props they used for that scene. The conversation with `Jerry' is unfittingly childish, but there is definitely a significant element of tension introduced when Jerry gets mad, as well as the scene where Norman contemplated the implications of Jerry's expression of emotions, indicating his ability to get mad. There are undeniably a lot of interesting things about Sphere, and it surely has the power to entertain, but it goes off the track later in the film, maybe because it tried to answer too many of its questions. There are some unanswerable things in the film, and the movie deals with them by having the characters have a weakly-written discussion about their fears and questions, and their ultimate decision to `forget' what they know using the power that they seem to have gained from the sphere. While this answers the question of how it could have been an unknown entry event when they all made it to the surface, it's probably the weakest ending that the film could possibly have had. As a strange twist on the science fiction genre, Sphere succeeds, although only in the first half. Like Hollow Man, Sphere could have and should have been a much better film. The unfortunate fact about the film is that it contains a lot of very interesting and very entertaining things that are surely worth watching, but the disappointing ending almost makes them not even worth seeing.",
+         "Excellent! I went into the film thinking it would be bad, since that is what I had heard from someone before watching it. However, I was pleasantly surprised at what a terrific film this actually was. The only downfall to the film, was Dustin Hoffman. With all due respect to one of the best actors ever, he just wasn't suited for this particular role. He was good in it, but just not the right person for the job. The film begins with Dustin Hoffman flying over the Pacific Ocean in a helicopter, going to a Submarine investigating a plane crash. As a psychologist, he is impatiently waiting to speak to the survivors, and after having been on the sub for over 3 hours, is upset with the Capatain. However, the Captain informs him there was no plane crash, but rather an arrival of some sort not quite 300 years ago, under the Ocean. Sharon Stone, Leive Shreiber and Samuael L. Jackson join Hoffman as apart of his team, to go beneath the surface to discover and determine what it is exactly that they have found under the Pacific. With complete intensity and excitement non-stop throughout the entire film, it will leave you feeling a little disturbed at times, and perhaps a bit paranoid, also. I would advice anyone who does not have a liking to intense sci-fi type films...this is not going to be your cup of tea, but for those enjoy good horror, intensity and a great story line, you will definitely enjoy this flick!",
+         "The fourth Michael Crichton adaptation in line is quite a good one. After the blockbuster success of `Jurassic Park' and minor hits `Congo' and `The Lost World', `Sphere' matches up to theses levels. And with so much talent in store, it certainly is appealing. Academy Award winners Barry Levinson and Dustin Hoffman (who coincidentally won Oscars for the same film) and Oscar Nominees Sharon Stone and Samuel L. Jackson all headline the movie. The end result is relatively good, but with so much talent on board it could have been a bit better. However, the film succeeds in what attempts to do. There are ample scarifying chills along with a high enjoyability factor. The haunting suspense is soon followed by an equally chilling action. This is good because other chillers such as `The Sixth Sense' built up the suspense, but no action followed. For that film, the scares lost all their quality the second time round. But in `Sphere's' case, the suspense keeps its intensity every time. The film starts out very well whilst on the surface, but gradually it gets worse only to amount to a satisfying conclusion. The middle scenes aren't bad, but they're a bit too gloomy and eerie. Another quibble is the obvious lack of originality. The main plot of `Event Horizon', which was made the year before that, is quite similar to the plot of this. There are also bits and pieces of other science fictions such as `Alien' taken here and there. Luckily it takes the bests bits and leaves you on the edge of your seat. But the finished product isn't as nourishing as it should be. The plot can get complicated at times, but for the most part it's actually quite clever. And the glamorous cast of familiar faces insures that the movie never drags on. Dustin Hoffman is well cast as the calm, stable psychiatrist and makes a suitable lead. It's not her most challenging role, but Sharon Stone s believable as the kooky biochemist. She still hasn't received any tough roles after `Casino' though. The most complex character in the film, Samuel L. Jackson drops the usual machismo for some convincing scepticism and abnormal goofiness. The supporting cast including Leiv Shreiber, Queen Latifah and Peter Coyote do their parts adequately, not that they can do much with them. The directing is good as expected by a great director. Levinson beautifully creates the required intensity and the visuals are very impressive aswell. The glistering shimmer of the huge golden sphere of the title is a delight to gaze at. The stars flash and the plot sizzles. There are a few plot-holes that it falls into along with a bit of a sag in the middle. Nevertheless, `Sphere' is an impressive sci-fi horror that succeeds on almost every other level. My IMDb Rating: 6.8/10.",
+         "As I've heard from other people, the first half of the movie is good, and it is. But that doesnt mean that the second half of the movie isn't just as good. The second half is only interesting if you are patient, listen and watch carefully. The story is really about how our society is far from utopia, regardless of how intelligent and cultured we are. It opens windows of answers to so many problems that our society is facing every day.",
+         "I gave it a 9 due to the fact that they didn't explain everything out for me. So often I watch movies and can easily predict everything that is going on, and how it is going to turn out. This movie is not that way. Great suspense from beginning to end, and it will leave you thinking when it is over. If the writers/producers were to tell all about the plot, the best part of the movie (not being exactly sure what is going on) would be ruined. As they talk to the ''unknown'' creature through the computer, this gives the movie a much more eerie feel. A must watch for anyone who likes movies. Rent it or buy it today.",
+         "The psychiatrist Dr. Norman Goodman (Dustin Hoffman) travels from San Diego to the middle of nowhere in the Pacific Ocean to help survivors of a plane crash. Soon he learns that he was actually summoned by Captain Harold C. Barnes (Peter Coyote) to team-up with the biochemistry Dr. Elizabeth 'Beth' Halperin (Sharon Stone); the mathematician Dr. Harry Adams (Samuel L. Jackson); and the astrophysical Dr. Ted Fielding (Liev Schreiber) to investigate an unknown life form in a spacecraft that crashed two hundred and eighty-eight years ago. The team saturates with helium to travel to a base close to the UFO 1,000 feet below the ocean and operated by the military Alice 'Teeny' Fletcher (Queen Latifah) and Jane Edmunds (Marga Gómez). Barnes, Norman, Beth, Harry and Ted go to the spaceship and discover that it is terrestrial from the future. Further, the computer indicates an Unknown Entry Event, probably a Black Hole that brought the spaceship to the past. Harry uses logic and concludes that if the crew had never heard anything about their discovery in the present days, they will probably dies. But they all are intrigued with a mysterious sphere inside the spacecraft. There is a storm in the surface and the fleet must leave the area, leaving Barnes and his team without communication. Harry sneaks out and enters in the sphere and then his manifestations come to life threatening the group. Will they survive to the power of the mysterious sphere? I saw \"Sphere\" on the late 90's but I did not like it. Yesterday I saw it again, now on DVD, and this time I found it a sci-fi with an intelligent story but with a terrible direction. The greatest problem are the characters that are unpleasant, unlikable and emotionally detached and without feelings. The situation of the fleet leaving the area due to a storm but without leaving a submarine in the area to give support to the group is also a great flaw in the story. This screenplay in the hands of Spielberg or James Cameron could have been a great film. My vote is six. Title (Brazil): \"Esfera\" (\"Sphere\")"
+      ],
+      "genres": [
+         "Drama",
+         "Mystery",
+         "Sci-Fi",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "Warner Bros.",
+         "Baltimore Pictures",
+         "Constant c Productions"
+      ],
+      "summaries": [
+         "1000 feet below the ocean, navy divers discover an object half-a-mile long. A crack team of scientists are deployed to the site in Deepsea Habitats. What they find boggles the mind as they discover a perfect metal sphere. What is the secret behind the sphere? Will they survive the mysterious 'manifestations'? Who or what is creating these? They may never live to find out.",
+         "The psychiatrist Dr. Norman Goodman travels from San Diego to the middle of nowhere in the Pacific Ocean to help survivors of a plane crash. Soon he learns that he was actually summoned by Captain Harold C. Barnes to team-up with the biochemistry Dr. Elizabeth 'Beth' Halperin; the mathematician Dr. Harry Adams; and the astrophysical Dr. Ted Fielding to investigate an unknown life form in a spacecraft that crashed two hundred and eighty-eight years ago. The team saturates with helium to travel to a base close to the UFO 1,000 feet below the ocean and operated by the military Alice 'Teeny' Fletcher and Jane Edmunds. Barnes, Norman, Beth, Harry and Ted go to the spaceship and discover that it is terrestrial from the future. Further, the computer indicates an Unknown Entry Event, probably a Black Hole that brought the spaceship to the past. Harry uses logic and concludes that if the crew had never heard anything about their discovery in the present days, they will probably dies. But they all are intrigued with a mysterious sphere inside the spacecraft. There is a storm in the surface and the fleet must leave the area, leaving Barnes and his team without communication. Harry sneaks out and enters in the sphere and then his manifestations come to life threatening the group. Will they survive to the power of the mysterious sphere?",
+         "In the middle of the South Pacific, a thousand feet below the surface of the water, a huge vessel rests on the ocean floor. Rushed to the scene is a group of American scientists who descend to the depths of the sea to investigate this astonishing discovery. What they find defies their imaginations and mocks their attempts at logical explanation. It is a massive spaceship, undamaged from it's fall from the sky-and at least three hundred years old.",
+         "A spaceship is discovered under three hundred years' worth of coral growth at the bottom of the ocean."
+      ],
+      "budget": 75000000
+   },
+   "movielensId": 1779,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1998-02-13",
+      "dvdReleaseDate": "1998-07-14",
+      "directors": ["Barry Levinson"],
+      "runtime": 134,
+      "movieId": 1779,
+      "title": "Sphere",
+      "mpaa": "PG-13",
+      "actors": [
+         "Dustin Hoffman",
+         "Sharon Stone",
+         "Samuel L. Jackson",
+         "Peter Coyote",
+         "Liev Schreiber",
+         "Queen Latifah",
+         "Marga Gómez",
+         "Huey Lewis",
+         "Bernard Hocke",
+         "James Pickens Jr.",
+         "Michael Keys Hall",
+         "Ralph Tabakin"
+      ],
+      "imdbMovieId": "0120184",
+      "originalTitle": "Sphere",
+      "genres": ["Science Fiction"],
+      "youtubeTrailerIds": ["G0hBmpHOO5I"],
+      "plotSummary": "The OSSA discovers a spacecraft thought to be at least 300 years old at the bottom of the ocean. Immediately following the discovery, they decide to send a team down to the depths of the ocean to study the space craft.They are the best of best, smart and logical, and the perfect choice to learn more about the spacecraft.",
+      "tmdbMovieId": 10153,
+      "avgRating": 2.88028,
+      "releaseYear": "1998",
+      "numRatings": 7179,
+      "posterPath": "/jrjzPjKnpJq99GPePKf64k7Fzqh.jpg"
+   }
+}

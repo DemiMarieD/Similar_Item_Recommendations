@@ -1,0 +1,761 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "cinderella",
+            "id": 995
+         },
+         {
+            "name": "musical",
+            "id": 4344
+         }
+      ],
+      "imdb_id": "tt0075232",
+      "video": false,
+      "title": "The Slipper and the Rose",
+      "recommendations": [
+         310578,
+         33454,
+         59297,
+         50926,
+         38471,
+         58799,
+         36751,
+         83671,
+         33738,
+         281955,
+         38470,
+         38472,
+         38463,
+         31736,
+         18262,
+         23305,
+         24923,
+         63439,
+         33394,
+         48741
+      ],
+      "backdrop_path": "/fDiWfa6w8KQyJc8us9BjG2unPBG.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 14,
+               "character": "Cinderella",
+               "gender": 0,
+               "credit_id": "52fe46b29251416c7508079d",
+               "name": "Gemma Craven",
+               "profile_path": "/z8pdPcMVKSS5VzA4TZcnz0yRYNb.jpg",
+               "id": 93327,
+               "order": 0
+            },
+            {
+               "cast_id": 8,
+               "character": "Stepmother",
+               "gender": 1,
+               "credit_id": "52fe46b29251416c75080785",
+               "name": "Margaret Lockwood",
+               "profile_path": "/91N940cyvdPV4clTmCREX0kKBZk.jpg",
+               "id": 14298,
+               "order": 1
+            },
+            {
+               "cast_id": 13,
+               "character": "King",
+               "gender": 2,
+               "credit_id": "52fe46b29251416c75080799",
+               "name": "Michael Hordern",
+               "profile_path": "/jvy4gJc9cS1MJPgHJXefRUYGUYJ.jpg",
+               "id": 39741,
+               "order": 2
+            },
+            {
+               "cast_id": 10,
+               "character": "Dowager Queen",
+               "gender": 0,
+               "credit_id": "52fe46b29251416c7508078d",
+               "name": "Edith Evans",
+               "profile_path": "/pgh3b57bVnw20RAIfUVEwPpIZp6.jpg",
+               "id": 45465,
+               "order": 3
+            },
+            {
+               "cast_id": 7,
+               "character": "John",
+               "gender": 2,
+               "credit_id": "52fe46b29251416c75080781",
+               "name": "Christopher Gable",
+               "profile_path": null,
+               "id": 93325,
+               "order": 4
+            },
+            {
+               "cast_id": 4,
+               "character": "Fairy Godmother",
+               "gender": 1,
+               "credit_id": "52fe46b29251416c75080775",
+               "name": "Annette Crosbie",
+               "profile_path": "/zyJoATs8gljRATDdlUY5Eg2Lbci.jpg",
+               "id": 55688,
+               "order": 5
+            },
+            {
+               "cast_id": 11,
+               "character": "Chamberlain",
+               "gender": 2,
+               "credit_id": "52fe46b29251416c75080791",
+               "name": "Kenneth More",
+               "profile_path": "/ttaEGyTDjru0Vps13Ub3iD8iymR.jpg",
+               "id": 67676,
+               "order": 6
+            },
+            {
+               "cast_id": 1,
+               "character": "Palatine",
+               "gender": 0,
+               "credit_id": "52fe46b29251416c75080769",
+               "name": "Sherrie Hewson",
+               "profile_path": null,
+               "id": 79897,
+               "order": 7
+            },
+            {
+               "cast_id": 2,
+               "character": "Major-Domo",
+               "gender": 0,
+               "credit_id": "52fe46b29251416c7508076d",
+               "name": "John Turner",
+               "profile_path": "/e6bQG0Q1UsOH1hVtRtyVAli8V6H.jpg",
+               "id": 75781,
+               "order": 8
+            },
+            {
+               "cast_id": 3,
+               "character": "Isobella",
+               "gender": 1,
+               "credit_id": "52fe46b29251416c75080771",
+               "name": "Rosalind Ayres",
+               "profile_path": "/88x5YPkTNV0gxlRFegLYB8jTXoX.jpg",
+               "id": 29796,
+               "order": 9
+            },
+            {
+               "cast_id": 5,
+               "character": "Willoughby",
+               "gender": 0,
+               "credit_id": "52fe46b29251416c75080779",
+               "name": "Keith Skinner",
+               "profile_path": null,
+               "id": 24720,
+               "order": 10
+            },
+            {
+               "cast_id": 6,
+               "character": "Lady Caroline",
+               "gender": 0,
+               "credit_id": "52fe46b29251416c7508077d",
+               "name": "Polly Williams",
+               "profile_path": null,
+               "id": 93324,
+               "order": 11
+            },
+            {
+               "cast_id": 9,
+               "character": "Montague",
+               "gender": 0,
+               "credit_id": "52fe46b29251416c75080789",
+               "name": "Julian Orchard",
+               "profile_path": null,
+               "id": 92697,
+               "order": 12
+            },
+            {
+               "cast_id": 12,
+               "character": "Queen",
+               "gender": 1,
+               "credit_id": "52fe46b29251416c75080795",
+               "name": "Lally Bowers",
+               "profile_path": null,
+               "id": 93326,
+               "order": 13
+            },
+            {
+               "cast_id": 15,
+               "character": "Prince",
+               "gender": 2,
+               "credit_id": "52fe46b29251416c750807a1",
+               "name": "Richard Chamberlain",
+               "profile_path": "/1EkhXGn1Z3obHsOnJTA5SWEJicN.jpg",
+               "id": 28906,
+               "order": 14
+            },
+            {
+               "cast_id": 35,
+               "character": "Dress Shop Proprieter",
+               "gender": 2,
+               "credit_id": "597dce329251415db10165db",
+               "name": "Norman Bird",
+               "profile_path": "/lHj58cWdvdkleI7lDTpRHnwqKP4.jpg",
+               "id": 16275,
+               "order": 15
+            },
+            {
+               "cast_id": 36,
+               "character": "General",
+               "gender": 2,
+               "credit_id": "597dce619251415d5d0162f0",
+               "name": "Peter Graves",
+               "profile_path": "/wsiIbv5AiA0gCqugv5s2g6iXV8D.jpg",
+               "id": 996744,
+               "order": 16
+            },
+            {
+               "cast_id": 37,
+               "character": "First Lord of the Navy",
+               "gender": 2,
+               "credit_id": "597dceaec3a3685397017a42",
+               "name": "Gerald Sim",
+               "profile_path": null,
+               "id": 91663,
+               "order": 17
+            },
+            {
+               "cast_id": 38,
+               "character": "Lady in Waiting to the Queen",
+               "gender": 0,
+               "credit_id": "597dcf389251415daa016014",
+               "name": "Elizabeth Mansfield",
+               "profile_path": null,
+               "id": 1860665,
+               "order": 18
+            },
+            {
+               "cast_id": 39,
+               "character": "Lady in Waiting to the Queen",
+               "gender": 1,
+               "credit_id": "597dcf6cc3a36853dd0145a0",
+               "name": "Ludmilla Nova",
+               "profile_path": null,
+               "id": 1733575,
+               "order": 19
+            },
+            {
+               "cast_id": 40,
+               "character": "Tailor",
+               "gender": 2,
+               "credit_id": "597dcfcfc3a36853dd0145f5",
+               "name": "Roy Barraclough",
+               "profile_path": null,
+               "id": 1225334,
+               "order": 20
+            },
+            {
+               "cast_id": 41,
+               "character": "Archbishop",
+               "gender": 2,
+               "credit_id": "597dd06bc3a3685397017c4c",
+               "name": "Geoffrey Bayldon",
+               "profile_path": "/tG2ZnaS99LEuLMoG7P6wepT6AGk.jpg",
+               "id": 123209,
+               "order": 21
+            },
+            {
+               "cast_id": 42,
+               "character": "Second Major Dorno",
+               "gender": 2,
+               "credit_id": "597dd0cdc3a3685417014e47",
+               "name": "Valentine Dyall",
+               "profile_path": "/mc1iqiiah72TBQwhjU33mKpz5Mh.jpg",
+               "id": 47480,
+               "order": 22
+            },
+            {
+               "cast_id": 43,
+               "character": "Minister",
+               "gender": 2,
+               "credit_id": "597dd1029251415daa016221",
+               "name": "Tim Barrett",
+               "profile_path": null,
+               "id": 214999,
+               "order": 23
+            },
+            {
+               "cast_id": 44,
+               "character": "Bride",
+               "gender": 1,
+               "credit_id": "597dd1519251415db1016945",
+               "name": "Vivienne McKee",
+               "profile_path": null,
+               "id": 167441,
+               "order": 24
+            },
+            {
+               "cast_id": 45,
+               "character": "Brides Father",
+               "gender": 2,
+               "credit_id": "597dd1be9251415d5d016679",
+               "name": "André Morell",
+               "profile_path": "/3YpAUiuLp9ZXL67W99W2XYdJ3se.jpg",
+               "id": 10029,
+               "order": 25
+            },
+            {
+               "cast_id": 46,
+               "character": "Brides Mother",
+               "gender": 1,
+               "credit_id": "597dd1f69251415d5d0166b9",
+               "name": "Myrtle Reed",
+               "profile_path": null,
+               "id": 153107,
+               "order": 26
+            },
+            {
+               "cast_id": 47,
+               "character": "Milk Maid",
+               "gender": 1,
+               "credit_id": "597dd2b19251415dba016262",
+               "name": "Jenny Lee Wright",
+               "profile_path": null,
+               "id": 146706,
+               "order": 27
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe46b29251416c750807a7",
+               "name": "David Frost",
+               "profile_path": "/37t15Z9jw2m5bLOQ0s4aT0evyRk.jpg",
+               "id": 93328,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe46b29251416c750807ad",
+               "name": "Stuart Lyons",
+               "profile_path": null,
+               "id": 93329,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46b29251416c750807bf",
+               "name": "Timothy Gee",
+               "profile_path": null,
+               "id": 66760,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe46b29251416c750807c5",
+               "name": "Michael Barnes",
+               "profile_path": null,
+               "id": 26129,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46b29251416c750807cb",
+               "name": "Ray Simm",
+               "profile_path": null,
+               "id": 10591,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe46b29251416c750807d7",
+               "name": "Bryan Forbes",
+               "profile_path": "/2jVyi8jPtZ84FTmVt7Zc6DxvB09.jpg",
+               "id": 31439,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe46b29251416c750807dd",
+               "name": "Bryan Forbes",
+               "profile_path": "/2jVyi8jPtZ84FTmVt7Zc6DxvB09.jpg",
+               "id": 31439,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46b29251416c750807e3",
+               "name": "Robert B. Sherman",
+               "profile_path": null,
+               "id": 5839,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46b29251416c750807e9",
+               "name": "Richard M. Sherman",
+               "profile_path": null,
+               "id": 5838,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe46b29251416c750807ef",
+               "name": "Julie Harris",
+               "profile_path": "/3GkMIV0cb3373xxd5eDba43T909.jpg",
+               "id": 10221,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56a78721c3a36819da0033d9",
+               "name": "Bert Davey",
+               "profile_path": null,
+               "id": 10183,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "597dd5269251415d8d0162cf",
+               "name": "John Downes",
+               "profile_path": null,
+               "id": 1418091,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53e54f46c3a368442d00010e",
+               "name": "Tony Imi",
+               "profile_path": null,
+               "id": 51914,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56a7870cc3a36819de003064",
+               "name": "Angela Morley",
+               "profile_path": null,
+               "id": 70667,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56a78753c3a36819c600369d",
+               "name": "George Courtney Ward",
+               "profile_path": null,
+               "id": 1568524,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56a78d9f92514129fb00353a",
+               "name": "Basil Newall",
+               "profile_path": null,
+               "id": 1568527,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Department Head"
+            },
+            {
+               "gender": 0,
+               "credit_id": "597dd3a5c3a36853f6016baa",
+               "name": "Eithne Fennel",
+               "profile_path": null,
+               "id": 11297,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "597dd3c9c3a368539701804e",
+               "name": "Paul Rabiger",
+               "profile_path": null,
+               "id": 20108,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 1,
+               "credit_id": "597dd421c3a3685408017a01",
+               "name": "Barbara Ritchie",
+               "profile_path": null,
+               "id": 958468,
+               "department": "Costume & Make-Up",
+               "job": "Key Hair Stylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "597dd475c3a36853dd014a90",
+               "name": "Joan White",
+               "profile_path": null,
+               "id": 1650017,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "597dd4a9c3a3685451015df9",
+               "name": "Jack Causey",
+               "profile_path": null,
+               "id": 41832,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "597dd5839251415db1016da7",
+               "name": "Leonhard Gmür",
+               "profile_path": null,
+               "id": 1860704,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "597dd671c3a3685397018368",
+               "name": "Jack Stephens",
+               "profile_path": null,
+               "id": 10614,
+               "department": "Art",
+               "job": "Set Dresser"
+            },
+            {
+               "gender": 0,
+               "credit_id": "597dd6b7c3a3685417015444",
+               "name": "Janet Davidson",
+               "profile_path": null,
+               "id": 1860710,
+               "department": "Sound",
+               "job": "Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "597dd6f19251415db1016f49",
+               "name": "Ray Caple",
+               "profile_path": null,
+               "id": 1403317,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "597dd79f9251415d5d016cd4",
+               "name": "Tony White",
+               "profile_path": null,
+               "id": 1433218,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "597dd8a9c3a36853f6017137",
+               "name": "Brenda Dabbs",
+               "profile_path": null,
+               "id": 1860717,
+               "department": "Costume & Make-Up",
+               "job": "Wardrobe Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "597dd8f19251415d61018022",
+               "name": "Robert Hathaway",
+               "profile_path": null,
+               "id": 5062,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "597dd9b4c3a3685417015782",
+               "name": "Marc Breaux",
+               "profile_path": null,
+               "id": 1471048,
+               "department": "Crew",
+               "job": "Choreographer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Music",
+            "id": 10402
+         },
+         {
+            "name": "Adventure",
+            "id": 12
+         },
+         {
+            "name": "Family",
+            "id": 10751
+         },
+         {
+            "name": "Fantasy",
+            "id": 14
+         },
+         {
+            "name": "Romance",
+            "id": 10749
+         }
+      ],
+      "popularity": 1.417139,
+      "production_countries": [{
+         "iso_3166_1": "GB",
+         "name": "United Kingdom"
+      }],
+      "id": 16176,
+      "vote_count": 20,
+      "budget": 0,
+      "overview": "In the tiny kingdom of Euphrania, the King and his court are most anxious to get Prince Edward wed. But Edward wants to marry for love. Meanwhile, young Cinderella finds life drastically altered with her father's death as she's forced to be a servant in her own house. But a cheery fairy godmother helps her with her impossible tasks, and even gets her to take an evening out at the King's bride-fin",
+      "similar": [
+         812,
+         10530,
+         872,
+         11224,
+         38757,
+         224141,
+         14128,
+         16119,
+         9479,
+         10882,
+         15121,
+         9325,
+         252,
+         3933,
+         15969,
+         46195,
+         11970,
+         10020,
+         10674,
+         630
+      ],
+      "original_title": "The Slipper and the Rose",
+      "runtime": 146,
+      "poster_path": "/lxPdLUn0ssIhD7TVZHCwTR22nbY.jpg",
+      "spoken_languages": [{
+         "name": "Italiano",
+         "iso_639_1": "it"
+      }],
+      "production_companies": [{
+         "logo_path": null,
+         "name": "Paradine Co-Productions",
+         "id": 48941,
+         "origin_country": ""
+      }],
+      "release_date": "1976-03-24",
+      "vote_average": 7.1,
+      "belongs_to_collection": null,
+      "tagline": "You'll forget every other love story you ever saw . . . or sang to.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "UK",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Bryan Forbes"],
+      "runtime": 146,
+      "synopsis": null,
+      "writers": [
+         "Bryan Forbes",
+         "Robert B. Sherman"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0075232/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTYxMzk4MDM5NF5BMl5BanBnXkFtZTcwOTU1NDcyMQ@@._V1_SY317_CR6,0,214,317_AL_.jpg",
+      "actors": ["Stars: Gemma Craven, Margaret Lockwood, Michael Hordern | See full cast and crew »"],
+      "reviews": [
+         "\"The Slipper And The Rose\" is a beautiful version of the classic Cinderella story. Made in England and released in 1976, it retells the familiar story with warmth, humor and wonderful songs by the Sherman brothers, who also did the music for countless Disney films, notably \"Mary Poppins\". Prince Edward (Richard Chamberlain), heir to the throne of Euphrania, is expected by his father the king (Michael Hordern in another wonderful performance) and his mother the queen (Lally Bowers) to choose a wife and settle down. To this end, they plan a court ball to which all the princesses they can locate will be invited. Meanwhile, young Cinderella (Gemma Craven) has just lost her beloved father. But things go from bad to worse for her, when her selfish stepmother (the great Margaret Lockwood, in her first film in over 20 years, and her last) and spoiled stepsisters (Rosalind Ayres and Sherrie Hewson) reduce her to the status of a servant in her own home. Thankfully, however, her fairy godmother (Annette Crosbie) is waiting in the wings to see that she goes to the ball and meet the prince. The rest is up to them... With an excellent cast and fine support from Kenneth More, as the Lord Chamberlain, Christopher Gable as the prince's friend John, and especially Dame Edith Evans as the dowager Queen, \"The Slipper and the Rose\" is magical film-making.A few twists in the story keep it fresh, while all the charm of the original is preserved. The lavish production, handsome location photography beautiful costumes and a witty, sophisticated script has appeal for all ages.And enough cannot be said for the Sherman's music, which is, in turn, delightful, hilarious and, when the occasion calls for it, heartbreaking. Craven's ballad ''Tell Him Anything-But Not That I Love Him''is a perfect example of the latter. This film just gets better as the years pass,and it's truly one of the best film versions of \"Cinderella\" ever made.",
+         "The Slipper and The Rose is a beautiful version of the Cinderella story with picturesque scenery, excellent design and costume and lots of 70's soft-focus romantic-type shooting. This isn't a run-of-the-mill Cinderella story. You actually get some depth of character motivation. The characters are generally extremely believable - the \"wicked\" stepmother not being hideous enough for one to question why anyone would marry her and the \"ugly\" sisters, both slim and quite pretty, but instead ugly from the inside. This film is brilliantly cast with some of the finest British actors/comedy actors of all time (Kenneth More, Annette Crosbie to name two!). Richard Chamberlain acts, dances, sings! Gemma Craven is radiant. She has a beautiful voice and does a great job with a very passive character. Let's face it, in the traditional story of Cinderella (as this is), she doesn't really make any decisions except that she might quite like to go to the ball. It's just great to see people cast on ability, not solely looks/cleavage/plastic surgery, (although I suppose the features all fit a certain time-period of what was considered beautiful.) The script is very witty and intelligent and I love the songs.. Fantastic music. Lyrics aren't dumbed down at all! Words of more than one syllable. What other musical has a song with the title \"Protocoligorically Correct\" in it? None, I should imagine! Incidentally, I believe Sherman & Sherman who did the songs/music also did Mary Poppins (i.e. supercalifragilisticexpialadocious). Perhaps they just like long words. This is believable escapism, and apart from the odd haircut here and there and occasional choreography, doesn't really date. I love it. It's magical. A great family film.",
+         "My parents taped this movie from TV for me when I was young, and it has always remained one of my favorites. I've worn the tape out over the years, because even now that I'm a (supposed) grown up, I still get the urge to go back and watch again and again. The film is beautiful, filmed on location in Europe (Austria, I think?) with a whimsical and richly romantic air. What I love most about this movie is that it makes the effort to flesh out the characters into three dimensional figures and to set against an (at least plausible) historical backdrop, while still maintaining a tiny bit of tongue-in-cheek self-awareness--a live-action period piece that enjoys the fact that it's really a fairytale and a musical. I've always thought that gave it just a hint of sophistication. The movie also explores more of the complexities of the stories and the characters' motivations. It carries us past the classic \"slipper\" moment and allows for a more complete ending, which I found more fulfilling. As for the characters themselves, I loved Cinderella, neither the modernized girl-power of \"Ever After\" (which I loved, by the way) nor the blank goody-goody-ness of the Disney classic, but a very human and lovely blend of the two--with a gorgeous voice thrown in for good measure. Prince Edward, played flawlessly by Richard Chamberlain, gives us a hero to root for, in addition to our traditional heroine. You don't just wait for her to be found, you cheer for each of them to find the other. The rest of the cast is filled in with real people that the viewer comes to care for and value in the story almost as much as the main pair. You are not left with the typical stock characters that you see so often in fairy tales. I especially loved the Fairy Godmother, the Prince's Companion, the Chamberlain, the senile King, the Dowager queen...okay, I really love them all. Even the dog. :) I despaired of every finding a \"real\" copy on VHS until recently. The VHS retained a few scenes that were edited from the TV version (I assume) for time, and I have to say I think that I liked the short version better. I thought that the it flowed more smoothly, and I found that I did not miss the musical numbers they cut. I was especially disappointed with \"Find a Mate\" (yes, they're serious) and the scene in the Fairy Godmother's house...very contrived and corny. They really don't equal the rest of the film. Although the Prince's prayer at the end is wonderful, and was cut from the TV version. All in all, I just have to say that I love this movie, and always will.",
+         "This story of Cinderella is the best version I have ever ever seen. Richard Chamberlain is wonderful and Gemma Craven is positively charming. Filmed partly on location in Austria, the scenery is beautiful and the sets and costumes very authentic. Part of what makes this movie so great is that the music helps tell the story. The music is beautiful and the lyrics, although at times very comical, are very important in building the characters, and expressing their emotions. Perhaps one of the most interesting points of this movie is the fact that they address the question of Cinderella not being of Royal blood. It actually adds a nice twist to the story, but of course, Cinderella eventually gets her Prince. This brilliant musical has been my ultimate favorite since I was about 12 years old. And at long last, it is finally coming to VHS and DVD.",
+         "Picture my little sister and I dancing around our living room, gleefully singing and delighting in the wonderful Cinderella-story called The Slipper and the Rose. Add to the picture the fact that we were living at the time in the depths of Africa, Kinshasa, Zaire to be specific. It makes a funny picture- two little American girls in the middle of Africa madly in love with Prince Edward (Richard Chamberlain) and his right hand man John (Christopher Gable). To this day (we're now in our mid-20s and living in the States) The Slipper and the Rose continues to be one of our biggest in-jokes. We rejoice in the fact that we know every line, complete with the gaudy inflections of the wicked step-sisters and the droll intonation of the King and Queen. I will proudly admit that we show no shame in breaking out in complete renditions of songs such as \"Position and positioning.\" which is the perfect song to accompany laundry-folding. We still howl with laughter at how much we love The Slipper and the Rose. Although, the movie is a musical, it is by no means a 'fluff' version of the Cinderella Story. Much like Ever After, the more recent Cinderella film starring Drew Barrymore, The Slipper and the Rose approaches the tale with a vigorous bite. It fulfills everything that makes Cinderella the compelling fairytale that it is. The wicked Step Mother and her two vile daughters are truly vicious and conniving. Their sniveling, whining, and shrieking make Cinderella's plight heart-felt. Prince Albert is plagued with a desire to be his own person, not trapped into the confines of his princely status (\"Why can't I be TWO people.?\"). The endearing King is struggling to avoid a possible war (\"For we MUST be Protocoligorically Correct.'Else the kingdom will be wrecked!\") And Cinderella's glittering gown, slippers and carriage are as beautiful as can be imagined. Decked out in shimmering pink, Cinderella's entrance to the \"Bride Finding Ball\" as Princess Incognita is truly memorable. Those of you who love the Slipper and the Rose as much as I do might want to check out the TV series (now on Video) called Faerie Tale Theatre. This series depicts fairytales such as The Princess and the Pea, The Emperors New Clothes, and yes, Cinderella. Well known actors such as Liza Minnelli, Matthew Broderick, Jennifer Beals, and Joan Collins portray our favorite fairytale characters without pretension.",
+         "I, too, have been longing forever (since VCRs appeared) for this musical to become available on video. The Sherman & Sherman (& Morley) songs are perfectly good, and the choreography is super, but what I remember best is the great, iconoclastically non-chalant Fairy Godmother character (Annette Crosbie). I put her among the greatest steal-the-show supporting characters of all time, right along with Nicol Williamson's Merlin in \"Excalibur.\"",
+         "The first time I saw this movie, I couldn't believe it had Richard Chamberlain singing! I really was impressed by the production though some of the singing and dancing sequences seemed a bit long, it was, overall, a well made version of the classic Cinderella story. I thought it told the fairy tale 'to perfection'. I had just recently bought the video and was pleasantly surprised by all the extra footage it included. My daughters all enjoy it and like watching it over and over. The sets and costumes and the lovely landscapes were exceptionally beautiful. I thought Gemma Craven was the perfect Cinderella including a beautiful singing voice. But the one I thought stole the movie was the fairy godmother, played by Annette Crosbie. Her grumpy affection towards Cinderella made her a more interesting character. A must-see for anyone who wants to escape for a couple of hours with an entertaining tale.",
+         "This is a very clever and entertaining remake of Cinderella, with wonderful music, beautiful costumes and scenery, and a very talented ensemble cast. It also has a good deal of dry wit, particularly from the King, played marvelously by Michael Hordern, which sets it apart from other productions of Cinderella. It also features Richard Chamberlain trying his hand at his first musical, in the role of Prince Edward, the royal heir to the throne of Euphrania, who simply wants to marry for love, not political expediency. He is terrific in this role--handsome, aristocratic, with a very pleasant singing voice, and extremely graceful on the dance floor--he looks very much \"The Prince.\" Gemma Craven is good in the role of Cinderella, and I particularly like her singing in the haunting \"Tell Him Anything.\" The song \"Secret Kingdom\" with Richard and Gemma is beautiful, and one of the highlights of the entire movie. Though the film itself runs a little too long, I still love all the fine performances from this very talented cast, and recommend it to anyone who enjoys the musical genre.",
+         "I have recently purchased the DVD and VHS versions of this film. I love the music, the dancing, the story line and the humor. The dancing is the best I have seen in a long time. Gemma Craven and Richard Chamberlain are excellent in the rolls of Cinderella and the Prince. I love the sound of Gemma's voice both while talking and singing. She brings a freshness to the roll in that she is the personification of the girl/woman that I have always imagined Cinderella to be. She is petite and very lovely in her roll. The all star cast really helps when you see the fully restored version. The costumes are excellent. The DVD is nice in that it also has a trailer on the \"Making of the Slipper and the Rose\". There is also a voice over capability by Brian Forbes that can be activated during Film. He provides comment on various aspects of the film that are a real plus. There is also an interview with the Sherman brothers, who with Brian Forbes were responsible for the initial script and of course they wrote the music and provided the lyrics for the film script. My only regrets are that I had ignored this Gem for so long and that there were no other films in which Gemma Craven was allowed to sing in.",
+         "This is one of my favorite movies of all time. I just wish they'd make a soundtrack so I could listen to the songs in my car. This isn't your average Cinderella story; it's so much better! And this version has added scenes and songs that were omitted in the television and first release versions. I would very much recommend this film if you like fairy tales and humor."
+      ],
+      "genres": [
+         "Adventure",
+         "Family",
+         "Fantasy",
+         "Musical",
+         "Romance"
+      ],
+      "productionCompanies": ["Paradine Co-Productions"],
+      "summaries": [
+         "In the tiny kingdom of Euphrania, the King and his court are most anxious to get Prince Edward wed. But Edward wants to marry for love. Meanwhile, young Cinderella finds life drastically altered with her father's death as she's forced to be a servant in her own house. But a cheery fairy godmother helps her with her impossible tasks, and even gets her to take an evening out at the King's bride-finding ball. But when the magic wears off, and the prince with shoe-in-hand searches for Cinderella and finds her, what is going to happen to Euphrania without the needed marriage alliance to prevent war?",
+         "Beautiful version of the classic Cinderella story, as Prince Edward, heir to the throne of Euphrania, is expected by his father the King and his mother the Queen to choose a wife and settle down. To this end, they plan a court ball to which all the princesses they can locate will be invited. Meanwhile, young Cinderella has just lost her beloved father. But things go from bad to worse for her, when her selfish stepmother and spoiled stepsisters reduce her to the status of a servant in her own home. Thankfully, however, her Fairy Godmother is waiting in the wings to see that she goes to the ball and meet the prince. The rest is up to them..."
+      ],
+      "budget": 0
+   },
+   "movielensId": 3612,
+   "movielens": {
+      "languages": ["Italiano"],
+      "releaseDate": "1976-03-24",
+      "dvdReleaseDate": "2000-05-02",
+      "directors": ["Bryan Forbes"],
+      "runtime": 146,
+      "movieId": 3612,
+      "title": "The Slipper and the Rose",
+      "mpaa": "",
+      "actors": [
+         "Gemma Craven",
+         "Margaret Lockwood",
+         "Michael Hordern",
+         "Edith Evans",
+         "Christopher Gable",
+         "Annette Crosbie",
+         "Kenneth More",
+         "Sherrie Hewson",
+         "John Turner",
+         "Rosalind Ayres",
+         "Keith Skinner",
+         "Polly Williams",
+         "Julian Orchard",
+         "Lally Bowers",
+         "Richard Chamberlain",
+         "Norman Bird",
+         "Peter Graves",
+         "Gerald Sim",
+         "Elizabeth Mansfield",
+         "Ludmilla Nova",
+         "Roy Barraclough",
+         "Geoffrey Bayldon",
+         "Valentine Dyall",
+         "Tim Barrett",
+         "Vivienne McKee",
+         "André Morell",
+         "Myrtle Reed",
+         "Jenny Lee Wright"
+      ],
+      "imdbMovieId": "0075232",
+      "originalTitle": "The Slipper and the Rose",
+      "genres": [
+         "Music",
+         "Adventure",
+         "Family",
+         "Fantasy",
+         "Romance"
+      ],
+      "youtubeTrailerIds": [],
+      "plotSummary": "In the tiny kingdom of Euphrania, the King and his court are most anxious to get Prince Edward wed. But Edward wants to marry for love. Meanwhile, young Cinderella finds life drastically altered with her father's death as she's forced to be a servant in her own house. But a cheery fairy godmother helps her with her impossible tasks, and even gets her to take an evening out at the King's bride-fin",
+      "tmdbMovieId": 16176,
+      "avgRating": 3.4183,
+      "releaseYear": "1976",
+      "numRatings": 153,
+      "posterPath": "/lxPdLUn0ssIhD7TVZHCwTR22nbY.jpg"
+   }
+}

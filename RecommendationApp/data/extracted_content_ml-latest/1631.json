@@ -1,0 +1,718 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "terrorist",
+            "id": 949
+         },
+         {
+            "name": "naval officer",
+            "id": 6610
+         }
+      ],
+      "imdb_id": "tt0118647",
+      "video": false,
+      "title": "The Assignment",
+      "recommendations": [
+         30815,
+         31640,
+         17629,
+         257668,
+         73952,
+         63938,
+         45007,
+         37023,
+         4911,
+         38205,
+         46027,
+         66599,
+         26337,
+         31659,
+         11082,
+         62719,
+         30489,
+         70180,
+         25697,
+         32831
+      ],
+      "backdrop_path": "/gD3ODd77r4mzdFpbGqS5kAsht5G.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Annibal Ramirez / Carlos",
+               "gender": 2,
+               "credit_id": "52fe47759251416c7509a06b",
+               "name": "Aidan Quinn",
+               "profile_path": "/fOiuJIBJUdiuqjQtGkffpSbRQ49.jpg",
+               "id": 18992,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Jack Shaw / Henry Fields",
+               "gender": 2,
+               "credit_id": "52fe47759251416c7509a06f",
+               "name": "Donald Sutherland",
+               "profile_path": "/luKIiU3wAAZ5C6j2053g35cRhzE.jpg",
+               "id": 55636,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Amos",
+               "gender": 2,
+               "credit_id": "52fe47759251416c7509a073",
+               "name": "Ben Kingsley",
+               "profile_path": "/2Eu3j31JDJek70ZXLY6xfeUaJoR.jpg",
+               "id": 2282,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Maura Ramirez",
+               "gender": 1,
+               "credit_id": "52fe47759251416c7509a077",
+               "name": "Claudia Ferri",
+               "profile_path": "/rkwWZ3LuSPN7wmsztQA2zD7Y2Tv.jpg",
+               "id": 7007,
+               "order": 3
+            },
+            {
+               "cast_id": 27,
+               "character": "Carla",
+               "gender": 0,
+               "credit_id": "53052c3fc3a36816bc02ceb5",
+               "name": "Céline Bonnier",
+               "profile_path": "/ouKBepgKuIUYlhud7547lFsT8dY.jpg",
+               "id": 32891,
+               "order": 4
+            },
+            {
+               "cast_id": 12,
+               "character": "KGB Head Officer",
+               "gender": 2,
+               "credit_id": "52fe47759251416c7509a0a3",
+               "name": "Vlasta Vrána",
+               "profile_path": "/ug27TmlJNKvhJEa6xWGCpPz4o2q.jpg",
+               "id": 58169,
+               "order": 5
+            },
+            {
+               "cast_id": 13,
+               "character": "Agnieska",
+               "gender": 1,
+               "credit_id": "52fe47759251416c7509a0a7",
+               "name": "Liliana Komorowska",
+               "profile_path": "/kSgBaqw40KmT1z4aiyBXnfghtc5.jpg",
+               "id": 25689,
+               "order": 6
+            },
+            {
+               "cast_id": 14,
+               "character": "Koj",
+               "gender": 2,
+               "credit_id": "52fe47759251416c7509a0ab",
+               "name": "Von Flores",
+               "profile_path": "/iuAwdsaVmltuZKOrsDR9n9najuc.jpg",
+               "id": 64888,
+               "order": 7
+            },
+            {
+               "cast_id": 16,
+               "character": "Joey Ramirez",
+               "gender": 2,
+               "credit_id": "52fe47759251416c7509a0af",
+               "name": "Mitchell David Rothpan",
+               "profile_path": null,
+               "id": 117389,
+               "order": 8
+            },
+            {
+               "cast_id": 17,
+               "character": "KGB Aide",
+               "gender": 0,
+               "credit_id": "52fe47759251416c7509a0b3",
+               "name": "Gregory Hlady",
+               "profile_path": "/nflwPaKuyIR6LMCqSH8G1FMxSlj.jpg",
+               "id": 141741,
+               "order": 9
+            },
+            {
+               "cast_id": 18,
+               "character": "KGB Agent",
+               "gender": 0,
+               "credit_id": "52fe47759251416c7509a0b7",
+               "name": "Gabriel Marian Oseciuc",
+               "profile_path": null,
+               "id": 995966,
+               "order": 10
+            },
+            {
+               "cast_id": 19,
+               "character": "KGB Agent",
+               "gender": 0,
+               "credit_id": "52fe47759251416c7509a0bb",
+               "name": "Frédéric Desager",
+               "profile_path": null,
+               "id": 229432,
+               "order": 11
+            },
+            {
+               "cast_id": 20,
+               "character": "KGB Technician",
+               "gender": 0,
+               "credit_id": "52fe47759251416c7509a0bf",
+               "name": "Kliment Denchev",
+               "profile_path": null,
+               "id": 545063,
+               "order": 12
+            },
+            {
+               "cast_id": 21,
+               "character": "Yoni",
+               "gender": 0,
+               "credit_id": "52fe47759251416c7509a0c3",
+               "name": "Yonathan Gordon",
+               "profile_path": null,
+               "id": 995909,
+               "order": 13
+            },
+            {
+               "cast_id": 26,
+               "character": "Carl Mickens - CIA",
+               "gender": 2,
+               "credit_id": "52fe47759251416c7509a0df",
+               "name": "Al Waxman",
+               "profile_path": "/8bZfhAZbKTHt2qi5B86Q4WNAGRo.jpg",
+               "id": 36172,
+               "order": 14
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe47759251416c7509a081",
+               "name": "Christian Duguay",
+               "profile_path": "/dz0da6lHPAzAFTZMR0LvsGUr8cd.jpg",
+               "id": 25735,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47759251416c7509a087",
+               "name": "Dan Gordon",
+               "profile_path": null,
+               "id": 54972,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe47759251416c7509a08d",
+               "name": "Sabi H. Shabtai",
+               "profile_path": null,
+               "id": 559056,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47759251416c7509a093",
+               "name": "Christian Duguay",
+               "profile_path": "/dz0da6lHPAzAFTZMR0LvsGUr8cd.jpg",
+               "id": 25735,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47759251416c7509a09f",
+               "name": "Normand Corbeil",
+               "profile_path": null,
+               "id": 17212,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47759251416c7509a0c9",
+               "name": "Franco Battista",
+               "profile_path": null,
+               "id": 56981,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe47759251416c7509a0cf",
+               "name": "David Saunders",
+               "profile_path": null,
+               "id": 555121,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47759251416c7509a0d5",
+               "name": "Normand Corbeil",
+               "profile_path": null,
+               "id": 17212,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe47759251416c7509a0db",
+               "name": "Karen Margiotta",
+               "profile_path": null,
+               "id": 60055,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54943bccc3a3680fc6000130",
+               "name": "Georges Archambault",
+               "profile_path": null,
+               "id": 1368645,
+               "department": "Camera",
+               "job": "Additional Camera"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5399a75ec3a3681d150017f4",
+               "name": "Yves Langlois",
+               "profile_path": null,
+               "id": 52093,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5399a792c3a3681d1b001919",
+               "name": "Mary Margiotta",
+               "profile_path": null,
+               "id": 60056,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5399a7a9c3a3681d0d0018d5",
+               "name": "Lucie Robitaille",
+               "profile_path": null,
+               "id": 6997,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5399a7fe0e0a263e3e001f88",
+               "name": "Michael Joy",
+               "profile_path": null,
+               "id": 1330120,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5399a86f0e0a263e41001fc1",
+               "name": "James Fox",
+               "profile_path": null,
+               "id": 1330121,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5399a88e0e0a263e2d001fa0",
+               "name": "Ada Levin",
+               "profile_path": null,
+               "id": 1330122,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54943a12c3a3686ae10016d5",
+               "name": "Nicole Lapierre",
+               "profile_path": null,
+               "id": 1401327,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54943a289251412c4e0000e5",
+               "name": "Benjamin Robin",
+               "profile_path": null,
+               "id": 25751,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54943a6392514130fc0000eb",
+               "name": "Renaud Mathieu",
+               "profile_path": null,
+               "id": 1116039,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54943a8592514130fc0000ee",
+               "name": "Daniel Huysmans",
+               "profile_path": null,
+               "id": 1401328,
+               "department": "Crew",
+               "job": "Property Master"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54943a969251412c4e0000ed",
+               "name": "Tristan Tondino",
+               "profile_path": null,
+               "id": 1401329,
+               "department": "Crew",
+               "job": "Scenic Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54943ab39251413af7000085",
+               "name": "Michel B. Bordeleau",
+               "profile_path": null,
+               "id": 229993,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54943ac99251412c4e0000f5",
+               "name": "Eric Lambi",
+               "profile_path": null,
+               "id": 1401330,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54943ae0c3a3680fc6000115",
+               "name": "Raymond Legault",
+               "profile_path": null,
+               "id": 943666,
+               "department": "Sound",
+               "job": "Sound Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54943afac3a3680ff5000129",
+               "name": "Natalie Fleurant",
+               "profile_path": null,
+               "id": 1399558,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54943b22c3a3686ae1001700",
+               "name": "Tim Archer",
+               "profile_path": null,
+               "id": 1380384,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54943b399251416e1e001635",
+               "name": "Ryal Cosgrove",
+               "profile_path": null,
+               "id": 21224,
+               "department": "Crew",
+               "job": "Special Effects Coordinator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54943b589251416e1e001639",
+               "name": "Michael Scherer",
+               "profile_path": null,
+               "id": 90354,
+               "department": "Crew",
+               "job": "Stunts Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54943b739251413af700009d",
+               "name": "Philippe Bossé",
+               "profile_path": null,
+               "id": 230001,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54943be6c3a3686ae1001723",
+               "name": "Bruno Philip",
+               "profile_path": null,
+               "id": 92203,
+               "department": "Camera",
+               "job": "Additional Camera"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54943c089251416e2b0017cf",
+               "name": "Nimi Getter",
+               "profile_path": null,
+               "id": 1401331,
+               "department": "Lighting",
+               "job": "Gaffer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54943c2b9251413f75000098",
+               "name": "Michel Gauvin",
+               "profile_path": null,
+               "id": 1401332,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54943c3e9251416e2b0017d7",
+               "name": "Guylaine Chagnon",
+               "profile_path": null,
+               "id": 1401333,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54943c5a92514132ed000144",
+               "name": "Bram Eisenthal",
+               "profile_path": null,
+               "id": 1401334,
+               "department": "Crew",
+               "job": "Unit Publicist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54943c74c3a3686ae30016d5",
+               "name": "Tim Monich",
+               "profile_path": null,
+               "id": 13050,
+               "department": "Crew",
+               "job": "Dialect Coach"
+            },
+            {
+               "gender": 1,
+               "credit_id": "54943c86c3a3686ae9001703",
+               "name": "Diane Pitblado",
+               "profile_path": null,
+               "id": 1401335,
+               "department": "Crew",
+               "job": "Dialect Coach"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Thriller",
+            "id": 53
+         },
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Crime",
+            "id": 80
+         }
+      ],
+      "popularity": 3.894378,
+      "production_countries": [{
+         "iso_3166_1": "CA",
+         "name": "Canada"
+      }],
+      "id": 18355,
+      "vote_count": 46,
+      "budget": 0,
+      "overview": "Jack Shaw (DONALD SUTHERLAND) has experienced the terror first-hand. He's a top CIA agent who's tracked international killer-for-hire Carlos \"The Jackal\" Sanchez for over twenty years and barely survived Carlos' devastating bombing of a Parisian cafe. Now, he finally gets a break when he discovers Carlos' dead ringer: American naval officer and dedicated family man Annibal Ramirez (AIDAN QUINN).",
+      "similar": [
+         7461,
+         5125,
+         201088,
+         231,
+         4349,
+         2320,
+         68721,
+         137094,
+         49026,
+         36955,
+         379149,
+         36557,
+         37136,
+         7551,
+         1817,
+         2253,
+         954,
+         14869,
+         12162,
+         8068
+      ],
+      "original_title": "The Assignment",
+      "runtime": 119,
+      "poster_path": "/suCKdjHJMKjwnrZdrIdRi2gEU6x.jpg",
+      "spoken_languages": [{
+         "name": "Français",
+         "iso_639_1": "fr"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Triumph Films",
+            "id": 23098,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Program de Credits of Impuc",
+            "id": 25063,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Super Écran",
+            "id": 11578,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Satch-Mo",
+            "id": 24721,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "The Movie Network (TMN)",
+            "id": 3388,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Gouvernement du Québec",
+            "id": 13306,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Canadian Film or Video Production Tax Credit Fund (CPTC)",
+            "id": 8582,
+            "origin_country": "CA"
+         },
+         {
+            "logo_path": null,
+            "name": "Allegro Films",
+            "id": 4899,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1997-09-28",
+      "vote_average": 6.5,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Canada",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Christian Duguay"],
+      "runtime": 119,
+      "synopsis": "The film opens to the sounds of a couple having sex. Afterwards, Carlos the Jackal (Aidan Quinn) kills a spider in its web with his cigarette and evicts the woman(Lucie Laurier) from his room because he claims he has work to do. He is seen donning a disguise, and he walks to a cafe where CIA agent Jack Shaw (Donald Sutherland) is sitting at a table outdoors. He recognizes Shaw and asks for a light. Shaw does not recognize Carlos, because of his disguise, but he turns to watch Carlos enter the cafe. He watches as Carlos detonates a grenade, killing dozens of people. The film shows an event of attacking the OPEC meeting by the Jackal and his fellows in 1975. In the present day, Carlos is apprehended in an open air market and brutally interrogated by a Mossad commander named Amos (Ben Kingsley). Carlos claims to actually be a US Naval officer named Annibal Ramirez whose identification was lost in the chaos of his arrest. Amos confirms his identity and lets him go, stunned that Ramirez looks exactly like Carlos. Back at home, Ramirez is visited by Shaw who tries to recruit him to play Carlos' double. Ramirez is so embittered by his rough treatment in Amos' hands, that he insists he will sue and flatly rejects the idea of portraying Carlos. Shaw persists, wooing Ramirez on several occasions. He finally convinces Ramirez by showing him a child in a hospital who he claims is a victim of one of Carlos' bombings. Amos and Shaw train Ramirez at a remote location. Much of his training is devoted to situational awareness and internalizing details of Carlos' life. His training concludes with one of Carlos' ex-mistresses training Ramirez in how to make love like Carlos. The plan to catch Carlos revolves around convincing the KGB, which supports much of his terrorism, that he has begun to work with the CIA. The team lures one of Carlos' girlfriends to Libya, where Ramirez meets up with her, successfully posing as Carlos, even during their lovemaking. The girlfriend has become an informant for the French, however. Several French agents arrive at their apartment, and Ramirez is forced to kill them to survive. He is horrified at having to kill allies in his undercover operation. Carlos sends an assassin to kill the girlfriend in France, ordering him to leave Europe through London. The assassin happens to be in Heathrow airport at the same time as Ramirez, and he quickly realizes he is an impostor after Ramirez doesn't recognize him. The assassin forces Ramirez into a bathroom and a struggle ensues. Amos rushes in and manages to kill the assassin before being fatally shot. After Amos' death, the CIA shuts down the mission and Ramirez returns home. Back with his wife, he makes love to her as Carlos would, and she is disturbed by the change in his personality. The next day, at his son's little league game, he gets into a confrontation with another father and nearly kills him. Shaw bails him out of jail, and both men are clearly suffering deeply by not being able to finish their mission and kill Carlos. They head to East Berlin and conspicuously meet with each other. The KGB sees Ramirez meeting with Shaw and assumes Carlos has turned on them. They raid his hotel, but as they try to arrest them, he escapes. Shaw and Ramirez are waiting outside the hotel for him, and Ramirez fights Carlos on the bank of a river. It's impossible to tell which is the real Carlos during the struggle. As one of the men is being held under water by the other, Shaw comes upon them and shoots the man above the water several times. He realizes that he has shot Ramirez, and Carlos swims away. Ramirez presses Shaw to leave him and chase Carlos, but Shaw insists that their plan has worked and Carlos is a marked man by the KGB. One way or another, Shaw points out that Carlos' days as a terrorist are over. The deaths of Ramirez and his family are staged by Shaw, and in the final scene, the family are safely cavorting on a beach. Ramirez moves to kill a spider in its web with his cigarette, but appears to change his mind.",
+      "writers": [
+         "Dan Gordon",
+         "Sabi H. Shabtai"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0118647/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTEwMDA4ODE2MDBeQTJeQWpwZ15BbWU3MDM0Mzc0MzE@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Aidan Quinn, Donald Sutherland, Ben Kingsley | See full cast and crew »"],
+      "reviews": [
+         "This movie really proves that the world is all too often an unfair place, especially the world of motion pictures. \"The Assignment\" received barely any attention upon it's release and not surprisingly flopped at the box-office, but when history will be written this movie will most surely receive some long lost praise. Thank God I'm surrounded by friends who knows what's good for me. Being a movie buff like myself a pal highly recommended \"The Assignment\", a movie I hadn't even heard about. I decided to check out what Leonard Maltin gave it, and not surprisingly he gave it **1/2. Knowing that this is the same grade he gave classics like \"Alien\", \"The Usual Suspects\" and \"The Matrix\" (I kid you not) I knew his meaning didn't mean diddly squat jack s***. So without hesitating I went out and bought it on DVD. This was about 3 years ago and the movie is still one of my proudest belongings in my DVD collection, despite a cover design that echoes a low budget stinker with Casper Van Dien. \"The Assignment\" is expertly directed, delivering some really intense moments that will hold you on the edge of your seat throughout the movie, on top of that it boasts an at times brilliant story that you know will be riddled with unexpected twists and turns. It stars Aidan Quinn in one of his best performances, and serves him with great support by Donald Sutherland and Ben Kingsley who are both in great form. Something like 40 out of 42 user comments like this movie, most of them can't seem to praise it enough. So what are you waiting for? If you call yourself a fan of action-thrillers you should have bought it, rented it, seen it YESTERDAY!",
+         "The Assignment is an outstanding thriller with several plot twists driven by character, rather than star turns, the need to stage special effects, obligatory romance, and endless car chases. However, there is a car chase in here, and a dandy it is. Aidan Quinn is wonderful as both the terrorist and the naval officer \"recruited\" to eliminate him. It is rare that a second or third tier actor, such as Quinn, is given an important starring role like this that carries a film. Usually, such a role is given to an A-list actor with box office draw, which is probably why I never heard of this film before I saw it. Donald Sutherland is great as the morally ambiguous, somewhat creepy at times, agent that recruits Quinn. Ben Kingsley is fine also as the Israeli agent. The plot is very complex and there are multiple story lines, which converge in gradual fashion toward the end, and not all at once as we're used to seeing. The paranoia and claustrophobia of these type of thrillers is captured and portrayed with both moral ambiguity and frightening intensity. The locations are convincing and effective. The soundtrack is nothing special, but rarely do we get all of the above mentioned qualities these days, without dumb and/or meaningless plot developments; unconvincing star turns; loud, annoying, music video type soundtracks; a villain that hams it up; and repeatedly a cast, costumes, and plot that cater mostly to an audience under 25. This is an outstanding thriller, which most assuredly did not get its just due upon its release. ***1/2 of 4 stars.",
+         "Slick, tidy, and well-made old school version of how a great international thriller should be made. Determined to nail a feared global terrorist who is known as \"Carlos the Jackal\", Jack Shaw (Donald Sutherland, \"Without Limits\", \"Space Cowboys\"), a CIA operative and his Israeli counterpart, Amos (Ben Kingsley, \"Gandhi\", \"Sexy Beast\") get a noble Naval officer, Annibal Ramirez (Aidan Quinn, \"Music of the Heart\"), to become Carlos and use him in a daring plot to get the KGB to kill the real Carlos, because he took an offer from the CIA. Sutherland and Kingsley are both good here, but the movie really belongs to Quinn here, who embodies himself here (in a dual role). Director Christian Duguay and cinematographer David Franco provide another great asset of the film here with Hitchcockian-like suspense and great sights of the world.",
+         "Very late one night, I happened to click to some cable station that had a movie starting called \"The Assignment\". I had heard that it was a well made movie from my mother, but who listens to their mother's opinion about movies? Especially about some espionage thriller. Well --- who likes to admit when their mother is right...about anything? Well --- my mother was right. I was up all night, until 4 in the morning, alone, watching this movie, getting paranoid and sucked into its classically told story. The acting was superlative, the direction was on target - which could also be said for the aim of the actors (a lot of gun play), and best of all, it didn't telegraph where the plot was heading. It's a perfect set-up for a franchise, (sorry to sound like an executive at some lumbering movie studio) because I'd be completely interested to see the next adventures of these well rounded characters - and the actors that play them. To the film makers: Do more of these! To the movie watching audience: watch it! watch it with someone you love, as the old saying goes...not because it's romantic, but rather, it's a movie that you need to grab hold of someone during those extra exciting parts. No joke. (the sex scenes teach you a thing or too, as well. A movie that's entertaining, as well as informative! Hey! Now that's a novelty.)",
+         "I don't usually like these kind of espionage movies due to their being dull and predictable. Well, I have changed my mind with this one. This was a real sleeper with a real intelligent story line that keeps you guessing and surprised throughout. Also the surround sound and the great camera work really adds to it. On a scale of 1-10, I would give it a 10 as I don't know how you could make a better film on this subject.",
+         "This is one of the best thrillers I've seen. It's intelligently made and brilliantly filmed, and is one of the few thrillers that creates complex, interesting characters and makes the movie about them, not the action. I would recommend it to just about anyone, especially people who like movies with both style and substance.",
+         "This is certainly a quality movie with a classy cast. As far as movies about Carlos the Jackal go, this one beats Bruce Willis' feeble efforts in 'The Jackal' to a bloody pulp, then spits on them. I am a bit surprised that this movie hasn't attracted more votes, something of a 'sleeper' obviously. A pity because this film is definitely worth a watch. It is clever and never dull. See it, 7/10",
+         "It worked! Director Christian Duguay created a very clever action/spy thriller. The actors Donald Sutherland and especially Aidan Quinn gave a top performance. What a pity that we couldn´t see Aidan Quinn in others movies like this one till now. He was simply the best in the role as Ramirez/Carlos for what he should have earned the Oscar. The picture was very nice. The scenes are fast paced from beginning to the end and the story doesn´t let you a chance to get bored. The movie is too underrated and I recommend it to anyone otherwise you will miss something great. Believe me you will not be disappointed. That´s why i give it 9/10.",
+         "The Stunts sequences (as well as the Special Effects) are Brilliant, in this movie. Michael Scherer must be one of Canadas BEST Stunt Co-ordinators of all time. The explosion in the Café, is a wonderful combination of Stunts, Special Effects AND Visual Effects. The Director HAD an idea, that the Crew managed to create on film. Besides that; Donald Sutherland makes one of his best performances in this film.......",
+         "I found this movie to be quite enjoyable and fairly entertaining. Good characters,good actors and enough suspense to keep your interest throughout. The plot twists might have been a bit much but overall a decent thriller. If you liked this film I would recommend The Spanish Prisoner, The House of Games and No Way Out."
+      ],
+      "genres": [
+         "Action",
+         "Crime",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "Triumph Films",
+         "Allegro Films",
+         "Allegro Film Productions V"
+      ],
+      "summaries": [
+         "1986. In his civilian clothes while on shore leave in Jerusalem, Lieutenant Commander Annibal Ramirez of the US Navy is captured and interrogated by who he eventually learns is Mossad in a case of mistaken identity. Because of the resemblance, they believed him to be Carlos the Jackal, one of if not the most wanted and dangerous terrorist in the world. Shortly following, Henry Fields, using the alias Jack Shaw, he the Paris deputy chief of CIA counter-terrorism whose primary mission for at least the past ten years has been to get rid of Carlos in any way possible, tries to recruit Ramirez to work on a covert CIA-Mossad operation to stop Carlos' terrorist activities with the ultimate goal of Carlos' capture or death. The plan is for Ramirez to impersonate Carlos, in the process discrediting Carlos in the eyes of his current KGB backers, and thus effectively ending his career as a terrorist, with nowhere he can longer hide. After an initial reluctance on Ramirez's part, Shaw is able to convince him to do the job. The rigorous training is to ensure that Ramirez not only looks like Carlos, but instinctively behaves like Carlos, even to those closest to him, which also means how he makes love as one of Ramirez's interactions is to be with one of Carlos' old girlfriends. Beyond the potential problem of getting caught by Carlos or his associates, Ramirez may have problems stomaching his work and reconciling it with his real life as a military man. If he is able to carry out the mission and survive, the bigger question becomes whether being Carlos will have transformed his inherent being permanently.",
+         "An American naval officer is recruited by the government to impersonate the most vicious and cold-blooded terrorist there is in order to catch him. But are things really what they seem to be?",
+         "An American naval officer is recruited for an operation to eliminate his lookalike, the infamous terrorist Carlos The Jackal."
+      ],
+      "budget": 0
+   },
+   "movielensId": 1631,
+   "movielens": {
+      "languages": ["Français"],
+      "releaseDate": "1997-09-28",
+      "dvdReleaseDate": "1998-03-17",
+      "directors": ["Christian Duguay"],
+      "runtime": 119,
+      "movieId": 1631,
+      "title": "The Assignment",
+      "mpaa": "R",
+      "actors": [
+         "Aidan Quinn",
+         "Donald Sutherland",
+         "Ben Kingsley",
+         "Claudia Ferri",
+         "Céline Bonnier",
+         "Vlasta Vrána",
+         "Liliana Komorowska",
+         "Von Flores",
+         "Mitchell David Rothpan",
+         "Gregory Hlady",
+         "Gabriel Marian Oseciuc",
+         "Frédéric Desager",
+         "Kliment Denchev",
+         "Yonathan Gordon",
+         "Al Waxman"
+      ],
+      "imdbMovieId": "0118647",
+      "originalTitle": "The Assignment",
+      "genres": [
+         "Thriller",
+         "Action",
+         "Crime"
+      ],
+      "youtubeTrailerIds": ["rD0MQC41xk0"],
+      "plotSummary": "Jack Shaw (DONALD SUTHERLAND) has experienced the terror first-hand. He's a top CIA agent who's tracked international killer-for-hire Carlos \"The Jackal\" Sanchez for over twenty years and barely survived Carlos' devastating bombing of a Parisian cafe. Now, he finally gets a break when he discovers Carlos' dead ringer: American naval officer and dedicated family man Annibal Ramirez (AIDAN QUINN).",
+      "tmdbMovieId": 18355,
+      "avgRating": 3.43282,
+      "releaseYear": "1997",
+      "numRatings": 521,
+      "posterPath": "/suCKdjHJMKjwnrZdrIdRi2gEU6x.jpg"
+   }
+}

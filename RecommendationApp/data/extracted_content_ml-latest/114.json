@@ -1,0 +1,554 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "mining",
+            "id": 6015
+         },
+         {
+            "name": "dance lesson",
+            "id": 40897
+         },
+         {
+            "name": "coal mining",
+            "id": 164742
+         },
+         {
+            "name": "bagpipes",
+            "id": 188645
+         }
+      ],
+      "imdb_id": "tt0113774",
+      "video": false,
+      "title": "Margaret's Museum",
+      "recommendations": [],
+      "backdrop_path": "/viFiSXJDDctyjf1xE4U6N4HcZyE.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "Margaret MacNeil",
+               "gender": 1,
+               "credit_id": "52fe4846c3a368484e0f0c8b",
+               "name": "Helena Bonham Carter",
+               "profile_path": "/rHZMwkumoRvhKV5ZvwBONKENAhG.jpg",
+               "id": 1283,
+               "order": 0
+            },
+            {
+               "cast_id": 3,
+               "character": "Neil Currie",
+               "gender": 2,
+               "credit_id": "52fe4846c3a368484e0f0c8f",
+               "name": "Clive Russell",
+               "profile_path": "/3dkiAdWPMPiPRqwi5MVBFOSD9Xo.jpg",
+               "id": 19901,
+               "order": 1
+            },
+            {
+               "cast_id": 4,
+               "character": "Jimmy MacNeil",
+               "gender": 2,
+               "credit_id": "52fe4846c3a368484e0f0c93",
+               "name": "Craig Olejnik",
+               "profile_path": "/qlnfOhUz6PUYm1h6LQQIzuVy1pQ.jpg",
+               "id": 198287,
+               "order": 2
+            },
+            {
+               "cast_id": 5,
+               "character": "Catherine MacNeil",
+               "gender": 1,
+               "credit_id": "52fe4846c3a368484e0f0c97",
+               "name": "Kate Nelligan",
+               "profile_path": "/4GpQvniLNMKF19qtHMb0tBBgNce.jpg",
+               "id": 18794,
+               "order": 3
+            },
+            {
+               "cast_id": 6,
+               "character": "Angus MacNeil",
+               "gender": 0,
+               "credit_id": "52fe4846c3a368484e0f0c9b",
+               "name": "Kenneth Welsh",
+               "profile_path": "/q44fb9FLrA9ZWzP8xGv6PcX24V6.jpg",
+               "id": 6074,
+               "order": 4
+            },
+            {
+               "cast_id": 7,
+               "character": "Marilyn",
+               "gender": 1,
+               "credit_id": "52fe4846c3a368484e0f0c9f",
+               "name": "Andrea Morris",
+               "profile_path": "/58zCGiGNEEeE9WN5a9kgT4t8kRv.jpg",
+               "id": 563767,
+               "order": 5
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4846c3a368484e0f0c87",
+               "name": "Mort Ransen",
+               "profile_path": null,
+               "id": 184475,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "546a363ceaeb816b55003bee",
+               "name": "Gerald Wexler",
+               "profile_path": null,
+               "id": 1195334,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "546a364522136e68d50038a5",
+               "name": "Mort Ransen",
+               "profile_path": null,
+               "id": 184475,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "586a5f89c3a3680f4b01902f",
+               "name": "Steve Clark-Hall",
+               "profile_path": null,
+               "id": 63127,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "586a606fc3a3680f5101a0d7",
+               "name": "Claudio Luca",
+               "profile_path": null,
+               "id": 1229486,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "586a6132c3a3680f4e01795b",
+               "name": "Mike Mahoney",
+               "profile_path": null,
+               "id": 165660,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "586a61669251414e8a0183d1",
+               "name": "Mort Ransen",
+               "profile_path": null,
+               "id": 184475,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "586a617e9251414e780191e3",
+               "name": "Christopher Zimmer",
+               "profile_path": null,
+               "id": 79180,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "586a61919251414e7f0193ee",
+               "name": "Milan Kymlička",
+               "profile_path": null,
+               "id": 29453,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 2,
+               "credit_id": "586a61ab9251414e7f0193f8",
+               "name": "Vic Sarin",
+               "profile_path": null,
+               "id": 87121,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "586a61cf9251414e87018a80",
+               "name": "Rita Roy",
+               "profile_path": null,
+               "id": 1610357,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "586a61e19251414e8201966f",
+               "name": "Stuart Aikins",
+               "profile_path": null,
+               "id": 947682,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "586a61f79251414e75018b47",
+               "name": "Anne Tait",
+               "profile_path": null,
+               "id": 1126724,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "586a62229251414e7a019193",
+               "name": "William Fleming",
+               "profile_path": null,
+               "id": 1337721,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "586a62389251414e75018b71",
+               "name": "David McHenry",
+               "profile_path": null,
+               "id": 1731373,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "586a625ac3a3680f5c018079",
+               "name": "Emanuel Jannasch",
+               "profile_path": null,
+               "id": 1378304,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "586a626f9251414e7a0191bc",
+               "name": "Ian Greig",
+               "profile_path": null,
+               "id": 1567297,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "586a62829251414e8a01846e",
+               "name": "Nicoletta Massone",
+               "profile_path": null,
+               "id": 959634,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "586a629e9251414e7a0191e1",
+               "name": "Darlene Sheils",
+               "profile_path": null,
+               "id": 1731374,
+               "department": "Art",
+               "job": "Assistant Art Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "586a62c3c3a3680f4501b19a",
+               "name": "René Daigle",
+               "profile_path": null,
+               "id": 1731375,
+               "department": "Camera",
+               "job": "First Assistant Camera"
+            },
+            {
+               "gender": 0,
+               "credit_id": "586a62d5c3a3680f5c0180ac",
+               "name": "Augustus White",
+               "profile_path": null,
+               "id": 1731376,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "586a62ec9251414e7d019b78",
+               "name": "Jean-Pierre Pinard",
+               "profile_path": null,
+               "id": 1731377,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "586a6309c3a3680f5101a251",
+               "name": "Monique Vézina",
+               "profile_path": null,
+               "id": 1731378,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "586a631bc3a3680f4e017a56",
+               "name": "Lise Wedlock",
+               "profile_path": null,
+               "id": 1267055,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "586a63469251414e87018b41",
+               "name": "Louis Collin",
+               "profile_path": null,
+               "id": 1548597,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "586a635dc3a3680f58019f76",
+               "name": "Luc Boudrias",
+               "profile_path": null,
+               "id": 1197112,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "586a637d9251414e7a01924a",
+               "name": "Johanne Paiement",
+               "profile_path": null,
+               "id": 1549274,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "586a638f9251414e7f01950b",
+               "name": "Donald Mowat",
+               "profile_path": null,
+               "id": 1315700,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Department Head"
+            },
+            {
+               "gender": 0,
+               "credit_id": "586a63a0c3a3680f4501b237",
+               "name": "Sara Kramer",
+               "profile_path": null,
+               "id": 1731380,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            }
+         ]
+      },
+      "genres": [{
+         "name": "Drama",
+         "id": 18
+      }],
+      "popularity": 0.754739,
+      "production_countries": [
+         {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+         },
+         {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+         }
+      ],
+      "id": 71754,
+      "vote_count": 3,
+      "budget": 0,
+      "overview": "In a town where half the men die down the coalpit, Margaret MacNeil is quite happy being single in her small Cape Breton island town. Until she meets Neil Currie, a charming and sincere bagpipe-playing, Gaelic-speaking dishwasher. But no matter what you do, you can't avoid the spectre of the pit forever.",
+      "similar": [
+         201085,
+         334524,
+         293646,
+         5491,
+         20391,
+         5966,
+         10409,
+         16769,
+         43266,
+         24276,
+         303867,
+         27221,
+         11239,
+         84721,
+         43048,
+         26121,
+         42345,
+         378350,
+         253899,
+         33324
+      ],
+      "original_title": "Margaret's Museum",
+      "runtime": 114,
+      "poster_path": "/l00ALsdVyRGmPIp5EWlEoplki0X.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "",
+            "iso_639_1": "gd"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "imX Communications",
+            "id": 22150,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/kcNh09qqR2Pkw1JAzRW4CommrW4.png",
+            "name": "Téléfilm Canada",
+            "id": 806,
+            "origin_country": "CA"
+         },
+         {
+            "logo_path": null,
+            "name": "Skyline Films",
+            "id": 2055,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Malofilm",
+            "id": 3498,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Société de Développement des Entreprises Culturelles (SODEC)",
+            "id": 9116,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "British Screen Productions",
+            "id": 12745,
+            "origin_country": "GB"
+         },
+         {
+            "logo_path": null,
+            "name": "Glace Bay Pictures",
+            "id": 38673,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Ciné Télé Action",
+            "id": 38674,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Nova Scotia Film Development Corporation",
+            "id": 40534,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Ranfilm",
+            "id": 85045,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/lMUDQZVtg8On4PAW5XFQPaQy6UK.png",
+            "name": "National Film Board of Canada",
+            "id": 10473,
+            "origin_country": "CA"
+         }
+      ],
+      "release_date": "1995-09-13",
+      "vote_average": 6.3,
+      "belongs_to_collection": null,
+      "tagline": "She found a way to preserve her memories forever.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Canada",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Mort Ransen"],
+      "runtime": 114,
+      "synopsis": null,
+      "writers": [
+         "Sheldon Currie",
+         "Gerald Wexler"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0113774/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTc3NjY0Mjk4MV5BMl5BanBnXkFtZTcwNTAzMzUyMQ@@._V1_SY317_CR5,0,214,317_AL_.jpg",
+      "actors": ["Stars: Helena Bonham Carter, Kate Nelligan, Clive Russell | See full cast and crew »"],
+      "reviews": [
+         "Margaret's Museum is a powerful movie which takes place in Glace Bay, Nova Scotia. It is a movie made from a short story written by Sheldon Currie. Helena Bonham Carter and Kate Nelligan are sheer excellence in every which way. Also, Clive Russell, and all the other actors are brilliant and their roles are believable, and sometimes shocking. I forgot while watching this movie that it indeed is a movie .. it seem so very real. The beginning of the movie will grab your attention completely; the middle explains almost everything; and the ending will shock you. Completely. It was about time I finally watched a movie I had no idea in my wildest imagination what the ending would be like. I love this movie and will watch it many, many times. I also think the photography, the music scores (Rankin Family), etc., are also excellent. Do I rate this movie a 10? You bet!",
+         "\"Margaret's Museum\" is a quirky little independent Canadian film made over 10 years ago, featuring an impressive performance by Helen Bonham Carter (trying to do something other than English period pieces) as the title character. Carter is one of the most talented contemporary actresses and her failure to become a major star is a bit of a puzzle. The film's obscurity is not such a puzzle, it contains just enough wry humor and off-kilter behavior to offend those who take its political message seriously and not enough to become a cult classic. The producers should have amped up the weirdness level a bit. It will remind viewers of \"New Waterford Girl\", not just because both were filmed in Nova Scotia, but because the heroines are similar as is the theme of diminished small town expectations. It is probably safe to say that these are the only feature films that reference the town of Antigonish. Gaelic lovers should especially enjoy \"Margaret's Museum as it includes a lot of traditional music. If you are a Scotsman at heart you will pick up on obscure references to things like The Battle of Culloden\" (i.e. Bonnie Prince Charlie 1746). Margaret MacNeil lives with her widowed mother in a small company town in Nova Scotia (1949 judging by the cars). The economy revolves around the coal mine and the story has all the \"I owe my soul to the company store\" elements (''Sons and Lovers'' and ''The Molly Maguires'' are unfunny examples). Margaret's father and older brother were killed in the mine and her grandfather is barely able to breathe after years of working in \"the pit\". The broken nature of the family and the cause are symbolized by their house, once a duplex the other unit was destroyed when a portion of the tunnel underneath collapsed. Margaret falls in love with and marries Neil Currie (Clive Russell), at least in part because he has quit mining work for good. Neil is a giant of a man who incessantly plays the bagpipes, speaks in the Gaelic dialect, drinks a lot, and composes traditional tunes. Of course with all the emphasis on Neil staying out of the mines you just know that he will eventually go back to work there. There is a coming of age side story about Margaret's younger brother Jimmy (Craig Olejnik), but it is given too little emphasis to be much of a factor. It does introduce a bit of irony as Jimmy is expected to be the family member who breaks the mold and escapes, but his first love makes him reluctant to leave the town for better things. Kate Nelligan plays Margaret's deservedly fatalistic mother and creates a complex character. Watch how this hardened woman occasionally exhibits a ray of optimism and even a slight bit of hope for her daughter. The title refers to Margaret's \"Cost of Coal\" museum which she opens as an expression righteous indignation. The museum sequences bookend the main story (told in a long flashback). If not on the perfection level of \"New Waterford Girl\", the fine performances and the excellent production design make \"Margaret's Museum\" well worth watching. Then again, what do I know? I'm only a child.",
+         "I saw this first in the theatre, it didn't stay too long, so I was lucky. For the life of me I don't understand how these movies don't get the publicity they deserve. Saint Ralph comes to mind, C.R.A.Z.Y., and the \"Hanging Garden\" et al. Lovely homegrown efforts with a story line and casting and the kind of breathtaking scenery that doesn't leave your mind for a while. This is eccentric in the extreme, you wonder where it is going from the outset when a woman leaves a little local museum in Glace Bay, Nova Scotia, screaming her head off. The story unwinds charmingly and tragically. Helena Bonham Carter sinks her teeth into the role of the sniffling Margaret, all quirky and saucy who captures the heart of the drunken ex-miner bagpiper extraordinaire and Gaelic aficionado, Neil Currie, played by the devilish Clive Russell. Sparks fly, some highly erotic bits between the two. Kate Nelligan as Margaret's mother, plays a hardnosed sarcastic and bitter woman who has lost her husband and a son to the mines and is caring for her elderly father who can't breathe for the coal dust in his lungs. I won't spoil the story, it winds to its sad and shocking conclusion in its own time, suffice to say that there are many lovely side bits ( a blossoming love story between Margaret's young brother and the daughter of the manager of the mine being one). 8 out of 10. Supporting cast and music were wonderful. A few little story holes that were slightly annoying - an uncle supposedly out on bail for arson back in his old job lickety split and a grandchild that had disappeared - but not enough to detract from an overall fine film. Even the second time around!",
+         "\"Margaret's Museum\" tells of a young Nova Scotia woman who's bound by her family ties to a coal mining town where frequent accidents in the \"pit\" take their toll on the mine workers and their families. Not just another coal mining flick, \"MM\" focuses with musings, humor, and poignant moments on Margaret, who's nose is always running, and her assorted quirky family and friends. An engrossing, somewhat compelling, and almost charming little film, \"MM\" should appeal to those with a taste for slice-of-life flicks involving eccentric folk.",
+         "I'm not sure anything new can be done with this type of story, but this movie doesn't really try. Director/co-writer Mort Ransen does try to make it somewhat fresh, I guess, by centering the story about a woman, and Helena Bonham Carter, as usual, is quite good in this role. I also liked Clive Russell, the humor he brought to the movie, and the chemistry he had with Carter. But as Carter's mother, Kate Nelligan (who I like) runs the gamut of expressions from A to B, and it just becomes too predictable.",
+         "A wonderful story about relationship and family, Margaret's Museum is a moving story that has more to do than love. The setting of Nova Scotia makes the theme of the film more gritty than if it took place in a more modern atmosphere. Starting their family and their marriage from scratch, the building of their home and their careers are shown as the \"young\" couple try hard to do things right. Helena Bonham Carter is the star of the film as she portrays Margaret. Throughout the film we see her transition as a woman and a wife. Many actors are known for their physical qualities as oppose to their acting talents. Some actors have very little if not zero acting talent, but are very beautiful and are willing to showcase their assets. Helena Bonham Carter has shown much of herself on the big screen throughout the years. Still, along with her physical beauty, Carter has become an amazing actress. Even though there are moments in this film where she showcases her body for the delight of the audience, she remains a strong actress overall with her true talent of being a great actress.",
+         "Few films capture the strange and elusive energy of maritime Canada, and those that try are often so inept as to do it no justice. The style of speech and emotional resonance of these characters carries through in a way that cannot be pretended at or treated like some amusing passing interest. \"New Waterford Girl\" got it right. So does this film. It takes a strong, central female performance to tie this story together, and it gets that in Helena Bonham Carter. She is luminous in her look and speech, a kind of animal type of push for freedom. Kate Nelligan is fully convincing as her mother, a believable reflection of who she might become. The general look and feel of \"Margaret's Museum\" is a curious thing. The style of director Mort Ransen and cinematographer Vic Sarin is very straightforward. The images are driven by content solely, by composition. Every visual aspect is informed by straight realism. It's not the sort of film that makes you say \"What a beautiful shot,\" but instead \"What a beautiful person/place/thing.\" You see past the camera, more to what is there in front of you, in front of the characters. The ending (which proves the reason behind the film's title) is a bug surprise. Every single day, ordinary people do strange and unexpected things, but it is rare to find a script that takes a real, human character and gives her one such bizarre action to commit. But \"Margaret's Museum\" is a fascinating, unexpected film. It takes a well-used dramatic arc and directs it toward uncommon places. It captures the spirit and feel of Cape Breton, Nova Scotia. Something I've known quite well, and could always feel more. See this.",
+         "I have forgotten the reason that prompted me to seek out this film, but I did. And it was a pleasant surprise. The film was slow, but acting was good, and the depiction of a mining community in the 50's fairly realistic. Helena B.C. looked commonplace without the heavy makeup required for most of her roles in the likes of 'Room With A View', and looked natural and well-fitted for her role. The background music was well chosen, and very becoming of the stage it set, as was the scenery. Overall, this film is a small gem. Too bad it has been little known and not promoted properly.",
+         "I can't provide a million details like the other authors here, i only browsed that movie, damn fascinating though, but is that story realistic? I know how people were in the fifties,they would've lynched her for that. Today it looks harmless, i like the idea anyway, but people were different then, i think the story focuses too much on the protagonist and blinds out the doubtlessly extremely violent reactions of the people around her, which starting with psycho-terror and ending with lynch-justice. It's always the same screenplay if you live with common people. However, it would be interesting to see how her life goes on according to the writers of this story. In reality her life wouldn't go on anyway. Not in the fifties",
+         "A film of almost inconceivable beauty & directness. Helena Bonham-Carter as sniffling Margaret is well past grand, as is Clive Russell as her Neil, with bagpipes, & Kate Nelligan as Mom. Not for the foolishly squeamish, but all others will experience grave, if occasionally hilarious, delight."
+      ],
+      "genres": ["Drama"],
+      "productionCompanies": [
+         "British Screen Productions",
+         "Ciné Télé Action",
+         "Glace Bay Pictures"
+      ],
+      "summaries": [
+         "In a town where half the men die down the coalpit, Margaret MacNeil is quite happy being single. Until she meets Neil Currie, a charming and sincere bagpipe-playing, Gaelic-speaking dishwasher. But no matter what you do, you can't avoid the spectre of the pit forever.",
+         "It's the 1940's. Margaret MacNeil lives in Glace Bay, Nova Scotia, which is coal mining country. The coal pits have affected her life as they have most of her neighbors: both her father and older brother died in the pits and her grandfather has a respiratory illness which has rendered him speechless from his years working in the pits. The worst sound for those living in the area is a coal pit's emergency whistle, which means someone has been seriously injured or has died. As such, she refuses to date any miner, preferring to be alone. However, her fifteen year old brother, Jimmy MacNeil, is just coming to the age when all he can think about is girls, one in particular that may be a problem in their class directed society. Jimmy aspires to work in the pits to earn some money for what he sees as his future. Into Margaret's life comes bagpipe playing Scotsman Neil Currie, who used to work in the mines but purposefully got fired since the miner's life was not for him. Against her headstrong mother Catherine MacNeil's wishes, Margaret and Neil get married. Catherine doesn't see how someone like Neil can provide a life for himself, let alone Margaret. Although Neil is able to buy a run-down house that requires major repairs before he and Margaret can live there (meaning that they must live with Catherine in the meantime), he loses his dish-washing job, and against Margaret's wishes, he decides to go back into the pits. Eventually, Margaret, inspired by her life with Neil and in tribute to all the miners, decides to open a unique museum in his and their honor, especially in how the mines have affected her life."
+      ],
+      "budget": 0
+   },
+   "movielensId": 114,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1995-09-13",
+      "dvdReleaseDate": null,
+      "directors": ["Mort Ransen"],
+      "runtime": 114,
+      "movieId": 114,
+      "title": "Margaret's Museum",
+      "mpaa": null,
+      "actors": [
+         "Helena Bonham Carter",
+         "Clive Russell",
+         "Craig Olejnik",
+         "Kate Nelligan",
+         "Kenneth Welsh",
+         "Andrea Morris"
+      ],
+      "imdbMovieId": "0113774",
+      "originalTitle": "Margaret's Museum",
+      "genres": ["Drama"],
+      "youtubeTrailerIds": ["S82xxKIURF4"],
+      "plotSummary": "In a town where half the men die down the coalpit, Margaret MacNeil is quite happy being single in her small Cape Breton island town. Until she meets Neil Currie, a charming and sincere bagpipe-playing, Gaelic-speaking dishwasher. But no matter what you do, you can't avoid the spectre of the pit forever.",
+      "tmdbMovieId": 71754,
+      "avgRating": 3.62745,
+      "releaseYear": "1995",
+      "numRatings": 255,
+      "posterPath": "/l00ALsdVyRGmPIp5EWlEoplki0X.jpg"
+   }
+}

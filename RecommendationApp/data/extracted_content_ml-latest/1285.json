@@ -1,0 +1,940 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "suicide",
+            "id": 236
+         },
+         {
+            "name": "diary",
+            "id": 2913
+         },
+         {
+            "name": "friendship",
+            "id": 6054
+         },
+         {
+            "name": "high school",
+            "id": 6270
+         },
+         {
+            "name": "dark comedy",
+            "id": 10123
+         },
+         {
+            "name": "clique",
+            "id": 41203
+         }
+      ],
+      "imdb_id": "tt0097493",
+      "video": false,
+      "title": "Heathers",
+      "recommendations": [
+         11522,
+         1548,
+         13342,
+         8428,
+         9451,
+         15144,
+         2028,
+         9430,
+         9434,
+         11557,
+         11446,
+         12498,
+         9603,
+         13685,
+         10683,
+         68924,
+         2255,
+         21309,
+         2293,
+         13820
+      ],
+      "backdrop_path": "/dw2v5NyQz8ehijKAA0Z1Mzj5CCh.jpg",
+      "revenue": 1108462,
+      "reviews": [{
+         "author": "Wuchak",
+         "id": "5a85f2070e0a26400b02dcfd",
+         "content": "RELEASED IN 1989 and directed by Michael Lehmann, \u201cHeathers\u201d stars Winona Ryder as Veronica, a high school student in Ohio who has sold herself out to join the popular clique of three girls, all coincidently named Heather (Kim Walker, Lisanne Falk & Shannen Doherty). The more she spends time with them, however, the more she discovers she can\u2019t stand them. Enter mysterious new kid, JD (Christian Slater), who has a macabre solution to Veronica\u2019s conundrum.   \r\n\r\nThis is an oddball teen movie that tries to be edgy and amusing with its black humor and overt cussing. Future movies were influenced by it, like \u201cJawbreaker\u201d (1999) and maybe even \u201cMean Girls\u201d (2004). The commentary on peer pressure, teen suicide and the maiming destructiveness of cliques is potent. Teens can be misled by the \u201cpopular\u201d students, yes, but they can also be misled by the outcasts.   \r\n\r\nSlater stands out as a sorta dark Fonz of the late 80s, easily one of his best roles ever. Ryder is surprisingly good as the protagonist. I say \u201csurprisingly\u201d because I was never big on her (although I didn\u2019t dislike her either). The first act is quite good, but the story gets humdrum in the middle; thankfully, the last 20 minutes perk up. The late 80\u2019s ambiance is to die for.\r\n\r\nI\u2019m not going to give it away, but the original ending was way more morbid. They had an alternative ending that they didn\u2019t go with either. Apparently the studio pressured the writer/director to go with the theatrical ending, which I approve. It\u2019s a story of redemption. Being misled by corrupt people for a season doesn\u2019t define a person forever.                       \r\n\r\nTHE MOVIE RUNS 1 hours & 43 minutes and was shot in Los Angeles (the high school) and surrounding area (Santa Monica, Tujunga and Pasadena). WRITER: Daniel Waters.\r\n\r\nGRADE: B-/C+",
+         "url": "https://www.themoviedb.org/review/5a85f2070e0a26400b02dcfd"
+      }],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 4,
+               "character": "Veronica Sawyer",
+               "gender": 1,
+               "credit_id": "52fe4361c3a36847f804ffcb",
+               "name": "Winona Ryder",
+               "profile_path": "/gUyEOZpZlGBUkUxCxyoLEc9WejR.jpg",
+               "id": 1920,
+               "order": 0
+            },
+            {
+               "cast_id": 5,
+               "character": "J.D.",
+               "gender": 2,
+               "credit_id": "52fe4361c3a36847f804ffcf",
+               "name": "Christian Slater",
+               "profile_path": "/3ElLWjnvchMS6Q4cIQOK8QNAoMG.jpg",
+               "id": 2224,
+               "order": 1
+            },
+            {
+               "cast_id": 6,
+               "character": "Heather Duke",
+               "gender": 1,
+               "credit_id": "52fe4361c3a36847f804ffd3",
+               "name": "Shannen Doherty",
+               "profile_path": "/1q3BKF6vnOFUOCRier8hfH9Nyxo.jpg",
+               "id": 19144,
+               "order": 2
+            },
+            {
+               "cast_id": 7,
+               "character": "Heather McNamara",
+               "gender": 1,
+               "credit_id": "52fe4361c3a36847f804ffd7",
+               "name": "Lisanne Falk",
+               "profile_path": "/w4JbmqXOb3S9XxMdA0qQicFrcTs.jpg",
+               "id": 4801,
+               "order": 3
+            },
+            {
+               "cast_id": 8,
+               "character": "Heather Chandler",
+               "gender": 1,
+               "credit_id": "52fe4361c3a36847f804ffdb",
+               "name": "Kim Walker",
+               "profile_path": "/lgoZO2aLZpruj2s54ShbsnocBG3.jpg",
+               "id": 27565,
+               "order": 4
+            },
+            {
+               "cast_id": 9,
+               "character": "Pauline Fleming",
+               "gender": 1,
+               "credit_id": "52fe4361c3a36847f804ffdf",
+               "name": "Penelope Milford",
+               "profile_path": "/zb2EsGdtioS7krQR4LAfH1xkA5V.jpg",
+               "id": 27566,
+               "order": 5
+            },
+            {
+               "cast_id": 10,
+               "character": "Vater Ripper",
+               "gender": 2,
+               "credit_id": "52fe4361c3a36847f804ffe3",
+               "name": "Glenn Shadix",
+               "profile_path": "/n8jN66HVN4vjXKvZsOMkbTrJXH6.jpg",
+               "id": 13243,
+               "order": 6
+            },
+            {
+               "cast_id": 11,
+               "character": "Kurt Kelly",
+               "gender": 2,
+               "credit_id": "52fe4361c3a36847f804ffe7",
+               "name": "Lance Fenton",
+               "profile_path": null,
+               "id": 27567,
+               "order": 7
+            },
+            {
+               "cast_id": 12,
+               "character": "Veronica's Mom",
+               "gender": 1,
+               "credit_id": "52fe4361c3a36847f804ffeb",
+               "name": "Jennifer Rhodes",
+               "profile_path": "/auNxS9GPM84mAQjpZgsU1eeLyce.jpg",
+               "id": 27568,
+               "order": 8
+            },
+            {
+               "cast_id": 15,
+               "character": "Peter Dawson",
+               "gender": 0,
+               "credit_id": "52fe4361c3a36847f804fffb",
+               "name": "Jeremy Applegate",
+               "profile_path": "/qn5Dz6bCcz3QO6d9jbKEqGq9r5P.jpg",
+               "id": 197537,
+               "order": 9
+            },
+            {
+               "cast_id": 16,
+               "character": "Ram",
+               "gender": 0,
+               "credit_id": "52fe4361c3a36847f804ffff",
+               "name": "Patrick Labyorteaux",
+               "profile_path": "/bpT1Xkowt0YpsntbytgddnWDT9Q.jpg",
+               "id": 114876,
+               "order": 10
+            },
+            {
+               "cast_id": 17,
+               "character": "Rodney",
+               "gender": 0,
+               "credit_id": "52fe4361c3a36847f8050003",
+               "name": "Jon Matthews",
+               "profile_path": null,
+               "id": 193390,
+               "order": 11
+            },
+            {
+               "cast_id": 18,
+               "character": "Martha Dunnstock",
+               "gender": 1,
+               "credit_id": "52fe4361c3a36847f8050007",
+               "name": "Carrie Lynn",
+               "profile_path": null,
+               "id": 1003566,
+               "order": 12
+            },
+            {
+               "cast_id": 19,
+               "character": "Dennis",
+               "gender": 2,
+               "credit_id": "52fe4361c3a36847f805000b",
+               "name": "Phill Lewis",
+               "profile_path": "/9BNNDcZ9xLTZXjSLyusBhTCc6AL.jpg",
+               "id": 33490,
+               "order": 13
+            },
+            {
+               "cast_id": 20,
+               "character": "Betty Finn",
+               "gender": 1,
+               "credit_id": "52fe4361c3a36847f805000f",
+               "name": "Renée Estevez",
+               "profile_path": "/riskq4Hjlj2hyWpnMeKjyquqIJ8.jpg",
+               "id": 42935,
+               "order": 14
+            },
+            {
+               "cast_id": 21,
+               "character": "Country Club Keith",
+               "gender": 2,
+               "credit_id": "52fe4361c3a36847f8050013",
+               "name": "John Zarchen",
+               "profile_path": null,
+               "id": 151335,
+               "order": 15
+            },
+            {
+               "cast_id": 22,
+               "character": "Veronica's Dad",
+               "gender": 2,
+               "credit_id": "52fe4361c3a36847f8050017",
+               "name": "William Cort",
+               "profile_path": null,
+               "id": 81905,
+               "order": 16
+            },
+            {
+               "cast_id": 23,
+               "character": "Principal Gowan",
+               "gender": 2,
+               "credit_id": "52fe4361c3a36847f805001b",
+               "name": "John Ingle",
+               "profile_path": "/d7RnwWIuBjMpDRSpz3mTaCHMmOc.jpg",
+               "id": 44052,
+               "order": 17
+            },
+            {
+               "cast_id": 24,
+               "character": "Counselor Paul Hyde",
+               "gender": 0,
+               "credit_id": "52fe4361c3a36847f805001f",
+               "name": "Stuart Mabray",
+               "profile_path": null,
+               "id": 163578,
+               "order": 18
+            },
+            {
+               "cast_id": 25,
+               "character": "Country Club Courtney",
+               "gender": 0,
+               "credit_id": "52fe4361c3a36847f8050023",
+               "name": "Sherrie Wills",
+               "profile_path": null,
+               "id": 1137039,
+               "order": 19
+            },
+            {
+               "cast_id": 26,
+               "character": "David",
+               "gender": 2,
+               "credit_id": "52fe4361c3a36847f8050027",
+               "name": "Larry Cox",
+               "profile_path": null,
+               "id": 165289,
+               "order": 20
+            },
+            {
+               "cast_id": 27,
+               "character": "Brad",
+               "gender": 0,
+               "credit_id": "52fe4361c3a36847f805002b",
+               "name": "Kent Stoddard",
+               "profile_path": null,
+               "id": 106356,
+               "order": 21
+            },
+            {
+               "cast_id": 28,
+               "character": "Kurt's Dad",
+               "gender": 2,
+               "credit_id": "52fe4361c3a36847f805002f",
+               "name": "Mark Carlton",
+               "profile_path": null,
+               "id": 94557,
+               "order": 22
+            },
+            {
+               "cast_id": 35,
+               "character": "Geek",
+               "gender": 0,
+               "credit_id": "59e99de29251410c7400a8db",
+               "name": "Curtiss Marlowe",
+               "profile_path": null,
+               "id": 1908797,
+               "order": 23
+            },
+            {
+               "cast_id": 36,
+               "character": "Fat Cynic",
+               "gender": 2,
+               "credit_id": "59e99e36c3a3687f81009e9e",
+               "name": "Andrew Benne",
+               "profile_path": null,
+               "id": 181607,
+               "order": 24
+            },
+            {
+               "cast_id": 37,
+               "character": "1st Heavy Metaller in Pkg. Lot",
+               "gender": 0,
+               "credit_id": "59e99ebe9251410c1200a88d",
+               "name": "Kevin Hardesty",
+               "profile_path": null,
+               "id": 193386,
+               "order": 25
+            },
+            {
+               "cast_id": 38,
+               "character": "2nd Heavy Metaller in Pkg. Lot",
+               "gender": 2,
+               "credit_id": "59e99eeb9251410c1200a8cf",
+               "name": "Josh Richman",
+               "profile_path": "/5uVP4uHBB8CHjNJFTz6s3UHf2Ud.jpg",
+               "id": 3209,
+               "order": 26
+            },
+            {
+               "cast_id": 39,
+               "character": "Female Stoner",
+               "gender": 1,
+               "credit_id": "59e99f6cc3a3687fc600a944",
+               "name": "Bess Meyer",
+               "profile_path": null,
+               "id": 109899,
+               "order": 27
+            },
+            {
+               "cast_id": 40,
+               "character": "Teacher in Conference Room",
+               "gender": 1,
+               "credit_id": "59e99ff2c3a3687f1500b489",
+               "name": "Betty Ramey",
+               "profile_path": null,
+               "id": 554010,
+               "order": 28
+            },
+            {
+               "cast_id": 41,
+               "character": "Nerd in Pauline's Class",
+               "gender": 2,
+               "credit_id": "59e9a0559251410c7400accd",
+               "name": "Aaron Mendelsohn",
+               "profile_path": null,
+               "id": 86526,
+               "order": 29
+            },
+            {
+               "cast_id": 42,
+               "character": "Big Bud Dean",
+               "gender": 2,
+               "credit_id": "59e9a0d99251410c0e00b042",
+               "name": "Kirk Scott",
+               "profile_path": "/xM4zlnWVe3QuwYUDkHW2X6404N9.jpg",
+               "id": 29752,
+               "order": 30
+            },
+            {
+               "cast_id": 43,
+               "character": "Officer McCord",
+               "gender": 2,
+               "credit_id": "59e9a12f9251412c870089a0",
+               "name": "Mark Bringelson",
+               "profile_path": "/kbQDiLpWbXWMDWlrm8FNXNT4WWY.jpg",
+               "id": 15443,
+               "order": 31
+            },
+            {
+               "cast_id": 44,
+               "character": "Officer Milner",
+               "gender": 0,
+               "credit_id": "59e9a1749251410c7400aea2",
+               "name": "Chuck Lafont",
+               "profile_path": null,
+               "id": 1512992,
+               "order": 32
+            },
+            {
+               "cast_id": 45,
+               "character": "Squealing Girl in Parking Lot",
+               "gender": 0,
+               "credit_id": "59e9a1cf9251410c1600ab2d",
+               "name": "Christie Mellor",
+               "profile_path": null,
+               "id": 1234050,
+               "order": 33
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4361c3a36847f804ffbb",
+               "name": "Michael Lehmann",
+               "profile_path": "/rM0KmE5Fr9zAi5gzQv9bc78Q1GX.jpg",
+               "id": 7145,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4361c3a36847f804ffc1",
+               "name": "Denise Di Novi",
+               "profile_path": "/2U7NbchfxJpZOwOWE5FVtQY7gBK.jpg",
+               "id": 1899,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4361c3a36847f804ffc7",
+               "name": "Daniel Waters",
+               "profile_path": "/cn6wLtCJ1e6GiYQ1cMmOC4BJmhK.jpg",
+               "id": 5128,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4361c3a36847f804fff1",
+               "name": "Francis Kenny",
+               "profile_path": null,
+               "id": 16464,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4361c3a36847f804fff7",
+               "name": "Norman Hollyn",
+               "profile_path": null,
+               "id": 27569,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4361c3a36847f8050035",
+               "name": "David Newman",
+               "profile_path": "/vncTIJaBWoYmpdNCPkDnA8hT3PM.jpg",
+               "id": 3393,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4361c3a36847f805003b",
+               "name": "Sally Dennison",
+               "profile_path": null,
+               "id": 14845,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4361c3a36847f8050041",
+               "name": "Julie Selzer",
+               "profile_path": null,
+               "id": 44048,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4361c3a36847f8050047",
+               "name": "Jon Hutman",
+               "profile_path": null,
+               "id": 2243,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4361c3a36847f805004d",
+               "name": "Kara Lindstrom",
+               "profile_path": null,
+               "id": 14609,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4361c3a36847f8050053",
+               "name": "Rudy Dillon",
+               "profile_path": null,
+               "id": 21617,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59e9a25e9251410c7400b024",
+               "name": "Julie Hewett",
+               "profile_path": null,
+               "id": 1319166,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59e9a2dec3a3687fa6009be2",
+               "name": "Scott Williams",
+               "profile_path": null,
+               "id": 160024,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59e9a3169251410c6200b0ea",
+               "name": "Iya Labunka",
+               "profile_path": null,
+               "id": 1312509,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59e9a3659251410c6200b144",
+               "name": "Mary Ellen Woods",
+               "profile_path": null,
+               "id": 1302622,
+               "department": "Directing",
+               "job": "First Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59e9a39b9251410c1200b008",
+               "name": "David W. Ford",
+               "profile_path": null,
+               "id": 1906207,
+               "department": "Art",
+               "job": "Leadman"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59e9a3edc3a3687fc600afde",
+               "name": "Greg J. Grande",
+               "profile_path": null,
+               "id": 1332209,
+               "department": "Art",
+               "job": "Property Master"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59e9a40f9251410c1600ae34",
+               "name": "Don Larson Jr.",
+               "profile_path": null,
+               "id": 1908806,
+               "department": "Art",
+               "job": "Construction Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59e9a45e9251410c1600aec3",
+               "name": "George Berndt",
+               "profile_path": null,
+               "id": 1535788,
+               "department": "Sound",
+               "job": "ADR Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59e9a4f7c3a3687f3200b0c8",
+               "name": "Sarah Goldsmith",
+               "profile_path": null,
+               "id": 1554799,
+               "department": "Sound",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59e9a5c7c3a3687fc600b30c",
+               "name": "John Morris",
+               "profile_path": null,
+               "id": 1544669,
+               "department": "Sound",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59e9a6039251410c6200b5e6",
+               "name": "Lorie O'Shatz",
+               "profile_path": null,
+               "id": 1908817,
+               "department": "Sound",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59e9a686c3a3687f3200b35c",
+               "name": "Jerry Ross",
+               "profile_path": null,
+               "id": 1391387,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59e9a71ec3a3687fc600b520",
+               "name": "Hamilton Sterling",
+               "profile_path": null,
+               "id": 1360100,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59e9a7a59251410c1600b3f6",
+               "name": "Martin Bresin",
+               "profile_path": null,
+               "id": 1172335,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59e9a7f0c3a36827fa009dea",
+               "name": "Dan Bradley",
+               "profile_path": null,
+               "id": 8684,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59e9a84cc3a3687f6600a84a",
+               "name": "Mitch Dubin",
+               "profile_path": null,
+               "id": 1395463,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59e9a8adc3a3687fc600b74f",
+               "name": "Aristides Pappidas",
+               "profile_path": null,
+               "id": 1908830,
+               "department": "Lighting",
+               "job": "Gaffer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59e9a915c3a3687f8100aec5",
+               "name": "Michael Paris",
+               "profile_path": null,
+               "id": 1555531,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59e9a9689251412cf5009cf0",
+               "name": "Christopher Rogers",
+               "profile_path": null,
+               "id": 1908831,
+               "department": "Camera",
+               "job": "Dolly Grip"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59e9a9e5c3a3687f1500c48b",
+               "name": "Thaddeus Wadleigh",
+               "profile_path": "/lvTQCZ2DNjzPTw0Wwdfkrfn4gss.jpg",
+               "id": 994915,
+               "department": "Camera",
+               "job": "Key Grip"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59e9aa4ac3a3687f8100b0f9",
+               "name": "Maureen Mitchell",
+               "profile_path": null,
+               "id": 1908834,
+               "department": "Editing",
+               "job": "First Assistant Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59e9aa71c3a3687f3200b95c",
+               "name": "Jerry Ariganello",
+               "profile_path": null,
+               "id": 1672760,
+               "department": "Production",
+               "job": "Location Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59e9aa90c3a36875e2000064",
+               "name": "Scott Grusin",
+               "profile_path": null,
+               "id": 1908835,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59e9aab79251412cf5009f0d",
+               "name": "Claire Baker",
+               "profile_path": null,
+               "id": 1908836,
+               "department": "Production",
+               "job": "Production Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59e9aad59251410c0e00bfec",
+               "name": "Irene Brafstein",
+               "profile_path": null,
+               "id": 1908837,
+               "department": "Crew",
+               "job": "Studio Teachers"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59e9aafec3a36827fa00a2f9",
+               "name": "Elana Golden",
+               "profile_path": null,
+               "id": 1811370,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "59e9ab3fc3a3687f1500c6be",
+               "name": "Vicki Rocco",
+               "profile_path": null,
+               "id": 1832414,
+               "department": "Production",
+               "job": "Production Coordinator"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Thriller",
+            "id": 53
+         },
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         }
+      ],
+      "popularity": 10.513202,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 2640,
+      "vote_count": 509,
+      "budget": 0,
+      "overview": "A girl who halfheartedly tries to be part of the \"in crowd\" of her school meets a rebel who teaches her a more devious way to play social politics: by killing the popular kids.",
+      "similar": [
+         43923,
+         13523,
+         272693,
+         449176,
+         3597,
+         397422,
+         308369,
+         286565,
+         133805,
+         376660,
+         57214,
+         20453,
+         4951,
+         2108,
+         862,
+         2253,
+         8363,
+         8193,
+         627,
+         277217
+      ],
+      "original_title": "Heathers",
+      "runtime": 102,
+      "poster_path": "/38DHopfWHrWqYjphcBeAxOomled.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Italiano",
+            "iso_639_1": "it"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "New World Pictures",
+            "id": 1950,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Cinemarque Entertainment",
+            "id": 10170,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1988-10-01",
+      "vote_average": 7.3,
+      "belongs_to_collection": null,
+      "tagline": "Best friends, social trends, and occasional murder.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Michael Lehmann"],
+      "runtime": 103,
+      "synopsis": "Veronica is part of the most popular clique at school, made up of Heather Duke, Heather McNamara and led by Heather Chandler. Tired of the way Heather Chandler bullies and controls everyone Veronica wishes she was dead so that she could free to do as she wants instead of what Heather Chandler wants. Veronica then meets J.D, a dark rebel, who says they should teach Heather Chandler a lesson by making her drink drain cleaner. Heather Chandler does and dies from chemical poisoning instantly. To cover up the murder J.D tells Veronica to write suicide note in Heather Chandler's handwriting. The cruelty and bullying doesn't stop however, as Heather Duke merely replaces Heather Chandler as leader, and her suicide is seen as glamorous and cool. J.D then tricks Veronica into shooting two of the football players, Kurt and Ram, who were harassing her, and covering it up with another suicide note that says they were secretly gay. Veronica becomes scared of J.D realises that he intended to kill them while she just wanted to scare them. His next plan is to kill Heather Duke, but Veronica wants no part of it, so instead he plans to blow up the school, after everyone has sign a \"petition\" which is actually a group suicide note. Veronica shoots J.D forcing him to leave the bomb in the school and go outside where he then straps the bomb to himself. Veronica watches as he blows himself up, and then returns inside to confront Heather Duke. She tells Heather Duke \"there's a new sheriff in town\" and walks off talks to the school nerd, suggesting that she will now be leader of the school.",
+      "writers": ["Daniel Waters"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0097493/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMjE0Mjc3ODAwNV5BMl5BanBnXkFtZTgwMDM3ODI1MDE@._V1_SY317_CR0,0,214,317_AL_.jpg",
+      "actors": ["Stars: Winona Ryder, Christian Slater, Shannen Doherty | See full cast and crew »"],
+      "reviews": [
+         "Daniel Waters wrote one of the best satires ever in \"Heathers\", a dark comedy that ranks right up there with \"Dr. Strangelove\" and \"Network\". Certainly it's the best teen comedy ever made. Why? Because in spite of its highly stylized depiction of teenagers, it caught the truest essence of what high school is actually like in America. Not only that, it trashed the entire genre and-- in a feat of sheer genius-- even the *reaction* to the genre by outside observers (namely parents). Terry Southern could have done no better. \"Westerburg high school self-destructed not *because* of society but because Westerburg High School *was* society\" was restated, to near-universal praise, by Michael Moore in \"Bowling For Columbine\", but Waters said it before him, said it better, and frankly he's got a lot more credibility (\"Hudson Hawk\" notwithstanding). The cast is brilliant, even if, strangely, some of them don't seem to get what the whole movie was about. You half expect that most of the cast and crew, like the kids who sign a petition to bring Big Fun to the school for a gig, made a movie they didn't know they were making. But the key figures nailed it-- Ryder and Slater were never better. \"Heathers\" is one of the best films of the Eighties-- put the lid on the Eighties, as it were. It has suffered criminal neglect, probably because it may have required an \"indie auteur\" to really knock the cinematic elements out of the park. The direction is competent but unspectacular. Still, the star is the writing, and Waters deserved an Oscar for this script. Unsentimental, vicious, and above all hilariously funny, he drove a stake through the heart of those oh-so-precious John Hughes films and, at the same time, set the stage for Kevin Williamson and all the rest. He did it with a perfect ear for dialogue combined with a Swiftian vision of social structures, and did it all as an argument *against* ironic detachment, for which this film and its messages needs to be revisited now more than ever. Simply incredible.",
+         "I first saw \"Heathers\" when it was first released in 1989 and to this day I remember most of the lines and scenes which cause me to laugh at all the wrong times. I went to see the film because the hot actor of the time was Winona Ryder and I was in love with her after seeing her in \"Lucas\" and \"Beetlejuice\" and \"1969\". In each movie she played a version of a Goth chick - very smart, very pretty, but with a monotone delivery and moody attitude. I also wanted to catch Christian Slater. I remembered him from his role as Binx in \"The Legend of Billie Jean\" and in the film \"Tucker: The Man and His Dream\" \"Heathers\" is great satire of teen life back in the 1980's. It picks apart every teen angst and cliche and spins it in a goofy plot of rebellion and revenge gone amuck. Ryder, playing Veronica, is on the fringe of the popular clic run by 3 girls names Heather. Each Heather is abusive, dumb, and pretty. For any teen who wanted to fit in the popular crowd but couldn't make it completely will identify with Veronica. She meets a new student, J.D., played by Slater who is the complete opposite of the popular crowd. He wants nothing to do with them or the school. Veronica finds this interesting and soon she falls under the expert manipulation of J.D. Due to what starts as an accidental death, the two start a chain of events that looks like a teen suicide epidemic that was the common fear of adults back then. Slater steals the movie from Ryder with his sly Jack Nicholson line delivery and James Dean attitude. Ryder is good but she can't stop Slater from chewing up the scenes. The adults in the movie are classic clueless parental units that teen movies seem to always need. The best one is the guidance counselor that says \"Whether or not a teenager decides to kill themselves is the biggest decision of their life. \" Watching this movie I kept saying to myself \"They just did not do that?\" or \"They just did not say that?\" I never laughed so hard in my life at that time. A special treat was the Heather played by Shannen Doherty. Besides Ryder and Slater, she was the only other actor that I knew (except for Patrick Labyorteaux, who played the jock \"Ram\" who can now be seen on JAG as Ens. Roberts). Before Heathers, Shannen had played good girl roles and had just ended a series called \"Our House\" where she wanted to become a pilot. Her role became more interesting after finding out she turned out like her \"Heather\" character in real life. The only thing that bothers me about this film today is that it could never be made today. The suicide epidemics (that still happen from time to time) has been replaced by killing one's classmates at school. I just don't think the studios would have the guts to film a satire like \"Heathers\" today. As a side note: I read some of the previous comments from users who have only seen this movie on TV. All I can say is see the uncut version either on a movie channel or rent the DVD. The language and satire will only work in its uncensored format.",
+         "Winona Ryder, back when she only used to steal movie scenes, plays Veronica Sawyer, a girl sick of being a lackey to the \"Heathers\" which is the cool girls clique. She meets J.D (Christian Slater), a deeply troubled young man who's quick to resort to violence (So Christian was PERFECT for the part). This film is what every dark comedy should seek to be. Biting, vicious, mean, and utterly hilarious. The 80's had so many good movies and this stands among the best. The funny thing is that if they stuck to their guns and kept the original ending as scripted it would've been even better, but that's just a minor nitpick. So the next time a teeny-bopper starts fawning over how \"great\" and \"true to life\" \"Mean Girls\" was, give them a copy of this and show them a REAL movie. Anchor Bay S.E. DVD Extras: Audio commentary with director Michael Lehmann, producer Denise Di Novi and writer Daniel Waters ; \"Swatch Dogs and Diet Coke Heads\" documentary (30mins); Screenplay excerpt: original ending; Talent biogs; and Theatrical Trailer My Grade: A+",
+         "Unlike many of the teen movies that have enjoyed enduring appeal, \"Heathers\" survives not due to nostalgia, but because of its intelligence and searing, midnight-black wit. Winona Ryder is Veronica, the disillusioned popular girl who falls in with a dangerous loner - Christian Slater as the malefic J.D. The two attempt to right their high school's social wrongs and end up on a killing spree. Released on the cusp of the 1980s, the film feels strikingly prescient and more disturbing than ever today.",
+         "Ahhh... the late 80's. When shoulder pads were still in fashion, Winona Ryder hadn't yet been arrested for shoplifting and teen movies didn't solely feature recycled actors. When teen genius Veronica Sawyer (Ryder) gets bored with the shallow and cliquey lifestyle of the three Heathers; her new-found high school chums, she wishes them dead. She never expects it to happen, but this all changes when she meets Jason 'JD' Dean (Christian Slater), a cool, darkly-dressed rebel who moves around the US randomly with his distant tycoon father. From the iconic opening sequence to the explosive ending, every scene is darkly comic and dripping with irony. It almost looks over-rehearsed as nearly every actor's performance is flawless. Ryder in particular shines with her angst-ridden 'Dear Diary' entries, and Slater I don't believe has ever again encapsulated such a perfect role in his career to date. The queen Heather (Kim Walker) really deserved more screen-time. She perfectly represents the bitchy, sneering, self-obsessed High School teen. She even manages to convey vulnerability after uttering the immortal line 'Well f/ck me gently with a chainsaw.' Shannen Doherty starts off with what seems a minor part which gradually builds and lets her have fun with the role. The only disappointing Heather is Lisanne Falk, with whom we don't really connect or care about. It's hard to find anything to pick on with this movie, but it could have used some smoother editing. The scenes cut to actors in different lighting and obvious passages of time to deliver major lines, and correct me if I'm wrong but I don't think corpses should breathe. The humour is dark and the plot unbelievable at times, but this only adds to the surreal atmosphere and unforgettable lines. A sexy cast, a great script and director Michael Lehmann's vision makes this a must-see film and a worthy addition to any DVD collection. If you haven't yet witnessed the brilliance of Heathers, rectify this now.",
+         "With Heathers, director Lehmann has done more than create a movie. He has successfully created an escape for any student not deemed popular by their local school scene. Although the clothes and hair can be linked to a certain era in history, the truths explored within 'Heathers' are universal, and transcend time. A film that treats high school students as capable, intelligent beings who recognize a copy of 'The Bell Jar' lying on the ground in the same breath it treats them as moronic jocks who think with their . well not their brains, is destined for controversy. If controversy was what Lehmann and writer Daniel Waters were looking for, they found it in spades. Not only was it unconventional, showing the demise of the 'popular' kids, but it dealt with teen suicide in a comical way. Not something America was ready for at the time of release, causing many problems initially with simply getting the film shown in theaters. Luckily it has found its niche market now, and is now starting to be recognized as the powerful film that it is. Almost any store rents this movie, so there's no excuse for you to not watch it. Next time you're at the store pick this one off the shelf and give it a spin, even if you don't understand it fully you will be treated to a fantasy that almost every 'unpopular' kid has had at one time. Rating: 33/40",
+         "from the moment it begins with the three heathers playing croquet, you know that you will be in for an odd, cruel, and un-john hughes alike teen film. It's black as coal, and as sour as lemons. Although Christian Slater is jack nicholson with a facelift, it's still the most memorable performance in the movie. And winona ryder is also appealing as the lost and complex veronica. Some fantastically witty lines, humurously sick set pieces, and some truly great/cack 80's music make this a classic, more of a classic cult movie.",
+         "There is hardly a doubt in my mind that Heathers is one of the best films of the 1980s, if not included in a list that names all the essential films of movidedom. The movie is about Veronica Sawyer (Winona Ryder) who is fed up with her role and association with the cruelest and most popular clique in Remington High. The three other members (appropriatley named Heather and identified by their last names 'Duke', hobbies 'Cheerleader', and position '#1') are the dominant members of the school and take pride and joy in other's suffering. It isn't until Veronica meets a loner named Jason Dean (Christian Slater) that she finally has an outlet to vent her frustration about her life. Eventually JD and Veronica murder the leader of the clique and are forced to cover it up with a suicide. This leads to a horrificly dark satire of the teenage suicide epidemic of the eighties. After JD's rage continues Veronica must ask herself the question: Is she on the way to the prom or to hell? The movie is brilliant acted by Ryder, but the show is stolen by Slater. His Nicholson-esque performance is eerie and he gets my vote as one of the top villains of all time. The supporting roles are done well enough with the standouts being Dean's creepy father and Paula Fleming, the guidance counselour. Lehman directs the movie with a brilliant mix of colors that range from lighter at the beginning of the movie to darker at the end, as the tone changes. Although both Lehman and Waters would never match their previous success (they were actually quite bad after Heathers) this film proves that they did at one time have something to offer the world of cinema. While the story may seem like an ordinary black comedy and satire of the 1980s teen films it has a very simple message underneath: Be your own person. We have always been told in our lives to \"not do something just because it's cool\". So many teens reflect that, but there is also the other side of the coin \"don't do something just because it's uncool\" which Veronica tries with JD. So many teens conform to unconformity which doesn't make them individuals at all, this was really the first film to satire that other side of the argument. Be your own person does not mean rebel against the popular people or to join them, it just means be yourself and I think by the end of the film the viewer shares with Veronica's journey.",
+         "When this film came out, I didn't see it in the theater. I caught it in the video store. I walked into the video store and the funeral for the Football player was running. I stopped, watched, and laughed my head off. I immediately rented \"Heathers\" and fell in love with it. \"Heathers\" is the realization of what almost every kid in high school was exposed to at one time or another. You were either a \"Heather\" or a \"Veronica\" or the spooky/mysterious new kid, or the jock, or the undesirable, or the cheerleader, or the kid who wanted \"in\" as a \"Heather\" or..or..or. The only thing is that \"Heathers\" goes on to show you what happens \"if\"...If you could get away with some of the things you were thinking of at the time! The actions of the parents and teachers are to die for. When you're young you think you can figure out just about anything, or figure out what the adults are thinking and try to get around it. \"Heathers\" gets into it all, very darkly, and carries it off well. Although I thought the ending was a bit too...tidy. If you're in High School, (over 17 of course) or in College looking back at High School, you'll identify with this film. If you're an adult, this may remind you of those days, but this is a nicely done dark humored film. Go rent it today, see it uncut.",
+         "\"Heathers\" is these 3 popular girls in highschool. They rule the school. Veronica joined the clique after being promised the world. Veronica hates her friends. They are cruel and self absorbed. But one day she meets a hot rebel named Jason Dean and she is smitten. He also hates the Heathers too, and of course thats a big plus. One night after being ridiculed at a college party veronica tells Heather #1 off. Heather explains to Veronica that she is nothing and soon the whole school will know that as well. Veronica is about to go back to kissing Heather's ass until J.D. crawls through her window and convinces her that instead she can get revenge. Little does Veronica know that J.D. isn't really playing with a full deck of cards, and his idea of revenge is more violent than hers. The best part about the movie is how stupid everyone in their town is. The whole movie is a satire of Highschool, and what its like. How parents can be so cold, how the kids can be so cruel, and the way that life can suck."
+      ],
+      "genres": [
+         "Comedy",
+         "Crime",
+         "Drama"
+      ],
+      "productionCompanies": [
+         "New World Pictures",
+         "Cinemarque Entertainment"
+      ],
+      "summaries": [
+         "A regular girl, Veronica, tries to survive the social jungle of high school by sticking with the three most popular girls at school who are all called Heather. As she meets a sociopath named JD, her life spirals into a continuous cycle of hate, unintentional murder and indifference, as she exacts revenge on her enemies, also known as her best friends.",
+         "Veronica mingles with Heather I, II and III to be as popular as them, even though she hates them. She hates them enough to wish they were dead, though she would never want to be their cause of death. When she starts dating Jason Dean, however, she finds herself involved in the murders of most of her enemies, covered up as suicides.",
+         "Three high school girls named Heather run an iron clad social clique at high school. One of their anointees, Veronica, isn't sure she wants to fit into the clique, particularly when she has to snub some of her old friends at the Heathers' behest. When Veronica meets the new guy at school, she starts pulling away from the clique, while some of the more popular students start showing up dead with suicide notes.",
+         "Dear Diary: Veronica Sawyer is sick of being part of the Heathers, the most powerful clic of Westerberg High; making fun of Martha Dunnstock (\"Dumptruck\"), the fat girl, or doing some stupid polls is something she'll never get used to. Meanwhile she meets JD, a cool rebel guy who wouldn't mind shooting a gun at school just to make his point. Remington University's party is where Veronica has to go as a Heather, and there's where she gets her ultimatum as a Heather from Heather Chandler, the head of the Heathers. So Veronica and her lover JD \"accidentally\" kill Heather Chandler and manage to cover it up by making a suicide note. Will this be just the beginning of the assasination-turned-suicide serie of Westerberg High which nor the FBI, the CIA or the PTA would be able to stop? Or will Veronica be able to pull herself together and stop her psychotic lover from killing absolutely EVERYONE at school?",
+         "A girl who half-heartedly tries to be part of the \"in crowd\" of her school meets a rebel who teaches her a more devious way to play social politics; killing the popular kids."
+      ],
+      "budget": 3000000
+   },
+   "movielensId": 1285,
+   "movielens": {
+      "languages": [
+         "English",
+         "Italiano"
+      ],
+      "releaseDate": "1988-10-01",
+      "dvdReleaseDate": "2001-09-25",
+      "directors": ["Michael Lehmann"],
+      "runtime": 102,
+      "movieId": 1285,
+      "title": "Heathers",
+      "mpaa": "R",
+      "actors": [
+         "Winona Ryder",
+         "Christian Slater",
+         "Shannen Doherty",
+         "Lisanne Falk",
+         "Kim Walker",
+         "Penelope Milford",
+         "Glenn Shadix",
+         "Lance Fenton",
+         "Jennifer Rhodes",
+         "Jeremy Applegate",
+         "Patrick Labyorteaux",
+         "Jon Matthews",
+         "Carrie Lynn",
+         "Phill Lewis",
+         "Renée Estevez",
+         "John Zarchen",
+         "William Cort",
+         "John Ingle",
+         "Stuart Mabray",
+         "Sherrie Wills",
+         "Larry Cox",
+         "Kent Stoddard",
+         "Mark Carlton",
+         "Curtiss Marlowe",
+         "Andrew Benne",
+         "Kevin Hardesty",
+         "Josh Richman",
+         "Bess Meyer",
+         "Betty Ramey",
+         "Aaron Mendelsohn",
+         "Kirk Scott",
+         "Mark Bringelson",
+         "Chuck Lafont",
+         "Christie Mellor"
+      ],
+      "imdbMovieId": "0097493",
+      "originalTitle": "Heathers",
+      "genres": [
+         "Thriller",
+         "Comedy",
+         "Drama"
+      ],
+      "youtubeTrailerIds": [
+         "7EsMeYlzwCU",
+         "fry7G6rLUWs"
+      ],
+      "plotSummary": "A girl who halfheartedly tries to be part of the \"in crowd\" of her school meets a rebel who teaches her a more devious way to play social politics: by killing the popular kids.",
+      "tmdbMovieId": 2640,
+      "avgRating": 3.73331,
+      "releaseYear": "1988",
+      "numRatings": 12987,
+      "posterPath": "/38DHopfWHrWqYjphcBeAxOomled.jpg"
+   }
+}

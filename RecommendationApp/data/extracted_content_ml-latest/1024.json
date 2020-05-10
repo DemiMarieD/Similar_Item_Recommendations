@@ -1,0 +1,756 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "part live action",
+            "id": 9977
+         },
+         {
+            "name": "south america",
+            "id": 18266
+         },
+         {
+            "name": "pinata",
+            "id": 158402
+         },
+         {
+            "name": "live action and animation",
+            "id": 209220
+         }
+      ],
+      "imdb_id": "tt0038166",
+      "video": false,
+      "title": "The Three Caballeros",
+      "recommendations": [
+         14906,
+         13757,
+         20343,
+         13465,
+         46929,
+         9994,
+         11319,
+         250480,
+         10957,
+         49948,
+         14813,
+         756,
+         13850,
+         11135,
+         22466,
+         22779,
+         21793,
+         36868,
+         50717,
+         80607
+      ],
+      "backdrop_path": "/s0lw0bouIMYwuJhz0bDUA0ucab0.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 4,
+               "character": "Professor Holloway (voice)",
+               "gender": 2,
+               "credit_id": "52fe468e9251416c7507c13f",
+               "name": "Sterling Holloway",
+               "profile_path": "/njZObhSQmwSX2U7IrB6Gytuedm8.jpg",
+               "id": 34759,
+               "order": 0
+            },
+            {
+               "cast_id": 5,
+               "character": "Donald Duck (voice)",
+               "gender": 2,
+               "credit_id": "52fe468e9251416c7507c143",
+               "name": "Clarence Nash",
+               "profile_path": "/bEtwgcLncIDovv9qplhTVffQB7e.jpg",
+               "id": 78077,
+               "order": 1
+            },
+            {
+               "cast_id": 6,
+               "character": "Panchito (voice)",
+               "gender": 2,
+               "credit_id": "52fe468e9251416c7507c147",
+               "name": "Joaquin Garay",
+               "profile_path": null,
+               "id": 119303,
+               "order": 2
+            },
+            {
+               "cast_id": 33,
+               "character": "Joe Carioca (voice)",
+               "gender": 0,
+               "credit_id": "5776dd2192514146430019df",
+               "name": "José Oliveira",
+               "profile_path": "/7BgNCDGiIGchOeXqHp6mn3mFfxz.jpg",
+               "id": 77619,
+               "order": 3
+            },
+            {
+               "cast_id": 1,
+               "character": "The Brazilian Girl",
+               "gender": 1,
+               "credit_id": "52fe468e9251416c7507c133",
+               "name": "Aurora Miranda",
+               "profile_path": "/sEzb2ieiZTSBLdQQMvs75SrW9kS.jpg",
+               "id": 119300,
+               "order": 4
+            },
+            {
+               "cast_id": 2,
+               "character": "Mexico Girl",
+               "gender": 1,
+               "credit_id": "52fe468e9251416c7507c137",
+               "name": "Carmen Molina",
+               "profile_path": "/lc5NqHozQZYvjR2wBRFxv8RNkMH.jpg",
+               "id": 119301,
+               "order": 5
+            },
+            {
+               "cast_id": 3,
+               "character": "Mexico Girl",
+               "gender": 1,
+               "credit_id": "52fe468e9251416c7507c13b",
+               "name": "Dora Luz",
+               "profile_path": null,
+               "id": 119302,
+               "order": 6
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe468e9251416c7507c153",
+               "name": "Clyde Geronimi",
+               "profile_path": "/tirfI2HLxHZUpls0UpXuCoPrf63.jpg",
+               "id": 64864,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe468e9251416c7507c159",
+               "name": "Jack Kinney",
+               "profile_path": "/9KEkI1NTzsxU1jLEuBsF22F51cr.jpg",
+               "id": 74565,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe468f9251416c7507c15f",
+               "name": "William Roberts",
+               "profile_path": "/mkfgT5RdFbFOwJpigXWALq9hOvz.jpg",
+               "id": 11427,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe468f9251416c7507c165",
+               "name": "Harold Young",
+               "profile_path": null,
+               "id": 103344,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54e4b4369251412c8e005477",
+               "name": "Norman Ferguson",
+               "profile_path": "/o6ZqI5lXaQW3q05ri2WyMUZKYLg.jpg",
+               "id": 226599,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5776e10ec3a3685c200036ba",
+               "name": "Ted Sears",
+               "profile_path": "/xc5mW6SH0Hr6u5tgwJund0JbWL9.jpg",
+               "id": 5449,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5776e11e9251415dc800130b",
+               "name": "Ernest Terrazas",
+               "profile_path": null,
+               "id": 1090774,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5776e1339251411db900014e",
+               "name": "Bill Peed",
+               "profile_path": "/pLcJMWe2rCVLcMJRn4Y7fVcCup0.jpg",
+               "id": 57316,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5776e13e9251411e1e000128",
+               "name": "Ralph Wright",
+               "profile_path": "/cEXiizAz9vUew2T4Xu0tOz7tbzI.jpg",
+               "id": 148822,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5776e1519251411e1e00012b",
+               "name": "Elmer Plummer",
+               "profile_path": null,
+               "id": 1090775,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5776e176c3a368478400019c",
+               "name": "Roy Williams",
+               "profile_path": "/oSHRgLUbs1RKJk9jypa0gsX5DCT.jpg",
+               "id": 148807,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5776e183c3a36847840001a0",
+               "name": "William Cottrell",
+               "profile_path": "/dzNVp6WNPG7gXgoJ2QYUCuJZLbE.jpg",
+               "id": 67373,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5776e1919251411db9000168",
+               "name": "Del Connell",
+               "profile_path": "/7rFIsfM2gonPIGtXLfFgHZXH4Bi.jpg",
+               "id": 71213,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5776e19bc3a36828e8000773",
+               "name": "James Bodrero",
+               "profile_path": null,
+               "id": 77613,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5776e1c89251411e1e000158",
+               "name": "Charles Wolcott",
+               "profile_path": "/gQjga5gwIA3B9CdsYt46E4wFMYg.jpg",
+               "id": 3642,
+               "department": "Sound",
+               "job": "Music Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5776e1da9251411de5000187",
+               "name": "Edward Plumb",
+               "profile_path": "/6OnntWx7VA25DhxwtnngZ89Cl5W.jpg",
+               "id": 31021,
+               "department": "Sound",
+               "job": "Music Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5776e1e99251411d3a000197",
+               "name": "Paul J. Smith",
+               "profile_path": "/y8Z9LQ1vAVWqpjfMOYNmSs6mZd0.jpg",
+               "id": 2107,
+               "department": "Sound",
+               "job": "Music Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5776deacc3a36847cb00005f",
+               "name": "Milt Kahl",
+               "profile_path": "/olKWgwkVShdJnRJRZ4Po6uK0iq6.jpg",
+               "id": 138170,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56047304c3a368552b00613d",
+               "name": "Dorival Caymmi",
+               "profile_path": "/rTqDNN1kdRhS5iKvC2717LQbpI8.jpg",
+               "id": 1442746,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56575a95c3a368198d00ab93",
+               "name": "Eric Larson",
+               "profile_path": "/gVmjOBQ1Gf6xrL6xgPCyHgKa8f1.jpg",
+               "id": 22066,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56575b1cc3a3681982009d7e",
+               "name": "Les Clark",
+               "profile_path": null,
+               "id": 115754,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "565a1431c3a3680abe000d1c",
+               "name": "Ward Kimball",
+               "profile_path": "/vWJedE2eQW8bQdzG9wggipQvG4V.jpg",
+               "id": 109453,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "565dd07a9251416da70027e0",
+               "name": "Mary Blair",
+               "profile_path": "/vf3PzRot9sDJq7j884RnhTf25yj.jpg",
+               "id": 77612,
+               "department": "Art",
+               "job": "Conceptual Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5776dd829251415d2500127d",
+               "name": "Richard Irvine",
+               "profile_path": null,
+               "id": 1128336,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5776dda69251411d3a000034",
+               "name": "Billy Daniels",
+               "profile_path": "/vpjGvhagSDaxLqSvMOPfHYDXlqO.jpg",
+               "id": 116746,
+               "department": "Crew",
+               "job": "Choreographer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5776de7ec3a368287b00068c",
+               "name": "Fred Moore",
+               "profile_path": "/zIa8qsuIv5Djs7ExSgYtoy3l59P.jpg",
+               "id": 222578,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5776de92c3a368472c000076",
+               "name": "John Lounsbery",
+               "profile_path": "/5iwFX8llmSfEudddEXO8BGczdTs.jpg",
+               "id": 69003,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5776ded09251411db9000070",
+               "name": "Hal King",
+               "profile_path": null,
+               "id": 143787,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5776dedf9251411d3a000093",
+               "name": "Bill Justice",
+               "profile_path": "/UKaqxt6O7RHV6ouE7K9NDcbznk.jpg",
+               "id": 148174,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5776def79251411de500006d",
+               "name": "Frank Thomas",
+               "profile_path": "/gfxSwlnGBikBjneXC3lWnENAQgo.jpg",
+               "id": 63646,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5776df0b9251415d250012fc",
+               "name": "Ollie Johnston",
+               "profile_path": "/76RFwErmaMm7tx8OHFU0eYCvMMr.jpg",
+               "id": 143786,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5776df19c3a368287b0006bf",
+               "name": "Harvey Toombs",
+               "profile_path": null,
+               "id": 222239,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5776df239251415d25001307",
+               "name": "Milt Neil",
+               "profile_path": "/3y2PZxHyJNFjYPj4iSwOwMli8OW.jpg",
+               "id": 149974,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5776df3bc3a36847840000c0",
+               "name": "Bob Carlson",
+               "profile_path": "/rh7JHtd9oLVxbrYuiQ3QdGgHjTd.jpg",
+               "id": 148176,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5776df46c3a36828e8000691",
+               "name": "Marvin Woodward",
+               "profile_path": "/1CD51Z6hmiWmRxbEdph1yLBK1C3.jpg",
+               "id": 150758,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5776df519251411de5000091",
+               "name": "John Sibley",
+               "profile_path": "/2nmBCbgbfydiEQ1XEKmpJnsnTSM.jpg",
+               "id": 149976,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5776df5d9251415d25001319",
+               "name": "Don Patterson",
+               "profile_path": null,
+               "id": 222262,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5776df8b9251415d25001323",
+               "name": "Don DaGradi",
+               "profile_path": "/umaANl0jfZwnytLvyJetUPXHFkK.jpg",
+               "id": 5837,
+               "department": "Directing",
+               "job": "Layout"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5776dfd7c3a36828e80006bf",
+               "name": "Yale Gracey",
+               "profile_path": "/tJisR0iIdSK4tBHG7Xctkb43OK6.jpg",
+               "id": 148177,
+               "department": "Directing",
+               "job": "Layout"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5776dfef9251411de50000ce",
+               "name": "Hugh Hennesy",
+               "profile_path": null,
+               "id": 236477,
+               "department": "Directing",
+               "job": "Layout"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5776dffbc3a36846e8000102",
+               "name": "Herbert Ryman",
+               "profile_path": "/hRZl0xJjOnTXvF7jsYB0OEgdAnY.jpg",
+               "id": 77615,
+               "department": "Directing",
+               "job": "Layout"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5776e00ac3a368472c000102",
+               "name": "McLaren Stewart",
+               "profile_path": null,
+               "id": 150115,
+               "department": "Directing",
+               "job": "Layout"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5776e0139251411db90000e4",
+               "name": "John Hench",
+               "profile_path": "/hKCZBoxpTlLBgXZbZLKsRQWaUra.jpg",
+               "id": 1415527,
+               "department": "Directing",
+               "job": "Layout"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5776e034c3a368472c000116",
+               "name": "Charles Philippi",
+               "profile_path": "/2LL9tUcq0NgzDfaYhvXDq42MVBR.jpg",
+               "id": 225716,
+               "department": "Directing",
+               "job": "Layout"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5776e044c3a36828e80006f3",
+               "name": "Al Dempster",
+               "profile_path": "/msSEgsQ10CG59oMHceLzwR2pkKK.jpg",
+               "id": 143785,
+               "department": "Art",
+               "job": "Background Designer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5776e04f925141466c001a82",
+               "name": "Art Riley",
+               "profile_path": null,
+               "id": 150737,
+               "department": "Art",
+               "job": "Background Designer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5776e0589251411de50000fe",
+               "name": "Ray Huffine",
+               "profile_path": null,
+               "id": 148245,
+               "department": "Art",
+               "job": "Background Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5776e06a9251411d6a00011e",
+               "name": "Don Douglass",
+               "profile_path": null,
+               "id": 1643980,
+               "department": "Art",
+               "job": "Background Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5776e0c19251411d6a000135",
+               "name": "Claude Coats",
+               "profile_path": "/ghezWy570LMdrylMVZ6FZ0szC7d.jpg",
+               "id": 150117,
+               "department": "Art",
+               "job": "Background Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5776e0dcc3a36846e8000158",
+               "name": "Homer Brightman",
+               "profile_path": "/1q6WBrU4oNKmX3Zst7mmPdXosIL.jpg",
+               "id": 68654,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5776e230c3a36847430001ac",
+               "name": "Norman Ferguson",
+               "profile_path": "/o6ZqI5lXaQW3q05ri2WyMUZKYLg.jpg",
+               "id": 226599,
+               "department": "Production",
+               "job": "Production Supervisor"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Animation",
+            "id": 16
+         },
+         {
+            "name": "Family",
+            "id": 10751
+         },
+         {
+            "name": "Music",
+            "id": 10402
+         }
+      ],
+      "popularity": 8.454866,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 15947,
+      "vote_count": 151,
+      "budget": 0,
+      "overview": "For Donald's birthday he receives a box with three gifts inside. The gifts, a movie projector, a pop-up book, and a pinata, each take Donald on wild adventures through Mexico and South America.",
+      "similar": [
+         390062,
+         856,
+         137106,
+         433,
+         642,
+         314095,
+         262841,
+         294272,
+         10715,
+         228165,
+         10317,
+         50359,
+         33217,
+         11416,
+         14239,
+         9326,
+         2000,
+         20856,
+         171424,
+         11114
+      ],
+      "original_title": "The Three Caballeros",
+      "runtime": 71,
+      "poster_path": "/4cejsYPl5u9k9PY5WvIo62UdvZP.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Português",
+            "iso_639_1": "pt"
+         },
+         {
+            "name": "Español",
+            "iso_639_1": "es"
+         }
+      ],
+      "production_companies": [{
+         "logo_path": "/4MbjW4f9bu6LvlDmyIvfyuT3boj.png",
+         "name": "Walt Disney Pictures",
+         "id": 2,
+         "origin_country": "US"
+      }],
+      "release_date": "1944-07-21",
+      "vote_average": 6.3,
+      "belongs_to_collection": {
+         "backdrop_path": "/sAD5l7OosB7iczcOfMtnswODCBd.jpg",
+         "name": "Caballeros Collection",
+         "id": 271668,
+         "poster_path": "/yzG4MDr16TRl0EINL8E2bv56hLy.jpg"
+      },
+      "tagline": "",
+      "adult": false,
+      "homepage": "http://movies.disney.com/the-three-caballeros",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": [
+         "Norman Ferguson",
+         "Clyde Geronimi"
+      ],
+      "runtime": 71,
+      "synopsis": null,
+      "writers": [
+         "Homer Brightman",
+         "Ernest Terrazas"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0038166/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTI0MjU1NDI5OF5BMl5BanBnXkFtZTcwNjMyOTgxMQ@@._V1_SY317_CR9,0,214,317_AL_.jpg",
+      "actors": ["Stars: Aurora Miranda, Carmen Molina, Dora Luz | See full cast and crew »"],
+      "reviews": [
+         "It was a cold January Saturday evening. The park was beautifully lit. People were cheery. We could see the Matterhorn on our right hand side. Magical is the best description I could find. Suddenly, I started singing... \"Somos los tres carros, los Tres Caballeros, y nadie es igual a nosotros...\" What do I know. My friends all knew the words. 4 guys, ranging from 27 to 31 years old, began forming a chrous line and singing off the top of our lungs... I don't know how this happened. This is not, by any stretch of imagination, a popular or wildly succesful film. I guess it just touched us, the way Donald Duck had a mexican friend (Panchito), or the wild \"Piñata\" scene, or the strong latin flavour of the film. Memories notwithstanding, we kept on singing... and singing... and singing. People around us seemed to enjoy the show, too. \"Valientes brillamos, como brilla un peso -Quien dice?!? NOSOTROS, LOS TRES CABALLEROS!\"",
+         "This was my favorite movie when I was four. Now that I'm older, I still watch it every once in awhile, even though there are movies I like better. The Three Caballeros is full of cute humor early in the movie, and the rapport between Donald Duck and Joe Carioca is wonderful. The animated short `The Cold-Blooded Penguin' is *very* cute, and the song `Baia' is one of my favorite Disney songs of all time. Then Panchito arrives, and after the wonderful `Three Caballeros' song, things start to go a little bit crazy. The plot, such as it was, completely evaporates as Donald seems to descend into a girl-crazy madness. I'm not saying this is necessarily a bad thing, however; the final part of the movie is very entertaining, even though it's odd at the same time. I gave this movie an 8 out of 10.",
+         "\"The Three Caballeros\" is a nice little gem of golden-age Disneyana, that could have used perhaps a little more polishing. The Disney Studios apparently produced several pieces around the time period of this animated-live action featurette; \"Caballeros\" is probably the best known of the series. The basic premise here is that Donald Duck is celebrating his birthday, and a large package of presents is sent to him from friends in several Latin American countries. The event turns into a celebration of Latin culture, focusing on Brazil and Mexico; Donald is given tours by two \"colleagues,\" a cigar-chomping parrot-cum-boulevardier named Joe Carioca, and Panchito, a bandito rooster (complete with never-empty six-guns). Perhaps twenty to thirty minutes of the piece is made up of the cartoon characters superimposed over live action, or live actors doing carefully choreographed moves in front of a screen. The techniques are apparent to the eye, and dated by modern standards, but they were reasonable attempts to fuse the two worlds together. More problematical to this correspondent is the last 10-15 minutes; while having a few interesting sequences, the lack of a plot (becoming a dream of random images in Donald's ever-confused thoughts) makes the section drag down the rest of the film. Less importantly, politically correct types may object to the \"Hollywoodization\" and \"Disneyfication\" of Latin culture/music that turns it into a progression of scenes from a folkloric or idealized mariachi show. Of course, shows like \"The Three Caballeros were never meant to show the actual grit of much of Latin American life.... If you're looking for that reality, avoid this like the plague. If you're looking for fun, good Hollywood-Latin music, and \"poorty girls,\" head out and rent it.",
+         "Funny, people nowadays don't seem to realize that this was a World War II propaganda film -- only one comment below makes that point. Many such features and shorts were turned out during this time, and not just from Disney; Warner Bros., MGM and others did as well. Keep this in mind and it makes a little more sense. Even more of the fractured, surreal nature of this film is explainable when viewed in the context of other Disney animated features of this time. \"Fantasia\" (of course), \"Dumbo,\" \"Pinocchio\" and other movies contained what seemed like drug- or alcohol-induced sequences (maybe someone with more intimate knowledge of Disney productions of the time can shed some light on those!). Disney also seemed eager to experiment with blending of animation and live action during this time (\"Song of the South\"). Anyway, this was aimed primarily at engendering better relations between North Americans and our ostensible allies in Latin America. The animation is very good and some of the music (especially the title song) is memorable. Watch it for what it is and enjoy!",
+         "The Three Caballeros is a lot of fun, using a mix of live action and animation to bring Brazil and Mexico alive to birthday boy Donald Duck. As he's joined by Panchito and José he realises what he has been missing all these years, falls in love with Aurora Miranda (sister of Carmen), learns to dance, and much more. With eye-poppingly beautiful animation and lovely colours, it is no surprise that that was the one cartoon Disney veteran Ward Kimball claimed he was truly proud of. The idea of the three birds as international musketeers living the good life is inspired and the running time is just about right.",
+         "Wildly colorful, almost hallucinogenic offering from Walt Disney plays like \"Fantasia\" on speed. Though not much more than a hodgepodge of story ideas, the film mixes live-action with animation in saluting Mexican and South American cultures. Donald Duck is the star this time, and his title musical number alongside Joe Carioca and Panchito is a head-swirling collage of colors. The Disney animators were obviously full of inspiration, but the entire movie plays like that drunken elephant sequence from \"Dumbo\": manic, fruity, sometimes quite fabulous. Entertaining to be sure, and better than its predecessor \"Saludos Amigos\", but certainly odd and never very popular from the 1940s through the 1960s since Disney rarely circulated it as a whole. *** from ****",
+         "Most everything about this neat little movie has been said by previous posters, except this. The motivation for making it was, of all things, the US State Department! The US was deeply involved in fighting World War Two. At this point in time the average American knew almost NOTHING about South America, and the Nazi government was busy making business and political connections there, especially in Paraguay... there, transplanted Germans were a well established colony. They were aiding Hitler's war effort with the operation of industrial concerns, as well as providing espionage support. South America promised to become a new battlefront if German successes and infiltration continued. The region produced vital strategic raw materials, key among them rubber. Our strongest ally in the region was Brazil. The US Navy had a number of installations there, both sea and air. The Brazilian Navy worked closely with US forces in hunting U-boats in the Atlantic narrows; a number of US Navy vessels were transferred to them. American air bases (the largest of which was at Recife) provides home base for American aircraft, both fixed wing and lighter than air blimps, to provide air support coverage to trans Atlantic convoy operations. The State department felt it would be a good idea to familiarize Americans with the land, people, and way of life of South America, and called on Disney to produce THE THREE CABALLEROS. The movie was, first and foremost, a TEACHING TOOL for both military forces and the general public during a global war. BTW... I love the crazy little bird too! HE'S the best part of the film! There are two other Disney films made for the Government that I'd LOVE to find copies of. One is VICTORY THROUGH AIR POWER, another WW2 product. The other is one that I saw back in Basic Training in the 1970s. Believe it or not, the Walt Disney studios produced a military training film on the prevention of VENEREAL DISEASE!!! The unfortunate Lady dispensing said commodity bore a VERY striking resemblance to Snow White! Because of that film I can never view SNOW WHITE in quite the same way ever again!",
+         "While little known, this is one of Disney's most inventive and delightful films, superior in imagination and sheer movie magic to all but a few of the studio's great classics. I think it was less successful than most Disney films because the subject matter -- like its near-twin Saludos Amigos, a cartoon tour of Latin America -- was and is less engaging for most people than fairy tales. I've traveled a bit in Latin America, and still find that this clever little film captures something sumptuous, wondrous and oddly truthful about those distant places, even if seen through a distinctly American lens. What's more, it's the most sensuous G-rate movie I've ever seen. Sambas, wild orchids, wow. I was four when it came out, and it immediately became my favorite movie. Indeed, I was obsessed. In the 40s and 50s, I kept up with movie-theater schedules for miles around just on the off-chance that this, and one or two other favorites, might be playing somewhere, usually at a Saturday matinée within driving distance. Every few years, my vigilance paid off and I would bug my mother to chauffeur me miles from home to see my beloved Caballeros. When I had children, in the early days of VCRs, we bought all the Disneys as they were released. When The Three Caballeros came out, I brought it home. I was careful not to tell my three young daughters how much I loved this old treasure, but when I played it for them they all shrieked, \"This is our favorite movie, Pop!\" And it still is, for all of us.",
+         "** POSSIBLE SPOILERS AHEAD ** This film was made during World War II to expose wartime audiences to Latin American culture and to strengthen the relations between both Northern and Southern America. It's kid-friendly but the concept will go clear over their heads, as it did mine when I first saw it on the Disney Channel as a kid (I still have it taped and love watching it to this day and I'm almost 21). It's a nice film about Donald's birthday and his \"present\" is a cornacopia of a slideshow of Latin American culture, hosted by a smooth-talking macaw named Jose Carioca and a gun-wielding rooster named Panchito. Of course, the portrayal of Latin Americans and their culture in this film are sugar-coated, but it gives one insight into the Northern American's perception of Latin America. This is somewhat of a sequel to the short film, \"Saludos Amigos,\" which features some of the same things featuring Donald and Jose. If you like Disney, you'll love this film. The last 10 to 15 minutes of the film are rather interesting as you are taken into a short trip of Donald's sub-conscious mind.",
+         "Yippie-ey-ya! This has got to be one of Disney most best ever short story movies! Not only is it educational but it is also fun and dazzling with colours. The fiesta starts when Donald gets three presents from his friends in Brazil. One of them contains short stories from South America like \"The Flying Donkey\" and \"Pablo the Cold Bloodest Pengiun\", the second pops out his good friend from the 1943 film \"Saludos Amigos\", Jose Carioca, as I said, one of Walt's best 1940's characters shows him around South America in the storybook then the bizarreness begins when Panchito the rooster comes out of the third present with guns a blazing! It all turns into a Topsy-turvy South American Mania!! Yowee! Along the way, it was the first film in history to use cartoon characters mixing in a normal world environment as Donald fall for a real life Mexican actress. That must have been big new sign of technology back in those days. In remember as old photo in England from July, 1945 when people were sadly queueing up for rationing and the Three Caballeros was up on a billboard behind them being advertised. That must of brought them joy during the most hardest of time. I strongly recommend this movie and if you don't like it, then you're a bean-head! 10/10"
+      ],
+      "genres": [
+         "Animation",
+         "Family",
+         "Fantasy",
+         "Music"
+      ],
+      "productionCompanies": [
+         "Walt Disney Pictures",
+         "Walt Disney Productions"
+      ],
+      "summaries": [
+         "A large box arrives for Donald on his birthday, three gifts inside. He unwraps one at a time, and each takes him on an adventure. The first is a movie projector with a film about the birds of South America; Donald watches two cartoons, one tells of a penguin who longs to live on a tropical isle and the other about a gaucho boy who hunts the wild ostrich. The second gift is a pop-up book about Brazil. Inside is Jose Carioca, who takes Donald to Brazil's Bahia for a mix of animation and live action: the two cartoon birds sing and dance with natives. The third gift is a piñata, accompanied by Panchito. A ride on a magic serape takes the three amigos singing and dancing across Mexico. ¡Olé!",
+         "Donald receives his birthday gifts, which include traditional gifts and information about Brazil (hosted by Zé Carioca) and Mexico (by Panchito, a Mexican Charro Rooster)."
+      ],
+      "budget": 0
+   },
+   "movielensId": 1024,
+   "movielens": {
+      "languages": [
+         "English",
+         "Português",
+         "Español"
+      ],
+      "releaseDate": "1944-07-21",
+      "dvdReleaseDate": "2000-05-02",
+      "directors": [
+         "Clyde Geronimi",
+         "Jack Kinney",
+         "William Roberts",
+         "Harold Young",
+         "Norman Ferguson"
+      ],
+      "runtime": 71,
+      "movieId": 1024,
+      "title": "The Three Caballeros",
+      "mpaa": "G",
+      "actors": [
+         "Sterling Holloway",
+         "Clarence Nash",
+         "Joaquin Garay",
+         "José Oliveira",
+         "Aurora Miranda",
+         "Carmen Molina",
+         "Dora Luz"
+      ],
+      "imdbMovieId": "0038166",
+      "originalTitle": "The Three Caballeros",
+      "genres": [
+         "Animation",
+         "Family",
+         "Music"
+      ],
+      "youtubeTrailerIds": ["s-P0DPNdZBc"],
+      "plotSummary": "For Donald's birthday he receives a box with three gifts inside. The gifts, a movie projector, a pop-up book, and a pinata, each take Donald on wild adventures through Mexico and South America.",
+      "tmdbMovieId": 15947,
+      "avgRating": 3.16556,
+      "releaseYear": "1944",
+      "numRatings": 1202,
+      "posterPath": "/4cejsYPl5u9k9PY5WvIo62UdvZP.jpg"
+   }
+}

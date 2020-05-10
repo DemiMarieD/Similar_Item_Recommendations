@@ -1,0 +1,702 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "texas",
+            "id": 1556
+         },
+         {
+            "name": "sadism",
+            "id": 4426
+         },
+         {
+            "name": "leatherface",
+            "id": 11545
+         },
+         {
+            "name": "hitchhiker",
+            "id": 11546
+         },
+         {
+            "name": "cross dressing",
+            "id": 12090
+         },
+         {
+            "name": "chainsaw",
+            "id": 12394
+         },
+         {
+            "name": "torture",
+            "id": 13006
+         },
+         {
+            "name": "cannibal",
+            "id": 14895
+         },
+         {
+            "name": "splatter",
+            "id": 15085
+         },
+         {
+            "name": "skin",
+            "id": 17973
+         },
+         {
+            "name": "psychos",
+            "id": 194884
+         }
+      ],
+      "imdb_id": "tt0110978",
+      "video": false,
+      "title": "The Texas Chainsaw Massacre: The Next Generation",
+      "recommendations": [
+         25018,
+         16337,
+         10285,
+         10283,
+         10281,
+         10225,
+         10987,
+         26959,
+         9731,
+         8766,
+         11442,
+         9730,
+         10824,
+         10906,
+         11675,
+         55377,
+         28260,
+         12597,
+         11470,
+         26515
+      ],
+      "backdrop_path": "/1Unx2N8AhIBinp2QaLe2t27Nnix.jpg",
+      "revenue": 185898,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Jenny",
+               "gender": 1,
+               "credit_id": "52fe46ea9251416c75087bfd",
+               "name": "Renée Zellweger",
+               "profile_path": "/aeUnfem148WrhpQcmiUuSRGhCYU.jpg",
+               "id": 9137,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Vilmer Slaughter",
+               "gender": 2,
+               "credit_id": "52fe46ea9251416c75087c01",
+               "name": "Matthew McConaughey",
+               "profile_path": "/jdRmHrG0TWXGhs4tO6TJNSoL25T.jpg",
+               "id": 10297,
+               "order": 1
+            },
+            {
+               "cast_id": 4,
+               "character": "Leatherface Slaughter",
+               "gender": 2,
+               "credit_id": "52fe46ea9251416c75087c0b",
+               "name": "Robert Jacks",
+               "profile_path": null,
+               "id": 934061,
+               "order": 2
+            },
+            {
+               "cast_id": 5,
+               "character": "Darla",
+               "gender": 1,
+               "credit_id": "52fe46ea9251416c75087c0f",
+               "name": "Tonie Perensky",
+               "profile_path": "/l1AZvcoHFwAbqw9jlAdvJAoEBYX.jpg",
+               "id": 975230,
+               "order": 3
+            },
+            {
+               "cast_id": 6,
+               "character": "W.E. Slaughter",
+               "gender": 2,
+               "credit_id": "52fe46ea9251416c75087c13",
+               "name": "Joe Stevens",
+               "profile_path": "/pCflBRau0xOGR17W1kzue7ySVqv.jpg",
+               "id": 177905,
+               "order": 4
+            },
+            {
+               "cast_id": 7,
+               "character": "Heather",
+               "gender": 1,
+               "credit_id": "52fe46ea9251416c75087c17",
+               "name": "Lisa Marie Newmyer",
+               "profile_path": "/hZYFpnGsGdjaoT7YlaB9sKk83JP.jpg",
+               "id": 1075540,
+               "order": 5
+            },
+            {
+               "cast_id": 8,
+               "character": "Cop at Hospital",
+               "gender": 2,
+               "credit_id": "52fe46ea9251416c75087c1b",
+               "name": "John Dugan",
+               "profile_path": "/4rhSibBG8MY7qtcoOtXI7NGqBfh.jpg",
+               "id": 104892,
+               "order": 6
+            },
+            {
+               "cast_id": 9,
+               "character": "Patient on Gurney",
+               "gender": 1,
+               "credit_id": "52fe46ea9251416c75087c1f",
+               "name": "Marilyn Burns",
+               "profile_path": "/bEPYa5U36XHiTBdZqZkcRq3cdPP.jpg",
+               "id": 27798,
+               "order": 7
+            },
+            {
+               "cast_id": 20,
+               "character": "Sean",
+               "gender": 2,
+               "credit_id": "59a6fe39c3a3683c4d002051",
+               "name": "John Harrison",
+               "profile_path": null,
+               "id": 1879439,
+               "order": 8
+            },
+            {
+               "cast_id": 21,
+               "character": "Barry",
+               "gender": 2,
+               "credit_id": "59a6fe40c3a3683cab001e96",
+               "name": "Tyler Shea Cone",
+               "profile_path": null,
+               "id": 1879440,
+               "order": 9
+            },
+            {
+               "cast_id": 22,
+               "character": "Mr. Rothman",
+               "gender": 2,
+               "credit_id": "59a6fe4e92514157a500216f",
+               "name": "James Gale",
+               "profile_path": null,
+               "id": 1066471,
+               "order": 10
+            },
+            {
+               "cast_id": 23,
+               "character": "Rothman's Chauffeur",
+               "gender": 2,
+               "credit_id": "59a6fe55c3a3683c4d00206d",
+               "name": "Chris Kilgore",
+               "profile_path": null,
+               "id": 1879442,
+               "order": 11
+            },
+            {
+               "cast_id": 24,
+               "character": "I'm Not Hurt",
+               "gender": 2,
+               "credit_id": "59a6fe5d92514157c60020c3",
+               "name": "Vince Brock",
+               "profile_path": null,
+               "id": 1879443,
+               "order": 12
+            },
+            {
+               "cast_id": 25,
+               "character": "Jenny's Mother",
+               "gender": 1,
+               "credit_id": "59a6fe66c3a3683d07001be0",
+               "name": "Susan Loughran",
+               "profile_path": "/vwT6p4WsGyPcyTh5l6rNvX2QyhR.jpg",
+               "id": 1376035,
+               "order": 13
+            },
+            {
+               "cast_id": 26,
+               "character": "Jenny's Stepfather",
+               "gender": 2,
+               "credit_id": "59a6fe6ec3a3683cab001ec5",
+               "name": "David Laurence",
+               "profile_path": null,
+               "id": 1879444,
+               "order": 14
+            },
+            {
+               "cast_id": 27,
+               "character": "Grandfather",
+               "gender": 2,
+               "credit_id": "59a6fe7692514158080021e7",
+               "name": "Grayson Victor Schirmacher",
+               "profile_path": null,
+               "id": 1879445,
+               "order": 15
+            },
+            {
+               "cast_id": 28,
+               "character": "Woman Eating Chocolates",
+               "gender": 1,
+               "credit_id": "59a6fe8792514157c60020f4",
+               "name": "Jeanette Wiggins",
+               "profile_path": null,
+               "id": 1428579,
+               "order": 16
+            },
+            {
+               "cast_id": 29,
+               "character": "Girl In Red Dress",
+               "gender": 1,
+               "credit_id": "59a6fe8f92514157ee002112",
+               "name": "Carmen Nogales",
+               "profile_path": null,
+               "id": 1879447,
+               "order": 17
+            },
+            {
+               "cast_id": 30,
+               "character": "Brenda",
+               "gender": 1,
+               "credit_id": "59a6fe9792514157c6002109",
+               "name": "Lisa Caraveo",
+               "profile_path": null,
+               "id": 1879448,
+               "order": 18
+            },
+            {
+               "cast_id": 31,
+               "character": "Heckler",
+               "gender": 2,
+               "credit_id": "59a6fea0c3a3683c7a0023cd",
+               "name": "Les Martin",
+               "profile_path": null,
+               "id": 1879449,
+               "order": 19
+            },
+            {
+               "cast_id": 32,
+               "character": "Heckler",
+               "gender": 2,
+               "credit_id": "59a6feb692514157c6002131",
+               "name": "Adam White",
+               "profile_path": null,
+               "id": 1879450,
+               "order": 20
+            },
+            {
+               "cast_id": 33,
+               "character": "Heckler",
+               "gender": 2,
+               "credit_id": "59a6fed4c3a3683ccc00230f",
+               "name": "Bill Wise",
+               "profile_path": null,
+               "id": 71658,
+               "order": 21
+            },
+            {
+               "cast_id": 34,
+               "character": "Bud's Pizza Attendant",
+               "gender": 2,
+               "credit_id": "59a6fede925141579d0021f6",
+               "name": "Loren Guerra",
+               "profile_path": null,
+               "id": 1879451,
+               "order": 22
+            },
+            {
+               "cast_id": 35,
+               "character": "Cop At Bud's Pizza",
+               "gender": 2,
+               "credit_id": "59a6fee592514157ee00216f",
+               "name": "Derek Keele",
+               "profile_path": null,
+               "id": 1879452,
+               "order": 23
+            },
+            {
+               "cast_id": 37,
+               "character": "Couple In RV",
+               "gender": 1,
+               "credit_id": "59a6fef792514157a5002220",
+               "name": "Geri Wolcott",
+               "profile_path": null,
+               "id": 1879454,
+               "order": 25
+            },
+            {
+               "cast_id": 38,
+               "character": "Couple In RV",
+               "gender": 2,
+               "credit_id": "59a6feff92514157ab0021f3",
+               "name": "Axel L. Schiller",
+               "profile_path": null,
+               "id": 1879455,
+               "order": 26
+            },
+            {
+               "cast_id": 39,
+               "character": "Stuffed DPS Officer",
+               "gender": 2,
+               "credit_id": "59a6ff0792514157ab0021fe",
+               "name": "Andy Cockrum",
+               "profile_path": null,
+               "id": 1072724,
+               "order": 27
+            },
+            {
+               "cast_id": 40,
+               "character": "Stuffed Family",
+               "gender": 2,
+               "credit_id": "59a6ff0ec3a3683ccc002366",
+               "name": "Roger Roe",
+               "profile_path": null,
+               "id": 1879456,
+               "order": 28
+            },
+            {
+               "cast_id": 41,
+               "character": "Stuffed Family",
+               "gender": 1,
+               "credit_id": "59a6ff16c3a3683c870021fc",
+               "name": "Angee Hughes",
+               "profile_path": "/2vhzncxHDOnOdwuABK0yNhWJvyy.jpg",
+               "id": 1744987,
+               "order": 29
+            },
+            {
+               "cast_id": 42,
+               "character": "Stuffed Family",
+               "gender": 1,
+               "credit_id": "59a6ff2092514157f6002240",
+               "name": "Rebecca Rosenberg",
+               "profile_path": null,
+               "id": 1879457,
+               "order": 30
+            },
+            {
+               "cast_id": 43,
+               "character": "Hospital Orderly",
+               "gender": 2,
+               "credit_id": "59a6ff31c3a3683c7a002482",
+               "name": "Paul A. Partain",
+               "profile_path": null,
+               "id": 122455,
+               "order": 31
+            },
+            {
+               "cast_id": 44,
+               "character": "Prom Date",
+               "gender": 2,
+               "credit_id": "59a6ff39925141579d00225f",
+               "name": "Derrick Sanders",
+               "profile_path": null,
+               "id": 87047,
+               "order": 32
+            },
+            {
+               "cast_id": 45,
+               "character": "Prom Guy",
+               "gender": 2,
+               "credit_id": "59a6ff419251415799002295",
+               "name": "Ryan Wickerham",
+               "profile_path": "/Yo3Q9sABr7N9Jna5u3WYblcSUL.jpg",
+               "id": 1591072,
+               "order": 33
+            },
+            {
+               "cast_id": 46,
+               "character": "Cop at Bud's Pizza",
+               "gender": 1,
+               "credit_id": "59a700e792514157a5002431",
+               "name": "Debra McMichael",
+               "profile_path": "/6En13BYg58VwyD4rE5ejWhM7QNa.jpg",
+               "id": 1216310,
+               "order": 34
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe46ea9251416c75087c07",
+               "name": "Kim Henkel",
+               "profile_path": null,
+               "id": 27797,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59a6fcfdc3a3683cab001d41",
+               "name": "Kim Henkel",
+               "profile_path": null,
+               "id": 27797,
+               "department": "Writing",
+               "job": "Characters"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59a6fd059251415808002057",
+               "name": "Tobe Hooper",
+               "profile_path": "/rE5TqnAvgaKjWwWZ9AsoU9KcUGU.jpg",
+               "id": 10051,
+               "department": "Writing",
+               "job": "Characters"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59a6fd0e92514157c6001f41",
+               "name": "Kim Henkel",
+               "profile_path": null,
+               "id": 27797,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59a6fd17c3a3683c87001fc2",
+               "name": "Kim Henkel",
+               "profile_path": null,
+               "id": 27797,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59a6fd21c3a3683cab001d64",
+               "name": "Robert Jacks",
+               "profile_path": null,
+               "id": 934061,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59a6fd2bc3a3683ccc00214a",
+               "name": "Andy Cockrum",
+               "profile_path": null,
+               "id": 1072724,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59a6fd34c3a3683ccc002157",
+               "name": "J.M. Logan",
+               "profile_path": null,
+               "id": 237333,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59a6fd40c3a3683d07001ac7",
+               "name": "Andy Cockrum",
+               "profile_path": null,
+               "id": 1072724,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59a6fd6ec3a3683cab001dc1",
+               "name": "Jerry King",
+               "profile_path": null,
+               "id": 999696,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59a6fd76c3a3683ce6001d82",
+               "name": "Derrick Sanders",
+               "profile_path": null,
+               "id": 87047,
+               "department": "Crew",
+               "job": "Production Office Assistant"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Horror",
+            "id": 27
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         }
+      ],
+      "popularity": 7.255229,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 16780,
+      "vote_count": 121,
+      "budget": 600000,
+      "overview": "Everyone's favorite chainsaw-wielding psychopath, Leatherface, is back for more prom-night gore, and this time he's joined by his bloodthirsty family. Four stranded yet carefree teens are taken in by a backwoods family, clueless of their host family's grisly habits. The terrified youths, including sweet Jenny, try to escape from Leatherface and his crazed clan, including the bionic Vilmer.",
+      "similar": [
+         9373,
+         10781,
+         30497,
+         300665,
+         11615,
+         2652,
+         588,
+         273481,
+         1696,
+         16288,
+         8834,
+         8090,
+         9272,
+         9445,
+         74997,
+         357096,
+         11423,
+         274,
+         294963,
+         73861
+      ],
+      "original_title": "The Texas Chainsaw Massacre: The Next Generation",
+      "runtime": 95,
+      "poster_path": "/6ECWpYiwEdWi2OTSbyzLV281YJ.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": null,
+         "name": "Ultra Muchos Productions",
+         "id": 17479,
+         "origin_country": ""
+      }],
+      "release_date": "1994-01-01",
+      "vote_average": 3.9,
+      "belongs_to_collection": {
+         "backdrop_path": "/1zIwt7gUyxKhOKYXN5XNGdGxwHg.jpg",
+         "name": "Texas Chainsaw Massacre Collection",
+         "id": 111751,
+         "poster_path": "/9qd7xPYvrJTK2bBPFsZAoMbx8px.jpg"
+      },
+      "tagline": "If looks could kill, he wouldn't need a chainsaw.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Kim Henkel"],
+      "runtime": 95,
+      "synopsis": "In this installment, we hear that since 1991 (when the third Texas Chainsaw Massacre took place), the massacres have stopped and for five years Texas has remained silent. This installment takes place in 1996 and starts off with a group of teens at their high school prom. This includes Jenny, who lives with an abusive step-father, her friends and all of their dates. When one of Jenny's friends, Heather, notices her boyfriend Barry is missing, she finds him outside the school cheating on her with another girl. Extremely angry, Heather starts driving away in Barry's car, while Jenny, and her boyfriend Sean, and Barry running after them. Heather finally stops and lets Barry in so she could confront him about the cheating. Driving angrily, Jenny collides with another car on a remote wooded road. The other driver passes out after saying he's not hurt. Heather, Barry and Jenny decide to look for help while Sean stays at the scene of the crash. The trio finds an insurance office and ask Darla, the agent working there, for help. She calls up her husband Vilmar Sawyer to get in his pickup truck and head out to the scene the crash. At the crash site, Vilmar examines the passed out teen with Sean's help, but suddenly breaks the kid's neck and chases Sean down with his pickup. Meanwhile, Heather and Barry head off, leaving Jenny alone. They find a house that ends up belonging to the cannibal family. They're confronted by Leatherface and his brother W.E. Sawyer. W.E. threatens Barry with a shotgun while Heather is put up on a meathook by Leatherface. Barry asks W.E. to put the gun down just so that he can use the bathroom. W.E. gives him permission and Barry goes inside to use the bathroom. He discovers a skeleton in the bathtub as well as the remains of previous victims in the room. He is suddenly hit over the head with a sledgehammer by Leatherface. Jenny, now on her own, is attacked by Vilmar in his pickup truck. He loses her, but knows she'll run into Leatherface. Jenny ends up running into and from Leatherface and decides to take shelter in the house. When she runs upstairs to escape from Leatherface, who is cutting the front door down to get in, she finds a stuffed body of a Texas Ranger. Jenny grabs his gun and fires it at Leatherface, scaring him. She jumps out onto the roof but he follows her. Jenny falls off as Leatherface chases her. Leatherface jumps down after her and she is chased into the woods. Jenny runs back to the insurance office only to have Darla subdue her. Darla stuffs Jenny into the truck of her car, and after driving by a local pizzaria where she orders some pizzas for the family's dinner, she eventually drives back to the cannibal house where she tells Jenny the reason why the family kills people! For the last few thousand years this \"family\" of extraterrestrials has been on Earth just to be able to kill. They are in business with governments all over the world as a secret agency who kills people across the globe. Jenny then gets knocked out by Vilmar as she tries to escape. She wakes up at the dinner table sitting among the corpses of the whole cannibal family shown in first three movies. Darla tells Jenny that she can't help, since she was subdued by Vilmar and had an explosive device in her head that will go off if she does anything to help her. It is not sure if Darla is telling the truth or if she is just crazy like the rest of the Sawyer family. Darla also tells Jenny about a bureaucrat, named Rothman, who is a powerful politician and businessman whom visits from time to time. Rothman shows up at the house soon afterward, as he occasionally checks up on this and other families around the world. Rothman is furious when he sees Jenny is still alive. He tortures Vilmar using a remote control that activates a device in his leg, giving Jenny a chance to escape in which she kills W.E. who attemps to stop her. After Vilmar regains consciousness, he and Leatherface chase after her. On the road, Vilmar and the transvestite Leatherface catch up to her in which Jenny manages to knock down Vilmar, but is saved when a passing limosine stops for her and Jenny gets inside. It is Rothman whom is her savior. Rothman tells Jenny that Vilmar had really messed up by letting Jenny go, so he decided to rescue Jenny and calls someone over his car phone claiming that it is an assassin to kill Vilmar. Jenny gets angrier as Rothman tells her that he help get her to a nearby hospital and that this was a \"spiritual experience\". He also claims he will shut down the cannibals killing business world-wide. Once at a hospital, Jenny consults with a cop who tells her that the police will investigate her claims. He also says that they'll figure it all out eventually, since it obviously isn't over. The movie ends with scenes of Leatherface swinging his chainsaw around on the road, angry at the death of Vilmar.",
+      "writers": [
+         "Kim Henkel",
+         "Tobe Hooper"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0110978/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTY4NjA4NzgyN15BMl5BanBnXkFtZTcwNDcyMjQyMQ@@._V1_SY317_CR2,0,214,317_AL_.jpg",
+      "actors": ["Stars: Renée Zellweger, Matthew McConaughey, Robert Jacks | See full cast and crew »"],
+      "reviews": [
+         "I decided to watch the original \"Texas CHAINSAW MASSACRE\", TCM 2, LEATHERFACE TCM 3 and TCM 4 in a row. I already seen the two first and I think they're great. But Leatherface and TCM 4 were new to me. Leatherface was extremely flat and boring but TCM 4 was, well, INSANELY BAD. I simply could not believe what I was watching. My jaw was on the floor. Is this a movie? It's a joke, right? I never laughed so much in a very long time. There are simply no words to describe how bizarre, SURREAL, and bad this movie is. Nothing makes sense so there's no point of trying to make sense of it. It's insane. Insanely bad. Insanely funny. Insanely directed. Insanely insulting to the whole series. Insanely watchable AND unwatchable. Yes, it's INSANELY entertaining to the masochist in me, who likes to witness the worst of the worst in movies, and TCM 4 is WRETCHED to the nth degree! It feels like the Hitchhiker from the original TCM directed this \"movie\". I have to admit that as bad as TCM 4 is, at least it's looks and feels more like the TCM world created by Tobe Hooper than the ultra boring and flat looking LEATHERFACE TCM 3. There are so many moments in TCM 4 that have to be seen to be believed. The funniest being the moment when Renee and Matthew are battling over remotes that controls Matthew's piston powered leg (got that?). Or the funny scene of Leatherface (a cross-dresser here) standing behind clueless Heather and playing with her hair. Heather has to be one of the funniest characters I've ever seen. She's played by Lisa Marie Newmyer, who's a bimbo but with a lot of insight. In this \"movie\", Heather is attacked by Leatherface, placed in a freezer. Then she's hung on a hook, and for some unexplained reason, she got off the hook and tried to crawl away from the house only to be brought back to the house, where she lies on the floor, too bored or lazy to runaway. LOL!!! The whole thing is played as a comedy. But the comedy is often so bizarre that it's not really funny. What's also remarkable is that Renee and Matthew do have \"star quality\" and watching these \"stars\" in this insane movie just adds a lot more bizarre, wonky quality to the movie than it really deserved. The whole cast is game but I wonder, what did the director or producers do to have the cast go all out like that? Was it drugs? Was the whole crew and cast on drugs or drunk?!?! Matthew is very good in his role as, well, I don't know, a buff psycho? And Renee goes all out in her role as \"survivor\", running across the forest like an athlete trying to win a medal. After I watched TCM4 for a second time, I've finally realized that it's all flippant parody of the first movie. I've noticed bizarre details, like the sound of crickets during the opening scene inside Jenny's house. The director, who co-wrote the original TCM, didn't take this new foray into the TCM universe seriously for one second. In the end, TCM 4 looked like an amalgamation of 'THE Texas CHAINSAW MASSACRE' and TWIN PEAKS. The director was obviously influenced by the David Lynch TV series. When you look at the movie in this light, it's not the total disaster that everyone says it is BUT the movie still ends up looking pretty bad because of one major weak aspect about it: it's TOTALLY POINTLESS. If there's was a movie that was totally pointless, it's this one. Why basically remake the first movie a la David Lynch? What's next? The Quentin Tarantino version of TCM? Anyway, personally, I prefer TCM 4 over LEATHERFACE TCM 3, which is just plain bad and is the worst movie of this bizarre so-called series. At least TCM 4 is so consciously bad that, even if it's an almost total embarrassment to the two first films, it's actually fun to watch if you're looking for something to laugh at or with, something that's insanely wacky, full of energy and 100% OVER-THE-TOP! As a straightforward film, TCM 4 rates at a big fat ZERO. But as a \"it's so bad it's good movie,\" TCM 4 rates a perfect 10. It's ranks up there along with GLEN OR GLENDA, PLAN 9 FROM OUTER SPACE, TERROR IN THE JUNGLE, and THE LEGEND OF LYLAH CLARE as the very best of the worst.",
+         "If the director of this film was trying to recapture the atmosphere of the first TCM, he did a terrible job. If he was trying to make some kind of comedy or satire, he did an even worse job. This one isn't scary, nor is it funny, not even unintentionally--it's too awful to even laugh at. Watching this movie is like having someone kick you in the head for two hours, only to find out that you have just survived the warm-up session and the worst is yet to come. Whenever you think the movie cannot possibly get any worse, it does. And then it does it again, and again, and... well, you get the idea. I'm no stranger to B-movies or horror films or horror comedies. DEAD ALIVE is one of my favorite movies. I've watched SATAN'S CHEERLEADERS and various Troma films multiple times because I think they're so hilarious. I worship the EVIL DEAD trilogy. Basically I've been a huge horror fan for most of my life. It is with that background that I am warning you away from this movie. It is one of the worst I've ever seen and is completely without value. I am truly stunned that Renee Zellwieger (however she spells it) and Matthew McConaughey had careers after this. They never mention this movie in public, and for good reason. In conclusion: Stay away, far away. Do not rent the video. If this comes on TV, change the channel. Utter garbage.",
+         "I liked this movie. I liked it in whole and in parts - meaning I enjoyed the film as a whole (and have watched it several times, inflicting it on various friends...), but there were touches in it that really creeped me, and that isn't something that happens every day. The film is your basic teenagers on the way home from the prom get lost and stuck and run into spooky family in the middle of nowhere - mayhem ensues. Actually, this is the movie I thought of (fondly) when I first heard about \"House of 1000 Corpses\". I like this movie much better, and not just because I REALLY want to bring it to a \"Matthew McConaghy Fan Club\" movie night. (SPOILERS) It's the details that make this movie. The wall of drivers' licenses that you can see in the background in one room of the creepy family's house, which implies they've been at this for a while. The filthy bathroom where you can't see the human skin hanging on the back of the door until you're already inside with the door closed. I've always found it hard to imagine a female villain character who actually \"works\" in a movie like this, unless she's either essentially browbeaten and incapable of individual action, or is utterly, irredeemably psychotic. This movie has a creepy female character who both casually flashes passersby from her office window (explaining only that she just got implants and everyone seems to want to see them) and flirts with cops while she has a girl tied up in her trunk. She also gives a variety of weird \"conspiracy theory\"ish explanations for why she goes along with what the spooky family does. Most unusual of all is the weird guy in the limousine who shows up for no particular reason and implies that he put these people here for some reason - presumably to generate exactly the type of urban legends they are generating - and who might be.... Satan? Some underling, anyway. Maybe Ranger Asmodeus (from Equinox) has a cousin. .. The movie left me wondering - in the best possible way. Not the usual \"why did they make this?\" or \"how could they have thought this was good?\" But instead \"who is that guy? Does he have other enclaves of evil out there just waiting for his visits?\" and \"that woman - was she a victim at one point who talked her way into joining them as a survival mechanism, and then convinced herself that it was OK?\" Ya know?",
+         "The latest Texas Chainsaw Massacre, is absolutely no rest from the bizarre first three horror films. Leatherface here is performed just like Gunnar Hansen's take in the 1974 granddaddy of all horror films, \" The Texas Chainsaw Massacre.\" The actors seem to overact sometimes, it's pretty corny...still the humor and craziness of the flick are entertaining, as well as the music and atmosphere. Definitely the best film of the two leading stars, who would go on to become Hollywood heartthrobs. You'll have a lot of fun if you're a horror fan who likes to see some weird B-ish stuff.",
+         "I can't believe this is rated as a bad film by so many. It is one of my favorites. It's pretty twisted and sick in a realistic way. Indeed it's not like the other TCMs but it's the same plot line , but completely different in a way. Mr. McConaughey has a great role and is acting like never before. Try seeing the movie and finding the good qualities instead of searching for whats bad about it like everyone else does. The psycholigy is brilliant. A must see for all !",
+         "At one point, a terrorized Jenny screams \"I don't understand!\" And Vilmer replies \"Welcome to the real world.\" For me, this sums up everything I like about this movie. The TCM series has -- at the best of times -- been about random violence...usually for the sake of sensationalism. But underneath it all is the creepy realization that not everybody thinks like you do. Some of them do things which make no sense to you. When you step into their reality, you're at their mercy, and you'll never understand exactly why. This installment plays the \"why?\" theme to the hilt, eventually copping out somewhat near the end when they should have just left us wondering. Darla is wonderful as Vilmer's girlfriend, alternately getting hung up about seemingly trivial things -- having a quiet dinner for a change -- and goading Vilmer into continuing their twisted, mutually abusive relationship. Vilmer himself has fantastic moments, though none of the actors quite live up to Perensky & Zellweger's standards of convincing nuttiness and terror, respectively. Though Newmyer is also great in a role which is too small. Outside of the mayhem, there's some wonderful dialogue, especially the first few lines in the movie: the teacher who simpers around the students and then gripes, \"f*** I hate kids.\" Heather's friend with the absolutely bizarre mannerisms explaining that the gossip-monger is just trying to cause trouble. Heather saying that they might end up slaughtered and hidden away in somebody's basement, with Sean retorting, \"that's stupid, the houses around here don't have basements.\" And finally, my favourite line: \"Too bad about her face, Leather, but you can have her shoes!\" Despite all the bad press this movie's received, I hope Kim Henkel enjoys what she created as much as I enjoy watching it. Goofy, funny, real, unreal, terrifying and witty: good job.",
+         "This movie to me, was totally entertaining for what it is; the what, 7th movie in a string of horror movie sequels? Come on! Give these people some credit. Once they make about 3 or 4 movies, you're a moron if you're expecting an Oscar worthy film. Matthew McConaughey is INCREDIBLE AS A PSYCHO! His lines are delivered so INSANELY (mind the pun!) PERFECT that you wonder if he really is a bit nutty in real life. The things he says cracks me up. When he runs over the character Sean with his tow truck saying \"Yep, that shoulda done' it... that shoulda done it riiiight there.\" I just laugh so incredibly hard at how crazy he is throughout the entire movie. You have to let go of your cirtical, Siskel & Ebert serious side & just have some fun with this movie! The Next Generation isn't much for blood and guts like the original, it more so focuses on demented psychopaths who live amongst body parts and filth and who torture for fun. They try to give you the meaning of \"HORROR\" even that crazy-skin-flesh-nipple-ring guy admits that the whole \"psycho killer\" set-up is, & I quote: \"appalling\" as far as horror goes. So there, they admit it but the characters are still great in my opinion. But the scene with the prom kids in Darla's office is a load of laughs because Tonie Perensky portrays the hot psycho chick to a \"T\". She's completely cool and collected about her lifestyle and just pulls off the greatest pin-up type homicidal bimbo character ever. And she manages to still look hot despite almost getting choked to death (by a TV remote controlled leg) and smacked around a few times by Vilmer. Renee is EXCELLENT as the virginal victim who, unlike most innocent horror movie victims who do the stereotypical \"running up the stairs when they should be running out of the front door,\" Renee gets some courage to climb a 3 story roof, swing from a cable line, jump out of a window, & is even brave enough to point in Leather's face and tell him to \"SIT THE F*CK DOWN!\" GO JENNY! Jenny's friend Heather is a little annoying with her little girl voice and airhead paranoia but she acknowledges the error of her ways and ultimately gets the grossest punishments. So we can pardon her! The only one I can say that really didn't impress me was Leather himself. This if the first Texas CM movie I've seen where Leather runs around pulling at his hair and screaming endlessly like a little girl instead of getting down to some real deal chainsaw business. After a few minutes of them introducing Leather (continuously screaming like a sissy) you're looking for the MUTE button on your remote. This movie doesn't lose the original concept of the Ed Gein theme by showing briefly the woman-skin suit hanging behind a bathroom door, however in this TCM movie we get to see Leather decked out for dinner in a fancy gown, red lipstick and a black wig he must have stolen from Tina Turner. All in all, I really find this movie entertaining and think that Matthew and Renee got off to a GREAT start with these characters. I give it 1½ thumbs up! =]",
+         "The third sequel in the Texas Chainsaw series is now more famous for starring Matthew McConaughey and Renée Zellweger, neither of whom, at the time the film was made, knew better than to accept such trashy roles. The film begins by asking us to care about a group of teens who leave their prom due to a couple having a fight and end up lost in the woods. This mere minutes after having driven away from their high school, which presumably resides in their hometown. Clearly they have not learned their way around much, but no matter. Before too long, they very soon find themselves running for their lives away from the famous freaky family, not only lost in their home town but, before long, also without their car. One of the biggest gripes that people have with this film (which is saying a lot, because there is nothing but stuff to gripe about) is that Leatherface seems to have become a transvestite. You can almost watch the transformation in the film, which seems to me to be sort of the result of trying to make Leatherface too complex. There is a point in the film where the trapped Jenny (Zellweger) tries to get Leatherface to help her escape, talking to him exactly like a psychiatrist would talk to a disturbed child. Come on, we know Leatherface is disturbed; I just don't understand why cross-dressing had to be added to his impressive list of deviations from the pattern of behaviors generally associated with reasonably well-adjusted people. On the other hand, Kim Henkel did co-write the original Texas Chainsaw Massacre with Tobe Hooper, and has thus been granted at least some right to tamper with the character. What you see in the movie, however, is a lot of tampering gone horribly, horribly wrong. If it ain't broken, as they say, don't fix it. You may end up making it worse. What is amazing to me is how far McConaughey and Zellweger have both come in spite of this film. As I was watching the film, I couldn't believe I was watching the same actor who had turned in such wonderful performances in movies like Bridget Jones' Diary and Cold Mountain, as well as another actor who displayed strong acting presence in movies like EdTV and U-571. Why the focus on Leatherface being a transvestite? Leatherface is a side character anyway, it is Vilmer (McConaughey) who is the star, which is sad because he plays such a belligerent, disgusting character. If you don't believe me that he's more the star than Leatherface, count how many people Leatherface, or anyone else, kills with a chainsaw in the movie (hint: none). Vilmer is the new head of household in the backwoods family, working as a tow-truck driver/reckless murderer and who has the fascinating addition of an electric leg that is operated by remote control. At one point, a high school kid pleads for help, then when he realizes Vilmer's one of the bad guys, he runs away from the truck (running straight down the street rather than into the woods to relative safety, of course), Vilmer gleefully chases him down, laughing and hooting and hollering all the while, and then runs him over five or six times before stashing his body on the back of the truck to later taunt one of his little friends with. As is to be expected, there is never any motive given behind any of the random killings, this is all just the sickening actions of an insane family in the woods, evidently comfortably separate from any sort of law enforcement or even the most tenuous interaction with greater civilization, waiting for unsuspecting teenagers to stumble into their midst. Interesting that the movie starts out as such a gigantic horror movie cliché, and still manages to go downhill from there. Horror movie sequels are first faced with the usually daunting task of justifying themselves. A horror movie sequel has to have a premise that gives it a reason for having been made, otherwise it is clearly a cash cow made to cash in on the success of the original film. Texas Chainsaw 4, instead, simply passes itself off as something of a remake of the original, rather than another sequel, and turns from the more plodding and slow-moving original to the mindless, completely over-the-top belligerence that you see here. The scenes at the house are peppered with stupid violence, at one point Vilmer throws Darla to the ground and steps on her neck with his powerful leg, nearly killing her by suffocation or by breaking her neck, clearly not caring which. Naturally, she gets up and complains that she could easily leave him and go back to her husband. Charming. Add cannibalism to the mix and you have a hilariously bad movie. Jenny spends much of the latter half of the movie trying to escape from the hungry hungry hicks, as we are constantly bombarded with the stupid, stupid characters and plot twists that the movie makes as it ineptly tries to combine the horror and comedy that even the most mildly competent horror film can display. This is exactly the kind of thing that really makes me wonder why, every time a new movie comes out in a certain series, I always go back and watch the whole series before watching it. I'm still working on The Friday the 13th movies, the Nightmares on Elm Street, and the Child's Play films, which are decidedly more fun than the Texas Chainsaws. And to make matters worse, I have heard nothing but bad things about the 2003 Texas Chainsaw. And given how right all the bad reviews of this movie are, that is certainly a sinking feeling.",
+         "This film is impossible to describe, it's really badly made, but I went through a stage of watching it repeatedly for some reason. The plot is almost non-existent and if there is one it's bizarre. It's not even slightly scary and I'm not sure if it even tries to be, it's easily the worst in a genuinely good series. The Leatherface is awfully played, more or less everyone can't act to save their lives, the two leads excluded. There is no actual massacre nor any chainsaw related deaths. So thats all the bad stuff out the way. Now the on the plus side, there is one thing. Matthew McConaughey. The first time I saw it I was stunned by his performance in it. He's really good. Very menacing and maniacal. Also Renee gives a decent performance as the sprightly young heroine. This film does have the power to annoy though. \"Oh my god my torch has run out\" \"I know, You two go and follow the mysterious car....I'll wander about in the woods with what is possibly the worst torch in existence...Oop..It's broke.\" The ending however, is the real cherry on top which makes most people I know hate it. No kind of sense has been made so far but I'm working on it. Where did that plane come from, why did it kill Vilmer, who to him, must've looked like he was also being chased by a man with the chainsaw. So was it all some kind of cult? Why have the police not seen this place? It's not that far from a school let alone civilisation like the original was. Funny how this school where they travel about a mile from is right next to a huge desert too. The list of plot holes could go on....but if you can get past the awful acting, irritating plot, hate-able characters (which is a good thing I guess) and the fact it makes no sense, you might just enjoy yourself. Just watch the two leads and enjoy (kind of).",
+         "I have seen many people give this a bad rating. however because I seen some good reviews (because some movies get bad ratings but there are them few reviews that actually give the truth) and decided to watch it. for any real horror fan I think they will enjoy this. it is not as a big of production as other Texas Chainsaw Massacres but it is a good story. their are new characters and a lot of the originals are not in this movie. but anyone who likes this series should check this movie out. leatherface was more of a physco in this then other ones in my opinions. give the movie of shot I know their are a lot more worse movies that this you could watch. this should satisfy your movie needs."
+      ],
+      "genres": [
+         "Comedy",
+         "Horror",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "Genre Pictures",
+         "Return Productions",
+         "Ultra Muchos Productions"
+      ],
+      "summaries": [
+         "This is the twisted tale of Vilmer and his crazy family which includes the lovely Leatherface. They have pastime of killing and stuffing people. Unfortunately, Jenny and her friends run into Vilmer and his clan in the middle of the night in the middle of the woods.",
+         "A group of prom-going teens take a fatal detour into the Texas woods and get into an accidental car crash. Stranded with no place to go, they seek help in Darla, a seemingly innocent insurance agent whose office is located near by. After Darla calls for help, they set out back to the scene of the crash, and are found and terrorized by Leatherface, his crazy brother, Vilmer, and are taken to an old farmhouse where they meet the rest of the cannibalistic clan.",
+         "A group of teenagers get into a car crash in the Texas woods on prom night, and then wander into an old farmhouse that is home to Leatherface and his insane family of cannibalistic psychopaths."
+      ],
+      "budget": 600000
+   },
+   "movielensId": 2462,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1994-01-01",
+      "dvdReleaseDate": "2003-10-07",
+      "directors": ["Kim Henkel"],
+      "runtime": 95,
+      "movieId": 2462,
+      "title": "The Texas Chainsaw Massacre 4: The Next Generation",
+      "mpaa": "R",
+      "actors": [
+         "Renée Zellweger",
+         "Matthew McConaughey",
+         "Robert Jacks",
+         "Tonie Perensky",
+         "Joe Stevens",
+         "Lisa Marie Newmyer",
+         "John Dugan",
+         "Marilyn Burns",
+         "John Harrison",
+         "Tyler Shea Cone",
+         "James Gale",
+         "Chris Kilgore",
+         "Vince Brock",
+         "Susan Loughran",
+         "David Laurence",
+         "Grayson Victor Schirmacher",
+         "Jeanette Wiggins",
+         "Carmen Nogales",
+         "Lisa Caraveo",
+         "Les Martin",
+         "Adam White",
+         "Bill Wise",
+         "Loren Guerra",
+         "Derek Keele",
+         "Geri Wolcott",
+         "Axel L. Schiller",
+         "Andy Cockrum",
+         "Roger Roe",
+         "Angee Hughes",
+         "Rebecca Rosenberg",
+         "Paul A. Partain",
+         "Derrick Sanders",
+         "Ryan Wickerham",
+         "Debra McMichael"
+      ],
+      "imdbMovieId": "0110978",
+      "originalTitle": "The Texas Chainsaw Massacre 4: The Next Generation",
+      "genres": [
+         "Comedy",
+         "Horror",
+         "Thriller"
+      ],
+      "youtubeTrailerIds": [
+         "Uya-iE-9EwE",
+         "muhMock1ijY"
+      ],
+      "plotSummary": "Everyone's favorite chainsaw-wielding psychopath, Leatherface, is back for more prom-night gore, and this time he's joined by his bloodthirsty family. Four stranded yet carefree teens are taken in by a backwoods family, clueless of their host family's grisly habits. The terrified youths, including sweet Jenny, try to escape from Leatherface and his crazed clan, including the bionic Vilmer.",
+      "tmdbMovieId": 16780,
+      "avgRating": 1.7682,
+      "releaseYear": "1994",
+      "numRatings": 632,
+      "posterPath": "/6ECWpYiwEdWi2OTSbyzLV281YJ.jpg"
+   }
+}

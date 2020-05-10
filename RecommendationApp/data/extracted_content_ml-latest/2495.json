@@ -1,0 +1,957 @@
+{
+   "tmdb": {
+      "original_language": "fr",
+      "keywords": [
+         {
+            "name": "slavery",
+            "id": 2831
+         },
+         {
+            "name": "dystopia",
+            "id": 4565
+         },
+         {
+            "name": "space",
+            "id": 9882
+         },
+         {
+            "name": "alien",
+            "id": 9951
+         },
+         {
+            "name": "animation",
+            "id": 10336
+         },
+         {
+            "name": "adult animation",
+            "id": 161919
+         },
+         {
+            "name": "strange science",
+            "id": 206464
+         },
+         {
+            "name": "human subjugation",
+            "id": 207569
+         }
+      ],
+      "imdb_id": "tt0070544",
+      "video": false,
+      "title": "Fantastic Planet",
+      "recommendations": [
+         22500,
+         22501,
+         3763,
+         40149,
+         3764,
+         57283,
+         20620,
+         31417,
+         26782,
+         15244,
+         42170,
+         64847,
+         45698,
+         63230,
+         38360,
+         54178,
+         116690,
+         57230,
+         83539,
+         36265
+      ],
+      "backdrop_path": "/v1YaCy6ZNOyBcqS3q97qyVv6ohc.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 5,
+               "character": "Tiwa (voice)",
+               "gender": 0,
+               "credit_id": "52fe46c39251416c75082a8d",
+               "name": "Jennifer Drake",
+               "profile_path": null,
+               "id": 131376,
+               "order": 0
+            },
+            {
+               "cast_id": 6,
+               "character": "Young Terr (voice)",
+               "gender": 0,
+               "credit_id": "52fe46c39251416c75082a91",
+               "name": "Eric Baugin",
+               "profile_path": "/wemGDLBqG5eVVdLJAmxms6PCI1G.jpg",
+               "id": 131377,
+               "order": 1
+            },
+            {
+               "cast_id": 7,
+               "character": "Master Sinh (voice)",
+               "gender": 0,
+               "credit_id": "52fe46c39251416c75082a95",
+               "name": "Jean Topart",
+               "profile_path": "/kLEBKjSUqDqXEj8QcPc2vtPcmhs.jpg",
+               "id": 39880,
+               "order": 2
+            },
+            {
+               "cast_id": 8,
+               "character": "Adult Terr - Narrator (voice)",
+               "gender": 0,
+               "credit_id": "52fe46c39251416c75082a99",
+               "name": "Jean Valmont",
+               "profile_path": null,
+               "id": 38115,
+               "order": 3
+            },
+            {
+               "cast_id": 9,
+               "character": "Additional Voices (voice)",
+               "gender": 0,
+               "credit_id": "52fe46c39251416c75082a9d",
+               "name": "Sylvie Lenoir",
+               "profile_path": null,
+               "id": 131378,
+               "order": 4
+            },
+            {
+               "cast_id": 10,
+               "character": "Additional Voices (voice)",
+               "gender": 0,
+               "credit_id": "52fe46c39251416c75082aa1",
+               "name": "Michèle Chahan",
+               "profile_path": null,
+               "id": 131379,
+               "order": 5
+            },
+            {
+               "cast_id": 11,
+               "character": "Om (voice)",
+               "gender": 2,
+               "credit_id": "52fe46c39251416c75082aa5",
+               "name": "Yves Barsacq",
+               "profile_path": "/d0ZfIPpDL5IoEVZOwNUExuZN9ZH.jpg",
+               "id": 39334,
+               "order": 6
+            },
+            {
+               "cast_id": 12,
+               "character": "Additional Voices (voice)",
+               "gender": 0,
+               "credit_id": "52fe46c39251416c75082aa9",
+               "name": "Hubert de Lapparent",
+               "profile_path": null,
+               "id": 39097,
+               "order": 7
+            },
+            {
+               "cast_id": 13,
+               "character": "Master Taj (voice)",
+               "gender": 0,
+               "credit_id": "52fe46c39251416c75082aad",
+               "name": "Gérard Hernandez",
+               "profile_path": "/dVO4ZZ0nbkOZlQBdhvknL7HnSQN.jpg",
+               "id": 131380,
+               "order": 8
+            },
+            {
+               "cast_id": 14,
+               "character": "Additional Voices (voice)",
+               "gender": 0,
+               "credit_id": "52fe46c39251416c75082ab1",
+               "name": "Claude Joseph",
+               "profile_path": "/c8aAoMr7zRcgjmqGAB7kmxZrnJg.jpg",
+               "id": 131381,
+               "order": 9
+            },
+            {
+               "cast_id": 15,
+               "character": "Additional Voices (voice)",
+               "gender": 2,
+               "credit_id": "52fe46c39251416c75082ab5",
+               "name": "Philippe Ogouz",
+               "profile_path": "/mGkFGLgHAkWWt53iUsV2DtRWfCU.jpg",
+               "id": 24799,
+               "order": 10
+            },
+            {
+               "cast_id": 16,
+               "character": "Additional Voices (voice)",
+               "gender": 0,
+               "credit_id": "52fe46c39251416c75082ab9",
+               "name": "Jacques Ruisseau",
+               "profile_path": null,
+               "id": 131382,
+               "order": 11
+            },
+            {
+               "cast_id": 53,
+               "character": "Additional Voices (voice)",
+               "gender": 0,
+               "credit_id": "58fda1e4c3a3687a15029536",
+               "name": "Max Amyl",
+               "profile_path": null,
+               "id": 933057,
+               "order": 12
+            },
+            {
+               "cast_id": 54,
+               "character": "Additional Voices (voice)",
+               "gender": 0,
+               "credit_id": "58fda1e4c3a36879db02ddca",
+               "name": "Denis Boileau",
+               "profile_path": null,
+               "id": 1373155,
+               "order": 13
+            },
+            {
+               "cast_id": 55,
+               "character": "Additional Voices (voice)",
+               "gender": 1,
+               "credit_id": "58fda1e5c3a3687a03029a49",
+               "name": "Madeleine Clervanne",
+               "profile_path": "/lrcqKvvXXnaWSYme82T3lpIsJUH.jpg",
+               "id": 57491,
+               "order": 14
+            },
+            {
+               "cast_id": 56,
+               "character": "Additional Voices (voice)",
+               "gender": 0,
+               "credit_id": "58fda1e5925141643c02d363",
+               "name": "William Coryn",
+               "profile_path": "/AjFaXHGbG5CNxleqH0NvsjIT5ls.jpg",
+               "id": 587152,
+               "order": 15
+            },
+            {
+               "cast_id": 57,
+               "character": "Additional Voices (voice)",
+               "gender": 0,
+               "credit_id": "58fda1e5925141642f02cec8",
+               "name": "Poupy de Monneron",
+               "profile_path": null,
+               "id": 1802475,
+               "order": 16
+            },
+            {
+               "cast_id": 58,
+               "character": "Additional Voices (voice)",
+               "gender": 0,
+               "credit_id": "58fda1e6c3a3687a15029539",
+               "name": "Christian de Tillière",
+               "profile_path": "/5S87BWnj6s4x0oD0VlGRL4p7O7w.jpg",
+               "id": 40586,
+               "order": 17
+            },
+            {
+               "cast_id": 59,
+               "character": "Additional Voices (voice)",
+               "gender": 0,
+               "credit_id": "58fda1e6925141640b02c853",
+               "name": "Christian Echelard",
+               "profile_path": null,
+               "id": 1802476,
+               "order": 18
+            },
+            {
+               "cast_id": 60,
+               "character": "Additional Voices (voice)",
+               "gender": 0,
+               "credit_id": "58fda1e692514163e302e2e9",
+               "name": "Jeanine Forney",
+               "profile_path": null,
+               "id": 1687898,
+               "order": 19
+            },
+            {
+               "cast_id": 61,
+               "character": "Additional Voices (voice)",
+               "gender": 0,
+               "credit_id": "58fda1e6c3a3687a1502953d",
+               "name": "Pascal Kominakis",
+               "profile_path": null,
+               "id": 1802477,
+               "order": 20
+            },
+            {
+               "cast_id": 62,
+               "character": "Additional Voices (voice)",
+               "gender": 0,
+               "credit_id": "58fda1e7c3a3687a2502bbe3",
+               "name": "Andre Lambert",
+               "profile_path": null,
+               "id": 1802478,
+               "order": 21
+            },
+            {
+               "cast_id": 63,
+               "character": "Additional Voices (voice)",
+               "gender": 2,
+               "credit_id": "58fda1e7c3a3687a2a02a426",
+               "name": "Mark Lesser",
+               "profile_path": "/9VU1dVwSmNiWpTTOZui85TtK16R.jpg",
+               "id": 1802479,
+               "order": 22
+            },
+            {
+               "cast_id": 64,
+               "character": "Additional Voices (voice)",
+               "gender": 0,
+               "credit_id": "58fda1e792514163df02d420",
+               "name": "Serge Netter",
+               "profile_path": null,
+               "id": 1802480,
+               "order": 23
+            },
+            {
+               "cast_id": 65,
+               "character": "Additional Voices (voice)",
+               "gender": 0,
+               "credit_id": "58fda1e8c3a3687a2502bbe8",
+               "name": "Yvette Robin",
+               "profile_path": null,
+               "id": 1802481,
+               "order": 24
+            },
+            {
+               "cast_id": 66,
+               "character": "Additional Voices (voice)",
+               "gender": 0,
+               "credit_id": "58fda1e892514163df02d424",
+               "name": "André Rouyer",
+               "profile_path": "/Kc879Lg5uwqdL1wmzdgNgeAqGD.jpg",
+               "id": 580705,
+               "order": 25
+            },
+            {
+               "cast_id": 67,
+               "character": "Additional Voices (voice)",
+               "gender": 0,
+               "credit_id": "58fda1e8c3a3687a03029a4e",
+               "name": "Irina Tarassov",
+               "profile_path": null,
+               "id": 1802482,
+               "order": 26
+            },
+            {
+               "cast_id": 68,
+               "character": "Additional Voices (voice)",
+               "gender": 0,
+               "credit_id": "58fda1e9c3a368798402d625",
+               "name": "Julien Thomas",
+               "profile_path": null,
+               "id": 1509812,
+               "order": 27
+            },
+            {
+               "cast_id": 69,
+               "character": "Additional Voices (voice)",
+               "gender": 0,
+               "credit_id": "58fda1e992514163ec02c93e",
+               "name": "Gilbert Vilhon",
+               "profile_path": null,
+               "id": 1802483,
+               "order": 28
+            },
+            {
+               "cast_id": 70,
+               "character": "Additional Voices (voice)",
+               "gender": 0,
+               "credit_id": "58fda1e9c3a3687a2502bbee",
+               "name": "Paul Villé",
+               "profile_path": "/pqjtNxYGLcMERgYlOO3Aq9bh43t.jpg",
+               "id": 18210,
+               "order": 29
+            },
+            {
+               "cast_id": 71,
+               "character": "Tiwa (voice) (uncredited)",
+               "gender": 0,
+               "credit_id": "58fda1e9925141642802c363",
+               "name": "Cynthia Adler",
+               "profile_path": null,
+               "id": 552625,
+               "order": 30
+            },
+            {
+               "cast_id": 72,
+               "character": "Young Terr (voice) (uncredited)",
+               "gender": 2,
+               "credit_id": "58fda1eac3a36879f4028904",
+               "name": "Mark Gruner",
+               "profile_path": "/5SRW4GsIuyHAlTL3tCRwgnYzxMB.jpg",
+               "id": 16198,
+               "order": 31
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe46c39251416c75082a77",
+               "name": "René Laloux",
+               "profile_path": "/aaQ1lye1Rj3xz9jV6hlbbvHTIxQ.jpg",
+               "id": 80260,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe46c39251416c75082a7d",
+               "name": "Stefan Wul",
+               "profile_path": null,
+               "id": 131375,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46c39251416c75082a83",
+               "name": "Roland Topor",
+               "profile_path": "/uuIWPTbW2DvSpG8MXfOtoIdMkLV.jpg",
+               "id": 49505,
+               "department": "Writing",
+               "job": "Adaptation"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46c39251416c75082a89",
+               "name": "René Laloux",
+               "profile_path": "/aaQ1lye1Rj3xz9jV6hlbbvHTIxQ.jpg",
+               "id": 80260,
+               "department": "Writing",
+               "job": "Adaptation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5653fd839251417019002698",
+               "name": "Simon Damiani",
+               "profile_path": null,
+               "id": 1540127,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5653fd8c925141701e002673",
+               "name": "Anatole Dauman",
+               "profile_path": null,
+               "id": 2304,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5653fd9492514170250025aa",
+               "name": "André Valio-Cavaglione",
+               "profile_path": null,
+               "id": 1366990,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5653fd9e92514170210026b2",
+               "name": "Alain Goraguer",
+               "profile_path": null,
+               "id": 30547,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5653fda692514170190026a0",
+               "name": "Boris Baromykin",
+               "profile_path": null,
+               "id": 1540133,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5653fdafc3a3685100002a7b",
+               "name": "Lubomir Rejthar",
+               "profile_path": null,
+               "id": 1540134,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5653fdbfc3a36850fa002b8b",
+               "name": "Hélène Arnal",
+               "profile_path": null,
+               "id": 1345408,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5653fdc9925141701000260f",
+               "name": "Marta Látalová",
+               "profile_path": null,
+               "id": 1496254,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5653fdd39251417010002613",
+               "name": "Václav Strnad",
+               "profile_path": null,
+               "id": 1512310,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5653fde592514170190026bc",
+               "name": "Robert Pouret",
+               "profile_path": null,
+               "id": 606817,
+               "department": "Sound",
+               "job": "Sound"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5653fdf9c3a36850f600265e",
+               "name": "Jean Guérin",
+               "profile_path": null,
+               "id": 1540136,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5653fe0bc3a36850f300284b",
+               "name": "Jindriska Beberová",
+               "profile_path": null,
+               "id": 1540137,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5653fe15c3a3685100002a96",
+               "name": "Jindrich Bárta",
+               "profile_path": null,
+               "id": 1540138,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5653fe1e925141701e00269c",
+               "name": "Zdena Bártová",
+               "profile_path": null,
+               "id": 1512311,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5653fe2a92514170130027a6",
+               "name": "Lidia Cardet",
+               "profile_path": null,
+               "id": 1540139,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5653fe3392514170190026d3",
+               "name": "Renáta Celbová",
+               "profile_path": null,
+               "id": 1540140,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5653fe3dc3a3685100002a9f",
+               "name": "Dana Drábová",
+               "profile_path": null,
+               "id": 1540141,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5653fe46c3a3685100002aa7",
+               "name": "Nadezda Dvoráková",
+               "profile_path": null,
+               "id": 1540142,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5653fe4ec3a36850f300285b",
+               "name": "Helena Horálková",
+               "profile_path": null,
+               "id": 1540143,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5653fe57925141701500278f",
+               "name": "Zuzana Jupová",
+               "profile_path": null,
+               "id": 1512312,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5653fe60925141701b002559",
+               "name": "Viktorie Kolariková",
+               "profile_path": null,
+               "id": 1540144,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5653fe69925141701e0026b3",
+               "name": "Eva Kretzerová",
+               "profile_path": null,
+               "id": 1540145,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5653fe7792514170210026dd",
+               "name": "Josef Kábrt",
+               "profile_path": null,
+               "id": 1512306,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5653fe81c3a36850f3002866",
+               "name": "Helena Najdrovská",
+               "profile_path": null,
+               "id": 1540146,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5653fe8dc3a36850f600268a",
+               "name": "Katerina Nováková",
+               "profile_path": null,
+               "id": 1540147,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5653fe95c3a36850f0002503",
+               "name": "Alena Pokorná",
+               "profile_path": null,
+               "id": 1540148,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5653fe9dc3a36850fc002566",
+               "name": "Jarmila Rabanová",
+               "profile_path": null,
+               "id": 1540149,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5653fea892514170250025f2",
+               "name": "Helena Rohrauerová",
+               "profile_path": null,
+               "id": 1540150,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5653feb1c3a3685100002ac5",
+               "name": "Marcela Schneiderová",
+               "profile_path": null,
+               "id": 1540151,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5653febac3a36850ec00267d",
+               "name": "Bohumil Sejda",
+               "profile_path": null,
+               "id": 1540152,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5653fec292514170250025fd",
+               "name": "Zdenek Sob",
+               "profile_path": null,
+               "id": 1512313,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5653feca92514170190026f4",
+               "name": "Karel Strebl",
+               "profile_path": null,
+               "id": 1512314,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5653fed2c3a36850f000250f",
+               "name": "Marie Tomasková",
+               "profile_path": null,
+               "id": 1540153,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5653fedac3a3685100002ad5",
+               "name": "Eva Udrzalová",
+               "profile_path": null,
+               "id": 1540154,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5653fee3c3a36850ec002689",
+               "name": "Jirí Vokoun",
+               "profile_path": null,
+               "id": 1540155,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5653feecc3a36850ec002692",
+               "name": "Alena Wellnerová",
+               "profile_path": null,
+               "id": 1540156,
+               "department": "Visual Effects",
+               "job": "Animation"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Animation",
+            "id": 16
+         },
+         {
+            "name": "Fantasy",
+            "id": 14
+         },
+         {
+            "name": "Science Fiction",
+            "id": 878
+         }
+      ],
+      "popularity": 8.762304,
+      "production_countries": [
+         {
+            "iso_3166_1": "CZ",
+            "name": "Czech Republic"
+         },
+         {
+            "iso_3166_1": "FR",
+            "name": "France"
+         }
+      ],
+      "id": 16306,
+      "vote_count": 173,
+      "budget": 0,
+      "overview": "Fantastic Planet tells the story of \u201cOms\u201d, human-like creatures, kept as domesticated pets by an alien race of blue giants called \u201cDraags\u201d. The story takes place on the Draags\u2019 planet Ygam, where we follow our narrator, an Om called Terr, from infancy to adulthood. He manages to escape enslavement from a Draag learning device used to educate the savage Oms \u2014 and begins to organise an Om revolt.",
+      "similar": [
+         348,
+         157336,
+         228161,
+         7450,
+         17431,
+         49849,
+         9016,
+         19995,
+         299687,
+         137113,
+         126889,
+         602,
+         869,
+         871,
+         2048,
+         8337,
+         8078,
+         9693,
+         10200,
+         17654
+      ],
+      "original_title": "La planète sauvage",
+      "runtime": 72,
+      "poster_path": "/8nVG28GNX5kEJUaUKpMBCCTHc2p.jpg",
+      "spoken_languages": [{
+         "name": "Français",
+         "iso_639_1": "fr"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Krátký Film Praha",
+            "id": 2329,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Argos Films",
+            "id": 6116,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Les Films Armorial",
+            "id": 25960,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Institut National de l'Audiovisuel (INA)",
+            "id": 8171,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Ceskoslovenský Filmexport",
+            "id": 2330,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1973-05-01",
+      "vote_average": 7.6,
+      "belongs_to_collection": null,
+      "tagline": "A Sublime Trip to a Fine New World",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "France",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["René Laloux"],
+      "runtime": 72,
+      "synopsis": "The film depicts a future in which human beings, known as \"Oms\" (a word play on the French-language word hommes, meaning men), have been brought by the giant Draags to the Draags' home planet, where they are kept as pets (with collars). The Draags are an alien race which is humanoid in shape but a hundred times larger than humans, with blue skin, fan-like earlobes and huge, protruding red eyes. The Draags also live much longer than human beings one Draag week equals a human year. Some Oms are domesticated as pets, but others run wild, and are periodically exterminated. The Draags' treatment of the Oms is ironically contrasted with their high level of technological and spiritual development. The story opens with a woman running, occasionally looking behind her as if pursued. An enormous hand descends and blocks her way. She runs back the way she came and finds her way blocked by another hand. It becomes apparent that she is being toyed with by entities that do not appreciate her fragility, and as she dies, the infant she has been carrying and attempting to protect begins to cry. The view changes to reveal the Draag children who have accidentally killed the woman; they leave quickly when an adult Draag and child approach. The child voices concern for the orphaned infant, and the two take the child to their home. Tiva (the Draag child) names the infant Terr (word play on \"terrible\", same spelling in French; also a homophone for the French \"Terre\", meaning Earth). Her father, whom the adult Terr voice-over explains is master Sinh, the Draag great Aedile, attaches a collar capable of physically dragging Terr back from mischief, and over the next several scenes, their relationships develop. Terr witnesses the parents seemingly ingesting food by inhaling it from a device. After changing Terr's costume as one would a doll's, Tiva uses makeup to give herself a more Om-like appearance. When Terr impishly trades dark pigment for light, Tiva blows some of the powder on him. Tiva uses a tiny indoor weather-maker to cause a small storm cloud to form over Terr and chase him around the dwelling. Tiva takes Terr for a walk, and then teaches him how, under certain circumstances, crystals will form on stationary objects, including standing bipeds. She also teaches him that whistling will shatter the crystals. Terr happens upon master Sinh as he and several compatriots are melding in a ritual, and it is revealed that many Draag children have Oms like Terr when they convene to watch their respective Oms interact. Tiva's education is supplied by the use of a headset that transmits knowledge directly into the brain of the user. Because she enjoys having Terr in her hand when she is having her \"infos,\" Terr begins to acquire their knowledge. Meanwhile, at the seat of government, Draag Councilors discuss whether the regular extermination of the wild Oms is sufficient to keep their numbers at an acceptable level. It is revealed that Oms were first found on a planet that retained some evidence of structured life, but the images seem to reveal that Earth was in a post-apocalyptic state at the time. Terr decides to escape, and to take the headset with him. He does not get very far before Tiva realizes he is missing, and her mother tells her to use her bracelet to bring him back. Terr finds himself suddenly being dragged backward by the collar. Only the headset becoming entangled in plants allows a wild female Om to come to his rescue before he is choked by the collar or dragged all the way back. When Terr explains that the headset contains the knowledge of the Draags but he doesn't know where to go with it, his unnamed rescuer takes him to her tribe, who live in a tree in a walled park. When it is demonstrated that Terr can read Draag script, the leader (known only as \"Mighty One\") is willing to accept Terr into the tribe, but the Wizard is not, and demands a trial by combat to the death. Terr and the Wizard's champion have child-sized animals bound to their torsos in such a way as to prevent the combatants from using anything but the beaks of said animals to attack. Terr is injured, but wins the trial. Over the next several scenes, it is shown how the Oms have adapted to life on the Draags' planet. Snail-like animals weave clothes onto the Oms, predators that would eat Oms are in turn hunted and efficiently stripped of useful materials, and the gene pool is kept well-mixed. Oms even make the occasional foray into Draag areas in search of resources. Returning from one such expedition, the group of adventurers is accosted by \"bandits\" who drop clawlike harpoons into the cargo and simply lift it up into their own tree. Mighty One tells Terr that they live on the other side of the park, and cautions him that they are evil. When the now-literate Oms read the new sign on one of the walls, they realize the park is about to be \"de-Omised.\" Terr decides that he must take this information to the tribe of \"bandits,\" and is quickly captured and taken before their leader, a wizened old woman. The woman is skeptical of Terr's claims. Terr is tied up and left. But when the de-Omising begins, the old woman returns and frees him. The de-Omising is accomplished using disks that release a poison gas. A great many Oms perish to this gas, but a sizable number still manage to escape through a crack in the park wall. Two passing Draags witness the exodus, and one begins crushing the Oms underfoot. The Oms retaliate and manage to bring down one of their attackers, but Mighty One is also killed, and the old woman leads the survivors to a place where she believes they will be safe. The death of a Draag puts the Council in an uproar. De-Omising is stepped up to a much higher priority, new technologies are developed, and frequency is scheduled to increase. The old woman has led the two now-united tribes to an old rocket depot. Applying their newfound knowledge, the Oms, seemingly under Terr's direction, very quickly adapt the abandoned technologies to their own purposes and begin to flourish, thanks to the rebirth of mechanized industry. On a visit to the old woman, Terr's former rescuer hears her express both optimism and regret that she will not live to see the Oms finally find peace. Fatalities resulting from Draag attempts to de-Om the rocket depot are minimized by the creation and organized use of shelters, but the Draags' updated de-Omising technologies become ever more aggressive, and when an automated scout detects the persistent Om settlement, it summons an array of lethal devices. As the attacks become more diverse and effective, the Oms launch their manned rockets toward the Fantastic Planet, where they discover headless statues. As bubbles descend to alight atop the statues, the statues begin to dance. Each bubble seems to contain an image of an individual Draag in meditation; their \"spirits\" are what animate the statues. It turns out that the statues facilitate \"nuptial rites\" between the Draags and entities from other galaxies, and from these, the Draags draw their life force. When the feet of the dancing statues threaten the rockets, the Oms use energy weapons that shatter the statues. Pandemonium reigns supreme in the Council chamber, for it seems the two races will destroy one another if they cannot find a way to live together. But in the very next scene, an Om steps down off an outstretched Draag hand, removes his silly hat and assumes a posture of confidence and self-assertion. The headset voice dispassionately recounts the Oms' construction of a new satellite where they can live, \"which they call Terr, after their ancestral planet .\"",
+      "writers": [
+         "Stefan Wul",
+         "Roland Topor"
+      ],
+      "originalLanguage": "French",
+      "imdbLink": "http://www.imdb.com/title/tt0070544/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMjgyODU4MjM0NV5BMl5BanBnXkFtZTgwNzc2ODYxMTE@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Barry Bostwick, Jennifer Drake, Eric Baugin | See full cast and crew »"],
+      "reviews": [
+         "\"Fantastic Planet\" was apparently double-billed frequently with \"Yellow Submarine\" back in the 70s, and its not hard to see why. Both are the finest heap trips animation could offer. Both are subversive fun coming under the guise of a children's film but really intended towards the older counterculture and intellectuals. However, both films have many unique qualities. \"Fantastic Planet\" is one of the most mind-blowing animated films I've seen in my life and pretty close to being a masterpiece. The film looks beautiful and surreal at the same time. Like the films of Jodorowsky, it never comes across as being too pretentious because it manages to make you go along with its otherworldly inner logic. The plot is linear and easy to follow, but the world is so completely alien its bound to alienate some viewers. However, those who ask for more from cinema than just entertainment will love this. No wonder its a huge cult favorite over in France (with a none too shabby following in the states, many of whom saw it on USA's \"Night Flight\" TV series). The animation itself is rather primitive, but the imagination on display makes it work incredibly well. Every single image in this film is memorable. \"Fantastic Planet\" is a film that can't be done justice by a simple explanation. Its such a rich film it demands multiple viewings. (9/10)",
+         "This is the masterpiece of René Laloux. Was an almost big success in France, was shown only 2 or 3 times in the past 20 years and is now a kind of \"Cult\" movie for sci fi addicts. This sci-fi movie is far much better than the two other from the same director: \"Gandahar\" and \"Les maitres du temps\" (Time Masters). René Laloux always works with great and original comics artists. He worked with \"Moebius\" Aka Jean Giraud on \"Les maitres du temps\". This artist is also credited on \"Alien\" , he created the space suits. He worked with \"Caza\" an other great comics artist for \"Gandahar\" He worked wit \"Topor\" on \"La planète sauvage\". Roland Topor is a french artist with a great sense of fantasy. He designed most of all you can see on the screen. The animation was produced in Czechoslovakia because there always have been excellent animation studios in this country, and also because producing in France was far too expensive. This story takes place in the past. It is a metaphor of the man's history. The small characters are called \"Oms\". This word is pronounced like the french word \"Hommes\" that means \"man\". It tell us when man had to leave the original heaven. Man had to fight against his old masters to be independent and free, then he had to find his place in the universe. This is the universal story ... and that's why this movie is timeless (despite the 70s Wha Wha guitars ... ;o)",
+         "La Planète sauvage is a fantastic sci-fi movie. The story is great. Its about a planet called Ygam, where human-like creatures called Oms live as pets for a race of blue giants known as the Traags. An Om steals a Traag knowledge device and helps the other Oms revolt. This is just the beginning of this fantastic tale. Even tough the animation is only okay, the fantastic drawings are perfectly suited to this exceptional movie. They are beautiful are alone worth the price(and time) that will give you the chance to see this extraordinary film, but the story is also exceptional. Its hard to find but its worth it. 10 out of 10. An animation masterpiece.",
+         "I saw this movie a few years ago on the Sci-Fi channel during a movie marathon they were having. Loved it so much I bought the DVD. Based on a brilliant piece of science fiction (\"Oms En Serie\" by Stefan Wul). The artwork is stunning, and the story line an original masterpiece. The plotline of this story is simple. You enslave a race of beings and take them for granted, one of them eventually learns your language, and unites all his fellow slaves in an organized attack. Suddenly you've been conquered. This story line was later ripped off by L. Ron Hubbard and his group of wackos. You might have read the book, or seen the atrocity of a film \"Battlefield Earth\".",
+         "What a great movie! I had completely forgotten about this film -in fact, I hadn't seen it in over 20 years. Well, I rented 'The Cell' and while I was watching the scene where Jennifer Lopez is in her house with the television on, I noticed those blue aliens and the memories came rushing back! Of course, I came to IMDB to figure out what the title of the film was (it was in the trivia section of 'The Cell' review), and I was pleasantly surprised to find the title. I went and bought the DVD, which is truly outstanding! The basic premise of the movie is that a race of aliens keeps domesticated humans as pets, while eliminating their feral brethren in the wild. The story centers around Terr, who is rescued from a pack of cruel alien children by the daughter of a high-ranking official. Eventually he runs away and ends up meeting the humans living in the wild. They become tired of the treatment they suffer at the hands of the alien race, and seek to exact revenge on their captors. This movie was made nearly 30 years ago, so the animation is not really comparable to modern-day animation, but the story and the plot transcend time. The premise of the film is as valid today as it was in the 70s. The DVD edition of the movie comes with three additional animated shorts by Rene Laloux, and they are just as entertaining. This is a real gem of a movie...truly beautiful. My kids love it as well. A true masterpiece. 9/10.",
+         "In the world of the animation business there is a recent trends towards super- realism where computer graphics are being increasingly used. Although I appreciate animations like Finding Nemo or the Incredibles for they represent a renewal of the genre (in the same way the Disney movie did in the 50's), the artistic style of La Planete Sauvage is unmistakable and accords perfectly with the dark atmosphere of the movie. This animation is based on the book Oms (a deformation of the french word homme, man) from the French SciFi writer Stephan Wul who should also be credited for being the writer of The Time Masters (another SciFi animation worth your time). Wul's real name is still a mystery. The rare things we know about his life are that he wrote his 10 (or so) only books when he was studying dentistry at the University. He apparently graduated and became too busy to continue his writing activity. What a pity. I've read most of Wul's book and they are all unique and beautiful. The animation sticks true to Wul's vision. The art by the Czech master Topor is dark and oppressing, despite the bright color of the 60-70's-influenced graphism, adding to the uncomfort of seeing human beings treated as pets or pests by giant extraterrestrials. However, the roles are interchangeable and humans do behave too often in the way the extraterrestrials do in the movie with other living creatures on Earth. Hard to find but worth the search.",
+         "This film is an absolute marvel. I saw this film as a child, and was instantly mesmerized with the entire concept. Fans of dark animation will hopefully love it as did I. Eerie settings, strange creatures, and an equally hypnotic score all lend themselves to the masterpiece that is La Planete Sauvage.",
+         "USA Network's Night Flight used to play this imaginative animated Sci-Fi film on Saturday late-nights in the mid-1980's. Bizarre, Eerie, Strange, Creative - Fantastic Planet was one film that I will always remember and still view today as a classic. It's about two intelligent species living together in a far off planet. One species, The Traags, are well-advanced spiritually and dominate the planet. The other species, The Oms, are divided into two groups: The domesticated Oms, who are basically toys, slaves, or pets to the Traags, and the tribe of wild Oms, who live within the forest. The Traags are giants compared to the tiny Human-like Oms. The story focuses on one domesticated Om who escapes with a pair of Traag mystical headphones which are used to educate them. He meets up with some wild Oms. Small wars erupt between the Traags and the Oms. With it's eerie soundtrack, the film gives a weird, psychedelic view of this planet's other alien creatures, bizarre plants, un-earthly weather, strange landscapes, and religious rituals of the Traags and the Oms. It also focuses on the species' mating rituals and how their moon, The Fantastic Planet, plays a part in the Traags existence with it's mystical ending.",
+         "This sci-fi movie, has a curious and very strange plot that strikes you from the very beginning. You have a race of superior beings (Draags) who master all branches of knowledge through the use of technology which liberates them from work, work which is carried out by an inferior race of tiny human-like slaves (Oms). This exquisite story is backed up by extremely surrealistic scenarios and an excellent music. Animated characters representing this ruling race are well-conceived and far apart from stereotypes. You enter a weird world with a fantastic atmosphere which satisfies the most demanding whims of this genre's fans. Though the plots looks simple in appearance it is a clever political satire.",
+         "If when you view this film, you are expecting a simple cartoon, you are in for a surprise and an educational treat as well. The film is called \" Fantastic Planet \" and is perhaps one of the finest examples of creative journalism ever. It tells the story of Terr (Eric Baugin and Jean Valmont) who's life literally begins on the run. His mother, Indeed, the entire race of fleeing Humans are not the dominate species on the planet. Hardly, the Humans are tiny when compared with the giant size Draags who rule the world. On this Alien sphere, the Draags consider the little humans, whom they call Oms, both charming play toys and at the same time, a pesky, intrusive and troubling nuisance. After losing his mother, Terr is adopted and accepted as a household pet by a female Draag. Despite being little more than a toy, Terr is nevertheless able to learn enough to escape and eventually mature into an adult Om. Later he meets other Oms, one of which is called Tiwa (Jennifer Drake). As time passes, the Oms become so dangerous to the Draags, that they decide to eradicate the entire race of humans. However, the Oms, having become aware of the plan, hurry to find and exploit the Draags' one main weakness. Failure means extinction, success promises to change the world of both. The film is certainly unique and its moral offering is not lost on the thinking and compassionate viewer. Subtitles make for a hindrance, but it's importance message allows it to stand on its own laurels as an all time Classic. ****"
+      ],
+      "genres": [
+         "Animation",
+         "Drama",
+         "Sci-Fi"
+      ],
+      "productionCompanies": [
+         "Argos Films",
+         "Les Films Armorial",
+         "Institut National de l'Audiovisuel (INA)"
+      ],
+      "summaries": [
+         "Slaves and masters dominate the narrative of the faraway world of Ygam. Set around the lifespan of Ter, a minute human shaped Om slave, and pet, of the giant blue alien Draags. Escaping into the wilderness and with a device used for intellectual advancement of the Draags, Ter finds refuge and support from fellow Om's and using the learning tool, he finds that knowledge is power and then sets to use the new found knowledge to revolt against the Draag masters...",
+         "This film takes place on a faraway planet where giants rule, and tiny humanoids must fight for their lives and their equality. A metaphor of class struggles.",
+         "La Planète sauvage AKA Fantastic Planet is a surrealist story based on the Soviet occupation of Czechoslovakia. Set in a far distant world human beings or \"Oms\"have been domesticated by the gigantic Draags. Wild Oms however are a problem and are exterminated by the dozen. One domesticated om Terr is able to escape his masters with a headset that puts information directly into the brain. Armed now with the Draags technology he leads the Oms in an attempt to make life better for them...But will the deomizing destroy them?",
+         "This futuristic story takes place on a faraway planet where blue giants rule, and oppressed humanoids rebel against the machine-like leaders."
+      ],
+      "budget": 0
+   },
+   "movielensId": 2495,
+   "movielens": {
+      "languages": ["Français"],
+      "releaseDate": "1973-05-01",
+      "dvdReleaseDate": "1999-02-16",
+      "directors": ["René Laloux"],
+      "runtime": 72,
+      "movieId": 2495,
+      "title": "Fantastic Planet",
+      "mpaa": "PG",
+      "actors": [
+         "Jennifer Drake",
+         "Eric Baugin",
+         "Jean Topart",
+         "Jean Valmont",
+         "Sylvie Lenoir",
+         "Michèle Chahan",
+         "Yves Barsacq",
+         "Hubert de Lapparent",
+         "Gérard Hernandez",
+         "Claude Joseph",
+         "Philippe Ogouz",
+         "Jacques Ruisseau",
+         "Max Amyl",
+         "Denis Boileau",
+         "Madeleine Clervanne",
+         "William Coryn",
+         "Poupy de Monneron",
+         "Christian de Tillière",
+         "Christian Echelard",
+         "Jeanine Forney",
+         "Pascal Kominakis",
+         "Andre Lambert",
+         "Mark Lesser",
+         "Serge Netter",
+         "Yvette Robin",
+         "André Rouyer",
+         "Irina Tarassov",
+         "Julien Thomas",
+         "Gilbert Vilhon",
+         "Paul Villé",
+         "Cynthia Adler",
+         "Mark Gruner"
+      ],
+      "imdbMovieId": "0070544",
+      "originalTitle": "La planète sauvage",
+      "genres": [
+         "Animation",
+         "Fantasy",
+         "Science Fiction"
+      ],
+      "youtubeTrailerIds": [
+         "SgCxCZNkQ9E",
+         "gUNhMHchNQE"
+      ],
+      "plotSummary": "Fantastic Planet tells the story of \u201cOms\u201d, human-like creatures, kept as domesticated pets by an alien race of blue giants called \u201cDraags\u201d. The story takes place on the Draags\u2019 planet Ygam, where we follow our narrator, an Om called Terr, from infancy to adulthood. He manages to escape enslavement from a Draag learning device used to educate the savage Oms \u2014 and begins to organise an Om revolt.",
+      "tmdbMovieId": 16306,
+      "avgRating": 3.73643,
+      "releaseYear": "1973",
+      "numRatings": 1161,
+      "posterPath": "/8nVG28GNX5kEJUaUKpMBCCTHc2p.jpg"
+   }
+}

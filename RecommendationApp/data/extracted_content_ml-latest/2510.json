@@ -1,0 +1,760 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "paris",
+            "id": 90
+         },
+         {
+            "name": "new york",
+            "id": 242
+         },
+         {
+            "name": "pope",
+            "id": 717
+         },
+         {
+            "name": "cooking",
+            "id": 1918
+         },
+         {
+            "name": "girlfriend",
+            "id": 5490
+         },
+         {
+            "name": "studies",
+            "id": 5948
+         },
+         {
+            "name": "scalper",
+            "id": 10883
+         },
+         {
+            "name": "crime",
+            "id": 14536
+         },
+         {
+            "name": "ticket",
+            "id": 48711
+         }
+      ],
+      "imdb_id": "tt0123221",
+      "video": false,
+      "title": "Just the Ticket",
+      "recommendations": [],
+      "backdrop_path": "/6pQTVM19UdyXEusyIS7iDLAgIeO.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 10,
+               "character": "Gary Starke",
+               "gender": 2,
+               "credit_id": "52fe4501c3a368484e043213",
+               "name": "Andy García",
+               "profile_path": "/zE3KYH6f6cxCehJJYKDTQa8sCaK.jpg",
+               "id": 1271,
+               "order": 0
+            },
+            {
+               "cast_id": 11,
+               "character": "Linda Palinski",
+               "gender": 1,
+               "credit_id": "52fe4501c3a368484e043217",
+               "name": "Andie MacDowell",
+               "profile_path": "/znSR45ZcNNlb1sNP1gYmVACYI2a.jpg",
+               "id": 1533,
+               "order": 1
+            },
+            {
+               "cast_id": 12,
+               "character": "Benny Moran",
+               "gender": 2,
+               "credit_id": "52fe4501c3a368484e04321b",
+               "name": "Richard Bradford",
+               "profile_path": "/fGMexQI7Po1AuHO7masqwUWId1P.jpg",
+               "id": 1272,
+               "order": 2
+            },
+            {
+               "cast_id": 13,
+               "character": "Lady with Cash",
+               "gender": 1,
+               "credit_id": "52fe4501c3a368484e04321f",
+               "name": "Alice Drummond",
+               "profile_path": "/f1O8suDhVloKdPvhyltj017SPTo.jpg",
+               "id": 17488,
+               "order": 3
+            },
+            {
+               "cast_id": 14,
+               "character": "Zeus",
+               "gender": 2,
+               "credit_id": "52fe4501c3a368484e043223",
+               "name": "Fred Asparagus",
+               "profile_path": null,
+               "id": 191545,
+               "order": 4
+            },
+            {
+               "cast_id": 15,
+               "character": "Harry the Head",
+               "gender": 2,
+               "credit_id": "52fe4501c3a368484e043227",
+               "name": "Louis Mustillo",
+               "profile_path": "/tjWXxSXCgRoh9KsStN3bkw6c1T5.jpg",
+               "id": 55962,
+               "order": 5
+            },
+            {
+               "cast_id": 16,
+               "character": "Refund Lady at the Met",
+               "gender": 0,
+               "credit_id": "52fe4501c3a368484e04322b",
+               "name": "Anita Elliott",
+               "profile_path": null,
+               "id": 552522,
+               "order": 6
+            },
+            {
+               "cast_id": 17,
+               "character": "San Diego Vinnie",
+               "gender": 0,
+               "credit_id": "52fe4501c3a368484e04322f",
+               "name": "Patrick Breen",
+               "profile_path": "/oGK78qN4cezMlG7VBvZ0QYh1Ui0.jpg",
+               "id": 15031,
+               "order": 7
+            },
+            {
+               "cast_id": 18,
+               "character": "Alice / 'Cyclops'",
+               "gender": 1,
+               "credit_id": "52fe4501c3a368484e043233",
+               "name": "Laura Harris",
+               "profile_path": "/9uuhXyH7tmFiJnyesXetTE8b13j.jpg",
+               "id": 25872,
+               "order": 8
+            },
+            {
+               "cast_id": 19,
+               "character": "Tony",
+               "gender": 2,
+               "credit_id": "52fe4501c3a368484e043237",
+               "name": "Don Novello",
+               "profile_path": "/i0Bdjpisz3HmNVqtsUaOakApbRJ.jpg",
+               "id": 161860,
+               "order": 9
+            },
+            {
+               "cast_id": 20,
+               "character": "Barry the Book",
+               "gender": 2,
+               "credit_id": "52fe4501c3a368484e04323b",
+               "name": "Ron Leibman",
+               "profile_path": "/z50U8MiKua6Vk4xK0FhWPDWnMgR.jpg",
+               "id": 5372,
+               "order": 10
+            },
+            {
+               "cast_id": 21,
+               "character": "TV Customer",
+               "gender": 0,
+               "credit_id": "52fe4501c3a368484e04323f",
+               "name": "Michael Willis",
+               "profile_path": null,
+               "id": 171351,
+               "order": 11
+            },
+            {
+               "cast_id": 22,
+               "character": "Newscaster",
+               "gender": 0,
+               "credit_id": "52fe4501c3a368484e043243",
+               "name": "Jack Cafferty",
+               "profile_path": null,
+               "id": 552523,
+               "order": 12
+            },
+            {
+               "cast_id": 23,
+               "character": "Catholic Schoolgirl Fanny",
+               "gender": 0,
+               "credit_id": "52fe4501c3a368484e043247",
+               "name": "Molly Wenk",
+               "profile_path": null,
+               "id": 552524,
+               "order": 13
+            },
+            {
+               "cast_id": 24,
+               "character": "Catholic Schoolgirl Lucy",
+               "gender": 0,
+               "credit_id": "52fe4501c3a368484e04324b",
+               "name": "Daniella Garcia-Lorido",
+               "profile_path": null,
+               "id": 552525,
+               "order": 14
+            },
+            {
+               "cast_id": 25,
+               "character": "Arty",
+               "gender": 2,
+               "credit_id": "52fe4501c3a368484e04324f",
+               "name": "Abe Vigoda",
+               "profile_path": "/luWKPNb58IgJ2ovrtgPAzHGLLYL.jpg",
+               "id": 3093,
+               "order": 15
+            },
+            {
+               "cast_id": 26,
+               "character": "Casino",
+               "gender": 2,
+               "credit_id": "52fe4501c3a368484e043253",
+               "name": "Andre B. Blake",
+               "profile_path": "/Adwls8NzbW5HPmacq1Nww7W5Kee.jpg",
+               "id": 552526,
+               "order": 16
+            },
+            {
+               "cast_id": 27,
+               "character": "Fat Max",
+               "gender": 2,
+               "credit_id": "52fe4501c3a368484e043257",
+               "name": "Michael P. Moran",
+               "profile_path": "/dqQgY3uyzf1ot16iQZwcAWQnnkg.jpg",
+               "id": 1170,
+               "order": 17
+            },
+            {
+               "cast_id": 28,
+               "character": "Gerrard, Culinary Director",
+               "gender": 2,
+               "credit_id": "52fe4501c3a368484e04325b",
+               "name": "Ronald Guttman",
+               "profile_path": "/mqUqJDVGojFkKQvaC96jFTBuEqD.jpg",
+               "id": 47085,
+               "order": 18
+            },
+            {
+               "cast_id": 29,
+               "character": "Mrs. Bennett, N.Y. Times Food Critic",
+               "gender": 1,
+               "credit_id": "52fe4501c3a368484e04325f",
+               "name": "Helen Carey",
+               "profile_path": "/6glnYNpIIFMhtFAbOG6EhOCRjNp.jpg",
+               "id": 17185,
+               "order": 19
+            },
+            {
+               "cast_id": 30,
+               "character": "Mrs. Dolmatch",
+               "gender": 1,
+               "credit_id": "52fe4501c3a368484e043263",
+               "name": "Bobo Lewis",
+               "profile_path": null,
+               "id": 157254,
+               "order": 20
+            },
+            {
+               "cast_id": 31,
+               "character": "Rhonda",
+               "gender": 0,
+               "credit_id": "52fe4501c3a368484e043267",
+               "name": "Paunita Nichols",
+               "profile_path": null,
+               "id": 184796,
+               "order": 21
+            },
+            {
+               "cast_id": 32,
+               "character": "Mrs. Haywood",
+               "gender": 1,
+               "credit_id": "52fe4501c3a368484e04326b",
+               "name": "Irene Worth",
+               "profile_path": "/bezsJWpUQrgN9X9V73vABKbf4fQ.jpg",
+               "id": 97337,
+               "order": 22
+            },
+            {
+               "cast_id": 33,
+               "character": "College Kid in Jail",
+               "gender": 0,
+               "credit_id": "52fe4501c3a368484e04326f",
+               "name": "Brian Schwary",
+               "profile_path": null,
+               "id": 159831,
+               "order": 23
+            },
+            {
+               "cast_id": 34,
+               "character": "Alex",
+               "gender": 2,
+               "credit_id": "52fe4501c3a368484e043273",
+               "name": "Chris Lemmon",
+               "profile_path": "/hUh5BrIJ1flA8i9h9httFuA6W4F.jpg",
+               "id": 64933,
+               "order": 24
+            },
+            {
+               "cast_id": 35,
+               "character": "Social Security Checker",
+               "gender": 1,
+               "credit_id": "52fe4501c3a368484e043277",
+               "name": "Davenia McFadden",
+               "profile_path": "/uX5egRwfOly93uuJeSahVIxfLFV.jpg",
+               "id": 75620,
+               "order": 25
+            },
+            {
+               "cast_id": 36,
+               "character": "Stanley",
+               "gender": 0,
+               "credit_id": "52fe4501c3a368484e04327b",
+               "name": "Lenny Venito",
+               "profile_path": "/3Ok9n02a13poLdb5cZaIJKTBHrC.jpg",
+               "id": 37157,
+               "order": 26
+            },
+            {
+               "cast_id": 37,
+               "character": "Good Call Johnny D.J.",
+               "gender": 2,
+               "credit_id": "52fe4501c3a368484e04327f",
+               "name": "Richard Wenk",
+               "profile_path": "/gRwUXjySs6KjdQxJSv8U8Ish0dJ.jpg",
+               "id": 22814,
+               "order": 27
+            },
+            {
+               "cast_id": 38,
+               "character": "Undercover Cop",
+               "gender": 2,
+               "credit_id": "52fe4501c3a368484e043283",
+               "name": "George Palermo",
+               "profile_path": null,
+               "id": 159857,
+               "order": 28
+            },
+            {
+               "cast_id": 39,
+               "character": "Kenny Paliski",
+               "gender": 2,
+               "credit_id": "52fe4501c3a368484e043287",
+               "name": "Anthony DeSando",
+               "profile_path": "/b7LiBIdaquQDfRJYAvy2TEurb2h.jpg",
+               "id": 176628,
+               "order": 29
+            },
+            {
+               "cast_id": 40,
+               "character": "Mrs. Paliski",
+               "gender": 1,
+               "credit_id": "52fe4501c3a368484e04328b",
+               "name": "Elizabeth Ashley",
+               "profile_path": "/zN6fHWl2NHiMHY741YIxbtRRFoj.jpg",
+               "id": 44845,
+               "order": 30
+            },
+            {
+               "cast_id": 41,
+               "character": "Uncle Donald",
+               "gender": 0,
+               "credit_id": "52fe4501c3a368484e04328f",
+               "name": "Robert W. Castle",
+               "profile_path": null,
+               "id": 552527,
+               "order": 31
+            },
+            {
+               "cast_id": 42,
+               "character": "Uncle Tony",
+               "gender": 2,
+               "credit_id": "52fe4501c3a368484e043293",
+               "name": "Sully Boyar",
+               "profile_path": "/joJktsmK4VLCw5ZnUMR64V9hZyG.jpg",
+               "id": 14545,
+               "order": 32
+            },
+            {
+               "cast_id": 43,
+               "character": "Realtor",
+               "gender": 1,
+               "credit_id": "52fe4501c3a368484e043297",
+               "name": "Donna Hanover",
+               "profile_path": "/t2X5LtwIT597fA3yUnneZ43224J.jpg",
+               "id": 18236,
+               "order": 33
+            },
+            {
+               "cast_id": 44,
+               "character": "Maury, Funeral Director",
+               "gender": 0,
+               "credit_id": "52fe4501c3a368484e04329b",
+               "name": "Luis Aponte",
+               "profile_path": null,
+               "id": 552528,
+               "order": 34
+            },
+            {
+               "cast_id": 45,
+               "character": "Father V. Crespo",
+               "gender": 2,
+               "credit_id": "52fe4501c3a368484e04329f",
+               "name": "Joe Drago",
+               "profile_path": null,
+               "id": 52859,
+               "order": 35
+            },
+            {
+               "cast_id": 47,
+               "character": "Yankee Stadium Security Chief",
+               "gender": 0,
+               "credit_id": "52fe4501c3a368484e0432a7",
+               "name": "Alfredo Álvarez Calderón",
+               "profile_path": null,
+               "id": 552529,
+               "order": 37
+            },
+            {
+               "cast_id": 48,
+               "character": "The Pope",
+               "gender": 2,
+               "credit_id": "52fe4501c3a368484e0432ab",
+               "name": "Eugene Greytak",
+               "profile_path": null,
+               "id": 157560,
+               "order": 38
+            },
+            {
+               "cast_id": 49,
+               "character": "Ray Charles",
+               "gender": 2,
+               "credit_id": "52fe4501c3a368484e0432af",
+               "name": "Bill Irwin",
+               "profile_path": "/zjvhlCC1LA5JUwfScQTwS1xLciP.jpg",
+               "id": 58549,
+               "order": 39
+            },
+            {
+               "cast_id": 50,
+               "character": "Vickie",
+               "gender": 1,
+               "credit_id": "52fe4501c3a368484e0432b3",
+               "name": "Joanna Adler",
+               "profile_path": "/jUvuwqZX57WbToKMuG8pdFjEjyc.jpg",
+               "id": 220038,
+               "order": 40
+            },
+            {
+               "cast_id": 51,
+               "character": "Taxi Cab Driver",
+               "gender": 2,
+               "credit_id": "52fe4501c3a368484e0432b7",
+               "name": "John Tormey",
+               "profile_path": "/qjhRcnX0oHZGtHAvlM5jxcx6vHB.jpg",
+               "id": 28002,
+               "order": 41
+            },
+            {
+               "cast_id": 52,
+               "character": "Confessional Priest",
+               "gender": 2,
+               "credit_id": "52fe4501c3a368484e0432bb",
+               "name": "Michael Higgins",
+               "profile_path": "/bTnvvD1PTzv3X1Okx0tdEqwhvQJ.jpg",
+               "id": 2979,
+               "order": 42
+            },
+            {
+               "cast_id": 53,
+               "character": "Baby in Womb",
+               "gender": 0,
+               "credit_id": "52fe4501c3a368484e0432bf",
+               "name": "Austin Lyall Sansone",
+               "profile_path": null,
+               "id": 552530,
+               "order": 43
+            },
+            {
+               "cast_id": 54,
+               "character": "himself",
+               "gender": 2,
+               "credit_id": "5488de1dc3a3686f47000344",
+               "name": "Joe Frazier",
+               "profile_path": "/wvtzE6JDZDuW50qMFJEnGHpW6AV.jpg",
+               "id": 107375,
+               "order": 44
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4501c3a368484e0431df",
+               "name": "Richard Wenk",
+               "profile_path": "/gRwUXjySs6KjdQxJSv8U8Ish0dJ.jpg",
+               "id": 22814,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4501c3a368484e0431e5",
+               "name": "Richard Wenk",
+               "profile_path": "/gRwUXjySs6KjdQxJSv8U8Ish0dJ.jpg",
+               "id": 22814,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4501c3a368484e0431eb",
+               "name": "Rick Marotta",
+               "profile_path": null,
+               "id": 159934,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4501c3a368484e0431f7",
+               "name": "Christopher Cibelli",
+               "profile_path": "/qYzxv6PjetQ4yFLTx9CeJIwjEwp.jpg",
+               "id": 51668,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4501c3a368484e0431fd",
+               "name": "Andie MacDowell",
+               "profile_path": "/znSR45ZcNNlb1sNP1gYmVACYI2a.jpg",
+               "id": 1533,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4501c3a368484e043203",
+               "name": "Andy García",
+               "profile_path": "/zE3KYH6f6cxCehJJYKDTQa8sCaK.jpg",
+               "id": 1271,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4501c3a368484e043209",
+               "name": "Yoram Pelman",
+               "profile_path": null,
+               "id": 552520,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4501c3a368484e04320f",
+               "name": "Marivi Lorido Garcia",
+               "profile_path": null,
+               "id": 552521,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "562582e792514135b0007023",
+               "name": "Ellen Kuras",
+               "profile_path": "/4q0al0rnELLMn9vt9sMyAEqfxeo.jpg",
+               "id": 313,
+               "department": "Camera",
+               "job": "Director of Photography"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Romance",
+            "id": 10749
+         }
+      ],
+      "popularity": 2.392439,
+      "production_countries": [
+         {
+            "iso_3166_1": "FR",
+            "name": "France"
+         },
+         {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+         }
+      ],
+      "id": 26425,
+      "vote_count": 9,
+      "budget": 12000000,
+      "overview": "Gary Starke is one of the best ticket scalpers in New York City. His girlfriend, Linda, doesn't approve of his criminal lifestyle, though, and dumps him when she gets the opportunity to study cooking in Paris. Gary realizes that he has to give up scalping if he has any chance of winning her back. But before he does, he wants to cash out on one last big score. He gets his chance when the pope announces he'll be performing Easter Mass at Yankee Stadium.",
+      "similar": [
+         10204,
+         8065,
+         979,
+         707,
+         1538,
+         75780,
+         242,
+         283227,
+         23742,
+         192145,
+         8195,
+         3134,
+         3989,
+         339,
+         6935,
+         276,
+         9280,
+         451945,
+         760,
+         11423
+      ],
+      "original_title": "Just the Ticket",
+      "runtime": 115,
+      "poster_path": "/bjIhtZCJL7prIQeUSNxYpS3Tn8L.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "CineSon Entertainment",
+            "id": 16647,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Canal+",
+            "id": 5358,
+            "origin_country": "FR"
+         }
+      ],
+      "release_date": "1999-02-26",
+      "vote_average": 5.9,
+      "belongs_to_collection": null,
+      "tagline": "Irresponsible, Unreliable, Unpredictable and totally Irresistible.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "France",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Richard Wenk"],
+      "runtime": 115,
+      "synopsis": null,
+      "writers": ["Richard Wenk"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0123221/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTg4MjY0MDAzOV5BMl5BanBnXkFtZTYwNjQwMjU5._V1_SY317_CR2,0,214,317_AL_.jpg",
+      "actors": ["Stars: Andy Garcia, Andie MacDowell, Richard Bradford | See full cast and crew »"],
+      "reviews": [
+         "`Just The Ticket' This current trend of movies being announced for home video before, or during, a theatrical run is very heartbreaking. Good movies are lost in the stampede for the rental market, and I feel it cheapens the minor magic of seeing a film in the theater. `Another Day In Paradise', \"Go\", and `At First Sight' are recent examples of this. `Just The Ticket' is the latest. Appearing in the Phoenix area 6 weeks after its debut, it's also about 6 weeks before you can go to Blockbuster and rent it. Sad. What that means to me, and seemingly only me due to the reviews I have read, is that a very amiable and charming romantic-comedy-drama is going to fall below the radar with most people. Andy Garcia is an actor with an amazing dramatic charge that easily makes him one of the best actors we have. It's his choice of films that taint that assessment considerably. I like him a lot, and `Ticket' gives Garcia that perfect opportunity to show off his range. His performance here as a ticket scalper ranks with his best work. He can take hold of the moment with the best of them, and he has an unbelievably funny scene involving the laserdisc of \"Stargate\". With Andie MacDowell, who I have always believed had the range of a half-empty box of Honey Nut Cherrios, Garcia creates believable chemistry. Their scenes of foreplay are truly enjoyable. The background story of `Ticket' is that they shot the New York street scenes without a permit, often having the citizens around them not aware that a movie was being made. This aspect of the movie is its strongest asset. The dirty, low budget mentality makes the flick more enjoyable. The grainy film stock, passerby's looking into the camera, and Garcia actually seeming like he's having fun is such a breath of fresh air. It's like a student film with A list actors. Truth be told, the film falters when it reaches for more dramatically satisfying material. A drug addicted pregnant girl, a life-challenged mentor, and a rival scalper make for some weak moments. They threaten to crush the film. Somehow Garcia, with director Richard Wenk, make everything come together with a decent ending that doesn't feel forced. This isn't landmark material, but it is the rare film that isn't too forceful, and has complete faith in the power of its actors.------------- 8",
+         "Andy Garcia is one of my favorite actors and I sincerely believe that in \"Just the Ticket\" he is at his best. This movie is so spontaneous that everything seems real. I enjoyed \"Just the Ticket\" so much that wish to recommend it to you. Go and see it today.",
+         "Gary (Andy Garcia) makes his living in NYC scalping tickets. A charming crook, he has attracted the attention of would-be chef Linda (Andie MacDowell). They have had a go at a relationship but Linda has become unhappy about his profession and his careless ways. Seeing no future in the involvement, Linda has tried to end it. Yet, Gary keeps coming around, weakening her resolve. As these things go, other scalpers seem to be encroaching on Gary's territory. Will he give up the criminal life to win the affections of his girlfriend? This movie works because of the appeal of Garcia and MacDowell. They have a sparkling chemistry which is infectious. There are some funny scenes involving Garcia at Catholic confession as well as some dramatic ones concerning the up and down lives of the other scalpers. The ending is a demonstration of the adage \"all's well that ends well\". Although it is not the best romantic comedy out there, fans of the genre should give this movie a whirl. It might be just the ticket for an enjoyable evening of entertainment.",
+         "I was surprised at this film's low ratings and poor critical reviews. This is a really, really good film! A unique piece of filmmaking like nothing I've seen in a while! First of all, it has a great sense of realism. Writer/director Richard Wenk does a brilliant job at capturing the hustle and bustle of New York City streets. And unlike in many films, where directors decide to cut corners and shoot part of the movie in Canada, \"Just the Ticket\" possesses an authenticity of the Big Apple that only NY-based directors like Martin Scorcese and Sidney Lumet have captured better. There are no gimmicky attempts at style (in the words of Mr. Lumet: what's style?); we're not bombarded by pretentious shots of the Statue of Liberty or anything like that. A film like this perfectly captures the essence of New York, without patronizing the city. Andy Garcia possibly gives the best performance of his career! I've always admired him as an actor, and I respect almost all Hispanic actors who make it big in show-biz (most of them happen to be great actors, too). Garcia displays an unrelenting energy in his performance as ticket scalper Gary Stark. After watching this film, I'm surprised if he doesn't get approached to star in a Broadway play. He has enough energy to light up the stage! Yet he's charming all the way; never obnoxious. We fall in love with his character. We fall in love with the supporting characters as well. Andie McDowell (though I don't think she has an attractive presence; hey, beauty's in the eye of the beholder!) is charming as his love interest. The two Andys have a perfect chemistry together--a real chemistry. The kind of chemistry that real lovers would possess; and not \"Hollywood lovers.\" You can't help but smile every minute they share the screen. Though they quarrel at times, you just keep thinking \"They were meant for each other.\" And best of all (especially considering it's an R-rated film) their relationship is not based on sex. There's not one sex scene in this movie. If it weren't for some naughty street language, you can take the whole family to see this movie. Richard Bradford is amazingly likeable as Gary's friend for life/father figure. You feel more and more sympathy for him (which is ironic for a guy who scalps tickets and tells lies for a living) and their father-son relationship as the film goes along. I was touched by the subplot between Gary and his heroin-abusing pregnant friend Cyclops (Laura Harris). Their interactions, including his attempts to stop her from abusing drugs, are very moving. I was also glad to see a male-female friendship that doesn't end in love or sex. You don't see that too much in the movies. Rob Liebman (who co-starred with Garcia in \"Night Falls on Manhattan\") makes a few short appearances. He's a terrific, underrated actor and it was great to see the two of them share the screen again. Some may find this film uneven. I can predict there's going to be a lot of complaints about the way \"it can't decide whether it wants to be a comedy or drama.\" I liked the balance between the comedic and dramatic elements, with romance rubbed into the equation. This is not one of those over-the-top, slapstick, screwball comedies that many are probably used to. It has a good sense of maturity. And most of the humor is used for comic relief. There's a good deal of drama in the story, so don't expect to be laughing all the way. So if you want to blame someone--blame the ones who marketed this film. But I was so engaged in the story and characters that I didn't feel a need for laughs. This is an interesting, moving piece of storytelling that never goes over the top and keeps its feet on the ground. Never once was I uttering, \"this only happens in the movies.\" Wenk didn't take any cheap shots, and I admire him for that. So why--oh why was this film so poorly rewarded? Not to mention this the first film to provide insight into the world of ticket scalping. And I don't think they could've done it any better. I saw Garcia on Conan O'Brien's show when he was promoting the movie, and he said that he did actual field research and posed as a ticket scalper to help get into the shoes of his character. I'll also mention that a famous celebrity (a living legend to some) makes a brief appearance. I was amazed when he appeared on screen. It wasn't one of those predictable cameos, where you had a feeling that person was going to show up anyway. Face it, brace yourselves. And don't read the complete IMDB cast list before watching the movie; it'll ruin the experience. :) \"Just the Ticket\" is a charming, engaging, unique, touching film that'll fill your heart with good cheer. It's definitely one of those overlooked flops that'll amaze you. Plus, the soundtrack's great! Andy Garcia helped compose most of the music for the score. I developed the biggest smile on my face when they played \"Signed, Sealed, Delivered\" at the final scene. This is a film that captures your heart from all angles. My score: 8 (out of 10)",
+         "In England they are known as Ticket Touts, but whether you know them as Touts or Scalpers the character is the same. Unpleasant. So an unlikely candidate as a leading character in a romantic comedy? Maybe so, but this is one of the things that sets this film apart from the average romantic comedy. Another is the performances. Not Oscar winning stuff maybe, but they all seem to be getting the most out of their roles. While the focus is on the relationship between Garcia and McDowell, the relationship between Garcia and his pal/father figure Benny underpins the film and ultimately is the catalyst which is the reason for the ending. Benny is ably played by Richard Bradford, at last being given a chance to stretch his wings outside of the corrupt coppers he is usually asked to play, and you would have to be a hard hearted person not to be touched by his portrayal. It is such a shame that so much of \"Benny\" ultimately ended up on the cutting room floor and so we are only given a glimpse of why Garcia takes him under his wing. If you want your intellect stretched, look elsewhere. But if you want to curl up on the sofa armed with a box of Kleenex and a box of chocolates, you could do a lot worse than let this film into your living room.",
+         "I saw this movie on cable a a couple of days ago and loved it.I guess the only reason why I never bothered to watch this was that an early movie review on BBC was not very positive.I also did not like the poster so everytime I saw a pic of this movie I got fed up! Well enough is enough.This is a very nice movie with all the right cliches.It gets your attension and fills you up just when you thought it was all over. Garcia plays a ticket scalper who tries to find the ONE job that he can do to retire and be with the girl he loves plyed by Mcdowell.But fate has other plans for him as he realises as there is no such thing as last job and people don't wait all day for you to finish. It is more or less about life and what sohuld matter to you. I highly recomend you to watch this movie.",
+         "If you are looking for a movie that's perfect, and you want to nitpick about the chemistry between the characters or the subtle nuances of one particular character, don't watch this one. But if you're the kind that, instead of using a microscope to analyze something, would prefer to appreciate something by standing back at a distance and taking it all in, and especially if you like romantic comedies, this is absolutely, definitely the movie for you. I can't believe any company would decide not to put this movie in the theaters. It was a very good movie; not a \"Bull Durham\" in quality of storyline, directing, etc., but it made me feel a helluva lot better than \"Bull Durham\" did in the end. There are more than a few moments where you will probably cry if you are emotional (as evidenced by my wife's reaction), and though the laughs aren't big, the lighter moments certainly work. I've never liked Andie MacDowell, and I believe she is the weak link of the entire movie. I could have seen someone like a Shelley Long or somebody else prettier than MacDowell and certainly someone with more range who would have connected better with Garcia. But it's probably that fact that makes you really want Andy Garcia to win throughout the movie. He can actually be likeable in his character's helpless role, though it's more like the Al Pacino impression that he always does. Look for Don Novello, a/k/a \"Father Guido Sarducci\" as one of Gary's friends. Kudos to Richard Bradford, who really made the movie special with his portrayal of Benny, the punch-drunk former boxer & ticket hustler; he brought the \"heart\" to the movie. It really moves well from the 30 minute point on, so give it a few minutes if you're not getting into it, but I predict, if you have a heart at all, you will appreciate this movie from start to finish, and it builds and progresses like a good movie should to a great and cute ending. It was so good I bought the DVD!",
+         "This film must have been the best-kept secret in movies, because I never heard of it before. It's a charming and well-acted little comedy romance, I don't know why it was brushed under the carpet. Andy Garcia is extremely funny and energetic in the lead role of Gary, he and Andie MacDowell have a good romantic chemistry, and some of the supporting characters are great. It's not a brilliant film, but it's certainly well worth watching, and I think Andy Garcia should be very proud of this amusing and very good film.",
+         "A charming guy, Gary, played by Andy Garcia is an irresponsible but an irresistable goodhearted soul; all of his friends are Runyoneque. Trouble is Gary is a 'scalper'. His 'Guardain Angel', Benny, played by Richard Bradford, buys his tickets and sells them off at highly increased prices. Gary falls for Linda, played by Andie MacDowell, but he is awkward and afraid to say he loves her. She puts him off and then he tries to win her back by selling tickets to the Pope's visit to town, but ends up in jail because he lost the cash - funny film, but cute and exciting, and there are a few forgotten famous actors including Abe Vigoda and Ron Leibman. I recommend it highly! 7/10",
+         "I was in a huge hurry and basically just grabbed this off the shelf for lack of seeing anything else that sparked my interest. I saw the trailer for this movie at the theater and thought that it looked incredibly stupid. I don't particularly like Andy Garcia or Andi McDowell, but I just watched on a whim and the next thing that I knew I was laughing (and crying). I was really surprised by how well I liked this film! The plot was a tad silly, but the characters were so colorful and likeable (even the junky pregnant girl) that I got past the immaturity of the story line. It showed a small bit of the dark underbelly of NY ticket scalping, but the good intentions of everyone counteracted the negativity and the result was very optimistic. Andy Garcia was so good as the romantic lead, I particularly loved the scenes preparing for the big catering and the the kitchen destruction...too funny! Bottom line, I think these two made a great on screen couple and I would recommend this to anyone who like me, enjoys these kinds of films, or to anyone who might need a little cheering up."
+      ],
+      "genres": [
+         "Comedy",
+         "Romance"
+      ],
+      "productionCompanies": [
+         "Canal+",
+         "CineSon Entertainment"
+      ],
+      "summaries": [
+         "Gary is a charming guy, but Linda is tired of his grand plans and schemes. All of which have gone down the drain. Gary is a 'scalper'. Together with his friends and his 'Guardian Angel', Benny, he buys tickets to events and sells them off at highly increased prices. This doesn't really make him rich and proves to be more difficult than usual when a new guy gets into town, strong-arming all of Gary's sources. But then the gift of heaven arrives. The Pope is coming for a visit. Gary wants to make a lot of money on this so he can finally get one of his (more decent) plans for Linda off the ground and really work on a lasting relationship with her.",
+         "A ticket scalper wants to make one last big deal on the pope's visit to finally do something worthwhile about his relationship."
+      ],
+      "budget": 12000000
+   },
+   "movielensId": 2510,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1999-02-26",
+      "dvdReleaseDate": "1999-06-15",
+      "directors": ["Richard Wenk"],
+      "runtime": 115,
+      "movieId": 2510,
+      "title": "Just the Ticket",
+      "mpaa": "R",
+      "actors": [
+         "Andy García",
+         "Andie MacDowell",
+         "Richard Bradford",
+         "Alice Drummond",
+         "Fred Asparagus",
+         "Louis Mustillo",
+         "Anita Elliott",
+         "Patrick Breen",
+         "Laura Harris",
+         "Don Novello",
+         "Ron Leibman",
+         "Michael Willis",
+         "Jack Cafferty",
+         "Molly Wenk",
+         "Daniella Garcia-Lorido",
+         "Abe Vigoda",
+         "Andre B. Blake",
+         "Michael P. Moran",
+         "Ronald Guttman",
+         "Helen Carey",
+         "Bobo Lewis",
+         "Paunita Nichols",
+         "Irene Worth",
+         "Brian Schwary",
+         "Chris Lemmon",
+         "Davenia McFadden",
+         "Lenny Venito",
+         "Richard Wenk",
+         "George Palermo",
+         "Anthony DeSando",
+         "Elizabeth Ashley",
+         "Robert W. Castle",
+         "Sully Boyar",
+         "Donna Hanover",
+         "Luis Aponte",
+         "Joe Drago",
+         "Alfredo Álvarez Calderón",
+         "Eugene Greytak",
+         "Bill Irwin",
+         "Joanna Adler",
+         "John Tormey",
+         "Michael Higgins",
+         "Austin Lyall Sansone",
+         "Joe Frazier"
+      ],
+      "imdbMovieId": "0134948",
+      "originalTitle": "Just the Ticket",
+      "genres": [
+         "Comedy",
+         "Romance"
+      ],
+      "youtubeTrailerIds": ["9d7S5mUIBMk"],
+      "plotSummary": "Gary Starke is one of the best ticket scalpers in New York City. His girlfriend, Linda, doesn't approve of his criminal lifestyle, though, and dumps him when she gets the opportunity to study cooking in Paris. Gary realizes that he has to give up scalping if he has any chance of winning her back. But before he does, he wants to cash out on one last big score. He gets his chance when the pope announces he'll be performing Easter Mass at Yankee Stadium.",
+      "tmdbMovieId": 26425,
+      "avgRating": 2.5,
+      "releaseYear": "1999",
+      "numRatings": 79,
+      "posterPath": "/bjIhtZCJL7prIQeUSNxYpS3Tn8L.jpg"
+   }
+}

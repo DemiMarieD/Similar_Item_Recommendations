@@ -1,0 +1,597 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "new york",
+            "id": 242
+         },
+         {
+            "name": "alcohol",
+            "id": 567
+         },
+         {
+            "name": "prohibition",
+            "id": 947
+         },
+         {
+            "name": "biography",
+            "id": 5565
+         },
+         {
+            "name": "romance",
+            "id": 9840
+         },
+         {
+            "name": "independent film",
+            "id": 10183
+         },
+         {
+            "name": "theater",
+            "id": 163110
+         },
+         {
+            "name": "flashback",
+            "id": 187844
+         },
+         {
+            "name": "1920s",
+            "id": 207876
+         }
+      ],
+      "imdb_id": "tt0110588",
+      "video": false,
+      "title": "Mrs. Parker and the Vicious Circle",
+      "recommendations": [
+         38244,
+         16771,
+         118895,
+         51303,
+         52772,
+         48259,
+         27609,
+         97406,
+         52276,
+         51759,
+         1785,
+         40913,
+         39197,
+         92927,
+         86955,
+         93263,
+         45609,
+         61280,
+         71881,
+         57565
+      ],
+      "backdrop_path": "/xxJwvGaeYtNkxJ6lNwFWWyRFaWJ.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 4,
+               "character": "Dorothy Parker",
+               "gender": 1,
+               "credit_id": "52fe4466c3a368484e020d0f",
+               "name": "Jennifer Jason Leigh",
+               "profile_path": "/3OlL9li7qmfXQYEtmpOm34V1huY.jpg",
+               "id": 10431,
+               "order": 0
+            },
+            {
+               "cast_id": 5,
+               "character": "Robert Benchley",
+               "gender": 2,
+               "credit_id": "52fe4466c3a368484e020d13",
+               "name": "Campbell Scott",
+               "profile_path": "/LpYIN2jh58sHaUFM2r3G4G0iE6.jpg",
+               "id": 55152,
+               "order": 1
+            },
+            {
+               "cast_id": 6,
+               "character": "Charles MacArthur",
+               "gender": 2,
+               "credit_id": "52fe4466c3a368484e020d17",
+               "name": "Matthew Broderick",
+               "profile_path": "/j9ETatVKFxYR5Ijk8l5tzKO4HPn.jpg",
+               "id": 4756,
+               "order": 2
+            },
+            {
+               "cast_id": 7,
+               "character": "Paula Hunt",
+               "gender": 1,
+               "credit_id": "52fe4466c3a368484e020d1b",
+               "name": "Gwyneth Paltrow",
+               "profile_path": "/8x3jpWD7DEvyMXO1FOjwNdd1UZT.jpg",
+               "id": 12052,
+               "order": 3
+            },
+            {
+               "cast_id": 8,
+               "character": "Gertrude Benchley",
+               "gender": 1,
+               "credit_id": "52fe4466c3a368484e020d1f",
+               "name": "Jennifer Beals",
+               "profile_path": "/x3HHLQ7UVZDuSU5e2wZMQWEjrwl.jpg",
+               "id": 3130,
+               "order": 4
+            },
+            {
+               "cast_id": 9,
+               "character": "Alan Campbell",
+               "gender": 2,
+               "credit_id": "52fe4466c3a368484e020d23",
+               "name": "Peter Gallagher",
+               "profile_path": "/76p7x64BpkgNJCLb5d7xklQ1Fzd.jpg",
+               "id": 8212,
+               "order": 5
+            },
+            {
+               "cast_id": 10,
+               "character": "Eddie Parker",
+               "gender": 2,
+               "credit_id": "52fe4466c3a368484e020d27",
+               "name": "Andrew McCarthy",
+               "profile_path": "/bn6djJHhLF6dTIz5H3UvuCFoeLm.jpg",
+               "id": 37041,
+               "order": 6
+            },
+            {
+               "cast_id": 11,
+               "character": "Horatio Byrd",
+               "gender": 2,
+               "credit_id": "52fe4466c3a368484e020d2b",
+               "name": "Wallace Shawn",
+               "profile_path": "/oGE6JqPP2xH4tNORKNqxbNPYi7u.jpg",
+               "id": 12900,
+               "order": 7
+            },
+            {
+               "cast_id": 12,
+               "character": "Jane Grant",
+               "gender": 1,
+               "credit_id": "52fe4466c3a368484e020d2f",
+               "name": "Martha Plimpton",
+               "profile_path": "/7lU1kci6OZMwZk5Kxfnz0u8B5l5.jpg",
+               "id": 17495,
+               "order": 8
+            },
+            {
+               "cast_id": 13,
+               "character": "Harold Ross",
+               "gender": 2,
+               "credit_id": "52fe4466c3a368484e020d33",
+               "name": "Sam Robards",
+               "profile_path": "/xBfl2c80eQtbjKTH6dOwFBnFlE7.jpg",
+               "id": 8213,
+               "order": 9
+            },
+            {
+               "cast_id": 14,
+               "character": "Edna Ferber",
+               "gender": 1,
+               "credit_id": "52fe4466c3a368484e020d37",
+               "name": "Lili Taylor",
+               "profile_path": "/pIJ4Enx6kIC9srLkDfGpEzfNlDZ.jpg",
+               "id": 3127,
+               "order": 10
+            },
+            {
+               "cast_id": 38,
+               "character": "Deems Taylor",
+               "gender": 2,
+               "credit_id": "52fe4466c3a368484e020d99",
+               "name": "James Le Gros",
+               "profile_path": "/rqBjmSkcRGwtwpb2tTjGcqLtKyG.jpg",
+               "id": 6474,
+               "order": 11
+            },
+            {
+               "cast_id": 16,
+               "character": "Robert Sherwood",
+               "gender": 2,
+               "credit_id": "52fe4466c3a368484e020d3b",
+               "name": "Nick Cassavetes",
+               "profile_path": "/daXFYs1PxFtrAZJv5iLMpqnIGet.jpg",
+               "id": 11151,
+               "order": 12
+            },
+            {
+               "cast_id": 17,
+               "character": "George S. Kaufman",
+               "gender": 2,
+               "credit_id": "52fe4466c3a368484e020d3f",
+               "name": "David Thornton",
+               "profile_path": "/jDcmAwRCUYd3QSVEVc9Xq2Yi9Xf.jpg",
+               "id": 76526,
+               "order": 13
+            },
+            {
+               "cast_id": 18,
+               "character": "Mary Kennedy Taylor",
+               "gender": 1,
+               "credit_id": "52fe4466c3a368484e020d43",
+               "name": "Heather Graham",
+               "profile_path": "/rHIEhPAnZQn8BTbB1EVQ5ggEOX7.jpg",
+               "id": 69122,
+               "order": 14
+            },
+            {
+               "cast_id": 40,
+               "character": "Alexander Woollcott",
+               "gender": 2,
+               "credit_id": "594b55b9925141310800b569",
+               "name": "Tom McGowan",
+               "profile_path": "/oTdaSf7FmERQOthVelyKjiIxQoz.jpg",
+               "id": 77338,
+               "order": 16
+            },
+            {
+               "cast_id": 20,
+               "character": "Franklin P. Adams",
+               "gender": 2,
+               "credit_id": "52fe4466c3a368484e020d4b",
+               "name": "Chip Zien",
+               "profile_path": "/6bExDPk8oOYWOXzx5a9IM9CwCOY.jpg",
+               "id": 90039,
+               "order": 17
+            },
+            {
+               "cast_id": 21,
+               "character": "Heywood Broun",
+               "gender": 2,
+               "credit_id": "52fe4466c3a368484e020d4f",
+               "name": "Gary Basaraba",
+               "profile_path": "/7CMnYNxHjB9yRDc9MqYL0Q5aJQd.jpg",
+               "id": 96228,
+               "order": 18
+            },
+            {
+               "cast_id": 22,
+               "character": "Ruth Hale",
+               "gender": 1,
+               "credit_id": "52fe4466c3a368484e020d53",
+               "name": "Jane Adams",
+               "profile_path": "/HbQfL01xmV1psnh0WvldIBzDg3.jpg",
+               "id": 209,
+               "order": 19
+            },
+            {
+               "cast_id": 23,
+               "character": "Roger Spalding",
+               "gender": 2,
+               "credit_id": "52fe4466c3a368484e020d57",
+               "name": "Stephen Baldwin",
+               "profile_path": "/w2nZjBsEsjboQDZJXEkysuGgue4.jpg",
+               "id": 9045,
+               "order": 20
+            },
+            {
+               "cast_id": 24,
+               "character": "Marc Connelly",
+               "gender": 2,
+               "credit_id": "52fe4466c3a368484e020d5b",
+               "name": "Matt Malloy",
+               "profile_path": "/ian5yLWKo8Ttz8kEZIv9GLNCz2c.jpg",
+               "id": 19208,
+               "order": 21
+            },
+            {
+               "cast_id": 25,
+               "character": "Neysa McMein",
+               "gender": 1,
+               "credit_id": "52fe4466c3a368484e020d5f",
+               "name": "Rebecca Miller",
+               "profile_path": "/gegphPh4ITZPYIuVrhigTLRD3C2.jpg",
+               "id": 41670,
+               "order": 22
+            },
+            {
+               "cast_id": 26,
+               "character": "Mary Brandon Sherwood",
+               "gender": 1,
+               "credit_id": "52fe4466c3a368484e020d63",
+               "name": "Amelia Campbell",
+               "profile_path": "/m4oC4ZCaEz8mOKN1oydyXPlY3Kp.jpg",
+               "id": 80989,
+               "order": 23
+            },
+            {
+               "cast_id": 27,
+               "character": "Fred Hunter",
+               "gender": 2,
+               "credit_id": "52fe4466c3a368484e020d67",
+               "name": "Stanley Tucci",
+               "profile_path": "/omGlTJF2IW5r3L3c5y0qkCt3hFr.jpg",
+               "id": 2283,
+               "order": 24
+            },
+            {
+               "cast_id": 28,
+               "character": "Joanie Gerard",
+               "gender": 1,
+               "credit_id": "52fe4466c3a368484e020d6b",
+               "name": "Mina Badie",
+               "profile_path": "/9ZdE5Z3pvLKscBS2vbYqSoWiqDA.jpg",
+               "id": 150204,
+               "order": 25
+            },
+            {
+               "cast_id": 29,
+               "character": "Alvan Barach",
+               "gender": 2,
+               "credit_id": "52fe4466c3a368484e020d6f",
+               "name": "Randy Lowell",
+               "profile_path": null,
+               "id": 155626,
+               "order": 26
+            },
+            {
+               "cast_id": 30,
+               "character": "Will Rogers",
+               "gender": 2,
+               "credit_id": "52fe4466c3a368484e020d73",
+               "name": "Keith Carradine",
+               "profile_path": "/b2GbGSrgb6twTdjfvUK4y0WrIjx.jpg",
+               "id": 30613,
+               "order": 27
+            },
+            {
+               "cast_id": 31,
+               "character": "Elmer Rice",
+               "gender": 2,
+               "credit_id": "52fe4466c3a368484e020d77",
+               "name": "Jon Favreau",
+               "profile_path": "/sJSGJwGa3hjMlJNUCxF7wQwo7fb.jpg",
+               "id": 15277,
+               "order": 28
+            },
+            {
+               "cast_id": 32,
+               "character": "Cab Driver (1922)",
+               "gender": 2,
+               "credit_id": "52fe4466c3a368484e020d7b",
+               "name": "Sam Stone",
+               "profile_path": "/tgjobQWXlBI6xzf1VB1HYf5DSQP.jpg",
+               "id": 52333,
+               "order": 29
+            },
+            {
+               "cast_id": 33,
+               "character": "F. Scott Fitzgerald",
+               "gender": 2,
+               "credit_id": "52fe4466c3a368484e020d7f",
+               "name": "Malcolm Gets",
+               "profile_path": "/zEvGEZ7JkFh2yHNACcsEThw4gSt.jpg",
+               "id": 82771,
+               "order": 30
+            },
+            {
+               "cast_id": 34,
+               "character": "Picnic Guest (uncredited)",
+               "gender": 1,
+               "credit_id": "52fe4466c3a368484e020d83",
+               "name": "Cyndi Lauper",
+               "profile_path": "/4fMFl40wCdIEjlajmdpqqPJkhMQ.jpg",
+               "id": 87255,
+               "order": 31
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4466c3a368484e020cff",
+               "name": "Alan Rudolph",
+               "profile_path": "/At4tWcBv2zElH82zrFFLkEdm4KA.jpg",
+               "id": 72427,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4466c3a368484e020d05",
+               "name": "Alan Rudolph",
+               "profile_path": "/At4tWcBv2zElH82zrFFLkEdm4KA.jpg",
+               "id": 72427,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4466c3a368484e020d0b",
+               "name": "Randy Sue Coburn",
+               "profile_path": null,
+               "id": 227953,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4466c3a368484e020d89",
+               "name": "Mark Isham",
+               "profile_path": "/juP82LbS9chU3VXgelb7CICBN2Q.jpg",
+               "id": 4140,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4466c3a368484e020d95",
+               "name": "François Séguin",
+               "profile_path": null,
+               "id": 38523,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5940176bc3a36851c4004f91",
+               "name": "Jan Kiesser",
+               "profile_path": null,
+               "id": 43529,
+               "department": "Camera",
+               "job": "Director of Photography"
+            }
+         ]
+      },
+      "genres": [{
+         "name": "Drama",
+         "id": 18
+      }],
+      "popularity": 3.737552,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 23333,
+      "vote_count": 24,
+      "budget": 0,
+      "overview": "Dorothy Parker remembers the heyday of the Algonquin Round Table, a circle of friends whose barbed wit, like hers, was fueled by alcohol and flirted with despair.",
+      "similar": [
+         8834,
+         769,
+         101,
+         314095,
+         363676,
+         3580,
+         1939,
+         49022,
+         12150,
+         226,
+         1586,
+         298312,
+         193893,
+         2142,
+         527,
+         13573,
+         10559,
+         696,
+         2771,
+         3134
+      ],
+      "original_title": "Mrs. Parker and the Vicious Circle",
+      "runtime": 125,
+      "poster_path": "/bLmyaiin2zavjmTsIOaUMT4KC2X.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": "/78ilmDNTpdCfsakrsLqmAUkFTrO.png",
+            "name": "Fine Line Features",
+            "id": 8,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/sNhxHhbyJ0xo52nr9xI2cJKkWFO.png",
+            "name": "Miramax Films",
+            "id": 14,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1994-09-07",
+      "vote_average": 6.5,
+      "belongs_to_collection": null,
+      "tagline": "New York in the 1920's. The only place to be was the Algonquin, and the only person to know was Dorothy Parker.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Black and White",
+      "budgetCurrency": "$",
+      "directors": ["Alan Rudolph"],
+      "runtime": 125,
+      "synopsis": null,
+      "writers": [
+         "Alan Rudolph",
+         "Randy Sue Coburn"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0110588/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTA1NzUxMzQ1MDheQTJeQWpwZ15BbWU3MDY3NzA0MzE@._V1_SY317_CR5,0,214,317_AL_.jpg",
+      "actors": ["Stars: Jennifer Jason Leigh, Campbell Scott, Matthew Broderick | See full cast and crew »"],
+      "reviews": [
+         "While watching this film last night on IFC, I found myself appreciating the social, historical and artistic subject matter. Despite Mrs. Parker's obvious and overwhelming psychological dysfunctions, I felt this was a genuine \"true to life\" expression of one participant's subjective experiences. This was a unique, if not quite legendary, circle of literary talent -- certainly deserving of serious cinematic treatment such as this. BUT.... There was another side to the story -- a healthier, less appalling, less depressing side. To discover \"the rest of the story\", I highly recommend Harpo Marx' autobiography \"Harpo Speaks\". Although Harpo also recalls the scathing insults and practical jokes that were a central part of the story of this Round Table group, his book relates a number of hugely funny and sometimes heart-warming scenes that indicate that at least some of these people truly cared for each other and expressed strong positive feelings in many different settings. In short, Harpo's stories (e.g. several \"croquet fanatic\" episodes) offer a telling comedic counterpoint to Mrs. Parker's almost continually cynical and self-pitying pathos. Read Harpo's book to balance out the negative. You'll be glad you did.",
+         "This film represents the best of both worlds in two sets of sometimes opposing criteria. First, in terms of movies overall, I'd say this is one of my favorites technically/artistically. The sets were great, the acting was great (especially Leigh and Scott, one of my favorite on-screen Romance-That-Never-Was duos, like Fiennes and Blanchett in \"Oscar And Lucinda.\"). But this is also one of my favorites in terms of enjoyment. I watch it for the scenes I love, and the mood it sets. I will probably not tire of watching and rewatching this film for a long time to come. Second, in terms of Biopics, this also rates highly. It had enough accuracy/realism to make it a good bio, and enough drama and flare to make it a good pic. A rare combination. I'd say \"13 Days\" also did that feat well.",
+         "I found this movie totally enjoyable from start to finish. Maybe because Jennifer Jason Leigh is one of the most superb actresses of our time (and of course ignored!!!). Or maybe because I love period pieces with lavish attention to detail in the costumes and production designing. Or maybe because I am always entertained by true stories of humanity. I think in this movie's case, it is all three. This is another portrait of the dark side of fame. Leigh did a wonderful job being Mrs. Dorothy Parker, a 1920s poet and magazine writer who drank (during prohibition New York) and caroused with a large, mouthy group of professionals in the writing and stage business. It's easy for anyone to relate to the lonliness Mrs. Parker feels in this boisterous \"circle\" of shallow, back-stabbing people. In spite of her gift for smooth, haunting, beautiful poetry (much of it recited in this movie), Mrs. Parker is not happy or fulfilled. Rather she is misunderstood, isolated and self-depreciating. She ends up losing a job over salary disputes, losing her husband to alcohol, and falling deeply and hopelessly in love with the married Charles McArthur (Matthew Broderick), who impregnates and betrays her. Mrs. Parker's only comfort in life is the friendship she has with Bob Benchley (an excellent Campbell Scott). Leigh, speaking with a facinating accent, brings sadness and cynicism to Mrs Parker with perfection.",
+         "Since watching this film I have picked up a biography of Dorothy Parker as well as a book of her verse, that is how fascinating I find her to be. Not only her, but the performance of Jennifer Jason Leigh as well, though many have criticized her voice, I didn't find it out of place at all. The film involves us in her life in the 20's, when she was a theater critic for Vanity Fair. Throughout the film are celebrities of the time, Robert Benchley, Alexander Woolcott, Howard Ross, Charles McArthur. The cast is first-rate, particularly Campbell Scott. It is a very quotable movie, full of venomous one-liners, most courtesy of Mrs. Parker. One can certainly admire her spirit to persevere and excel in a world dominated by men. It is helpful to know the members of the Round Table, but isn't necessary in order to enjoy the movie.",
+         "This movie gave a very revealing account of Dorothy Parker and her rapport with the denizens of the Algonquin Round Table. Done in flashback, this movie is easy on the psyche and filled with ascerbic darts that are bounced among the members of the Round Table. One could feel the pain felt by Mrs. Parker as she fights to survive as a writer, and a person, searches for a meaning to life, and wonders why true love is as elusive as masterpiece poetry and short stories roll from her pen.",
+         "From what I have read of and about Dorothy Parker, she was a paradoxically sad person. A woman that seemed to long for true love but seemed to keep everyone at a safe distance. She seemed to use her cutting wit and great appetite for booze, as a defence against any possible close personal relationship with her friends and peers. The only men in her life were equally committed to keeping their distance and control. This movie captured those feelings and relationships with great acuity. Jennifer Jason Leigh was superb as Dorothy. In fact, all of the actors were fantastic. This film isn't for the crowd that, throng to the next Lethal Weapon sequel in ever growing numbers. Those of you that look for movies with intelligence and style will be greatly rewarded.",
+         "The movie is episodic and depends too much on the viewer's having prior knowledge of the life of Dorothy Parker and her literary friends. Its saving grace is Jennifer Jason Leigh as Mrs. Parker. Her only flaw is that, in trying to look and sound like Parker, her dialog is often hard to understand. Still, one of the greatest and most under-rated performances by an actress in an American film in the 1990s.",
+         "Towards the end of her career, Dorothy Parker remembers the past days when she was part of the Algoquin Round Table, a group of friends who shared interests in the arts, drink and witty barbs at each others' expense. However behind the wit she has a lot of hurt and the story follows her through broken relationships and lost happiness. I have seen this film several times but am only writing a review of it now. It always strikes me as being a very worthy film that is `good' and should be appreciated. But, this doesn't make it an easy film to access or watch. On the surface the overlapping dialogue and quick wit makes for a film hat could be accepted several ways. I was stuck in the middle. At once I felt that these people were pompous and condescending but then also felt that they were witty people and clever! The same with Parker herself \u0096 at times she was a good character but then at others she was mysterious and very hard to understand. I suppose this is to the film's credit that it never paints it's subjects in one colour \u0096 there is room for interpretation. The one thing that struck me (me who uses a lot of sarcasm) is how much hurt was often put behind the barbs. As one character says, she never talks deeply with any of her friends and never gets beyond the next barbed remark. The fact that her life slides the way it does shows the danger in this. However the film does still allow the brighter side of her life to come out as well so that it isn't al gloom. This still doesn't make it easy watching \u0096 there is no one central narrative other than Parker herself. This made it feel a little free floating and aimless and it occasionally felt as hollow and pointless as the quick wit shared by unhappy people around the table. The cast is pretty good. Leigh does occasionally come over as a woman giving an impression rather than a performance but she does manage to seem more natural when talking rather than quoting. The support cast is made up of quite a few B-grade stars (of quality and some not) and they all give good account of themselves. Broderick, Gallagher, McCarthy, Taylor and Tucci are among the cast but really it is Leigh's film to win or lose. Overall this is a classy film. The direction and sets really get the period right and film feels good. However at times it seems aimless and much of the film is actually pretty depressing stuff. I took the warning from it of opening up rather than trying to be a smarta*se all the time, but I'm not sure if that was what it was saying. The cast do well and Leigh makes a good Mrs Parker despite just stopping short of out and out impersonation.",
+         "I am a fan of many of the writers who flit in and out of this movie, but I confess I don't know much about their personal lives and habits (except perhaps for Benchley, and Thurber who is only barely mentioned in this film). This film gives the viewer a good sense of what it must have been like to be part of the wildly creative crew that surrounded the legendary Algonquin Round Table, but a very confused picture of Dorothy Parker's life. Only someone who already knows her story, and can keep her various husbands and lovers in order, can piece this mish-mash together. And none of the performers are strong enough to seem like anything more than walk-ons dressed as famous people. (The \"gang\" scenes work because of the fast pacing; the movie drags when we spend time with the individuals.) According to comments recorded here, Miss Leigh is doing a good vocal impression of Dorothy Parker. Maybe so (I've never heard Parker), but Leigh's delivery is so totally annoying that it's enough to drive the AUDIENCE to suicide. Is she trying to do Hepburn on downers? Sometimes her mannered accent veers toward Transylvanian. Throughout the movie, Parker herself denigrates her little \"doodad\" poems, but that's all the film offers us of her creative output. We never really find out about the contents of her books and plays, and how she ended up in Hollywood (and what she wrote there). After a few of her doggerel verses, they become trite. I began to wonder if people think these poems are funny because they know they're SUPPOSED to be funny. I'm sure there's probably a good movie in Mrs. Parker's life, but I don't think this is it.",
+         "This is not a great movie, but it is a good one, with an excellent ensemble cast and good production values. The fact that a lot of the best lines were written or spoken by the people being portrayed here is a plus and an advantage that this movie has over most others. On the downside, it is too long, the accent affected by Leigh as Dorothy Parker becomes grating at times and the film is a black hole of despair. The documentary, The Ten Year Lunch, about these same people, is equally fascinating, without being nearly so despondent. Perhaps if they ever do a DVD for this, they'll include the documentary as an extra. Recommended for those interested in the subject."
+      ],
+      "genres": [
+         "Biography",
+         "Drama"
+      ],
+      "productionCompanies": [
+         "Fine Line Features",
+         "Mayfair Entertainment",
+         "Miramax"
+      ],
+      "summaries": ["Dorothy Parker remembers the heyday of the Algonquin Round Table, a circle of friends whose barbed wit, like hers, was fueled by alcohol and flirted with despair."],
+      "budget": 7000000
+   },
+   "movielensId": 369,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1994-09-07",
+      "dvdReleaseDate": "2006-09-05",
+      "directors": ["Alan Rudolph"],
+      "runtime": 125,
+      "movieId": 369,
+      "title": "Mrs. Parker and the Vicious Circle",
+      "mpaa": "R",
+      "actors": [
+         "Jennifer Jason Leigh",
+         "Campbell Scott",
+         "Matthew Broderick",
+         "Gwyneth Paltrow",
+         "Jennifer Beals",
+         "Peter Gallagher",
+         "Andrew McCarthy",
+         "Wallace Shawn",
+         "Martha Plimpton",
+         "Sam Robards",
+         "Lili Taylor",
+         "James Le Gros",
+         "Nick Cassavetes",
+         "David Thornton",
+         "Heather Graham",
+         "Tom McGowan",
+         "Chip Zien",
+         "Gary Basaraba",
+         "Jane Adams",
+         "Stephen Baldwin",
+         "Matt Malloy",
+         "Rebecca Miller",
+         "Amelia Campbell",
+         "Stanley Tucci",
+         "Mina Badie",
+         "Randy Lowell",
+         "Keith Carradine",
+         "Jon Favreau",
+         "Sam Stone",
+         "Malcolm Gets",
+         "Cyndi Lauper"
+      ],
+      "imdbMovieId": "0110588",
+      "originalTitle": "Mrs. Parker and the Vicious Circle",
+      "genres": ["Drama"],
+      "youtubeTrailerIds": ["eMX6BubBwmM"],
+      "plotSummary": "Dorothy Parker remembers the heyday of the Algonquin Round Table, a circle of friends whose barbed wit, like hers, was fueled by alcohol and flirted with despair.",
+      "tmdbMovieId": 23333,
+      "avgRating": 3.30524,
+      "releaseYear": "1994",
+      "numRatings": 1145,
+      "posterPath": "/bLmyaiin2zavjmTsIOaUMT4KC2X.jpg"
+   }
+}

@@ -1,0 +1,935 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "italy",
+            "id": 131
+         },
+         {
+            "name": "scotland yard",
+            "id": 770
+         },
+         {
+            "name": "letter",
+            "id": 3344
+         },
+         {
+            "name": "aunt",
+            "id": 6894
+         },
+         {
+            "name": "victorian england",
+            "id": 8250
+         },
+         {
+            "name": "murder",
+            "id": 9826
+         },
+         {
+            "name": "suspense",
+            "id": 9937
+         },
+         {
+            "name": "pianist",
+            "id": 14743
+         },
+         {
+            "name": "nervous breakdown",
+            "id": 15274
+         },
+         {
+            "name": "driven mad",
+            "id": 191476
+         }
+      ],
+      "imdb_id": "tt0036855",
+      "video": false,
+      "title": "Gaslight",
+      "recommendations": [
+         25673,
+         14638,
+         1859,
+         31507,
+         21635,
+         27452,
+         17645,
+         27725,
+         24807,
+         15794,
+         678,
+         14554,
+         1939,
+         31044,
+         25955,
+         965,
+         32255,
+         28580,
+         28571,
+         198
+      ],
+      "backdrop_path": "/wOf4Jv4QVQzxsn6xWJL7a8HUdoL.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Gregory Anton",
+               "gender": 2,
+               "credit_id": "52fe45769251416c7505764b",
+               "name": "Charles Boyer",
+               "profile_path": "/5xjnsNi2vr31yyPyum77aPCuCTE.jpg",
+               "id": 29519,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Paula Alquist",
+               "gender": 1,
+               "credit_id": "52fe45769251416c7505764f",
+               "name": "Ingrid Bergman",
+               "profile_path": "/jXEE0P6705JbMAJ2nwtHjmqkd5F.jpg",
+               "id": 4111,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Brian Cameron",
+               "gender": 2,
+               "credit_id": "52fe45769251416c75057653",
+               "name": "Joseph Cotten",
+               "profile_path": "/bTUTrTnzacCQV4F0rs1xH4QaETf.jpg",
+               "id": 7664,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Miss Bessie Thwaites",
+               "gender": 1,
+               "credit_id": "52fe45769251416c75057657",
+               "name": "Dame May Whitty",
+               "profile_path": "/qOZnX0Lyrz6bE2CBnyHCgQeuKUf.jpg",
+               "id": 14299,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Nancy Oliver",
+               "gender": 1,
+               "credit_id": "52fe45769251416c7505765b",
+               "name": "Angela Lansbury",
+               "profile_path": "/nMy8sPPLf8fjSglFLP3IzIGbjly.jpg",
+               "id": 14730,
+               "order": 4
+            },
+            {
+               "cast_id": 6,
+               "character": "Elizabeth Tompkins",
+               "gender": 1,
+               "credit_id": "52fe45769251416c7505765f",
+               "name": "Barbara Everest",
+               "profile_path": "/6RMaUoxc5ebdWANTv4HPkTS2gfs.jpg",
+               "id": 74622,
+               "order": 5
+            },
+            {
+               "cast_id": 12,
+               "character": "Williams",
+               "gender": 2,
+               "credit_id": "54bf40219251413635008e0d",
+               "name": "Tom Stevenson",
+               "profile_path": null,
+               "id": 567221,
+               "order": 6
+            },
+            {
+               "cast_id": 13,
+               "character": "Lady Mildred Dalroy",
+               "gender": 1,
+               "credit_id": "54bf403b9251416e60007fe2",
+               "name": "Heather Thatcher",
+               "profile_path": "/qIVahaQu1UsnH71BX2MPNDn7IsX.jpg",
+               "id": 108804,
+               "order": 7
+            },
+            {
+               "cast_id": 14,
+               "character": "Lord Dalroy",
+               "gender": 2,
+               "credit_id": "54bf4050c3a3681da0005973",
+               "name": "Lawrence Grossmith",
+               "profile_path": null,
+               "id": 975810,
+               "order": 8
+            },
+            {
+               "cast_id": 15,
+               "character": "Mr. Muffin",
+               "gender": 2,
+               "credit_id": "54bf406592514148b000be87",
+               "name": "Halliwell Hobbes",
+               "profile_path": "/nLubN58cxw9GgYnzY5IXFWqmnRz.jpg",
+               "id": 29601,
+               "order": 9
+            },
+            {
+               "cast_id": 16,
+               "character": "Maestro Guardi",
+               "gender": 0,
+               "credit_id": "54bf408b9251416eae00799a",
+               "name": "Emil Rameau",
+               "profile_path": null,
+               "id": 100049,
+               "order": 10
+            },
+            {
+               "cast_id": 18,
+               "character": "Pianist",
+               "gender": 0,
+               "credit_id": "56550fe0c3a368198d0006f8",
+               "name": "Jakob Gimpel",
+               "profile_path": null,
+               "id": 554889,
+               "order": 11
+            },
+            {
+               "cast_id": 26,
+               "character": "Policeman (uncredited)",
+               "gender": 0,
+               "credit_id": "5655f1f5925141018f004b3e",
+               "name": "Harry Adams",
+               "profile_path": null,
+               "id": 1459370,
+               "order": 12
+            },
+            {
+               "cast_id": 27,
+               "character": "Policeman (uncredited)",
+               "gender": 0,
+               "credit_id": "5655f243c3a368199600533a",
+               "name": "Joseph North",
+               "profile_path": null,
+               "id": 1271205,
+               "order": 13
+            },
+            {
+               "cast_id": 28,
+               "character": "Young Girl (uncredited)",
+               "gender": 0,
+               "credit_id": "5655f28e9251410198004ca9",
+               "name": "Lassie Lou Ahern",
+               "profile_path": null,
+               "id": 1381534,
+               "order": 14
+            },
+            {
+               "cast_id": 29,
+               "character": "Cab Man (uncredited)",
+               "gender": 0,
+               "credit_id": "5655f2d8c3a3681984004b6d",
+               "name": "John Ardizoni",
+               "profile_path": null,
+               "id": 1419561,
+               "order": 15
+            },
+            {
+               "cast_id": 30,
+               "character": "Cab Man (uncredited)",
+               "gender": 0,
+               "credit_id": "5655f306925141018c004a7c",
+               "name": "Antonio D'Amore",
+               "profile_path": null,
+               "id": 1420560,
+               "order": 16
+            },
+            {
+               "cast_id": 31,
+               "character": "Cab Man (uncredited)",
+               "gender": 0,
+               "credit_id": "5655f33bc3a3681992005093",
+               "name": "Joseph Romantini",
+               "profile_path": null,
+               "id": 1286628,
+               "order": 17
+            },
+            {
+               "cast_id": 32,
+               "character": "Cab Man (uncredited)",
+               "gender": 0,
+               "credit_id": "5655f360925141019b004c10",
+               "name": "Guy Zanette",
+               "profile_path": null,
+               "id": 1144351,
+               "order": 18
+            },
+            {
+               "cast_id": 33,
+               "character": "Cab Driver (uncredited)",
+               "gender": 0,
+               "credit_id": "5655f3f2925141018f004ba6",
+               "name": "Jack Kirk",
+               "profile_path": "/msUmledl9cwpRRJsqdGehBf40Xl.jpg",
+               "id": 121239,
+               "order": 19
+            },
+            {
+               "cast_id": 34,
+               "character": "Pedestrian (uncredited)",
+               "gender": 0,
+               "credit_id": "5655f4729251410198004ce2",
+               "name": "Frank Baker",
+               "profile_path": "/fSYn9ESiVpuJtEuS67ttAGceEQW.jpg",
+               "id": 27164,
+               "order": 20
+            },
+            {
+               "cast_id": 35,
+               "character": "Pedestrian (uncredited)",
+               "gender": 2,
+               "credit_id": "5655f49cc3a3681984004bbb",
+               "name": "Wilson Benge",
+               "profile_path": null,
+               "id": 939842,
+               "order": 21
+            },
+            {
+               "cast_id": 36,
+               "character": "Butler (uncredited)",
+               "gender": 0,
+               "credit_id": "5655f50c925141018f004bce",
+               "name": "Arthur Blake",
+               "profile_path": null,
+               "id": 38252,
+               "order": 22
+            },
+            {
+               "cast_id": 37,
+               "character": "Lady (uncredited)",
+               "gender": 1,
+               "credit_id": "5655f5569251410198004d0d",
+               "name": "Lillian Bronson",
+               "profile_path": "/uz7DN1AwCjHBsvdt1J8wTVVcL7U.jpg",
+               "id": 94114,
+               "order": 23
+            },
+            {
+               "cast_id": 38,
+               "character": "Guide (uncredited)",
+               "gender": 2,
+               "credit_id": "5655f5b1925141018c004ae7",
+               "name": "Leonard Carey",
+               "profile_path": null,
+               "id": 3368,
+               "order": 24
+            },
+            {
+               "cast_id": 39,
+               "character": "Turnkey (uncredited)",
+               "gender": 0,
+               "credit_id": "5655f5de925141018800474a",
+               "name": "Alec Craig",
+               "profile_path": "/7dyRAwndi7vby2o0O8Ze3t9W7PW.jpg",
+               "id": 22606,
+               "order": 25
+            },
+            {
+               "cast_id": 40,
+               "character": "Franchette (uncredited)",
+               "gender": 1,
+               "credit_id": "5655f62fc3a36819960053f0",
+               "name": "Helen Flint",
+               "profile_path": "/ui7GNM03kqBgCVrseRrIqSnZGLQ.jpg",
+               "id": 128494,
+               "order": 26
+            },
+            {
+               "cast_id": 41,
+               "character": "Servant (uncredited)",
+               "gender": 2,
+               "credit_id": "5655f664c3a368199200511b",
+               "name": "Gibson Gowland",
+               "profile_path": "/1qGL5mXReOE09EyVNWWPnKajjm0.jpg",
+               "id": 9097,
+               "order": 27
+            },
+            {
+               "cast_id": 42,
+               "character": "Boy in Park with Nanny (uncredited)",
+               "gender": 2,
+               "credit_id": "5655f699925141019b004ca1",
+               "name": "Gary Gray",
+               "profile_path": "/7skbVlsdz904DUVS8nZUInRLooU.jpg",
+               "id": 213835,
+               "order": 28
+            },
+            {
+               "cast_id": 43,
+               "character": "Stranger (uncredited)",
+               "gender": 0,
+               "credit_id": "5655f6d392514101910047c3",
+               "name": "Roger Gray",
+               "profile_path": null,
+               "id": 121224,
+               "order": 29
+            },
+            {
+               "cast_id": 44,
+               "character": "Lamplighter (uncredited)",
+               "gender": 0,
+               "credit_id": "5655f6fdc3a3681984004c04",
+               "name": "Bobby Hale",
+               "profile_path": null,
+               "id": 120458,
+               "order": 30
+            },
+            {
+               "cast_id": 45,
+               "character": "Miss Laura Pritchard (uncredited)",
+               "gender": 0,
+               "credit_id": "5655f79bc3a368196e005021",
+               "name": "Joy Harington",
+               "profile_path": null,
+               "id": 1540998,
+               "order": 31
+            },
+            {
+               "cast_id": 46,
+               "character": "Wilkins (uncredited)",
+               "gender": 2,
+               "credit_id": "5655f7d49251410198004d75",
+               "name": "Charles McNaughton",
+               "profile_path": null,
+               "id": 120454,
+               "order": 32
+            },
+            {
+               "cast_id": 47,
+               "character": "Paula Alquist - Age 14 (uncredited)",
+               "gender": 1,
+               "credit_id": "5655f818c3a368198200489b",
+               "name": "Terry Moore",
+               "profile_path": "/rAMtJjKEE31jJU5D6jUbT4zwJ3O.jpg",
+               "id": 33716,
+               "order": 33
+            },
+            {
+               "cast_id": 48,
+               "character": "Boy (uncredited)",
+               "gender": 2,
+               "credit_id": "5655f849c3a368198d004b67",
+               "name": "Georgie Nokes",
+               "profile_path": null,
+               "id": 17758,
+               "order": 34
+            },
+            {
+               "cast_id": 49,
+               "character": "Boy in Museum (uncredited)",
+               "gender": 0,
+               "credit_id": "5655f88e925141019b004ce1",
+               "name": "Tarquin Olivier",
+               "profile_path": null,
+               "id": 550226,
+               "order": 35
+            },
+            {
+               "cast_id": 50,
+               "character": "Baggage Clerk (uncredited)",
+               "gender": 2,
+               "credit_id": "5655f8c992514101880047b7",
+               "name": "Syd Saylor",
+               "profile_path": "/5VKk3UNGktDsZCEtIqN1Z0GIcmg.jpg",
+               "id": 88728,
+               "order": 36
+            },
+            {
+               "cast_id": 51,
+               "character": "Durkin (uncredited)",
+               "gender": 0,
+               "credit_id": "5655f903c3a3681992005197",
+               "name": "Arthur Stone",
+               "profile_path": null,
+               "id": 117857,
+               "order": 37
+            },
+            {
+               "cast_id": 52,
+               "character": "Fred Garrett (uncredited)",
+               "gender": 2,
+               "credit_id": "5655f943c3a36819820048d0",
+               "name": "Morgan Wallace",
+               "profile_path": "/sJyB7G2YA64IxA8iiGIRZCYrvTp.jpg",
+               "id": 99375,
+               "order": 38
+            },
+            {
+               "cast_id": 53,
+               "character": "Valet (uncredited)",
+               "gender": 2,
+               "credit_id": "5655f97ac3a368196e00506c",
+               "name": "Eric Wilton",
+               "profile_path": null,
+               "id": 34128,
+               "order": 39
+            },
+            {
+               "cast_id": 54,
+               "character": "Budge (uncredited)",
+               "gender": 0,
+               "credit_id": "5655f9b892514101950048c2",
+               "name": "Eustace Wyatt",
+               "profile_path": null,
+               "id": 87455,
+               "order": 40
+            },
+            {
+               "cast_id": 55,
+               "character": "Bit Part (uncredited)",
+               "gender": 1,
+               "credit_id": "5655fa1792514101880047fa",
+               "name": "Maude Fealy",
+               "profile_path": "/tvpLJhVXoHuiT88mecutV0HS8XQ.jpg",
+               "id": 1467861,
+               "order": 41
+            },
+            {
+               "cast_id": 56,
+               "character": "Bit Part (uncredited)",
+               "gender": 0,
+               "credit_id": "5655fa56c3a36819700048df",
+               "name": "Al Ferguson",
+               "profile_path": null,
+               "id": 1090894,
+               "order": 42
+            },
+            {
+               "cast_id": 57,
+               "character": "Bit Part (uncredited)",
+               "gender": 0,
+               "credit_id": "5655faafc3a36819700048ee",
+               "name": "Clive Morgan",
+               "profile_path": null,
+               "id": 100800,
+               "order": 43
+            },
+            {
+               "cast_id": 58,
+               "character": "Bit Part (uncredited)",
+               "gender": 0,
+               "credit_id": "5655faf09251410191004886",
+               "name": "Elsie Prescott",
+               "profile_path": null,
+               "id": 1271206,
+               "order": 44
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "56550ef6925141018f0006bf",
+               "name": "Arthur Hornblow Jr.",
+               "profile_path": null,
+               "id": 138407,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe45769251416c75057665",
+               "name": "George Cukor",
+               "profile_path": "/s6OKrb7REayEl3NHAQVJXvD9KrX.jpg",
+               "id": 14674,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe45769251416c7505766b",
+               "name": "John Van Druten",
+               "profile_path": null,
+               "id": 20599,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe45769251416c75057671",
+               "name": "Walter Reisch",
+               "profile_path": null,
+               "id": 12362,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe45769251416c75057677",
+               "name": "John L. Balderston",
+               "profile_path": null,
+               "id": 1546,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "565522e29251410191000aa1",
+               "name": "Bronislau Kaper",
+               "profile_path": null,
+               "id": 14861,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "565523479251410195000a64",
+               "name": "Joseph Ruttenberg",
+               "profile_path": null,
+               "id": 14678,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56552365c3a3681992000bbc",
+               "name": "Ralph E. Winters",
+               "profile_path": null,
+               "id": 10007,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5655238f9251410186000b85",
+               "name": "Cedric Gibbons",
+               "profile_path": "/w8tc9iVH87Iu1KKFDZ9B99NhnBc.jpg",
+               "id": 9062,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "565523c59251410191000ade",
+               "name": "Edwin B. Willis",
+               "profile_path": null,
+               "id": 9063,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56552406c3a3681970000a4f",
+               "name": "Irene",
+               "profile_path": "/uqKuNQzRIV4OJQztp2AHuhitWuc.jpg",
+               "id": 1012329,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5655249b9251410195000abc",
+               "name": "Jack Dawn",
+               "profile_path": null,
+               "id": 13986,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Designer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5655fb819251414864000827",
+               "name": "Edward Woehler",
+               "profile_path": null,
+               "id": 10015,
+               "department": "Production",
+               "job": "Unit Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5655fbb59251410195004913",
+               "name": "Jack Greenwood",
+               "profile_path": null,
+               "id": 1365045,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5655fc0f925141018f004cee",
+               "name": "Douglas Shearer",
+               "profile_path": "/3kH8o524WTYSGBLcCx9v9ERP9sj.jpg",
+               "id": 27969,
+               "department": "Sound",
+               "job": "Sound"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5655fc51925141018c004c12",
+               "name": "Joe Edmondson",
+               "profile_path": null,
+               "id": 13990,
+               "department": "Sound",
+               "job": "Sound"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5655fc8bc3a368196e005100",
+               "name": "Warren Newcombe",
+               "profile_path": null,
+               "id": 13292,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5655fce59251410188004879",
+               "name": "Marion Herwood Keyes",
+               "profile_path": null,
+               "id": 1012330,
+               "department": "Costume & Make-Up",
+               "job": "Assistant Costume Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5655fdbc9251410195004975",
+               "name": "Sidney Cutner",
+               "profile_path": null,
+               "id": 29275,
+               "department": "Sound",
+               "job": "Orchestrator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5655fe14c3a368196b004e65",
+               "name": "Robert Franklyn",
+               "profile_path": null,
+               "id": 545529,
+               "department": "Sound",
+               "job": "Orchestrator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5655fe49c3a3681970004996",
+               "name": "Conrad Salinger",
+               "profile_path": null,
+               "id": 554823,
+               "department": "Sound",
+               "job": "Orchestrator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5655febfc3a368196b004e83",
+               "name": "David O. Selznick",
+               "profile_path": null,
+               "id": 3248,
+               "department": "Crew",
+               "job": "Thanks"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56a786369251416c8d001517",
+               "name": "William Ferrari",
+               "profile_path": null,
+               "id": 21872,
+               "department": "Art",
+               "job": "Assistant Art Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59a0bb9992514177a701c3f7",
+               "name": "Patrick Hamilton",
+               "profile_path": null,
+               "id": 17905,
+               "department": "Writing",
+               "job": "Writer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Mystery",
+            "id": 9648
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         },
+         {
+            "name": "Crime",
+            "id": 80
+         }
+      ],
+      "popularity": 6.786069,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 13528,
+      "vote_count": 94,
+      "budget": 2068000,
+      "overview": "In the late 19th century, Paula Alquist is studying music in Italy, but ends up abandoning her classes because she's fallen in love with the gallant Gregory Anton. The couple marries and moves to England to live in a home inherited by Paula from her aunt, herself a famous singer, who was mysteriously murdered in the house ten years before. Though Paula is certain that she sees the house's gaslights dim every evening and that there are strange noises coming from the attic, Gregory convinces Paula that she's imagining things. Meanwhile, a Scotland Yard inspector, Brian Cameron, becomes sympathetic to Paula's plight.",
+      "similar": [
+         445954,
+         158011,
+         12150,
+         2832,
+         1586,
+         4771,
+         189,
+         10528,
+         156022,
+         281957,
+         949,
+         1939,
+         984,
+         28355,
+         1923,
+         521,
+         3134,
+         10651,
+         274,
+         10285
+      ],
+      "original_title": "Gaslight",
+      "runtime": 114,
+      "poster_path": "/fsgsiJky8bmOqhfcC4Bqzq5Ir1k.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": "/zcxym93i5BTqqjhVvAhV5HPwYTR.png",
+         "name": "Metro-Goldwyn-Mayer",
+         "id": 21,
+         "origin_country": "US"
+      }],
+      "release_date": "1944-05-04",
+      "vote_average": 7.3,
+      "belongs_to_collection": null,
+      "tagline": "Strange drama of a captive sweetheart!",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Black and White",
+      "budgetCurrency": null,
+      "directors": ["George Cukor"],
+      "runtime": 114,
+      "synopsis": "Why does the flame go down? Lights in the London house are from fixtures with gas flames, and when you light one light, it reduces gas supply to the other lights in the house that are close by, and the light dims. Yet no one in the house has lit any other lights! And there are also footsteps overhead, from a nailed-closed attic. Neither of the two servants sees or hears either of these signs. Paula Anton (Ingrid Bergman) thinks she is losing her mind, just as she has lost the brooch her husband Gregory (Charles Boyer) gave her. Her new marriage is falling apart; she cannot go out lest she make another embarrassing scene. Is it the house, where Paula's aunt, a famous and beautiful concert singer, was murdered when the young Paula resided there? What does her new husband, who plays the piano beautifully, do for a living? Nothing. Why does he go out every night and leave her alone to fret and worry? Who is the man who sees them at unexpected times and places, a man we soon learn is Scotland Yard detective Brian Cameron (Joseph Cotton)? Cameron is curious about the unsolved murder of Aunt Alice Alquist, who looked a great deal like Paula does now -- a murder that defied the investigators. No motive, no suspects, no clues. You now have the clues to this Oscar-winning (Best Actress) dark mystery. Introducing (first picture) Angela Lansbury (Best Supporting Actress nominee) in the role of one of the servants. Also nominated for Best Picture, Best Actor (Boyer), and three more.",
+      "writers": [
+         "John Van Druten",
+         "Walter Reisch"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0036855/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTUyMzg4MTYxNl5BMl5BanBnXkFtZTcwOTY0MjUyMQ@@._V1_SY317_CR2,0,214,317_AL_.jpg",
+      "actors": ["Stars: Charles Boyer, Ingrid Bergman, Joseph Cotten | See full cast and crew »"],
+      "reviews": [
+         "If you're looking for everything you've ever wanted to know about horror, mystery, depression, and suspense, go take a peek into Ingrid Bergman's eyes. The actress -- who would soon become blacklisted after her marriage to Italian director Roberto Rossellini -- can convey every emotion and nuance of her character through her amazingly expressive eyes. Completely believable in George Cukor's Gaslight as a wife whose husband (Charles Boyer) is trying to make insane, Bergman can show you all her turmoil and emotional stress just by looking around. The plot is simple, perhaps even arcane. A famous opera singer is murdered in London, leaving behind no motive, no clues, and Paula, the young niece who discovered the body. Paula is sent to Italy, where she, too, studies music, until she elopes with an older, dashing pianist (Boyer). He convinces her to move back to the exact same house where her aunt was murdered, where nothing has been changed in all those years. And, naturally, here is where the movie really begins. Soon, her husband starts acting very strangely, and starts convincing her that she is very ill and unable to go out. Trapped in the house, alone with her husband, a somewhat-deaf cook, and a tart of a housekeeper, Paula soon starts to hear noises, see things, lose things, and even hide things. Or is she? Is she going mad? Or is her husband -- who she is supposed to love, honor, and obey -- making her mad? The show is Bergman's to steal, and she does so with gusto, garnering an Oscar for her endeavor. With her performance, Bergman transforms the character of Paula Alquist from a weak, paranoid wimp of a wife into a woman struggling with her own identity and her role in marriage and society. Perhaps unintentionally, perhaps unwittingly, Bergman's Paula is a symbol and a superhero for all women trapped in an abusive marriage. Even today. Granted, the story line is somewhat contrived, and one can't help but wonder how Paula never notices that her husband is completely evil BEFORE the marriage. Also, Joseph Cotten, as the Scotland Yard detective smitten with Paula's beauty, seems to come out of nowhere. Still, the acting prevails over the plot, and what better actor to come out of nowhere than Cotten? His charm and charisma make up for his character's two-dimensionality. Although there are faults, Gaslight is an extraordinary film, generating its suspense not from an evil lurking in the shadows, but from the psychology of the mind itself. Perhaps one of the first \"pure\" psychological thrillers, Gaslight, just like Ingrid Bergman's eyes, contains the perfect blend of mystery, suspense, and beauty.",
+         "Not being a big fan of older movies myself (for some reason I really don't know) I decided to go out on a recommendation and rent \"Gaslight.\" And I must be honest, I was impressed. When Paula was younger, her aunt with whom lived with in Thornton Square in London was murdered by a strangler roaming the streets. Paula goes to stay in Italy, and some time later, meets Gregory. She and Gregory plan to marry, and after they do, they move to London, back to the exact house Paula lived in. Not too long after, Paula starts to become \"forgettful,\" as Gregory tells her. In fact, he tells her a lot of things...and she believes him. Then things she knows she had put somewhere or remembered doing seem nonexistent, and Paula is left to wonder if her sanity is in check. Then, many times, she starts hearing footsteps, and the gaslights are going down a lot. Is Paula going crazy, or is she being haunted by her dead aunt's spirit...or is it something far more sinister? I liked this movie a lot. Ingrid Bergman and Charles Boyet were amazing. Bergman portrays her character's emotions to the point that you feel the same way she does. And Boyet is pure evil in this one. Many times watching this, I was thinking, \"He is so terrible to her!\" It was so psychological, how everything eveloped. The best scene in the whole movie took place at the reception, when Gregory tells Paula he lost his watch, and then finds it in her purse. Then she bursts into tears, and it was so absolutely amazing how the scene was pulled off. In fact, it was so subtle it was scary. You wouldn't expect a missing watch found in her purse to be such a big deal, but it is such a strong scene. The one thing I didn't like about this otherwise nearly flawless movie was the climax. It was just too dull to me, and the only part I really liked was Paula's wicked sarcasm towards Gregory while they're in the attic. She truly did deserve the Best Actress Oscar for her acting, but nothing could mask the fact that the climax was just too weak. If it had a bit of a touchup, this movie would be perfect. All in all, I recommend this without hesitation. It is absolutely amazing, and I could watch it again and still enjoy it, and that is quite rare for me. So, I recommend you find this wherever you can and give it a chance. It's a classic.",
+         "Ingrid Bergman experiences the murder of the aunt who has raised her. Ten years later, she returns to the house in which it happened with her new husband (Charles Boyer). Something is wrong, though, as her husband, once so kind to her, grows cold and cruel. Furthermore, Bergman begins to lose things, misplace things, and develop a case of kleptomania, or at least that's her husband's explanation. Boyer convinces his wife that she is going insane, that she is sick, and she becomes little more than a shut-in. She becomes paranoid, especially at her maids (the younger of which is played by Angela Lansbury in her first film role). Meanwhile, Joseph Cotten, a detective, gets an inkling that something is up in that household, and that it might be related to the aunt's murder. Gaslight is a very atmospheric film. The black and white cinematography is full of shadows, and there are interesting things going on in the focus. The music is also quite excellent, and very original. Classical music is also used to great effect. The plot is great, although maybe a tiny bit predictable (it didn't harm my enjoyment of the film whatsoever). The performances are top-notch, although Cotten doesn't add much to the picture. I mean, he's good, but his role perhaps isn't the one the original playwright or the screenwriters were most interested in. Anyone probably could have done just as well. Bergman's performances is to be counted amongst her best. Charles Boyer, an actor with whom I am unfamiliar, is so wicked in the film. You hate him, but you've got to admit it's an effective performance! And I can't finish without praising Angela Lansbury. Dame May Whitty also has a nice supporting role, although the role - the comic relief - is sometimes used at a bad time. I don't think, for instance, she should have come back in during the final sequence. Anyway, little flaws don't detract much from this masterpiece. Bravo, Mr. Cukor! 10/10.",
+         "Patrick Hamilton's \"Angel Street\", an American stage classic, was turned into \"Gaslight\" in 1944. This atmospheric account about a woman being driven out of her mind, was directed by George Cukor. The film has always been a favorite of classic movie fans all over the world because it holds the viewer interested in watching the psychological drama with echoes of Gothic overtones, unfold on the screen. This was not the first adaptation of Mr. Hamilton's play, although in our humble opinion, it is much better than the previous account, in part helped by the great cast that Mr. Cukor assembled to portray these characters. Thanks to the magnificent black and white cinematography by Joseph Ruttengerg and the musical score by Bronislau Kaper, the film ultimately rewards the viewer. We are taken to No. 9 Thornton Square, at the start of the film. A murder of a famous opera singer has been committed. We watch as a young woman is taken away. Paula, is being sent away to Italy to recuperate from the tragedy she has just witnessed. The idea was for her to follow her aunt, the murdered diva's footsteps, but just listening to the young woman sing, one realizes opera is not going to gain a new star. The young pianist, Greorgy Anton, who is seen at Maestro Gardi's home, seems to be in love with Paula; she, in turn, has fallen in love with this much older figure. They prepare to return to London and live in the house at Thornton Square. Paula, alas, is not too happy because of her traumatic experience there. Little by little we watch as Gregory, now in charge of the household, begins to terrorize his wife. The key seems to be hidden in the attic where all the things that belonged to the late diva has been stored. A young man living near the Antons, Brian Cameron, takes an interest in what he sees is definitively wrong with the woman at No. 9, and takes things into his own hands. It's through this man's intervention that Paula is able to see all that has been inflicted upon her. Whatever Gregory has done, succeeded in giving Paula a deep sense of insecurity and fear. Ingrid Bergman, who makes a magnificent Paula, was born to play this troubled woman. She is seen as a young girl at the beginning of the film, then as a blossoming beautiful woman and at the end she is transformed into a person afraid of her own shadow. One look into Ms. Bergman's eyes and we know what's going on in her mind. She conveys all the emotions convincingly. There's not a thing wrong with her performance. Charles Boyer also makes a great Gregory Anton, a man who is duplicitous and sly, with a hidden agenda to get whatever he can out of poor Paula. Gregory is an evil man who will go to great lengths to get what he wants. Gregory Anton offered the actor one of his best characters. His chemistry with Ms. Bergman is wonderful. The other supporting characters are well performed, especially by a young and interesting Angela Lansbury, who plays the parlor maid, Nancy. Joseph Cotten, on the other hand, seems to be out of character as Brian Cameron. His American accent ruins his appearance and we don't believe in him. Dame May Witty is about the sunniest one in this film. \"Gaslight\" is an excellent way to spend the time in the company of Ingrid Bergman and Charles Boyer, thanks to the detailed production directed by George Cukor.",
+         "The first scene establishes the dreary tone of the film. It is nighttime in London and a murder goes unsolved. The magnificent Ingrid Bergman portrays Paula, the niece of the deceased woman. After living ten years trying to forget the past, Paula returns to her house in London at the suggestion of her new husband, Gregory (Charles Boyer). \"I've found peace in loving you,\" Paula says and decides with the help of her husband, she is ready to face the past. Fear is an essential element in the story. It seems the police cannot find a motive for the murder but when a new young assistant comes to Scotland Yard, he sees something that others did not notice or would not pursue. The murderer remains at large and his next potential victim has returned to the very house where the first murder was committed. The cast's flawless talent makes the film absolutely unforgettable. Charles Boyer is exceedingly ominous as Paula's obsessive husband. As the high-strung wife, Ingrid Bergman gives an outstanding performance. She is startling and brilliant. Brian Cameron, played by Joseph Cotton, makes his appearance later in the film but is wonderful nonetheless. Watch for the emphasis on foreshadowing and the beautiful lighting achieved in Gaslight, as well as the particular attention to the many details that make it spectacular. George Cukor's fantastic direction of this intriguing and suspicious tale will keep you on the edge of your seat.",
+         "This American-made version of the English thriller \"Gaslight\" is well-crafted and well-acted, with many moments of good suspense and tension. Ingrid Bergman and Charles Boyer work very well in the two leads, and they get considerable help from the rest of the cast and the production. The character of the fragile, self-doubting Paula is an ideal role for Bergman, who conveys Paula's anxious uncertainty while keeping her sympathetic and even engaging. Boyer likewise comes across very believably as her calculating husband, and the two leads make their characters into a strong foundation for the tense story. Joseph Cotten does not really seem as if he could be a Scotland Yard detective, but in a more general way, he succeeds pretty well as a sympathetic policeman who wants to help personally while striving to get at the facts of the matter. A very young Angela Lansbury gives her character some pointed moments, and she becomes a useful part of creating the right atmosphere. The story does, of course, have some less plausible elements, but it is written carefully enough that the seams rarely show. In fact, it seems to have been constructed rather carefully, so as to provide subtle hints that can be made use of later on. It all makes for a satisfying drama that also provides a pretty good showcase for its stars.",
+         "George Cukor's 1944 Hollywood suspense flick \"Gaslight\" was originally made in 1940 in England under the title \"Murder in Thorton Square\". When the Hollywood producers got a hold of this hot commodity, they attempted to make the original film vanish from sight and memory by destroying many of the prints. Interesting how this particular tale parallels some of the mental manipulations employed in the film itself. This tense, atmospheric film takes place in London in the 1870's several years after a murder shocked the residents of Thorton Square. Paula, the niece of the deceased woman, has inherited her aunt's house. Strange things start happening when she begins to occupy the place with her new husband. Through a steady thematic build we watch as she slowly loses her mind. \"Gaslight\" is a classic psychological thriller in the vein of the best Hitchcock with Ingrid Bergman, fresh off \"Casablanca\", stealing the show as the innocent victim of mental illness.",
+         "Ingrid Bergman plays Paula, an orphaned Victorian-era Londoner whose opera-singer aunt is murdered at the beginning of the movie. She moves to Italy to follow in her aunt's footsteps as a diva, but falls in love and returns to London with her new husband (Boyer) to live in her aunt's empty house. There, she becomes the victim of a carefully-orchestrated campaign to drive her insane. GASLIGHT is richly atmospheric, mostly well-acted, and beautifully photographed. There are chills aplenty as seemingly innocent people grow progressively creepier, and the movie is well-paced with each successive scene increasing Paula's terror. The climax is tense and has a certain poetic justice to it. The chief flaw in the movie is that we are clearly shown from the beginning that Paula is the victim of a third party and is not insane. Thus we cannot share the doubts and terror that she feels. We are not, like her, wondering if we can trust our senses, but merely wondering who is doing this to her. And the latter question isn't very challenging to answer. With a little more subtlety, Cukor could have left us as much in the dark as Paula about why she is experiencing so many strange phenomena, and made this effective little film into a true masterwork of suspense. As it is, GASLIGHT is good, but fails to achieve its potential to match such classics as REBECCA or VERTIGO. Bergman and Boyer make a very dynamic on-screen duo. The film does suffer from Joseph Cotten, whose apple-pie American accent makes for a very unconvincing Scotland Yard inspector. Angela Lansbury is delightfully saucy in her film debut as a Cockney maidservant. Dame May Whitty provides effective comic relief. GASLIGHT is well worth a rental at any price, so long as your expectations aren't overly high. Rating: *** (out of ****).",
+         "\"Gaslight\" (1944) was in its time first a play by Patrick Hamilton and next a psychological thriller of great influence. Since the work was directed by George Cukor, one expects fine performances, and the film delivers several of these; it is in fact unusually well-done in many respects in my judgment. The screenplay by John Van Druten, Walter Reisch and John Balderston has also been widely admired for retaining the theatrical tension of the original work. As produced by Arthur Hornblow Jr., this intelligent but somewhat unsettling drama features understated music by Bronislau Kaper, the fine cinematography of Joseph Ruttenberg, art direction by the great Cedric Gibbons, unusually good set decorations by Edwin B. Willis and costumes design by Irene (Sharaff). But because of the understatement of its scenes, the lack of large scenes of action and image, and the sheer amount of its meaningful dialog, it is an actor's film. The minor players such as Dame May Witty as the heroine's neighbor, Tom Stevenson as Wlliams the policeman, Angela Lansbury as the saucy aid, Barbar Everest as the faithful maid Elizabeth, Emil Rmeau as the maestro, Heather Thatcher as Lady Dalroy, Halliwell Hobbes and Edmund Breon and Lawrence Grossman range in ability from good to exceptional. As the policeman who discerns what is going on that troubles the heroine, played by Ingrid Bergman, Joseph Cotten is dashing, attractive and acceptable as both potential lover and man of action. Charles Boyer has in this film a thankless role, that of a devouring immoralist who has only two possible moods-- brief burst of anger needing to be controlled and an exuded charm that must be slightly overdone at times. These moods he plays very professionally at all points, his timing being not the least of his accomplishments during the film. In the difficult role of a Victorian young woman of intelligence, honesty and vulnerability, Oscar winner Ingrid Bergman earns the award by sustaining a sunny and intelligent personality undergoing a series of slowly-revealed and subtle attacks from her husband, who is trying to convince her she is incapable of independent function. Everything in the film--lighting, use of flights of stairs, objects, blocking, gestures, observers, character and dialog contribute to the overall effect. Even the title, referring to the mysterious changes in the lighting of the house Bergman and Boyer inhabit has meaning here. The film is not a sunny one; but the suspense is in my opinion rather admirably sustained. In tribute to its quality as a drama, I can only say that in the more than six decades since the film was created, no imitation of its male to female menace has come close to achieving anything really approaching its sterling qualities. To have ushered in a sub-genre--the Victorian menaced-female type, and set so high a mark is no small feat. The mystery's solid construction and simplicity of design certainly play a part in the building of its sustained fascination.",
+         "Gaslight (1944) This is an uncharacteristic film for George Cukor, slipping sideways into Hitchcock turf for this period. Psychological suspense was never more focused, and less distracted, than you'll find in Gaslight however. You might find the plot too linear, to predictable overall, to be blown away, but in fact that's partly why the suspense works. As with great Hitchcock, you have a sense of where you going, and you want to stop it. So we have Charles Boyer, smarmy, deceptive, and ultimately evil, leading his new wife down a path of mental anguish and, he hopes, madness. The wife is played with usual high stakes perfection by Ingrid Bergman (between her stunning roles in Casablanca and Spellbound). Cukor gets the most of her excesses, and her nuances. Boyer is more nuance, and is a perfect match. The movie is really about their back and forth, with Joseph Cotten making his appearance as a necessary line of safety and hope because we can't stand to see the woman go down without a fight. Most of the film occurs in an old, lavishly decorated house, and the lights and camera-work are dreamy, dripping in rim light and shadow, in odd angles and closeups of their faces. It's quite an involving experience, and because you are limited to mostly these two characters, you get very intimate with them. Yes, the two maids are perfect, including a sassy Angela Lansbury in her first movie role. And the cop, too, is a classic bobby, handsome and cooperative. The plot, alas, is the one weakness here. The man's obsession with gems is fair enough, but when we finally get to the attic, after many months of him being there searching for them, it's as if he's up there for the first time, opening drawers with cobwebs on them, scattering through drawers like a thief with five minutes and no more. It just undermines the whole premise of a man resolutely devoting his whole devious, murderous life to this one goal. So forget the plot, exactly. It's a MacGuffin. The real movie is in the acting, the characters in their personal wringings out, and in how beautifully it is done."
+      ],
+      "genres": [
+         "Crime",
+         "Drama",
+         "Film-Noir",
+         "Mystery",
+         "Thriller"
+      ],
+      "productionCompanies": ["Metro-Goldwyn-Mayer (MGM)"],
+      "summaries": [
+         "Paula's aunt, Alice Alquist, a famous entertainer, is murdered in her home. Paula, who lives with her aunt, finds the body. Police fail to find the killer, and Paula is sent away to school. Ten years later, Paula returns to London with her new husband. They take up residence in her aunt's house, which she has inherited. Paula is increasingly isolated by her husband but does come to the attention of an admirer of her aunt, Mr. Brian Cameron.",
+         "In London, at 9 Thorton Square, the prima donna Alice Alquist is strangled, and her famous jewels disappear. Her young niece Paula is sent to Italy to study music, and the house stays empty. Ten years later, Paula decides to get married with an older pianist named Gregory Anton, who convinces her to move back to the old address in London. When they arrive, Paula finds a letter from a mysterious and unknown Sergis Bauer, which makes Gregory upset. He psychologically begins to torture Paula, and she has a nervous breakdown and also has insecurity and memory problems. When the Scotland Yard policeman Brian Cameron sees Gregory and Alice in a place popular with tourists, he immediately he sees Paula, who reminds him of her aunt, but he does not know Gregory, and decides to investigate and find evidence to connect Gregory with the unsolved murder, while Paula is being driven insane and menaced by her husband.",
+         "Years after her aunt was murdered in her home, a young woman moves back into the house with her new husband. However, he has a secret that he will do anything to protect, even if it means driving his wife insane."
+      ],
+      "budget": 0
+   },
+   "movielensId": 906,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1944-05-04",
+      "dvdReleaseDate": "2004-02-03",
+      "directors": ["George Cukor"],
+      "runtime": 114,
+      "movieId": 906,
+      "title": "Gaslight",
+      "mpaa": "",
+      "actors": [
+         "Charles Boyer",
+         "Ingrid Bergman",
+         "Joseph Cotten",
+         "Dame May Whitty",
+         "Angela Lansbury",
+         "Barbara Everest",
+         "Tom Stevenson",
+         "Heather Thatcher",
+         "Lawrence Grossmith",
+         "Halliwell Hobbes",
+         "Emil Rameau",
+         "Jakob Gimpel",
+         "Harry Adams",
+         "Joseph North",
+         "Lassie Lou Ahern",
+         "John Ardizoni",
+         "Antonio D'Amore",
+         "Joseph Romantini",
+         "Guy Zanette",
+         "Jack Kirk",
+         "Frank Baker",
+         "Wilson Benge",
+         "Arthur Blake",
+         "Lillian Bronson",
+         "Leonard Carey",
+         "Alec Craig",
+         "Helen Flint",
+         "Gibson Gowland",
+         "Gary Gray",
+         "Roger Gray",
+         "Bobby Hale",
+         "Joy Harington",
+         "Charles McNaughton",
+         "Terry Moore",
+         "Georgie Nokes",
+         "Tarquin Olivier",
+         "Syd Saylor",
+         "Arthur Stone",
+         "Morgan Wallace",
+         "Eric Wilton",
+         "Eustace Wyatt",
+         "Maude Fealy",
+         "Al Ferguson",
+         "Clive Morgan",
+         "Elsie Prescott"
+      ],
+      "imdbMovieId": "0036855",
+      "originalTitle": "Gaslight",
+      "genres": [
+         "Drama",
+         "Mystery",
+         "Thriller",
+         "Crime"
+      ],
+      "youtubeTrailerIds": [
+         "DHnWXNp5tEc",
+         "XVsvTbuCCMQ",
+         "0ToLfQU2xmg"
+      ],
+      "plotSummary": "In the late 19th century, Paula Alquist is studying music in Italy, but ends up abandoning her classes because she's fallen in love with the gallant Gregory Anton. The couple marries and moves to England to live in a home inherited by Paula from her aunt, herself a famous singer, who was mysteriously murdered in the house ten years before. Though Paula is certain that she sees the house's gaslights dim every evening and that there are strange noises coming from the attic, Gregory convinces Paula that she's imagining things. Meanwhile, a Scotland Yard inspector, Brian Cameron, becomes sympathetic to Paula's plight.",
+      "tmdbMovieId": 13528,
+      "avgRating": 4.02764,
+      "releaseYear": "1944",
+      "numRatings": 2279,
+      "posterPath": "/fsgsiJky8bmOqhfcC4Bqzq5Ir1k.jpg"
+   }
+}

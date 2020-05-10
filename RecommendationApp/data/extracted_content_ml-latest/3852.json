@@ -1,0 +1,526 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [{
+         "name": "independent film",
+         "id": 10183
+      }],
+      "imdb_id": "tt0234853",
+      "video": false,
+      "title": "The Tao of Steve",
+      "recommendations": [
+         80919,
+         24071,
+         26195,
+         29150,
+         31948,
+         26791,
+         25641,
+         44801,
+         18451,
+         41302,
+         49963,
+         39140,
+         45675,
+         118991,
+         143136,
+         17836,
+         39497,
+         32235,
+         13574,
+         13856
+      ],
+      "backdrop_path": "/1MlXXUrgdGHHuQx2mzpIlUeH72.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 4,
+               "character": "Dex",
+               "gender": 2,
+               "credit_id": "52fe43e6c3a368484e004d8b",
+               "name": "Donal Logue",
+               "profile_path": "/h0JZ8Hyc9p6sY2jQeJkDcax6UY3.jpg",
+               "id": 10825,
+               "order": 0
+            },
+            {
+               "cast_id": 28,
+               "character": "Beth",
+               "gender": 0,
+               "credit_id": "56056f42c3a3687a7300003d",
+               "name": "Ayelet Kaznelson",
+               "profile_path": null,
+               "id": 1514686,
+               "order": 1
+            },
+            {
+               "cast_id": 29,
+               "character": "Ed",
+               "gender": 0,
+               "credit_id": "56056f569251414193000035",
+               "name": "John Hines",
+               "profile_path": null,
+               "id": 33659,
+               "order": 2
+            },
+            {
+               "cast_id": 31,
+               "character": "Priest",
+               "gender": 2,
+               "credit_id": "5605700fc3a3687a68000050",
+               "name": "John Harrington Bland",
+               "profile_path": "/byKD6U6nlwNYpsQD7XLcD2qrOll.jpg",
+               "id": 1215378,
+               "order": 4
+            },
+            {
+               "cast_id": 32,
+               "character": "Gossipy Woman",
+               "gender": 0,
+               "credit_id": "560571a2c3a3687a71000079",
+               "name": "Jessica Gormley",
+               "profile_path": null,
+               "id": 1514694,
+               "order": 5
+            },
+            {
+               "cast_id": 33,
+               "character": "Gossipy Woman",
+               "gender": 0,
+               "credit_id": "560571b3c3a3687a73000084",
+               "name": "Mercedes Herrero",
+               "profile_path": null,
+               "id": 1514695,
+               "order": 6
+            },
+            {
+               "cast_id": 34,
+               "character": "Gossipy Woman",
+               "gender": 0,
+               "credit_id": "560571c492514141a2000079",
+               "name": "Cheryl Anne Jaroslaw",
+               "profile_path": null,
+               "id": 1514697,
+               "order": 7
+            },
+            {
+               "cast_id": 35,
+               "character": "Maggie",
+               "gender": 0,
+               "credit_id": "560571d3c3a3687a7300008f",
+               "name": "Nina Jaroslaw",
+               "profile_path": null,
+               "id": 1514698,
+               "order": 8
+            },
+            {
+               "cast_id": 36,
+               "character": "Rick",
+               "gender": 2,
+               "credit_id": "560571e6c3a3687a6a000094",
+               "name": "David Aaron Baker",
+               "profile_path": "/nx3eEXBHWZ6eXpqPzeFDhChqF2C.jpg",
+               "id": 60195,
+               "order": 9
+            },
+            {
+               "cast_id": 37,
+               "character": "Julie",
+               "gender": 0,
+               "credit_id": "56057214c3a3687a7300009c",
+               "name": "Dana Goodman",
+               "profile_path": null,
+               "id": 1514699,
+               "order": 10
+            },
+            {
+               "cast_id": 38,
+               "character": "Syd",
+               "gender": 1,
+               "credit_id": "5605722592514141a2000086",
+               "name": "Greer Goodman",
+               "profile_path": null,
+               "id": 99592,
+               "order": 11
+            }
+         ],
+         "crew": [
+            {
+               "gender": 1,
+               "credit_id": "52fe43e6c3a368484e004d81",
+               "name": "Greer Goodman",
+               "profile_path": null,
+               "id": 99592,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe43e6c3a368484e004d87",
+               "name": "Jenniphr Goodman",
+               "profile_path": null,
+               "id": 99593,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5605677f925141026f002226",
+               "name": "Jenniphr Goodman",
+               "profile_path": null,
+               "id": 99593,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5605672f925141026f00221e",
+               "name": "Duncan North",
+               "profile_path": null,
+               "id": 99591,
+               "department": "Writing",
+               "job": "Idea"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5605674cc3a3685c5c0020db",
+               "name": "Duncan North",
+               "profile_path": null,
+               "id": 99591,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5605678c925141027900217a",
+               "name": "Duncan North",
+               "profile_path": null,
+               "id": 99591,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "560567b0c3a3685c49002667",
+               "name": "Anthony Bregman",
+               "profile_path": null,
+               "id": 321,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "560567c59251410282002214",
+               "name": "Alton Walpole",
+               "profile_path": null,
+               "id": 1018091,
+               "department": "Production",
+               "job": "Co-Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56056813c3a3685c4d00228c",
+               "name": "Ted Hope",
+               "profile_path": null,
+               "id": 5952,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5605684ac3a3685c4900267b",
+               "name": "Joe Delia",
+               "profile_path": null,
+               "id": 39107,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "560568a592514102730021bc",
+               "name": "Teodoro Maniaci",
+               "profile_path": null,
+               "id": 32603,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "560568e29251410282002236",
+               "name": "Sarah Gartner",
+               "profile_path": null,
+               "id": 1514674,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56056911c3a3685c44002478",
+               "name": "Rosario Provenza",
+               "profile_path": null,
+               "id": 957243,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56056a7892514102790021bd",
+               "name": "Mark Alan Duran",
+               "profile_path": null,
+               "id": 79251,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56056a90c3a3685c51001fda",
+               "name": "Birgitta Bjerke",
+               "profile_path": null,
+               "id": 9887,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56056d1792514156f6000bf5",
+               "name": "Laura Harris Atkinson",
+               "profile_path": null,
+               "id": 1405232,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56056d2f9251410276002246",
+               "name": "James Becker",
+               "profile_path": null,
+               "id": 1514675,
+               "department": "Sound",
+               "job": "Boom Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56056d49925141026f0022d6",
+               "name": "Patrick Cabral",
+               "profile_path": null,
+               "id": 1423753,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56056d68925141027c002351",
+               "name": "Fred 'Rudy' DeLisio",
+               "profile_path": null,
+               "id": 1514676,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56056dae92514141a800000d",
+               "name": "Will Gethen-Jones",
+               "profile_path": null,
+               "id": 1514677,
+               "department": "Sound",
+               "job": "Boom Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56056dc9c3a3687a71000010",
+               "name": "Hector C. Gika",
+               "profile_path": null,
+               "id": 1406826,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56056e1cc3a3687a6800001d",
+               "name": "Keith McGee",
+               "profile_path": null,
+               "id": 1514678,
+               "department": "Crew",
+               "job": "Special Effects Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56056e44c3a3687a76000015",
+               "name": "Teri Thomson Randall",
+               "profile_path": null,
+               "id": 1514679,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56056e9292514141a2000025",
+               "name": "Joanna Kennedy",
+               "profile_path": null,
+               "id": 1473811,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56056ebc92514141a8000027",
+               "name": "Ellen Osborne",
+               "profile_path": null,
+               "id": 1447831,
+               "department": "Production",
+               "job": "Location Manager"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Romance",
+            "id": 10749
+         }
+      ],
+      "popularity": 3.210764,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 20438,
+      "vote_count": 31,
+      "budget": 0,
+      "overview": "Underachieving, overweight kindergarten teacher Dex finds a woman who forces him to reexamine his Zen-like system of seduction.",
+      "similar": [
+         3134,
+         298312,
+         8810,
+         281,
+         948,
+         4638,
+         10212,
+         11564,
+         43923,
+         133805,
+         2142,
+         12162,
+         1359,
+         4771,
+         431,
+         8923,
+         10285,
+         23483,
+         101,
+         205
+      ],
+      "original_title": "The Tao of Steve",
+      "runtime": 87,
+      "poster_path": "/d24d4YKOVs8pHtvqb8sQGDpDrdN.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Thunderhead Productions",
+            "id": 35929,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Good Machine",
+            "id": 10565,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2000-08-04",
+      "vote_average": 6.1,
+      "belongs_to_collection": null,
+      "tagline": "Why do women find this man irresistible?",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Jenniphr Goodman"],
+      "runtime": 87,
+      "synopsis": null,
+      "writers": [
+         "Duncan North",
+         "Greer Goodman"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0234853/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTc4MzQ2NDQ5N15BMl5BanBnXkFtZTcwOTMzNTcxMQ@@._V1_SY317_CR1,0,214,317_AL_.jpg",
+      "actors": ["Stars: Donal Logue, Ayelet Kaznelson, John Hines | See full cast and crew »"],
+      "reviews": [
+         "The Tao of Steve: Casanova. Lothario. Stud. Whatever the moniker, everyone knows the type: a guy with stunning looks, a killer smile, lines that don't sound like come-ons, a silky smooth demeanor, an athletic build, whose only problem is deciding which women's numbers to cull from his rolodex. Why women gravitate towards these men is no big mystery. Why they are drawn to the Dexes of the world is. Dex doesn't even cut it as \"the average guy\": an overweight, unkempt slacker, he teaches kindergarten, thinks pot is the breakfast of champions, spouts Taoist philosophy and sleeps around enough to be a mattress tester. His life creed is based upon the Steves: Austin, McGarret, McQueen\u0085 men who epitomized cool, weren't afraid to get roughed up, never pursued women and for whom things always worked out. His entire belief system is thrown into disarray when he meets Syd, a bright, headstrong opera set designer, with a flair with life and a sixth sense for B.S.. Suddenly Dex finds himself in the role of pursuer. Good \"relationship movies\" are rare. Rarer still is finding one that approaches the subject from a male's perspective that isn't steeped in machismo and reeking of testosterone. Almost unheard of is to find the selfsame movie with a hilarious comedic tilt. Unlike \"High Fidelity\", the recent pre-midlife crisis movie which only skimmed the surface of relationships (but was a brilliant movie nonetheless), or \"Autumn in New York\" the shameless Rogue-sees-the-light-tear-jerker, \"The Tao of Steve\" is the thinking man's \"About Last Night\" - the intangible mixed with the right amount of brashness. \"Tao's\" success is twofold: it boasts a tight, witty script - how many romantic comedies can you think of that are peppered with quotations from Lao Tzu? - and true to life characters. The \"hero\" is largely biographical, based on a friend of the director's who contributed heavily to the script. The Dexes of the world refuse to ascribe to the accepted maxim of relationships - men chase women get accepted/rejected, repeat if necessary. By adopting a calculated aloofness (not to be confused with jerks - we'll ignore the whole \"Bad Boy Syndrome\" discussion) they engender mystery and curiosity. Although it sounds ridiculous it actually works - I know two guys who could have been the model for Dex (I don't think there would be a strong reverse correlation however, as men generally don't understand signals- we're a bit thick that way\u0085). Psychology and writing aside, the actors definitely bring the story to life. Ottawa born Donal Logue, pulled a DeNiro, gaining 45-pounds for the role of Dex - now that's dedication to the craft. Having seen Logue previously only in bit parts - he has over thirty to his credit - I didn't think he could handle a lead. He quickly dismisses any doubts with his impeccable timing, both dramatic and comedic, which garnered him the Special Jury Prize at the Sundance Film Festival. Logue creates a likable cad whose deviousness we both admire and despise, making his epiphany that much more enjoyable. Greer Goodman (in her first screen role) is an admirable foil as Syd, the woman who cuts through Dex's smokescreen and smashes his carefully cloistered world. If you've grown tired of all that Hollywood has to offer, or more appropriately, what it fails to deliver, this may be the movie for you.",
+         "Dex, the leading male character, has told Syd that he's falling in love with her, and she asks why he doesn't stop seeing other women. He responds, \"Why? So I can bask in the warmth of your annihilating contempt?\" The story of this film meanders much like its good-for-nothing hero, Dex, as we follow him through a slacker routine that allows him to do virtually nothing but pick up women and play games with his male friends. He believes that he has the key to life in the \"Tao of Steve,\" which is essentially a guide to fooling women into having sex with a fat loser--himself. He exclaims, \"Why does the American Slacker get so little respect?\" The clever dialog and the sweetness of Dex's discovery that he actually loves Syd and doesn't really want to be a professional cad all his life makes the movie worth watching. Also fun is the truth in the \"Tao of Steve\" with its three edicts: 1) suppress your desire--and your agenda of getting her into bed 2) be excellent in her presence and 3) retreat. It's true that going into a relationship with nothing else in mind but sleeping with a woman is a huge mistake, and Dex recognizes the wisdom of being cool rather than needy, but then he uses it the wrong way (or the right way, depending on your perspective). We watch him explain his philosophy, use it to manipulate women, and then have to violate it as he finally figures out that while the \"Tao of Steve\" may get him women, it won't get him the one woman he really wants.",
+         "THE TAO OF STEVE (2000) ***1/2 Donal Logue, Greer Goodman, Kimo Wills, Ayelet Kanelson, David Aaron Baker, Nina Jaroslaw, John Hines, Selby Craig, Craig D. Lafayette. (Dir: Jennipher Goodman) Donal Logue. The name may not ring any bells but you've seen him before in countless tv shows (including `The X-Files' as an arrogant fellow agent of Scully's and Mulder's) and films (one of Tom Cruise's fellow agents in `Jerry Maguire' and in this summer's blockbuster `The Patriot' as a racist who sees the error of his ways on the battlefield), but his biggest claim to fame seems to be as the greasy, bespectacled chatterbox philosophizing taxi hack, Jimmy The Cabdriver, in a series of promos for MTV in the '90s. Well all that's about to change in this> starmaking role in a devilishly funny and accurate look at the relationship war between men and women. Logue, who pulls a De Niro by gaining nearly a hundred pounds, stars as Dex, a self-deprecating part-time kindergarten teacher who attends his ten year college reunion in the dusty oasis of Santa Fe, New Mexico where he is told by stunned classmates at his jarringly gone-to-pot visage that he was like Elvis. `Yeah, well now I'm Fat Elvis,' he says with a hip shake and a smirk. It is here the journey begins into Dex's eventual chipping away at the wall of sardonic intelligence he's built since attending the university. Dex has a certain acquired charm that he attributes to his own quasi-philosophy, the film's title, referring to the ultimate in guy coolness as being a Steve (as in McGarrett - the Jack Lord character of `Hawaii Five-O', Austin, `The Six Million Dollar Man' and McQueen, the coolest actor of all time, or any suave icon down the pike: James Bond, James Dean, et al.) - and the opposite being Stu - and the certain guidelines in wooing the opposite sex wrapping up with his ultimate kwon, `We persue that which retreats from us.' At the reunion he bumps into Syd (Goodman, the stunningly attractive sister of the filmmaker), a fellow alumni who turns out to be one of Dex's apparent number of sexual conquests in which he later learns he cannot recall her at all. She is equally self-effacing, smart and opinionated and naturally proves to be the ultimate love of the loveless (`I love my dog') Dex. Here the plot sets into motion the inevitable formula of two people so right for each other yet both guarded, Syd for her share of heartbreaks and Dex for his chronic lying and seductive charisma like some sort of catnip for women including the wife of one of his pals, who he's engaged in a hot affair.Logue makes Dex sympathetic, funny, pathetic, infuriating, likable and ultimately an original character the likes haven't been seen since John Cusack's hey dey in the Eighties and the characters of the 90's indie comedy, `Kicking and Screaming' about arrested development and lifelong search for the perfect love. Dex is an enigma and the joke is that Dex realizes how unsavory he has become which also is the underlying angst he knows all to well: someone with so much potential only wasted by his own hand. Goodman and her sister both excel in portraying women who are smarter than men think and provide the true anchor in a freely funny comedy that also examines one's own frailites and insecurites on a truly appealing level. Co-written by the sisters and Duncan North, the real-life model of Dex, the dialogue rings true in a brilliant string of set ups for Dex to pontificate before he deflates himself in recourse. One of the best films (and comedies) of this year (or any). And remember that name: Donal Logue.",
+         "Entertaining, Insightful, Funny, Moving. This film was a delight to see. Immediately after viewing the DVD I ran the director's commentary that was nearly as entertaining to listen to as the film was! All of the participants in the commentary (including the director, writer, and both leads) were intelligent, amusing, and and very entertaining: I wanted to invite them all over for dinner and play poker and talk philosophy (and of course, the Tao of Steve) until dawn. I take that back, after viewing the stunning photography of the film, I want them to invite *me* to dinner in Sante Fe! I did have to stop the film to look up solipsistic, though <g>. I want to see more where this came from and so will you if you choose to view this wonderful film!",
+         "no wonder this thing snagged donal logue top acting honors at the 2000 sundance festival, but i don't know what the better script could've been. this thing has it all: guy talk, girl talk, echoes and resonance, love and respect for all its characters, wit, poignancy, politics, uplift, a tremendous depth and breath of literary allusion, and a substantial dose of digestible philosophy from some of the greatest minds of world thought. seriously, this may be the first movie to quote Kirkegaard and george jetson in the same scene and make them both look wise. it's a movie about love, about wisdom, about fun, but mostly it's about learning real values and gaining all the rest through learning to be the best person you can be. that's a big load for such a funny film, but this one handles it all and then some. this doesn't mention the beautiful sets, the music (original, appropriate, and inventive, though probably the film's weakest suit)the cute kids and the celebration of contemporary gentle-souled hipster lifestyles. AND it's only 82 minutes long, you can almost fit it in on a lunch break but it will last you far longer than that. thanks so much to Greer and Jenniphr Goodman for their script and direction. from all us steve wannabes, but actual duncan north's of the world, thank you!",
+         "This is a movie that opened my eyes to the world of dating and one-night stands. It is about an overweight and scruffy-looking dude that is a womanizer. Dex doesn't fit the stereotype of a womanizer (slick and fast talking, usually well-dressed and clean shaven). That was the genius behind this film. This is a movie that a lot of people should eventually get wind of and will possibly see. Not many critics consider it a classic, but I think qualifies for title of \"minor classic.\" I give it a 10 out of 10.",
+         "Some have complained that this film doesn't say anything serious about Taoism; others have complained about its dialogue being watered-down from what could have been a super-verbose \"Dinner w/ Andre.\" Sorry - this from a film student who abhors \"my dinner w/ andre\" - thank God this film ended up as eminently watchable as it was. I avoided seeing it for a long time because I feared exactly the opposite. Firstly, the central observation this film makes about human nature is so spot-on -- namely, that every relationship is comprised of someone chasing and someone being chased -- that almost no direction it could have taken from there would have undermined the essential honesty of it. But framing, as it did, a story of boy meets girl, forgets he slept with her in college, strikes out, becomes desperate, finally gets her back by going against every rule in the book, the story becomes a smart, no-nonsense telling of a quintessential human drama that resonates realistically on so many levels. People have said it's a chick movie; it's not. It's a movie for guys who fear intimacy, its essential message being that a relationship of real value can never be condensed from the vaporous nuance of gamesmanship, slyness, intellect or skill. But at the same time, it demonstrates very realistically how all the above can combine to get the average guy laid far more than he deserves. So not only is it valuable on both these levels, it leaves you nodding your head so many times, mumbling, \"that's so f*ing true,\" that by the end you're pretty much ready to write your own Tao of Steve -- a better one -- and isn't that kind of inspiration the loftiest goal of any good and truthful work of art?",
+         "\"The Tao of Steve\" tells of a fat slob of a guy who seems to have unusually good fortune in bedding chicks thanks to his Taoist philosophy. Although the flick smells like a young indie, it is fresh, creative, and unique enough to take on a seemingly endless parade of second rate romantic comedies sans the 24 carat glamour and other trappings of Hollywood. \"The Tao...\" is a great watch for anyone interested in what independent films are about and an enjoyable watch for most. Kudos to the Goodmans.",
+         "This movie is that extremely rare blend of \"guy movie\" and \"chick flick\". Every guy can relate to this and most women will enjoy the (twisted) love story. Dex is the ultimate slacker - part time worker, pot smoker, over-eater and heavy drinker. His life is based on emulating the coolness of Steve McGarrett (Hawaii 5-0), Steve Austin (6 Million Dollar Man) and the ultimate in coolness, Steve McQueen. Hence, the Tao of Steve. Dex has claimed for his own a part of Zen philosophy which has made him remarkably successful in seducing women. Syd changes everything. She is an independent, career minded, drum spanking, beautiful woman that doesn't appear to fall for Dex's charms. The chase is on. Dex pulls out all stops, until his past catches reaches up and grabs him. Syd and Dex have a strange relationship that never allows either to fully define the boundaries. There is an obvious attraction, but Syd's contempt for Dex and his methods always throws up the road block. Of course, Dex does some soul searching after a health scare (that seems out of place in the movie) and the somewhat predictable ending,nonetheless brings a smile to our faces. Donal Logue give a brilliant performance as Dex, and Greer Goodman is enchanting as Syd. Greer is the sister of the movie's director, Jenniphr Goodman, and also shared in the writing credits. Take note of the soundtrack as it adds a layer to the script, which itself is loaded with great lines. Go see this movie. And it will work as a date movie.",
+         "This is a somewhat endearing indie flick, but it suffers from an amateurish script and inexperienced directing. For a movie that has the potential to be pretty funny, it takes itself far too seriously. The protagonist's 'stoner wittiness' becomes pretty monotonous and annoying preachy. If the movie concentrated less on being hip and ironic, and more on the characters, the film would be better."
+      ],
+      "genres": [
+         "Comedy",
+         "Drama",
+         "Romance"
+      ],
+      "productionCompanies": [
+         "Good Machine",
+         "Thunderhead Productions"
+      ],
+      "summaries": [
+         "In his early 30s, the beer-bellied Dex has things figured out. He's widely read in philosophy, he's studied Steve McQueen the prototypical cool American hero, and he's distilled Buddhism and Taoism into three laws that make him a hit with women: don't express desire, do something heroic in front of her, then retreat. A part-time job with young children, beer, guys, Frisbee golf, pool, poker, his dog Astro, and sex: what could be missing? Then, at his ten-year college reunion, Dex meets Syd, and the \"Tao of Steve\" may not be enough to get him what he wants. Plus, Syd remembers something important that Dex has forgotten. Can a cool smart guy, 50 pounds overweight, find his bliss?",
+         "Underachieving, overweight kindergarten teacher Dex finds a woman who forces him to reexamine his Zen-like system of seduction."
+      ],
+      "budget": 0
+   },
+   "movielensId": 3852,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2000-08-04",
+      "dvdReleaseDate": "2001-03-20",
+      "directors": ["Jenniphr Goodman"],
+      "runtime": 87,
+      "movieId": 3852,
+      "title": "The Tao of Steve",
+      "mpaa": "R",
+      "actors": [
+         "Donal Logue",
+         "Ayelet Kaznelson",
+         "John Hines",
+         "John Harrington Bland",
+         "Jessica Gormley",
+         "Mercedes Herrero",
+         "Cheryl Anne Jaroslaw",
+         "Nina Jaroslaw",
+         "David Aaron Baker",
+         "Dana Goodman",
+         "Greer Goodman"
+      ],
+      "imdbMovieId": "0234853",
+      "originalTitle": "The Tao of Steve",
+      "genres": [
+         "Comedy",
+         "Romance"
+      ],
+      "youtubeTrailerIds": [],
+      "plotSummary": "Underachieving, overweight kindergarten teacher Dex finds a woman who forces him to reexamine his Zen-like system of seduction.",
+      "tmdbMovieId": 20438,
+      "avgRating": 3.47686,
+      "releaseYear": "2000",
+      "numRatings": 1923,
+      "posterPath": "/d24d4YKOVs8pHtvqb8sQGDpDrdN.jpg"
+   }
+}

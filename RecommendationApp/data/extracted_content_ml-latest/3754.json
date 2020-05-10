@@ -1,0 +1,556 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "adventure",
+            "id": 4414
+         },
+         {
+            "name": "cartoon",
+            "id": 6513
+         },
+         {
+            "name": "comedy",
+            "id": 10267
+         },
+         {
+            "name": "breaking the fourth wall",
+            "id": 11687
+         },
+         {
+            "name": "talking to the camera",
+            "id": 15067
+         },
+         {
+            "name": "road movie",
+            "id": 167043
+         },
+         {
+            "name": "celebrity cameo",
+            "id": 196726
+         }
+      ],
+      "imdb_id": "tt0131704",
+      "video": false,
+      "title": "The Adventures of Rocky & Bullwinkle",
+      "recommendations": [
+         30502,
+         11511,
+         17709,
+         11041,
+         9438,
+         23685,
+         21780,
+         13997,
+         18975,
+         16888,
+         12772,
+         31220,
+         12596,
+         9622,
+         11508,
+         20726,
+         17745,
+         9066,
+         23945,
+         37108
+      ],
+      "backdrop_path": "/cIPxnFC31aYSnCIoyG8kNeYnRmP.jpg",
+      "revenue": 35134820,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Natasha",
+               "gender": 1,
+               "credit_id": "52fe47429251416c7509314d",
+               "name": "Rene Russo",
+               "profile_path": "/aaPzuXRHdyxamPMXqu70okPaqvB.jpg",
+               "id": 14343,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Boris",
+               "gender": 2,
+               "credit_id": "52fe47429251416c75093151",
+               "name": "Jason Alexander",
+               "profile_path": "/ernpSXp2RnkzeV14OEEKXRq1yND.jpg",
+               "id": 1206,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Karen Sympathy",
+               "gender": 1,
+               "credit_id": "52fe47429251416c75093155",
+               "name": "Piper Perabo",
+               "profile_path": "/mbppilPlKFHes1kGouS3kRMxzgq.jpg",
+               "id": 15555,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Cappy von Trapment",
+               "gender": 2,
+               "credit_id": "52fe47429251416c75093159",
+               "name": "Randy Quaid",
+               "profile_path": "/7rywy6gbSTG60xQWepRktD0feek.jpg",
+               "id": 1811,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Fearless Leader",
+               "gender": 2,
+               "credit_id": "52fe47429251416c7509315d",
+               "name": "Robert De Niro",
+               "profile_path": "/lvTSwUcvJRLAJ2FB5qFaukel516.jpg",
+               "id": 380,
+               "order": 4
+            },
+            {
+               "cast_id": 9,
+               "character": "Whoppa chopper pilot / Ohio cop with bullhorn / Old Jeb",
+               "gender": 2,
+               "credit_id": "52fe47429251416c75093173",
+               "name": "Jonathan Winters",
+               "profile_path": "/j63YOBYEXhbDWbXUnqD3gb5KJ5k.jpg",
+               "id": 13593,
+               "order": 5
+            },
+            {
+               "cast_id": 10,
+               "character": "Rocky / Cartoon Natasha Fatale / Narrator's Mother",
+               "gender": 1,
+               "credit_id": "52fe47429251416c75093177",
+               "name": "June Foray",
+               "profile_path": "/rb4iVQ5kP6m138i7CME4Uw5fzc7.jpg",
+               "id": 15098,
+               "order": 6
+            },
+            {
+               "cast_id": 11,
+               "character": "Bullwinkle / Narrator / Cartoon Boris Badenov / Cartoon Fearless Leader",
+               "gender": 1,
+               "credit_id": "52fe47429251416c7509317b",
+               "name": "Keith Scott",
+               "profile_path": "/i993DFNs8Mcy4Q5L9BaNbiQ2kkV.jpg",
+               "id": 94979,
+               "order": 7
+            },
+            {
+               "cast_id": 12,
+               "character": "Minnie Mogul",
+               "gender": 1,
+               "credit_id": "52fe47429251416c7509317f",
+               "name": "Janeane Garofalo",
+               "profile_path": "/jwZs05qdp8kh6IwfECxDyRrteK8.jpg",
+               "id": 21197,
+               "order": 8
+            },
+            {
+               "cast_id": 13,
+               "character": "P.G. Biggershot",
+               "gender": 2,
+               "credit_id": "52fe47429251416c75093183",
+               "name": "Carl Reiner",
+               "profile_path": "/AtDqJQkl7dH2m19kPio3cosfbes.jpg",
+               "id": 1895,
+               "order": 9
+            },
+            {
+               "cast_id": 14,
+               "character": "Oklahoma Cop",
+               "gender": 2,
+               "credit_id": "52fe47429251416c75093187",
+               "name": "John Goodman",
+               "profile_path": "/eOIx8zj1vYIRhVY2bK5cjIQfua0.jpg",
+               "id": 1230,
+               "order": 10
+            },
+            {
+               "cast_id": 15,
+               "character": "Lewis",
+               "gender": 2,
+               "credit_id": "52fe47429251416c7509318b",
+               "name": "Kenan Thompson",
+               "profile_path": "/As3n7ZdAoUnaB39Jl19eJBZOPbl.jpg",
+               "id": 77330,
+               "order": 11
+            },
+            {
+               "cast_id": 16,
+               "character": "Martin",
+               "gender": 2,
+               "credit_id": "52fe47429251416c7509318f",
+               "name": "Kel Mitchell",
+               "profile_path": "/kTfHpQKJlMdWR5vYsJRpu5h6OB9.jpg",
+               "id": 59645,
+               "order": 12
+            },
+            {
+               "cast_id": 17,
+               "character": "Measures",
+               "gender": 2,
+               "credit_id": "52fe47429251416c75093193",
+               "name": "David Alan Grier",
+               "profile_path": "/5tkt3qRZTco4sz604aTIarQ0m8W.jpg",
+               "id": 58563,
+               "order": 13
+            },
+            {
+               "cast_id": 19,
+               "character": "RBTV Lackey",
+               "gender": 1,
+               "credit_id": "56c5d9449251415475000a9d",
+               "name": "Drena De Niro",
+               "profile_path": "/lTIcKFCZ7T1RllUKe2CwkqS1qzb.jpg",
+               "id": 93015,
+               "order": 14
+            },
+            {
+               "cast_id": 21,
+               "character": "Sydney",
+               "gender": 1,
+               "credit_id": "56c5d96f9251412449003012",
+               "name": "Lily Nicksay",
+               "profile_path": "/6YXv4mwL9R1NNXHjid793RQpn2E.jpg",
+               "id": 166896,
+               "order": 15
+            },
+            {
+               "cast_id": 24,
+               "character": "FBI Agent - Radish",
+               "gender": 1,
+               "credit_id": "56d0481ec3a3681e3e0066ba",
+               "name": "Jane Edith Wilson",
+               "profile_path": "/tyyQ9hE982DsZrLqT7eeSXwB3ml.jpg",
+               "id": 156980,
+               "order": 16
+            },
+            {
+               "cast_id": 23,
+               "character": "FBI Agent - Potato",
+               "gender": 2,
+               "credit_id": "56c5d9b8c3a3680d4400332b",
+               "name": "Mark Holton",
+               "profile_path": "/vQJ3iEDVhVOJX7biIbIG5R6QByq.jpg",
+               "id": 44818,
+               "order": 17
+            },
+            {
+               "cast_id": 32,
+               "character": "FBI Agent - Carrot",
+               "gender": 2,
+               "credit_id": "5aa02add0e0a2632770119e6",
+               "name": "Doug Jones",
+               "profile_path": "/rpvvWATYWHGjedJea0G97XufOwU.jpg",
+               "id": 17005,
+               "order": 18
+            },
+            {
+               "cast_id": 25,
+               "character": "Left-Wing Student",
+               "gender": 1,
+               "credit_id": "5854804f92514146c90249f9",
+               "name": "Taraji P. Henson",
+               "profile_path": "/rxnEvzGlRBsE94s7lC4cMAiLluH.jpg",
+               "id": 40036,
+               "order": 19
+            },
+            {
+               "cast_id": 26,
+               "character": "Judge Cameo",
+               "gender": 1,
+               "credit_id": "58786caec3a3683ee2003f8a",
+               "name": "Whoopi Goldberg",
+               "profile_path": "/n3lF8w4X4rDa4J2LMDIxMEcuUeH.jpg",
+               "id": 2395,
+               "order": 20
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe47429251416c75093163",
+               "name": "Des McAnuff",
+               "profile_path": "/1qcbrutvM9P9HAVW5dFWjQRrhPR.jpg",
+               "id": 588701,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe47429251416c75093169",
+               "name": "Jay Ward",
+               "profile_path": null,
+               "id": 209628,
+               "department": "Writing",
+               "job": "Characters"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47429251416c7509316f",
+               "name": "Kenneth Lonergan",
+               "profile_path": "/2VZbGC1JryrxLdH6KuSTdhIBSzt.jpg",
+               "id": 30711,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5523e2cac3a3680bb6002c5d",
+               "name": "Heiko Drengenberg",
+               "profile_path": null,
+               "id": 1450350,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5910c9749251414ead034896",
+               "name": "Thomas E. Ackerman",
+               "profile_path": "/xFDbxk53icM1ofL4iCIwB4GkUxN.jpg",
+               "id": 11371,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "593c9f81c3a3680f4201597d",
+               "name": "Robert De Niro",
+               "profile_path": "/lvTSwUcvJRLAJ2FB5qFaukel516.jpg",
+               "id": 380,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "593c9f9b92514105870153a9",
+               "name": "Jane Rosenthal",
+               "profile_path": "/27kF1hHoebcYfnUq2IvhTU45h9A.jpg",
+               "id": 3305,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "593c9fcd925141058f015e8a",
+               "name": "Mark Mothersbaugh",
+               "profile_path": "/AoQ4Prrg039LlQiwBNANXn8VVkg.jpg",
+               "id": 5666,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 2,
+               "credit_id": "593c9ff492514105870153f0",
+               "name": "Dennis Virkler",
+               "profile_path": null,
+               "id": 5584,
+               "department": "Editing",
+               "job": "Editor"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Adventure",
+            "id": 12
+         },
+         {
+            "name": "Animation",
+            "id": 16
+         },
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Family",
+            "id": 10751
+         }
+      ],
+      "popularity": 6.945559,
+      "production_countries": [
+         {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+         },
+         {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+         }
+      ],
+      "id": 17711,
+      "vote_count": 114,
+      "budget": 76000000,
+      "overview": "Rocky and Bullwinkle have been living off the finances made from the reruns of their cartoon show. Boris and Natasha somehow manage to crossover into reality and team up with Fearless Leader, an evil criminal turned media mogul with some evil plans up his sleeve. Rocky and Bullwinkle must stop the three of them before they wreak havoc.",
+      "similar": [
+         812,
+         2300,
+         62206,
+         703,
+         435126,
+         325346,
+         58492,
+         32030,
+         66118,
+         42639,
+         47342,
+         48658,
+         48651,
+         84594,
+         432641,
+         299114,
+         181441,
+         48653,
+         84250,
+         79934
+      ],
+      "original_title": "The Adventures of Rocky & Bullwinkle",
+      "runtime": 88,
+      "poster_path": "/pjzt6S76Uumm0aZtxNAVhDCLQ0P.jpg",
+      "spoken_languages": [{
+         "name": "Pусский",
+         "iso_639_1": "ru"
+      }],
+      "production_companies": [
+         {
+            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+            "name": "Universal Pictures",
+            "id": 33,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": null,
+            "name": "Capella International",
+            "id": 594,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "KC Medien AG",
+            "id": 596,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Tribeca Productions",
+            "id": 11391,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2000-06-30",
+      "vote_average": 3.9,
+      "belongs_to_collection": null,
+      "tagline": "This summer it's not the same old bull.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Des McAnuff"],
+      "runtime": 92,
+      "synopsis": null,
+      "writers": [
+         "Jay Ward",
+         "Kenneth Lonergan"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0131704/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMzI0Mzk2NzcwNV5BMl5BanBnXkFtZTcwNjYyNTkxMQ@@._V1_SY317_CR1,0,214,317_AL_.jpg",
+      "actors": ["Stars: Robert De Niro, Rene Russo, Piper Perabo | See full cast and crew »"],
+      "reviews": [
+         "I was really surprised at how much I liked this movie. R&B are brought magically to life in the real world, and still have the same magic in their camraderie. People complained that the puns were stupid and that the humor was aimed at adults. Hello? That's exactly what made the original cartoon so great. R&B's observations on contemporary society are hilarious. The film also pokes fun at politicians, the legal system, and our addiction to TV, with a riotous sendup of \"Cops\". The film is quite satisfying whenever R&B are onscreen. When it's just the human actors, things get a little dull. DeNiro, Alexander and Russo all are decent, but these performances would be criticized no matter who was playing them, with the possible exception of Jim Carrey. The best human performer is Piper Pirabo, a total hottie. She has been criticized for a bad performance, but I thought she did a great job. It's not Oscar material, it won't gross $100 million, and it's not deep social commentary, but it sure is fun. Anybody with a sense of humor would be hard-pressed not to smile and feel good on the inside after seeing this. I just hope they make a sequel. Rocky & Bullwinkle forever!!!!",
+         "I loved this movie to pieces each of the 4 times I saw it in the theater! Apparently not everybody was privileged to be born in 1955 and spend a childhood marinating in the Cold War puns and snarky anti-corporate digs of the original TV show. This movie brought it all back; if you had nothing to be brought back to . . . well, it's your loss. Renee Russo is fabulously snakey as Natasha, and tho' Rocket J. Squirrel couldn't improve on the original, that's because he was voiced by the original, the unsinkable June Foray. The only people who need to apologize for this movie are its promoters, who never figured out how to hook its natural audience of 40-somethings. I can't wait for the remake of Fractured Fairy Tales.",
+         "Why is this movie so bad? Why am I reading that people enjoyed this? It's embarrassing, the acting is awful, the script is even worse. This is a slap in the face to all of those who love Rocky and Bullwinkle. People are defending it, saying that it carries the same type of humor over from the TV show, and I'll have to agree, but it's not funny. It just doesn't work. So sad.",
+         "I remember watching the television show (on tape) of Rocky and Bullwinkle. It was one of the best TV shows ever in my childhood. This film brings back the memories of not only that TV show, but the film Who Framed Roger Rabbit (combining animation and live action). This time, Rocky and Bullkwinkle leave their comic world existence and come into the real world to find the real live actors who played the bad guys- Natasha Fatale (Renee Russo), Boris Badenov (Jason Alexander), and in one of his best performances ever, Robert De Niro whp plays Fearless Leader (who knew De Niro could do a impression of himself from taxi driver). Great and funny entertainment, with many vintage things and cameos make this a must see for kids (who will like the characters, parents and adults (who will enjoy the 3 main bad guys) and film buffs. A+",
+         "Rocky the Flying Squirrel is a character who appeared in a TV series named for him dating from the late 1950s to the early 1960s. Decades later, filmmakers who are probably fans of the show's characters try to make a film, and try to revive them. At first, I had no idea that the film flopped at the box office because I was not following it. This was until I read about it on Wikipedia. It was there I found out. I find it hard to believe how a film featuring a famous TV character could bomb. Films bomb at the box office either because of negative reviews from critics or insufficient marketing. But in the case of The Adventures of Rocky and Bullwinkle, the reason is unknown. Perhaps it has something to do with which the filmmakers choose who gets to play who in the film. If a lad were selected to be Rocky, I guess the film might have been much more financially successful.",
+         "Another relic from the \"let's make a live-action movie from an old cartoon\" fad from decades ago. Better than most of the others, but it still doesn't work, even with the decision to keep Rocky and Bullwinkle as toons rather than use, say, people in animal costumes. A full-fledged cartoon version would have been far better. The human actors don't fit in with their cartoon counterparts. Robert DeNiro certainly didn't fit the part of Fearless Leader (they should have given that role to Nicholas Cage, who had a more suitable physique). We could have done without \"Nothing But A Dreamer\" by Supertramp either (the cartoon didn't have music, other than the theme and some \"dramatic effect\" chords at times) This effectively spoiled the old cartoon atmosphere, and the story itself was meandering and ultimately boring and pointless. For the running time, they could have done so much more. Intended for fans of the old cartoon, but probably won't satisfy most of them.",
+         "One thing that was misleading: the cover of the VHS (or DVD) shows Robert De Niro, Rene Russo and Jason Alexander but those three do NOT have major roles or a lot of lines in this picture. Most of the lines are by an unknown name: actress Piper Perabo (\"FBI Agent Karen Sympathy)\" and the two cartoon characters. This is another one of these live-action cartoons in which some characters are real-life and others are cartoons and the all interact on screen at once. This comedy has a lot more subtle than laugh-out-loud lines. It's decent, and does have a certain appeal but is not as good as I expected after reading a couple of reviews prior to its release. I think it has an equal appeal for kids or adults.",
+         "My Take: Yet another lame attempt to put animation into flesh-and-blood reality. \"This is not a cartoon, this is the real world!\", claims rookie FBI agent Karen Sympathy, played by Piper Perabo, and I wish I can say the same thing about THE ADVENTURES OF ROCKY AND BULWINKLE. It has a big budget, which it spends on fancy cartoonish sets and other bizarre gimmicks, for what? To make it look like a cartoon! This results into a lot of things that we could prefer seeing in a Saturday morning cartoon. But as a movie, it's pretty hard to see why this was such a favorite cartoon during the early '60's. This is one of the most ineffective and unfunny movies I've seen in a while. And if your not convinced, lets move to to the casting. Lets see, Robert De Niro as Fearless Leader and Jason Alexander and Rene Russo as his bumbling minions. Okay, now your convinced. The film uses the technique of putting animated characters in real-live settings and real actors. This was done many times since films in the 80's like WHO FRAMED ROGER RABBIT and, recently SPACE JAM. And like SPACE JAM, although not quite as bad, ROCKY AND BULWINKLE enjoys too much with the playfulness of its cartoon characters that they forget that they're making a feature film here. So, it has not much to tell and can't even afford to make jokes that really work. The film is basically a cartoon on a live action movie (which is made just as cartoonish as the animated world). Animated evil mastermind Fearless Leader (De Niro) and his henchmen have crossed the boundaries of an animated world and arrive in our 4-dimensional world and start a TV company called RBTV, meaning \"Really Bad Television\" (how prophetic), and turn people to mindless drones with their horrible cable shows. The FBI sends a rookie agent (Perabo) to protect still-animated Rocky and Bulwinkle from being zapped, allowing the megalomaniac from ruling the world. And as the story goes, the laughs and silliness get even worse. The film hardly made me laugh, and no head-hitting, car-crashing and any other mishap to change my mind about that. They should know they're making a motion picture here, not a an episode of Bugs and Daffy (which, at least, is better than this). Despite its budget, director Des McAnuff instead spends it on silly cartoonish gimmicks that, joined in with the corny laughs (if you'd call it laughs) and embarrassed leads, it can all be summed up in a 30 minute animated feature for TV, not an 88 minute film. Still, I did find one thing that was quite bearable in this walking disaster waiting to happen, and that is the entertaining cameos. How many movies can you see well-known (and then well-known) talents like Whoppi Goldberg, John Goodman, Kenan (Thompson) and Kel (Mitchell) and Billy Crystal just to name a few. Their cameos thankfully lightens up my high criticism for the film, but that doesn't stop me from giving it a big thumbs down. Still, I won't discourage you from letting the kids see it, for it's mainly made for them and they might be the only ones who'll enjoy it. Rating: * out of 5.",
+         "Movies that aren't serious can be really fun, this one however is an exception from that statement. I know it's supposed to be silly, to be wacky and hilarious but it just doesn't do it for me. The green/blue screen effects are extremely bad and throughout the movie I never felt that the animated characters were \"real\". The puns in this movie was over-used as well along with the bad script and I think that's what destroyed it the most for me. Now don't get me wrong: an unserious storyline can still make the watcher believe it by using the right tools. But a script that bad made the storyline completely unbelievable and breaking the fourth wall is something you should not over-use even if you want the comedic effect to become stronger. Why is that? Because breaking the fourth wall is a great way to make the audience get shocked since the actors are breaking a rule there, which catches their attention immediately. If you over-use this, however, the effect gets worn off to the point where it just gets annoying. In some shots there's some filming-errors as well such as too much headroom, unnecessary space where it's not needed since it doesn't provide any information, lack of contrast balance between the green/blue screen shots and the objects/people and etc. Perhaps something you don't think about too much, but can be extremely annoying if it constantly occurs. This is also the reason why it looks like a really really bad B- movie from the 80's personally. The acting overall was pretty okay, even though there were in some places in the movie where it was noticeable that the actors didn't really did their roles seriously which made it harder to believe the story. All in all, a bad movie.",
+         "As somebody who hasn't any recollection of watching any Rocky and Bullwinkle cartoons, I stumbled across this film on TV, I had no expectations of what it was. If anything I thought it would be rubbish. As most kids films take themselves really serious, and they are just plain lame - The Mummy springs to mind, good guys get chased by bad guys but the good guys just escape in time... yeah yeah yeah... boring. back to the film, it really doesn't take itself serious, and if you watch it in the frame of mind of watching a normal cartoon, it sticks to that formula really well, even using real characters - using the best actors in the industry certainly helped, to make it not be cheesy. The film is also littered with references to other films. The moose is nearly the same as Homer Simpson, so if you like him, you'll love the stupidity of the moose. I never watch stuff like this but was mightily impressed that it was spot on in what it was trying to be. Voice-over man was entertaining too, like in Wacky Races or Terry Wogan with the Eurovision TV show! Recommended!"
+      ],
+      "genres": [
+         "Animation",
+         "Adventure",
+         "Comedy",
+         "Family",
+         "Fantasy"
+      ],
+      "productionCompanies": [
+         "Capella International",
+         "KC Medien",
+         "Tribeca Productions"
+      ],
+      "summaries": [
+         "35 years after The Rocky and Bullwinkle Show's cancellation, our two TV heroes have been living off the finances of their reruns on TV. To make matters worse, Rocky has lost his ability to fly, and the trees in Frostbite Falls have all been cut down. Meanwhile, over in Pottsylvania, home of Rocky and Bullwinkle's arch enemies Fearless Leader, Boris, and Natasha, the Iron Curtain has fallen, leading the villains to leave Pottsylvania, and dig through a tunnel all the way to the TV of a Hollywood Producer, Minnie Mogul. She signs a contract, giving her the rights to produce the Rocky and Bullwinkle Movie, and accidentally pulls the three villains out of the TV, turning them into humans! Now, they have an evil plan to hypnotize America, using RBTV (Really Bad TeleVision), making everyone's mind mush, so he can go on to the TV, and get everyone to vote him President of the USA! However, new FBI Agent Karen Sympathy has an assignment--get the only ones who could ever defeat the villains- Rocky and Bullwinkle. Using a green light lighthouse, Rocky and Bullwinkle (and their Narrator) are sucked out of the TV world, and to real life as 3D computer-generated characters! With all of America being hypnotized, and Fearless Leader's evil speech in 48 hours, and Boris and Natasha giving chase, planning to use a computer laser to send destroy moose and squirrel, it's Rocky, Bullwinkle, and Karen on a hilarious, pun-filled, and cameo-filled adventure to New York by plane, car, truck, hoof, flying squirrel, and yes, e-mail, to stop Fearless Leader and save America!",
+         "In 1964 the Rocky and Bullwinkle Show went off air and life became very depressing for Bullwinkle J. Moose and Rocket J. Squirrel. Their home Frostbite Falls had become crippled by years of re-runs, the forests are in deforestation and the once majestic falls now a sludge waterfall. In Pottsylvania, Fearless Leader, Boris Badenov and Natasha Fatale are having tough times too when the Iron Curtain collapses on them and the citizens of the country become free. However, Fearless Leader comes up with a daring plan and he and his minions dig all the way to Los Angeles. Then in a film studio, they meet with Minnie Mogul, who is looking for a not-so intelligent film script which she can make as her own. From within a television set, the villains convince her to produce the \"Rocky and Bullwinkle Movie\" by signing a contract which will give her all rights to the old show. She signs the contract, and then pulls it out of the television, bringing the villains with it and turning them into live-action stars. The villains claim they came because they were \"attached to the project.\" Now, they have an evil plan to ultimately hypnotize America, using RBTV, which stands for \"Really Bad Television\" making everyone's mind mush, so he can go on to the TV, and get everyone to vote him as President of the USA! Meanwhile Rocky and Bullwinkle are sucked out of the TV world, and turned into real life as 3D computer-generated characters! It's all up to Rocky, Bullwinkle and FBI Agent Karen Sympathy to put an end of Fearless Leader's plans and save America before they wreak havoc!",
+         "Rocky and Bullwinkle have been living off the finances made from the reruns of their cartoon show. Boris and Natasha somehow manage to crossover into reality and team up with Fearless Leader, an evil criminal turned media mogul with some evil plans up his sleeve. Rocky and Bullwinkle must stop the three of them before they wreak havoc.",
+         "After producer Minnie Mogul signs a contract that brings cartoon villains Fearless Leader, Boris Badenov, and Natasha Fatale start a villainous TV station \"RBTV (Really Bad TeleVision)\", warm-hearted FBI Agent Karen Sympathy must obtain the help of Rocky and Bullwinkle to help to save the country from being hypnotized by Fearless Leader's plan.",
+         "When enemies Boris, Natasha and Fearless leader escape into the real world with a nefarious scheme, Rocky & Bullwinkle do the same and team up with a young F.B.I. agent to stop the trio."
+      ],
+      "budget": 76000000
+   },
+   "movielensId": 3754,
+   "movielens": {
+      "languages": ["Pусский"],
+      "releaseDate": "2000-06-30",
+      "dvdReleaseDate": "2001-02-13",
+      "directors": ["Des McAnuff"],
+      "runtime": 88,
+      "movieId": 3754,
+      "title": "The Adventures of Rocky & Bullwinkle",
+      "mpaa": "PG",
+      "actors": [
+         "Rene Russo",
+         "Jason Alexander",
+         "Piper Perabo",
+         "Randy Quaid",
+         "Robert De Niro",
+         "Jonathan Winters",
+         "June Foray",
+         "Keith Scott",
+         "Janeane Garofalo",
+         "Carl Reiner",
+         "John Goodman",
+         "Kenan Thompson",
+         "Kel Mitchell",
+         "David Alan Grier",
+         "Drena De Niro",
+         "Lily Nicksay",
+         "Jane Edith Wilson",
+         "Mark Holton",
+         "Taraji P. Henson",
+         "Whoopi Goldberg"
+      ],
+      "imdbMovieId": "0131704",
+      "originalTitle": "The Adventures of Rocky & Bullwinkle",
+      "genres": [
+         "Action",
+         "Adventure",
+         "Animation",
+         "Comedy",
+         "Family"
+      ],
+      "youtubeTrailerIds": ["zRADwNEWW6c"],
+      "plotSummary": "Rocky and Bullwinkle have been living off the finances made from the reruns of their cartoon show. Boris and Natasha somehow manage to crossover into reality and team up with Fearless Leader, an evil criminal turned media mogul with some evil plans up his sleeve. Rocky and Bullwinkle must stop the three of them before they wreak havoc.",
+      "tmdbMovieId": 17711,
+      "avgRating": 2.2101,
+      "releaseYear": "2000",
+      "numRatings": 1792,
+      "posterPath": "/pjzt6S76Uumm0aZtxNAVhDCLQ0P.jpg"
+   }
+}

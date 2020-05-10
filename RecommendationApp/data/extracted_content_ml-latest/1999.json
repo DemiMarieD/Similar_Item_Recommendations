@@ -1,0 +1,860 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "death penalty",
+            "id": 2122
+         },
+         {
+            "name": "suspicion of murder",
+            "id": 2619
+         },
+         {
+            "name": "exorcism",
+            "id": 2626
+         },
+         {
+            "name": "doomed man",
+            "id": 3440
+         },
+         {
+            "name": "investigation",
+            "id": 5340
+         },
+         {
+            "name": "priest",
+            "id": 10093
+         },
+         {
+            "name": "psychiatric hospital",
+            "id": 10323
+         },
+         {
+            "name": "series of murders",
+            "id": 14676
+         },
+         {
+            "name": "missing person",
+            "id": 156091
+         }
+      ],
+      "imdb_id": "tt0099528",
+      "video": false,
+      "title": "The Exorcist III",
+      "recommendations": [
+         11586,
+         12700,
+         11026,
+         16288,
+         26515,
+         16281,
+         9638,
+         10768,
+         10676,
+         9599,
+         13550,
+         8973,
+         11133,
+         16337,
+         10766,
+         24929,
+         11415,
+         15762,
+         10576,
+         16139
+      ],
+      "backdrop_path": "/be0nR66qvr539GN2n8wVz78SqaC.jpg",
+      "revenue": 39024251,
+      "reviews": [{
+         "author": "talisencrw",
+         "id": "57f8210dc3a36874ba0019a2",
+         "content": "Very good sequel retains the high standard Blatty's original screenplay set!\r\n\r\nIn going through the original 'Exorcist' trilogy (I have the DVD 6-pack, with the two versions of the remarkable original, as well as the two recent prequels, so far unwatched), I was intrigued of seeing Oscar-winning writer William Peter Blatty's second stint behind the camera (for the record, I adored his 'The Ninth Configuration', done a decade prior), especially for the franchise that became his bread-and-butter (though I loved two films he earlier had co-wrote: 'A Shot in the Dark' and 'The Omega Man').\r\n\r\nHe once again does quite a credible job--both with the writing and in helming the picture. To me, it didn't matter much that Linda Blair wasn't involved--I like how it became a search for an already-dead serial killer--and I have been a great fan of George C. Scott in genre films since the likes of 'Dr. Strangelove' and 'The Changeling'. The scares and shocks were genuine, and the suspense and interest were there. It made me wish that even more sequels had been made, it was THAT good.",
+         "url": "https://www.themoviedb.org/review/57f8210dc3a36874ba0019a2"
+      }],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Lt. William 'Bill' Kinderman",
+               "gender": 2,
+               "credit_id": "52fe44619251416c75032a5d",
+               "name": "George C. Scott",
+               "profile_path": "/wFC6K5wv6r4DgZI09JGaAsb1eCR.jpg",
+               "id": 862,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Father Joseph Kevin Dyer",
+               "gender": 2,
+               "credit_id": "52fe44619251416c75032a61",
+               "name": "Ed Flanders",
+               "profile_path": "/6zypzeO1joYe3MK6JpXSLps92z3.jpg",
+               "id": 70746,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "James Venamun / The Gemini Killer",
+               "gender": 2,
+               "credit_id": "52fe44619251416c75032a65",
+               "name": "Brad Dourif",
+               "profile_path": "/6pqeGxtWEdDjYsnQfUkmzXLlDvs.jpg",
+               "id": 1370,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Father Damien Karras / Patient X",
+               "gender": 2,
+               "credit_id": "52fe44619251416c75032a69",
+               "name": "Jason Miller",
+               "profile_path": "/wwExdVTadL0jd8kqEicjK8k6yu8.jpg",
+               "id": 21736,
+               "order": 3
+            },
+            {
+               "cast_id": 10,
+               "character": "Father Morning",
+               "gender": 2,
+               "credit_id": "52fe44619251416c75032a8b",
+               "name": "Nicol Williamson",
+               "profile_path": "/kCvjXpYSCYH14mo0gtRmnV7DroV.jpg",
+               "id": 51812,
+               "order": 4
+            },
+            {
+               "cast_id": 11,
+               "character": "Dr. Temple",
+               "gender": 2,
+               "credit_id": "52fe44619251416c75032a8f",
+               "name": "Scott Wilson",
+               "profile_path": "/uAPQD3zXThKHXaYELx3ePSzeWwM.jpg",
+               "id": 6914,
+               "order": 5
+            },
+            {
+               "cast_id": 12,
+               "character": "Nurse Allerton",
+               "gender": 1,
+               "credit_id": "52fe44619251416c75032a93",
+               "name": "Nancy Fish",
+               "profile_path": "/rYbk1PFFTYgqrAkdp2wuV8G3juy.jpg",
+               "id": 42168,
+               "order": 6
+            },
+            {
+               "cast_id": 13,
+               "character": "Stedman",
+               "gender": 0,
+               "credit_id": "52fe44619251416c75032a97",
+               "name": "George DiCenzo",
+               "profile_path": "/u5pQL3gkcGcnpkc9NPuyiBB3e8f.jpg",
+               "id": 1069,
+               "order": 7
+            },
+            {
+               "cast_id": 14,
+               "character": "Ryan",
+               "gender": 2,
+               "credit_id": "52fe44619251416c75032a9b",
+               "name": "Don Gordon",
+               "profile_path": "/nlffwt9VgwnPvcuVEorb6AApfqR.jpg",
+               "id": 14062,
+               "order": 8
+            },
+            {
+               "cast_id": 15,
+               "character": "University President",
+               "gender": 2,
+               "credit_id": "52fe44619251416c75032a9f",
+               "name": "Lee Richardson",
+               "profile_path": "/yqJMNzrKEwLIGnHky1DZZ9Gj4jw.jpg",
+               "id": 21283,
+               "order": 9
+            },
+            {
+               "cast_id": 16,
+               "character": "Sergeant Atkins",
+               "gender": 2,
+               "credit_id": "52fe44619251416c75032aa3",
+               "name": "Grand L. Bush",
+               "profile_path": "/gAh3iIR7Pbpjx6o5qtAa9GTKKKe.jpg",
+               "id": 14333,
+               "order": 10
+            },
+            {
+               "cast_id": 17,
+               "character": "Mrs. Clelia",
+               "gender": 1,
+               "credit_id": "52fe44619251416c75032aa7",
+               "name": "Mary Jackson",
+               "profile_path": "/rBi5WNywgvrEnEMegy1rfX25P38.jpg",
+               "id": 84631,
+               "order": 11
+            },
+            {
+               "cast_id": 18,
+               "character": "Nurse X",
+               "gender": 1,
+               "credit_id": "52fe44619251416c75032aab",
+               "name": "Viveca Lindfors",
+               "profile_path": "/r7F33o0rlbeQkxVGlRunhJ0gxjH.jpg",
+               "id": 22137,
+               "order": 12
+            },
+            {
+               "cast_id": 19,
+               "character": "Dr. Freedman",
+               "gender": 2,
+               "credit_id": "52fe44619251416c75032aaf",
+               "name": "Ken Lerner",
+               "profile_path": "/dMkxevvUxdyV3ZL7XidnuM21wUI.jpg",
+               "id": 51662,
+               "order": 13
+            },
+            {
+               "cast_id": 20,
+               "character": "Nurse Keating",
+               "gender": 0,
+               "credit_id": "52fe44619251416c75032ab3",
+               "name": "Tracy Thorne",
+               "profile_path": null,
+               "id": 140348,
+               "order": 14
+            },
+            {
+               "cast_id": 22,
+               "character": "Shirley",
+               "gender": 1,
+               "credit_id": "546b4221c3a3680d69001ac0",
+               "name": "Barbara Baxley",
+               "profile_path": "/b3fdCrXnI20ZOuzTnvLc99EoudY.jpg",
+               "id": 30610,
+               "order": 15
+            },
+            {
+               "cast_id": 23,
+               "character": "Mary Kinderman",
+               "gender": 1,
+               "credit_id": "546b427592514101f80018ae",
+               "name": "Zohra Lampert",
+               "profile_path": "/sPAzw28G9IMEHtp1rNv3ZuQviF9.jpg",
+               "id": 79731,
+               "order": 16
+            },
+            {
+               "cast_id": 24,
+               "character": "Father Kanavan",
+               "gender": 2,
+               "credit_id": "546b42c792514101e60018e7",
+               "name": "Harry Carey, Jr.",
+               "profile_path": "/p0olWUm87R6CPsL5M9FnxNSFszF.jpg",
+               "id": 4316,
+               "order": 17
+            },
+            {
+               "cast_id": 25,
+               "character": "Julie Kinderman",
+               "gender": 0,
+               "credit_id": "546b436ac3a3680d6c001831",
+               "name": "Sherrie Wills",
+               "profile_path": null,
+               "id": 1137039,
+               "order": 18
+            },
+            {
+               "cast_id": 26,
+               "character": "Patient A",
+               "gender": 0,
+               "credit_id": "546b531bc3a3680d6c001a15",
+               "name": "Edward Lynch",
+               "profile_path": "/5DaOnk2ZyIg32QDFHhXtAAl6fDr.jpg",
+               "id": 1386618,
+               "order": 19
+            },
+            {
+               "cast_id": 27,
+               "character": "Dr. Bruno",
+               "gender": 2,
+               "credit_id": "546b55c6c3a3680d7f001bc9",
+               "name": "Clifford David",
+               "profile_path": "/nRj0mmoXqn2Q1U9x7rELesrzMOQ.jpg",
+               "id": 28048,
+               "order": 20
+            },
+            {
+               "cast_id": 28,
+               "character": "Korner Boy",
+               "gender": 0,
+               "credit_id": "546b5755c3a3680d7d001a47",
+               "name": "Alex Zuckerman",
+               "profile_path": "/mR2FLbeYltYgoSykggATnpEbdJk.jpg",
+               "id": 1196131,
+               "order": 21
+            },
+            {
+               "cast_id": 29,
+               "character": "Nurse Merrin",
+               "gender": 0,
+               "credit_id": "546b597cc3a3680d7d001a8e",
+               "name": "Lois Foraker",
+               "profile_path": null,
+               "id": 1233188,
+               "order": 22
+            },
+            {
+               "cast_id": 30,
+               "character": "Nurse Blaine",
+               "gender": 1,
+               "credit_id": "546b59f0c3a3680d69001e32",
+               "name": "Tyra Ferrell",
+               "profile_path": "/ehrlTSktNfShujcY3SaZyJYg2On.jpg",
+               "id": 9782,
+               "order": 23
+            },
+            {
+               "cast_id": 31,
+               "character": "Thomas Kintry",
+               "gender": 0,
+               "credit_id": "546b5ae292514101f8001bd0",
+               "name": "James Burgess",
+               "profile_path": null,
+               "id": 1386622,
+               "order": 24
+            },
+            {
+               "cast_id": 32,
+               "character": "Altar Boy",
+               "gender": 2,
+               "credit_id": "546b5c8692514101ef001cd5",
+               "name": "Kevin Corrigan",
+               "profile_path": "/trRjEABsF2BCqn6pib3bYhYIxNH.jpg",
+               "id": 18472,
+               "order": 25
+            },
+            {
+               "cast_id": 33,
+               "character": "Mrs. Kintry",
+               "gender": 0,
+               "credit_id": "546b5d68c3a3680d7300198b",
+               "name": "Peggy Alston",
+               "profile_path": null,
+               "id": 1386625,
+               "order": 26
+            },
+            {
+               "cast_id": 34,
+               "character": "Elderly Jesuit",
+               "gender": 0,
+               "credit_id": "546b5dbe92514101f2001d64",
+               "name": "John Durkin",
+               "profile_path": null,
+               "id": 1386626,
+               "order": 27
+            },
+            {
+               "cast_id": 35,
+               "character": "Nurse Bierce",
+               "gender": 0,
+               "credit_id": "546b5e2a92514117ea001946",
+               "name": "Bobby Deren",
+               "profile_path": null,
+               "id": 1386627,
+               "order": 28
+            },
+            {
+               "cast_id": 36,
+               "character": "Alice",
+               "gender": 0,
+               "credit_id": "546b5eb892514101ef001d1a",
+               "name": "Jan Neuberger",
+               "profile_path": null,
+               "id": 1386628,
+               "order": 29
+            },
+            {
+               "cast_id": 37,
+               "character": "Counter Attendant",
+               "gender": 0,
+               "credit_id": "546b5f57c3a3680d7f001d32",
+               "name": "Alexis Chieffet",
+               "profile_path": null,
+               "id": 1386629,
+               "order": 30
+            },
+            {
+               "cast_id": 38,
+               "character": "Waitress",
+               "gender": 0,
+               "credit_id": "546b602592514101ec001b9f",
+               "name": "Debra Port",
+               "profile_path": "/uBMXI5vvmN3Omj4pNsWS03acCvM.jpg",
+               "id": 1386630,
+               "order": 31
+            },
+            {
+               "cast_id": 39,
+               "character": "Police Sergeant",
+               "gender": 0,
+               "credit_id": "546b63a192514101ec001c07",
+               "name": "Walt MacPherson",
+               "profile_path": null,
+               "id": 361969,
+               "order": 32
+            },
+            {
+               "cast_id": 40,
+               "character": "Second Police Officer",
+               "gender": 2,
+               "credit_id": "546b65af92514117ea001a41",
+               "name": "David Dwyer",
+               "profile_path": "/A0EMGjQl4t3DqqfR6Onx0tiMHc5.jpg",
+               "id": 21084,
+               "order": 33
+            },
+            {
+               "cast_id": 41,
+               "character": "Police Driver",
+               "gender": 2,
+               "credit_id": "546b6cf392514101ec001d4d",
+               "name": "Danny Epper",
+               "profile_path": "/51tZpRQ7ECagFytqbdrGMcAW7T.jpg",
+               "id": 574380,
+               "order": 34
+            },
+            {
+               "cast_id": 42,
+               "character": "Old Man in Wheelchair",
+               "gender": 2,
+               "credit_id": "546b706b92514117ea001b72",
+               "name": "William Preston",
+               "profile_path": "/90diV0OdNrP9gYelQxSES1DJ85D.jpg",
+               "id": 954225,
+               "order": 35
+            },
+            {
+               "cast_id": 43,
+               "character": "Attendant",
+               "gender": 0,
+               "credit_id": "546b713392514117ea001b8c",
+               "name": "Chuck Kinlaw",
+               "profile_path": null,
+               "id": 1386674,
+               "order": 36
+            },
+            {
+               "cast_id": 44,
+               "character": "Casperelii",
+               "gender": 0,
+               "credit_id": "546b735dc3a3680d73001c9f",
+               "name": "Demetrios Pappageorge",
+               "profile_path": null,
+               "id": 1386680,
+               "order": 37
+            },
+            {
+               "cast_id": 45,
+               "character": "Little Old Lady",
+               "gender": 1,
+               "credit_id": "546b746a92514101f8001f40",
+               "name": "Nina Hansen",
+               "profile_path": null,
+               "id": 951077,
+               "order": 38
+            },
+            {
+               "cast_id": 46,
+               "character": "First Dream Boy",
+               "gender": 0,
+               "credit_id": "546b752692514101ec001e36",
+               "name": "Shane Wexel",
+               "profile_path": null,
+               "id": 1386684,
+               "order": 39
+            },
+            {
+               "cast_id": 47,
+               "character": "Second Dream Boy",
+               "gender": 0,
+               "credit_id": "546b7586c3a3680d6c001ebb",
+               "name": "Ryan Paul Amick",
+               "profile_path": null,
+               "id": 1386685,
+               "order": 40
+            },
+            {
+               "cast_id": 48,
+               "character": "Old Man in Dream",
+               "gender": 0,
+               "credit_id": "546b7689c3a3680d73001cf9",
+               "name": "John Coe",
+               "profile_path": null,
+               "id": 1076613,
+               "order": 41
+            },
+            {
+               "cast_id": 49,
+               "character": "First Dream Woman",
+               "gender": 1,
+               "credit_id": "546b77ea92514101e20020a2",
+               "name": "Jodi Long",
+               "profile_path": "/p3z93vBDaTGtfHyDCxJLThkA1Bi.jpg",
+               "id": 44059,
+               "order": 42
+            },
+            {
+               "cast_id": 50,
+               "character": "Second Dream Woman",
+               "gender": 0,
+               "credit_id": "546b78cb92514101ec001eb8",
+               "name": "Kathy Gerber",
+               "profile_path": null,
+               "id": 1348971,
+               "order": 43
+            },
+            {
+               "cast_id": 21,
+               "character": "Dream Blind Man",
+               "gender": 2,
+               "credit_id": "52fe44619251416c75032ab7",
+               "name": "Samuel L. Jackson",
+               "profile_path": "/AvCReLikjzYEf9XjTQxbv3JWgKT.jpg",
+               "id": 2231,
+               "order": 44
+            },
+            {
+               "cast_id": 51,
+               "character": "Radio Man",
+               "gender": 0,
+               "credit_id": "546b7999c3a3680d69002297",
+               "name": "Jan Smook",
+               "profile_path": null,
+               "id": 1386702,
+               "order": 45
+            },
+            {
+               "cast_id": 52,
+               "character": "Young Girl in Dream",
+               "gender": 1,
+               "credit_id": "546b7adc92514101f200216b",
+               "name": "Amelia Campbell",
+               "profile_path": "/m4oC4ZCaEz8mOKN1oydyXPlY3Kp.jpg",
+               "id": 80989,
+               "order": 46
+            },
+            {
+               "cast_id": 53,
+               "character": "Nurse",
+               "gender": 0,
+               "credit_id": "546b7b32c3a368513a000008",
+               "name": "Cherie Baron",
+               "profile_path": null,
+               "id": 1386708,
+               "order": 47
+            },
+            {
+               "cast_id": 54,
+               "character": "Larry King",
+               "gender": 2,
+               "credit_id": "546b7bb8c3a3685143000020",
+               "name": "Larry King",
+               "profile_path": "/Afcp573W6lgYN9NvXuBAOpli3S6.jpg",
+               "id": 44127,
+               "order": 48
+            },
+            {
+               "cast_id": 55,
+               "character": "Everett Koop",
+               "gender": 0,
+               "credit_id": "546b7d159251412f55000032",
+               "name": "C. Everett Koop",
+               "profile_path": "/uhuz8WtaC907Jt5sp0eZbc86Fjr.jpg",
+               "id": 1386715,
+               "order": 49
+            },
+            {
+               "cast_id": 56,
+               "character": "Angel of Death",
+               "gender": 0,
+               "credit_id": "546b80019251412f4d0000a1",
+               "name": "Patrick Ewing",
+               "profile_path": "/aaXM8PuixEHNTLmvBQJLH8vV1SV.jpg",
+               "id": 1231141,
+               "order": 50
+            },
+            {
+               "cast_id": 59,
+               "character": "Angel (uncredited)",
+               "gender": 2,
+               "credit_id": "58f25f38c3a368085a001746",
+               "name": "Fabio",
+               "profile_path": "/rQAJMXDG3s6YVwDyYRgrwMr6fJD.jpg",
+               "id": 170874,
+               "order": 51
+            },
+            {
+               "cast_id": 58,
+               "character": "Satan (voice) (uncredited)",
+               "gender": 1,
+               "credit_id": "58f25f2d9251413da7001760",
+               "name": "Colleen Dewhurst",
+               "profile_path": "/44nikIUvc84f1OZboSCQqZQZ6V.jpg",
+               "id": 10559,
+               "order": 52
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe44619251416c75032a6f",
+               "name": "William Peter Blatty",
+               "profile_path": "/nLjSCliAWTFlmtpBudPG6V6fsIL.jpg",
+               "id": 57922,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44619251416c75032a7b",
+               "name": "William Peter Blatty",
+               "profile_path": "/nLjSCliAWTFlmtpBudPG6V6fsIL.jpg",
+               "id": 57922,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44619251416c75032a81",
+               "name": "Gerry Fisher",
+               "profile_path": null,
+               "id": 40052,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44619251416c75032a87",
+               "name": "Peter Lee-Thompson",
+               "profile_path": null,
+               "id": 70750,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "575887e29251415fdb000277",
+               "name": "Carter DeHaven",
+               "profile_path": null,
+               "id": 1591020,
+               "department": "Production",
+               "job": "Producer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Thriller",
+            "id": 53
+         },
+         {
+            "name": "Horror",
+            "id": 27
+         },
+         {
+            "name": "Mystery",
+            "id": 9648
+         }
+      ],
+      "popularity": 7.314569,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 11587,
+      "vote_count": 164,
+      "budget": 0,
+      "overview": "Set fifteen years after the original film, The Exorcist III centers around the philosophical Lieutenant William F. Kinderman who is investigating a baffling series of murders around Georgetown that all contain the hallmarks of The Gemini, a deceased serial killer. It eventually leads him to a catatonic patient in a psychiatric hospital who has recently started to speak, claiming he is the The Gemini and detailing the murders, but bears a striking resemblance to Father Damien Karras.",
+      "similar": [
+         394830,
+         11324,
+         9552,
+         210577,
+         48171,
+         293670,
+         241258,
+         9437,
+         10498,
+         1049,
+         10900,
+         687,
+         10354,
+         11026,
+         512,
+         11586,
+         157544,
+         9616,
+         433002,
+         14285
+      ],
+      "original_title": "The Exorcist III",
+      "runtime": 110,
+      "poster_path": "/xU1mJq4AihDXAhEmdOmCgPCy1li.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Italiano",
+            "iso_639_1": "it"
+         }
+      ],
+      "production_companies": [{
+         "logo_path": null,
+         "name": "Morgan Creek Productions",
+         "id": 10210,
+         "origin_country": ""
+      }],
+      "release_date": "1990-08-17",
+      "vote_average": 6,
+      "belongs_to_collection": {
+         "backdrop_path": "/gZnEheMdhKxSZQUEzphCHXldud1.jpg",
+         "name": "The Exorcist Collection",
+         "id": 12263,
+         "poster_path": "/wjMqwHkOuDBSOY5MujL5GSdlBTk.jpg"
+      },
+      "tagline": "Do you dare walk these steps again?",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["William Peter Blatty"],
+      "runtime": 110,
+      "synopsis": "The film begins with the point of view of someone wandering through the streets of Georgetown, a voice informing us \"I have dreams... of a rose... and of falling down a long flight of stairs\". The point of view shows a warning of evil about to arrive later that night at a church. Demonic growls are heard, leaves and other street trash suddenly come flying into the church as a crucifix comes to life. It then cuts to Lieutenant William F. Kinderman (George C. Scott) at a crime scene, where a 12-year-old boy named Thomas Kintry has been murdered. Kinderman takes his friend, a priest named Father Dyer (Ed Flanders), out to see their mutually favorite film It's a Wonderful Life. Kinderman later relates the gruesome details of the murder of the young boy he was investigating that morning, including his crucifixion. Another murder soon takes place; a priest found decapitated in a church. Dyer is shortly hospitalized and found murdered the next day, with the words \"IT'S A WONDERFULL LIFE\" written on a wall in Dyer's blood. At each murder scene, the fingerprints at the crime scenes do not match up, indicating a different person was responsible for each. Kinderman tells hospital staff the reason for his unease: fifteen years ago the vicious serial killer, \"The Gemini\" (Brad Dourif), was executed; with every victim he cut off the right index finger and carved the Zodiac sign of Gemini into the palm of their left hand. Kinderman noticed the hands of the three new victims and verified that the Gemini's sign has been there. The Gemini Killer also always used an extra \"L\" in his notes sent to the media, such as \"usefull\" or \"carefull\". Furthermore, to filter out false confessions, the original Gemini Killer's true mutilations were kept a secret by the Richmond police's homicide department; the newspapers were made to wrongfully report that the left middle finger was severed and that the Gemini sign was carved on the back of the victim. Kinderman visits the head of the psychiatric ward, Dr. Temple (Scott Wilson), who relates the history of a man in Cell 11, that he was found wandering aimlessly fifteen years ago with amnesia. The man was locked up, catatonic up until recently when he began to be violent and claim to be the Gemini Killer. Kinderman sees that the patient resembles his dead friend, Father Damien Karras (Jason Miller). However the patient brags of being the Gemini Killer, expressing ignorance over who Father Karras is, and boasts of killing Father Dyer. The next morning, a nurse and Dr. Temple are found dead. Kinderman returns to see the patient in Cell 11, who claims to be the Gemini Killer's spirit, revealing that after his execution his soul entered Karras's dying body. The demon Pazuzu, who had possessed the girl Regan MacNeil, was furious at being pushed out of the child's body and is exacting its revenge by putting the soul of the Gemini Killer into the body of Father Karras. Each evening, the soul of the Gemini leaves the body of Karras and possesses the elderly people with senile dementia elsewhere in the hospital and uses them to commit the murders. The Gemini Killer also reveals to have forced Dr. Temple to bring Kinderman to him or he would suffer in unspeakable ways Temple believed his apparent bluff. However, he couldn't take the pressure, and so as a result he committed suicide. The Gemini possesses an old woman, who makes a failed attempt to murder Julie, Kinderman's daughter. The possessed patient attacks Kinderman, but the attack abruptly ends when a priest, Father Paul Morning (Nicol Williamson), enters the corridor leading to cell 11 and attempts an exorcism on the patient. It goes wrong when Pazuzu intervenes, taking over the patient's body, and the priest is all but slain. Kinderman arrives in time and attempts to euthanise Karras after finding the body of the priest, only to be hurled into the wall by the possessed Karras. Father Morning manages to briefly regain consciousness and tells Karras \"Damien. Fight him.\" Karras regains his free will briefly and cries to Kinderman \"Bill, now, shoot now, kill me now!\". Kinderman fires his revolver several times, hitting Karras in the chest, fatally wounding him. The Gemini is now gone, and Karras is finally free. With weak breaths, he says \"We won, Bill, now free me\". Kinderman puts his revolver against Karras' head and fires. The film ends with Kinderman standing over Karras' grave.",
+      "writers": [
+         "William Peter Blatty",
+         "William Peter Blatty"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0099528/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTc3Njg4MDI0Nl5BMl5BanBnXkFtZTYwOTg2MDA5._V1_SY317_CR7,0,214,317_AL_.jpg",
+      "actors": ["Stars: George C. Scott, Ed Flanders, Brad Dourif | See full cast and crew »"],
+      "reviews": [
+         "Most people go to horror movies for the emotional thrill, the gore and/or the adrenaline high of having things pop out and yell \"boo!\" Make no mistake: you won't find much of that here. So if you're looking for a movie that will make you spill your popcorn, you might wanna move on. But if you're looking for a true psychological thriller (psychological = appealing to the intellect, not the viscera), this will be one hell of a treat for you. The dialogue is fantastic. The acting is superb (Brad Dourif & George C. Scott on the same screen. What could be better?). The philosophy is provocative. And the mood is as thick as it gets. Much of the movie is composed of a series of dialogues between two people in a dark room. If you liked the second half of APOCALYPSE NOW, you will enjoy this immensely. I rank this movie as one of my all time English language faves with the likes of AMADEUS, 2001, Alfred Hitchcock's ROPE, PICTURE OF DORIAN GRAY, and CITIZEN KANE. I'm serious; it's that good. Unfortunately, it was marketed to the wrong audience, and that's why it received such low ratings. Let me repeat: this is not a spooky movie. It's actually a very intellectual story with a lot of big words, literary overtones and powerful acting, and it's one of the few movies which I consider superior to the book (but of course writer Blatty directed this, so I'd expect no less). Now don't get me wrong; it's anything but dull. There is one scene in particular that will scare the living crap out of you! It's a long scene done with one still camera, no music, no sound, hardly any action... but egads it's probably the most suspenseful/frightening thing I've ever seen in any movie. In the style of the classic thrillers, so much is left to the imagination of the viewer--and oh there is PLENTY of disturbing, shocking stuff to imagine. In one conversation you'll hear about a murder so vile that you'll never want to hear the word \"catheter\" again. And the beauty is that you never see a thing. If this subtle style appeals to you, then you certainly won't be disappointed. 10/10. And I don't give 10s very often.",
+         "Exorcist III (1990) was the follow up to the classic Exorcist. Despite the number three next to the title, this was the true sequel to the first film. Writer/ Director William Peter Blatty wanted to simply call the movie \"Legion\" like the name of his novel. But the producers wanted to cash in on the Exorcist name so he caved into pressure. In Europe it's called Legion: Exorcist III. This wasn't going to be the first or the last conflict Blatty would have with the producers. The novel was a straight forward mystery/ thriller. The producer wanted some gore and \"exorcism\" thrown into the mix. Blatty wanted to make an atmospheric horror film, the producers wanted a prototypical 80's horror film. The producers wanted Jason Miller and an exorcism! Who won out? The film follows the friendship between Father Dyer and Detective Kinderman. Meanwhile a serial killer is running around Georgetown gruesomely murdering the city's residents. Kinderman is called into duty and is puzzled by the brutal slayings. That is until he follows the clues and they lead him to a very unlikely place. Kinderman's faith in man is tested as he continues on through out this bizarre and seemingly never ending case. George C. Scott is excellent as Kinderman. he plays the role of the detective as if he was tailored made for the part. Ed Flanders co-stars as Father Dyer. Nicol Williamson has a guest star spot as a Father Merrin type priest (his scenes seemed to have been added during post production because they don't fit in with the rest of the movie). The ending felt rushed and it has \"post production\" stamped on it. Word has it that the film was indeed tampered with during the post production. I think so to because the book's ending was far different than what was put out on the silver screen. Is the movie worth watching? Yes it is because it's a worthy follow up to the Exorcist. Even though it was fiddled around with during the final phase of production, scenes seem to have been added and the ever presence of the producers looking over the director's shoulder, it's still a great film. I'm probably one of the few people who are actually satisfied with the movie. I wished Blatty could have the original version of this film restored. I enjoyed the book and the movie as well. Highly recommended! A majority of people hate intellectual horror films. What's wrong with having to think once in a while?",
+         "William Peter Blatty can really write. Prose and dialogue. No argument. But can he direct a movie? On the strength of 'Exorcist III,' yes he can. This isn't to say that the film doesn't have its problems. On the contrary, its biggest problem, the out-of-character 'crowd-pleasing' SFX climax stops it from being one of the greats. So why do I have a soft spot for this film? If, like me, you appreciate horror films that are both scary and made for grown-ups, 'Exorcist III' is refreshing and memorable for its intelligent, non-ironic journey into darkness and for its refusal (bar that ending) to dumb down for the kids. If 'Scream' is your idea of a great horror movie, this isn't one for you! The cast is not nearly young and attractive enough, there are nowhere near enough gags (though Blatty's dry, sardonic wit is happily in evidence) and the film has no pretensions at being an autopsy of the genre, therefore somehow lifting it above the films it purports to comment on. 'Exorcist III' is literary beyond 'Scream's' self-referential trivia-chasing (I would love to hear Detective Kinderman critiquing that movie!) Read 'Legion' and you'll have an idea of how good the film should have been. Flaws acknowledged and accepted, don't miss out on Brad Dourif's best performance since 'Cuckoo's Nest,' scene-stealing turns by Ed Flanders and Nancy Fish, or the superlative production design, photography and sound. More than anything else, it's the atmosphere of the film that stays with me. I can recall very few films that have a better sense of the power of stillness and silence. So much of the violence is communicated only in dialogue; your mind reluctantly does the rest.",
+         "Funny how unorthodox arrangement and scenarios incite unspeakably talented film-making. I can't think of another movie which has an author adapting his own novel into a screenplay AND directing a movie. The exorcist III is by far the best horror/thriller of all time and I don't see it being topped at anytime. It is so much better than the first, the sole reason why they decided to add footage to the original containing elements from the third installment. IF the original exorcist WERE better than the exorcist III, why would they edit the original using the very same elements used in the Third? I can't explain that, but some believe it. I believe many have not seen the Exorcist III, and even after watching it they simply do not understand it to be frightened by it. The exorcist III combines true character development with crime drama, horror, and suspense, utterly perfect movie making. Jtown",
+         "This movie is possibly the most overlooked and underrated movie in the entire history of Western cinema. Sure, there are some unnecessary bits in it (particularly a scene involving Father Morning stuck to a ceiling with his limbs falling off one by one. It's supposed to be scary, but it's the funniest scene in the entire film), but overall, what we have here is, essentially, a trip into the mind of a psycho, a la Silence Of The Lambs, Henry: Portrait of a Serial Killer, etc. Okay, so inhabiting this mind happens to be the same demon as in the original film, but also there is the spirit of a dead serial killer. The body they are inhabiting is that of Damien Karras, and this spurns a curious Lieutenant Kinderman to find out as much as possible about him, which leads him into discovering exactly what happened to Karras after the night of the fall. But as I was saying, it's underrated. A golden raspberry for worst actor? Comical. George C Scott's performance here might not be as memorable as that in Patton, but it's still an excellent performance. And Brad Dourif, sharing duties with Jason Miller as the sinister 'Patient X' is a much more effective demon here than in the 'Child's Play' series. The only complaint I'd have on the actors front, is that the brilliant Nicol Williamson is underused as Father Morning, but the character was added in at the last minute by producers. There are plenty of comic moments, too, notably a scene in the open psychiatric ward involving a man in a wheelchair flashing at the charge nurse. (Trust me, you have to see it, really). Sadly, it's probably due to the risible 'Exorcist II' that this film was so overlooked, and instantly assumed to be awful. But then again, whether people like movies or not is down to taste, I suppose. Try it. You might like it.",
+         "The first 'true' and so far best sequel to the amazing 1974 original sees George C. Scott stepping into the role of Detective Kinderman (played by the late Lee J. Cobb in the original) who is investigating a series of homicides in Georgetown. The homicides, grisly in nature, follow the M.O. of the Gemini killer, a man convicted and sent to death in the electric chair 15 years ago. Several characters return this time around from the original film including Kinderman, Father Dyer (Ed Flanders) and Damian Karras again played by Jason Miller. First up I'll talk about the acting. The cast did a bloody good job in their roles. Scott gives a tour de force performance where he mixes grandfatherly likability with someone who is clearly struggling with demons of his own. It is clear why this man is one of the best character actors of the silver screen. The few scenes that he shared with Father Dyer were played so well you really thought they had been lifelong friends. The other acting coup was getting Brad Dourif to play the Gemini killer. He proves here that he will always be more than the voice of our favorite pint-sized plastic doll from hell. His character spends the film being shackled in a cell but yet is able to convey a sense of menace few can provide with the help of other actors, props and settings. Jason Miller returns also as the 'body' of Father Karras and swaps back and forth the role with Dourif. The Kinderman / Karras / Gemini scenes are the highlight of the film. The actors go full bore at each other and turn what could have become boring exposition scenes into film highlights. William Peter Blatty stepped up to the plate and directs this time around. He took a book he wrote, Legion and tweaked it into the screenplay for part 3. I believe, but am not positive, that the exorcism at the end of the film in not in the book. Unfortunately I haven't read it since just before the movie came out and can't remember. The direction here is done very well for his second film. He sets up a chilly atmosphere when needed the most and steps aside to let the actors do their thing. Fairly straight-forward he lets the story role without flashy visuals getting in the way, signs of a true writer. The story is character driven with a few creepy moments but I had wished the atmosphere had been a little denser with scares at the end though. This effort comes closest to the original. The music score is a bit light with many of the better scenes given over strictly to audio effects. A little bit disappointing but doesn't affect things too badly. In the end you have a good sequel with a character driven script and a bunch of top notch actors ripping it up. Unfortunately I thought the ending was a bit rushed with the inclusion of the exorcism is just a little out of place. What for most of the film seems like a classic example of the walk-in of an 'old soul' suddenly becomes a possession story. But you got to give the distributors what they want I guess.",
+         "With a title like 'Excorcist 3', one doesn't hope for much. But in fact, this film is really only so titled to exploit the value attached with the name, and although it was written (and also directed) by the writer of the original film, it's actually a stand-alone movie in it's own right. And while William Blatty may be hard pushed to rival the efforts of the original's director, William Friedkin, he doesn't do too bad a job: he's a little over-reliant on abrupt cutting to achieve his shocks, and the budget for the special effects was obviously inadequate, but this is a suspenseful and chilling thriller. All supernatural movies suffer from a degree of innate silliness, and satanic movies perhaps especially so, but this film is constructed as if it was a conventional serial killer thriller, albeit an exceptionally dark and creepy one. As the signs of actual devilry begin to increase, the detective leading the case (played brilliantly by George Scott) starts to wonder if he's going mad. Only when the film is forced, near its conclusion, to represent the nightmare literally, does it inevitably become a little daft (but that charge could even be levied at 'The Excorcist' itself). I'm not generally a huge fan of horror movies, but this one is definitely above average, for its skill in modulating the tension and in restraining from excess until its final scenes. In conclusion, ignore the title, and watch.",
+         "This is one of the best horror films in the last twenty years. I once heard it remarked that director William Peter Blatty directs like David Lynch--but with a tighter pace! Not a bad estimation, I'd say. I have a theory this film would actually have had a chance to be a hit if it had been allowed to go out to theaters under its proper title: LEGION, just like the novel its taken from. But some genius at the studios must've insisted that by tying it to the Exorcist label it would draw an audience; well, we all know how that turned out( for those of you who don't: this film tanked at the BO and quickly disappeared, to be completely eclipsed by the far inferior SILENCE OF THE LAMBS a scant 8 months later!) People who went to this didn't expect a supernatural serial killer mystery--indeed this was the best of the \"executed killers return from the grave to wreak destruction\" movies that popped up suddenly in the late 80's with films like SHOCKER and THE FIRST POWER(something that would turn up with even more regularity a few yrs later on the X-files, Brad Dourif even plays an almost identical character in the episode \"BEyond the SEA\" as he plays here in Exocist III) but in 1990 people who went to see Exorcist III were probably expecting something else;as far as i can tell, though, this movie is a pretty decent piece of work. It's sad to think that almost all of the actor's who were in this film--GEorge C Scott, Ed Flanders, Jason Miller-- are no longer with us. but at least we've still got Brad Dourif!!",
+         "Taking a much different approach than the first two EXORCIST films will either infuriate or please viewers depending on their expectations, and there's just no use arguing with people on the merits of this film, because something can be said for those who love it AND those who hate it. However, I have huge admiration for the nerve it took William Peter Blatty to bring his distinct vision to the screen and take big chances with this film. The end result is never boring and it refuses to be stupid, even when it threatens to fall apart from all the overly-complicated plot weirdness. There's loads of subtext here, it's not nearly as dependent on FX and gore than the first film, it has creepy atmosphere to burn and delivers a few great shocks (including a now-legendary hospital corridor scene; though some of the most horrible things in this film are implied, not shown). The writing is very good, and there's smart dialogue and three-dimensional characters played by some first-rate actors. George C. Scott is wonderful (when isn't he?) in the lead, with Jason Miller, Brad Dourif (one of the most underrated actors ever), Ed Flanders, Scott Wilson and everyone else contributing heavily. I heard the senseless exorcism climax (featuring Nicol Williamson) was added to the film later against Blatty's wishes so audiences wouldn't be \"confused,\" which basically means the studio who financed it take the general viewing public as idiots. Make sure to also check out Blatty's great THE NINTH CONFIGURATION (AKA TWINKLE, TWINKLE, KILLER KANE), also a pretty underrated movie. I noticed he hasn't returned to scripting/directing film since this was made, probably because it wasn't well received at the time, but it's nice to read other comments and see I'm not the only one who really enjoyed this film. Score: 8 out of 10",
+         "I have heard mixed reviews of this film. Some saying its the best Exorcist sequel and some saying its utter crap. Well to the people who say it's utter crap you have no idea what your talking about. This is by far the best Exorcist sequel, probably because it was actually written by William Peter Blatty (Writer of the first Exorcist). I think this should really be the Exorcist II because it begins where the first one finishes, and also because The Heretic was a joke. One of the reasons why I love this film is because it is essentially a mystery film (which I'm not usually to keen on) but it also has the major horror elements that make a horror film. The hallway scene at the hospital is one of the best horror scenes I have seen. Just the tension and the fact you don't know whats going on and the silence, then suddenly... well I wont give anything away. Its definitely different to the original so if your looking for another The Exorcist then look elsewhere, but this will probably still scare the daylights out of you. Overall, fantastic film and I'm glad that Father Karras is in this film because I loved his character in the original. 9/10"
+      ],
+      "genres": [
+         "Horror",
+         "Mystery",
+         "Thriller"
+      ],
+      "productionCompanies": ["Morgan Creek Productions"],
+      "summaries": [
+         "Lt. Kinderman and Father Dyer cheer each other up on the anniversary of the death of their mutual friend, Father Damien Karras, by going to see \"It's a Wonderful Life\" at the local theater in Georgetown, near Washington D.C. But there's no cheering Kinderman while a particularly cruel and gruesome serial killer is at large. His murders, which involve torture, decapitation and the desecration of religious icons, is bad enough; but they also resemble those of the Gemini Killer, who has been dead for fifteen years.",
+         "A police lieutenant in Georgetown mourns the anniversary of a priest's death as a serial killer strikes."
+      ],
+      "budget": 0
+   },
+   "movielensId": 1999,
+   "movielens": {
+      "languages": [
+         "English",
+         "Italiano"
+      ],
+      "releaseDate": "1990-08-17",
+      "dvdReleaseDate": "1999-12-28",
+      "directors": ["William Peter Blatty"],
+      "runtime": 110,
+      "movieId": 1999,
+      "title": "The Exorcist III",
+      "mpaa": "R",
+      "actors": [
+         "George C. Scott",
+         "Ed Flanders",
+         "Brad Dourif",
+         "Jason Miller",
+         "Nicol Williamson",
+         "Scott Wilson",
+         "Nancy Fish",
+         "George DiCenzo",
+         "Don Gordon",
+         "Lee Richardson",
+         "Grand L. Bush",
+         "Mary Jackson",
+         "Viveca Lindfors",
+         "Ken Lerner",
+         "Tracy Thorne",
+         "Barbara Baxley",
+         "Zohra Lampert",
+         "Harry Carey",
+         " Jr.",
+         "Sherrie Wills",
+         "Edward Lynch",
+         "Clifford David",
+         "Alex Zuckerman",
+         "Lois Foraker",
+         "Tyra Ferrell",
+         "James Burgess",
+         "Kevin Corrigan",
+         "Peggy Alston",
+         "John Durkin",
+         "Bobby Deren",
+         "Jan Neuberger",
+         "Alexis Chieffet",
+         "Debra Port",
+         "Walt MacPherson",
+         "David Dwyer",
+         "Danny Epper",
+         "William Preston",
+         "Chuck Kinlaw",
+         "Demetrios Pappageorge",
+         "Nina Hansen",
+         "Shane Wexel",
+         "Ryan Paul Amick",
+         "John Coe",
+         "Jodi Long",
+         "Kathy Gerber",
+         "Samuel L. Jackson",
+         "Jan Smook",
+         "Amelia Campbell",
+         "Cherie Baron",
+         "Larry King",
+         "C. Everett Koop",
+         "Patrick Ewing",
+         "Fabio",
+         "Colleen Dewhurst"
+      ],
+      "imdbMovieId": "0099528",
+      "originalTitle": "The Exorcist III",
+      "genres": [
+         "Thriller",
+         "Horror",
+         "Mystery"
+      ],
+      "youtubeTrailerIds": [
+         "BXsj26KH4jk",
+         "RRgbHgJa4-I",
+         "Zu8V0cgSSPw"
+      ],
+      "plotSummary": "Set fifteen years after the original film, The Exorcist III centers around the philosophical Lieutenant William F. Kinderman who is investigating a baffling series of murders around Georgetown that all contain the hallmarks of The Gemini, a deceased serial killer. It eventually leads him to a catatonic patient in a psychiatric hospital who has recently started to speak, claiming he is the The Gemini and detailing the murders, but bears a striking resemblance to Father Damien Karras.",
+      "tmdbMovieId": 11587,
+      "avgRating": 2.64751,
+      "releaseYear": "1990",
+      "numRatings": 1244,
+      "posterPath": "/xU1mJq4AihDXAhEmdOmCgPCy1li.jpg"
+   }
+}

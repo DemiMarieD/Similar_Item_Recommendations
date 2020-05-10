@@ -1,0 +1,880 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "lightning",
+            "id": 952
+         },
+         {
+            "name": "cemetery",
+            "id": 1227
+         },
+         {
+            "name": "monster",
+            "id": 1299
+         },
+         {
+            "name": "hermit",
+            "id": 4271
+         },
+         {
+            "name": "mill",
+            "id": 5314
+         },
+         {
+            "name": "frankenstein",
+            "id": 6737
+         },
+         {
+            "name": "mad scientist",
+            "id": 10125
+         },
+         {
+            "name": "classic horror",
+            "id": 155489
+         },
+         {
+            "name": "comedic relief",
+            "id": 235810
+         }
+      ],
+      "imdb_id": "tt0026138",
+      "video": false,
+      "title": "Bride of Frankenstein",
+      "recommendations": [
+         3035,
+         10787,
+         138,
+         13666,
+         15849,
+         11868,
+         11549,
+         244,
+         10973,
+         11772,
+         27130,
+         3077,
+         24106,
+         779,
+         3079,
+         10785,
+         25508,
+         136,
+         28501,
+         3031
+      ],
+      "backdrop_path": "/vLfbjecIkkJeM3dot7Zig1YOBaO.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 6,
+               "character": "The Monster",
+               "gender": 2,
+               "credit_id": "52fe4229c3a36847f8008d41",
+               "name": "Boris Karloff",
+               "profile_path": "/3kY1eEgGFAoVyy8MjNolCS5wouj.jpg",
+               "id": 2922,
+               "order": 0
+            },
+            {
+               "cast_id": 10,
+               "character": "Mary Wollstonecraft Shelley / The Monster's Bride",
+               "gender": 1,
+               "credit_id": "52fe4229c3a36847f8008d51",
+               "name": "Elsa Lanchester",
+               "profile_path": "/2iuHeYDsEEzDScdvYOrIY673Q5N.jpg",
+               "id": 2926,
+               "order": 1
+            },
+            {
+               "cast_id": 7,
+               "character": "Henry Frankenstein",
+               "gender": 2,
+               "credit_id": "52fe4229c3a36847f8008d45",
+               "name": "Colin Clive",
+               "profile_path": "/vbaOc2pym7cJk894YM3m3loxFn3.jpg",
+               "id": 2923,
+               "order": 2
+            },
+            {
+               "cast_id": 8,
+               "character": "Elizabeth Frankenstein",
+               "gender": 1,
+               "credit_id": "52fe4229c3a36847f8008d49",
+               "name": "Valerie Hobson",
+               "profile_path": "/4OqiJkVZ39Q1NMAgqKEstyNNMdd.jpg",
+               "id": 2924,
+               "order": 3
+            },
+            {
+               "cast_id": 9,
+               "character": "Doctor Pretorius",
+               "gender": 2,
+               "credit_id": "52fe4229c3a36847f8008d4d",
+               "name": "Ernest Thesiger",
+               "profile_path": "/bmgsa81yJ2sYIrFLqiCKLaRDg4t.jpg",
+               "id": 2925,
+               "order": 4
+            },
+            {
+               "cast_id": 11,
+               "character": "Lord Byron",
+               "gender": 2,
+               "credit_id": "52fe4229c3a36847f8008d55",
+               "name": "Gavin Gordon",
+               "profile_path": "/kmCRZ3fBfnoNZQqW92T0bI8QZMe.jpg",
+               "id": 2927,
+               "order": 5
+            },
+            {
+               "cast_id": 12,
+               "character": "Percy Bysshe Shelley",
+               "gender": 2,
+               "credit_id": "52fe4229c3a36847f8008d59",
+               "name": "Douglas Walton",
+               "profile_path": "/tRk01D9crSmSeqnP0DK7G9blRB5.jpg",
+               "id": 2928,
+               "order": 6
+            },
+            {
+               "cast_id": 13,
+               "character": "Minnie",
+               "gender": 1,
+               "credit_id": "52fe4229c3a36847f8008d5d",
+               "name": "Una O'Connor",
+               "profile_path": "/3oK1RaPKfj74bwiBsgcz0TNgvxD.jpg",
+               "id": 2929,
+               "order": 7
+            },
+            {
+               "cast_id": 14,
+               "character": "Bürgomaster",
+               "gender": 2,
+               "credit_id": "52fe4229c3a36847f8008d61",
+               "name": "E.E. Clive",
+               "profile_path": "/2raUbBAzWMDDxsdQ2pKo2ZFGP8N.jpg",
+               "id": 2930,
+               "order": 8
+            },
+            {
+               "cast_id": 15,
+               "character": "Butler",
+               "gender": 2,
+               "credit_id": "52fe4229c3a36847f8008d65",
+               "name": "Lucien Prival",
+               "profile_path": "/3AI7FjZVjawUADj9gsrFwHNtg4J.jpg",
+               "id": 2931,
+               "order": 9
+            },
+            {
+               "cast_id": 16,
+               "character": "Hermit",
+               "gender": 2,
+               "credit_id": "52fe4229c3a36847f8008d69",
+               "name": "O.P. Heggie",
+               "profile_path": "/4LfR51YveyQQpf38aGVPWjAcGuS.jpg",
+               "id": 2932,
+               "order": 10
+            },
+            {
+               "cast_id": 17,
+               "character": "Karl",
+               "gender": 2,
+               "credit_id": "52fe4229c3a36847f8008d6d",
+               "name": "Dwight Frye",
+               "profile_path": "/ybXg4HVKGTtlVaxFpy4mtxF7gqX.jpg",
+               "id": 1549,
+               "order": 11
+            },
+            {
+               "cast_id": 18,
+               "character": "Hans",
+               "gender": 2,
+               "credit_id": "52fe4229c3a36847f8008d71",
+               "name": "Reginald Barlow",
+               "profile_path": "/2kuuPRHvnFbirv4X1F5ksHwDXIN.jpg",
+               "id": 2933,
+               "order": 12
+            },
+            {
+               "cast_id": 19,
+               "character": "Hans' wife",
+               "gender": 1,
+               "credit_id": "52fe4229c3a36847f8008d75",
+               "name": "Mary Gordon",
+               "profile_path": "/u4QD0zsgBgXTi3At0e0ow8VdiEi.jpg",
+               "id": 2934,
+               "order": 13
+            },
+            {
+               "cast_id": 20,
+               "character": "Shepherdess",
+               "gender": 1,
+               "credit_id": "52fe4229c3a36847f8008d79",
+               "name": "Anne Darling",
+               "profile_path": "/zlHDopERJdWZAPqwHWPTuw7Gq6S.jpg",
+               "id": 2935,
+               "order": 14
+            },
+            {
+               "cast_id": 37,
+               "character": "Peasant",
+               "gender": 2,
+               "credit_id": "55a5db8ec3a3682bb4000794",
+               "name": "Walter Brennan",
+               "profile_path": "/wPp0mmWWVMzOD3ipne6MrgDr0Tm.jpg",
+               "id": 4302,
+               "order": 15
+            },
+            {
+               "cast_id": 30,
+               "character": "Hunter",
+               "gender": 2,
+               "credit_id": "52fe4229c3a36847f8008da5",
+               "name": "John Carradine",
+               "profile_path": "/iv9pZ2JRddIUNe2RgYAKmUR55WO.jpg",
+               "id": 8516,
+               "order": 16
+            },
+            {
+               "cast_id": 21,
+               "character": "Ludwig",
+               "gender": 0,
+               "credit_id": "52fe4229c3a36847f8008d7d",
+               "name": "Ted Billings",
+               "profile_path": "/aYZrAL3asHczZlVE2ZXba9LkUcV.jpg",
+               "id": 2936,
+               "order": 17
+            },
+            {
+               "cast_id": 24,
+               "character": "Archbishop",
+               "gender": 0,
+               "credit_id": "52fe4229c3a36847f8008d8d",
+               "name": "Norman Ainsley",
+               "profile_path": null,
+               "id": 2941,
+               "order": 18
+            },
+            {
+               "cast_id": 25,
+               "character": "Devil",
+               "gender": 0,
+               "credit_id": "52fe4229c3a36847f8008d91",
+               "name": "Peter Shaw",
+               "profile_path": null,
+               "id": 2942,
+               "order": 19
+            },
+            {
+               "cast_id": 26,
+               "character": "Ballerina",
+               "gender": 0,
+               "credit_id": "52fe4229c3a36847f8008d95",
+               "name": "Kansas DeForrest",
+               "profile_path": null,
+               "id": 2943,
+               "order": 20
+            },
+            {
+               "cast_id": 27,
+               "character": "Little Mermaid",
+               "gender": 1,
+               "credit_id": "52fe4229c3a36847f8008d99",
+               "name": "Josephine McKim",
+               "profile_path": null,
+               "id": 2944,
+               "order": 21
+            },
+            {
+               "cast_id": 28,
+               "character": "Ludwig (archive footage)",
+               "gender": 2,
+               "credit_id": "52fe4229c3a36847f8008d9d",
+               "name": "Michael Mark",
+               "profile_path": null,
+               "id": 30163,
+               "order": 22
+            },
+            {
+               "cast_id": 29,
+               "character": "Little Baby",
+               "gender": 2,
+               "credit_id": "52fe4229c3a36847f8008da1",
+               "name": "Billy Barty",
+               "profile_path": "/h6Xf5csmdoIOUIFi8iRjtQMygQT.jpg",
+               "id": 12659,
+               "order": 23
+            },
+            {
+               "cast_id": 31,
+               "character": "Member of Wedding Party",
+               "gender": 1,
+               "credit_id": "52fe4229c3a36847f8008da9",
+               "name": "Bess Flowers",
+               "profile_path": "/akbW8jJl8GSXFpixFaobMOqvNv4.jpg",
+               "id": 121323,
+               "order": 24
+            },
+            {
+               "cast_id": 32,
+               "character": "Hunter in Woods",
+               "gender": 0,
+               "credit_id": "55a5da68c3a3682bb4000768",
+               "name": "Robert Adair",
+               "profile_path": null,
+               "id": 120456,
+               "order": 25
+            },
+            {
+               "cast_id": 33,
+               "character": "Archbishop Homunculus",
+               "gender": 0,
+               "credit_id": "55a5daacc3a3682bad00076d",
+               "name": "Norman Ainsley",
+               "profile_path": null,
+               "id": 2941,
+               "order": 26
+            },
+            {
+               "cast_id": 35,
+               "character": "Villager",
+               "gender": 0,
+               "credit_id": "55a5db3bc3a3682bb400078b",
+               "name": "Frank Benson",
+               "profile_path": null,
+               "id": 1125676,
+               "order": 27
+            },
+            {
+               "cast_id": 36,
+               "character": "Gypsy",
+               "gender": 2,
+               "credit_id": "55a5db6b92514109a4000831",
+               "name": "Maurice Black",
+               "profile_path": null,
+               "id": 101890,
+               "order": 28
+            },
+            {
+               "cast_id": 38,
+               "character": "Villager",
+               "gender": 0,
+               "credit_id": "55a5dbe992514109960007a5",
+               "name": "Mae Bruce",
+               "profile_path": null,
+               "id": 1486718,
+               "order": 29
+            },
+            {
+               "cast_id": 39,
+               "character": "King Homunculus",
+               "gender": 2,
+               "credit_id": "55a5dc0392514109960007ab",
+               "name": "A.S. Byron",
+               "profile_path": null,
+               "id": 1081944,
+               "order": 30
+            },
+            {
+               "cast_id": 40,
+               "character": "Procession Leader",
+               "gender": 2,
+               "credit_id": "55a5dc49c3a3682bb40007a5",
+               "name": "D'Arcy Corrigan",
+               "profile_path": null,
+               "id": 129329,
+               "order": 31
+            },
+            {
+               "cast_id": 41,
+               "character": "Villager",
+               "gender": 0,
+               "credit_id": "55a5dc57c3a3682bbf00084d",
+               "name": "Grace Cunard",
+               "profile_path": "/wHCEU8YtNa8Bhr83C5VqhvggSmm.jpg",
+               "id": 981642,
+               "order": 32
+            },
+            {
+               "cast_id": 42,
+               "character": "Hunter",
+               "gender": 0,
+               "credit_id": "55a5dc6292514109ab00084b",
+               "name": "Jack Curtis",
+               "profile_path": null,
+               "id": 1307855,
+               "order": 33
+            },
+            {
+               "cast_id": 43,
+               "character": "Uncle Glutz",
+               "gender": 0,
+               "credit_id": "55a5dcb8c3a3682bbf000856",
+               "name": "J. Gunnis Davis",
+               "profile_path": null,
+               "id": 120457,
+               "order": 34
+            },
+            {
+               "cast_id": 44,
+               "character": "Ballerina Homunculus",
+               "gender": 0,
+               "credit_id": "55a5dccbc3a3682baa000803",
+               "name": "Kansas DeForrest",
+               "profile_path": null,
+               "id": 2943,
+               "order": 35
+            },
+            {
+               "cast_id": 45,
+               "character": "Gypsy's Mother",
+               "gender": 1,
+               "credit_id": "55a5dcdc925141099b0007b0",
+               "name": "Elspeth Dudgeon",
+               "profile_path": "/nvch2PtOHG46KcJpsQdHVPwXfnY.jpg",
+               "id": 34331,
+               "order": 36
+            },
+            {
+               "cast_id": 46,
+               "character": "Gypsy's Wife",
+               "gender": 1,
+               "credit_id": "55a5dd37c3a3682baa00080d",
+               "name": "Helen Jerome Eddy",
+               "profile_path": "/hp3DDgoCKwglMfRmklCS90UzQRd.jpg",
+               "id": 34213,
+               "order": 37
+            },
+            {
+               "cast_id": 47,
+               "character": "Rudy",
+               "gender": 2,
+               "credit_id": "55a5dd5b925141099b0007bb",
+               "name": "Neil Fitzgerald",
+               "profile_path": null,
+               "id": 117696,
+               "order": 38
+            },
+            {
+               "cast_id": 48,
+               "character": "Mother",
+               "gender": 0,
+               "credit_id": "55a5dd67c3a3682baf0007e1",
+               "name": "Brenda Fowler",
+               "profile_path": "/miKjeYBETVpD0J8uUsVYDqF9Shx.jpg",
+               "id": 1046807,
+               "order": 39
+            },
+            {
+               "cast_id": 49,
+               "character": "Villager (uncredited)",
+               "gender": 2,
+               "credit_id": "55a5ddbf92514109a100086b",
+               "name": "John George",
+               "profile_path": "/gEhNTzAQ2EoZzpAQWMYQuOVkSpF.jpg",
+               "id": 97999,
+               "order": 40
+            },
+            {
+               "cast_id": 50,
+               "character": "Villager",
+               "gender": 0,
+               "credit_id": "55a5ddccc3a3682bb2000802",
+               "name": "Helen Gibson",
+               "profile_path": null,
+               "id": 135394,
+               "order": 41
+            },
+            {
+               "cast_id": 51,
+               "character": "Girl",
+               "gender": 0,
+               "credit_id": "55a5dddb925141099b0007c4",
+               "name": "Marilyn Harris",
+               "profile_path": null,
+               "id": 1146154,
+               "order": 42
+            },
+            {
+               "cast_id": 52,
+               "character": "Neighbor",
+               "gender": 2,
+               "credit_id": "55a5de2b92514109990007d3",
+               "name": "Rollo Lloyd",
+               "profile_path": null,
+               "id": 975120,
+               "order": 43
+            },
+            {
+               "cast_id": 53,
+               "character": "Victim in flashback",
+               "gender": 2,
+               "credit_id": "55a5de71c3a3682baa00082b",
+               "name": "Torben Meyer",
+               "profile_path": "/aEVmODp4Fv3TxaDiNpoIJC5ubx7.jpg",
+               "id": 12153,
+               "order": 44
+            },
+            {
+               "cast_id": 54,
+               "character": "Coroner",
+               "gender": 0,
+               "credit_id": "55a5debec3a3682baa000838",
+               "name": "Edwin Mordant",
+               "profile_path": null,
+               "id": 1206587,
+               "order": 45
+            },
+            {
+               "cast_id": 55,
+               "character": "Villager",
+               "gender": 2,
+               "credit_id": "55a5decd92514109a4000889",
+               "name": "Edward Peil Sr.",
+               "profile_path": "/9V0HC5JxvDlPSyai4SZ9HwhCGZa.jpg",
+               "id": 13791,
+               "order": 46
+            },
+            {
+               "cast_id": 56,
+               "character": "Auntie Glutz",
+               "gender": 1,
+               "credit_id": "55a5df1fc3a3682baa000841",
+               "name": "Tempe Pigott",
+               "profile_path": null,
+               "id": 29603,
+               "order": 47
+            },
+            {
+               "cast_id": 57,
+               "character": "Marta",
+               "gender": 0,
+               "credit_id": "55a5eae7925141099e000919",
+               "name": "Sarah Schwartz",
+               "profile_path": null,
+               "id": 1487414,
+               "order": 48
+            },
+            {
+               "cast_id": 58,
+               "character": "Neighbor",
+               "gender": 0,
+               "credit_id": "55a5eb0092514109a70009b0",
+               "name": "Mary Stewart",
+               "profile_path": null,
+               "id": 557480,
+               "order": 49
+            },
+            {
+               "cast_id": 59,
+               "character": "Hunter at Hermit's Cottage",
+               "gender": 2,
+               "credit_id": "55a5eb1292514109a70009b2",
+               "name": "Frank Terry",
+               "profile_path": null,
+               "id": 148384,
+               "order": 50
+            },
+            {
+               "cast_id": 60,
+               "character": "Villager",
+               "gender": 0,
+               "credit_id": "55a5eb20925141099e000924",
+               "name": "Anders Van Haden",
+               "profile_path": null,
+               "id": 1367613,
+               "order": 51
+            },
+            {
+               "cast_id": 61,
+               "character": "Maid",
+               "gender": 1,
+               "credit_id": "55a5eb3292514109ab000988",
+               "name": "Dorothy Vernon",
+               "profile_path": "/6P1TPGLYj3X2vt94EbCCCBWlLsM.jpg",
+               "id": 927616,
+               "order": 52
+            },
+            {
+               "cast_id": 62,
+               "character": "Priest",
+               "gender": 0,
+               "credit_id": "55a5eb43c3a3682bb40008d4",
+               "name": "Lucio Villiegas",
+               "profile_path": null,
+               "id": 1487415,
+               "order": 53
+            },
+            {
+               "cast_id": 63,
+               "character": "Queen Homunculus",
+               "gender": 1,
+               "credit_id": "55a5eb71c3a3682baf00092c",
+               "name": "Joan Woodbury",
+               "profile_path": "/iN5cJbzUThqlwbmVsoEkNiZ1Pi4.jpg",
+               "id": 89746,
+               "order": 54
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4229c3a36847f8008d25",
+               "name": "James Whale",
+               "profile_path": "/xyJ2YCs8eUZoPQ5SUHGadFosEWR.jpg",
+               "id": 2917,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4229c3a36847f8008d2b",
+               "name": "Carl Laemmle Jr.",
+               "profile_path": "/hxZVAnYE16aGEa3ihIastQQUQWU.jpg",
+               "id": 1557,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4229c3a36847f8008d31",
+               "name": "Franz Waxman",
+               "profile_path": null,
+               "id": 8619,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4229c3a36847f8008d37",
+               "name": "Ted J. Kent",
+               "profile_path": null,
+               "id": 2920,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4229c3a36847f8008d3d",
+               "name": "William Hurlbut",
+               "profile_path": null,
+               "id": 2921,
+               "department": "Writing",
+               "job": "Author"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4229c3a36847f8008d83",
+               "name": "John L. Balderston",
+               "profile_path": null,
+               "id": 1546,
+               "department": "Writing",
+               "job": "Author"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4229c3a36847f8008d89",
+               "name": "John J. Mescall",
+               "profile_path": null,
+               "id": 2940,
+               "department": "Camera",
+               "job": "Director of Photography"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Horror",
+            "id": 27
+         },
+         {
+            "name": "Science Fiction",
+            "id": 878
+         }
+      ],
+      "popularity": 6.499116,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 229,
+      "vote_count": 258,
+      "budget": 393750,
+      "overview": "Bride of Frankenstein begins where James Whale's Frankenstein from 1931 ended. Dr. Frankenstein has not been killed as previously portrayed and now he wants to get away from the mad experiments. Yet when his wife is kidnapped by his creation, Frankenstein agrees to help him create a new monster, this time a woman.",
+      "similar": [
+         7191,
+         124905,
+         3160,
+         3076,
+         3035,
+         5876,
+         105,
+         3034,
+         293167,
+         27274,
+         3146,
+         228066,
+         315011,
+         138,
+         10225,
+         30793,
+         3077,
+         39256,
+         373571,
+         15767
+      ],
+      "original_title": "Bride of Frankenstein",
+      "runtime": 75,
+      "poster_path": "/7YOfYQ6yhpBYWOh8vFQYfo2mm5I.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+         "name": "Universal Pictures",
+         "id": 33,
+         "origin_country": "US"
+      }],
+      "release_date": "1935-04-21",
+      "vote_average": 7.5,
+      "belongs_to_collection": {
+         "backdrop_path": "/oR3GHwhvOcjn124b7wOZl9SHh8G.jpg",
+         "name": "Frankenstein (Universal Series)",
+         "id": 218406,
+         "poster_path": "/2PJYpPHOqnVMXelHV1T4t6zra4i.jpg"
+      },
+      "tagline": "The monster demands a mate.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Black and White",
+      "budgetCurrency": "$",
+      "directors": ["James Whale"],
+      "runtime": 75,
+      "synopsis": "Mary Shelley ( Elsa Lanchester), author of Frankenstein, or The Modern Prometheus, reveals to Percy Shelley ( Douglas Walton) and Lord Byron ( Gavin Gordon) that Henry Frankenstein ( Colin Clive) and his Monster ( Boris Karloff) did not die. Both lived, and went on to even stranger misadventures than before. We flashback to scenes from Frankenstein (1931), which lead up to our new story. After the mill collapses, and it seems the Monster has been destroyed, the burgomeister ( E.E. Clive) urges everyone to return to their homes. But the father ( Reginald Barlow) of the little girl whom the Monster had killed (accidentally) in the first film, wants to see the creature's dead body with his own eyes before he can have peace. His wife ( Mary Gordon) tries to stop him; but when the man wanders through the still-burning debris, he falls through a hole that leads to a flooded cavern below the mill. The Monster rises out of the water and kills the poor man, later doing the same for his wife. The Frankensteins' hysterical servant Minnie ( Una O'Connor) also meets with the Monster, but manages to escape with her life. But no one believes her when she screeches that the Monster is still on the loose. Henry wants nothing more than to settle into a peaceful life with his new bride ( Valerie Hobson). But his old professor, the sinister Dr. Pretorius ( Ernest Thesiger), now disgraced, appears unexpectedly and convinces him to continue his work of creating new life. Pretorius has been conducting his own experiments but can do no better than to create people who are a few inches tall. Soon the village learns that the Monster is still alive. They capture him, but the powerful creature escapes his prison and goes wandering through the forest as the villagers hunt him. The Monster discovers an isolated cabin occupied by an old blind hermit ( O.P. Heggie) who is playing the violin. The creature and the lonely hermit soon become friends, as the old man teaches the Monster the joys of music, cigars, bread and wine. The Monster understands human speech and soon learns to speak himself. They've both finally found happiness, which is dashed when two travelers stop by to ask directions. They recognize the Monster and attack him, inadvertently burning down the hermit's cabin in the battle. The Monster runs away, miserable once again. A chance meeting in a tomb brings Dr. Pretorius and the Monster together; and Pretorius uses the Monster to kidnap Mrs. Frankenstein and blackmail Henry into returning to his castle and continuing his experiments. The Monster wants his creator to build him a friend; and Pretorius wants to see dead tissue become a living woman. Henry is forced to give his creature a bride. Henry and Pretorius succeed in following the creation of Man with the creation of Woman ( Elsa Lanchester again). But Woman is not happy with Man and backs away from him, hissing in horror and fear. The Monster is despondent. He frees Henry and his wife, and then releases a lever that blows the castle to atoms, thus destroying himself, his bride and Dr. Pretorius. Well, not quite. In the next film, Son of Frankenstein (1939), we learn that the Monster has managed to survive yet again.",
+      "writers": [
+         "Mary Shelley",
+         "William Hurlbut"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0026138/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BOTUzMzAzMzEzNV5BMl5BanBnXkFtZTgwOTg1NTAwMjE@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Boris Karloff, Elsa Lanchester, Colin Clive | See full cast and crew »"],
+      "reviews": [
+         "Their are few sequels that are superior to their predecessors, however, Bride of Frankenstein not only equals it's masterful original prototype Frankenstein (1931), but infinitely surpasses it in every way. Despite the first films reputation as a classic, it's honestly not quite as witty and is much too straightforward when being compared to much more satirical, Bride of Frankenstein. Not to mention, it lacks much of the sophistication in the effects and eccentricities that the immortal sequel possesses. Needless to say, both films are justly hailed as classics, but it's the immortal sequel where James Whale's combining of horror and wicked humour (and \"hidden\" inflammatory work) is expressed more clearly and more prominently. After initially refusing to do a sequel to Frankenstein, director James Whale would eventually falter when Universal agreed to let him have complete artistic freedom. Production was much-publicised as early as 1933, however, Whale, who was following his towering success with Frankenstein, The Invisible Man, and The Old Dark House, wouldn't begin working on a sequel until late 1934, which was originally entitled The Return of Frankenstein. The film was adapted by William Hurlbut and John Balderston from an incident from the Mary Shelly novel Frankenstein, in which the monster demands a mate. However, in the novel, Dr. Frankenstein creates the Bride, but instead of bringing the monster to life, he decides to destroy it, greatly differing the film adaptation from the novel. Most of the original cast remained, as the film reunited Colin Clive (as Dr. Frankenstein) with Boris Karloff (as the Monster), but Mae Clarke, a blonde, who was dropped from Universal was replaced by then seventeen year old Valerie Hobson, a brunette (as Elizabeth). Clark was acceptable in the role as Elizabeth in the first film, however, Hobson excels when in comes to chewing up scenery; therefore handles the role much better in the sequel. Both Marilyn Harris (Little Maria from Frankenstein) and Dwight Frye (Fritz from Frankenstein) would return as well, but as different characters - Harris appearing uncredited and Frye appearing in another memorable role as Karl. Also, new characters were brought to the forefront: Ernest Thesiger (as Dr. Pretorius) with Una O'Connor (as Minnie) and Elsa Lanchester having a dual role (as both Mary Shelley and The Bride). Unfortunately, Clive had suffered from a broken leg during most of the filming - a result from a horseback riding accident - and most of his scenes were shot sitting or laying down. However, once again, Clive did an absolutely incredible job portraying Dr. Henry Frankenstein and proved to be a perfect choice yet again. Though, for much of the film, he takes a backseat to the fine and unique acting of Thesiger, who gives an unforgettable performance as the \"mad scientist\" named Dr. Septimus Pretorius, who much of the film revolves around. There is a sexual uncertainty to Pretorius' character and many suggestions of homosexuality. With the films masterful blend of horror and black comedy, it's Thesiger who shines best and in many ways the film is stolen by him when he's seen on screen; the equally charismatic O'Connor works best when playing directly opposite of Thesiger. Bride of Frankenstein is also presented with the same terrific German expressionist camera-work by cinematographer John J. Mescall, although reportedly drunk through much of the production, uses brilliantly effective camera movements and angles that added eminently to the creation of the Bride scene. Mescall also composed a number of bizarre and inventive angles that intensified Thesiger's skeleton-like frame and vivid characteristics aiding his already superb performance. Although for Karloff, the four hour makeup job done by Jack P. Pierce, which was blue-green in colour, gave Mescall nothing but problems. The film is also accompanied by a fascinating score composed by Franz Waxman, which is nothing less than a masterpiece of excitement and melody. Though it wouldn't be Waxman's most mature work, it most certainly remains one of his most famous and probably his most influential. Much of the film concerns itself mostly with the Monster (Karloff) trying to find a place in the world and his growth; much of his character is seen as a humanely being craving for the company and acceptance of others but is mostly rejected. He fails to seek friendship with the young shepherdess (Ann Darling); with the Monsters experience in the first film with Little Maria, he knows that he must save her from drowning. Of course, everyone finds him too frightening, however, in one of the many incredible scenes the film provides, the Monster is eventually provided with sympathy and encouragement when he encounters the old blind hermit (O.P. Heggie), who becomes the Monsters first true friend. Karloff's performance is truly remarkable, as it was in Frankenstein. Although, he opposed that the Monster speak, his character benefits greatly from this, as he finds room to expand on his already brilliant craft. The memorable sequence of bringing the Monster's Bride (Lanchester) to life is unequaled - even the original scene in Frankenstein pales in comparison. The presentation of the birth of the Bride is stunningly as well, as Clive exclaims: \"She's alive! ALIVE!\" Lanchester who only stood 5'4\" tall was placed on stilts that made her 7'0\" tall, as well as, her unforgettable shock hairstyle which stood up and hinted that the electricity had shocked her to life was held by a wired horsehair cage. Also, her darting swan-like movements were inspired by the angry swans in London's Regent Park. Although, the Bride's appearance is extremely brief, it's most certainly worth it, especially when she finally encounters the Monsters. The macabre, satirical Bride of Frankenstein is a key film to the horror genre (perhaps the best) and one of the genuinely great films of any genre. It's one of the most wonderfully crafted films in cinema history and is easily lauded as Whale's finest screen hour. This one has rightfully deserved it's ranking amongst the best of what Hollywood has to offer.",
+         "Forget the likes of \"The Godfather II\" and \"The Empire Strikes Back\" - \"Bride of Frankenstein\" is THE greatest example of a sequel completely surpassing the original in terms of sheer brilliance. Coming four years after the original 'Frankenstein' in 1931, director James Whale was originally reluctant to make a sequel but changed his mind after being allowed to make the film more on his own terms. No other director has ever managed to blend horror, comedy and pathos as successfully Whale. The film features some of the most memorable scenes in cinema history, notably the monster's encounter with a lonely hermit and the introduction of 'The Bride'. The film has it all: superb casting, tremendous sets and make up, memorable dialogue (\"To a new world of Gods and monsters\") and a brilliant score by Franz Waxman. Boris Karloff must surely be one of the greatest actors to ever appear on film. He manages to improve on his initial characterisation of the Monster, due mainly to the addition of dialogue (\"Friends, good!\"), and, unlike in the first movie, actually makes us feel total empathy for the Monster. Colin Clive returns as the reluctant Doctor F, Una O'Connor makes a wonderful addition as the twittering and hysterical Minnie, but it is Ernest Thesiger who steals the film with his hilarious performance (\"Have a cigar. They are my only weakness\") as the sinister Dr. Pretorious. Although Elsa Lanchester appears as the Bride for only about 2 minutes at the film's finale, it will be the role for which she is forever associated. The film is regarded as the high point of the Universal horror series and stands as a testament to the genius of James Whale.",
+         "James Whale's 'Frankenstein' was a landmark movie (released in 1931, a year of two other landmark movies, Todd Browning's 'Dracula' and Fritz Lang's 'M'), and one of the most important and influential movies ever made. 'Bride Of Frankenstein' is a very rare beast, a sequel which not only equals, but surpasses the original! In my mind it is the greatest sequel in the history of motion pictures, and a strong contender for the greatest horror movie of all time. It's certainly one of the most original, stylish and entertaining ones, that's for sure. Horror legend Boris Karloff reprises his role as The Monster and manages to top his brilliant original performance, and give his character even more depth and emotion. Colin Clive reappears as Dr. Frankenstein, and legendary character actor Dwight Frye (Fritz in the first movie and Renfield in 'Dracula') plays another memorable supporting role as Karl. The beautiful Valerie Hobson replaces Mae Clarke as Elizabeth (a smart move!), and the eagle eyed with spot future stars John Carradine and Walter Brennan in bit parts, but the best thing about the movie apart from Karloff, is the addition of Elsa Lanchester as The Monster's \"bride\", and the wonderfully eccentric Ernest Thesiger as the nutty and sinister Dr. Pretorious. Karloff, Thesiger and Lanchester between them are responsible for some of the most memorable scenes in cinema history, particularly the \"I...love....dead....Hate....living\" exchange, the sequence with the blind hermit (absolutely heartbreaking!), and of course, the totally unforgettable meeting between The Monster and his mate! This is still an astonishing movie experience almost seventy years after it was made. Every single time I watch it I marvel at it. 'Bride Of Frankenstein' is one of the best movies I have ever seen, horror or otherwise. This movie comes with my highest possible recommendation!",
+         "Series note: Although not imperative, it is strongly suggested that viewers take time to watch Frankenstein prior to Bride of Frankenstein. This is a linear continuation of the story of the first film, and the characters and motivations will have more meaning if you watch the series in order. Despite appearances to the contrary at the end of the first film, Frankenstein (1931), the monster has survived. The quickly recuperating Dr. Henry Frankenstein (Colin Clive) is paid a visit by Dr. Pretorius (Ernest Thesiger), who has been engaging in similar research into the creation and restoration of life. Although Frankenstein wants to quit the business after the atrocities documented in the first film, Pretorius tries to persuade him to continue, while at the same time, the monster starts to become more sophisticated. Although many fans prefer Bride of Frankenstein to Frankenstein, they are both 10s to me. Given tastes and typical comments about modern horror films, it is surprising that this film is the usual preference, as it is even more rooted in surrealist/absurdist fantasy and it is loaded with a wicked, campy humor--at times the film is more of a spoof of the first than a sequel. But at that, I love it. I love fantasy, surrealism and absurdism and I like my horror to be campy and humorous as much as I like it to be serious. Director James Whale had acquired more \"Hollywood clout\" in the four years since making the original film, and said that he wanted to treat Bride as a \"hoot\"--he found the premise to be \"highly amusing\". And that it is. Whale gives us whimsical elements from minor characters, such as Minnie (Una O'Connor), who provides a healthy dose of comic relief during the monster's \"resurrection\", to major characters' mannerisms, such as the Karloff's portrayal of the monster's newfound abilities and subtlety. Pretorius has a flamboyantly questionable sexuality (the film is permeated with all manner of complex sexual metaphors) and his creations are as bizarrely goofy as say, Jar Jar Binks (from Star Wars Episode 1 (1999)), although they do not dominate the film in the same way. Often noted as a standout element are the sets, and rightly so. Like the first film, the gorgeous sets show a heavy influence from German expressionist films, but here they are even more grand in scale and they are also more numerous and varied. The cinematography is as crisp as can be, and just as atmospheric (occasionally more so) as the first film. The presence of a score this time around works well, although the first film is just as notable for its ability to be just as dramatic without a score. The story in Bride of Frankenstein is much more sprawling and epic than in the first film. That fact neither makes it better or worse, but pleasantly different compared to Frankenstein's relatively tight, almost claustrophobic plot (which is appropriate for the subject matter). While Karloff's zombie-like muteness from Frankenstein was perfect in that context, it makes sense to have him mature here, and provides for some fantastic scenes, such as his interaction with the blind hermit (O.P. Heggie). Whale also chose to be much more literal and straightforward with the ethical and religious subtexts of the plot, and this film is notable for the large amount of verbal and visual references to God and Christianity--the visual references include the monster being hoisted on a \"pole\" as if being crucified, the monster descending into a grave with a crucifix looming over him, and a crucifix over a bed upon which the camera lingers. I actually prefer to think of Frankenstein and Bride of Frankenstein as two halves or a single film, and given their short running times, they can be viewed back to back in about two and a half hours. If you haven't seen either one yet, you owe it to yourself to watch them at least once.",
+         "This review also refers to FRANKENSTEIN (1931). The epitome of the Universal horror classics made by one the greatest practitioners of the genre, James Whale. He always wanted to be an A-list director and used to have mixed feelings about his horror work. Reluctant to make a sequel, he managed to assure himself of complete creative control over the project, putting together a unique blend of horror, suspense and tongue-in-cheek comedy that was quite unlike anything made before and has rarely been equaled ever since. It has been noted, but the original 1931 FRANKENSTEIN should be seen first, as this one picks up the storyline where FRANKENSTEIN left off. Considering the combined running time of about 140 min, both films can easily be watched back to back. The story sets off with a clever prologue between Mary Shelly (a short but great performance by Elsa Lanchester who also plays The Bride) and Lord Byron, who asks her to continue the tale of Dr. Frankenstein. Still recovering in his castle after the escape of the Monster, he is visited by the even more insane Dr. Pretorius (Ernest Thesinger). He is also experimenting with creating life (the miniature humans) and tries to persuade Frankenstein to join forces in order to create a female companion for the Monster (Boris Karloff), that is still at large wreaking havoc in the surrounding countryside. Although both films are justly hailed as classics, in my opinion BRIDE OF FRANKENSTEIN holds up much better to modern audiences than the original. Basically two things stand out: a great music score is added, which make everything seem much more alive and fast moving than in the original film. Secondly, the black humor and it's sense of self-parody, spoofing the genre and even underpinning Whale's earlier films greatly adds to the fun, compared to the much more basic and primitive FRANKENSTEIN. Admittedly, this is partly due to a larger budget, but combined with the fabulous production values, splendid sets, stunning photography and absolutely striking special effects, that still look pretty amazing, even by today's standards. I was stunned by the scene in which Dr. Pretorius shows off his miniature people, that he keeps in the glass jars. Even modern-day special effects specialists couldn't figure out how they did it. I don't know anything that comes even close until computer-generated effects took over. The eccentric Ernest Thesinger plays the role of his life and almost walks away with the film with his wonderful portrayal of the menacing Dr. Pretorius, who delivers one classic line after another. But the rest of the cast is just as good with particularly outstanding roles for - off course - Boris Karloff as the Monster, Elsa Lanchester in a dual role as The Bride (billed as \"?\") and Mary Shelley, and Una O'Connor as Minnie, Frankenstein's servant. I think it's one the very few films that can be enjoyed at almost any level, equally fun for (older) children and lovers of classic horror. This film proves that horror can be funny and intelligent and can be combined with splendid cinematic virtues. Not just Whale's best, this is one of the all-time great films. Camera Obscura --- 10/10",
+         "When Ernest Thesiger points and says, \"The bride of Frankenstein,\" rolling his r's, he creates one of the greatest scenes in cinematic history. I do consider the second film superior to the first (though I love them both) because of the complexity of the characters and, more specifically, the monster. In Shelley's book the monster is lonely but articulate. He seeks out a bride. Frankenstein creates one but then destroys her, making his creature furious and vengeful. This monster actually has a kind part to him. For him to be blunt force thug can only go so far. It works in the first film but how much more growling and stomping could there be? The scenes of him wandering in the countryside, meeting the lonely old blind man in the house in the woods, and being shown kindness by him is very touching. The monster is allowed some humanity; some privacy. We know this can't last because his creator has doomed him. We often see Victor as some kind of hero, but, in reality, he has committed an incredible sin against another being. He wants a companion, but she turns on him and destroys his hope. The setup, with Elsa Lanchester as Mary Shelley, talking with the foremost romantic poets of the time, Percy Shelley and Lord Byron (who also rolls his r's), is a great lead in as she brags about writing a story that will make your skin crawl. She must have been something in that male dominated society. Of course, her mother was one of the first to demand rights for women. When she reappears as the Bride, it is awesome. And who came up with the hair. It is one of those things like the monster's neck bolts, that has become such an icon for our culture. These early Universal films deserve to be judged as major movies. Just because the subject is horror, doesn't mean they should be dismissed. James Whale was a great director with an amazing vision.",
+         "Without a doubt, this is one of the greatest horror movies of all time and the highlight of James Whale's career. The atmosphere evoked from the sets is near perfect, and although actually filmed on the Universal back-lot, you can believe that you are being led through a 19th century Bavaria. Although Karloff portrayed the monster only 3 times, this was undoubtedly the pinnacle of his career, and the film that most fans will remember him for. Mention should also be made of the excellent performance given by Ernest Thesiger as Doctor Pretorious. I've been interested in movies since I was 4 years old and have \"Bride of Frankenstein\" to thank for that. Superb.",
+         "Interestingly, Whale did not want to make a sequel to his incredibly successful 1931 FRANKENSTEIN, and bowed to studio pressure only when he received assurance of absolute control. The result is perhaps his most personal film--a strange collage of Gothic horror, black humor, religious motifs, and sexual innuendo--and one of the great classics of the genre. The plot elaborates an idea contained in the Mary Shelly novel: Frankenstein is pressured to create a mate for the monster. In Shelly's novel, the doctor eventually balks; in the film, however, he sees the experiment through due to a mix of his own obsession and the manipulations of a new character, Dr. Pretorious, and the two create the only truly iconographic female monster in the film pantheon of the 1930s horror film: \"The Bride,\" brilliantly played by Elsa Lanchester. The cast is excellent throughout, with Colin Clive and Boris Karloff repeating their roles and Frankenstein and the monster, and Valerie Hobson an able replacement for Mae Clarke in the role of Elizabeth; Ernest Thesiger and Una O'Connor also give incredibly memorable performances as the truly strange Pretorius and the constantly hysterical maid Minnie. The art design is remarkable, and the Waxman score is justly famous. But the genius of the film lies not so much in these new and bizarre characters, in the familiar ones, or in the production values: it is in the way in which Whales delicately balances his elements and then subverts them. FRANKENSTEIN owes much of its power to its directness--it has a raw energy that is difficult to resist, still more difficult to describe. But THE BRIDE OF FRANKENSTEIN owes its power to its complexity. Nothing here is quite what it appears to be, and throughout the film we constantly receive mixed messages about the characters and implications of their situations. While Thesiger's Dr. Pretorius is justly celebrated as a covert gay icon of the darkest possible variety, and while many people quickly grasp Whale's often subversive use of Christian imagery, the film has many, many layers that do not reveal themselves upon a single viewing. The single most startling sequence, at least to my mind, is the famous scene in which the Monster stumbles into the lonely cottage of the blind hermit, a role beautifully played by O.P. Heggie. On the surface, the sequence would seem to be about how cruelly we judge people by appearances, and how true kindness can lift the fallen. It was not until I had seen the film several times that it dawned upon me that Whale has essentially endowed the a scene with a host of covertly homosexual overtones--and then tied them to a series of Christian elements for good measure. It is startling, to say the least. The current Universal DVD release is exceptional, and the film is supported with an interesting documentary and a still more interesting audio commentary track. Critics and fans continue to battle of whether FRANKENSTEIN or THE BRIDE is the better film--but I say they are so completely different that the question simply doesn't arise. Whatever the case, if you are a fan of 1930s horror and James Whale in particular, this is a must own see, must own. Gary F. Taylor, aka GFT, Amazon Reviewer",
+         "When I first saw Frankenstein (1931), I was amazed. It was one of the greatest stories I ever saw and it impressed me on so many levels. I honestly didn't think I would ever see such a great phenomenon again. Well, I should reconsider that. The sequel is even more magical, more impressive and more perfect. The bride of Frankenstein can easily be considered as the best horror movie ever made and it even ranks high it the list of best movies in general ever made. The atmosphere, the locations, the acting and direction...really nothing at all can be criticized. Compared to what everybody thought, both the Monster and Dr. Frankenstein survived the incident at the windmill at the end of the original Frankenstein. While the Monster flees to freedom, Dr. Frankenstein is approached by Dr. Pretorius. A wicked scientist who created life himself, but he needs the genius of Dr. Frankenstein to complete his project. Although he swore to his girl Elizabeth he would stop playing God, Frankenstein is intrigued by the the project of Dr. Pretorius and joins his research. Meanwhile, the Monster is feeling terrible. He realizes he scares everybody away and only found friendship with a blind man. During this absolutely beautiful and magical scene he learns to talk and express his emotions. When he's hunted down again he meets Dr. Pretorius and demands him to make him a friend. Because of this, Dr. Pretorius can force Frankenstein to create life again. If he doesn't, Elizabeth shall die... This movie gives a completely other meaning to the word \"sequel\". When this word is heard, people usually think about an inferior product which was made to make more money. This certainly isn't the case for The Bride of Frankenstein. Hard to believe, but this movie, in fact, ADDS a lot of great things to the saga of Frankenstein. It handles even more about the human emotions and contains some very important lessons. We also see a lot more about the personalities of the characters. The Monster of course, but also Dr. Frankenstein and his girl. And a few great new characters are introduced. The blind man to begin with...An adorable man who is as lonely as the creature. He doesn't judge on what he sees ( well, he can't of course ) and searches for deeper feelings. The character of Dr. Pretorius is fantastic also. A wicked and obsessed man, who doesn't care about normal life. He's rude and emotionless and terrific as the bad guy in the story. The story opens with Mary Shelley telling the complete story. This immediately sets the perfect atmosphere which is held during the whole movie. No doubt about this...one of the greatest masterpieces ever seen. If you haven't seen it yet, do whatever it takes to get a copy !!! I gave the original Frankenstein a rating 10 out of 10, so I guess there isn't a rating that is high enough to praise The Bride of Frankenstein. Just as good as cinema can get !!!",
+         "Reactions to this, James Whale's ageless masterpiece, are varied; some say it just could be the Greatest Horror Film Ever Made, some think it's just an overblown tongue-in-cheek comedy sham. Probably Whale himself would have been the first to label his picture a \"farce\", but count me among those who think it's a brilliant piece of work, well in consideration as one of the undisputed top-tier horror classics of any decade. It qualifies as horror, but mostly plays along more like a child's twisted storybook fantasy. It's renowned as one of the few movie sequels which may be considered even better than its original (in this case, that would be James Whale's 1931 FRANKENSTEIN). While I think both films are excellent, with the first being more serious in tone than its follow-up, I'd give the hair's edge to BRIDE. Boris Karloff returned to portray the Frankenstein Monster, and he gives what is easily one of his finest performances. Here, the scarred creature emerges from the charred windmill he was burned in, and falls into the unscrupulous hands of the demented Dr. Pretorius (Ernest Thesiger, note-perfect in a part he seems born to play). Pretorius was once a colleague of Henry Frankenstein, the monster's creator (Colin Clive), and now connives his way back into the disinterested Frankenstein's life just as he's about to wed his fiancé, Elizabeth (Valerie Hobson). This time, the idea is to fashion a female for the creature, and Pretorius enlists the hulking Monster as an anxious partner into his scheme. Karloff gets to talk as the Monster in this film, and while the actor himself believed it was a mistake to give the creature speech, I must respectfully disagree; it made him even more pitiable and human. The film's most wonderful sequence features the wandering creation stumbling awkwardly into the hut of a lonely blind hermit, who cannot see and therefore is unable to judge the Monster strictly from his unnerving physical appearance. Instead, he offers the creature food, water, and a place to sleep, while teaching him the most basic forms of communication. It is a truly great cinematic moment. There is very little to quibble about within this film (Valerie Hobson's hysterical Elizabeth comes the closest at achieving that), and Whale's passion for lightweight comic relief in his horror films works perfectly. Aside from Thesiger's Pretorius, much of that comes courtesy of Una O'Connor, who is a delight as Frankenstein's sniveling maid. Elsa Lanchester immortalized herself forever with her electrified hairdo as the Monster's intended Mate, and she is also seen early on in a dual performance prologue as the more dainty Mary Shelley, the author who \"penned the nightmare\". Franz Waxman's glorious score punctuates the wondrous proceedings. **** out of ****"
+      ],
+      "genres": [
+         "Horror",
+         "Sci-Fi"
+      ],
+      "productionCompanies": ["Universal Pictures"],
+      "summaries": [
+         "Dr. Frankenstein and his monster both turn out to be alive, not killed as previously believed. Dr. Frankenstein wants to get out of the evil experiment business, but when a mad scientist, Dr. Pretorius, kidnaps his wife, Dr. Frankenstein agrees to help him create a new creature, a woman, to be the companion of the monster.",
+         "In this sequel to Frankenstein (1931) both Henry Frankenstein and his monster have survived. The monster, thought to be dead by the local villagers, is found out when he attempts to save a young girl from drowning. He's taken into custody but escapes into the woods where he meets a blind man who enchants him with his violin. Dr. Frankenstein meanwhile is forced to work with the mad Dr. Pretorius who has also been experimenting with the creation of life. When the monster eventually returns home Frankenstein and Pretorius create a woman to be his friend. It leads to disaster when she rejects him.",
+         "Mary Shelley, author of \"Frankenstein, or The Modern Prometheus,\" reveals to Percy Shelley and Lord Byron that Henry Frankenstein and his Monster did not die. Both lived, and went on to even stranger misadventures than before. As the new story begins, Henry wants nothing more than to settle into a peaceful life with his new bride. But his old professor, the sinister Dr. Pretorius, now disgraced, appears unexpectedly. Eventually, he and the Monster blackmail him into continuing his work. The Monster wants his creator to build him a friend; and Pretorius wants to see dead tissue become a living woman. Henry is forced to give his creature a bride.",
+         "Mary Shelley reveals the main characters of her novel survived: Dr. Frankenstein (goaded by an even madder scientist) builds his monster a mate."
+      ],
+      "budget": 397000
+   },
+   "movielensId": 1340,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1935-04-21",
+      "dvdReleaseDate": "1999-10-19",
+      "directors": ["James Whale"],
+      "runtime": 75,
+      "movieId": 1340,
+      "title": "Bride of Frankenstein",
+      "mpaa": "NR",
+      "actors": [
+         "Boris Karloff",
+         "Elsa Lanchester",
+         "Colin Clive",
+         "Valerie Hobson",
+         "Ernest Thesiger",
+         "Gavin Gordon",
+         "Douglas Walton",
+         "Una O'Connor",
+         "E.E. Clive",
+         "Lucien Prival",
+         "O.P. Heggie",
+         "Dwight Frye",
+         "Reginald Barlow",
+         "Mary Gordon",
+         "Anne Darling",
+         "Walter Brennan",
+         "John Carradine",
+         "Ted Billings",
+         "Norman Ainsley",
+         "Peter Shaw",
+         "Kansas DeForrest",
+         "Josephine McKim",
+         "Michael Mark",
+         "Billy Barty",
+         "Bess Flowers",
+         "Robert Adair",
+         "Norman Ainsley",
+         "Frank Benson",
+         "Maurice Black",
+         "Mae Bruce",
+         "A.S. Byron",
+         "D'Arcy Corrigan",
+         "Grace Cunard",
+         "Jack Curtis",
+         "J. Gunnis Davis",
+         "Kansas DeForrest",
+         "Elspeth Dudgeon",
+         "Helen Jerome Eddy",
+         "Neil Fitzgerald",
+         "Brenda Fowler",
+         "John George",
+         "Helen Gibson",
+         "Marilyn Harris",
+         "Rollo Lloyd",
+         "Torben Meyer",
+         "Edwin Mordant",
+         "Edward Peil Sr.",
+         "Tempe Pigott",
+         "Sarah Schwartz",
+         "Mary Stewart",
+         "Frank Terry",
+         "Anders Van Haden",
+         "Dorothy Vernon",
+         "Lucio Villiegas",
+         "Joan Woodbury"
+      ],
+      "imdbMovieId": "0026138",
+      "originalTitle": "Bride of Frankenstein",
+      "genres": [
+         "Horror",
+         "Science Fiction"
+      ],
+      "youtubeTrailerIds": [
+         "rYD3-pIF9jQ",
+         "gJoE3AIHTjU"
+      ],
+      "plotSummary": "Bride of Frankenstein begins where James Whale's Frankenstein from 1931 ended. Dr. Frankenstein has not been killed as previously portrayed and now he wants to get away from the mad experiments. Yet when his wife is kidnapped by his creation, Frankenstein agrees to help him create a new monster, this time a woman.",
+      "tmdbMovieId": 229,
+      "avgRating": 3.73031,
+      "releaseYear": "1935",
+      "numRatings": 2514,
+      "posterPath": "/7YOfYQ6yhpBYWOh8vFQYfo2mm5I.jpg"
+   }
+}

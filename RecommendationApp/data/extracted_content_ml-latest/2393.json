@@ -1,0 +1,515 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "starship",
+            "id": 1472
+         },
+         {
+            "name": "alien",
+            "id": 9951
+         },
+         {
+            "name": "space opera",
+            "id": 161176
+         },
+         {
+            "name": "retribution",
+            "id": 162388
+         },
+         {
+            "name": "spacecraft officer",
+            "id": 162392
+         },
+         {
+            "name": "exploding ship",
+            "id": 162399
+         },
+         {
+            "name": "cosmos",
+            "id": 204390
+         }
+      ],
+      "imdb_id": "tt0120844",
+      "video": false,
+      "title": "Star Trek: Insurrection",
+      "recommendations": [
+         193,
+         201,
+         199,
+         174,
+         172,
+         157,
+         168,
+         152,
+         154,
+         2157,
+         926,
+         865,
+         846,
+         11884,
+         10153,
+         1648,
+         5549,
+         9208,
+         2605,
+         8413
+      ],
+      "backdrop_path": "/yaattgmMQ9dLg6n8XPXAER8WI2C.jpg",
+      "revenue": 118000000,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 8,
+               "character": "Captain Jean-Luc Picard",
+               "gender": 2,
+               "credit_id": "52fe4226c3a36847f8007c27",
+               "name": "Patrick Stewart",
+               "profile_path": "/wEy5qSDT5jT3ZASc2hbwi59voPL.jpg",
+               "id": 2387,
+               "order": 0
+            },
+            {
+               "cast_id": 9,
+               "character": "Commander William T. Riker",
+               "gender": 2,
+               "credit_id": "52fe4226c3a36847f8007c2b",
+               "name": "Jonathan Frakes",
+               "profile_path": "/51Z5EbZxtVPm6GiN0Wc9CLP4z3s.jpg",
+               "id": 2388,
+               "order": 1
+            },
+            {
+               "cast_id": 30,
+               "character": "Lt. Commander Data",
+               "gender": 2,
+               "credit_id": "52fe4226c3a36847f8007c8b",
+               "name": "Brent Spiner",
+               "profile_path": "/gYaOWwycKcSEPQzUOITt9DA5AcY.jpg",
+               "id": 1213786,
+               "order": 2
+            },
+            {
+               "cast_id": 11,
+               "character": "Lt. Commander Geordi La Forge",
+               "gender": 2,
+               "credit_id": "52fe4226c3a36847f8007c2f",
+               "name": "LeVar Burton",
+               "profile_path": "/C3Jj0fNoPxZXDyDapm8lHyUh7o.jpg",
+               "id": 2390,
+               "order": 3
+            },
+            {
+               "cast_id": 29,
+               "character": "Lt. Commander Worf",
+               "gender": 2,
+               "credit_id": "52fe4226c3a36847f8007c87",
+               "name": "Michael Dorn",
+               "profile_path": "/d89cHhByE4kpzQcUB7z51YV3EjA.jpg",
+               "id": 2391,
+               "order": 4
+            },
+            {
+               "cast_id": 13,
+               "character": "Doctor Beverly Crusher",
+               "gender": 1,
+               "credit_id": "52fe4226c3a36847f8007c33",
+               "name": "Gates McFadden",
+               "profile_path": "/zPx8IwxNwgCZOhpGad5h0mrLV2q.jpg",
+               "id": 2392,
+               "order": 5
+            },
+            {
+               "cast_id": 14,
+               "character": "Counselor Deanna Troi",
+               "gender": 1,
+               "credit_id": "52fe4226c3a36847f8007c37",
+               "name": "Marina Sirtis",
+               "profile_path": "/ueHzqv6uN6Mhf1DC3IjTPhNafYq.jpg",
+               "id": 2393,
+               "order": 6
+            },
+            {
+               "cast_id": 18,
+               "character": "Gallatin",
+               "gender": 2,
+               "credit_id": "52fe4226c3a36847f8007c47",
+               "name": "Gregg Henry",
+               "profile_path": "/ltCW4AenmpuDau3x5etBkGxiCkV.jpg",
+               "id": 2518,
+               "order": 7
+            },
+            {
+               "cast_id": 15,
+               "character": "Ad'har Ru'afo",
+               "gender": 2,
+               "credit_id": "52fe4226c3a36847f8007c3b",
+               "name": "F. Murray Abraham",
+               "profile_path": "/vXurMA6XOAREPEyW6QRu5xKfGIT.jpg",
+               "id": 1164,
+               "order": 8
+            },
+            {
+               "cast_id": 16,
+               "character": "Vice-Adm. Dougherty",
+               "gender": 2,
+               "credit_id": "52fe4226c3a36847f8007c3f",
+               "name": "Anthony Zerbe",
+               "profile_path": "/ekhT4eIQP3XloHFTRr0THiVP9ve.jpg",
+               "id": 2516,
+               "order": 9
+            },
+            {
+               "cast_id": 17,
+               "character": "Anij",
+               "gender": 1,
+               "credit_id": "52fe4226c3a36847f8007c43",
+               "name": "Donna Murphy",
+               "profile_path": "/tUQp54rrkCJ9u9Ygy8IYiq9DvMk.jpg",
+               "id": 2517,
+               "order": 10
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4226c3a36847f8007bff",
+               "name": "Jonathan Frakes",
+               "profile_path": "/51Z5EbZxtVPm6GiN0Wc9CLP4z3s.jpg",
+               "id": 2388,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4226c3a36847f8007c05",
+               "name": "Rick Berman",
+               "profile_path": null,
+               "id": 2381,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4226c3a36847f8007c0b",
+               "name": "Marty Hornstein",
+               "profile_path": null,
+               "id": 2504,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4226c3a36847f8007c11",
+               "name": "Peter Lauritson",
+               "profile_path": null,
+               "id": 2383,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4226c3a36847f8007c17",
+               "name": "Michael Piller",
+               "profile_path": null,
+               "id": 2514,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4226c3a36847f8007c1d",
+               "name": "Patrick Stewart",
+               "profile_path": "/wEy5qSDT5jT3ZASc2hbwi59voPL.jpg",
+               "id": 2387,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4226c3a36847f8007c23",
+               "name": "Michael Piller",
+               "profile_path": null,
+               "id": 2514,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4226c3a36847f8007c4d",
+               "name": "Matthew F. Leonetti",
+               "profile_path": null,
+               "id": 2507,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4226c3a36847f8007c53",
+               "name": "Ron Wilkinson",
+               "profile_path": null,
+               "id": 2508,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4226c3a36847f8007c59",
+               "name": "John M. Dwyer",
+               "profile_path": null,
+               "id": 796,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4226c3a36847f8007c5f",
+               "name": "Sanja Milkovic Hays",
+               "profile_path": null,
+               "id": 2519,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4226c3a36847f8007c65",
+               "name": "Jerry Goldsmith",
+               "profile_path": "/e6sd10VuwFXkgRFrCTCygbhMq2q.jpg",
+               "id": 1760,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4226c3a36847f8007c6b",
+               "name": "Ludwig van Beethoven",
+               "profile_path": "/pxsUbM4yCsdZV5jjmBxW5W5lp6U.jpg",
+               "id": 2522,
+               "department": "Sound",
+               "job": "Additional Soundtrack"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4226c3a36847f8007c71",
+               "name": "Herman F. Zimmerman",
+               "profile_path": null,
+               "id": 2083,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4226c3a36847f8007c77",
+               "name": "Junie Lowry-Johnson",
+               "profile_path": "/1WIEz9uYLpsv28tcvnH97OgcYoF.jpg",
+               "id": 2399,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4226c3a36847f8007c7d",
+               "name": "Ron Surma",
+               "profile_path": "/pIYCGqN9BEqvm48UIzwpT71uh5J.jpg",
+               "id": 2400,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4226c3a36847f8007c83",
+               "name": "Peter E. Berger",
+               "profile_path": null,
+               "id": 2033,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5374936fc3a36815300027ed",
+               "name": "Garet Reilly",
+               "profile_path": null,
+               "id": 1319747,
+               "department": "Costume & Make-Up",
+               "job": "Costume Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53749389c3a368153900267a",
+               "name": "Robert Blackman",
+               "profile_path": null,
+               "id": 2397,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5675e51192514179d4003a65",
+               "name": "Jack Keller",
+               "profile_path": null,
+               "id": 1551320,
+               "department": "Crew",
+               "job": "Sound Recordist"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Science Fiction",
+            "id": 878
+         },
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Adventure",
+            "id": 12
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         }
+      ],
+      "popularity": 11.877908,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 200,
+      "vote_count": 481,
+      "budget": 70000000,
+      "overview": "When an alien race and factions within Starfleet attempt to take over a planet that has \"regenerative\" properties, it falls upon Captain Picard and the crew of the Enterprise to defend the planet's people as well as the very ideals upon which the Federation itself was founded.",
+      "similar": [
+         20424,
+         49849,
+         126889,
+         602,
+         348,
+         16866,
+         228161,
+         1891,
+         1892,
+         395,
+         601,
+         607,
+         608,
+         10200,
+         54138,
+         47933,
+         118340,
+         13475,
+         18,
+         299687
+      ],
+      "original_title": "Star Trek: Insurrection",
+      "runtime": 103,
+      "poster_path": "/9pbc44kltJhArUNyrdQcantMEvH.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
+         "name": "Paramount",
+         "id": 4,
+         "origin_country": "US"
+      }],
+      "release_date": "1998-12-10",
+      "vote_average": 6.3,
+      "belongs_to_collection": {
+         "backdrop_path": "/r7MMQenUURHhAVHFymtOb8AX4Bm.jpg",
+         "name": "Star Trek: The Next Generation Collection",
+         "id": 115570,
+         "poster_path": "/sddV6vaUC6x37icJS3opIXTXB07.jpg"
+      },
+      "tagline": "The battle for paradise has begun.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Jonathan Frakes"],
+      "runtime": 103,
+      "synopsis": null,
+      "writers": [
+         "Gene Roddenberry",
+         "Rick Berman"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0120844/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMjA3NDI5MzQ1OF5BMl5BanBnXkFtZTcwMzcxNDI4OA@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Patrick Stewart, Jonathan Frakes, Brent Spiner | See full cast and crew »"],
+      "reviews": [
+         "In my personal opinion, and as an avid Next Generation fan, without a doubt \"Insurrection\" is one of the best Star Trek films, and the third outing for Picard, Riker, Deanna and the rest of the Next Generation crew stays most true to their esteemed television series. This time round, the crew are faced with a violation of the Prime Directive and whether or not the 600 people who live on a literal planet-of-youth are more important than the millions of other people that could benefit from the planet's regenerative powers. Action, drama, comedy and romance follow in true Star Trek spectacular. As always Patrick Stewart is in top form as Captain Picard who leads the Star Trek resistance to save the innocents from one of his own corrupt superiors Vice Admiral Dougherty (played terrifically by Anthony Zerbe) who are involved with some aliens (including F. Murray Abraham's Ad'har). Along the way Picard finds a new friend in Anij (played by the lovely Donna Murphy), one of the Ba'ku, and a little romance follows. Jonathan Frakes once again directs and does an outstanding job, though it does mean his character Commander Riker gets a bit less screen time, though he is always a pleasure to watch. Riker's relationship with Commander / Counsellor Deanna Troi heats up in this film (and it's about time too!) Marina Sirtis of course returns as the lovely Troi and gets a fairly good amount of screen time this time round, and certainly most of the comical moments. Frakes and Sirtis have great chemistry together. Brent Spinter's Data gets (as usual) too much screen time, again his story consists of his quest to become more human and the like, though he does befriend a Ba'ku child which was done quite well. As usual Gates McFadden (Dr. Beverly Crusher), Michael Dorn (Lt. Commander Worf) and LeVar Burton (Lt. Commander LaForge) are given very little to do in the Star Trek films, and this one is no exception, though at least Worf and LaForge got their own small story lines - Worf had to go through puberty again and LaForge found himself with the ability to see. Beverly however only gets a \"storyline\" involving her boobs firming up. Terrific. Poor Gates must be the most under-appreciated actress in all of Star Trek, but also the most gracious for returning each time. The special effects of \"Star Trek: Insurrection\" are above average, and the music score is really well done. Often its the small moments in the Next Generation films that are the best, and this one is no different, but at least the big moments are good too. I think the \"Star Trek the Next Generation\" films are probably the only action-type films in which the heroes are all (with the exception of Marina Sirtis) in their 50's and people still want to watch them. Quite interesting too that a main theme of the movie was the eternal youth. At least when the sad time comes that the Next Generation cast are no longer alive, they will be immortalised in history by their much loved characters and beautiful stories, just like \"Insurrection\".",
+         "I would say that this movie rivals the skill of the first \"Next Generation\" movie, First Contact. If anything, the dialogue is more refined and the humour, of which there is a great deal, is well timed and raised smiles at suitable points in the movie. Many have criticised the writers for either making the humour too silly or, for not daring to take the jokes to the belly-laugh level. Personally, I think the film is richer for the homour, which seems natural, not forced, and generally hit its targets. After all though, it's not a comedy. Insurrection is a movie which displays far more humanity than the cold, but nevertheless enthralling, First Contact. To compare the movies is difficult, as they are very different, and opinions will inevitably clash. Both movies have a different agenda, I think. I would dare to say that Insurrection would do a better job at converting people to the Star Trek \"cause\" than would any of the other films. Before watching, I knew little about Star Trek, and it really stoked my interest in the series. In evaluating Insurrection I realised that the film has several outstanding set-pieces, some of which are very memorable, such as the high-speed chase between Picard and Data through the cloud layers, with The Captain trying to coax Data into performing a scene from Gilbert and Sullivan's HMS Pinafore. The scene is outrageous, and very surreal, and extremely well done. Another example would be the attack of the flying miniature transporter robots, where Worf really gets to prove how brave, and violent, he really is. Finally, the acting is universally good, and Stewart puts in a performance of depth, although not as impressive as in First Contact. The plot of Insurrection is slight, and alone doesn't manage to hold the attention. But the other elements that go into producing a good movie, such as the script, acting, directing, and, dare I say it, special effects, add up to an entertaining whole. I think that free of the limitations imposed by the \"classic trek\" rules, and the campy acting that dogged the earlier Trek flicks, the Star Trek franchise will flourish, and this movie shows how much a cast enjoying what they are doing adds to the fun and feel-good factor of watching the film with a cinema full of enthralled viewers. Well done Jonathan Frakes!",
+         "Don't let some of the bad reviews for this film put you off watching it. I finally got around to watching it last week and I must say that It was no where near as bad as what some people have said about it. In-fact I thought it was pretty good. It's not the best Star Trek film but it's not the worst either. Some people have criticized it by saying that it looks like an extended television episode- All the films except 'the motion picture' have - what's the point of changing the television look and feel when it is so good? The one time they did try to change it from the episode feel (the motion picture) it was crap. Come on people, this is Star Trek - what were you expecting - this was not meant to be another Shawshank Redemption. I like this film so I'm going to give it 8 out of 10 because I don't care what other people say.",
+         "This is probably the best of the recent Trek films. Honestly, I don't know why many people don't like it when production wise, it couldn't have been any better. Each scene is nicely constructed and utilizes all the necessary ingredients of film making. OK, the story was simple but for what the story was, screen writer Michael Piller, wrote a screenplay that is so polished, that every one-liner was perfectly timed and the dialogue was very sharp. The drama and story unfolded not too slowly and not too fast. The characterization was fantastic particularly the conflict between Piracy and Admiral Ross. It's a story about fighting for what you believe in, which every character in the film, even the bad guys, does until the bitter end. There is no rules that says a science fiction film or Star Trek must have a complex storyline, but a storyline that tells a story and tells it well is what Insurrection does perfectly I don't enjoy action films and I think 'Star Trek: First Contact' is one of the most overrated sci-fi actioneers in years. Insurrection had a very human story and is also very audience friendly for those who have never seen Star Trek. I think people need to take another look at this film and ask what is wrong with it apart from the story being too simple? Production design looks great, the film is beautifully shot, Jerry Goldsmith's score was perfect, and the energy from performances from the entire cast comes off in the film like no other Star Trek movie. 'Star Trek: Insurrection' is a very underrated film, and a film that deserves way more credit. SCORE: 9 out of 10",
+         "It was interesting to rewatch and reevaluate \"Insurrection\" because at the time when I saw it in the theater I was extremely disappointed. I even felt a little ripped off, because the whole affair felt to me like a pretty standard Star Trek episode stretched like the skin of the alien villains in the film well past the point of integrity. I also felt disappointed that Berman and the other Paramount decision makers had further abandoned any attempt at character development or continuity between films in the series. There just seems to be a lack of ambition and imagination surrounding the entire project. Although I definitely enjoyed it much more this time around \u0096 maybe it's just that an extended ST:TNG episode is more appealing now in 2007 than it was in 1998\u0085 the show has been off the air for a few years now and is barely syndicated at this point. But I also noticed some positive qualities \u0096 Geordi LaForge was always my favorite supporting character in the show and he gets his best scene in the series here watching a sunset with Picard after gaining his vision. F. Murray Abraham is as good as the script will let him be and the makeup effect is pretty striking (I love how he starts bleeding from pores in his face when he gets angry). There are some excellent set pieces like the bit with Picard and Worf chasing down a renegade Data and singing Gilbert and Sullivan to pacify him. The first time I saw it I was confused by the characters departing so much from their established personalities, but this time I realized it was due to the sci-fi element, the effects of the planet's healing properties on the crew. From that perspective it's very nice to see characters reverting back to earlier behavior and I like seeing the clean-shaven Riker again though I never bought his relationship to Troi. But the essential reality hasn't changed. The sets and locations look and feel exactly like a dozen episodes of the Next Generation show, and the costumes for the aliens are downright mundane. It's impossible not to be reminded of little Wesley Crusher (thank the gods of ST that he and Alexander did not make film appearances) getting in trouble for throwing a ball in the bushes, when you see these perfect and mellow people in their \"paradise.\" The direction by Frakes is standard TV direction just like in \"First Contact.\" Too much of the story revolves around the 2 central plot twists, and you can almost feel the commercial break coming on. Abraham's villain is fun to look at and the concept is good, but he never really confronts Picard or the Enterprise in such a way that the conflict feels personal. Donna Murphy is a fine actress and it's great to see Picard \"hook up\", but their love affair is too gentle to be believable, totally lacking in drama, and then it's dispensed with at the conclusion far too easily\u0085. Again, just like a TV episode in which the consequences of the episode cannot intrude into the flow of the series. One thing I did like, however, was the central concept \u0096 the search for immortality is universal and compelling, and tying it into the history of \"forced relocations\" adds the kind of real-world resonance that \"First Contact\" and the first 3 films in the original series were lacking. The fact that members of the Federation are in a conspiracy and that their motives remain ambiguous even after the conspiracy is uncovered is also very much in the spirit of the best qualities of the Next Generation show with its increased emphasis on political intrigue, another element missing from previous Star Trek films (with the notable exception of \"The Undiscovered Country.\" Another interesting story element of note \u0096 on the commentary for \"1st Contact\" regular series writers Brannon Braga and Ronald Moore discuss an original draft in which Picard remains on the planet and is involved in a love affair while Riker fights the aliens in space as a \"B plot\" (btw, it's telling how even now the screenwriters discuss plot mechanics exactly like a TV episode). Here we have a different credited writer, but the resulting plot is very similar to what was originally conceived for \"First Contact\" but changed apparently on Patrick Stewart's request. In the final analysis, I feel the film is actually more pleasing to me as a fan because it's more true to the tradition of Star Trek than \"First Contact.\" At least this one actually utilizes science-fiction ideas, as opposed to simply doing an action movie in space. But the film isn't as ambitious as it should be, and I feel the central problem is that the alien culture was made too simple and earth-bound, the melodrama between Picard and his love interest was non-existent, and overall there's just not enough meat on this story's bones. But what we do get is pretty well done and pleases me as a fan of the show.",
+         "\"We are betraying the principles upon which the Federation was founded,\" states Captain Jean-Luc Picard 49 minutes into the ninth Star Trek film, \"It's an attack upon its very soul.\" \"Jean-Luc,\" answers his superior, Admiral Dougherty, \"We're only moving six-hundred people.\" \"How many people does it take, Admiral, before it becomes wrong,\" asks Picard in return, \"A thousand. Fifty Thousand. A million?\" The above exchange occurs during Insurrection's key scene. The entire first half of the film meticulously builds to this conversation between Starfleet officers. Dougherty (Anthony Derbe) justified his actions because the needs of the many outweigh the needs of the few. Picard (Patrick Stewart) sights the Prime Directive, which prohibits interference with other cultures or their natural development. The two officers had remained on a collision course until the moment when something had to give. The conflict begins during a routine survey. Insurrection opens with a gorgeous panorama of an agrarian village. Children frolic about in the tall grass outside the perimeter. Farmers lift gates to aqueducts, women laugh pleasantly as they slam down their bread dough for kneading and the blacksmith works away. We are treated to long panoramic looks at the restful town and its benign inhabitants, the Ba'ku. Members of a culture survey walk about unnoticed in their isolation suits, invisible to the eye. Director Jonathan Frakes' willingness to take so much time introducing the audience to the setting demonstrates an unusual amount of focus for a movie like this. The peace is shattered when Data (Brent Spiner) begins acting wildly. He exposes the survey and follows with many more bizarre and aggressive actions. The architects of survey, Admiral Dougherty and the So'na leader Ad'har Ru'afo (F. Murray Abraham) orbit above the planet. Data's behavior puzzles and scares them, and they ask Picard how to destroy him. Delaying his orders, Picard (Patrick Stewart) arrives and successfully captures Data. Against the wishes of Dougherty, Picard stays to determine why his android became a loose cannon. Picard acquaints himself with Anij (Donna Murphy), a Ba'ku woman who informs him that Data told the Ba'ku that the survey team was their enemy. A short investigation uncovers a conspiracy to forcibly remove the Ba'ku from their planet. The planet, buried deep in a gaseous cloud called the Briar Patch, has rings that act as a fountain of youth to its inhabitants. Dougherty and Ru'afo believe that the planet must be used for medical reasons, and Picard is forced to make the choice to abandon the Ba'ku or violate his orders. It is at this point when the film accelerates. The conflict becomes a proverbial chess match between grand masters as the Enterprise crew tries to keep the planet inhabited. Both sides devise as many solutions as they can think of to accomplish their missions. The audience is almost invited to participate as the movie keeps them wondering what the next move will be. The script shines with an abnormal level of polish. It deftly handles the question of whether an officer should obey orders or stand up for what is right. Almost every line flawlessly captures the writers' intent and communicates them to the viewers with beautiful yet easily understood diction. Every character sounds expressive and well educated. The dialogue is free-flowing and enjoyable. There is even a scene where Picard calms Data with a rousing rendition of \"A British Tar.\" I imagine the production staff had a good laugh when they thought of that one. The acting is of the highest Trek standards. Abraham, one of the true gentlemen in Hollywood, is exceptionally good as Ru'afo. He is so superior that he has every subtlety mastered. The way his face sneers when he says \"Eliminate them,\" his vocal inflections, his different postures, his mannerisms, the passion and disdain in his voice all point to the work of a true master. Hatred seems to perspire from his every pore. A blood vessel bursts in his face and we can almost see hate flowing out of it. His friend Gellatin (Gregg Henry) is constantly talking him out of more extreme decisions. For Ru'afo, it is personal, but we do not find out why until the final act. He tops it all off with the best scream of anguish and frustration ever captured on film. Ru'afo may not quite be the most effective Star Trek villain, but Abraham's acting is the best in the series. He is not the most prolific actor, but he is arguably one of the best ever. Sadly, some of the story devices fall flat. In First Contact, the Enterprise was the most advanced starship ever made. Its quantum torpedoes were so powerful that it seemed nigh invincible. Here, however, it is too weak. There is one exchange where it is fighting with two So'na ships and seems badly overmatched. The Enterprise-E was designed to take on small fleets and win. If the Federation could defeat \"the Borg, the Cardassians, the Dominion,\" why can't the crown jewel of its fleet defeat two So'na cruisers? It is even controlled at one point by simple joystick. I never knew flying a 700-meter starcraft was so simple. Redemption does come with the ingenious denouement of the fight. There are also other moments that do not work, and some jokes fall flat. In the end, Insurrection shoots itself in the foot. It also suffers from following First Contact and the Borg. It is an entirely different production with different goals. It may hurt itself, but in the end it is solid enough entertainment to rate a seven out of ten.",
+         "If you are a Star Trek fan( of which i am) you will not be disappointed by Insurrection. The story is good and the acting is up to it's high standards the only let downs are the lack of any real great special affects and the lame enemies. I would not say this is as good as first contact but never the less well worth watching. 7 out of 10",
+         "This is one of the best Star Trek movies! It is exciting, funny and supported by Jerry Goldsmith's fourth Star Trek score. In contrast to Star Trek-First Contact very many scenes of the film do not play on the Enterprise, but on the paradise-like planet of the Ba'ku. This film is not only exciting, it also criticizes society. In many countries, for example in Ireland, people of the same races fight each other. This movie illustrates that these fights are senseless and that all people belong to one race. Jerry Goldsmith's score is also very extraordinary which makes the movie even more worth watching. Especially the Ba'ku theme is so good that you have after having seen this movie a good impression of it.",
+         "And at the end they could have rode off into the nebula; Data would be alive and I wouldn't have this bad taste in my mouth for Next Generation Star Trek (Thank you STX). There are some parts that are sickeningly derivative, the cheesy villain having his face fixed up ala Brazil, the main example. And the captain defying orders taken too many examples--Indeed one could say Picard acts more like Kirk in this one but one can contribute that to the atmosphere around him (at least they explained it in someway) but there's also plenty of good moments. 5)Beverly toting a phaser! 4)Worf with his Klingon Zit. 3)I love the little love story between Picard and Anjj did not seem fakey (Lucas should have watched this when he scripted Episode II) 2)The big, funny surprise!--Data playing in the hay with the boy. 1)THE SCENE WHERE GEORDI'S ON THE MOUNTAIN LOOKING AT THE SUN--That is the most moving Geordi scene in all three Next Generation movies! There's a wide range of humorous angles here that the next movie sorely lacks which covers a lot of this movie's predictability; indeed that's what makes this filming charming--you don't know who's going to start it. It's not a the top Star Trek file for me it'still STII and VIII but it's not at the bottom (10 & 5). It's worth a look see again and again.",
+         "Prior to being SF,Western,sexy,or otherwise,a movie,any movie,ought to be,first,an excellent cinematographic achievement,good cinematography. In fact,there is no such thing as \"great SF\",or \"great Western\",but only great cinematography. \"Star Trek IX\" is a masterpiece of naturalness,humor,casualness,wit and art.This way,SF adventure who does not choose the dystopia avoids also the insipid utopianism. Frakes directed the \"Star Trek\" movies that I like most.This is what I want from a SF movie.\"Star Trek:Insurrection\" is charming and fluent. Stewart,Spiner,Mrs. McFadden do great job in this film. Fortunately,Mrs. Sirtis has a greater role. There is a wonderful flavor of intelligence and good taste in this movie. \"Star Trek\" VIII and IX,Frakes' works,are mature movies,with a wealth of ideas,resourcefulness,creativity,etc.,an exquisite visual quality, what I've always wished and asked for."
+      ],
+      "genres": [
+         "Action",
+         "Adventure",
+         "Sci-Fi",
+         "Thriller"
+      ],
+      "productionCompanies": ["Paramount Pictures"],
+      "summaries": [
+         "Lt. Commander Data was taking part in an operation the Federation has with a race known as the Son'a to observe another race known as the Ba'ku. They are wearing stealth suits so that the Ba'ku cannot see them. But suddenly, Data rips off his stealth suit, reveals himself and exposes everyone. Picard is them contacted by Admiral Dougherty who tells Picard that Data has to be stopped even if it means destroying him. Picard requests permission to try and stop him without doing that, he succeeds. He then tries to find out what happened to Data. That's when they discover a plot by the Son'a and the Federation to remove the Ba'ku from the planet because they want to tap the radiation being emitted by the nearby planet's rings which have regenerative properties. Picard then airs his objections to Dougherty who tells him that everything they are doing is within the Federation guidelines. That's when Picard steps down as Captain and decides to help the Ba'ku. Data, Crusher, Worf and Troi join him, while Riker and LaForge try to get the Federation to reconsider. When Ru'afo, the leader of the Son'a, learns of what Picard is doing, he decides to remove the Ba'ku even if it means eliminating them.",
+         "While on a mission to observe the peaceful Ba'ku race, Lt. Commander Data suddenly malfunctions, revealing himself and exposes a Starfleet task force assigned there. The immortal Ba'ku live in harmony with nature and reject advanced technology in their daily lives. Their planet and their culture is secretly researched by the Federation associated with an alien race called the Son'a. When the Son'a--and forces within Starfleet--attempt to take over the planet that has \"magical\" properties, it falls upon Captain Picard and the crew of the Enterprise-E to defend the Ba'ku as well as the very ideals upon which the Federation itself was founded.",
+         "Lt. Commander Data, on a mission to observe the Ba'ku race, suddenly behaves as if having to fear for his existence. The peaceful Ba'ku, whose planet offers regenerative radiation and therefore incredible lifespans, live in harmony with nature and reject any kind of technology. Their planet and their culture is researched by Starfleet and the associated Son'a - in secrecy. But the Son'a, lead by Ru'afo, intend to abduct the Ba'ku in order to take the planet for themselves and for the Starfleet officials who all would like to regenerate their bodies. But they did not think of the loyalty of Captain Picard and the crew of the Enterprise-E to the Prime Directive.",
+         "Engage! Captain Jean-Luc Picard and his Next Generation crew are back. From the beginning of the Federation, the Prime Directive was clear: no Starfleet expedition may interfere with the natural development of other civilizations. But now Picard is confronted with orders that undermine that decree. If he obeys, 600 peaceful residents of Ba'ku will be forcibly removed from their remarkable world, all for the reportedly greater good of millions who will benefit from the Ba'ku's Fountain of Youth-like powers. If he disobeys, he will risk his starship, his career, his life. But for Picard, there's really only one choice. He must rebel against Starfleet... and lead the insurrection to preserve Paradise.",
+         "When the crew of the Enterprise learn of a Federation conspiracy against the inhabitants of a unique planet, Captain Picard begins an open rebellion."
+      ],
+      "budget": 58000000
+   },
+   "movielensId": 2393,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1998-12-10",
+      "dvdReleaseDate": "1999-05-11",
+      "directors": ["Jonathan Frakes"],
+      "runtime": 103,
+      "movieId": 2393,
+      "title": "Star Trek: Insurrection",
+      "mpaa": "PG",
+      "actors": [
+         "Patrick Stewart",
+         "Jonathan Frakes",
+         "Brent Spiner",
+         "LeVar Burton",
+         "Michael Dorn",
+         "Gates McFadden",
+         "Marina Sirtis",
+         "Gregg Henry",
+         "F. Murray Abraham",
+         "Anthony Zerbe",
+         "Donna Murphy"
+      ],
+      "imdbMovieId": "0120844",
+      "originalTitle": "Star Trek: Insurrection",
+      "genres": [
+         "Science Fiction",
+         "Action",
+         "Adventure",
+         "Thriller"
+      ],
+      "youtubeTrailerIds": ["N1XmtdMZdL8"],
+      "plotSummary": "When an alien race and factions within Starfleet attempt to take over a planet that has \"regenerative\" properties, it falls upon Captain Picard and the crew of the Enterprise to defend the planet's people as well as the very ideals upon which the Federation itself was founded.",
+      "tmdbMovieId": 200,
+      "avgRating": 3.19202,
+      "releaseYear": "1998",
+      "numRatings": 10020,
+      "posterPath": "/9pbc44kltJhArUNyrdQcantMEvH.jpg"
+   }
+}

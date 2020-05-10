@@ -1,0 +1,967 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "sheriff",
+            "id": 798
+         },
+         {
+            "name": "wyoming",
+            "id": 1016
+         },
+         {
+            "name": "hitman",
+            "id": 2708
+         },
+         {
+            "name": "bag of money",
+            "id": 10856
+         },
+         {
+            "name": "neo-noir",
+            "id": 207268
+         }
+      ],
+      "imdb_id": "tt0105226",
+      "video": false,
+      "title": "Red Rock West",
+      "recommendations": [
+         25284,
+         14854,
+         31583,
+         26173,
+         10896,
+         18129,
+         19143,
+         40634,
+         6071,
+         9057,
+         1644,
+         12395,
+         10169,
+         13715,
+         10729,
+         32044,
+         27224,
+         6470,
+         31640,
+         21128
+      ],
+      "backdrop_path": "/5E1U1E09rrGed7pfhoaR2Q6SvDE.jpg",
+      "revenue": 2500000,
+      "reviews": [{
+         "author": "Steve",
+         "id": "576ec66292514128c2000af7",
+         "content": "A bit dated looking at it over 20 years later, but still entertaining.  A slick neo-noir that helped revive the genre.",
+         "url": "https://www.themoviedb.org/review/576ec66292514128c2000af7"
+      }],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Michael Williams",
+               "gender": 2,
+               "credit_id": "52fe436d9251416c7500ffdf",
+               "name": "Nicolas Cage",
+               "profile_path": "/fW37Gbk5PJZuXvyZwtcr0cMwPKY.jpg",
+               "id": 2963,
+               "order": 0
+            },
+            {
+               "cast_id": 5,
+               "character": "Lyle from Dallas",
+               "gender": 2,
+               "credit_id": "52fe436d9251416c7500ffef",
+               "name": "Dennis Hopper",
+               "profile_path": "/rq1n4dbFRXkaBspAbNzmNgyFMp.jpg",
+               "id": 2778,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Suzanne Brown",
+               "gender": 1,
+               "credit_id": "52fe436d9251416c7500ffe7",
+               "name": "Lara Flynn Boyle",
+               "profile_path": "/wAVWGJefzTgXWgop58H1ttHS5H6.jpg",
+               "id": 6684,
+               "order": 2
+            },
+            {
+               "cast_id": 6,
+               "character": "Wayne Brown",
+               "gender": 2,
+               "credit_id": "52fe436d9251416c7500fff3",
+               "name": "J.T. Walsh",
+               "profile_path": "/39KZjhJSyDjvBhKGj0IbGVteFAm.jpg",
+               "id": 22131,
+               "order": 3
+            },
+            {
+               "cast_id": 18,
+               "character": "Deputy Matt Greytack",
+               "gender": 2,
+               "credit_id": "542b1126c3a368118800020a",
+               "name": "Timothy Carhart",
+               "profile_path": "/1UEUs6UJdxjSbGakZflWuN4TS7T.jpg",
+               "id": 17396,
+               "order": 4
+            },
+            {
+               "cast_id": 19,
+               "character": "Deputy Russ Bowman",
+               "gender": 2,
+               "credit_id": "542b11380e0a26125000021d",
+               "name": "Dan Shor",
+               "profile_path": "/aIs4IgAlAaXE1RAdFrVUR4uZKiW.jpg",
+               "id": 2550,
+               "order": 5
+            },
+            {
+               "cast_id": 20,
+               "character": "Truck Driver",
+               "gender": 2,
+               "credit_id": "542b1148c3a368118500022f",
+               "name": "Dwight Yoakam",
+               "profile_path": "/pyqKTjGy0m4aBKDqbH4ne8hUwLi.jpg",
+               "id": 20309,
+               "order": 6
+            },
+            {
+               "cast_id": 2,
+               "character": "Jim",
+               "gender": 0,
+               "credit_id": "52fe436d9251416c7500ffe3",
+               "name": "Craig Reay",
+               "profile_path": null,
+               "id": 65253,
+               "order": 7
+            },
+            {
+               "cast_id": 21,
+               "character": "Mr. Johnson",
+               "gender": 2,
+               "credit_id": "576ec4399251415bf60029ac",
+               "name": "Vance Johnson",
+               "profile_path": null,
+               "id": 1641242,
+               "order": 8
+            },
+            {
+               "cast_id": 22,
+               "character": "Howard",
+               "gender": 0,
+               "credit_id": "576ec446c3a368750e000c60",
+               "name": "Robert Apel",
+               "profile_path": null,
+               "id": 1641243,
+               "order": 9
+            },
+            {
+               "cast_id": 23,
+               "character": "Old Man",
+               "gender": 0,
+               "credit_id": "576ec4539251415b40002a30",
+               "name": "Bobby Joe McFadden",
+               "profile_path": null,
+               "id": 1641244,
+               "order": 10
+            },
+            {
+               "cast_id": 24,
+               "character": "Kurt",
+               "gender": 2,
+               "credit_id": "576ec45fc3a36873ea000c47",
+               "name": "Dale Gibson",
+               "profile_path": "/tSO5Qx3X3HS93odAi9jdQ5YlmWz.jpg",
+               "id": 177645,
+               "order": 11
+            },
+            {
+               "cast_id": 25,
+               "character": "Cashier",
+               "gender": 0,
+               "credit_id": "576ec46bc3a36874d8000c4e",
+               "name": "Ted Parks",
+               "profile_path": null,
+               "id": 1641245,
+               "order": 12
+            },
+            {
+               "cast_id": 26,
+               "character": "Receptionist",
+               "gender": 1,
+               "credit_id": "576ec478c3a36874d8000c59",
+               "name": "Babs Bram",
+               "profile_path": null,
+               "id": 1641247,
+               "order": 13
+            },
+            {
+               "cast_id": 27,
+               "character": "Doctor",
+               "gender": 0,
+               "credit_id": "576ec48392514127c9000b9a",
+               "name": "Robert Guajardo",
+               "profile_path": null,
+               "id": 1641248,
+               "order": 14
+            },
+            {
+               "cast_id": 37,
+               "character": "Nurse",
+               "gender": 0,
+               "credit_id": "5ab41a8f9251417b08010447",
+               "name": "Sarah Sullivan",
+               "profile_path": null,
+               "id": 1538294,
+               "order": 15
+            },
+            {
+               "cast_id": 38,
+               "character": "Red Rock Bartender",
+               "gender": 0,
+               "credit_id": "5ab41ae1c3a3686197011c6c",
+               "name": "Michael Ruud",
+               "profile_path": null,
+               "id": 1195003,
+               "order": 16
+            },
+            {
+               "cast_id": 39,
+               "character": "Truck Driver's Buddy",
+               "gender": 2,
+               "credit_id": "5ab41dd10e0a265f2101198c",
+               "name": "Peter Kevin Quinn",
+               "profile_path": null,
+               "id": 2005291,
+               "order": 17
+            },
+            {
+               "cast_id": 40,
+               "character": "Country Girl Bartender",
+               "gender": 2,
+               "credit_id": "5ab41dfbc3a368617e01115a",
+               "name": "Jeff Levine",
+               "profile_path": null,
+               "id": 11408,
+               "order": 18
+            },
+            {
+               "cast_id": 41,
+               "character": "Ted",
+               "gender": 2,
+               "credit_id": "5ab41e440e0a265f2d012b54",
+               "name": "Shawn Michael Ryan",
+               "profile_path": null,
+               "id": 2005292,
+               "order": 19
+            },
+            {
+               "cast_id": 42,
+               "character": "Jane",
+               "gender": 1,
+               "credit_id": "5ab41ebc0e0a265f360128fc",
+               "name": "Barbara Glover",
+               "profile_path": "/d5rRqBA6frBbJh9F0jfsA5GZWoq.jpg",
+               "id": 2005294,
+               "order": 20
+            },
+            {
+               "cast_id": 43,
+               "character": "Caretaker",
+               "gender": 2,
+               "credit_id": "5ab41ee00e0a265f36012914",
+               "name": "Robert Beecher",
+               "profile_path": "/8uYs1ZA7aQhx5UneheV19QkMv89.jpg",
+               "id": 79590,
+               "order": 21
+            },
+            {
+               "cast_id": 44,
+               "character": "Caretaker's Wife",
+               "gender": 1,
+               "credit_id": "5ab42039c3a368618d011bb8",
+               "name": "Jody Carter",
+               "profile_path": "/jimA4HvqNox1to54h3g91EuieLK.jpg",
+               "id": 2005301,
+               "order": 22
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe436d9251416c7500fffd",
+               "name": "John Dahl",
+               "profile_path": "/klMxcB64Tu0sWCn3YDTMcGWPArQ.jpg",
+               "id": 21053,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe436d9251416c75010003",
+               "name": "John Dahl",
+               "profile_path": "/klMxcB64Tu0sWCn3YDTMcGWPArQ.jpg",
+               "id": 21053,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe436e9251416c75010009",
+               "name": "Rick Dahl",
+               "profile_path": null,
+               "id": 65254,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe436e9251416c7501000f",
+               "name": "Steve Golin",
+               "profile_path": null,
+               "id": 322,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe436e9251416c75010015",
+               "name": "Michael Kuhn",
+               "profile_path": null,
+               "id": 6713,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe436e9251416c7501001b",
+               "name": "Jane McGann",
+               "profile_path": null,
+               "id": 65255,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe436e9251416c75010021",
+               "name": "Sigurjón Sighvatsson",
+               "profile_path": null,
+               "id": 6590,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe436e9251416c75010027",
+               "name": "William Olvis",
+               "profile_path": null,
+               "id": 65256,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe436e9251416c7501002d",
+               "name": "Marc Reshovsky",
+               "profile_path": null,
+               "id": 42130,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe436e9251416c75010033",
+               "name": "Scott Chestnut",
+               "profile_path": null,
+               "id": 55178,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "576ec4c29251415bf60029e5",
+               "name": "Don Diers",
+               "profile_path": null,
+               "id": 958278,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 1,
+               "credit_id": "58e01cb7c3a3683d3e00f321",
+               "name": "Kate J. Sullivan",
+               "profile_path": null,
+               "id": 41898,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5ab4186c0e0a265f2a01264c",
+               "name": "Carol Lewis",
+               "profile_path": null,
+               "id": 21363,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab418ca0e0a265f2d0125d6",
+               "name": "Terry Dresbach",
+               "profile_path": null,
+               "id": 20787,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab41901c3a368616c0107a5",
+               "name": "Tim Clawson",
+               "profile_path": null,
+               "id": 64074,
+               "department": "Production",
+               "job": "Executive In Charge Of Production"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5ab419229251417af600fa9f",
+               "name": "Rick Dahl",
+               "profile_path": null,
+               "id": 65254,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab4193e0e0a265f2a012743",
+               "name": "Lynn Weimer",
+               "profile_path": null,
+               "id": 1366596,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5ab4197ec3a3686173010d89",
+               "name": "Robert Pearson",
+               "profile_path": null,
+               "id": 21963,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab419c7c3a368618d0115ad",
+               "name": "Aron Warner",
+               "profile_path": "/8VFfsfSRKabBgRQOZ344kEgy7RX.jpg",
+               "id": 12106,
+               "department": "Production",
+               "job": "Supervising Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5ab42338c3a368616c011058",
+               "name": "Philip Rose",
+               "profile_path": null,
+               "id": 2005316,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab432b60e0a265f21012a00",
+               "name": "Mike Topoozian",
+               "profile_path": null,
+               "id": 17217,
+               "department": "Directing",
+               "job": "First Assistant Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5ab43307c3a368617e012197",
+               "name": "Michael McCue",
+               "profile_path": null,
+               "id": 2005368,
+               "department": "Directing",
+               "job": "Second Assistant Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5ab4333c0e0a265f240136db",
+               "name": "Vincent Landay",
+               "profile_path": null,
+               "id": 6955,
+               "department": "Crew",
+               "job": "Post Production Supervisor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5ab433660e0a265f270127bf",
+               "name": "Nancy Karlin",
+               "profile_path": null,
+               "id": 1457729,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5ab433afc3a3686197013130",
+               "name": "Larry Shapiro",
+               "profile_path": null,
+               "id": 2005372,
+               "department": "Production",
+               "job": "Production Coordinator"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5ab433e39251417b050112ef",
+               "name": "Beth DePatie",
+               "profile_path": null,
+               "id": 72231,
+               "department": "Production",
+               "job": "Production Coordinator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5ab434309251417af6010ece",
+               "name": "Jeff Caulfield",
+               "profile_path": null,
+               "id": 2005373,
+               "department": "Production",
+               "job": "Assistant Production Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab43455c3a368615b011b0f",
+               "name": "Karl Owens",
+               "profile_path": null,
+               "id": 41941,
+               "department": "Camera",
+               "job": "First Assistant Camera"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5ab434ddc3a368615b011b70",
+               "name": "Jon Massey",
+               "profile_path": null,
+               "id": 2005379,
+               "department": "Camera",
+               "job": "Camera Loader"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5ab435110e0a265f2d013e72",
+               "name": "Suzanne Tenner",
+               "profile_path": null,
+               "id": 9360,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5ab4356a0e0a265f2d013ed5",
+               "name": "Mark Weingarten",
+               "profile_path": "/wsRszNSdLKbVpyUPKng0enkKqX6.jpg",
+               "id": 1555637,
+               "department": "Sound",
+               "job": "Sound Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab43668c3a368615f011bce",
+               "name": "Yehuda Maayan",
+               "profile_path": null,
+               "id": 1638067,
+               "department": "Sound",
+               "job": "Boom Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab436b70e0a265f21012d1e",
+               "name": "Stephen Rocha",
+               "profile_path": null,
+               "id": 104607,
+               "department": "Lighting",
+               "job": "Gaffer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5ab437019251417b080119fb",
+               "name": "Robert Eyslee",
+               "profile_path": null,
+               "id": 2005397,
+               "department": "Lighting",
+               "job": "Best Boy Electric"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab4372c9251417af9011962",
+               "name": "Dana Arnold",
+               "profile_path": null,
+               "id": 1427379,
+               "department": "Lighting",
+               "job": "Electrician"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab437720e0a265f21012db6",
+               "name": "Fred Gibson",
+               "profile_path": null,
+               "id": 1460043,
+               "department": "Lighting",
+               "job": "Electrician"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5ab437be0e0a265f33011c10",
+               "name": "Michael E. Gips",
+               "profile_path": null,
+               "id": 2005415,
+               "department": "Lighting",
+               "job": "Electrician"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5ab43803c3a36861730125f9",
+               "name": "Raymond Gonzales",
+               "profile_path": null,
+               "id": 2005419,
+               "department": "Lighting",
+               "job": "Electrician"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5ab438749251417af9011a5c",
+               "name": "Peter Pearce",
+               "profile_path": null,
+               "id": 2005423,
+               "department": "Lighting",
+               "job": "Electrician"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab438b10e0a265f2a01418b",
+               "name": "Gary W. Shaw",
+               "profile_path": null,
+               "id": 575697,
+               "department": "Lighting",
+               "job": "Electrician"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab438e20e0a265f30012ae5",
+               "name": "Mark Shane Davis",
+               "profile_path": null,
+               "id": 1895856,
+               "department": "Camera",
+               "job": "Key Grip"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab439169251417b02011270",
+               "name": "Levon Besnelian",
+               "profile_path": null,
+               "id": 1877711,
+               "department": "Camera",
+               "job": "Dolly Grip"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab439580e0a265f2a01420c",
+               "name": "Ronn Schmidt",
+               "profile_path": null,
+               "id": 42763,
+               "department": "Camera",
+               "job": "Additional Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab43a3dc3a368618d013070",
+               "name": "Jonathan R. Hodges",
+               "profile_path": null,
+               "id": 1410102,
+               "department": "Art",
+               "job": "Property Master"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab43aa89251417afb011c23",
+               "name": "Fríða Aradóttir",
+               "profile_path": null,
+               "id": 1413224,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab43ac90e0a265f21013089",
+               "name": "Patty York",
+               "profile_path": null,
+               "id": 5336,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab43ae30e0a265f24013cbd",
+               "name": "Lori Eskowitz",
+               "profile_path": null,
+               "id": 1732491,
+               "department": "Costume & Make-Up",
+               "job": "Costume Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab43bf2c3a3686173012973",
+               "name": "Frank Ceglia",
+               "profile_path": null,
+               "id": 13030,
+               "department": "Crew",
+               "job": "Special Effects Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab43c249251417afb011d3b",
+               "name": "Mark R. Byers",
+               "profile_path": null,
+               "id": 1415619,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5ab43ca5c3a368616c0123f5",
+               "name": "John Carl Buechler",
+               "profile_path": "/3JYXzXtEUTrUNPZch7bgdbPS1v1.jpg",
+               "id": 64722,
+               "department": "Crew",
+               "job": "Makeup Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab43cce9251417aff012a08",
+               "name": "Dean Gates",
+               "profile_path": null,
+               "id": 1206289,
+               "department": "Art",
+               "job": "Sculptor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5ab43d159251417b0b012a7b",
+               "name": "Dan Bradley",
+               "profile_path": null,
+               "id": 8684,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab43d42c3a368615f012184",
+               "name": "Rick Barker",
+               "profile_path": "/c9TxrxFyyy9RF5LfhpkkFO7kEhW.jpg",
+               "id": 12772,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab43d759251417af9011e5e",
+               "name": "Charlie Carpenter",
+               "profile_path": null,
+               "id": 1863278,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab43d8ac3a368617e012a00",
+               "name": "Scott Alan Cook",
+               "profile_path": null,
+               "id": 1862629,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5ab43dae0e0a265f3601432b",
+               "name": "Dale Gibson",
+               "profile_path": "/tSO5Qx3X3HS93odAi9jdQ5YlmWz.jpg",
+               "id": 177645,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab43df3c3a3686173012af3",
+               "name": "Don Ruffin",
+               "profile_path": null,
+               "id": 1340327,
+               "department": "Crew",
+               "job": "Stunts"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Crime",
+            "id": 80
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         }
+      ],
+      "popularity": 5.994778,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 10427,
+      "vote_count": 88,
+      "budget": 8000000,
+      "overview": "When a promised job for Texan Michael fails to materialise in Wyoming, Mike is mistaken by Wayne to be the hitman he hired to kill his unfaithful wife, Suzanne. Mike takes full advantage of the situation, collects the money and runs. During his getaway, things go wrong, and soon get worse when he runs into the real hitman, Lyle.",
+      "similar": [
+         101,
+         59967,
+         10651,
+         8909,
+         2252,
+         1948,
+         2501,
+         186,
+         180,
+         682,
+         949,
+         787,
+         1538,
+         4771,
+         245891,
+         156022,
+         189,
+         320,
+         27582,
+         249070
+      ],
+      "original_title": "Red Rock West",
+      "runtime": 98,
+      "poster_path": "/1qUuBCnz4JHAGzlQhO6JXvju471.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Propaganda Films",
+            "id": 278,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/sOg7LGESPH5vCTOIdbMhLuypoLL.png",
+            "name": "PolyGram Filmed Entertainment",
+            "id": 1382,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1993-07-08",
+      "vote_average": 6.5,
+      "belongs_to_collection": null,
+      "tagline": "Where nothing is as it seems.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["John Dahl"],
+      "runtime": 98,
+      "synopsis": null,
+      "writers": [
+         "John Dahl",
+         "Rick Dahl"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0105226/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTk0Mjg4OTc3OF5BMl5BanBnXkFtZTYwNzgzOTg5._V1_SY317_CR0,0,214,317_AL_.jpg",
+      "actors": ["Stars: Nicolas Cage, Dennis Hopper, Lara Flynn Boyle | See full cast and crew »"],
+      "reviews": [
+         "This is an excellent modern-day film noir....\"excellent\" in that it's interesting, start-to-finish. There are some holes in here and some goofy parts that make you shake your head in disbelief.....but I haven't found anyone who didn't get caught up in this story. The movie has the right amount of action, suspense, plot twists and interesting characters. In addition, it sports some nice colors and cinematography plus a good guitar-based soundtrack. I labeled this crime movie a \"film noir\" because it's gritty and the all the characters are no good. Even the only supposed-good guy, played by Nicholas Cage, gets himself in trouble by lying and has a quick affair he should't have. He also does something at the end which isn't right, but I'm not going the spoil it by saying. Suffice to say, however, that the rest of the characters are so bad they make Cage look good! Speaking of \"bad guys,\" does anyone do it better than Dennis Hopper? Not many. At least in the \"deranged\" category, he's tough to beat. Lara Flynn Boyle is fun to watch for a bunch of reasons. J.T. Walsh gives another great supporting performance, too. This is one of those films that never got much publicity, but it should have. You'll have fun watching this. By the way, try saying the name of this movie out loud three times fast without messing it up!",
+         "Vaguely reminiscent of great 1940's westerns, like \"The Treasure Of The Sierra Madre\" (1948), \"Red Rock West\" is a story about conscience, greed, and betrayal. Michael (Nicolas Cage) is a down and out, but honest, young man from Texas who goes west in search of work and money. He finds both, but not in the way he had expected. The film's screenplay contains plenty of surprises and plot twists. Excellent cinematography, adroit film editing, and moody western music add tension and suspense. The expansiveness of the big sky country provides a wonderful setting. And the acting ranges from good to excellent, with great performances from Dennis Hopper and J.T. Walsh. Dwight Yoakam's specially recorded country/western song provides the film with a strong finale. Correctly labeled as neo-noir, \"Red Rock West\" strikes me as being something else, as well. The plot is full of amazing coincidences and improbable timing, so much so that others may regard the screenplay as flawed. Ordinarily, I would agree. In this case, however, when combined with the moody atmosphere, and the fact that the small town of Red Rock seems almost empty of normal daily life, the coincidences and unlikely timing suggest a story that, beyond \"noirish\", is ... surreal. It's almost as if fate deliberately intervenes with improbable events so as to force Michael to come to grips with himself. From this point of view, the coincidences are not script flaws at all. They are necessary plot points in a nightmarish story of a young man who must confront his own demons ... disguised as other characters. All we need here is Rod Serling, in a postscript, explaining, in his always clearly enunciated voice, that ... a young man, searching for himself, stops in a small, almost deserted town a thousand miles from nowhere. It's his final layover in a journey to ... the twilight zone.",
+         "In any number of films, you can find Nicholas Cage as a strong, silent hero, Dennis Hopper as a homicidal maniac, Lara Flynn Boyle as a vamp/tramp, and the late, lamented J.T. Walsh as the heavy. These are the types of roles these four can play in their sleep, and they have done so often enough that to see them playing them again borders on cliche. What a relief, therefore, that John Dahl, a master at getting a lot of mood out of a little action, directed this nuanced noirish thriller. Hopper manages to keep from going over the top, Cage shows a little more depth than his usually-superficial action heroes, Boyle is by turns sultry, innocent, and scheming, and one gets a sense of the hard iron of the soul that is central to his character, Wayne. Dahl's direction gives a sense of the emptiness of the Big Sky country where the story takes place while also being intimate enough to show how a wrinkled brow can indicate a radical change of plot in store. The plot twists are top-notch, and one of the other great twists in this movie is that some of the supporting characters actually act as if they have brains. It isn't often that minor characters like deputy sheriffs have more brains than their headlining superiors. But with a director as smart as Dahl, you shouldn't be surprised by the intelligence of anything connected with this film. An excellent movie.",
+         "Red Rock West is what all films should be like. A genuinely interesting film with enough twists and turns to satisfy any sane human, it was tragically overlooked on its release. With Nicolas Cage (before his career went into orbit) in fine form and Dennis Hopper stealing scene after scene, this is a movie that withstands repeated watchings. The rest of the cast are uniformly excellent and the quirkiness of the setting (a small town in the middle of nowhere) never gets in the way. In short this is a great little film that deserves to be seen.",
+         "If you like plot turns, this is your movie. It is impossible at any moment to predict what will happen next. Nothing is as it appears or ends as you think it will. The characters are all gritty and engaging. Cage is at his best. Dennis Hopper again shows his delightfully sinister side. JT Walsh is perfect in his last performance. Laura Boyle sizzles. Dwight Yoakum makes a film debut superbly in a cameo. I categorize this movie as \"I am having a really, really, really bad day\" film. Not a slow minute in this film. A real sleeper. This movie is underrated and, sadly, overlooked.",
+         "A basically decent drifter (Nicolas Cage) lands in the tiny town of Red Rock, Wyoming, looking for work. When he stops in the bar, the bar owner (J. T. Walsh) asks why he took so long and asks him to step in the back office so they can discuss the job. Cage plays along, then discovers the work is to kill the bar owner's wife. He takes the money, drives out to the ranch to warn the wife (Laura Flynn Boyle), and starts to leave town. Problems arise and he returns to town in time to witness the real hit man (Dennis Hopper) arrive. Things go downhill for the Cage character after that. This is an excellent, convoluted, well-acted and offbeat mystery. Funny, too. Cage never knows what's happening, but everybody else assumes he does. Dennis Hopper again plays a charming semi-psycho but he hadn't patented the style yet so it seems fresh. J. T. Walsh was a great character actor who died young. He's outstanding as the bar owner...who also happens to be the sheriff. He has one or two other secrets as well. And if Boyle doesn't rev your engine, you may need a tune up. She's more ruthless than the lot of them.",
+         "\"Red Rock West\" was far and away one of the best suspense thrillers of the 90's with a superb script (by John and Rick Dahl) that kept you guessing throughout and on the edge of your seat for most of the film. It was brilliantly directed by John Dahl and featured a marvellous cast including Nicolas Cage, Dennis Hopper, Lara Flynn Boyle and especially J. T. Walsh (in a memorable performance) making this a riveting and captivating thriller not to be missed. The film never had much publicity on release (in fact I first caught up with it on TV) and is therefore one of those special little gems that you have to seek out but this unique film is now slowly gaining a cult following. Nicolas Cage is Michael Williams who is broke and out of work when he finds himself in the small town of Red Rock. Mistaken for a contract killer named Lyle from Dallas he is shocked to be offered $10,000 to murder the wife of bar owner Wayne Brown (the excellent J. T. Walsh). He plays along with the plan and decides he should go and warn Brown's wife Suzanne (Lara Flynn Boyle) but then the plot thickens and there are so many twists, turns and surprises - and double dealings - that Cage is thrown from one crisis to another and finds himself trapped in a terrible situation he can't drag himself out of! Then just to complicate matters even further the real Lyle turns up to carry out the contract killing (played by everyone's favourite heavy Dennis Hopper). When Hopper discovers what has happened he goes after Cage but no one could forsee the surprising events that follow. Some favourite lines from the film: Nicolas Cage (to Lara Flynn Boyle): \"I hate to see an innocent woman get hurt but it's an awful lot of money\". J. T. Walsh (to Cage): \"Michael Williams. Well, Michael, you're going to be spending some time with us till we get to the bottom of this\". Boyle (to Cage): \"You're not a killer?\". Cage: \"That's right, no. But the guy I'm supposed to be just rode into town so you gotta get out of here\". Boyle (to Cage): \"O.K. How you're going to explain impersonating a hired killer and taking $10,000 from my husband?\". An extraordinarily entertaining little thriller (just 98 minutes) with a storyline that never lets up and powerful acting by all the principals. Any film featuring J. T. Walsh is O.K. in my book and \"Red Rock West\" was one of his best. How sad it was that this exceptional actor's career was cut tragically short by a heart attack in 1998. The most prolific period for \"film noir\" was without any doubt the forties but \"Red Rock West\" is a good modern example of the genre and has jumped right into my \"Top Ten\" list of all time favourite films. I look forward to more like this from director John Dahl. 10/10. Clive Roberts.",
+         "Some movies you just know you're going to love from the first few seconds. This is one of those movies. Tracing it's roots back to \"Double Indemnity,\" and \"The Postman Always Rings Twice\" in the 40's - this was a great example of Modern Film Noir in the 90's. Nick Cage plays the \"down on his luck\" main character who gets entangled in a husband-wife murder plot - and his luck goes from bad to worse to even worse as he tries and tries to get away from the people, town, violence and threat of Red Rock West. Lots of twists and turns, great performances by Cage, Hopper and Walsh, an hypnotic slide-guitar musical backdrop, and seamless directing make this a real joy. Favorite Line: When Cage looks at the empty gas gauge in the get-away car, shakes his head and says: \"F***in' story of my life.\"",
+         "I came home late one night and turned on the TV, to see Siskel and Ebert summarizing their picks of the week. I didn't hear anything about \"Red Rock West\", except two thumbs up and see it before it went away. It wouldn't stay in theaters very long because of the distributor's money problems and lack of promotion, but they said it deserved better. The next afternoon, I followed their advice. They were right, it was some of the most fun I have ever had at the movies. As some readers point out, there are a few plot holes and the last 10 minutes don't ever seem to end. But it's well worth it, for the fine craftwork that went into the first hour. It's the best role that I have ever seen for Nicholas Cage, but almost everybody seems perfectly cast. Dennis Hopper goes almost over the top, which gets silly but reinforces how well everything else works. The sets and the music contribute a great deal to almost every scene. When I rented it later for my family, it didn't work as well. The long scenes that built the tension in the theater were difficult to appreciate, with the distractions at home. It deserves your full attention; turn off the phone, make sure you won't be disturbed, watch and listen to every scene, especially in the beginning.",
+         "\"Red rock west\" superbly ends on a train,while Dwight Yoakam's sensational \"A thousand miles from nowhere\" is heard during the final credits.One should note that the excellent soundtrack features two songs of the late great Johnny Cash and other chestnuts. What about the movie?It's an excellent entertaining flick.Two tremendous leads :Nicolas Cage ,who always seems overtaken by events,always looking stupefied and Dennis Hopper who does not take his character seriously and deliciously overacts while displaying a lot of humor.All the supporting cast is excellent ,and as absolutely no one can be trusted in this money story,there are enough twists to satisfy the action-packed movie buff.One should notice that ,towards the end ,in the graveyard ,the movie verges on horror. An excellent entertainment for a hard day's night."
+      ],
+      "genres": [
+         "Crime",
+         "Drama",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "PolyGram Filmed Entertainment",
+         "Propaganda Films",
+         "Red Rock Films"
+      ],
+      "summaries": ["When a promised job for Texan Michael fails to materialise in Wyoming, Mike is mistaken by Wayne to be the hitman he hired to kill his unfaithful wife, Suzanne. Mike takes full advantage of the situation, collects the money and runs. During his getaway, things go wrong, and soon get worse when he runs into the real hitman, Lyle."],
+      "budget": 8000000
+   },
+   "movielensId": 373,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1993-07-08",
+      "dvdReleaseDate": "1999-08-10",
+      "directors": ["John Dahl"],
+      "runtime": 98,
+      "movieId": 373,
+      "title": "Red Rock West",
+      "mpaa": "R",
+      "actors": [
+         "Nicolas Cage",
+         "Dennis Hopper",
+         "Lara Flynn Boyle",
+         "J.T. Walsh",
+         "Timothy Carhart",
+         "Dan Shor",
+         "Dwight Yoakam",
+         "Craig Reay",
+         "Vance Johnson",
+         "Robert Apel",
+         "Bobby Joe McFadden",
+         "Dale Gibson",
+         "Ted Parks",
+         "Babs Bram",
+         "Robert Guajardo"
+      ],
+      "imdbMovieId": "0105226",
+      "originalTitle": "Red Rock West",
+      "genres": [
+         "Crime",
+         "Drama",
+         "Thriller"
+      ],
+      "youtubeTrailerIds": [
+         "tQe8SR2FNr4",
+         "rqlGO7rYhwY"
+      ],
+      "plotSummary": "When a promised job for Texan Michael fails to materialise in Wyoming, Mike is mistaken by Wayne to be the hitman he hired to kill his unfaithful wife, Suzanne. Mike takes full advantage of the situation, collects the money and runs. During his getaway, things go wrong, and soon get worse when he runs into the real hitman, Lyle.",
+      "tmdbMovieId": 10427,
+      "avgRating": 3.77361,
+      "releaseYear": "1993",
+      "numRatings": 3664,
+      "posterPath": "/1qUuBCnz4JHAGzlQhO6JXvju471.jpg"
+   }
+}

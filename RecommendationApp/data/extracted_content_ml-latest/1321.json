@@ -1,0 +1,885 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "london england",
+            "id": 212
+         },
+         {
+            "name": "nurse",
+            "id": 428
+         },
+         {
+            "name": "loss of loved one",
+            "id": 697
+         },
+         {
+            "name": "intensive care",
+            "id": 1567
+         },
+         {
+            "name": "zoo",
+            "id": 2172
+         },
+         {
+            "name": "dying and death",
+            "id": 3737
+         },
+         {
+            "name": "transformation",
+            "id": 4375
+         },
+         {
+            "name": "black humor",
+            "id": 4553
+         },
+         {
+            "name": "pub",
+            "id": 5319
+         },
+         {
+            "name": "london underground",
+            "id": 7033
+         },
+         {
+            "name": "yorkshire",
+            "id": 9180
+         },
+         {
+            "name": "rural setting",
+            "id": 11004
+         },
+         {
+            "name": "werewolf",
+            "id": 12564
+         },
+         {
+            "name": "cult film",
+            "id": 34117
+         },
+         {
+            "name": "british pub",
+            "id": 155479
+         },
+         {
+            "name": "animal horror",
+            "id": 223059
+         }
+      ],
+      "imdb_id": "tt0082010",
+      "video": false,
+      "title": "An American Werewolf in London",
+      "recommendations": [
+         11298,
+         923,
+         1547,
+         9426,
+         765,
+         609,
+         10331,
+         7340,
+         1694,
+         11850,
+         11797,
+         3035,
+         16307,
+         794,
+         30497,
+         6488,
+         764,
+         790,
+         138,
+         9529
+      ],
+      "backdrop_path": "/lFiEdW3zVjR2Wujxu3yZLpL2N8n.jpg",
+      "revenue": 31973249,
+      "reviews": [{
+         "author": "Potential Kermode",
+         "id": "58a25236c3a368294100085a",
+         "content": "**The best horror film of the eighties**\r\n\r\nThis is a gem, it really is. Alternately amusing and horrific - John Landis plays our emotions like a fiddle here. He is pulling all the strings and we are uncertain as to which string he is going to pull next.\r\n\r\nFrom the eerie Yorkshire countryside of the opening scenes through David's _awful_ nightmares in hospital to amusing zombie chit chat and finally the climactic slaughter in London - this film never lets up.\r\n\r\nHow many films will you find Kermit the frog sharing a scene with throat slicing, machine gun wielding mutants dressed as Nazis?\r\n\r\n- Potential Kermode",
+         "url": "https://www.themoviedb.org/review/58a25236c3a368294100085a"
+      }],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 16,
+               "character": "David Kessler",
+               "gender": 2,
+               "credit_id": "52fe427ac3a36847f8021d3d",
+               "name": "David Naughton",
+               "profile_path": "/ehDE47qkUux5a18Mi7zqReBj79b.jpg",
+               "id": 14463,
+               "order": 0
+            },
+            {
+               "cast_id": 17,
+               "character": "Nurse Alex Price",
+               "gender": 1,
+               "credit_id": "52fe427ac3a36847f8021d41",
+               "name": "Jenny Agutter",
+               "profile_path": "/2AwYEHV0cXXo3vtjiuwHMEkqh6R.jpg",
+               "id": 14464,
+               "order": 1
+            },
+            {
+               "cast_id": 18,
+               "character": "Jack Goodman",
+               "gender": 0,
+               "credit_id": "52fe427ac3a36847f8021d45",
+               "name": "Griffin Dunne",
+               "profile_path": "/4oCLupH3Uo2otzF77LrYE4s1iqw.jpg",
+               "id": 2171,
+               "order": 2
+            },
+            {
+               "cast_id": 19,
+               "character": "Dr. J. S. Hirsch",
+               "gender": 2,
+               "credit_id": "52fe427ac3a36847f8021d49",
+               "name": "John Woodvine",
+               "profile_path": "/9re40l4z8VnSNtCjncUbALSBvXE.jpg",
+               "id": 14465,
+               "order": 3
+            },
+            {
+               "cast_id": 20,
+               "character": "Barmaid",
+               "gender": 1,
+               "credit_id": "52fe427ac3a36847f8021d4d",
+               "name": "Lila Kaye",
+               "profile_path": "/ihayB90I34ZunTvD4Rq7GQ9o3sc.jpg",
+               "id": 14466,
+               "order": 4
+            },
+            {
+               "cast_id": 21,
+               "character": "Truck Driver",
+               "gender": 2,
+               "credit_id": "52fe427ac3a36847f8021d51",
+               "name": "Joe Belcher",
+               "profile_path": "/6Gb8QFFFElCH4wEFNk2Yl8YEFVh.jpg",
+               "id": 14467,
+               "order": 5
+            },
+            {
+               "cast_id": 22,
+               "character": "Dart Player",
+               "gender": 0,
+               "credit_id": "52fe427ac3a36847f8021d55",
+               "name": "David Schofield",
+               "profile_path": "/fN64rPih5p4OdbrpX22QURjRUg7.jpg",
+               "id": 939,
+               "order": 6
+            },
+            {
+               "cast_id": 25,
+               "character": "2nd Dart Player",
+               "gender": 2,
+               "credit_id": "52fe427ac3a36847f8021d61",
+               "name": "Sean Baker",
+               "profile_path": "/952vEtKbEm6jwh0hisWlebj7vi7.jpg",
+               "id": 14470,
+               "order": 7
+            },
+            {
+               "cast_id": 23,
+               "character": "Chess Player",
+               "gender": 2,
+               "credit_id": "52fe427ac3a36847f8021d59",
+               "name": "Brian Glover",
+               "profile_path": "/w9pZoousAMR2CylpxRSmJ0Cw78Z.jpg",
+               "id": 14468,
+               "order": 8
+            },
+            {
+               "cast_id": 24,
+               "character": "2nd Chess Player",
+               "gender": 2,
+               "credit_id": "52fe427ac3a36847f8021d5d",
+               "name": "Rik Mayall",
+               "profile_path": "/5BCMVvEAyBSl0AMLJfc3xZqvAxB.jpg",
+               "id": 14469,
+               "order": 9
+            },
+            {
+               "cast_id": 26,
+               "character": "First Werewolf",
+               "gender": 2,
+               "credit_id": "52fe427ac3a36847f8021d65",
+               "name": "Paddy Ryan",
+               "profile_path": "/jLEGGYuke5RsZd9hZp2z3pVTgxM.jpg",
+               "id": 14471,
+               "order": 10
+            },
+            {
+               "cast_id": 27,
+               "character": "Nurse Susan Gallagher",
+               "gender": 1,
+               "credit_id": "52fe427ac3a36847f8021d69",
+               "name": "Anne-Marie Davies",
+               "profile_path": "/4ye4zYYgJuMPHwnOaMoQZZ1MQd2.jpg",
+               "id": 14472,
+               "order": 11
+            },
+            {
+               "cast_id": 30,
+               "character": "Mr. Collins / Miss Piggy",
+               "gender": 2,
+               "credit_id": "564f6c2f9251414af5004874",
+               "name": "Frank Oz",
+               "profile_path": "/aLH5bYwMIlVxCe4rIDaEsVJqDKn.jpg",
+               "id": 7908,
+               "order": 12
+            },
+            {
+               "cast_id": 33,
+               "character": "Hospital Porter",
+               "gender": 2,
+               "credit_id": "57680865925141768400056e",
+               "name": "Albert Moses",
+               "profile_path": "/rOzJTt9iLwBGSX7EqHnmCbfSL6I.jpg",
+               "id": 14759,
+               "order": 13
+            },
+            {
+               "cast_id": 35,
+               "character": "Inspector Villiers",
+               "gender": 2,
+               "credit_id": "579fc6e492514143bb006057",
+               "name": "Don McKillop",
+               "profile_path": "/czinYZwAWZkzUY0I8arTzsHKQpw.jpg",
+               "id": 178097,
+               "order": 14
+            },
+            {
+               "cast_id": 36,
+               "character": "Sergeant McManus",
+               "gender": 2,
+               "credit_id": "579fc864925141686f000059",
+               "name": "Paul Kember",
+               "profile_path": "/tFlnxfX3JQhBx2xPIkebgnBtagd.jpg",
+               "id": 199977,
+               "order": 15
+            },
+            {
+               "cast_id": 37,
+               "character": "Benjamin",
+               "gender": 2,
+               "credit_id": "579fc99f925141686f0000e3",
+               "name": "Colin Fernandes",
+               "profile_path": "/vq6e9wnKgXWEc3jo9vL5qryxJ6x.jpg",
+               "id": 1660002,
+               "order": 16
+            },
+            {
+               "cast_id": 39,
+               "character": "Kermit the Frog (archive footage)",
+               "gender": 2,
+               "credit_id": "579fca4dc3a3686019007dcd",
+               "name": "Jim Henson",
+               "profile_path": "/2OWxHy8MPdaSiLN8Vt0siC0hdr4.jpg",
+               "id": 55983,
+               "order": 17
+            },
+            {
+               "cast_id": 34,
+               "character": "Rachel Kessler",
+               "gender": 0,
+               "credit_id": "579fc5f39251416ed50079dd",
+               "name": "Michele Brisigotti",
+               "profile_path": "/5Jd7fqJp0AeiLnX9Z0AQgdtcPRv.jpg",
+               "id": 1660000,
+               "order": 18
+            },
+            {
+               "cast_id": 40,
+               "character": "Max Kessler",
+               "gender": 2,
+               "credit_id": "579fcd69c3a3683c6500405c",
+               "name": "Mark Fisher",
+               "profile_path": "/hLdTXmzG5wCHurZdHNqiKaRhDGl.jpg",
+               "id": 1319052,
+               "order": 19
+            },
+            {
+               "cast_id": 41,
+               "character": "Mr. Kessler",
+               "gender": 2,
+               "credit_id": "579fcf1c9251411655004740",
+               "name": "Gordon Sterne",
+               "profile_path": "/lvYgzCYCDbe1SUWZPfb5FmdwyGG.jpg",
+               "id": 185033,
+               "order": 20
+            },
+            {
+               "cast_id": 42,
+               "character": "Mrs. Kessler",
+               "gender": 1,
+               "credit_id": "579fd4a4c3a3683c65004355",
+               "name": "Paula Jacobs",
+               "profile_path": "/iyw8pnw8xlsaBt49bPn4r4sjpEK.jpg",
+               "id": 1220068,
+               "order": 21
+            },
+            {
+               "cast_id": 43,
+               "character": "Creepy Little Girl",
+               "gender": 1,
+               "credit_id": "579fd5b4c3a3686019008347",
+               "name": "Claudine Bowyer",
+               "profile_path": "/bVSQbo20A0fScUxdR85c458uKD5.jpg",
+               "id": 1660009,
+               "order": 22
+            },
+            {
+               "cast_id": 44,
+               "character": "Creepy Little Girl",
+               "gender": 1,
+               "credit_id": "579fd6169251411655004a1b",
+               "name": "Johanna Crayden",
+               "profile_path": "/fgR3m3Zoyti0HzaFyKkmW250t00.jpg",
+               "id": 1660013,
+               "order": 23
+            },
+            {
+               "cast_id": 45,
+               "character": "Naughty Nina",
+               "gender": 1,
+               "credit_id": "579fd74f9251417732000252",
+               "name": "Nina Carter",
+               "profile_path": "/d1Otze1fKA7cdLIWYLsk5STOmR2.jpg",
+               "id": 1660014,
+               "order": 24
+            },
+            {
+               "cast_id": 46,
+               "character": "Harry Berman",
+               "gender": 2,
+               "credit_id": "579fdaee925141781a000428",
+               "name": "Geoffrey Burridge",
+               "profile_path": "/8T6YxkBatJNijDBZweSAjMIpMNm.jpg",
+               "id": 1226747,
+               "order": 25
+            },
+            {
+               "cast_id": 47,
+               "character": "Judith Browns",
+               "gender": 1,
+               "credit_id": "579fdcb0c3a3683c650046ea",
+               "name": "Brenda Cavendish",
+               "profile_path": "/1iiI8AAXa5R4HJxXMlCtauTGhbs.jpg",
+               "id": 1587192,
+               "order": 26
+            },
+            {
+               "cast_id": 48,
+               "character": "Sean",
+               "gender": 2,
+               "credit_id": "579fddb692514105fa000049",
+               "name": "Christopher Scoular",
+               "profile_path": "/vpmIAKGNlAfZZnNZLdKeKlJYFxK.jpg",
+               "id": 1660018,
+               "order": 27
+            },
+            {
+               "cast_id": 49,
+               "character": "Sean's Wife",
+               "gender": 1,
+               "credit_id": "579fdf3d925141070c0000a1",
+               "name": "Mary Tempest",
+               "profile_path": "/zFJPy20lnc8gBEHGiaC3i4vsjy1.jpg",
+               "id": 1641515,
+               "order": 28
+            },
+            {
+               "cast_id": 50,
+               "character": "Sister Hobbs",
+               "gender": 1,
+               "credit_id": "579fe16fc3a36877bc0001c9",
+               "name": "Cynthia Powell",
+               "profile_path": "/6pCCZA3iULWQBCZ9TkZMxQ8zcoi.jpg",
+               "id": 1328287,
+               "order": 29
+            },
+            {
+               "cast_id": 51,
+               "character": "Alf",
+               "gender": 2,
+               "credit_id": "579fe25e925141165500501f",
+               "name": "Sydney Bromley",
+               "profile_path": "/3uUJyYHgedK6K7BLz5RtZ4xpCjg.jpg",
+               "id": 12693,
+               "order": 30
+            },
+            {
+               "cast_id": 52,
+               "character": "Ted",
+               "gender": 2,
+               "credit_id": "57a054e1c3a3683a930003ad",
+               "name": "Frank Singuineau",
+               "profile_path": "/j5HEl6Y9SmhB95m0nXGmQlTreI9.jpg",
+               "id": 299082,
+               "order": 31
+            },
+            {
+               "cast_id": 53,
+               "character": "Joseph",
+               "gender": 2,
+               "credit_id": "57a059929251411ad90005ef",
+               "name": "Will Leighton",
+               "profile_path": "/jSUUCGLwlE7r6BdFkkCNVLidWAI.jpg",
+               "id": 1660159,
+               "order": 32
+            },
+            {
+               "cast_id": 63,
+               "character": "Usher",
+               "gender": 2,
+               "credit_id": "57a06d329251410979001708",
+               "name": "Bob Babenia",
+               "profile_path": "/ZxMNHHe5OCY7SAgFj5qypUJLlc.jpg",
+               "id": 1660178,
+               "order": 33
+            },
+            {
+               "cast_id": 54,
+               "character": "Gerald Bringsley",
+               "gender": 2,
+               "credit_id": "57a05c959251411ad90007a5",
+               "name": "Michael Carter",
+               "profile_path": "/rYVKZQ4uYLf7cpAGfdFzDcRNJXw.jpg",
+               "id": 199055,
+               "order": 34
+            },
+            {
+               "cast_id": 55,
+               "character": "Woman in Zoo",
+               "gender": 1,
+               "credit_id": "57a05ceac3a3683a93000800",
+               "name": "Elizabeth Bradley",
+               "profile_path": "/a4qSwh7DGZBlK0EK0pioWRa0hjc.jpg",
+               "id": 201499,
+               "order": 35
+            },
+            {
+               "cast_id": 56,
+               "character": "Little Boy with Balloons",
+               "gender": 2,
+               "credit_id": "57a05e6a9251411b1600084d",
+               "name": "Rufus Deakin",
+               "profile_path": "/p8sAHBeJlhaU7HiKf4fZxXjm5RK.jpg",
+               "id": 1660163,
+               "order": 36
+            },
+            {
+               "cast_id": 57,
+               "character": "Little Boy's Mother",
+               "gender": 1,
+               "credit_id": "57a06099c3a3683b0c0009fb",
+               "name": "Lesley Ward",
+               "profile_path": "/iv1m1Iig7QXS7uA8Xr1zuJeHxyp.jpg",
+               "id": 1660164,
+               "order": 37
+            },
+            {
+               "cast_id": 58,
+               "character": "News Vendor",
+               "gender": 2,
+               "credit_id": "57a064289251411b85000a4a",
+               "name": "George Hilsdon",
+               "profile_path": "/k9WyTR9bK8oVbezNtKWqmZKmeB0.jpg",
+               "id": 1186201,
+               "order": 38
+            },
+            {
+               "cast_id": 59,
+               "character": "Taxi Driver",
+               "gender": 2,
+               "credit_id": "57a065bb9251411bc6000bbb",
+               "name": "Alan Ford",
+               "profile_path": "/3HtCLGRkuLmObyp1oJNJzplxOkI.jpg",
+               "id": 1116,
+               "order": 39
+            },
+            {
+               "cast_id": 60,
+               "character": "Lance Boyle - 'See You Next Wednesday' Cast",
+               "gender": 2,
+               "credit_id": "57a0665cc3a3682358001479",
+               "name": "Lucien Morgan",
+               "profile_path": "/wu5HOV633dHImvFAcaclD6B8FZx.jpg",
+               "id": 101918,
+               "order": 40
+            },
+            {
+               "cast_id": 64,
+               "character": "Brenda Bristols - 'See You Next Wednesday' Cast",
+               "gender": 1,
+               "credit_id": "57a070c29251410650004b30",
+               "name": "Linzi Drew",
+               "profile_path": "/5j9VL7ygzuC7SNRCw8ZbxY6sy4u.jpg",
+               "id": 104129,
+               "order": 41
+            },
+            {
+               "cast_id": 65,
+               "character": "Assorted Police",
+               "gender": 2,
+               "credit_id": "58f0e23ec3a3686b8e0128d7",
+               "name": "John Altman",
+               "profile_path": "/jAdEEmNKiKWS0TsexpXXirjTRie.jpg",
+               "id": 1218998,
+               "order": 42
+            },
+            {
+               "cast_id": 62,
+               "character": "Assorted Police",
+               "gender": 2,
+               "credit_id": "57a06b599251411b16000d85",
+               "name": "John Owens",
+               "profile_path": "/kdmINmYcItGKtmTXt7Ep4BRYfbX.jpg",
+               "id": 161030,
+               "order": 43
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe427ac3a36847f8021cf1",
+               "name": "John Landis",
+               "profile_path": "/4MVt3MDXZzW2TsiQNvZCGv1ivRx.jpg",
+               "id": 4610,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe427ac3a36847f8021cf7",
+               "name": "George Folsey Jr.",
+               "profile_path": null,
+               "id": 7184,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe427ac3a36847f8021cfd",
+               "name": "Elmer Bernstein",
+               "profile_path": "/3H3AqKesJnkwJzWFJY9hyFwci5m.jpg",
+               "id": 7182,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe427ac3a36847f8021d03",
+               "name": "Robert Paynter",
+               "profile_path": null,
+               "id": 14456,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe427ac3a36847f8021d09",
+               "name": "Malcolm Campbell",
+               "profile_path": null,
+               "id": 14457,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe427ac3a36847f8021d0f",
+               "name": "Debbie McWilliams",
+               "profile_path": null,
+               "id": 10496,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe427ac3a36847f8021d15",
+               "name": "Leslie Dilley",
+               "profile_path": null,
+               "id": 5059,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe427ac3a36847f8021d1b",
+               "name": "Deborah Nadoolman",
+               "profile_path": null,
+               "id": 7211,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe427ac3a36847f8021d21",
+               "name": "Robin Grantham",
+               "profile_path": null,
+               "id": 14458,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe427ac3a36847f8021d27",
+               "name": "Joyce Herlihy",
+               "profile_path": null,
+               "id": 11381,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe427ac3a36847f8021d2d",
+               "name": "John Poyner",
+               "profile_path": null,
+               "id": 14459,
+               "department": "Sound",
+               "job": "Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe427ac3a36847f8021d33",
+               "name": "Martin Gutteridge",
+               "profile_path": null,
+               "id": 14460,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe427ac3a36847f8021d39",
+               "name": "Roy Alon",
+               "profile_path": null,
+               "id": 14461,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe427ac3a36847f8021d75",
+               "name": "John Landis",
+               "profile_path": "/4MVt3MDXZzW2TsiQNvZCGv1ivRx.jpg",
+               "id": 4610,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "57680096c3a3686d620004f5",
+               "name": "Colin Skeaping",
+               "profile_path": "/3ItjesQoR7SC5G1SDP4I82ILSYz.jpg",
+               "id": 1600363,
+               "department": "Crew",
+               "job": "Stunts"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Horror",
+            "id": 27
+         }
+      ],
+      "popularity": 10.004725,
+      "production_countries": [
+         {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+         },
+         {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+         }
+      ],
+      "id": 814,
+      "vote_count": 694,
+      "budget": 10000000,
+      "overview": "Two American tourists in England are attacked by a werewolf that none of the locals will admit exists.",
+      "similar": [
+         1562,
+         637,
+         583,
+         425,
+         578,
+         170,
+         1374,
+         111,
+         334,
+         335,
+         1368,
+         101,
+         627,
+         675,
+         744,
+         745,
+         4347,
+         907,
+         10795,
+         7978
+      ],
+      "original_title": "An American Werewolf in London",
+      "runtime": 97,
+      "poster_path": "/jFoOiPVPuJrjqyQlaPIogHBPfFn.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+            "name": "Universal Pictures",
+            "id": 33,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": null,
+            "name": "Guber/Peters Company",
+            "id": 276,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "American Werewolf Inc.",
+            "id": 606,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Lyncanthrope Films",
+            "id": 607,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1981-08-21",
+      "vote_average": 7.2,
+      "belongs_to_collection": {
+         "backdrop_path": "/Aa3snJ9wKKNkqjU4tAt3Kn4AL2U.jpg",
+         "name": "American Werewolf Collection",
+         "id": 9380,
+         "poster_path": "/lmGA5MhSb0jFzRdR74yzsUqgtgI.jpg"
+      },
+      "tagline": "Beware the Moon.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "UK",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["John Landis"],
+      "runtime": 97,
+      "synopsis": "Hiking on a road on the Yorkshire moors of Northern England, American college students David Kessler and Jack Goodman come to a small village. They go into the local pub, called the Slaughtered Lamb, where they're coldly greeted by the locals. One of the regulars tells an off-color joke and while everyone, including David and Jack, laughs, Jack asks why the bar has a sort of shrine with candles and a pentacle. The bar is immediately silenced and the locals become even more unfriendly, prompting David and Jack to leave. Before they leave, the locals tell them to stay on the road outside and not to wander into the moors. As Jack and David walk along the road it begins to rain and the fog surrounding them grows thicker. Subsequently, they drift off the road and find themselves disoriented on the moors. They hear the ominous baying of an animal in the distance and Jack suggests they return to the village. They then hear a low growling nearby and catch sight of a large animal, which is circling them. They hurry off in the opposite direction, only to find that the creature has flanked them. Hurrying faster, they break into a run and David trips and falls. While they laugh over David's accident and Jack helps him up, Jack is attacked by a large wolf, which savagely mutilates him. David had run off but runs back when he hears Jack screaming. He finds Jack's body ripped apart and is himself attacked by the wolf, which bites and scratches him on his face and shoulder. Gunshots are heard; the villagers from the Slaughtered Lamb have appeared and have shot the wolf. Before he falls unconscious, David sees the bloodied body of a naked man lying next to him. David wakes up in a London hospital. His doctors and nurses inform him that he's been unconscious for three weeks since the attack and that Jack is dead. The police have also informed his parents about his condition. David is distraught at the thought of Jack's murder and the doctors sedate him. Later, he's visited by a chief of police and a representative from the American Consulate. The question him about the incident where Jack was killed. David doesn't have much to tell them except that Jack was killed by a large and powerful animal.The policeman tells David that he'd talked to the patrons of the Slaughtered Lamb and they'd told him that Jack was killed by a recently escaped murderer. David begins to experience strange dreams that become nightmares; in one, he runs nude through the forest and comes to a bed. He sees himself lying in the bed; when the bedridden David opens his eyes, they appear animal-like and he snarls. After a few days in the hospital, David sees an apparition of Jack, still mutilated. Jack has come back as a spirit to warn David that they were attacked by a \"lycanthrope\" a werewolf. Worse, David will be doomed to transform into a werewolf himself at the next full moon, a few days from then. Jack also tells David that he must kill himself to break the werewolf's bloodline, or he may attack others and continue the cycle. Jack is incredulous, thinking that his trauma from the experience is affecting his mind. Jack assures him that the curse is very real. One of David's nurses, Alex, becomes very attracted to David and invites him to stay with her at her London flat after he's released. The two become lovers. Late one night while Alex is asleep, David wakes up to use the bathroom. He is startled by Jack, whose spirit form has begun to decay. David is still unwilling to believe Jack's warning, even when Jack tells him that he may harm Alex. Jack disappears. David is left alone in Alex' apartment when she goes to work. That night, David suddenly begins to scream in pain and he slowly transforms into a wolf. Loose in the city, he first stalks a man on the London Underground. The man hears David's growling and begins to walk quickly away, eventually running as David chases him. He makes it to an escalator and slips, and David kills the man. In another part of the city, David attacks a group of homeless men and kills them all. He also lures a couple out of their house and attacks another couple on the street killing them as well. David wakes up, thinking he suffered another nightmare and finds that he's naked and in the wolf's pen at a zoo. He steals some balloons from a child & an overcoat from a woman. He rides back to Alex' flat on the Tube. In the meantime, David's doctor, Hirsch, travels to East Proctor. Having been suspicious of David's wounds when he was admitted, Hirsch questions the townsfolk there, asking them why David's injuries were fully cleaned & dressed when they turned him over to the medical professionals. The townsfolk are reluctant to answer the doctor's questions, however, one of them meets the doctor outside the pub and tells him what happened and that David is cursed. The doctor returns to London and asks Alex about her new relationship with David. He tells her to keep an eye on him and that she might be in danger. Alex and David go out for a day in London. While they're out, David spots a paper that tells of the murders he committed and how they're going unsolved. David realizes that Jack is right and tries to have himself arrested, even shouting statements that are offensive to Brits. Eventually he becomes so upset that he runs off, leaving Alex behind. David winds up in a porno theatre at Picadilly Square. Jack visits him again and introduces him to the ghosts of the people he murdered. They're all quite angry with David and all try to convince him to commit suicide immediately. David suddenly transforms into the wolf again and bursts out of the theatre, attacking people on the street and causing several violent car crashes. He's hunted by the police to a dead-end alley. Hirsch and Alex find him there and Alex tries to calm David down and help him transform back. With some recognition of Alex in his eyes, David leaps at her, feigning an attack. The police shoot him dead immediately. =================== 2 american Backpackers are touring around europe and have arrived in a desolate part of the UK . Before long they are warned by the Locals of The Slaughtered Lamb to avoid the moors at night. Shortly afterwards they are attcked my a mysterious beast which kills one of them and wounds the other. the beast is subsequenlty killed by the locals and then the fun really begins. After coming round in Hospital David meets Nurse Price and begins to have disturbing dreams . He is visited by his now dead friend Jack who tells him that they were attacked by a Werewolf and that David will soon become one himself. Shortly after leaving hospital and Moving in with Nurse price a Series of grisly Murders takes place . And David realises that his dead best friend maybe right .",
+      "writers": ["John Landis"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0082010/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BNTYzMDk3MzIyNV5BMl5BanBnXkFtZTgwOTM2OTE4MzE@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: David Naughton, Jenny Agutter, Joe Belcher | See full cast and crew »"],
+      "reviews": [
+         "While backpacking through Europe, two friends, David Kessler (David Naughton) and Jack Goodman (Griffin Dunne), find themselves out on England's moors, despite advice to avoid them. When a wild animal attacks them, one of them dies, and the other just might be turning into a monster. Director John Landis' \"pet project\"--he had to sit on the script for 10 years before he had enough clout from other films for this one to be greenlighted--is an excellent, seamless melding of comedy and horror, with a surprising amount of brutality and one of the most wonderfully dark, abrupt conclusions ever made. John Irving once said that he loves to put comedy and tragedy in close conjunction because each can make the other more effective. That's just the effect that the combination has in An American Werewolf In London. Both the comedy and the horror in the film are fully committed to, unlike many attempts to merge the two. If \"the whole is greater than the sum of its parts\" is ever true, this is an example. The comic bits wouldn't be nearly as delightful if they didn't supervene on the disturbing, and the horror wouldn't have near the impact if they didn't arrive in the context where you half-expect the next moment to be just as lighthearted and amusing. Both the initial \"animal attack\" and the apocalyptic ending are perfect examples of this. Aside from that exquisite unusualness, An American Werewolf In London has many other superb characteristics. The cast is perfect. Naughton, who also starred in the seriously underrated Desire, The Vampire (aka I, Desire) (1982), carries the film with ease. The cinematography is excellent. The shots of the countryside (actually filmed in Wales) are actually both beautiful and very eerie at the same time. The make-up effects are awesome, and the transformation effects are unsurpassed. The music, which is primarily a number of different \"moon\" related pop songs, is also perfect, partially because of the bizarre contrasts in mood that the music creates, which echoes the comedy/tragedy juxtaposition. Unlike many other films, every scene in this one is a something I'd like to spend years exploring. The settings, the characters, the scenarios are all so fascinating. This film is a 10 out of 10 even with one hand tied behind its back. If you enjoy it, and you're open minded about newer horror film styles, the \"sequel\", An American Werewolf in Paris, is also worth a watch.",
+         "One of the best werewolf movies ever made, full of dark humor and gory thrills. As most people know, this has one of the best human/werewolf transformation scenes in cinematic history! The only other movie to show such detail is The Howling. This movie is really fun to watch, and if you are seeing it for the first time you will be shocked at some of the things you see. Great performances from the cast, and an excellent script make this a memorable experience. Unlike monster/horror movies today, this film has no computer-aided special effects. It doesn't need them, for this is a landmark film.",
+         "Here's a film that never fails to entertain, year after year. It's almost a quarter of a century old but hasn't become dated and the special effects, which were astounding in its day, are still good. Director John Landis is so good at making entertaining movies. This is one of his best. The appeal to this film is the combination of horror, suspense, action and humor. The latter actually is the key ingredient because this can become a downright scary movie. The levity here and there is welcome relief. There is just the right amount of contrast between horror and comedy. For parents wanting to know, there also is a fair amount of rough language and there two sex scenes, one as part of the story and one \"on screen\" in a porn- movie theater where the two male leads meet late in the story. Jenny Agutter is the love interest in here, a very pretty woman whom Americans audiences aren't that familiar with. It isn't just her: neither of the two leading (American) male actors in this popular movie ever became stars, either. An entertaining but silly sequel came out almost two decades later, \"An American Werewolf in Paris.\" I own both movies but much prefer this one.",
+         "A Film maker's film that's an homage and a refreshing take on the werewolf legend. It's scary; rich in dialogue; practical... (in a horror movie???) AND Funny! Especially in DTS sound... It's Scary!!! Specifically...for anyone who enjoys the old 'Universal Studios' classic renditions of the \"Wolf Man\" saga, this modern 'fairy tale horror' doesn't violate any traditions. If you haven't seen the old classics, not to worry;...this flick stands on its own. The story unfolds!...And the tension begins!...slowly! Actors Naughton and Dunne are perfectly cast as your typical college students, backpacking their way thru Europe for...well...for what ELSE!!?!! Their back & forth banter is priceless!! Their 'on screen' chemistry is, unfortunately, too short (that's kinda redeemed in the DVD commentary by both actors). And their trek across the fog laden moor ranks as one of the most frightening scenes in movie history. But the real star of the film is director John Landis! Along with the Cast! And make-up artist Rick Baker. Not since \"Bud Abbott & Lou Costello Meet Frankenstein\" has Comedy/Horror worked so well. The difference is: unlike \"A&C Meet Frankenstein\", this film is a horror story laced with a sharp and clever 'comic relief'. And Landis captures that fine line balance between horror/humor that is unprecedented. A near definitive werewolf movie that's bloody! scary! funny! satirical! funny! intelligent! sexy! charming!...and ultimately sad!!!...(did I say funny twice?). HEY...if you ever take time to see only one werewolf movie; then... Well...everyone's got their opinion. But this film ranks way up their in horror. A Classic!! With a soundtrack that's perfectly placed! And composer Elmer Bernstein perfectly placing the music. Grab the popcorn! And Hang On!",
+         "John Landis reveals a philosophical take on mankind in this film, namely, that we have two natures: one benign, one monstrous. The werewolf legend handily serves as that proposition's allegorical vehicle, and compared to the alluded-to Nazi atrocities in two scenes, the legend actually pales. Sadly, under the dark impetus of our arrogance and vanity, our metaphorical \"full moon\", man is perfectly capable of transforming into nightmarish beast. As a director, Landis approaches Hitchcock in terms of scene economy and symbolism. For example, the opening sequence set on the moors of northern England features the tragic hero David and his friend Jack climbing out of the bed of a truck laden with sheep - benign animals destined for slaughter. Biped \"sheep\" David and Jack meander to \"The Slaughtered Lamb\", a pub sheltering cowering, xenophobic locals from the monster afoot on the moors during full moon. Soon the inhospitality of the town folk compels the two lambs to leave - virtually sending them to their slaughter. And so it goes throughout this brilliant film. Without revealing the ending, it can be stated that Landis makes his case against the idea that love conquers all; instead, he suggests that love only gives the beast within us pause. Beware the moon.",
+         "The old adage of the simplest ideas being the best is once again demonstrated in this, one of the most entertaining films of the early 80's, and almost certainly Jon Landis' best work to date. The script is light and witty, the visuals are great and the atmosphere is top class. Plus there are some great freeze-frame moments to enjoy again and again. Not forgetting, of course, the great transformation scene which still impresses to this day. In Summary: Top banana",
+         "Violent, gory yet somewhat bittersweet tale of an American tourist who has the misfortune of being bitten by a werewolf. David Naughton is young and bewildered, Jenny Agutter cute, innocent and sexy and Griffin Dunne hilarious as a rapidly decomposing poltergeist. The score is great and the special effects outstanding. This movie gives new meaning to the term Ugly American. Don't watch this on commercial TV. It can only be appreciated in its original, unedited form.",
+         "I love werewolf movies, even the stupid one's with the exception of any \"Howling\" sequels. 1981 was the turning point for our hairy hero's, gone were the Elvis chop wearing dudes with terrible under-bites, and in were the really scary \"werewolves\" that walked on all fours and ripped their pray to pieces. An American Werewolf In London is one of two films released that year, that showed us what a little latex and a lot of imagination (and bladders) can do. John Landis, fresh off the heals of \"The Blues Brothers\" gives us a masterpiece of modern horror, and leaves us thinking \"Are there two John Landis'?\" The movie is brilliantly shot in terrifying fashion, yet Landis manages to throw us some off beat humor, so we don't soil ourselves to bad. Set in England (obviously), we follow two buddies as they hitchhike across Europe. David Kessler (David Naughton) and Jack Goodman (Griffin Dunne) have not a care in the world until they end up on \"The Moors\"... At night... With a full moon... Okay this is getting redundant, but I bet you get where I'm going (if not: refer to title). If you ever do find yourself in merry Ole' England, at night etc, etc, etc. Stay clear of a place called \"The Slaughtered Lamb\", in fact, just stay on sheep truck until sunlight comes around. Besides (the first) Howling, American Werewolf is the best werewolf flick out there, and holds up nicely to today's cheesy horror flops. Take warning though, if you are going to rent this film, make sure cover says: \"London\", not \"Paris\", which is a little more like... Benji in Paris.",
+         "John Landis directed this at the early 80's. It was a screenplay he wrote when he was only 19 years old. The story is about 2 north American tourists that get attacked by a werewolf during their tour in England. One of them will become the most vicious and unforgettable werewolf ever. With stunning FX's (the guy behind this won an Oscar for this job), Landis gives us a terrifying story with a lot of comedy, romance, adventure, and friendship. And of course, gore. Some scenes were so explicit they even shock today. Yes, the plot has a lot of holes, and some things happen way too fast, and some explanations seem forced but this is a movie that is pure fun and even today is pretty enjoyable and wild. David Naughton and the beautiful Jenny Agutter star in this picture and remember: It's not a comedy! But it's still funny as hell!",
+         "An almost impossible genre, the horror comedy is a sometimes dead genre. One of the best, An American Werewolf in London is a comical title that lives up to being a comedy and a horror movie. The special effects by Rick Baker alone, make this movie a hit. The off edge comedy and the almost slap stick style acting welcomes the horror. Many surprises throughout the movie, An American Werewolf in London has a little bit of everything. There are moments of laughter, hate, love, drama, and horror, the movie pushes the envelope in being an original work, even though it is a remake! Keep your ear open for the movie's soundtrack. Several songs with the word \"moon\". Like the soundtrack, the movie is full of interesting tid-bits. All in all, a great movie, a near classic."
+      ],
+      "genres": [
+         "Comedy",
+         "Horror"
+      ],
+      "productionCompanies": [
+         "PolyGram Filmed Entertainment",
+         "Lyncanthrope Films"
+      ],
+      "summaries": [
+         "Two American college students are on a walking tour of Britain and are attacked by a werewolf. One is killed, the other is mauled. The werewolf is killed but reverts to its human form, and the local townspeople are unwilling to acknowledge its existence. The surviving student begins to have nightmares of hunting on four feet at first but then finds that his friend and other recent victims appear to him, demanding that he commit suicide to release them from their curse, being trapped between worlds because of their unnatural deaths.",
+         "Two American college students on a walking tour of Britain are attacked by a werewolf that none of the locals will admit exists."
+      ],
+      "budget": 10000000
+   },
+   "movielensId": 1321,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1981-08-21",
+      "dvdReleaseDate": "2001-09-18",
+      "directors": ["John Landis"],
+      "runtime": 97,
+      "movieId": 1321,
+      "title": "An American Werewolf in London",
+      "mpaa": "R",
+      "actors": [
+         "David Naughton",
+         "Jenny Agutter",
+         "Griffin Dunne",
+         "John Woodvine",
+         "Lila Kaye",
+         "Joe Belcher",
+         "David Schofield",
+         "Sean Baker",
+         "Brian Glover",
+         "Rik Mayall",
+         "Paddy Ryan",
+         "Anne-Marie Davies",
+         "Frank Oz",
+         "Albert Moses",
+         "Don McKillop",
+         "Paul Kember",
+         "Colin Fernandes",
+         "Jim Henson",
+         "Michele Brisigotti",
+         "Mark Fisher",
+         "Gordon Sterne",
+         "Paula Jacobs",
+         "Claudine Bowyer",
+         "Johanna Crayden",
+         "Nina Carter",
+         "Geoffrey Burridge",
+         "Brenda Cavendish",
+         "Christopher Scoular",
+         "Mary Tempest",
+         "Cynthia Powell",
+         "Sydney Bromley",
+         "Frank Singuineau",
+         "Will Leighton",
+         "Bob Babenia",
+         "Michael Carter",
+         "Elizabeth Bradley",
+         "Rufus Deakin",
+         "Lesley Ward",
+         "George Hilsdon",
+         "Alan Ford",
+         "Lucien Morgan",
+         "Linzi Drew",
+         "John Altman",
+         "John Owens"
+      ],
+      "imdbMovieId": "0082010",
+      "originalTitle": "An American Werewolf in London",
+      "genres": [
+         "Comedy",
+         "Horror"
+      ],
+      "youtubeTrailerIds": ["_oJZjpHBskc"],
+      "plotSummary": "Two American tourists in England are attacked by a werewolf that none of the locals will admit exists.",
+      "tmdbMovieId": 814,
+      "avgRating": 3.51595,
+      "releaseYear": "1981",
+      "numRatings": 9091,
+      "posterPath": "/r5CbVhy3vO6SqdOTwinZVtaRbhb.jpg"
+   }
+}

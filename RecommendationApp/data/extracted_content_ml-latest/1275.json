@@ -1,0 +1,981 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "new york",
+            "id": 242
+         },
+         {
+            "name": "scotland",
+            "id": 388
+         },
+         {
+            "name": "swordplay",
+            "id": 1400
+         },
+         {
+            "name": "sword",
+            "id": 1938
+         },
+         {
+            "name": "immortality",
+            "id": 4978
+         },
+         {
+            "name": "cult film",
+            "id": 34117
+         }
+      ],
+      "imdb_id": "tt0091203",
+      "video": false,
+      "title": "Highlander",
+      "recommendations": [
+         8010,
+         9387,
+         865,
+         8011,
+         9610,
+         9482,
+         1669,
+         9350,
+         10303,
+         9208,
+         943,
+         847,
+         9671,
+         9604,
+         8367,
+         3595,
+         9326,
+         9292,
+         9268,
+         1911
+      ],
+      "backdrop_path": "/q6jg0cSixdEGUsyzkuh2qqL6iVq.jpg",
+      "revenue": 5900000,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Connor 'The Highlander' MacLeod",
+               "gender": 2,
+               "credit_id": "52fe448cc3a36847f809c58f",
+               "name": "Christopher Lambert",
+               "profile_path": "/sIl2F9LDTjfnAVBxEG5CTtZGuJU.jpg",
+               "id": 38559,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Brenda J. Wyatt",
+               "gender": 1,
+               "credit_id": "52fe448cc3a36847f809c593",
+               "name": "Roxanne Hart",
+               "profile_path": "/yWGMW6HdhUGT2oIcQ4jmnkw7ZAM.jpg",
+               "id": 29021,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Victor 'The Kurgan' Kruger",
+               "gender": 2,
+               "credit_id": "52fe448cc3a36847f809c597",
+               "name": "Clancy Brown",
+               "profile_path": "/xBVifBW0riMSbedEQ27hObjPqVw.jpg",
+               "id": 6574,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Juan Sanchez Villa-Lobos Ramirez",
+               "gender": 2,
+               "credit_id": "52fe448dc3a36847f809c59b",
+               "name": "Sean Connery",
+               "profile_path": "/ce84udJZ9QRSR44jxwK2apM3DM8.jpg",
+               "id": 738,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Heather MacLeod",
+               "gender": 1,
+               "credit_id": "52fe448dc3a36847f809c59f",
+               "name": "Beatie Edney",
+               "profile_path": "/fV5Mf1AKqsL1IhxZxX9JQ68WrqB.jpg",
+               "id": 53515,
+               "order": 4
+            },
+            {
+               "cast_id": 6,
+               "character": "Lieutenant Frank Moran",
+               "gender": 2,
+               "credit_id": "52fe448dc3a36847f809c5a3",
+               "name": "Alan North",
+               "profile_path": "/q79hT4OeYOYzH2WIfqS6VsCmKzg.jpg",
+               "id": 53584,
+               "order": 5
+            },
+            {
+               "cast_id": 7,
+               "character": "Det. Walter Bedsoe",
+               "gender": 2,
+               "credit_id": "52fe448dc3a36847f809c5a7",
+               "name": "Jon Polito",
+               "profile_path": "/acIcTtPUjIn3LwTMfDsRYU8RDE.jpg",
+               "id": 4253,
+               "order": 6
+            },
+            {
+               "cast_id": 8,
+               "character": "Rachel Ellenstein",
+               "gender": 1,
+               "credit_id": "52fe448dc3a36847f809c5ab",
+               "name": "Sheila Gish",
+               "profile_path": null,
+               "id": 53585,
+               "order": 7
+            },
+            {
+               "cast_id": 9,
+               "character": "Sunda Kastagir",
+               "gender": 2,
+               "credit_id": "52fe448dc3a36847f809c5af",
+               "name": "Hugh Quarshie",
+               "profile_path": "/b6RSuGFTvpDe3WIdWglzfs0kyES.jpg",
+               "id": 31925,
+               "order": 8
+            },
+            {
+               "cast_id": 11,
+               "character": "Aman Fasil",
+               "gender": 2,
+               "credit_id": "52fe448dc3a36847f809c5b3",
+               "name": "Peter Diamond",
+               "profile_path": "/rIf04LU2CsdzdvUJghFVVjdWcm6.jpg",
+               "id": 53587,
+               "order": 10
+            },
+            {
+               "cast_id": 12,
+               "character": "Dugal MacLeod",
+               "gender": 0,
+               "credit_id": "52fe448dc3a36847f809c5b7",
+               "name": "Billy Hartman",
+               "profile_path": "/1vdldGCw1cZ5higG9wagm70EvJL.jpg",
+               "id": 53588,
+               "order": 11
+            },
+            {
+               "cast_id": 13,
+               "character": "Angus MacLeod",
+               "gender": 2,
+               "credit_id": "52fe448dc3a36847f809c5bb",
+               "name": "James Cosmo",
+               "profile_path": "/523gSqAG9eSSNmKexFFZYh38SxL.jpg",
+               "id": 2467,
+               "order": 12
+            },
+            {
+               "cast_id": 14,
+               "character": "Kate MacLeod",
+               "gender": 1,
+               "credit_id": "52fe448dc3a36847f809c5bf",
+               "name": "Celia Imrie",
+               "profile_path": "/tAEzs5PFVX5GsfD3KTWINnuTzMJ.jpg",
+               "id": 9139,
+               "order": 13
+            },
+            {
+               "cast_id": 23,
+               "character": "Kirk Matunas",
+               "gender": 2,
+               "credit_id": "52fe448dc3a36847f809c5f3",
+               "name": "Christopher Malcolm",
+               "profile_path": "/9Ua0yZoI6dZQ5VDqfU096dAM1Un.jpg",
+               "id": 47808,
+               "order": 14
+            },
+            {
+               "cast_id": 24,
+               "character": "Old Man in Car",
+               "gender": 0,
+               "credit_id": "52fe448dc3a36847f809c5f7",
+               "name": "Frank Dux",
+               "profile_path": null,
+               "id": 56985,
+               "order": 15
+            },
+            {
+               "cast_id": 40,
+               "character": "Bassett",
+               "gender": 2,
+               "credit_id": "58a0dd599251412b63003047",
+               "name": "Ian Reddington",
+               "profile_path": "/XxP8N9bplnVuQ41iIMOWcnW3Sw.jpg",
+               "id": 1230746,
+               "order": 16
+            },
+            {
+               "cast_id": 41,
+               "character": "Chief Murdoch",
+               "gender": 0,
+               "credit_id": "5a4a4cae0e0a262db9011c97",
+               "name": "Alistair Findlay",
+               "profile_path": null,
+               "id": 1470179,
+               "order": 17
+            },
+            {
+               "cast_id": 42,
+               "character": "Garfield",
+               "gender": 2,
+               "credit_id": "5a4a4cd0c3a36805cc0119ae",
+               "name": "Edward Wiley",
+               "profile_path": "/qqIKKV6d90H6BG3GuszbbkWWVzo.jpg",
+               "id": 1219365,
+               "order": 18
+            },
+            {
+               "cast_id": 43,
+               "character": "Father Rainey",
+               "gender": 0,
+               "credit_id": "5a4a4cea0e0a262dbb011d45",
+               "name": "James McKenna",
+               "profile_path": null,
+               "id": 1234129,
+               "order": 19
+            },
+            {
+               "cast_id": 44,
+               "character": "Kenny",
+               "gender": 0,
+               "credit_id": "5a4a4cf90e0a262dce011109",
+               "name": "John Cassady",
+               "profile_path": null,
+               "id": 176093,
+               "order": 20
+            },
+            {
+               "cast_id": 45,
+               "character": "Hotchkiss",
+               "gender": 2,
+               "credit_id": "5a4a4d080e0a262dbf011ab7",
+               "name": "Sion Tudor Owen",
+               "profile_path": "/frVnepWr4r328PXACayF7bhSinF.jpg",
+               "id": 189433,
+               "order": 21
+            },
+            {
+               "cast_id": 46,
+               "character": "Tony",
+               "gender": 2,
+               "credit_id": "5a4a4d1bc3a36805df011e05",
+               "name": "Damien Leake",
+               "profile_path": "/kEqJvGxe4t6ancmDRaMAurjTYyJ.jpg",
+               "id": 159948,
+               "order": 22
+            },
+            {
+               "cast_id": 47,
+               "character": "Dr Willis Kenderly",
+               "gender": 2,
+               "credit_id": "5a4a4d22c3a36805df011e12",
+               "name": "Gordon Sterne",
+               "profile_path": "/lvYgzCYCDbe1SUWZPfb5FmdwyGG.jpg",
+               "id": 185033,
+               "order": 23
+            },
+            {
+               "cast_id": 48,
+               "character": "Archivist",
+               "gender": 0,
+               "credit_id": "5a4a4d2c9251415c95010ce7",
+               "name": "Ron Berglas",
+               "profile_path": null,
+               "id": 163708,
+               "order": 24
+            },
+            {
+               "cast_id": 49,
+               "character": "Newsvendor",
+               "gender": 2,
+               "credit_id": "5a4a4d38c3a36805e9011a62",
+               "name": "Louis Guss",
+               "profile_path": "/ndDIYrXz2catGlP01JUwuHi2nFU.jpg",
+               "id": 20973,
+               "order": 25
+            },
+            {
+               "cast_id": 50,
+               "character": "Priest",
+               "gender": 2,
+               "credit_id": "5a4a4d609251415c9e0110ad",
+               "name": "Peter Banks",
+               "profile_path": "/ft8BdMHymhEaGZLPqZrE9TFJMZs.jpg",
+               "id": 1241448,
+               "order": 26
+            },
+            {
+               "cast_id": 51,
+               "character": "Newscaster",
+               "gender": 2,
+               "credit_id": "5a4a4d6b0e0a262dc20126e0",
+               "name": "Ted Maynard",
+               "profile_path": null,
+               "id": 730454,
+               "order": 27
+            },
+            {
+               "cast_id": 52,
+               "character": "German Soldier",
+               "gender": 0,
+               "credit_id": "5a4a4d769251415c98010dfa",
+               "name": "Waldo Roeg",
+               "profile_path": null,
+               "id": 1859267,
+               "order": 28
+            },
+            {
+               "cast_id": 53,
+               "character": "Boisterous Drunk",
+               "gender": 0,
+               "credit_id": "5a4a4d819251415c9b011132",
+               "name": "Anthony Mannino",
+               "profile_path": "/97OzUNeL7c6oYNGQFasXqynXp3E.jpg",
+               "id": 1106120,
+               "order": 29
+            },
+            {
+               "cast_id": 54,
+               "character": "Old Woman in Car",
+               "gender": 0,
+               "credit_id": "5a4a4d909251415ca1011076",
+               "name": "Helena Stevens",
+               "profile_path": null,
+               "id": 1951615,
+               "order": 30
+            },
+            {
+               "cast_id": 55,
+               "character": "Drunk in Hotel",
+               "gender": 0,
+               "credit_id": "5a4a4d9d0e0a262dce011198",
+               "name": "Prince Howell",
+               "profile_path": null,
+               "id": 1951616,
+               "order": 31
+            },
+            {
+               "cast_id": 56,
+               "character": "Barman",
+               "gender": 0,
+               "credit_id": "5a4a4da70e0a262dce0111a4",
+               "name": "Anthony Fusco",
+               "profile_path": null,
+               "id": 167572,
+               "order": 32
+            },
+            {
+               "cast_id": 57,
+               "character": "Lab Technician",
+               "gender": 0,
+               "credit_id": "5a4a4dbf0e0a262dc2012727",
+               "name": "Ian Tyler",
+               "profile_path": null,
+               "id": 8665,
+               "order": 33
+            },
+            {
+               "cast_id": 58,
+               "character": "Candy",
+               "gender": 0,
+               "credit_id": "5a4a4dca0e0a262db9011d8b",
+               "name": "Corinne Russell",
+               "profile_path": null,
+               "id": 1230590,
+               "order": 34
+            },
+            {
+               "cast_id": 59,
+               "character": "Derelict",
+               "gender": 2,
+               "credit_id": "5a4a4ddac3a36805cc011a74",
+               "name": "Buckley Norris",
+               "profile_path": "/vAv4iBGjqU7rRjxbQl0cJwas7q7.jpg",
+               "id": 74420,
+               "order": 35
+            },
+            {
+               "cast_id": 60,
+               "character": "Miranda Rights Officer (uncredited)",
+               "gender": 0,
+               "credit_id": "5a4a4de8c3a36805e9011af0",
+               "name": "Lisa Dalton",
+               "profile_path": null,
+               "id": 590998,
+               "order": 36
+            },
+            {
+               "cast_id": 61,
+               "character": "Himself (uncredited)",
+               "gender": 0,
+               "credit_id": "5a4a4e109251415c910106ea",
+               "name": "Jim Brunzell",
+               "profile_path": "/kWp8VEBCLgkCiPpdc2y0EAhb9k5.jpg",
+               "id": 1194948,
+               "order": 37
+            },
+            {
+               "cast_id": 62,
+               "character": "Street Tough (uncredited)",
+               "gender": 0,
+               "credit_id": "5a4a4e1d0e0a262dc80123ae",
+               "name": "Ed Montalvo",
+               "profile_path": null,
+               "id": 1951617,
+               "order": 38
+            },
+            {
+               "cast_id": 63,
+               "character": "NY Cop (uncredited)",
+               "gender": 0,
+               "credit_id": "5a4a4e450e0a262db9011e02",
+               "name": "Sam Douglas",
+               "profile_path": "/5ZcldKZ1PDmf2gzTL3LA671PNZL.jpg",
+               "id": 17072,
+               "order": 39
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe448dc3a36847f809c5c5",
+               "name": "Russell Mulcahy",
+               "profile_path": "/v0wHXi3XdUP9OScVv1E8LgCxdZC.jpg",
+               "id": 52968,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe448dc3a36847f809c5cb",
+               "name": "Gregory Widen",
+               "profile_path": null,
+               "id": 28902,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe448dc3a36847f809c5d1",
+               "name": "Peter S. Davis",
+               "profile_path": null,
+               "id": 53866,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe448dc3a36847f809c5d7",
+               "name": "William N. Panzer",
+               "profile_path": null,
+               "id": 53867,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe448dc3a36847f809c5dd",
+               "name": "Michael Kamen",
+               "profile_path": "/y83bqw1VP1PkuvOhG2XROwc9eXG.jpg",
+               "id": 7714,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe448dc3a36847f809c5e3",
+               "name": "Peter Honess",
+               "profile_path": null,
+               "id": 6875,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe448dc3a36847f809c5e9",
+               "name": "Gerry Fisher",
+               "profile_path": null,
+               "id": 40052,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "576be11bc3a3686f9900073b",
+               "name": "Michael McLean",
+               "profile_path": null,
+               "id": 9585,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "576be034c3a3686491002b88",
+               "name": "Peter Bellwood",
+               "profile_path": null,
+               "id": 201054,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "576be048c3a36863d1002f5e",
+               "name": "Larry Ferguson",
+               "profile_path": "/gxsly0SbgYLPB1Y3XOz12jAEmza.jpg",
+               "id": 912,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "576be099925141517400060a",
+               "name": "Diane Dimeo",
+               "profile_path": null,
+               "id": 21558,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "576be12ec3a3686f99000748",
+               "name": "Allan Cameron",
+               "profile_path": null,
+               "id": 7732,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "576be16092514151410006a5",
+               "name": "Martin Atkinson",
+               "profile_path": null,
+               "id": 29867,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "576be170c3a3686fda000806",
+               "name": "Tim Hutchinson",
+               "profile_path": null,
+               "id": 12651,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "576be19dc3a3686f5f0006be",
+               "name": "Ian Whittaker",
+               "profile_path": null,
+               "id": 5060,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 2,
+               "credit_id": "576be1b592514165fc002c8f",
+               "name": "James Acheson",
+               "profile_path": null,
+               "id": 11386,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "576be1d9c3a3686491002c6a",
+               "name": "Marilyn Clarke",
+               "profile_path": null,
+               "id": 1640410,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "576be20cc3a3686f130007b0",
+               "name": "Derek Power",
+               "profile_path": null,
+               "id": 1564339,
+               "department": "Sound",
+               "job": "Music Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "576be27ac3a36863d10030aa",
+               "name": "Douglas Milsome",
+               "profile_path": null,
+               "id": 8306,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "576be28ec3a3686ec60008ee",
+               "name": "Peter Versey",
+               "profile_path": null,
+               "id": 1452749,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "576be2a3c3a3686f5f00074d",
+               "name": "Peter Warrilow",
+               "profile_path": null,
+               "id": 1640411,
+               "department": "Camera",
+               "job": "Helicopter Camera"
+            },
+            {
+               "gender": 0,
+               "credit_id": "576be2b8c3a3686f13000816",
+               "name": "Jean Marc Bringuier",
+               "profile_path": null,
+               "id": 1451437,
+               "department": "Camera",
+               "job": "Steadicam Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a4a4e799251415c91010743",
+               "name": "Martin Gutteridge",
+               "profile_path": null,
+               "id": 14460,
+               "department": "Visual Effects",
+               "job": "Special Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a4a4e8cc3a36805df011f6a",
+               "name": "Dave Chagouri",
+               "profile_path": null,
+               "id": 1859269,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a4a4e97c3a36805cc011b14",
+               "name": "Garth Inns",
+               "profile_path": null,
+               "id": 1532767,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a4a4ea39251415c91010770",
+               "name": "Graham Longhurst",
+               "profile_path": null,
+               "id": 34554,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a4a4eae9251415c95010e1d",
+               "name": "Bert Luxford",
+               "profile_path": null,
+               "id": 1904541,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a4a4eb8c3a36805c500fdde",
+               "name": "Nick Maley",
+               "profile_path": null,
+               "id": 136024,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a4a4ed89251415c9b011280",
+               "name": "Chris Blunden",
+               "profile_path": null,
+               "id": 16465,
+               "department": "Visual Effects",
+               "job": "Visual Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a4a4ee9c3a36805c500fe08",
+               "name": "Peter Brace",
+               "profile_path": null,
+               "id": 1951618,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a4a4ef20e0a262dc8012475",
+               "name": "Andy Bradford",
+               "profile_path": "/5esiedhO0bUygYwpIDUyfaU05uu.jpg",
+               "id": 199077,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a4a4efc9251415c95010e62",
+               "name": "Peter Diamond",
+               "profile_path": "/rIf04LU2CsdzdvUJghFVVjdWcm6.jpg",
+               "id": 53587,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a4a4f050e0a262dbf011c9d",
+               "name": "Victor Magnotta",
+               "profile_path": null,
+               "id": 26874,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a4a4f0e9251415c9b0112b3",
+               "name": "Seoras Wallace",
+               "profile_path": null,
+               "id": 1951619,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a4a4f170e0a262dc801249f",
+               "name": "Gregory J. Barnett",
+               "profile_path": null,
+               "id": 1485666,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a4a4f210e0a262dc80124ae",
+               "name": "Lisa Cain",
+               "profile_path": null,
+               "id": 1951620,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5a7991e8c3a368226101f910",
+               "name": "Helen P. Butler",
+               "profile_path": null,
+               "id": 1301732,
+               "department": "Costume & Make-Up",
+               "job": "Costume Supervisor"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Adventure",
+            "id": 12
+         },
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Fantasy",
+            "id": 14
+         }
+      ],
+      "popularity": 14.094013,
+      "production_countries": [
+         {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+         },
+         {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+         }
+      ],
+      "id": 8009,
+      "vote_count": 838,
+      "budget": 16000000,
+      "overview": "He fought his first battle on the Scottish Highlands in 1536. He will fight his greatest battle on the streets of New York City in 1986. His name is Connor MacLeod. He is immortal.",
+      "similar": [
+         762,
+         8010,
+         879,
+         197,
+         616,
+         101,
+         11780,
+         9610,
+         30497,
+         8011,
+         11880,
+         11878,
+         97370,
+         4923,
+         626,
+         81446,
+         16307,
+         136,
+         5494,
+         12593
+      ],
+      "original_title": "Highlander",
+      "runtime": 116,
+      "poster_path": "/6l4t1vWAFMuAiOpDT0mDWlrr5Mp.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Davis-Panzer Productions",
+            "id": 2737,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Thorn EMI Screen Entertainment",
+            "id": 6179,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1986-03-06",
+      "vote_average": 6.8,
+      "belongs_to_collection": {
+         "backdrop_path": "/gY5NPUGGJJdaGPlEM6f2pfHNtit.jpg",
+         "name": "Highlander Collection",
+         "id": 8050,
+         "poster_path": "/mNIXoyFicGseg9NoG3NHKZolKze.jpg"
+      },
+      "tagline": "There can be only one.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "UK",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Russell Mulcahy"],
+      "runtime": 116,
+      "synopsis": "In 1985, a man named Russell Nash ( Christopher Lambert) is attending a wrestling match at Madison Square Garden in New York City. He feels a strange tremor and is compelled to leave. As he heads to his car, Nash is confronted by a man named Iman Fasil. Fasil identifies Nash by his real name, Connor MacLeod, and challenges him to a duel. Connor reluctantly accepts, and draws a katana. After a fierce sword fight, Connor decapitates Fasil and is enveloped by a mysterious energy which destroys several cars around him. He quickly hides his sword in one of the light racks hanging from the ceiling. Before he can leave the garage he is arrested by the police, who take him for questioning. The story goes back to Scotland in 1536, where an 18-year old Connor is seen with his fiance, Kate (Celia Imrie), and war weary cousins Angus (James Cosmo) and Dugal (Billy Hartman). Their clan is preparing for war against their longtime rivals, Clan Fraser. Detectives Moran ( Alan North) and Garfield ( Edward Wiley) are attempting to interrogate Connor. Garfield loses his cool and assaults Connor. This incident, coupled with lack of evidence, results in Connor's release. Forensics expert Brenda Wyatt ( Roxanne Hart) is intrigued by Fasil's sword, as it is a very valuable historical artifact, probably worth over a million dollars. Later, Connor returns to the garage to retrieve the katana, but before he does he sees that Brenda is looking at the crime scene. She finds some metal shards embedded in a nearby concrete column and saves them for analysis. The scene returns to the Highlands, where the armies of Clan Fraser and Clan MacLeod are preparing to face each other in battle. Clan Fraser's leader, Chief Murdoch (Alistair Findlay), has taken on the services of the Kurgan (Clancy Brown), a imposing mercenary in black leather armor. The Kurgan tells Murdoch that he wants to kill Connor on the battlefield and that nobody else should fight him. The battle begins and Connor, who has never been in battle before, is very scared. He soon finds nobody wants to fight him, but eventually the Kurgan finds him and easily defeats Connor by stabbing him in the chest, shouting \"there are can be only one!\" Dugal and Angus see the Kurgan preparing to decapitate Connor and attack him, forcing him to retreat. Connor is taken back to the village but is so badly wounded everybody assumes he is going to die. We learn that Connor, in his Russell Nash persona, is an antiquities dealer and seems to be quite wealthy. A very pretty older woman named Rachel Ellenstein ( Sheila Gish) is his assistant. Later, the Kurgan, now wearing Judas Priest stagewear and sporting a hideous scar on his neck, drives into the city after hearing of Fasil's death. Using the alias Victor Kruger, he takes up residence at a seedy motel and assembles his sectional \"bastard sword,\" made from composite alloys. He practices his technique, taking the occasional break for dalliances with prostitutes. Connor follows Brenda to a bar where they strike up a conversation and Brenda becomes very interested in him. They both leave and as Brenda tries to follow Connor he is attacked by Kruger. They fight but Connor is at an obvious disadvantage without a sword. The fight is interrupted by a police helicopter and everybody flees. Connor has made a remarkable recovery and is now back to normal, in only a few days. While he is happy to be alive, his friends ostracize him. Kate says that his recovery is the work of the devil. Most everybody in the clan mirrors that sentiment. Eventually the townspeople form a mob, tie him to a pole, and take him out to be executed -- but Angus frees him, convincing the villagers to commute the death sentence in favor of exile. Brenda has analyzed the metal fragments and discovered them to be extremely unusual. She makes a date with Connor and they plan to meet at her apartment. Although she tries to make it seem like it's only a date, she actually is trying to entrap him: she has a cassette recorder hidden in a drawer and also has a gun just in case. However, when Connor arrives he's immediately on to her and calls her out on this. Brenda insists that she only wants to know what's going on and that the shards of metal from Connor's sword date back several thousand years, but he tells her to stop digging and leaves. In 1541, Connor has settled in Glencoe, where he works as a blacksmith and is married to a woman named Heather (Beatie Edney). One day they are visited by a well dressed older gentleman (Sean Connery) carrying the katana that Connor uses in the modern era. The man identifies himself as Juan Sanchez Villa-Lobos Ramirez. He explains that they differ from normal men: they do not age, are immune to disease, and will only die if their heads are separated from their bodies. He proves this by knocking Connor (who cannot swim) off a rowboat. Connor does not drown, and actually marvels at some aquatic scenery before bobbing back to surface, seething with confusion and anger. Ramirez simply tells him that they are ready to begin. While training Connor in the finer points of swordsmanship, Ramirez begins to explain a long cycle he refers to as \"the Game,\" where immortals are compelled by an incomprehensible force to hunt each other down. When one immortal decapitates another, the winner receives a transfer of power called \"the Quickening.\" The Game is destined to continue until only a few immortals remain, and this will trigger the Gathering, where the survivors feel an irresistible pull towards a far away land and fight until only one remains. The last immortal standing will receive the cumulative sum of every Quickening, which Ramirez cryptically refers to as \"the Prize.\" Discussion soon turns toward the Kurgan, who is revealed to be the oldest and strongest of the immortals, descended from an ancient barbaric tribe from Kievan Rus, in the steppes of Russia. He must not achieve the Prize or mortals will be enslaved forever. Connor also learns that all immortals are sterile, and fears how Heather will react when she learns he cannot give her any children. Ramirez reveals that he has been married three times and his third wife, a Japanese princess named Shikiku (the daughter of the man who made Ramirez's katana), was the love of his life. Eventually, Shikiku died of old age, and he was devastated. He urges Connor to let Heather go, and foreswear future mortal relationships, to avoid the same heartbreak. Connor refuses. One night while Connor is away, the Kurgan arrives, demanding to know where \"the Highlander\" is. Ramirez lies, telling him that he has already killed Connor. The Kurgan sees through the deception and attacks. A fierce battle ensues. Ramirez gets an early advantage, slashing deep into the Kurgan's throat (revealing how Kruger got the scar on his neck and how his voice was altered) and wounding him in the side. However, the Kurgan's rage and ferocity eventually tip the battle in his favor. He asks who Heather is and Ramirez again lies, saying she is his woman so that his enemy won't use her against Connor. He decapitates Ramirez and receives the Quickening. After it has surged through his body, he falls from the tower where he and Ramirez had battled. Heather approaches him, thinking he's dead, but he grabs her. After the death of his mentor, Connor attempts to return to a normal life, but as Ramirez warned, Heather succumbs to old age while Connor remains youthful. On her deathbed, she thanks Connor for staying with her until the end, and ask that he honor her memory by lighting a candle on her birthday. After burying Heather, Connor plants his Scottish broadsword in the ground to mark her grave, appropriating Ramirez's katana as his weapon. He destroys all traces of his old life and leaves Scotland. Connor meets an exotic-looking man named Sunda Kastagir ( Hugh Quarshie) in present-day Central Park at the Bow Bridge. It becomes apparent they are long-time friends as well as immortals. They talk about how few of them are left and say the time for the final battle is close. They also discuss the possibility that they might have to kill each other. Connor and Kastagir recall meeting in Boston circa 1783. Connor is about to duel a very snooty man and is so drunk he can hardly stand up, but he still attempts to fight. The other man easily defeats Connor by stabbing him, and quickly declares himself the victor. However, Connor gets up and wants to continue the fight. The man is stunned but resumes the fight, easily stabbing Connor again. A humorous situation ensues where the man repeatedly \"kills\" Connor and each time Connor gets back on his feet. After much investigation Brenda finds out that Connor should be dead -- Russell Nash is the name of a baby who died at birth. She confronts Rachel and in a flashback we learn that Connor rescued her from the Nazis when she was a child. Rachel tries to keep Brenda away, but eventually Connor explains to Brenda who he really is. He proves it to her by stabbing himself in the stomach. After this revelation Brenda and Connor become lovers, although Connor is reluctant, and the ghostly voice of Ramirez suggests that he let her go. Kirk, a gung-ho ex-Marine with survivalist tendencies, sees Kruger and Kastagir dueling in an alley. Kruger kills Kastagir and receives his Quickening. Kirk, clearly freaked out by witnessing this event, shoots Kruger, who shrugs off the injury and impales him. Kirk survives, and gives the police Kruger's description. In response, Kruger alters his appearance by shaving his head and covering the scar on his neck with a safety-pin necklace. Connor is at a church, lighting candles for Heather's birthday. Kruger enters, revealing that Kastagir is dead and he and Connor are now the only immortals left. Kruger taunts Connor by telling him of his defeat of Ramirez and about raping Ramirez's wife. He then realizes that Heather was actually Connor's wife and had never told him about the rape. Connor is furious, but is reminded of the immortals' oldest rule: they cannot fight on holy ground. Kruger finds out that Connor is having an affair with Brenda and kidnaps her in order to draw Connor into the final fight. Connor accepts the challenge and kisses Rachel goodbye, telling her that Russell Nash dies tonight, and that she knew this day would come. The two fighters meet on the roof of Silvercup Studios and an epic sword fight begins. Kruger tries to use Brenda to defeat Connor by tying her to a billboard, but Connor manages to save her. The fight causes major destruction. Both fighters fall into a large warehouse which is surrounded by windows. After a climactic fight Connor defeats Kruger and experiences the sum of all quickenings, which destroys every window in the warehouse. The police assume that Kruger is the headhunter serial killer they were looking for, and that Nash was his final victim. The last scene shows Connor and Brenda in the Highlands and it explains that the Prize gives Connor awareness of the thoughts of all people all around the world and allows him to exert some influence. As a result he can help people cooperate with one another. He is now also mortal, able to have children and grow old. Ramirez tells Connor that he now has power beyond anyone's imagination, and urges him to use it well.",
+      "writers": [
+         "Gregory Widen",
+         "Gregory Widen"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0091203/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTM4MzU4MDk2MF5BMl5BanBnXkFtZTcwMDQzNzQzMQ@@._V1_SY317_CR12,0,214,317_AL_.jpg",
+      "actors": ["Stars: Christopher Lambert, Sean Connery, Clancy Brown | See full cast and crew »"],
+      "reviews": [
+         "When I first saw this movie, I loved it. Having recently seen it again after several years, I found it to be every bit as good as I remembered \u0096 in fact, better. So I thought I would visit IMDB and see what others had to say. I learned four things; 1/ This movie was a flop at the box office. Funny, I had always assumed it was a hit \u0096 it was so good, and spawned three (soon to be four) sequels and a television series. 2/ I expected some to be less than entranced with Highlander, but was interested to learn that there are those who think it complete rubbish. 3/ Some people think the sequels are good movies. How could they? 4/ Some people don't like the Queen soundtrack. How could they not? It is always interesting to see different viewpoints, especially when they are completely contrary to your own. But for me, this movie was perfect. The premise was intriguing, the story was beautifully told, the joy and pathos of an immortal amongst mortals revealed with great skill. There was great action, romance, the tragedy of love lost \u0096 and the baddest of bad guys to overcome. The casting was excellent, as was the acting. Sean Connery's contribution was exactly as it should have been, and no more. Clancy Brown's performance as The Kurgan was joyfully terrifying, Christopher Lambert was spot-on. The screenplay was excellent, as was the script. I was especially impressed with the way that flashbacks were interwoven with the ongoing story. In fact, this is the only flashback movie I have ever liked. I was also thoroughly impressed with the action sequences. Unlike so many recent movies, none of the action involved the physically impossible (with the obvious exception of the fact that the immortals were immortal, of course). This added enormously to the appeal, in direct contrast to so many movies made in the last decade. I despair when I watch movies where people perform the impossible. Even the classic scene `Oh, I'm falling \u0096 but it's OK, I can just grab this rope/branch/flagpole/whatever, and even though I have fallen 30 feet and am travelling at 20 mph, I can just stretch out my hand and arrest my fall as though I was no heavier than a feather' destroys all credibility in the action. I know, this is a fantasy movie anyway, so what does it matter? Well, realistic action is even more important in fantasy movies; it helps the audience to willingly suspend disbelief. This is very difficult to do when you are busy giggling at the latest fantastical feat you have witnessed. No such concerns in this movie \u0096 the action was perfectly judged to reflect the prowess gained from centuries of experience, whilst avoiding the impossible and the ridiculous. I was intrigued to find one user comment on IMDB criticising the use of `unnecessarily large and heavy weapons'. Anyone who has used (or even picked up) any edged weapon will be aware that they are very heavy. Moving that kind of mass means lots of momentum, and involves very distinctive body movements to counterbalance the weight. Most movies use toy weapons \u0096 plastic, fibreglass or wood \u0096 and the lack of mass shows in the actor's movements. For the uninitiated, this may make for flashier and faster action \u0096 but for those who know, it looks like children playing pretend. The use of weapons with real weight in Highlander adds tremendously to the realism. It was particularly impressive that the actors could use the weapons properly (at least to the extent demanded by the choreographed scenes \u0096 and that is all that is required for movies). Clancy Brown (as The Kurgan) deserves special praise here \u0096 he had the largest and heaviest weapon, yet wielded it like a veteran. One can only imagine the endless hours he spent perfecting his movements and balance. I do understand why some would find the soundtrack intrusive, but for me this was another area that was perfectly judged. Queen's songs enhanced the mood of the moment whenever they played. One related fact that some might find interesting \u0096 a few years ago I saw a list of the top ten best movies for music as voted for by students. Highlander made the list \u0096 the only non-musical to do so. (In fact, I think it came in the top five.) So I would guess that the soundtrack works for most people.. I also understand why the accents in the movie (Christopher Lambert's and Sean Connery's) are a problem for some. However, I was happy with Lambert's accent; it was Scottish enough for the Highland scenes, and suitably indefinable for the modern settings. Sean Connery was, of course, Sean Connery \u0096 he never adopts any accent other than his own. But that's OK \u0096 it doesn't detract from the film, any more than it detracts from any of his films (such as Red October). I tend to agree with his point that accents don't matter \u0096 emotions are the same, regardless of nationality. Just a quick word about the sequels \u0096 disappointing. I am not one to decry all sequels as inferior. In fact, many sequels are very good, and some are better than their progenitors. However, the Highlander sequels were without exception very poor. The original film was obviously conceived as a one-off, and was all the better for it. The story was complete with Highlander, and the sequels were necessarily contrived. However, Highlander II exceeded all expectations in this regard. The plot changed the story of the immortals beyond all recognition. Egregious just isn't a big enough word to describe it. The sequels are best viewed as being entirely separate from the original. If you haven't already seen them, be prepared for a decidedly tepid experience. But Highlander itself \u0096 ah, there's a real movie. Sit back and enjoy! 9.5/10",
+         "Highlander is an ingenious and very entertaining science fiction film which has come in for rather a lot of (unwarranted) scathing criticism. Although the plot jumps around with reckless abandon, the scripters Gregory Widen, Larry Ferguson and Peter Bellwood manage to pull in all the loose ends by the climax. The word \"confusing\" has been used to describe the film quite often as well, but if you stick with it the confusing moments are explained quite cleverly towards the closing reels. This is, in fact, not a bad film at all. I'd venture to say it's a pretty good one. The opening sequence has Russell Nash (Christopher Lambert) at a wrestling match in New York's Madison Square Gardens. He leaves early, and while walking through the underground car park is confronted by a man with a sword. Nash is not perturbed by this - he merely brandishes a sword of his own, and the pair of them fight to the death, resulting in the decapitation of Nash's opponent. Slowly, we learn (via flashbacks) that Nash is an immortal swordsman who has spent centuries duelling with like immortals. The only way they can die is by decapitation at the hands of one of their counterparts. Each swordsman has spent the whole of history pursuing the others, hoping to be the last one alive whereupon he will gain mortality, virility and vast knowledge. The film is very energetic (what would you expect from a former music video director?) with dazzling camera work and a pounding, Flash Gordon-style soundtrack by Queen. Sean Connery has a pleasant supporting role as an immortal who teaches Lambert the art of swordplay, and Alan North has a funny part as a bewildered cop who can't figure out why headless corpses keep turning up in his city. The film's intentionally muddled structure is slightly irritating on the first viewing, but with repeated viewings it becomes more comprehensible, even clever. Highlander is a good, inventive piece of hokum.... and it's a real shame that those very same critics who are always grumbling about the lack of cinematic imagination these days didn't give it some merit when it was first released.",
+         "I didn't get this film at first audition. I thought the acting wasn't great. But something about the film kept pulling me in. When I watched it again I fell in love with the movie. Its full of romance, heroism and over all loss. A very involving and emotional film. The Queen song \"Who wants to live forever\" never fails to stir emotions. The battle scenes are also very good. What also makes the film work is the casting. The Highlanders all look very brave and fearless not to mention scarred. Also the costumes are fantastic. I'm mo expert on the exact clothing for Highlanders in the 16th century, but they looked pretty good to me. I had no real feelings about Scotland before I watched this film, But after the film got under my skin it was the next place I visited. I was amazed to find that there really is a Glen Finnan on the shore of Loch Sheil. And I can say first hand that it is a truly historicaly magical place.",
+         "When I first saw this film, I thought it was great. Connery is good, Lambert does passably well, the effects are good, the idea of a bunch of special individuals who had known about each other (and in some cases, liked each other) for centuries being drawn together, knowing that only one could come out alive. The effects were, at the time, good and had not been flogged to death. I even enjoyed the introductory clan-on-clan warfare. Then came Highlander 2, a film which deserved its place on the Bottom 100 and the nadir of Sean Connery's career. As someone else said about that film: \"don't break every rule you set up in the first film.\" Even the series didn't do that. And the reputation of the first good film suffered. Separating the first film from the bad sequels, and a series that a lot of people can take or leave, it is still a good film. Unfortunately, a good idea was taken and flogged to death afterward.",
+         "It does exactly what a movie is supposed to do! It lets your imagination run away with you. It lets you forget all your worries for a time. The music is Fantastic!!! It is haunting and relaxing at the same time. Sean Connery is of course, wonderful in his part. Christopher Lambert has a way of making you feel what he feels. The scenery is utterly gorgeous. The special effects are very well done.Makes you want to live forever and at the same time glad that you don't! Worrying about getting your head cut off sure makes our bills seem like such tiny little problems! Great entertainment!! A must see for the fiction fan.",
+         "The first time I saw this movie I knew it was going to be a lifelong favorite. With all the years that have gone by since then, and the repeated viewings I have given it, The Highlander still remains one of the best pieces of film I have ever seen. There are enough fight scenes to satisfy the most adamant of action movie fans, and there is an incredibly touching scene with Lambert and Beatie Edney (Heather) when she is dying of old age, Connor is still youthful in appearance, and the Queen song \"Who Wants To Live Forever\" is playing in the background. It still brings tears to my eyes when I see Connor in modern day New York lighting a candle for her on her birthday. The swordplay is extremely well choreographed and the sets are remarkable. To be fair, the special effects are not what I would consider up to the standards of the day, however the writing and acting is more than enough to make up for it. If you want to see a movie that doesn't NEED special effects to make it worth watching, this is one for you.",
+         "Still, one of my favorite movies of all time, especially if I watch the director's cut. Forget the sequel. Forget everything but the first movie. This was Gregory Widen's first screenplay about a world of darkness. It's great fun, but if you're looking for a FILM, just watch the scene cuts. Please, please ignore any of the franchise movies. Highlander succeeds because it's an '80s movie. The special effects, while not novel, were solid. The swords alone are why I watched this movie in my young years. The writing and the acting are why I've come back. As an aside, I know three people who can quote Highlander in its entirety. That's solid, too. It's an epic movie, plowing through the years. Epic battles, and an epic storyline.",
+         "I can honestly say that Highlander is one of the most original and affecting stories I have ever had the pleasure of viewing, although sadly not in the cinema. The film has its flaws but the cumulative effect of all the various elements make this a film that is really like no other, and often imitated. There are many elements in the film that were experimental at the time, especially for a genre film. The editing style is much more painterly and nonlinear than what one normally expects. The integration of modern songs in a period setting was handled brilliantly, with the crowning achievement of the film being the \"who wants to live forever?\" montage, which is an absolutely heartbreaking scene. Anyone who has ever truly loved someone will understand when you see it. One of the refreshing aspects of Highlander is that the movie is not just set up with an interesting concept and becomes a mindless action film from there, but that it actually comments on the questions posed by immortality. With Connor Macleod we are given a fantastic character who is brilliantly realized through Chrisopher Lambert's complex performance. The change he goes through from young, innocent Scotsman to a sad, world weary antiques dealer is a wonderful achievement. I actually feel through his performance how lonely the life of an immortal must be, and how he keeps people at a distance whereas to not get too deeply involved. This film has it's heart in the right place because it comments on the fact that when people lose everything they hold dear, in this case because Macleod will outlive everyone he cares about, they travel inward, cutting themselves off from the world in hopes that they will be spared the pain of seeing the ones they love die. From a story standpoint alone, this is a truly magnificent film, which isn't to say it is lacking in other areas. The camera angles are very inventive and some of the transitions between time frames are jaw-dropping. The musical score by Michael Kamen is lush and romantic, while at the same time allowing for an integration with the songs by Queen that is a tremendously successful idea that in theory you'd never think would work right, but strangely it does so extremely well. There is a wide range of performance in the film ranging from Lambert's subtle, understated interpretation of Connor, to Clancy Brown's flamboyantly theatrical portrayal of the main Villain. Sean Connery also makes quite an impression as Connor's mentor. He is both hilarious and charming, powerful and poignant. The female character's are also handled very well with Conner's first wife Heather being the standout. Highlander has a very odd sense of humor that seems to have come from improvisation from the actors. The entire film has a spontaneous energy that works very well because you never quite know what is going to happen next. This is not a perfect film, and sometimes it tends to fall back on genre stereotypes but the overall effect of the film more than makes up for it. Highlander is one of the more original films ever made, and sadly none of the sequels ever built on that. As far as the Highlander series goes; There can be only one, and this is it.",
+         "In 16th century Scotland, immortals fought against each other, in a quest for the prize of being the one remaining at the end of the centuries of fighting. Conner Macleod (Christophe Lambert) is trained in the art of sword fighting by Ramirez (Sean Connery) in hope that one day one of them will fight and defeat the Kurgen (Clancy Brown) The story is set over 4 centuries and stretches from the highlands of Scotland to the streets of New York. Firstly the cinematography in the highlands captures the breath taking scenery beautifully, the story is captivating fantasy, with dialogue and direction to suit the theme, and the cast all perform well enough to entice you into the story and hold your attention, without ever really excelling. Finally the soundtrack is provided by Queen, and it genuinely adds to the emotional feel of the film in quite dramatic style. Highlander is a very good movie, that has its flaws; but in fantasy, does it really matter? However the sequels are far too contradictory and contrived to be given the same forgiveness. This film really is the only one; and its stands alone without the need for its inferior sequels. 7/10",
+         "Highlander is perhaps the definitive modern-day, non-horror fantasy adventure. The use of flashbacks within the story is perhaps not unique, but the concept sees its full fruition here. Such integral \"flashback storytelling\" would later be borrowed by many movies and TV shows (the Highlander series itself, Forever Knight, and Outlaws among the latter). Everyone is well cast, from the major roles (Lambert, Brown, Connery, Hart, and North) to the minor roles (Peter Diamond, Hugh Quarshie, Sheila Gish, and Christopher Malcolm, among others). Of necessity, must be seen in the Director's Cut version. Various web sites also have the further \"missing scenes,\" including the Kurgan's battle with Immortal Yung Dol Kim, and Kastagir and MacLeod actually having that party they mention."
+      ],
+      "genres": [
+         "Adventure",
+         "Fantasy"
+      ],
+      "productionCompanies": [
+         "Thorn EMI Screen Entertainment",
+         "Highlander Productions Limited"
+      ],
+      "summaries": [
+         "Born in the Highlands of Scotland in 1518, Connor Macleod is immortal. When he is wounded in battle but does not die, he is banished from his village. He meets another like himself, Ramirez, who teaches him swordsmanship--the only way to kill another immortal is to take his head--and the ways of the immortals. Modern-day New York is the location of \"The Gathering,\" where Connor and the few remaining immortals must battle to the last for \"The Prize.\"",
+         "After centuries of dueling to survive against others like him, an immortal Scottish swordsman faces his final opponent: a bloodthirsty barbarian who has chased him across time to 1985 New York City, where they fight for the Prize: the spiritual ability to know everything.",
+         "Connor Macleod was born in 1518 in the Highlands of Scotland. In 1536, after facing a mysterious, evil opponent, he survives a fatal stab wound and is banished from his village, for they believe his survival is the work of the Devil. Five years later, Macleod is met by Juan Sanchez Villa-Lobos Ramirez, a swordsman who teaches Macleod the awful truth; he is immortal, one of a race of many who can only die when the head is cut from the body. When one immortal takes the head of another, the loser's power is absorbed into the winner. Ramirez teaches Macleod the ways of the sword, until Ramirez is tragically killed by Connor's ultimate opponent, the evil Kurgan, a murderous immortal brute who lusts for the ultimate power of the immortals, \"The Prize\"; enough power to rule the earth forever. Connor fights his way through the centuries, until the time of the Gathering, when the few immortals who have survived the endless battles come together to fight until only one remains, and that winner will receive The Prize. The time: 1985. The place: New York City. The final fight is about to begin, and in the end, there can be only one.",
+         "An immortal Scottish swordsman must confront the last of his immortal opponent, a murderously brutal barbarian who lusts for the fabled \"Prize\"."
+      ],
+      "budget": 16000000
+   },
+   "movielensId": 1275,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1986-03-07",
+      "dvdReleaseDate": "2002-04-16",
+      "directors": ["Russell Mulcahy"],
+      "runtime": 116,
+      "movieId": 1275,
+      "title": "Highlander",
+      "mpaa": "R",
+      "actors": [
+         "Christopher Lambert",
+         "Roxanne Hart",
+         "Clancy Brown",
+         "Sean Connery",
+         "Beatie Edney",
+         "Alan North",
+         "Jon Polito",
+         "Sheila Gish",
+         "Hugh Quarshie",
+         "Peter Diamond",
+         "Billy Hartman",
+         "James Cosmo",
+         "Celia Imrie",
+         "Christopher Malcolm",
+         "Frank Dux",
+         "Ian Reddington",
+         "Alistair Findlay",
+         "Edward Wiley",
+         "James McKenna",
+         "John Cassady",
+         "Sion Tudor Owen",
+         "Damien Leake",
+         "Gordon Sterne",
+         "Ron Berglas",
+         "Louis Guss",
+         "Peter Banks",
+         "Ted Maynard",
+         "Waldo Roeg",
+         "Anthony Mannino",
+         "Helena Stevens",
+         "Prince Howell",
+         "Anthony Fusco",
+         "Ian Tyler",
+         "Corinne Russell",
+         "Buckley Norris",
+         "Lisa Dalton",
+         "Jim Brunzell",
+         "Ed Montalvo",
+         "Sam Douglas"
+      ],
+      "imdbMovieId": "0091203",
+      "originalTitle": "Highlander",
+      "genres": [
+         "Adventure",
+         "Action",
+         "Fantasy"
+      ],
+      "youtubeTrailerIds": ["omOZyLmNMJs"],
+      "plotSummary": "He fought his first battle on the Scottish Highlands in 1536. He will fight his greatest battle on the streets of New York City in 1986. His name is Connor MacLeod. He is immortal.",
+      "tmdbMovieId": 8009,
+      "avgRating": 3.59843,
+      "releaseYear": "1986",
+      "numRatings": 13091,
+      "posterPath": "/6l4t1vWAFMuAiOpDT0mDWlrr5Mp.jpg"
+   }
+}

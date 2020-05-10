@@ -1,0 +1,829 @@
+{
+   "tmdb": {
+      "original_language": "fr",
+      "keywords": [
+         {
+            "name": "obsession",
+            "id": 1523
+         },
+         {
+            "name": "army",
+            "id": 6092
+         },
+         {
+            "name": "ferrari",
+            "id": 8680
+         },
+         {
+            "name": "catholic",
+            "id": 18396
+         },
+         {
+            "name": "alcoholic",
+            "id": 33457
+         },
+         {
+            "name": "desire",
+            "id": 33513
+         },
+         {
+            "name": "edgar allan poe",
+            "id": 155317
+         },
+         {
+            "name": "doppelgänger",
+            "id": 161891
+         },
+         {
+            "name": "movie star",
+            "id": 162262
+         }
+      ],
+      "imdb_id": "tt0063715",
+      "video": false,
+      "title": "Spirits of the Dead",
+      "recommendations": [
+         27636,
+         29268,
+         59404,
+         133751,
+         80382,
+         84508,
+         46149,
+         115647,
+         121461,
+         68528,
+         42144,
+         52857,
+         117239,
+         107035,
+         131074,
+         101330,
+         198835,
+         47582,
+         117478,
+         102514
+      ],
+      "backdrop_path": "/vfAgkK9dcyjO1Us0L283afaPOpU.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 4,
+               "character": "Giuseppina (segment \"William Wilson\")",
+               "gender": 1,
+               "credit_id": "52fe45bdc3a36847f80d7bc5",
+               "name": "Brigitte Bardot",
+               "profile_path": "/3zQZJKE1TBXEi1khQlLI321KhHX.jpg",
+               "id": 3783,
+               "order": 0
+            },
+            {
+               "cast_id": 5,
+               "character": "William Wilson and his double (segment \"William Wilson\")",
+               "gender": 2,
+               "credit_id": "52fe45bdc3a36847f80d7bc9",
+               "name": "Alain Delon",
+               "profile_path": "/brn5xEZUibCzDMBKeJds6Bxz6rZ.jpg",
+               "id": 15135,
+               "order": 1
+            },
+            {
+               "cast_id": 6,
+               "character": "Contessa Frederique de Metzengerstein (segment \"Metzengerstein\")",
+               "gender": 1,
+               "credit_id": "52fe45bdc3a36847f80d7bcd",
+               "name": "Jane Fonda",
+               "profile_path": "/y1QtAxHn8XOi4cHzDRJUuvK3aFp.jpg",
+               "id": 6352,
+               "order": 2
+            },
+            {
+               "cast_id": 7,
+               "character": "Toby Dammit (segment \"Toby Dammit\")",
+               "gender": 2,
+               "credit_id": "52fe45bdc3a36847f80d7bd1",
+               "name": "Terence Stamp",
+               "profile_path": "/fyGkLjgVfyKIPBaMQs5Df3gMuOV.jpg",
+               "id": 28641,
+               "order": 3
+            },
+            {
+               "cast_id": 8,
+               "character": "Baron Wilhelm Berlifitzing (segment \"Metzengerstein\")",
+               "gender": 2,
+               "credit_id": "52fe45bdc3a36847f80d7bd5",
+               "name": "Peter Fonda",
+               "profile_path": "/dgorN06SQ9ZNL2NY3I7BNxg93lc.jpg",
+               "id": 8949,
+               "order": 4
+            },
+            {
+               "cast_id": 16,
+               "character": "Countess' Advisor (segment \"Metzengerstein\")",
+               "gender": 2,
+               "credit_id": "52fe45bdc3a36847f80d7c03",
+               "name": "James Robertson Justice",
+               "profile_path": "/oTgtFkCvG8CxebaoBeGvrkqHHD3.jpg",
+               "id": 11130,
+               "order": 5
+            },
+            {
+               "cast_id": 17,
+               "character": "Priest (segment \"Toby Dammit\")",
+               "gender": 2,
+               "credit_id": "52fe45bdc3a36847f80d7c07",
+               "name": "Salvo Randone",
+               "profile_path": "/mPHQXRqVrcoSdjhiY1XZP0K9RH1.jpg",
+               "id": 68406,
+               "order": 6
+            },
+            {
+               "cast_id": 18,
+               "character": "Friend of Countess (segment \"Metzengerstein\") (as Francoise Prevost)",
+               "gender": 1,
+               "credit_id": "52fe45bdc3a36847f80d7c0b",
+               "name": "Françoise Prévost",
+               "profile_path": "/lNBuCc2sXTMdOrZoa2FHmlMn9gz.jpg",
+               "id": 36386,
+               "order": 7
+            },
+            {
+               "cast_id": 19,
+               "character": "Narrator (English version) (uncredited)",
+               "gender": 2,
+               "credit_id": "559598e1c3a36857e0000490",
+               "name": "Vincent Price",
+               "profile_path": "/w9wcf7hWLD2I2K0PojJaqd9vbHL.jpg",
+               "id": 1905,
+               "order": 8
+            },
+            {
+               "cast_id": 20,
+               "character": "Girl on Dissection Table",
+               "gender": 1,
+               "credit_id": "582e39a7c3a368773600cde1",
+               "name": "Katia Christine",
+               "profile_path": "/oP6EB0ZVXgLFeAN5MQQRX3myyA9.jpg",
+               "id": 139129,
+               "order": 9
+            },
+            {
+               "cast_id": 21,
+               "character": "Philippe",
+               "gender": 2,
+               "credit_id": "582e39b2925141095d00e83b",
+               "name": "Philippe Lemaire",
+               "profile_path": "/9kDxP17JzVVbMfLqul7aI2pq6Za.jpg",
+               "id": 37727,
+               "order": 10
+            },
+            {
+               "cast_id": 22,
+               "character": "Hugues",
+               "gender": 2,
+               "credit_id": "582e39bac3a36877300105d3",
+               "name": "Serge Marquand",
+               "profile_path": "/mhCFi2beA3tCRJQhjkRbZmInQQh.jpg",
+               "id": 38915,
+               "order": 11
+            },
+            {
+               "cast_id": 24,
+               "character": "Manetti Brother",
+               "gender": 0,
+               "credit_id": "582e39dec3a36877300105ec",
+               "name": "Ernesto Colli",
+               "profile_path": "/AnfceBCkJGzSZcNKQ5jriSkE7Z7.jpg",
+               "id": 103106,
+               "order": 13
+            },
+            {
+               "cast_id": 25,
+               "character": "Courtesan",
+               "gender": 1,
+               "credit_id": "582e39ebc3a368772600d5ab",
+               "name": "Anny Duperey",
+               "profile_path": "/qu7goZBv9ETl8BbIagaCPzNwQ0O.jpg",
+               "id": 24475,
+               "order": 14
+            },
+            {
+               "cast_id": 26,
+               "character": "Schoolmaster",
+               "gender": 0,
+               "credit_id": "582e39f6c3a368773900d6c0",
+               "name": "John Karlsen",
+               "profile_path": "/vKvBi2jGhSSjXke6ZDD4UTDN5hc.jpg",
+               "id": 120613,
+               "order": 15
+            },
+            {
+               "cast_id": 27,
+               "character": "Woman (uncredited)",
+               "gender": 1,
+               "credit_id": "582e3a09c3a368773600ce38",
+               "name": "Maria Tedeschi",
+               "profile_path": "/6e5xuLKh4H5AqqxfLWtKVI1A8P6.jpg",
+               "id": 1108286,
+               "order": 16
+            },
+            {
+               "cast_id": 28,
+               "character": "TV Interviewer (uncredited)",
+               "gender": 1,
+               "credit_id": "582e3a18925141094e00da02",
+               "name": "Milena Vukotic",
+               "profile_path": "/t3on2M69KvTLdWYCKALmCEK3xzL.jpg",
+               "id": 44104,
+               "order": 17
+            },
+            {
+               "cast_id": 29,
+               "character": "Hans",
+               "gender": 2,
+               "credit_id": "588318f0c3a368064a005bb7",
+               "name": "Umberto D'Orsi",
+               "profile_path": "/6vEmZzHfhI7MdIBfFSvKouRfoFH.jpg",
+               "id": 628316,
+               "order": 18
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe45bdc3a36847f80d7bb5",
+               "name": "Federico Fellini",
+               "profile_path": "/iNuDmm889WbZDK4k0qxsjeNnNhV.jpg",
+               "id": 4415,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe45bdc3a36847f80d7bbb",
+               "name": "Louis Malle",
+               "profile_path": "/58db1ci6IPJ60hO6Cbbhfsc54H1.jpg",
+               "id": 15389,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe45bdc3a36847f80d7bc1",
+               "name": "Roger Vadim",
+               "profile_path": "/oftdq5DjC1loKRBLP4KfKauuc5e.jpg",
+               "id": 53767,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe45bdc3a36847f80d7bdb",
+               "name": "Edgar Allan Poe",
+               "profile_path": "/akmuLsbMrtcVrmiiaYqDK3QNdwC.jpg",
+               "id": 48415,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe45bdc3a36847f80d7be1",
+               "name": "Roger Vadim",
+               "profile_path": "/oftdq5DjC1loKRBLP4KfKauuc5e.jpg",
+               "id": 53767,
+               "department": "Writing",
+               "job": "Adaptation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe45bdc3a36847f80d7be7",
+               "name": "Pascal Cousin",
+               "profile_path": null,
+               "id": 1172546,
+               "department": "Writing",
+               "job": "Adaptation"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe45bdc3a36847f80d7bed",
+               "name": "Louis Malle",
+               "profile_path": "/58db1ci6IPJ60hO6Cbbhfsc54H1.jpg",
+               "id": 15389,
+               "department": "Writing",
+               "job": "Adaptation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe45bdc3a36847f80d7bf3",
+               "name": "Clement Biddle Wood",
+               "profile_path": null,
+               "id": 1172547,
+               "department": "Writing",
+               "job": "Adaptation"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe45bdc3a36847f80d7bf9",
+               "name": "Federico Fellini",
+               "profile_path": "/iNuDmm889WbZDK4k0qxsjeNnNhV.jpg",
+               "id": 4415,
+               "department": "Writing",
+               "job": "Adaptation"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe45bdc3a36847f80d7bff",
+               "name": "Bernardino Zapponi",
+               "profile_path": null,
+               "id": 67884,
+               "department": "Writing",
+               "job": "Adaptation"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58acae6c9251416f38000b2f",
+               "name": "Daniel Boulanger",
+               "profile_path": "/3Egd9oziYQQjO686lDQ8Z1DWCLr.jpg",
+               "id": 3573,
+               "department": "Writing",
+               "job": "Dialogue"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58acaec59251416f3c000bf3",
+               "name": "Raymond Eger",
+               "profile_path": null,
+               "id": 336202,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58acaed0c3a3686f27000af7",
+               "name": "Alberto Grimaldi",
+               "profile_path": null,
+               "id": 5820,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58acaee49251416f5f000bbf",
+               "name": "Diego Masson",
+               "profile_path": null,
+               "id": 1763198,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58acaef39251416f3c000c1f",
+               "name": "Jean Prodromidès",
+               "profile_path": null,
+               "id": 36125,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58acaf01c3a3686f17000a57",
+               "name": "Nino Rota",
+               "profile_path": "/v42v3uM7jqwoZxDJ8MlEtT6Ol7a.jpg",
+               "id": 3098,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58acaf0fc3a3686f0d000bff",
+               "name": "Tonino Delli Colli",
+               "profile_path": "/eZiIxNxmEJPLWsGokFX98IcgdF2.jpg",
+               "id": 2361,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58acaf219251416f44000b76",
+               "name": "Claude Renoir",
+               "profile_path": "/41xD6gvddFwSUvVBGO5mvU6AOaU.jpg",
+               "id": 10469,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58acaf2f9251416f4b000b6e",
+               "name": "Giuseppe Rotunno",
+               "profile_path": null,
+               "id": 15131,
+               "department": "Crew",
+               "job": "Cinematography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58acaf43c3a3686f17000a86",
+               "name": "Franco Arcalli",
+               "profile_path": null,
+               "id": 4667,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58acaf60c3a3686efd000b38",
+               "name": "Ruggero Mastroianni",
+               "profile_path": null,
+               "id": 32053,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58acaf709251416f67000c32",
+               "name": "Hélène Plemiannikov",
+               "profile_path": null,
+               "id": 30635,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58acaf83c3a3686ef1000eec",
+               "name": "Jean André",
+               "profile_path": null,
+               "id": 54366,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58acafc09251416f3c000ccc",
+               "name": "Piero Tosi",
+               "profile_path": "/bTE02wqXfOBOFlAcNlpWnVfcUHO.jpg",
+               "id": 32055,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58acafd39251416f4b000bf8",
+               "name": "Ghislain Uhry",
+               "profile_path": null,
+               "id": 1612832,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58acaff0c3a3686ecc000b8c",
+               "name": "Fabrizio Clerici",
+               "profile_path": null,
+               "id": 1763204,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58acaffe9251416f67000cc9",
+               "name": "Carlo Leva",
+               "profile_path": null,
+               "id": 1035044,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58acb00fc3a3686f21000cd3",
+               "name": "André Cultet",
+               "profile_path": null,
+               "id": 578053,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 1,
+               "credit_id": "58acb025c3a3686f0d000cee",
+               "name": "Ludmilla Goulian",
+               "profile_path": null,
+               "id": 1139904,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58acb0759251416f3c000d54",
+               "name": "Thomas Sagone",
+               "profile_path": null,
+               "id": 70022,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58acb0889251416f3c000d63",
+               "name": "Enzo Provenzale",
+               "profile_path": null,
+               "id": 1014404,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58acb09c9251416f67000d41",
+               "name": "Vana Caruso",
+               "profile_path": null,
+               "id": 1763213,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58acb0b19251416f4b000c9f",
+               "name": "Michel Clément",
+               "profile_path": null,
+               "id": 1763219,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58acb0c39251416f8c000cb8",
+               "name": "Jean-Michel Lacor",
+               "profile_path": null,
+               "id": 62468,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58acb0da9251416f8c000cd1",
+               "name": "Eschilo Tarquini",
+               "profile_path": null,
+               "id": 1763220,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58acb0e99251416f5f000d59",
+               "name": "Serge Vallin",
+               "profile_path": null,
+               "id": 54361,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58acb0f8c3a3686ecc000c31",
+               "name": "Francesco Aluigi",
+               "profile_path": null,
+               "id": 994213,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58acb109c3a3686ef1001014",
+               "name": "Liliane Betti",
+               "profile_path": null,
+               "id": 1177219,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58acb1209251416f38000d42",
+               "name": "Jean Forestier",
+               "profile_path": null,
+               "id": 1763221,
+               "department": "Art",
+               "job": "Assistant Art Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58acb1389251416f44000d22",
+               "name": "Joseph Nathanson",
+               "profile_path": null,
+               "id": 1763222,
+               "department": "Visual Effects",
+               "job": "Visual Effects"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5967278e9251410c5612ff45",
+               "name": "Suzanne Baron",
+               "profile_path": null,
+               "id": 5785,
+               "department": "Editing",
+               "job": "Editor"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Mystery",
+            "id": 9648
+         },
+         {
+            "name": "Horror",
+            "id": 27
+         }
+      ],
+      "popularity": 3.42648,
+      "production_countries": [
+         {
+            "iso_3166_1": "FR",
+            "name": "France"
+         },
+         {
+            "iso_3166_1": "IT",
+            "name": "Italy"
+         }
+      ],
+      "id": 41225,
+      "vote_count": 31,
+      "budget": 0,
+      "overview": "Three directors each adapt a Poe short story to the screen: \"Toby Dammit\" features a disheveled drugged and drunk English movie star who nods acceptance in the Italian press and his producers fawn over him. \"Metzengerstein\" features a Mediveal countess who has a love-hate relationship with a black stallion - who it turns out is really her dead lover. \"William Wilson\" tells the story of a sadistic Austrian student with an exact double whom he later kills.",
+      "similar": [
+         28468,
+         401898,
+         11953,
+         22681,
+         18215,
+         269776,
+         332562,
+         12432,
+         22692,
+         438259,
+         112631,
+         47244,
+         47452,
+         39907,
+         313430,
+         467096
+      ],
+      "original_title": "Histoires extraordinaires",
+      "runtime": 121,
+      "poster_path": "/mFicvTnfSb92s2iPjoSicBvOqJW.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Français",
+            "iso_639_1": "fr"
+         },
+         {
+            "name": "Deutsch",
+            "iso_639_1": "de"
+         },
+         {
+            "name": "Italiano",
+            "iso_639_1": "it"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Produzioni Europee Associati (PEA)",
+            "id": 7508,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "PEA",
+            "id": 73349,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Les Films Marceau",
+            "id": 2260,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Cocinor",
+            "id": 512,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1968-05-16",
+      "vote_average": 5.6,
+      "belongs_to_collection": null,
+      "tagline": "The ultimate orgy of evil",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "France",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": [
+         "Federico Fellini",
+         "Louis Malle"
+      ],
+      "runtime": 121,
+      "synopsis": null,
+      "writers": [
+         "Edgar Allan Poe",
+         "Roger Vadim"
+      ],
+      "originalLanguage": "French",
+      "imdbLink": "http://www.imdb.com/title/tt0063715/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTYwMDMzODUzMl5BMl5BanBnXkFtZTcwMDYwNDMzMQ@@._V1_.jpg",
+      "actors": ["Stars: Jane Fonda, Brigitte Bardot, Alain Delon | See full cast and crew »"],
+      "reviews": [
+         "Three Edgar Alan Poe stories, three directors, a genius director, a great director and a director. The top international stars of their day: Jane Fonda, Peter Fonda, Terence Stamp, Alain Delon and Brigitte Bardot. The Roger Vadim episode with the two Fondas is quite terrible, Jane with her left over costumes from Barbarella, is always watchable but what a mess. Delon and Bardot are fun to watch but the piece looks more a rehash of one of the weakest Hammer horror flicks than a film signed by the great Louis Malle. However, I wouldn't mind sitting through those turkeys once again for the sheer pleasure of the third segment: Fellini's \"Toby Dammit\" with a superlative Terence Stamp. Unique, unnerving, jaw dropping, funny, delightful gem of a film.",
+         "'Spirits of the Dead' (1968), a French-Italian production narrated by Vincent Price, features three Edgar Allan Poe stories adapted for the screen and directed by three of Europe's most fascinating filmmakers of the period (choke!). Vadim's segment (\u0091Metzengerstein'), starring Jane and Peter Fonda, is a real stinker. Has Vadim ever made a truly good film? Not really, so at least he's being consistent here by turning Poe's tale into a dull, silly mess. Striving hard for art's sake, he misses the mark each time. Q: Who wants to see Jane Fonda falling in love with Peter Fonda? A: Not me. Malle's segment (\u0091William Wilson') is solid but not worth repeated screenings. Of note: Brigitte Bardot gets naked, verbally abused and whipped. No comment as to the merits of these actions or her presence; nevertheless, the tale's ending doesn't quite work. Fellini's 'Toby Dammit' is classic, freakshow Fellini. Terence Stamp stars as a wasted British film star (looking like an effeminate junkie) and gives an awesomely convincing performance. Ultimately, his character gets a bit out of hand and, uh, loses his head. Good stuff that. It's probably fortunate that Fellini's is the longest and last segment; it is easily the film's strength and highlight. Unlike the first two tales, \u0091Toby Dammit' was also released theatrically on its own, yet it is not available separately on dvd. The \u0091Spirits of the Dead' dvd first hit the market as an Image release. This is not the version to purchase. Image used a less-than-satisfactory source print, and the transfer looks crummy. Also, the menu is poorly designed and doesn't work quite the way one wants it to. Later, Home Vision released a higher quality version with four additional minutes of footage, using much finer source material. --- david ross smith",
+         "\"Spirits of the Dead\"(1968) - adaptations of three Edgar Allen Poe stories by three European directors, Roger Vadim's \"Metzengerstein\" with Jane and Peter Fonda, Louis Malle's \"William Wilson\" (with Alain Delon and Briget Bardout), and Federico Fellini's \"Toby Dammit\". The universal opinion is that only Fellini's entry is worth watching and it is indeed, spectacular with Terence Stamp fitting so well in the Fellini's freak show that it is impossible to take your eyes off him. The reason I wanted to see the movie so much was the CD that I bought some time ago - a compilation of some of the most beautiful themes composed by Nino Rota for the films of Federico Fellini. \"The Ultimate Best of Federico Fellini & Nino Rota\" includes the tunes arranged in the medleys for 16 films directed by Fellini. These are the full orchestrations (as heard in the movies they come from) and just listening to the familiar melodies brings back the memories and the images. There was one track I kept listening to over and over. It was written for the Fellini's episode in the \"Tre passi nel delirio\" aka \"Spirits of the Dead\" (1968), \"Toby Dammit\". The soundtrack for \"Toby Dammit\" simply stands out among the romantic and poetic gems. It is rich, obsessive and creates uneasy and creepy atmosphere which is quite appropriate for an episode that features a desperate actor (Terence Stamp) in a pact with the devil. Besides the score \"Toby Dammit\" has plenty of great typically Felliniesque images , an unforgettable ending, and not the least, Terence Stamp who might've played one of his best roles as the famous English actor, drugged and drunk out of his mind who arrived in Rome for the Italian Film Academy Awards ceremony. Toby was also offered the role of Jesus in the Catholic Western but all he remembered that he had been promised a Ferrari for participating in the ceremony and Ferrari he will get...with the ride to hell that looks exactly like Rome at night where every turn takes you to the dead end and the Devil only knows the way out but you will pay him a price... I found all three films interesting and involving in their own terms. I don't agree with the comments that call Vadim's adaptation a failure - it is certainly not. If anything, it is beautiful to look at and listen to and any film featuring Madam Roger Vadim (Jane Fonda was married to the director at the time) wearing the costumes that were certainly inspired by or even reused from \"Barbarella\" that was released in the same year, 1968 is worth watching. Vadim changed the short story by transforming a protagonist, 18 years old Baron Frederic Metzengerstein into 22 years old Contessa Frederica but he did not change her character. She is rich, bored, corrupted, and ruthless, a \"petty Caligula\", until she meets her cousin Wilhelm (played by Jane's brother, Peter Fonda). Making siblings playing cousins in love tells us something (or maybe a lot) about Vadim and his mysterious Slavic soul and reminds about Poe's own dramatic love for his first cousin, Virginia Eliza Clemm, whom he married when she was only 13 and whose death at the age of 25 from tuberculosis could have let to decline of his own mental state and his untimely death less than three years after her. Poe explores in \"William Wilson\" very popular in the Art and literature subject of a man and his double that represents his conscience, his dark and hidden side. The short story brings to mind such famous works of literature as Hans Christian Andersen's \"The Shadow\", Adelbert Von Chamisso's \"Peter Schlemiel: The Man Who Sold His Shadow\", Robert Louis Stevenson's \"Dr. Jekyll and Mr. Hyde\" and Oscar Wilde's \"The Picture of Dorian Gray\". In Louis Malle's short film, Wilson (Alain Delon) confesses his sinful and dreadful life to the priest recalling the outrageous and vicious deeds that have been prevented or disclosed by his exact double whose name is also William Wilson. Two scenes of the short film stand out. The first is a simply chilling Wilson's attempt to perform an autopsy on a living woman and the second \u0096 Wilson plays cards, cheating shamelessly, with rich and arrogant Giuseppina (Brigitte Bardot almost unrecognizable in a black wig that does almost impossible \u0096 makes her look ugly). While it may be not the best Poe's adaptation and perhaps the weakest of three films in the anthology, two Delons for the price of one is reason enough to see it. I am glad that I finally saw the film that has achieved a cult status with years but is not easily available (I had to wait for several weeks for it from Netflix even after I had bumped it to the top). What started with my interest in the musical score by Rota, ended as a memorable watching experience.",
+         "Roger Vadim's \"Metzengerstein\" is incredibly beautiful. It was shot around great-looking, crumbling oceanfront castles and is remarkably photographed, costumed and scored, it's just a shame the core plotting is so weak. The evil Baroness Frederique (Jane Fonda, the directors wife at the time) is an insatiable tyrant who presides over orgies and sadistic, dehumanizing games. When she destroys a pure soul, her distant cousin Wilhelm (Peter Fonda), horses and fire play a key role in her demise. \"William Wilson,\" by Louis Malle, is an entertaining reworking of the old doppelganger theme starring Alain Delon as a pure lout AND his better half, a exact copy who drives him crazy by putting a halt to his evil impulses. Odd story structure here and Brigitte Bardot (in a black wig) is good support during a fateful card game. And then comes the really good stuff. \"Toby Dammit\" (released separately as \"Never Bet the Devil Your Head\"), a brilliant and sometimes chilling piece of enigmatic film-making from Federico Fellini. Terence Stamp is a marvel of facial expressions as boozy, obnoxious British movie star Toby Dammit, who falls apart at the seems upon arriving in Italy to start production on a Western reworking of the story of Christ. Instead he becomes imprisoned in his own personal hell. In every possible technical department, this segment is a triumph and the creepy finale (borrowing a key image from Mario Bava's KILL, BABY, KILL!) has lost absolutely none of its impact. The score by Nino Rota and cinematography by Giuseppe Rotunno deserve special recognition, as well. The version I saw (titled TALES OF MYSTERY AND IMAGINATION) is subtitled, but a dubbed version also exists featuring narration by Vincent Price.",
+         "Three separate stories: - Skip the first one. Just do it. If you really must ogle the young Jane Fonda, get Barbarella. - Your call on the second one. Okay, but not memorable. The third story makes the film. It's \"Fellini-esque\"! Fellini's wild imagery makes narrative sense (well, sort of), when applied to the story of an addled English actor stumbling around Rome at breakneck speed. The segment also features a startlingly original image of evil (an \"Anglican devil,\" I think that's the Terence Stamp character's phrase). Maybe it's just me, but the segment's conception of the devil is among the spookiest things I've ever seen on film; and when you get right down to it, it makes a lot more theological sense then ugly, scaly guys with tails.",
+         "My vote of 9 is only for Fellini's entry, Toby Dammit. The other two are below the level of the average Twilight Zone, in my opinion. But Toby is so fine that I wish it could have been expanded to feature length. Perhaps the tone of agonized despair wouldn't have held up for 90 minutes but it certainly is great for 40. Stamp is superb. His role isn't easy, he's in every scene and has to descend from a very low point to an even lower one. Terence is completely believable the entire time. I'm not a fan of Fellini but perhaps he found his metier in humanistic horror.",
+         "I'm a big fan of horror anthologies, especially the Poe/Hawthorne ones from Roger Corman and the Amicus films. Spirits of the Dead, based on Edgar Allen Poe stories and directed by Europe's most acclaimed filmmakers of the time, didn't disappoint...well, except for the first story. #1, \"Metzengerstein,\" directed by Roger Vadim. A cruel nymphomaniac countess (Jane Fonda) destroys the one man she can't have (Peter Fonda). That's right, this segment's biggest distinction is that it features a romance between real-life siblings Jane & Peter. Maybe I'm just a boor with no appreciation of high art, but watching those two gaze longingly at each other gave me the serious skeeves. Somewhere amongst the implied incest, the near- implied bestiality, and Jane's leftover costumes from Barbarella is the very thinnest of plots and narrative structure. Vadim doesn't seem to have any comprehension of suspense or what it takes to present a story that, if not scary, is at least spooky. You'll be constantly looking at your watch, but don't let \"Metzengerstein\" discourage you from seeing the other two stories. #2, \"William Wilson,\" directed by Louis Malle. An angel-faced but throughly rotten and sadistic man (Alain Delon) is hounded by a mysterious man that shares his name. This was a tight, satisfying little story. In contrast to Vadim, Malle is so talented at the art of suspense that he can make a simple card game exciting. Some reviewers have been put off by the scenes of misogyny--and to be honest, they did seem to spill over into exploitation. But I think it was necessary to present just how horrible the main character was, and to contrast it with how attractive he is physically (which to me was the most fascinating aspect of the segment). I found the ending slightly confusing, but still effective & tragic. #3, \"Toby Dammit,\" directed by Federico Fellini. This segment is so virtuoso and packed with Higher Meaning and Symbolism and Commentary On The Nature Of Man, God and the Devil that it really feels like its own movie. A jaded, alcoholic actor is invited to Rome to film a spaghetti western based on the life of Jesus Christ and attend a bizarre Italian version of the Oscars. The world as seen through Toby's eyes is populated with freaks, liars, and soulless puppets-- no wonder he prefers the Devil (uniquely and quite chillingly presented as a little girl). The scene where he is driving the Ferrari is a little overlong, but the ending is quite jarring and the last shot one of the unforgettable images of cinematic horror. The only real negative is that Terrance Stamp, who gives an incredible performance, has his voice completely dubbed by a French actor. If only we could have heard his own voice! It would be nice if Criterion could put this segment out on its own and give it the attention & study it deserves.",
+         "\"Metzengerstein\": the bored and corrupt medieval countess Frederica (Jane Fonda) spends her futile life in orgies and cruelties. When she moves with her friends to one of her castles nearby the lands of her poor cousin Baron Wilhelm (Peter Fonda), she desires him but is not corresponded. When one of her minions burns the stable, Wilhelm dies trying to rescues his stallion and Federica is haunted by her lost cousin. This erotic female version of Caligula shows the delicious Jane Fonda, who was married to Roger Vadim at that time, wearing sexy costumes very similar to \"Barbarella\" (of the same year). But the story is weak. My vote is five. \"William Wilson\": the sadistic and cruel soldier of the Austrian army William Wilson (Alain Delon) confesses to a priest the cruelties he committed along his sinful life and the participation of his double also called William Wilson in specific moments of his dreadful life. This short directed by Louis Malle is the certainly the best segment of these adaptations, showing the fight between the dark side and the human part of the same character. Brigitte Bardot is very different with black hair. My vote is six. \"Toby Dammit\": the cynical alcoholic and decadent English actor Toby Dammit (Terence Stamp) travels to Rome to make a Catholic Western, but only interested in receiving the Ferrari promised by the production. This messy segment directed by Federico Fellini uses stylish images and a great performance of Terence Stamp, but the story is confused and the boring conclusion is too long. My vote is four. My global vote for these adaptations is five. Title (Brazil): \"Histórias Extraordinárias\" (\"Extraordinaries Stories\")",
+         "I suppose this is the best you get when three acclaimed and prominent European directors interpret the oeuvre of Edgar Allan Poe in their own typical and over-praised filming styles\u0085 The Gothic ambiance as well as the poetic darkness of Poe's writings entirely vanish and have to make room for artsy gimmicks and personal trademarks of each director. I'm probably in a minority here, but I prefer directors like Roger Corman when it comes to Edgar Allan Poe adaptations. The seven films in HIS ultimate Poe homage are much more loyal to the original writings and at least Corman wasn't reluctant to focus on the horror aspects of the stories. That being said, \"Histoires Extraordinaires\" of course isn't a bad film! Horror collaborations between legendary directors are always worth checking out, especially with the eminent cast members \u0096 Americans and Europeans \u0096 that were involved here! The first story by \"Barbarella\"-director Roger Vadim is a really weak opener, despite the colorful decors and the unique casting of siblings Jane and Peter Fonda as lovers. \"Metzengerstein\" revolves on the riotous Countess Frederica who behaves \u0096 as the narrator so beautifully says \u0096 like a female version of Caligula and takes all her wealth for granted. That is until she meets the handsome Baron Wilhelm who obviously isn't impressed by her flamboyant lifestyle and turns down Frederica's advances. When Wilhelm accidentally dies in an arson she commanded, Frederica becomes an emotional wreck and replaces his image by a large, fiery stallion. I'm sure Vadim's segment is rich on symbolism and perverted undertones, but the screenplay is too dull and slow. Although most people seem to prefer Fellini's contribution, my choice for best episode of the three is Louis Malle's \"William Wilson\". The subject matter feels familiar, being another variation on the 'doppelganger'-theme, but the narrative structure is ingenious, there's plenty of suspense & even some bloody action and the acting performances here are far superior to the ones in the other two segments. Alain Delon is simply terrific as the cruel and obnoxious Wilson, a man whose vile crimes are always rectified by his own shadow. Multiple scenes in this episode are disturbing and quite controversial and William Wilson is the only character that is portrayed like a genuine Poe-villain. Brigitte Bardot puts down a courageous performance and the De Sadean climax in which she gets whipped for losing a game of poker is strangely fascinating. If I were to rate each story separately, this one definitely earns a 9 out of 10. \"Toby Dammit\" was a huge disappointment for me, mostly because Fellini films his own horror-related obsessions and totally ignores Edgar Allan Poe's. The story works well enough as a nightmarish portrait of a drug-abusing actor's descent into madness, but it totally lacks Gothic eeriness. Infant Terrible Toby Dammit arrives in Rome to star in a glorious film production (the first religious western ever!), but he only cares about material rewards, partying and running amok on national television. Pretty soon, he's haunted by the always re-appearing image of a young girl with a skipping rope. This segment is recommend only for Terence Stamp's curious performance and Fellini's terrific use of color shades but, in the context of a Poe-inspired horror omnibus, it's painfully out-of-place.",
+         "Or is it so?Because if the first sketch (it's a movie made of three of them)is poesque,then my dog can speak English.Roger Vadim,one of the most overrated French directors,casts the Fonda family (Jane,his then-wife and Peter) as cousins(sic).It's the Middle Ages,folks,and Dame Jane is making it rough all over.Needless to say,from the short story \"Metzengerstein\",nothing is preserved except a beautiful horse .Only Claude Renoir's splendid color cinematography redeems this one a little.Louis Malle rarely treads on fantasy films ,the exceptions being \"black moon\" and his sketch here \"William Wilson\".Poë's short story was very austere,some kind of stream of consciousness.Hence the necessity to add spice to the screenplay:so we have a dissection-scene-with-nudity,and,to top it all ,Brigitte Bardot herself,in a role that was not intended for her in the first place,but for Italian model Florinda Bolkan.The results are so-so,Alain Delon is not poesque at all,and Malle's style cannot generate a doomed atmosphere .Fellini wins hands down.Instead of adapting his style to Poë,he adapted Poë to HIS style,finding astonishing equivalents,with an end of the world feeling,and a smiling and scary little girl playing with a ball.Terence Stamp(\"Tobby Dammit\") easily outclasses the rest of the cast of the three sketches put together."
+      ],
+      "genres": [
+         "Horror",
+         "Mystery"
+      ],
+      "productionCompanies": [
+         "Les Films Marceau",
+         "Produzioni Europee Associati (PEA)",
+         "Cocinor"
+      ],
+      "summaries": [
+         "Three directors each adapt a Poe short story to the screen: \"Toby Dammit\" features a disheveled drugged and drunk English movie star who nods acceptance in the Italian press and his producers fawn over him. \"Metzengerstein\" features a Mediveal countess who has a love-hate relationship with a black stallion - who, it turns out is really her dead lover. \"William Wilson\" tells the story of a sadistic Austrian student with an exact double whom he later kills.",
+         "\"Metzengerstein\": the bored and corrupt medieval countess Frederica spends her futile life in orgies and cruelties. When she moves with her friends to one of her castles nearby the lands of her poor cousin Baron Wilhelm, she desires him but is not corresponded. When one of her minions burns the stable, Wilhelm dies trying to rescues his stallion and Federica is haunted by her lost cousin. \"William Wilson\": the sadistic and cruel soldier of the Austrian army William Wilson confesses to a priest the cruelties he committed along his sinful life and the participation of his double also called William Wilson in specific moments of his dreadful life. \"Toby Dammit\": the cynical alcoholic and decadent English actor Toby Dammit travels to Rome to make a Catholic Western, but only interested in receiving the Ferrari promised by the production."
+      ],
+      "budget": 0
+   },
+   "movielensId": 775,
+   "movielens": {
+      "languages": [
+         "English",
+         "Français",
+         "Deutsch",
+         "Italiano"
+      ],
+      "releaseDate": "1968-05-16",
+      "dvdReleaseDate": "2001-11-27",
+      "directors": [
+         "Federico Fellini",
+         "Louis Malle",
+         "Roger Vadim"
+      ],
+      "runtime": 121,
+      "movieId": 775,
+      "title": "Spirits of the Dead",
+      "mpaa": "",
+      "actors": [
+         "Brigitte Bardot",
+         "Alain Delon",
+         "Jane Fonda",
+         "Terence Stamp",
+         "Peter Fonda",
+         "James Robertson Justice",
+         "Salvo Randone",
+         "Françoise Prévost",
+         "Vincent Price",
+         "Katia Christine",
+         "Philippe Lemaire",
+         "Serge Marquand",
+         "Ernesto Colli",
+         "Anny Duperey",
+         "John Karlsen",
+         "Maria Tedeschi",
+         "Milena Vukotic",
+         "Umberto D'Orsi"
+      ],
+      "imdbMovieId": "0063715",
+      "originalTitle": "Histoires extraordinaires",
+      "genres": [
+         "Drama",
+         "Mystery",
+         "Horror"
+      ],
+      "youtubeTrailerIds": [
+         "7FJuSlLlmSk",
+         "UD5XCutFi8Q"
+      ],
+      "plotSummary": "Three directors each adapt a Poe short story to the screen: \"Toby Dammit\" features a disheveled drugged and drunk English movie star who nods acceptance in the Italian press and his producers fawn over him. \"Metzengerstein\" features a Mediveal countess who has a love-hate relationship with a black stallion - who it turns out is really her dead lover. \"William Wilson\" tells the story of a sadistic Austrian student with an exact double whom he later kills.",
+      "tmdbMovieId": 41225,
+      "avgRating": 2.96815,
+      "releaseYear": "1968",
+      "numRatings": 157,
+      "posterPath": "/5MNAZwkYpSuEjBjOFBw9xeFFgKG.jpg"
+   }
+}

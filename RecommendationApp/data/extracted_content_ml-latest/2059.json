@@ -1,0 +1,619 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "matchmaking",
+            "id": 10132
+         },
+         {
+            "name": "divorced",
+            "id": 18008
+         },
+         {
+            "name": "twins separated at birth",
+            "id": 168211
+         },
+         {
+            "name": "woman director",
+            "id": 187056
+         }
+      ],
+      "imdb_id": "tt0120783",
+      "video": false,
+      "title": "The Parent Trap",
+      "recommendations": [
+         10330,
+         9880,
+         11451,
+         11130,
+         11007,
+         11132,
+         10025,
+         10830,
+         9641,
+         11247,
+         10096,
+         11674,
+         4523,
+         14442,
+         18736,
+         8835,
+         1493,
+         10603,
+         10735,
+         10625
+      ],
+      "backdrop_path": "/3bO3b2wYCANInuzzvTlwXSsJT3N.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Hallie Parker / Annie James",
+               "gender": 1,
+               "credit_id": "52fe4534c3a36847f80c1e97",
+               "name": "Lindsay Lohan",
+               "profile_path": "/gWmiZiDHszxCck7Zh39YdOE9qVg.jpg",
+               "id": 49265,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Nick Parker",
+               "gender": 2,
+               "credit_id": "52fe4534c3a36847f80c1e9b",
+               "name": "Dennis Quaid",
+               "profile_path": "/fSnnQg8y1LB9yHbn2WuEcUb8i9Y.jpg",
+               "id": 6065,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Elizabeth James",
+               "gender": 1,
+               "credit_id": "52fe4534c3a36847f80c1e9f",
+               "name": "Natasha Richardson",
+               "profile_path": "/d3V17LUillMkNYIM7JHRqtz7jZK.jpg",
+               "id": 20162,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Meredith Blake",
+               "gender": 0,
+               "credit_id": "52fe4534c3a36847f80c1ea3",
+               "name": "Elaine Hendrix",
+               "profile_path": "/2usTUKG0PhNg6YUviYiESKjGvOb.jpg",
+               "id": 55422,
+               "order": 3
+            },
+            {
+               "cast_id": 14,
+               "character": "Chessy",
+               "gender": 1,
+               "credit_id": "52fe4534c3a36847f80c1edd",
+               "name": "Lisa Ann Walter",
+               "profile_path": "/zfu2YSXCXXQY7pTPN8KuH8Ja90.jpg",
+               "id": 4494,
+               "order": 4
+            },
+            {
+               "cast_id": 15,
+               "character": "Martin",
+               "gender": 2,
+               "credit_id": "52fe4534c3a36847f80c1ee1",
+               "name": "Simon Kunz",
+               "profile_path": "/tkjaXZuR8F94q6r2RW5aeHXWJhZ.jpg",
+               "id": 10701,
+               "order": 5
+            },
+            {
+               "cast_id": 16,
+               "character": "Marva Kulp, Sr.",
+               "gender": 1,
+               "credit_id": "52fe4534c3a36847f80c1ee5",
+               "name": "Polly Holliday",
+               "profile_path": "/eCPxOz8ZPIHWImk0Rv5yt28kDVP.jpg",
+               "id": 11715,
+               "order": 6
+            },
+            {
+               "cast_id": 43,
+               "character": "Marva Kulp, Jr.",
+               "gender": 1,
+               "credit_id": "5aaed3a70e0a266588018e17",
+               "name": "Maggie Wheeler",
+               "profile_path": "/eQXO025nUnnShV9Zp7Xh9s5t3q6.jpg",
+               "id": 145345,
+               "order": 7
+            },
+            {
+               "cast_id": 44,
+               "character": "Grandfather",
+               "gender": 0,
+               "credit_id": "5aaed3d2c3a36846d502ae08",
+               "name": "Ronnie Stevens",
+               "profile_path": null,
+               "id": 94837,
+               "order": 8
+            },
+            {
+               "cast_id": 45,
+               "character": "Vicki Blake",
+               "gender": 1,
+               "credit_id": "5aaed45692514116c002bff7",
+               "name": "Joanna Barnes",
+               "profile_path": "/oX0GnIw8KcmjbELwXUL37PPiLiu.jpg",
+               "id": 14506,
+               "order": 9
+            },
+            {
+               "cast_id": 17,
+               "character": "Jackie",
+               "gender": 1,
+               "credit_id": "52fe4534c3a36847f80c1ee9",
+               "name": "Kat Graham",
+               "profile_path": "/yNnbULzrrLHXpkFyw2Iq0EVPOJH.jpg",
+               "id": 159962,
+               "order": 10
+            },
+            {
+               "cast_id": 46,
+               "character": "Lost Boy at Camp",
+               "gender": 0,
+               "credit_id": "5aaed506c3a36846b7031984",
+               "name": "Michael Lohan Jr.",
+               "profile_path": null,
+               "id": 1254112,
+               "order": 11
+            },
+            {
+               "cast_id": 19,
+               "character": "Bugler",
+               "gender": 0,
+               "credit_id": "52fe4534c3a36847f80c1ef3",
+               "name": "Lisa Iverson",
+               "profile_path": null,
+               "id": 1106822,
+               "order": 12
+            },
+            {
+               "cast_id": 20,
+               "character": "Camp Counselor",
+               "gender": 1,
+               "credit_id": "52fe4534c3a36847f80c1ef7",
+               "name": "Lisa Cloud",
+               "profile_path": null,
+               "id": 152796,
+               "order": 13
+            },
+            {
+               "cast_id": 47,
+               "character": "Bridal Gown Model",
+               "gender": 1,
+               "credit_id": "5aaed6090e0a265ddb018453",
+               "name": "Vendela Kirsebom",
+               "profile_path": "/A3wcfr2iX1H1De44wO3R9EhL3iW.jpg",
+               "id": 1233092,
+               "order": 14
+            },
+            {
+               "cast_id": 48,
+               "character": "boy at camp",
+               "gender": 2,
+               "credit_id": "5ac2c16a0e0a260c2a02a6b1",
+               "name": "max smith",
+               "profile_path": null,
+               "id": 2013749,
+               "order": 15
+            }
+         ],
+         "crew": [
+            {
+               "gender": 1,
+               "credit_id": "52fe4534c3a36847f80c1ea9",
+               "name": "Nancy Meyers",
+               "profile_path": "/nMPHU06dnvVxEjjcnPCPUQgQ2Mp.jpg",
+               "id": 17698,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4534c3a36847f80c1eaf",
+               "name": "Nancy Meyers",
+               "profile_path": "/nMPHU06dnvVxEjjcnPCPUQgQ2Mp.jpg",
+               "id": 17698,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4534c3a36847f80c1eb5",
+               "name": "David Swift",
+               "profile_path": "/yDBh4Fv4cwilXTPGhl8FaEmpK7Q.jpg",
+               "id": 29715,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4534c3a36847f80c1ec1",
+               "name": "Charles Shyer",
+               "profile_path": "/hnWGd74CbmTcDCFQiJ8SYLazIXW.jpg",
+               "id": 56106,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4534c3a36847f80c1ed3",
+               "name": "Stephen A. Rotter",
+               "profile_path": null,
+               "id": 34484,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "594852e2925141400d047573",
+               "name": "Lorey Sebastian",
+               "profile_path": null,
+               "id": 589974,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "594853299251413fbb04649a",
+               "name": "Bruce A. Block",
+               "profile_path": null,
+               "id": 17699,
+               "department": "Production",
+               "job": "Co-Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5948534ac3a368265f02724c",
+               "name": "Erich Kästner",
+               "profile_path": "/oZYh8v83h2ZFI0msSmxVpeAT7kZ.jpg",
+               "id": 11920,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59485415c3a36816e40461ed",
+               "name": "Charles Shyer",
+               "profile_path": "/hnWGd74CbmTcDCFQiJ8SYLazIXW.jpg",
+               "id": 56106,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5948529dc3a368265f0271b0",
+               "name": "Mychael Bates",
+               "profile_path": "/zAd2KMqGI8gm8O1bgre3eL8sH9p.jpg",
+               "id": 1417415,
+               "department": "Art",
+               "job": "Property Master"
+            },
+            {
+               "gender": 2,
+               "credit_id": "594852a9c3a3681115033422",
+               "name": "Alan Silvestri",
+               "profile_path": "/chEsfnDEtRmv1bfOaNAoVEzhCc6.jpg",
+               "id": 37,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "594852c6c3a368170f04962a",
+               "name": "Dean Tavoularis",
+               "profile_path": null,
+               "id": 2875,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "594852d2c3a36816c5048279",
+               "name": "Dean Cundey",
+               "profile_path": "/xunb0FZLZLhca2F5OJcKzV1mjR0.jpg",
+               "id": 1060,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 1,
+               "credit_id": "594852f29251413fc2044c9f",
+               "name": "Penny Rose",
+               "profile_path": null,
+               "id": 4034,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59485334c3a36816e404612c",
+               "name": "Julie B. Crane",
+               "profile_path": null,
+               "id": 1836098,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59485421c3a368265f0272f7",
+               "name": "Gary Fettis",
+               "profile_path": null,
+               "id": 65711,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "594854299251413fdd046ad2",
+               "name": "Alex Tavoularis",
+               "profile_path": null,
+               "id": 589938,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5948543a9251413ff40476aa",
+               "name": "Jeanne Byrd",
+               "profile_path": null,
+               "id": 1531867,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "594854529251417e4c026bf1",
+               "name": "Allan Mason",
+               "profile_path": null,
+               "id": 1553251,
+               "department": "Sound",
+               "job": "Music Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5948546dc3a368171b042c52",
+               "name": "Bonnie Greenberg",
+               "profile_path": null,
+               "id": 91142,
+               "department": "Sound",
+               "job": "Music Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59485493c3a368265f027356",
+               "name": "Sean Rush",
+               "profile_path": null,
+               "id": 1636060,
+               "department": "Sound",
+               "job": "Sound Mixer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59485574c3a368170f049871",
+               "name": "Dennis Drummond",
+               "profile_path": null,
+               "id": 1546458,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "594855ccc3a368170f0498b3",
+               "name": "Dean A. Zupancic",
+               "profile_path": null,
+               "id": 83091,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "594855d79251413fc2044ee1",
+               "name": "Terry Porter",
+               "profile_path": null,
+               "id": 74978,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "594855e49251413fb6046dce",
+               "name": "Mel Metcalfe",
+               "profile_path": null,
+               "id": 74976,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "594855f19251413ff4047806",
+               "name": "Andy D'Addario",
+               "profile_path": null,
+               "id": 1387572,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5948562c9251413fbb0466cb",
+               "name": "Andrew Silver",
+               "profile_path": null,
+               "id": 1546457,
+               "department": "Sound",
+               "job": "Music Editor"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Family",
+            "id": 10751
+         }
+      ],
+      "popularity": 10.338794,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 9820,
+      "vote_count": 1029,
+      "budget": 0,
+      "overview": "Hallie Parker and Annie James are identical twins separated at a young age because of their parents' divorce. unknowingly to their parents, the girls are sent to the same summer camp where they meet, discover the truth about themselves, and then plot with each other to switch places. Hallie meets her mother, and Annie meets her father for the first time in years.",
+      "similar": [
+         258480,
+         27586,
+         10735,
+         112160,
+         858,
+         141,
+         244772,
+         634,
+         437557,
+         401898,
+         242224,
+         370663,
+         43923,
+         340485,
+         250124,
+         297762,
+         376660,
+         129139,
+         2255,
+         11216
+      ],
+      "original_title": "The Parent Trap",
+      "runtime": 127,
+      "poster_path": "/7vR4e3ga3mdSEpYe8kMeUv3mgND.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Português",
+            "iso_639_1": "pt"
+         }
+      ],
+      "production_companies": [{
+         "logo_path": "/4MbjW4f9bu6LvlDmyIvfyuT3boj.png",
+         "name": "Walt Disney Pictures",
+         "id": 2,
+         "origin_country": "US"
+      }],
+      "release_date": "1998-07-28",
+      "vote_average": 6.8,
+      "belongs_to_collection": null,
+      "tagline": "Twice the Fun, Double the Trouble.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Nancy Meyers"],
+      "runtime": 127,
+      "synopsis": null,
+      "writers": [
+         "Erich Kästner",
+         "David Swift"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0120783/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTgwOTY0NTA3NV5BMl5BanBnXkFtZTcwMTQ2ODgyMQ@@._V1_SY317_CR4,0,214,317_AL_.jpg",
+      "actors": ["Stars: Lindsay Lohan, Dennis Quaid, Natasha Richardson | See full cast and crew »"],
+      "reviews": [
+         "There is only one movie in history that I can name that my wife, my mother and my six-year-old daughter enjoyed equally. This is it. This is an astonishly effective and pleasant remake of a very good film. It's light, romantic, touching and downright funny. You cannot pour enough accolades on young Lindsay Lohan, who effortlessly plays both twins, and, if you listen closely, juggles four accents. (She changes her Brit accent when she plays her own American alter-ego pretending to be herself in England - if you saw the film, you know what I mean). Natasha Richardson and Dennis Quaid with that big, goofy, infectious smile, give the film its romance and maturity, without stepping on the fun-filled kid's plot. This is simple, easy-to-watch family entertainment. There is also a great editing and effects element. You never once notice a split screen or cheap over-the-shoulder shot when both of Lohan's characters are on-screen - its really quite astounding how seamless it is. My daughter, after seeing this in the theater, quickly proclaimed this her favourite movie ever. We own the video, and I have watched it with her at least a dozen times without growing tired. A perfect rental after a bad day, or when you want to have a family movie night. *** out of ****.",
+         "I think that this is the best Walt Disney film that I have seen since The Last Flight Of Noah's Ark. It is a delight from start to finish and every bit as wonderful, perhaps even better then the originial. This ia a welcome return to the good old fashioned clean family films Disney used to make. The soundtrack is wonderful and Lindsey Lohan is a great little actress who plays the two parts very well (I love her British accent). Dennis Quaid and Natasha Richardson were terrific at playing Brian Keith and Maureen O'Hara's old parts. A young actress named Elaine Hendrix is a great comic villianess. I detested her character and laughed my head off when those girls gave her just what she deserved. Some people might say that this plot is old and clichéd by the standards of today, but it still works. They should release this on a double bill with the original. I hope Disney keeps on making films like this, goes back to \"the good old days\" so to speak.",
+         "Wonderful remake of the 1961 Hayley Mills film. This film is much more realistic, with better acting. Lindsey Lohan is amazing as both Hallie and Annie--I really did think she was two people, she portrayed the two different charactars fantastically. All the different charactars in this movie are really funny as well, and there are no bad actors. The plot just zips by! I give this movie 10/10.",
+         "School holidays can be deadly for older cinema patrons but sometimes there are films for children that are well worth a visit for adults. Unusually, The Parent Trap is a children's film that can even be recommended for children by the most morally bound parent - although there is a divorce that may need to be explained away. The Parent Trap is cute, sugary and funny - and unashamedly so. The Parent Trap was originally made in 1961 starring Haley Mills as a pair of twins who accidentally meet when they are eleven years old. Their parents divorced when they were babies. They then connive to get their parents back together. This is classic Disney material and the formula can and does work very well indeed in this modern version. Heaven only knows how the special effects are done but I suggest that you just forget about that and settle back and enjoy the film. You won't have any choice anyway. I was convinced that the twins must have been played by real life twins and I'm sure that I won't be the only one to fall for that particular Parent Trap. Young Lindsay Lohan plays the girls, (both of them!) complete with fabulous accents, sunny bright and distinctive personalities, appealing red hair, freckles and a great sense of fun. One of the girls has become a Londoner and one a Californian and the girls also sport very commendable English and American accents, as well as composites of the two accents when the girls switch places. It's also pleasing to see young girls being given the sorts of lightly rebellious antics to frolic with as are usually reserved for young boys. The story begins in a New England summer camp where practical jokes are the go, although the film is careful to keep nastiness well out of the way. It would be hard to accuse Lindsay Lohan's twins of any serious crime in any case. The girls decide to switch places so they can each meet their Mum and Dad. In true Hollywood style both parents are rich and attractive and they of course each have hired help (Lisa Anne Walter and Simon Kunz) who are of course are going to fall in love. But then we must have the wicked stepmother and this is provided by Meredith, a gold digger who's out to score the very rich hand of Dad. She's played with appropriate relish by Sharon Stone look alike Elaine Hendrix. The story really revolves around the parents, played by Natasha Richardson and Dennis Quaid. We can settle back and wait for the inevitable to happen, because we just know that this is going to be one of those \"happily ever after\" efforts where Mummy and Daddy will again fall in love and properly become parents for these two very cute and loving girls. But along the way be prepared for some very solid laughs and a wonderfully animated and motivated lizard.",
+         "This is one of those rare cases where a terrific movie is equaled by its remake. Hayley Mills carried the dual roles of twins learning of each other's existence and concocting a plot to reunite their divorced parents splendidly in the '60's version, and Lindsay Lohan showed wonderful comedic talent at an early age in this delightful remake. It's a Disney flick, so the comedy is family slapstick variety as you would expect. The evil stepmother-to-be is over-the-top evil (even called Cruella De Ville by one of the girls), and she's a character you love to hate. The obvious chemistry of the parents (Randy Quaid and Natasha Richardson) is great, and begs a question which is never answered to satisfaction, \"Why did they split up in the first place?\" Everything in the film symbolically shows that they were made for each other: even their respective maid and butler take a shine to each other. The fx and editing to stand Lohan's two characters together is magnificently done; it really looks like two actresses. No split screens, backs of heads of fake-looking \"doubles\" etc. to distract you from the movie. Lohan skillfully contrasts the American/British accents and mannerisms of the two girls; you know and believe which twin she is at any given moment. Well directed, well acted and fun. I'll even forgive the film makers for ripping off the stranded-in-the-lake scene from \"Meatballs.\" The closing credit snapshots provide a sweet epilogue to tie up loose ends. Good family oriented comedy worth a rental.",
+         "This is definitely worth seeing hand-in-hand with the original version; rent one on video and then go see the other in a theatre. The parallels are quite strong, though, as the world grows smaller, instead of a California/Boston split, it's a California/UK split. There are some lines of dialogue in common in both films that feel particularly appropriate, and are definitely winning (\"like *sisters*\" -- \"No, [Halley], like *twins*\"). The musical throwbacks to \"Let's Gets Together\" are also quite enjoyable. Perhaps recognizing that their target audience is not only kids the age of eleven-year-old Annie/Halley (Lindsay Lohan), but fans of Hayley Mills and the original film, a more in-depth rationale is presented for the breakup of the parents, with an appropriate romantic twist. Additionally, one never ceases to be amazed that some of the old tricks (and quite a few new ones!) work quite well. And, as the trailer says with a twinkle \"Introducing...Lindsay Lohan\" -- she's a knockout at this. Apparently Disney wanted to give Hayley Mills a bit part in this film but she was unavailalble...nevertheless, it's a lot of fun.",
+         "This movie was pretty good. It was better than I expected. I especially loved the performance of Natasha Richardson, who is really gorgeous. Dennis Quaid was cute too. Lindsay Lohan was incredible too. My 8 year old sisters loved the original and got the new one and fell in love with it too. They are already reciting it. Rent both versions and enjoy both! They are great!",
+         "This may look \"a film for kids\", but this movie really is, a must-see for both adults and kids. It is a great love story. I'm single but the film reached my heart - I'm sure married couples will love this film too. When I saw this for the first time, I was on airplane. I was lucky enough to get upgraded that time, so I was with personal video screen - I saw _The parent trap_ twice and cried several time in each of the viewing. Now I got DVD for it, I saw it more than dozen times by now. I feel very happy after every viewing of the film. Lindsay Lohan did it super (especially accents), dad and mom are really lovely. If the film comes to a theater near you, don't miss it. On big screen you can find some additional details DVD/Video. The film is totally, and completely lovely.",
+         "Beleive you me was i skeptical of this movie. First of all the original is a highly regarded film in my house. If it's on t.v the world stops for it. And beleive me when I first heard about the remake i was very very angry because hardly ever does a remake even compare to the original. I didn't understand it of course. Especially how a movie like that cold work in the 90's. I mean reality check what court, let alone parents, in the world would decide to split up a pair of twins let each parent have one never let them even know about the other one and never let them see each one ever again? Puh-Leeze. But boy was I ever wrong. This movie has every bit as much charm as the original and it's ending (I won't give it away) makes much more sence than the original, they-just-get-together-without-talking-any-of-there- problems-out original. And huge props to Lindsy Lohen on the accents. I am very big on accents and was overwhelmed at how good she was. I see big things for her. So go see it. It's truly captivating.",
+         "\"The Parent Trap \" is good but its star Lindsay Lohan is better as she was able to steal my breath away in dual roles playing Hallie and Annie Parker. Working with such a clever plot, Lohan has almost single handily pulled off one of the best performances of 1998. Also, what a breath a fresh air to Hollywood as she explodes on the scene as one of the best child actresses I've seen in a long time. The proof is a movie called \"The Parent Trap.\" Lohan's performance is great but we also must not forget that it stars Dennis Quaid as one of the best actors I've seen. With his versatile talent in film genres such as drama, action, or family, Quaid has the ability to capture my attention for the length of the movie. \"The Parent Trap\" is a light hearted film that will allow the mind to flow freely while sitting and relaxing. In addition, the movie was not only clever, but original because Lohan pulled off her role as she knew what she was doing without having to be told what to do. Lohan is a natural talent that should be treasured because she is so good and seen in more films The supporting cast also fit, which made it that much more enjoyable to watch. Good cast choices all the way around. I suggest that everyone see this film because it is really good clean fun with one of the brightest and youngest stars to hit Hollywood. Bravo to the cast and crew of \"The Parent Trap.\""
+      ],
+      "genres": [
+         "Adventure",
+         "Comedy",
+         "Drama",
+         "Family",
+         "Romance"
+      ],
+      "productionCompanies": [
+         "Cinema Vehicle Services",
+         "The Meyers/Shyer Company",
+         "Walt Disney Pictures"
+      ],
+      "summaries": [
+         "Hallie Parker and Annie James. They look exactly alike and are sisters. It would be awesome for you to be a twin, but what is it like being a twin without even knowing it? That's what it's like for these girls. Hallie is a cool, laid-back gal from California. Annie James is a proper rose from London. Annie has never met her father, and Hallie has never met her mother. When they get thrown into the Isolation Cabin, they uncover the mystery behind the ripped picture. They realize that they are twin sisters seperated at birth by their divorced parents, and they decide to switch places to meet the parent that they've never met. They also decide to get them back together. But then something awful happens that will wreck everything: their father is engaged to a beautiful, selfish witch who's only after their dad's money.",
+         "Summer camp in Maine, USA. Two young redheads, Hallie and Annie, coincidentally meet and discover that they look pretty (and) similar. Soon, their common history opens up when they are banned into the isolation cabin for unsocial behaviour. Being twin sisters, their parents separated them at birth and divorced also. So, Annie grew up in London, England, living with her mother Elizabeth, who is a wedding gown designer. Hallie lived with her father Nick, a vineyard-owner, in Napa Valley, California. Both sisters decide to switch sides, as Annie never had a father and Hallie never had a mother. All works well, until Nick decides to marry Meredith, a creepy but beautiful woman who is only after his money. Now, the girls decide to let the parents meet. Let the games begin.",
+         "Hallie Parker and Annie James are identical twins separated at a young age because of their parents' divorce. unknowingly to their parents, the girls are sent to the same summer camp where they meet, discover the truth about themselves, and then plot with each other to switch places. Hallie meets her mother, and Annie meets her father for the first time in years. they then make a plan to set up their parents, which suddenly goes awry with an announcement from their father. the story goes through many different twists and turns, and is an amazing story from start to finish.",
+         "What if you spent your whole life wishing for something you didn't know you already had? Hallie Parker and Annie James are about to find out. Hallie is a cool girl from California. Annie is a fair rose from London. When the two accidentally meet at summer camp, they think they have nothing in common except...they're identical twins! Now they're up to their freckles in schemes and dreams to switch places, get their parents back together and have the family they've always wished for!",
+         "Identical twins, separated at birth and each raised by one of their biological parents, discover each other for the first time at summer camp and make a plan to bring their wayward parents back together."
+      ],
+      "budget": 0
+   },
+   "movielensId": 2059,
+   "movielens": {
+      "languages": [
+         "English",
+         "Português"
+      ],
+      "releaseDate": "1998-07-28",
+      "dvdReleaseDate": "1999-03-16",
+      "directors": ["Nancy Meyers"],
+      "runtime": 127,
+      "movieId": 2059,
+      "title": "The Parent Trap",
+      "mpaa": "PG",
+      "actors": [
+         "Lindsay Lohan",
+         "Dennis Quaid",
+         "Natasha Richardson",
+         "Elaine Hendrix",
+         "Lisa Ann Walter",
+         "Simon Kunz",
+         "Polly Holliday",
+         "Kat Graham",
+         "Lisa Iverson",
+         "Lisa Cloud"
+      ],
+      "imdbMovieId": "0120783",
+      "originalTitle": "The Parent Trap",
+      "genres": [
+         "Comedy",
+         "Drama",
+         "Family"
+      ],
+      "youtubeTrailerIds": ["32WeiH4TrIY"],
+      "plotSummary": "Hallie Parker and Annie James are identical twins separated at a young age because of their parents' divorce. unknowingly to their parents, the girls are sent to the same summer camp where they meet, discover the truth about themselves, and then plot with each other to switch places. Hallie meets her mother, and Annie meets her father for the first time in years.",
+      "tmdbMovieId": 9820,
+      "avgRating": 3.22466,
+      "releaseYear": "1998",
+      "numRatings": 4242,
+      "posterPath": "/7vR4e3ga3mdSEpYe8kMeUv3mgND.jpg"
+   }
+}

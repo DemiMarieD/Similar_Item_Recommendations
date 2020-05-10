@@ -1,0 +1,471 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "london england",
+            "id": 212
+         },
+         {
+            "name": "robbery",
+            "id": 642
+         },
+         {
+            "name": "burglar",
+            "id": 1437
+         },
+         {
+            "name": "prosecution",
+            "id": 3246
+         },
+         {
+            "name": "thief",
+            "id": 9727
+         },
+         {
+            "name": "independent film",
+            "id": 10183
+         },
+         {
+            "name": "writer",
+            "id": 13028
+         },
+         {
+            "name": "stranger",
+            "id": 156104
+         },
+         {
+            "name": "neo-noir",
+            "id": 207268
+         }
+      ],
+      "imdb_id": "tt0154506",
+      "video": false,
+      "title": "Following",
+      "recommendations": [
+         43629,
+         592,
+         320,
+         11368,
+         473,
+         379,
+         10778,
+         247,
+         290,
+         16642,
+         10774,
+         13685,
+         8052,
+         9270,
+         845,
+         4689,
+         1092,
+         3133,
+         10683,
+         2757
+      ],
+      "backdrop_path": "/tabZxRLlAxCzH4LUmgebZxam6VY.jpg",
+      "revenue": 48482,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 17,
+               "character": "Bill",
+               "gender": 2,
+               "credit_id": "52fe44739251416c75035331",
+               "name": "Jeremy Theobald",
+               "profile_path": "/ij6jFUCMnd2WTicjq4fu9ELPdWS.jpg",
+               "id": 70230,
+               "order": 0
+            },
+            {
+               "cast_id": 1,
+               "character": "Cobb",
+               "gender": 0,
+               "credit_id": "52fe44739251416c750352dd",
+               "name": "Alex Haw",
+               "profile_path": null,
+               "id": 70224,
+               "order": 1
+            },
+            {
+               "cast_id": 2,
+               "character": "The Blonde",
+               "gender": 0,
+               "credit_id": "52fe44739251416c750352e1",
+               "name": "Lucy Russell",
+               "profile_path": "/2Ytkbu8G0OHHBwKMD9gYz7rFxDf.jpg",
+               "id": 28749,
+               "order": 2
+            },
+            {
+               "cast_id": 18,
+               "character": "The Policeman",
+               "gender": 2,
+               "credit_id": "53842ee20e0a2624b400e67d",
+               "name": "John Nolan",
+               "profile_path": "/1Is0RIeDdAXlXft1EfqC97qiJl5.jpg",
+               "id": 70225,
+               "order": 3
+            },
+            {
+               "cast_id": 4,
+               "character": "The Bald Guy",
+               "gender": 0,
+               "credit_id": "52fe44739251416c750352e9",
+               "name": "Dick Bradsell",
+               "profile_path": null,
+               "id": 70226,
+               "order": 4
+            },
+            {
+               "cast_id": 5,
+               "character": "Home Owner",
+               "gender": 0,
+               "credit_id": "52fe44739251416c750352ed",
+               "name": "Gillian El-Kadi",
+               "profile_path": null,
+               "id": 70227,
+               "order": 5
+            },
+            {
+               "cast_id": 6,
+               "character": "Waitress",
+               "gender": 0,
+               "credit_id": "52fe44739251416c750352f1",
+               "name": "Jennifer Angel",
+               "profile_path": null,
+               "id": 70228,
+               "order": 6
+            },
+            {
+               "cast_id": 19,
+               "character": "Barman",
+               "gender": 0,
+               "credit_id": "59473867c3a36816e4033346",
+               "name": "Nicolas Carlotti",
+               "profile_path": null,
+               "id": 1835588,
+               "order": 7
+            },
+            {
+               "cast_id": 20,
+               "character": "Accountant",
+               "gender": 0,
+               "credit_id": "59473875c3a368170f0359ae",
+               "name": "Darren Ormandy",
+               "profile_path": null,
+               "id": 1835589,
+               "order": 8
+            },
+            {
+               "cast_id": 21,
+               "character": "Heavy #1",
+               "gender": 0,
+               "credit_id": "594738849251413fb1036231",
+               "name": "Guy Greenway",
+               "profile_path": null,
+               "id": 1835590,
+               "order": 9
+            },
+            {
+               "cast_id": 22,
+               "character": "Heavy #2",
+               "gender": 0,
+               "credit_id": "59473892925141400d0341ed",
+               "name": "Tassos Stevens",
+               "profile_path": null,
+               "id": 1835591,
+               "order": 10
+            },
+            {
+               "cast_id": 23,
+               "character": "Man at Bar",
+               "gender": 0,
+               "credit_id": "594738a39251413fb103625a",
+               "name": "Tristan Martin",
+               "profile_path": null,
+               "id": 1835592,
+               "order": 11
+            },
+            {
+               "cast_id": 24,
+               "character": "Woman at Bar",
+               "gender": 0,
+               "credit_id": "594738b49251413ff4034188",
+               "name": "Rebecca James",
+               "profile_path": null,
+               "id": 1473672,
+               "order": 12
+            },
+            {
+               "cast_id": 25,
+               "character": "Home Owner's Friend",
+               "gender": 2,
+               "credit_id": "594738c79251413fc20324ce",
+               "name": "Paul Mason",
+               "profile_path": null,
+               "id": 49681,
+               "order": 13
+            },
+            {
+               "cast_id": 26,
+               "character": "Home Owner's Husband",
+               "gender": 0,
+               "credit_id": "594738dac3a368265f0137f9",
+               "name": "David Bovill",
+               "profile_path": null,
+               "id": 1835594,
+               "order": 14
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe44739251416c750352f7",
+               "name": "Christopher Nolan",
+               "profile_path": "/7OGmfDF4VHLLgbjxuEwTj3ga0uQ.jpg",
+               "id": 525,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44739251416c750352fd",
+               "name": "Christopher Nolan",
+               "profile_path": "/7OGmfDF4VHLLgbjxuEwTj3ga0uQ.jpg",
+               "id": 525,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44739251416c75035303",
+               "name": "Peter Broderick",
+               "profile_path": null,
+               "id": 70229,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44739251416c75035309",
+               "name": "Christopher Nolan",
+               "profile_path": "/7OGmfDF4VHLLgbjxuEwTj3ga0uQ.jpg",
+               "id": 525,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44739251416c7503530f",
+               "name": "Jeremy Theobald",
+               "profile_path": "/ij6jFUCMnd2WTicjq4fu9ELPdWS.jpg",
+               "id": 70230,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe44739251416c75035315",
+               "name": "Emma Thomas",
+               "profile_path": "/f12TsNlAEomPdwxueS7ImMoJtsP.jpg",
+               "id": 556,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44739251416c7503531b",
+               "name": "David Julyan",
+               "profile_path": null,
+               "id": 558,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44739251416c75035321",
+               "name": "Christopher Nolan",
+               "profile_path": "/7OGmfDF4VHLLgbjxuEwTj3ga0uQ.jpg",
+               "id": 525,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44739251416c75035327",
+               "name": "Gareth Heal",
+               "profile_path": null,
+               "id": 70231,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44739251416c7503532d",
+               "name": "Christopher Nolan",
+               "profile_path": "/7OGmfDF4VHLLgbjxuEwTj3ga0uQ.jpg",
+               "id": 525,
+               "department": "Editing",
+               "job": "Editor"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Crime",
+            "id": 80
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         }
+      ],
+      "popularity": 8.842709,
+      "production_countries": [{
+         "iso_3166_1": "GB",
+         "name": "United Kingdom"
+      }],
+      "id": 11660,
+      "vote_count": 464,
+      "budget": 6000,
+      "overview": "A struggling, unemployed young writer takes to following strangers around the streets of London, ostensibly to find inspiration for his new novel.",
+      "similar": [
+         949,
+         4771,
+         1844,
+         521,
+         2252,
+         1586,
+         189,
+         101,
+         59967,
+         298312,
+         137094,
+         320,
+         180,
+         381283,
+         691,
+         9504,
+         36349,
+         22825,
+         193893,
+         433808
+      ],
+      "original_title": "Following",
+      "runtime": 69,
+      "poster_path": "/uoWnnSlUIWjqUXxfIej3ucAxg7J.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Next Wave Films",
+            "id": 13028,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/3tvBqYsBhxWeHlu62SIJ1el93O7.png",
+            "name": "Syncopy",
+            "id": 9996,
+            "origin_country": "GB"
+         }
+      ],
+      "release_date": "1998-09-12",
+      "vote_average": 7.2,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "UK",
+      "color": "Black and White",
+      "budgetCurrency": "$",
+      "directors": ["Christopher Nolan"],
+      "runtime": 69,
+      "synopsis": "A struggling, unemployed young writer (credited as \"The Young Man\") takes to following strangers around the streets of London, ostensibly to find inspiration for his first novel. Initially, he sets strict rules for himself regarding whom he should follow and for how long, but he soon discards them as he focuses on a well-groomed, handsome man in a dark suit. The man in the suit, having noticed he is being followed, quickly confronts the Young Man and introduces himself as \"Cobb\". Cobb reveals that he is a serial burglar and invites the Young Man (who tells Cobb his name is \"Bill\") to accompany him on various burglaries. The material gains from these crimes seem to be of secondary importance to Cobb. He takes pleasure in rifling through the personal items in his targets' flats and drinking their wine. He explains that his true passion is using the shock of robbery and violation of property to make his victims re-examine their lives. He sums up his attitude thus: \"You take it away, and show them what they had.\" The Young Man is thrilled by Cobb's lifestyle. He attempts break-ins of his own, as Cobb encourages and guides him. At Cobb's suggestion, he alters his appearance, cutting his hair short and wearing a dark suit. He assumes the name \"Daniel Lloyd\" based on the credit card Cobb gives to him and begins to pursue a relationship with a blonde woman whose flat he and Cobb burgled. The Blonde turns out to be the girlfriend of a small-time gangster (known only as the \"Bald Guy\") whom she broke up with after he murdered a man in her flat. Soon, the Blonde confides that the Bald Guy is blackmailing her with incriminating photographs. The Young Man breaks into the Bald Guy's safe, but is caught in the act by an unidentified man. He then bludgeons the man with a claw hammer and flees with the Bald Guy's money and photos. Upon returning to his flat, he finds that the photos are innocuous modeling shots. Confronting the Blonde, the Young Man learns that she and Cobb have been working together to manipulate him into mimicking Cobb's burglary methods. She tells him that Cobb had recently discovered a murdered woman's body during one of his burglaries and is attempting to deflect suspicion from himself by making it appear as though multiple burglars share his MO. The Young Man leaves to turn himself in to the police. The Blonde reports her success to Cobb, who then reveals that he actually works for the Bald Guy. The story about the murdered woman was part of a plot to deceive both the Blonde and the Young Man: The Blonde has been blackmailing the Bald Guy with evidence from the murder he committed in her flat, and he wants her murdered in such a way that it cannot be connected to him. Cobb bludgeons the Blonde to death with the same claw hammer that the Young Man used during the burglary of the Bald Guy's safe and leaves it at the scene. The police, checking out the Young Man's story, find the Blonde murdered and the claw hammer with his fingerprints on it. The Young Man is thus implicated for the murder of the blonde woman. Cobb, meanwhile, vanishes into a crowd.",
+      "writers": ["Christopher Nolan"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0154506/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTkxNTkyMTY0M15BMl5BanBnXkFtZTcwOTgxMDIyMQ@@._V1_SY317_CR5,0,214,317_AL_.jpg",
+      "actors": ["Stars: Jeremy Theobald, Alex Haw, Lucy Russell | See full cast and crew »"],
+      "reviews": [
+         "Christopher Nolan's first feature film wowed critics who saw it when it first came out. Shot on a micro budget of $6,000 this is a student film with real class. The film is shot in black and white, and features people who you assume are friends of Nolan's appearing in the movie. This is not to say they are bad actors because they are quite good. You could see Jeremy Theobald and Alex Haw appearing in other projects but unfortunately they haven't since this was made 6 years ago. Nolan's thriller, much like Memento, does not play chronologically, it shifts the scenes around much like Pulp Fiction. The writing is fantastic. It is a great twisting thriller but because the temporal order of the film is shifted around it makes it even more interesting. I thought the last ten minutes in particular when everything starts to become clear were excellent. For a film of such a small budget and with no recognizable names at all, this is so good. It is superior to most that Hollywood studios offer and Nolan after three films (this, the superior Memento and the not quite as good but still excellent Insomnia) has cemented himself as the most exciting new talent of recent times. I can't wait for Batman. This film is short and sweet and certainly a great watch. It is very professional and the twists are fantastic and completely surprising. I also thought that the score from David Julyan was also excellent, very atmospheric and had a chilly quality to it. He has gone on to compose Nolan's other films. Overall I would recommend this, I intend to get all of Nolan's films. This is a low budget gem. *****",
+         "The debut that plucked from obscurity one of the brighter stars of contemporary noir is an assured, if limited, stab at the con game and obsession. Filmed for zero money, Nolan couldn't have chosen a better subject than the drab and seamy underside of London to ply his trade, given the lack of funds. This short (67 min) is at its best in playing with the audience's and protagonist's expectations about who is scamming whom, though the initial set-up does ring some alarm bells in the credibility dept. The muddy cinematography (he often used natural lighting due to budget) can be mostly chalked up to noir stylization, though the limitations do show at times. One can easily see Nolan's style developing in this fledgling effort; many of the same themes of blurred identity and expectation smashing recur in MEMENTO and INSOMNIA. Not a masterpiece but good and certainly worth a look for modern noir and Nolan fans.",
+         "Just watched this on DVD three times - Once the 'normal' way, once with the scenes in consecutive order (in this doozy of a film noir, the beginning, middle and end of the story intertwine), and once with the director's commentary running. Quite amazing. A bare-bones tale, told with more flair, energy and substance than most big-budget overblown features being released today. I think this is an even more accomplished film than the subsequent Memento, which turned me on to Nolan in the first place. Can't wait to see what he does with a bigger budget (and bigger box-office stars) in his next film, Insomnia.",
+         "Christopher Nolan's first directorial effort, a year before he did \"Memento,\" and this is almost as brilliant as that classic. He uses time differentials in a similar manner to tell his story, and it's a very clever one. Bill is this young writer who begins following complete strangers around just to see where they live and what they're all about. One day, he follows this man, Cobb, who turns the tables and confronts Bill, who breaks down and confesses what he's up to. Cobb is a burglar and he takes Bill along on a few jobs to teach him the ropes. Both men are voyeurs of a sort and a bond begins to grow between the two of them. But there's an ulterior motive for Cobb nurturing this relationship, and it all ties in very smartly at the end. No, I won't spoil it but this is a very cool movie and I'm beginning to think Christopher Nolan is a genius. If you like suspense films with surprise endings, this one is a must see.",
+         "I just finished watching Following and I thought it was great. I rated it 8 out of 10. I plan on watching it again with the director's commentary and then again in chronological order. I rented this movie because of my fascination of Christopher Nolan's more recent movie Memento. Following has some similarities; this movie was probably the blueprint for Memento. Even the music in some parts is very similar. Shooting the movie in black and white gives it a mysterious feel. The story and dialogue is really good. The performance of the actors is believable. Christopher Nolan made this movie on a really low budget. I look forward to his next release Insomnia, a big budget movie with my favourite actor Al Pacino.",
+         "Great film. No gratuitous gimmicks like in most Hollywood films. Everything supported the suspense of the plot. B&w gave it a basic, no-frills feel also. In short, it was visceral in its simplicity of cinematography and cast. Following serves as an interesting contrast to Memento. Characters in both used manipulation and subterfuge extensively. In that sense, both reminded me somewhat of \"In the Company of Men,\" also highly recommendable. One difference between Nolan's two films is that Memento was a little easier for me to follow, given that the b&w scenes progress in a constant chronological direction, and so do those in color. I don't think that was true of Following, where scenes seemed to be shown at random. If you have the choice between VCR and DVD, I'd highly recommend DVD, since that gives you the option of watching the movie a second time in chronological order, not just in the scrambled (albeit ingenuous) order presented by Nolan. It also makes it easier, upon a second viewing, to piece the order together for yourself, if you want to. As another viewer noted, one of the best things about both this movie and Memento is that none of the cast were famous. They were characters, not big-name actors who brought in personas developed in other movies. Given certain similarities in the plots, I wonder if Memento is sort of a remake of Following, but intended to reach a bigger audience, like Edward Burns made She's the One in the mold of -- and with largely the same cast as -- The Brothers McMullan.",
+         "After watching Memento one might well wonder how Christopher Nolan pulled off something that audacious, that brilliant, in what was his major directorial debut. Watch Following, the no-budget thriller which was Nolan's actual directorial debut, and you begin to understand. With no money, with an amateur cast and doing pretty much everything (writing, shooting, directing) himself Nolan created a little masterpiece. Whatever \"it\" is that enables someone to make great movies Nolan clearly has it. And had it right from the beginning. Fans of Memento will see a lot of similarities, hints of what was to come, in Following. The most obvious parallel is the nonlinear time structure as the story here unfolds completely out of order. Whereas the story in Memento proceeded more or less in a straight line which just happened to be moving backwards here there is no line at all. Scenes are placed in a seemingly random order. We're all over the place. At the end, in the beginning, somewhere in the middle, back to the end again...it really could have been a jumbled mess. But Nolan gives us a little assistance in orienting ourselves with the shifting appearance of his main character. He has three distinct looks to him and once you figure that out you can figure out where you are in the story. But there are still enough twists and turns to make your head spin, to keep you guessing right up to the end. The less said about the plot the better. Best to let you try to piece the puzzle together for yourself. Much like Memento you really have to see it all the way through to fully appreciate the true genius of it, to understand how any missteps from Nolan along the way could have unraveled his whole story. When the movie concludes you can't help but be amazed that Nolan could pull this off essentially by himself. At least with Memento he had a little help. Here it's just Nolan and his small cast. There are really only three roles of any significance in the film, maybe four if you're being generous. But this little troupe and their first-time director combined to create something really special. The acting may at times seem a bit amateurish but that has to be expected from performers who are certainly not acting pros. And any little quibbles with the performances do not detract at all from the overall movie-watching experience. The actors do more than well enough to get by, well enough in fact that you're surprised there were not bigger acting roles for them somewhere down the line if they wanted them. That the performers have a great story to work with certainly helped their cause. Things do get a little convoluted in the end as Nolan's story takes its final turns. You worry that things may be getting away from him a little bit. But he manages to ultimately pull it all together. You may have to really think about it after things are through but it all makes sense when you run it back in your mind. And it's nice every now and again to have a movie that actually requires you to think isn't it? Christopher Nolan seems to specialize in movies like that. He just makes great movies. Here he did it with no money, all on his own, never having made a movie before. It takes a special talent to pull that off. And among his many talents Nolan also apparently possesses the ability to see into his own future. When you watch Following note the Batman logo on the main character's apartment door.",
+         "Vital and inventive British film about a man who becomes obsessed with randomly picking people out in the street and following them Bill becomes obsessed with picking people out in the street at random and following them. He is drawn into the criminal underworld when he chooses to follow a burglar, Cobb, who catches him in the act and encourages him to take things further... This is a rare and inventive British film, one not concerned with being flavour of the month in the style mags. Its low budget is displayed like a badge of pride, which is refreshing rather than annoying. It runs out of steam before the end, but Nolan hints at something very special here.",
+         "Bill, Jeremy Theobald, is an inspiring writer who hasn't gotten anything published as of yet. Bill also has an odd and strange habit, he likes to follow people. Bill picks out some stranger in the streets diner or on the subway, metro, and follows them as if he were their shadow. Maybe Bill does this to help him in inspiring himself to write the great novel that he's been dreaming about or get an article of his get printed in a major magazine? Maybe it's because it fills Bill's lonely life with a purpose and even makes the person of his curiosity a face in the crowd with meaning and substance by his paying attention to him or her? Or maybe it gives Bill someone to look after and care about and be responsible for besides himself? Bill has a simple rule that he follows religiously when he follows someone : after you follow him or her to their home or place of work you stop. One day Bill follows Cobb, Alex Haw, home and instead of following his rule of stopping he still keeps following Cobb. Bill will soon realize how right he was with that rule he set for himself in following people and at the same time how wrong he was by breaking it. Amazingly good low-budget movie made by Christopher Noland in 1998 before he hit it big in Hollywood with his ground-breaking and original motion picture classic \"Momento\" some two years later that has already become a major cult movie. \"Following\" is actually a much better movie then \"Momento\" because it's a conventional and easy to follow story. Compared to \"Momento's\" which was at first confusing and then when you realize what the movie is telling you in it's backward storyline very complicated. Whats makes \"Following\" so much better is just by it being simple but at the same time brainy in it's affect on those who watch it. The movie is far more direct as well as devastating and you don't have to see it over and over to get just what it was trying to tell them like \"Momento\" did. \"Following\" is a story within a story within a story with one of the most surprising as well as simply manipulated ending, if you watch the movie again and notice the clues, that you'll ever see. Made with an unbelievably small budget of $6,000.00, thats less then what most Hollywood movies budgets out for coffee-breaks, with a no-name cast in black and white and just over one hour, 71 minutes, long. Hollywood as well as the motion picture industry outside of Hollywood can learn a lot from Chris Noland in how someone with nothing more then talent and imagination can achieve what millions of dollars in most cases can't; make an intelligent and at the same time penetrating film with next to nothing in money and no big name stars.",
+         "In this intriguing noir thriller (looking like the Forties, but with a psychology befitting the Nineties), Director Christopher Nolan employs a number of techniques he would perfect in his internationally acclaimed Memento (2000), most notably scenes presented out of time sequence for effect, and a naive protagonist taken advantage of by others. The film opens with \"Bill, the Innocent\" (as I might dub him), played by Jeremy Theobald, trying to explain to someone, perhaps a social worker, perhaps even a police inspector (John Nolan), why he took up following people just for the fun of it. He doesn't just follow women, he points out. He's not a stalker, as such. He's just curious. He's an intriguing and sympathetic character, a Brit writer with a lot of time on his hands who seems something of a throwback to an earlier age with his clanking manual typewriter and the photo of a pursed-lips Marilyn Monroe on the wall of his shabby apartment. Things began to go wrong for him, he further explains, when he broke some of his \"following rules\" and got too close to his prey. What he doesn't know and what we don't know yet, is that his clumsy following technique has allowed him to unwittingly become the followed himself. Enter a juicy blonde (Lucy Russell) walking down some steps from her apartment. (This scene is out of sequence as far as chronological time goes, but psychologically speaking, her appearance signals his entanglement). Enter now a scheming, sophisticated psychopathic thrill-seeker named Cobb (Alex Haw) who entices Bill with his (apparent) practice of burglary just for the powerful feeling one gets from invading the sanctity of another's life. Although justification for the temporal inversions here is not as clearly established as in Memento, nonetheless the technique works well, and Nolan provides us with a clever ending that sneaks up on us and makes in a few seconds all that went before clear. Or mostly clear. You might want to rewind and view the first few minutes of the film, and then everything should be clarity. This low-budget, black and white, deliciously ironic little film (71 minutes) marked the auspicious debut of a film maker who has already made quite a name for himself, not only with the aforementioned Memento, but with Insomnia (2002). It will be interesting to see what Nolan does next."
+      ],
+      "genres": [
+         "Mystery",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "Next Wave Films",
+         "Syncopy"
+      ],
+      "summaries": [
+         "An older man listens to Bill's story about being a callow writer who likes to follow strangers around London, observing them. One day, a glib and self-confident man whom Bill has been following confronts him. He's Cobb, a burglar who takes Bill under his wing and shows him how to break and enter. They burgle a woman's flat; Bill gets intrigued with her (photographs are everywhere in her flat). He follows her and chats her up at a bar owned by her ex-boyfriend, a nasty piece of work who killed someone in her living room with a hammer. Soon Bill is volunteering to do her a favor, which involves a break-in. What does the older man know that Bill doesn't?",
+         "The protagonist of Following is Bill. Bill is an unemployed aspiring writer who lives a solitary and boring life in London, England. Bill has a fascination with people, and with hopes of finding material to write about, begins to pick individuals out of a crowd, and to follow them. Bill establishes rules to keep him out of trouble and to keep his 'following' random, but soon enough he breaks one of his rules by following someone more than once. The character he follows on numerous occasions first is Cobb. Cobb a confident and intelligent burglar catches Bill spying on him and soon involves Bill in his peculiar burglaries. Similar to Bill's interest in following, Cobb has a great interest in the individuals he is stealing from. During the robbery of a residence Bill becomes interested in the woman who owns the flat, so he begins to follow her. Eventually he decides to meet her and they begin seeing each other. This upsets Cobb as he also learns the woman has asked Bill to do a job for her. But things are not as they seem, and soon Bill will find out why.",
+         "A young writer who follows strangers for material meets a thief who takes him under his wing."
+      ],
+      "budget": 6000
+   },
+   "movielensId": 2579,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1998-09-12",
+      "dvdReleaseDate": "2001-12-11",
+      "directors": ["Christopher Nolan"],
+      "runtime": 69,
+      "movieId": 2579,
+      "title": "Following",
+      "mpaa": "R",
+      "actors": [
+         "Jeremy Theobald",
+         "Alex Haw",
+         "Lucy Russell",
+         "John Nolan",
+         "Dick Bradsell",
+         "Gillian El-Kadi",
+         "Jennifer Angel",
+         "Nicolas Carlotti",
+         "Darren Ormandy",
+         "Guy Greenway",
+         "Tassos Stevens",
+         "Tristan Martin",
+         "Rebecca James",
+         "Paul Mason",
+         "David Bovill"
+      ],
+      "imdbMovieId": "0154506",
+      "originalTitle": "Following",
+      "genres": [
+         "Crime",
+         "Drama",
+         "Thriller"
+      ],
+      "youtubeTrailerIds": ["62TTN6gD2So"],
+      "plotSummary": "A struggling, unemployed young writer takes to following strangers around the streets of London, ostensibly to find inspiration for his new novel.",
+      "tmdbMovieId": 11660,
+      "avgRating": 3.7717,
+      "releaseYear": "1998",
+      "numRatings": 1728,
+      "posterPath": "/uoWnnSlUIWjqUXxfIej3ucAxg7J.jpg"
+   }
+}

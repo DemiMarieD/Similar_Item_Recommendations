@@ -1,0 +1,648 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "shakespeare",
+            "id": 497
+         },
+         {
+            "name": "hero",
+            "id": 1701
+         },
+         {
+            "name": "kingdom",
+            "id": 4152
+         },
+         {
+            "name": "war",
+            "id": 6091
+         },
+         {
+            "name": "based on play or musical",
+            "id": 10181
+         },
+         {
+            "name": "gritty",
+            "id": 155453
+         },
+         {
+            "name": "medieval",
+            "id": 161257
+         },
+         {
+            "name": "king of england",
+            "id": 186686
+         }
+      ],
+      "imdb_id": "tt0097499",
+      "video": false,
+      "title": "Henry V",
+      "recommendations": [
+         10549,
+         1088,
+         18203,
+         29973,
+         20681,
+         11257,
+         18988,
+         31174,
+         28761,
+         14320,
+         26748,
+         17589,
+         14291,
+         983,
+         19143,
+         16121,
+         19382,
+         10388,
+         27969,
+         10876
+      ],
+      "backdrop_path": "/usbfKNeqx5FrHByBf7Fzf9WDuIl.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Henry V",
+               "gender": 2,
+               "credit_id": "52fe43a59251416c75018997",
+               "name": "Kenneth Branagh",
+               "profile_path": "/bmpGjbqvAVNOK3ggiuET2Jl96tZ.jpg",
+               "id": 11181,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Chorus",
+               "gender": 2,
+               "credit_id": "52fe43a59251416c7501899b",
+               "name": "Derek Jacobi",
+               "profile_path": "/jJ4MkVS59gCfJhWMfLTbeHKjoyC.jpg",
+               "id": 937,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Exeter",
+               "gender": 2,
+               "credit_id": "52fe43a59251416c7501899f",
+               "name": "Brian Blessed",
+               "profile_path": "/azFYGqcDS1Oo8skhbHzGPZSICTU.jpg",
+               "id": 8318,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Bedford",
+               "gender": 2,
+               "credit_id": "52fe43a59251416c750189a3",
+               "name": "James Larkin",
+               "profile_path": "/hl0E1RSfCZhaJgyIWt8AnnpcQj9.jpg",
+               "id": 66250,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "French King",
+               "gender": 2,
+               "credit_id": "52fe43a59251416c750189a7",
+               "name": "Paul Scofield",
+               "profile_path": "/gt4YFHyhE29CfpiZxknPy0aAGx.jpg",
+               "id": 13324,
+               "order": 4
+            },
+            {
+               "cast_id": 6,
+               "character": "Katherine",
+               "gender": 1,
+               "credit_id": "52fe43a59251416c750189ab",
+               "name": "Emma Thompson",
+               "profile_path": "/cWTBHN8kLf6yapxiaQD9C6N1uMw.jpg",
+               "id": 7056,
+               "order": 5
+            },
+            {
+               "cast_id": 7,
+               "character": "Mistress Quickly",
+               "gender": 1,
+               "credit_id": "52fe43a59251416c750189af",
+               "name": "Judi Dench",
+               "profile_path": "/2is9RvJ3BQAku2EtCmyk5EZoxzT.jpg",
+               "id": 5309,
+               "order": 6
+            },
+            {
+               "cast_id": 18,
+               "character": "Duke Humphrey of Gloucester",
+               "gender": 2,
+               "credit_id": "52fe43a69251416c750189eb",
+               "name": "Simon Shepherd",
+               "profile_path": "/ofJWUvHZ7MWocqhtCzhPVTQJ028.jpg",
+               "id": 47493,
+               "order": 9
+            },
+            {
+               "cast_id": 19,
+               "character": "Duke Edward of York",
+               "gender": 0,
+               "credit_id": "52fe43a69251416c750189ef",
+               "name": "James Simmons",
+               "profile_path": null,
+               "id": 138412,
+               "order": 10
+            },
+            {
+               "cast_id": 20,
+               "character": "Archbishop of Canterbury",
+               "gender": 0,
+               "credit_id": "52fe43a69251416c750189f3",
+               "name": "Charles Kay",
+               "profile_path": "/9VGOlhM2ZAngqBLO4B3Ow2ZCRsK.jpg",
+               "id": 138413,
+               "order": 11
+            },
+            {
+               "cast_id": 21,
+               "character": "Bishop of Ely",
+               "gender": 2,
+               "credit_id": "52fe43a69251416c750189f7",
+               "name": "Alec McCowen",
+               "profile_path": "/z9TmCKc1WAFQ0qn2CJjbKlna4MX.jpg",
+               "id": 8224,
+               "order": 12
+            },
+            {
+               "cast_id": 22,
+               "character": "Earl Richard of Cambridge",
+               "gender": 0,
+               "credit_id": "52fe43a69251416c750189fb",
+               "name": "Fabian Cartwright",
+               "profile_path": null,
+               "id": 138414,
+               "order": 13
+            },
+            {
+               "cast_id": 23,
+               "character": "Lord Henry Scroop",
+               "gender": 0,
+               "credit_id": "52fe43a69251416c750189ff",
+               "name": "Stephen Simms",
+               "profile_path": null,
+               "id": 76218,
+               "order": 14
+            },
+            {
+               "cast_id": 24,
+               "character": "Sir Thomas Grey",
+               "gender": 2,
+               "credit_id": "52fe43a69251416c75018a03",
+               "name": "Jay Villiers",
+               "profile_path": "/pXLl3FGzgocI4binqSPgcyuzRrs.jpg",
+               "id": 47589,
+               "order": 15
+            },
+            {
+               "cast_id": 26,
+               "character": "Captain Fluellen",
+               "gender": 2,
+               "credit_id": "52fe43a69251416c75018a0b",
+               "name": "Ian Holm",
+               "profile_path": "/27SAk1v043GdOeAxT5pPoMUYhGg.jpg",
+               "id": 65,
+               "order": 17
+            },
+            {
+               "cast_id": 27,
+               "character": "Gower",
+               "gender": 2,
+               "credit_id": "52fe43a69251416c75018a0f",
+               "name": "Danny Webb",
+               "profile_path": "/zpau9CohMkopFeRodbURyKHdlae.jpg",
+               "id": 53917,
+               "order": 18
+            },
+            {
+               "cast_id": 28,
+               "character": "Williams",
+               "gender": 2,
+               "credit_id": "52fe43a69251416c75018a13",
+               "name": "Michael Williams",
+               "profile_path": "/cJHdydzqeU5exvW4hwgmZcnjenY.jpg",
+               "id": 138411,
+               "order": 19
+            },
+            {
+               "cast_id": 29,
+               "character": "Jamy",
+               "gender": 2,
+               "credit_id": "542d9d340e0a261fe20003c8",
+               "name": "Jimmy Yuill",
+               "profile_path": "/zeuinVj4XOYzWSty96mM3SaD1mB.jpg",
+               "id": 151797,
+               "order": 20
+            },
+            {
+               "cast_id": 30,
+               "character": "Westmoreland",
+               "gender": 2,
+               "credit_id": "56d9e94dc3a3681e440263d9",
+               "name": "Paul Gregory",
+               "profile_path": "/1ZG7nSbfVznrLxYM8hQFAZg6CZe.jpg",
+               "id": 1229305,
+               "order": 21
+            },
+            {
+               "cast_id": 31,
+               "character": "Sir Thomas Erpingham",
+               "gender": 2,
+               "credit_id": "570c5a4ec3a3684c0d000af8",
+               "name": "Edward Jewesbury",
+               "profile_path": null,
+               "id": 1211850,
+               "order": 22
+            },
+            {
+               "cast_id": 32,
+               "character": "Macmorris",
+               "gender": 2,
+               "credit_id": "584a228a92514119b301a89e",
+               "name": "John Sessions",
+               "profile_path": "/oLBcHRhah5FxyodfZECIHCrROwG.jpg",
+               "id": 26860,
+               "order": 23
+            },
+            {
+               "cast_id": 33,
+               "character": "Bates",
+               "gender": 0,
+               "credit_id": "584a2296c3a368140a01b82b",
+               "name": "Shaun Prendergast",
+               "profile_path": "/3IMUCBXLXb7KRvRBWqH9MVVxupo.jpg",
+               "id": 1211929,
+               "order": 24
+            },
+            {
+               "cast_id": 34,
+               "character": "Lieutenant Bardolph",
+               "gender": 2,
+               "credit_id": "584a22a892514119bc01aa75",
+               "name": "Richard Briers",
+               "profile_path": "/cdOxeResI28YXe912GbQKKvbKv8.jpg",
+               "id": 29859,
+               "order": 25
+            },
+            {
+               "cast_id": 35,
+               "character": "Sir John Falstaff",
+               "gender": 2,
+               "credit_id": "584a22b792514159b00086fd",
+               "name": "Robbie Coltrane",
+               "profile_path": "/u07QKPs7wvXxzjXi1UUBSGjjmQm.jpg",
+               "id": 1923,
+               "order": 26
+            },
+            {
+               "cast_id": 36,
+               "character": "Robin the Luggage-Boy",
+               "gender": 2,
+               "credit_id": "584a22cdc3a368140e01bc52",
+               "name": "Christian Bale",
+               "profile_path": "/2ocrTd8ChuUyJOzMuD4PsQw8eCB.jpg",
+               "id": 3894,
+               "order": 27
+            },
+            {
+               "cast_id": 37,
+               "character": "Alice",
+               "gender": 1,
+               "credit_id": "584a22e2c3a368141101a3d8",
+               "name": "Geraldine McEwan",
+               "profile_path": "/tKcjt4kzcy5OYMtTzb0RHsAzuvz.jpg",
+               "id": 8326,
+               "order": 28
+            },
+            {
+               "cast_id": 38,
+               "character": "Louis the Dauphin",
+               "gender": 2,
+               "credit_id": "584a22f9c3a368140e01bc6d",
+               "name": "Michael Maloney",
+               "profile_path": "/f0rV6ZXr8W6BkSCFeJo2KXdnD4A.jpg",
+               "id": 17483,
+               "order": 29
+            },
+            {
+               "cast_id": 39,
+               "character": "Duke Charles of Orleans",
+               "gender": 2,
+               "credit_id": "584a231b92514119bc01aaba",
+               "name": "Richard Clifford",
+               "profile_path": null,
+               "id": 186389,
+               "order": 30
+            },
+            {
+               "cast_id": 40,
+               "character": "Messenger",
+               "gender": 2,
+               "credit_id": "584a2362c3a368140a01b899",
+               "name": "David Parfitt",
+               "profile_path": null,
+               "id": 20062,
+               "order": 31
+            },
+            {
+               "cast_id": 41,
+               "character": "Montjoy",
+               "gender": 0,
+               "credit_id": "584a238092514157b500897f",
+               "name": "Christopher Ravenscroft",
+               "profile_path": null,
+               "id": 1220062,
+               "order": 32
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe43a59251416c750189bd",
+               "name": "Kenneth Branagh",
+               "profile_path": "/bmpGjbqvAVNOK3ggiuET2Jl96tZ.jpg",
+               "id": 11181,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43a59251416c750189c3",
+               "name": "Kenneth Branagh",
+               "profile_path": "/bmpGjbqvAVNOK3ggiuET2Jl96tZ.jpg",
+               "id": 11181,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43a59251416c750189c9",
+               "name": "William Shakespeare",
+               "profile_path": "/2z4njqosEQM4g26ttb9grG9rJUg.jpg",
+               "id": 6210,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43a59251416c750189cf",
+               "name": "Stephen Evans",
+               "profile_path": null,
+               "id": 39992,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43a59251416c750189d5",
+               "name": "Bruce Sharman",
+               "profile_path": null,
+               "id": 66251,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43a59251416c750189db",
+               "name": "Patrick Doyle",
+               "profile_path": "/mo87kZiHO5gsoax80Us0S2CPmS.jpg",
+               "id": 9152,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43a59251416c750189e1",
+               "name": "Kenneth MacMillan",
+               "profile_path": null,
+               "id": 43624,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43a59251416c750189e7",
+               "name": "Michael Bradsell",
+               "profile_path": null,
+               "id": 23865,
+               "department": "Editing",
+               "job": "Editor"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "War",
+            "id": 10752
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "History",
+            "id": 36
+         },
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Romance",
+            "id": 10749
+         }
+      ],
+      "popularity": 6.019019,
+      "production_countries": [{
+         "iso_3166_1": "GB",
+         "name": "United Kingdom"
+      }],
+      "id": 10705,
+      "vote_count": 94,
+      "budget": 9000000,
+      "overview": "Gritty adaption of William Shakespeare's play about the English King's bloody conquest of France.",
+      "similar": [
+         2312,
+         272,
+         228150,
+         36647,
+         20662,
+         44943,
+         8916,
+         1911,
+         10473,
+         16442,
+         225728,
+         16314,
+         8840,
+         256040,
+         42941,
+         18885,
+         313074,
+         11316,
+         32302,
+         59883
+      ],
+      "original_title": "Henry V",
+      "runtime": 137,
+      "poster_path": "/lGvLBxPDSqBbrvZBmbKFEi91QDo.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Français",
+            "iso_639_1": "fr"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": "/wdmwQuV4R1MIr8A78izZkC184uC.png",
+            "name": "BBC Films",
+            "id": 288,
+            "origin_country": "GB"
+         },
+         {
+            "logo_path": null,
+            "name": "Renaissance Films",
+            "id": 3102,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Samuel Goldwyn Company",
+            "id": 798,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1989-10-05",
+      "vote_average": 7.4,
+      "belongs_to_collection": null,
+      "tagline": "The great adventure of a king who defied the odds to prove himself a man.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "UK",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Kenneth Branagh"],
+      "runtime": 137,
+      "synopsis": "The following story takes place during the 100 years' war between France and England. Henry V is debating whether he has the right to claim french territories under a property contract, presumably advocated by the clergy, between France and England at some prior date (citation needed). Prologue: Bear with us as we attempt to retell the story of Henry V at Agincourt, though our stage is an unworthy scaffold (a shallow representation) of the events which transpired before, during, and after. As the play unfolds, we see the clergy in a meeting about the king's seeming indifference of its claim --on technicality--to the french kingdom. There is a gathering of the king's subjects to hear details from the clergy as to why England has the right to claim the lands of the French. According to the clergy, by contract from previous encounters, the french must have a male heir, but at present have a female one, which effectually nullifies French royalty's claim to the french kingdom. The king warns the clergy to state the facts -- any other entreaty would lead to \"much fall of blood,\" which is expected due to the two contending kingdom's property. To be certain he is within his rights to claim french territories, he orders the clergyman to be blunt...does England have the right to make a claim of France? The clergyman says yes, and that if it is a sin, let it be on his head. Furthermore, the clergyman states that the winning back of such land would bring vast sums of money to the clergy. and King of England. This information is what makes Henry finally decide to go to war, if the French renege on the contract. The king has already made a claim to France upon this advisement, and the herald of France is brought before the king with France's answer to this claim. The dauphin of France says the king \"savors too much of his youth,\" and offers in return a gift of tennis balls. Henry at first calmly thanks the herald for his time and message, but then proceeds to admonish the sender for his childish joke, and states they will \"play a set\" of tennis which will strike the dauphin's father's \"crown in to the hazard.\" Throughout, Henry's subjects are present and are surprised to see the king take up his mantle with a gusto not seen previously. The king apparently was not very studious as a youth, and pursued \"courses vain\", such as sport and partying. Thus they see an apparent change in their king which is suitable to his station. After meeting with the herald and dismissing him back to France with his message, Henry says he will be no king of England unless he is king of France, and France being his will be bent to his \"oar, or broken all to pieces.\" \"Then it begins.\"",
+      "writers": [
+         "William Shakespeare",
+         "Kenneth Branagh"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0097499/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTI1ODg1Mjk5NF5BMl5BanBnXkFtZTcwNzQyNjUxMQ@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Kenneth Branagh, Derek Jacobi, Simon Shepherd | See full cast and crew »"],
+      "reviews": [
+         "This film is a chef d'oeuvre, masterpiece, magnum opus, perfection. The battle scenes are exquisite, the soundtrack is spectacular. Mud & blood, sweat & tears, man & horse, all become one powerful force on the field of Agincourt. Branagh, and the people he surrounds himself with, breathe life into Shakespeare's words. When you watch Branagh, as Henry, deliver the Feast Of St. Crispian's Day speech to his weary band of brothers, you will be swept up in his passion, and find yourself cheering \"let us fight\" at your TV screen. Branagh speaks the language of Shakespeare fluidly, naturally. It is the greatest language he knows, and upon entering his world, you too will know the glory of Shakespeare. Non nobis domine, domine Non nobis domine Sed nomini, sed nomini Tu lauda gloriam \"O for a Muse of fire, that would ascend The brightest heaven of invention! A kingdom for a stage, princes to act, And monarchs to behold the swelling scene!\" \"And Crispin Crispian shall ne'er go by, From this day to the ending of the world, But we in it shall be remember'd; We few, we happy few, we band of brothers; For he to-day that sheds his blood with me Shall be my brother\" I love Branagh's Henry V because he incorporated all of Henry V's traits - the roguishly witty Prince Hal, the warmonger, the imperialist, the opportunist, the master rhetorician, the man with a miraculous ability to reason in divinity and to debate in commonwealth affairs and to exhibit military prowess, his piety, his administrative sagacity, political cunning, arrogance, his cruelty, his affability, all in all Branagh masterfully wears all the masks of Prince Hal/Henry V that Shakespeare created. I love Branagh's version because he recreated as much as he could of the play and transformed it into an artistic cinematic presentation (the set designs and that battle sequence at Agincourt and the rich deep hues of burgundy and brown and sumptuous plums) instead of a staged presentation, because he remained true to Shakespeare's ambivalence towards Henry by allowing viewers to be critical of Henry's choices, he preserved most of the dialogue and presented the scenes in order, because of Branagh's unparalleled recitation of Shakespearean dialogue, and because of Patrick Doyle's rapturous, Proustian music which transports listeners to a paradoxical state of paradisial elysium and infernal, torturous pain, evoking times and places and battles and lives long forgotten, a remembrance of things past, a memories forever faded into royal genealogical charts and myths and legends. The play is theatrically limited because the events in the play cannot be adequately represented on stage, which is one reason why Henry V is ironically one of the most theatrically expressive plays to perform - the production crew is forced to transcend theatrical convention in order to faithfully represent the play. Theatre depends on synecdoche, meaning that what is presented on stage only represents part of the whole, and this is because of theatrical restrictions. What we watch is a shadow or illusion of the whole. In Henry V, Shakespeare expected the audience to actively participate in the re-enactment of the events being staged. Shakespeare addresses this throughout the Prologue and Chorus of the play, by constantly apologizing about the inadequate, confining medium being used to portray the spectacle before us. Henry V is the crowning achievement of his Henriad (which spans from Richard II to Richard III) and of the English history play in general, and it is grandiosely resplendent with thousands of men and horses, full-rigged ships, the English fleet leaving Southampton and traversing the English Channel, and the brutal sacking of an entire town whose sacking is explicitly described in the dialogue - the firing of cannons, scaling ladders, town walls that must be physically breached on stage, characters that appear on the walls looking down at the siege, the town reduced to rubble, and the King boaring through the town with a massive army to make an extravagantly celebratory and unchallenged exit through the gates (is there any room on state for a set of gates?) of Harfleur. Thank you Branagh for enriching our imaginations.",
+         "Let's get one thing straight: It was Olivier who finally cracked the concrete heads of film producers open and proved that it was possible to put the bard of bards on screen without even an American audience falling asleep after 10 minutes. Sure, after all this time his Henry looks ancient, pretentious and artificial, but so will Blade Runner after 50 years, and still both mark a watershed after which none could be done like anything before. Odd comparisons? Maybe. But fitting. Branagh's Henry finally set a tone worth to succeed the initial awesome blast unleashed by the most powerful actor for generations, and I'm sure Branagh would be the last to deny Olivier's version the place it deserves in British movie history. Times were ripe for another tone - but times before had needed Olivier as much as the following ages will need Branagh. I'm an obsessive fan of both versions - both for entirely different reasons - and both merging perfectly what I love most about Shakespeare's eternal works. Branagh's film is timeless - of this time - without ever being trendy. Olivier's is timeless - as well as of its time - as long as we keep an understanding of its time. Olivier praised the eternal flame, the eternal smell, of Shakesperean theater, as always reaching far beyond the confinds of its subject - beyond the confinds of the wooden circle of 'The Globe'. Branagh went right for the jugular, without ever loosing grip on what makes this play a play beyond its subject, and THE play about that subject. Has anyone considered the vital difference between Branagh's and Olivier's versions? I doubt it. Where Olivier conjured up the intoxicating smell of fresh 15th century glue from the sets rising into the audience's noses, come here straight from the bear fights, whore houses, sermons of zealots and whatever had to flee London's stern moral walls of those times, Branagh cut right to the bone of any hardened 'modern' movie goer. Behold: Derek Jacoby's prologue is a piece of speech which will forever haunt, enchant and cover me in goosebumps - firing me up to see what comes as well as see what Olivier as well as Branagh had done with the only play ever to merge humanity's lust as well as dread for the subject of war. Of course, Olivier's version couldn't even dream of matching the intimate intensity of Branagh's. But how could it? Ok, I won't further dwell on it, but for the last time, consider the father to fully understand the son. Now, having shed the overpowering shadows of the past, Derek Jacoby steps into the dark of the expecting stage - striking a match..., \"Oh, for the muse of fire...\" ... and off we are, lured into the torrent of the bard's unique and eternal magic. I consider Henry V the best of Branagh's Shakespeare adaptations, even though I wouldn't want to be with any of the others on pain of death. This one's flawless, perfectly cast, perfectly executed and perfectly acted by Branagh himself. From Burbage to Garrick to Keane to Inving to Olivier to Branagh... it is a glorious lineage to follow in love and admiration for the bard of Bard's ambassadors. Schogger13",
+         "\"Henry V\" marks Kenneth Branagh's greatest achievement to date. Branagh not only directs this rich and visually stunning film, he stars as the title character. The movie opens with Derek Jacobi (Branagh's Shakespearean mentor) in modern garb passionately delivering the prologue. Then we are taken into the dark, dank rooms of Henry's castle. The king makes his dramatic entrance, complete with a Darth Vader style cape. The entire film is filled with grandeur and pomp, with any faults in the story line being attributable more to Shakespeare himself than Branagh. Henry V as I remember it from my college English class is a decidingly pro-British play (and film). There is little question that France should be conquered, and Henry speaks of his war against France as if it were France that attacked England. Indeed, Henry's famous \"St. Chrispin's day speech\" is so rousing, that it has been quoted often and inspired the name of the \"Band of Brothers\" miniseries about World War II. This is no surprise, since Shakespeare's prose is famously beautiful. There is definitely a difference in the way that both sides of the conflict are presented. The French, at least in Branagh's movie are presented as arrogant (and somewhat effeminate), while on the side of the English, even children are filled with manly courage. Henry is presented as noble, fair, and merciful. True he threatens the mayor of one French town, telling him that if he does not surrender the town, the English will do terrible things to its residents, but does not carry out his threat. He also hangs the one English soldier who steals from a French church, refusing to show favoritism for him just because he was his friend. Apparently mercy towards your own countrymen was not a virtue that Henry saw particularly important. The films greatest attribute is its soundtrack, particularly the use of music in the scene following the battle of Agincourt in which the warring parties collect their dead for burial. All in all, a fascinating look inside the mind of a king.",
+         "This film surely must be in the frame for a number of best ever categories - best Shakespeare film adaptation, one of the best ever war films AND one of the best ever performances by a male actor. It's truly stunning to see how Shakespeare's words, which seemed dull and difficult to understand at school, can be spoken as passages of such depth, beauty and power. Not one in a thousand actors could do this convincingly - but Kenneth Branagh can. I think this far outshines the Olivier version from 1944 (very good though that was). Branagh convinces (where Olivier does not always) as he gives a wider range of emotional responses to Henry - self questioning, compassionate, sad at the harsh realities of life. You can really believe that here is a young man who used to be a playboy now faced with having to grow up and behave as a king of England. As others have said, he gives such fire and charisma to the battle speeches that you want to march straight into battle yourself! And importantly, Branagh also convinces utterly in the romantic wooing of the French princess. Naturally enough, the film focuses on the main actor playing Henry, but the supporting actors are also excellent. Derek Jacobi, particularly, does wonderfully in a difficult role. If I had to give one very slight caveat however, it would be that Emma Thompson (who I love as an actress), does not quite convince as a native French speaker, though she makes a good try at speaking the language rapidly. Perhaps Juliette Binoche would have been better here? But overall the obvious rapport between Branagh and Thompson (who were married at the time) is more important than any slight problems with the accent. The only Shakespeare performance that tops this movie is seeing Branagh give a live performance on stage - I was privileged to see him (with Emma Thompson) perform Much Ado About Nothing in the late 1980s, and that's still the best I've ever seen. Don't just see this - buy or record a copy. If you see it once, you will most likely want to see it over and over! 10/10",
+         "Excellent return to Shakespeare's young King Henry with 28 year old Branagh perfectly filling the shoes Olivier tried so hard to fill 40 plus years before. Branagh, who also directed, brings the film to life with exciting battle scenes, a first rate supporting cast that features the fine Shakespearean veteran Jacobi as the Chorus. Also with Holm, Bannen, the always reliable Brian Blessed and Emma Thompson. The story is better told and moves about at a much better pace than previous Shakespeare films. Branagh started an incredible trend with this film. (Much Ado About Nothing, Hamlet, Othello) He was Oscar nominated as Actor and Director for his work here. The film won for Costuming.",
+         "Branagh's masterpiece is not only the best rendition of Shakespeare ever put on the screen but also a contender as one of the best movies ever made.It is so far superior to Olivier's camp pantomime as to make even the suggestion of comparison laughable.The large section of film from Henry's stirring pre-battle speech at Agincourt followed by the battle itself culminating in his walk across the carnage of the site after his famous victory is film-making of rare quality indeed and the music that accompanies all of this is moving and memorable.Branagh himself makes Henry a likeable,amiable but ultimately brave and determined king and his seduction of the French princess in the closing minutes bring this wonderful work to a satisfying conclusion.This gifted actor/director of the old school has made further Shakespeare movies since this and will undoubtedly make more but \"HENRY V\" will most likely be his crowning achievement.",
+         "I admit that bringing Shakespeare to the big screen is tough. There are subtleties and nuances - and limitations - about stage productions that cinema simply can't capture. That being said, this is by far the best adaptation of Shakespeare to the big screen of the past fifteen years. The director does an admirable job of making every scene seem plausible - with slight suspension of disbelief - on stage. Kenneth Branagh, while he strikes me as a bit full of himself, is fantastic as the young, vain, ambitious title character, while Paul Scofield, Henry's French counterpart, delivers an equally impressive performance as the king who understands the gravity of Henry's invasion of France. Aside from Shakespeare's obvious bias toward British interests - which have little to do with the big-screen production - this is an amazing film.",
+         "As famous as Olivier's Henry V was, it was sorely outdated and as part of a war effort, it was predictably one-dimensional. Branagh's Henry V does more justice to the many facets of Shakespeare's words and reminds us of how good the Bard was at spinning a good yarn. Some of the best English actors take their turn here. Scofield is in his element, playing a distracted French monarch. Ian Holm is an irascible (isn't he always?) Fluellen. Derek Jacobi is a master chorus (you can listen to that voice ALL day). Judi Dench is a soft hearted Nell who's seen better days. Branagh himself puts forward energetic vitality to the lead role. However, it IS rather difficult to look past the very English look Emma Thompson has in her portrayal of a French princess - but that's no fault of hers. 8 out of 10",
+         "A creatively minded film student once checked out the videos for the Branagh and Olivier versions of this film, arranged a free public showing of the two in sequence, and billed the event as \"A Comparison of Styles.\" Great fun. Twenty or so of us spent a whole Sunday afternoon-to-late-evening discussing and arguing the merits and demerits of both versions. I recommend the exercise for other Shakespeare fans and film fans. (Holms vs. Scofield as Lear, Zefferelli's Romeo & Juliet vs. the one with Caprio, etc. Try it; you'll like it). Henry V has been read as English triumphalism so often that this bad-war era version was probably NECESSARY in order to show folks how subtle Shakespeare can be even when he seems to be tooting a patriotic horn! We are shown a very complicated (and very disturbed) king in three fine scenes in particular: (1) Henry slouching on his throne as he hears his ecclesiastical minions telling him what he wants to hear and feeding him the long-shot arguments that speciously justify his claim to the throne of France; (2) the subtle demonstration that his French obsession is partly a way of displacing his guilt about abandoning Falstaff; and (3) his maniacal behavior at Harfleur as he rides around waving his sword and making himself a perfect target with his surcoat decorated with the royal arms! Shakespeare makes it impossible to doubt Henry's courage and military genius, but he also appalls us: \"My God,\" we think, \"it's nuts like this who still rule the world and cause most of the problems thereof!\" I have a few bones to pick. Branagh is trying to keep the film from getting too long, and he is sometimes sloppy about what he cuts. Here are a pair of examples: (1) The film movingly depicts a French atrocity, namely the killing the youngsters who guarded the English luggage (\"Directly against the laws of war\" as the lovable fussy legalist Fluellen puts it). But Shakespeare puts this in perspective by highlighting Henry's equally atrocious violation, when he orders the mass killing of French prisoners. BRANAGH IGNORES THAT, AND LEAVES OUT THE British ATROCITY WHILE INCLUDING THE FRENCH ONE! In the play as Shakespeare wrote it, Fluellen (displaying his unconquerable admiration for the king) has to force himself, in his \"Alexander the Pig\" scene, to rationalize Henry's atrocity as a response to the French atrocity which hadn't happened yet. The stickler Fluellen, in other words, is disingenuous with himself as the price of keeping Henry in the right. Ouch! But the ouch would actually have strengthened Branagh's interpretation. (2) Branagh is gorgeous in his handling of the scene where Henry disguises himself as a common soldier in order to hobnob with his men, and loses his cool--throws a tantrum, in fact--while listening to soldier Williams' good and honest anti-war talk. But another sequence, without which the foregoing scene can really not be understood properly, is cut!!!! The scene in question, which isn't in the film, shows Henry revealing himself to the honest (or lippy?) Williams and demanding satisfaction for the latter's supposedly insubordinate and disloyal talk. Williams stands his ground like a man, and tells Henry respectfully but firmly that if he wants to be treated like a king he shouldn't disguise himself as a buck private. The King, thus put in the wrong in front of his officers (and shown the flip side of the thoughts he himself expressed in his \"Upon the King!\" soliloquy a few scenes earlier), cuts his losses, tells Fluellen to make up for the deception by giving Williams his (Henry's) glove filled with money, and hurriedly exits. Williams refuses the money along with Fluellen's patronizing b.s., and we are left to contemplate the fact that we have just seen an unpleasantly catty side of Henry. As in the other case, Branagh's cutting of one scene rather makes hash out of the other. There is one scene where Branagh unnecessarily remains in Olivier's shadow. Branagh was quite aware that he couldn't speechify like Olivier (nor could anyone else, actually), and that he would therefore inevitably suffer if he tried to declaim the \"Once more to the breach\" Harfleur set piece, he somehow couldn't resist trying, which resulted in the only lame acting in the film. Branagh would have made more sense if he had just allowed the mounted, renzied Henry to shout himself hoarse, almost unheard over the noise of battle, while urging his men to this crazy suicide attack, and to eschew such stagey hamming as we end up seeing here (and nowhere else in the film). Finally, a bow should be made toward the supporting cast (especially Holms, Blessed and Scofield), who are splendid. About Scofield: the history books say that Charles VI was subject to migraine headaches and fits of depression, and that due to the absolutist nature of the French state, the whole mechanism of government ground to a halt when the King was suffering in this way. Scofield's brilliant performance shows that there is no such thing as a minor role. I don't know what one of the IMDb reviewers means by the complaint that Emma Thompson as Princess Katherine \"looks too English.\" She's great in her \"Le foutre et le con\" scene.",
+         "When this film came to my town, I had never heard of Kenneth Branagh (or indeed several others in the cast whom I have now come to respect immensely); however, I went with high hopes. From the first scenes on, I found my optimism rewarded. I was impressed with the acting, the staging, and everything else. But something kept nagging at me. It wasn't until Mountjoy (the French herald) entered Henry's throne room that I realized what was impressing me so much. THEY WERE WEARING THE RIGHT CLOTHES FOR 1415! That kind of attention to detail shows throughout, and makes what would otherwise be an exceptional effort even more superlative. Also, while I am a great fan of Laurence Olivier, I still feel that in this performance Branagh IS Henry. A truly masterful effort!"
+      ],
+      "genres": [
+         "Action",
+         "Biography",
+         "Drama",
+         "History",
+         "Romance",
+         "War"
+      ],
+      "productionCompanies": [
+         "Renaissance Films",
+         "British Broadcasting Corporation (BBC)",
+         "Curzon Film Distributors"
+      ],
+      "summaries": [
+         "King Henry V of England is insulted by the King of France. As a result, he leads his army into battle against France. Along the way, the young king must struggle with the sinking morale of his troops and his own inner doubts. The war culminates at the bloody Battle of Agincourt.",
+         "Young King Henry of England invades France in order to claim his right to a kingdom and to the daughter of the King of France in this second film adaptation of the Shakespeare play. Henry's small but embattled army meet the French forces on the field of Agincourt.",
+         "The still young king of England, intending to tax the english church, is sent off to war by the bishops to enforce the (doubtful) claim to France. The King, thus sure of devine blessing for his cause, wages war on the French all too proud in overpowing strength. After the Battle of Agincourt, the French King has to yield his daughter as a peace offering. In a bitter satire, this political marriage is then portrayed as the happy ending joining the two recent lovers.",
+         "The gritty adaption of William Shakespeare's play about the English King's bloody conquest of France."
+      ],
+      "budget": 9000000
+   },
+   "movielensId": 1224,
+   "movielens": {
+      "languages": [
+         "English",
+         "Français"
+      ],
+      "releaseDate": "1989-10-05",
+      "dvdReleaseDate": "2000-07-18",
+      "directors": ["Kenneth Branagh"],
+      "runtime": 137,
+      "movieId": 1224,
+      "title": "Henry V",
+      "mpaa": "",
+      "actors": [
+         "Kenneth Branagh",
+         "Derek Jacobi",
+         "Brian Blessed",
+         "James Larkin",
+         "Paul Scofield",
+         "Emma Thompson",
+         "Judi Dench",
+         "Simon Shepherd",
+         "James Simmons",
+         "Charles Kay",
+         "Alec McCowen",
+         "Fabian Cartwright",
+         "Stephen Simms",
+         "Jay Villiers",
+         "Ian Holm",
+         "Danny Webb",
+         "Michael Williams",
+         "Jimmy Yuill",
+         "Paul Gregory",
+         "Edward Jewesbury",
+         "John Sessions",
+         "Shaun Prendergast",
+         "Richard Briers",
+         "Robbie Coltrane",
+         "Christian Bale",
+         "Geraldine McEwan",
+         "Michael Maloney",
+         "Richard Clifford",
+         "David Parfitt",
+         "Christopher Ravenscroft"
+      ],
+      "imdbMovieId": "0097499",
+      "originalTitle": "Henry V",
+      "genres": [
+         "War",
+         "Drama",
+         "History",
+         "Action",
+         "Romance"
+      ],
+      "youtubeTrailerIds": ["K_xaHuelVj8"],
+      "plotSummary": "Gritty adaption of William Shakespeare's play about the English King's bloody conquest of France.",
+      "tmdbMovieId": 10705,
+      "avgRating": 4.09213,
+      "releaseYear": "1989",
+      "numRatings": 4933,
+      "posterPath": "/lGvLBxPDSqBbrvZBmbKFEi91QDo.jpg"
+   }
+}

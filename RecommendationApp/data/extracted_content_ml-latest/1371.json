@@ -1,0 +1,557 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "artificial intelligence",
+            "id": 310
+         },
+         {
+            "name": "uss enterprise",
+            "id": 504
+         },
+         {
+            "name": "starfleet",
+            "id": 505
+         },
+         {
+            "name": "san francisco",
+            "id": 582
+         },
+         {
+            "name": "self sacrifice",
+            "id": 1430
+         },
+         {
+            "name": "spacecraft",
+            "id": 1612
+         },
+         {
+            "name": "klingon",
+            "id": 155211
+         },
+         {
+            "name": "vulcan",
+            "id": 155212
+         },
+         {
+            "name": "space opera",
+            "id": 161176
+         }
+      ],
+      "imdb_id": "tt0079945",
+      "video": false,
+      "title": "Star Trek: The Motion Picture",
+      "recommendations": [
+         157,
+         174,
+         172,
+         168,
+         154,
+         193,
+         200,
+         201,
+         199,
+         8536,
+         865,
+         926,
+         11884,
+         2157,
+         4437,
+         97,
+         10803,
+         700,
+         698,
+         9531
+      ],
+      "backdrop_path": "/w9iSKX1GSlaPPASW7jSFkFkkDnz.jpg",
+      "revenue": 139000000,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 5,
+               "character": "Captain James T. Kirk",
+               "gender": 2,
+               "credit_id": "52fe421fc3a36847f8005a69",
+               "name": "William Shatner",
+               "profile_path": "/4byp8PsbRkC3UQVuvMAh4bcj7E2.jpg",
+               "id": 1748,
+               "order": 0
+            },
+            {
+               "cast_id": 6,
+               "character": "Mr. Spock",
+               "gender": 2,
+               "credit_id": "52fe421fc3a36847f8005a6d",
+               "name": "Leonard Nimoy",
+               "profile_path": "/rTQulQ5WMehA3SSBnGTmayTsF0m.jpg",
+               "id": 1749,
+               "order": 1
+            },
+            {
+               "cast_id": 7,
+               "character": "Dr. Leonard McCoy",
+               "gender": 0,
+               "credit_id": "52fe421fc3a36847f8005a71",
+               "name": "DeForest Kelley",
+               "profile_path": "/fUL1BY8XjLsQihueDD1UUAm0Qy6.jpg",
+               "id": 1750,
+               "order": 2
+            },
+            {
+               "cast_id": 8,
+               "character": "Montgomery Scott",
+               "gender": 2,
+               "credit_id": "52fe421fc3a36847f8005a75",
+               "name": "James Doohan",
+               "profile_path": "/um8EusLMoUzId8mbfhIXx0J3M82.jpg",
+               "id": 1751,
+               "order": 3
+            },
+            {
+               "cast_id": 9,
+               "character": "Lt. Cmdr. Hikaru Sulu",
+               "gender": 2,
+               "credit_id": "52fe421fc3a36847f8005a79",
+               "name": "George Takei",
+               "profile_path": "/5eBSvAPy6DnWsMX61IlJyjUzCRJ.jpg",
+               "id": 1752,
+               "order": 4
+            },
+            {
+               "cast_id": 11,
+               "character": "Lt. Pavel Chekov",
+               "gender": 2,
+               "credit_id": "52fe421fc3a36847f8005a81",
+               "name": "Walter Koenig",
+               "profile_path": "/itlUSqOqCBH8v4ECM9jGysqMIDz.jpg",
+               "id": 1754,
+               "order": 5
+            },
+            {
+               "cast_id": 10,
+               "character": "Lt. Cmdr. Uhura",
+               "gender": 1,
+               "credit_id": "52fe421fc3a36847f8005a7d",
+               "name": "Nichelle Nichols",
+               "profile_path": "/1p5EIwiyFBxjs5e8a6AzPRzy1JL.jpg",
+               "id": 1753,
+               "order": 6
+            },
+            {
+               "cast_id": 12,
+               "character": "Dr. Christine Chapel",
+               "gender": 1,
+               "credit_id": "52fe421fc3a36847f8005a85",
+               "name": "Majel Barrett",
+               "profile_path": "/6esZeIlIdrCnoGkAggRAJ8FWs7Z.jpg",
+               "id": 1755,
+               "order": 7
+            },
+            {
+               "cast_id": 14,
+               "character": "Lieutenant Ilia",
+               "gender": 1,
+               "credit_id": "52fe421fc3a36847f8005a8d",
+               "name": "Persis Khambatta",
+               "profile_path": "/fpXboRL524smwVeEtOBSKx62Gz3.jpg",
+               "id": 1757,
+               "order": 8
+            },
+            {
+               "cast_id": 13,
+               "character": "Capt./Cmdr. Willard Decker",
+               "gender": 2,
+               "credit_id": "52fe421fc3a36847f8005a89",
+               "name": "Stephen Collins",
+               "profile_path": "/lVcwUavnFQOpIEBgF0BMJXQ8D4Y.jpg",
+               "id": 1756,
+               "order": 9
+            },
+            {
+               "cast_id": 15,
+               "character": "CPO Janice Rand",
+               "gender": 1,
+               "credit_id": "52fe421fc3a36847f8005a91",
+               "name": "Grace Lee Whitney",
+               "profile_path": "/h1uisJQaVHhNCYqvxgx3VevGNtA.jpg",
+               "id": 1759,
+               "order": 10
+            },
+            {
+               "cast_id": 28,
+               "character": "Klingon Captain",
+               "gender": 2,
+               "credit_id": "52fe421fc3a36847f8005add",
+               "name": "Mark Lenard",
+               "profile_path": "/sROqIxtLAUlK0BhbmNwRfCyPXrY.jpg",
+               "id": 1820,
+               "order": 11
+            },
+            {
+               "cast_id": 29,
+               "character": "Alien Boy",
+               "gender": 2,
+               "credit_id": "52fe421fc3a36847f8005ae1",
+               "name": "Billy Van Zandt",
+               "profile_path": "/14Pk9JIIjNdu0d3vxBWsBRzjrSy.jpg",
+               "id": 168423,
+               "order": 12
+            },
+            {
+               "cast_id": 30,
+               "character": "Epsilon Technician",
+               "gender": 2,
+               "credit_id": "52fe421fc3a36847f8005ae5",
+               "name": "Roger Aaron Brown",
+               "profile_path": "/mQ2mEx7EteO2zdOFUzu1shDi7E.jpg",
+               "id": 44054,
+               "order": 13
+            },
+            {
+               "cast_id": 31,
+               "character": "Airlock Technician",
+               "gender": 0,
+               "credit_id": "52fe421fc3a36847f8005ae9",
+               "name": "Gary Faga",
+               "profile_path": null,
+               "id": 178145,
+               "order": 14
+            },
+            {
+               "cast_id": 32,
+               "character": "Crew Member",
+               "gender": 2,
+               "credit_id": "52fe421fc3a36847f8005aed",
+               "name": "Franklyn Seales",
+               "profile_path": null,
+               "id": 72658,
+               "order": 15
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe421fc3a36847f8005a53",
+               "name": "Robert Wise",
+               "profile_path": "/6EPkRgYsDMQOYmE9s1vZt2O470R.jpg",
+               "id": 1744,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe421fc3a36847f8005a59",
+               "name": "Gene Roddenberry",
+               "profile_path": "/9WMyiCTdtBEdx1JUCavoFiDl7wd.jpg",
+               "id": 1745,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe421fc3a36847f8005a97",
+               "name": "Jerry Goldsmith",
+               "profile_path": "/e6sd10VuwFXkgRFrCTCygbhMq2q.jpg",
+               "id": 1760,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe421fc3a36847f8005a9d",
+               "name": "Alexander Courage",
+               "profile_path": null,
+               "id": 1761,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe421fc3a36847f8005aa3",
+               "name": "Richard H. Kline",
+               "profile_path": "/1b9iffgT1rS9ff2erVOaPhVowW8.jpg",
+               "id": 1762,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe421fc3a36847f8005aa9",
+               "name": "Harold Michelson",
+               "profile_path": null,
+               "id": 1765,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe421fc3a36847f8005aaf",
+               "name": "Todd C. Ramsay",
+               "profile_path": null,
+               "id": 1767,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe421fc3a36847f8005ab5",
+               "name": "Marvin Paige",
+               "profile_path": null,
+               "id": 1768,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe421fc3a36847f8005abb",
+               "name": "Jon Povill",
+               "profile_path": null,
+               "id": 16252,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe421fc3a36847f8005ac1",
+               "name": "Leon Harris",
+               "profile_path": null,
+               "id": 1763,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe421fc3a36847f8005ac7",
+               "name": "Joseph R. Jennings",
+               "profile_path": null,
+               "id": 1802,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe421fc3a36847f8005acd",
+               "name": "John Vallone",
+               "profile_path": null,
+               "id": 1096,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe421fc3a36847f8005ad3",
+               "name": "Linda DeScenna",
+               "profile_path": null,
+               "id": 602,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe421fc3a36847f8005ad9",
+               "name": "Robert Fletcher",
+               "profile_path": null,
+               "id": 1801,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe421fc3a36847f8005af3",
+               "name": "Ve Neill",
+               "profile_path": "/gNYwxuK5Z7Nr3tWtSWv0qAueUIs.jpg",
+               "id": 406204,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "57774126c3a36870c70000a4",
+               "name": "Harold Livingston",
+               "profile_path": null,
+               "id": 1747,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5777413092514110ec0004e9",
+               "name": "Alan Dean Foster",
+               "profile_path": null,
+               "id": 1746,
+               "department": "Writing",
+               "job": "Story"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Science Fiction",
+            "id": 878
+         },
+         {
+            "name": "Adventure",
+            "id": 12
+         },
+         {
+            "name": "Mystery",
+            "id": 9648
+         }
+      ],
+      "popularity": 9.907692,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 152,
+      "vote_count": 655,
+      "budget": 35000000,
+      "overview": "When a destructive space entity is spotted approaching Earth, Admiral Kirk resumes command of the Starship Enterprise in order to intercept, examine, and hopefully stop it.",
+      "similar": [
+         172,
+         1892,
+         1894,
+         13475,
+         11,
+         330459,
+         201,
+         168,
+         1891,
+         1895,
+         54138,
+         140607,
+         603,
+         534,
+         199,
+         174,
+         154,
+         74849,
+         55233,
+         130691
+      ],
+      "original_title": "Star Trek: The Motion Picture",
+      "runtime": 132,
+      "poster_path": "/ys5Sgpc27mVo3H5zYLPV9LWDq5.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
+         "name": "Paramount",
+         "id": 4,
+         "origin_country": "US"
+      }],
+      "release_date": "1979-12-06",
+      "vote_average": 6.3,
+      "belongs_to_collection": {
+         "backdrop_path": "/9BQj9hq0aK6yM9Tm2NJ28jg572y.jpg",
+         "name": "Star Trek: The Original Series Collection",
+         "id": 151,
+         "poster_path": "/zcB8KxHA4EapOoZZPAvwgmE1iGK.jpg"
+      },
+      "tagline": "The human adventure is just beginning.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Robert Wise"],
+      "runtime": 132,
+      "synopsis": "In Klingon space, three Klingon battle cruisers encounter a huge cloud-like anomaly. On the bridge of one of the ships, the captain (Mark Lenard) orders his crew to fire torpedoes at it, but they have no effect. The ships take evasive action. Meanwhile, in Federation space, a monitoring station, Epsilon 9, picks up a distress signal from one of the Klingon ships. As the three ships are attempting to escape the cloud, energy beams shoot out and engulf each ship one by one, and they vanish. On Epsilon 9, the crew tracks the course of the cloud and discovers that it is headed for Earth. On Vulcan, Spock (Leonard Nimoy) has been undergoing the kohlinahr ritual, in which he has been learning how to purge all of his emotions, and is nearly finished with his training. A female Vulcan Master (Edna Glover), surrounded by two men, is about to give him an ornate necklace as a symbol of pure logic, when Spock holds out his hand to stop her. Confused, she mind-melds with him and senses a consciousness calling to him from space that is affecting his human side. She drops the necklace. \"You have not yet achieved kohlinahr. You must look elsewhere for your answer,\" she says as they leave Spock. \"You will not find it here.\" In San Francisco, Admiral James T. Kirk (William Shatner) arrives at Starfleet Headquarters in a shuttlecraft. He sees Commander Sonak (Jon Rashad Kamal), a Vulcan science officer who is joining the Enterprise crew and recommended for the position by Kirk himself. Kirk is bothered as to why Sonak is not on board yet. Sonak explains that Captain Willard Decker (Stephen Collins), the new captain of the Enterprise, wanted him to complete his science briefing at Headquarters before they left on their mission. The Enterprise has been undergoing a complete \"refitting\" for the past 18 months and is now under final preparations to leave, which would take at least 20 hours, but Kirk informs him that they only have 12. He tells Sonak to report to him on the Enterprise in one hour; he has a short meeting with Admiral Nogura and is intent on being on the ship. Kirk transports to an office complex orbiting Earth and meets Montgomery Scott (James Doohan), the Enterprise's chief engineer. Scotty expresses his concern about the tight departure time. The cloud is less than three days away from Earth, and the Enterprise has been ordered to intercept it because they are the only ship in range. Scotty says that the refit can't be finished in 12 hours, and tries to convince him that the ship needs more work done as well as a shakedown cruise. Kirk insists that they are leaving, ready or not. They board a travel pod and begin the journey over to the drydock in orbit that houses the Enterprise. Scotty tells Kirk that the crew hasn't had enough transition time with all the new equipment and that the engines haven't even been tested at warp power, not to mention that they have an untried captain. Kirk tells Scotty that two and a half years as Chief of Starfleet Operations may have made him a little stale, but that he wouldn't exactly consider himself untried. Kirk then tells a surprised Scotty that Starfleet gave him back his command of the Enterprise. Scotty doubts it, saying that he doesn't think it was that easy with Admiral Nogura, who gave Kirk his orders. They arrive at the Enterprise, and Scotty indulges Kirk with a brief tour of the new exterior of the ship. Upon docking with the ship, Scotty is summoned to Engineering. Kirk goes up to the bridge, and is informed by Lt. Uhura (Nichelle Nichols) that Starfleet has just transferred command from Captain Decker over to him. Kirk finds Decker in engineering, whom is visibly upset when Kirk breaks the news that he is assuming command, but recognizes it is necessary because Kirk has more experience. Decker will remain on the ship as 2nd officer. As Decker storms off, an alarm sounds. Someone is trying to beam over to the ship, but the transporter is malfunctioning. Kirk and Scotty race to the transporter room. Transporter operator Janice Rand (Grace Lee Whitney) is frantically trying to tell Starfleet to abort the transport, but it is too late. Commander Sonak and an unknown female officer are beaming in, but their bodies aren't re-forming properly in the beam. The female officer screams, and then their bodies disappear. Starfleet signals to them that they have died. Kirk tells Starfleet to express his sympathies to their families. In the corridor, Kirk sees Decker and tells him they will have to replace Commander Sonak and wants another Vulcan. Decker tells him that no one is available that is familiar with the ship's new design. Kirk tells Decker he will have to double his duties as science officer as well. In the recreation room, as Kirk briefs the assembled crew on the mission, they receive a transmission from Epsilon 9. Commander Branch (David Gautreaux) tells them they have analyzed the mysterious cloud. It generates an immense amount of energy and measures 2 A.U.s (300 million km) in diameter. There is also a vessel of some kind in the center. They've tried to communicate with it and have performed scans, but the cloud reflects them back. It seems to think of the scans as hostile and attacks them. Like the Klingon ships earlier, Epsilon 9 disappears. Later on the bridge, Uhura informs Kirk that the transporter is working now. Lt. Ilia, (Persis Khambatta), a bald being from the planet Delta IV, arrives. Decker is happy to see her, as they developed a romantic relationship when he was assigned to her planet several years earlier. Ilia is curious about Decker's reduction in rank and Kirk interrupts and tells her about Decker being the executive and science officer. Decker tells her, with slight sarcasm, that Kirk has the utmost confidence in him. Ilia tells Kirk that her oath of celibacy is on record and asks permission to assume her duties. Uhura tells Kirk that one of the last few crew members to arrive is refusing to beam up. Kirk goes to the transporter room to ensure that \"he\" beams up. Kirk tells Starfleet to beam the officer aboard. Dr. Leonard \"Bones\" McCoy (DeForest Kelley) materializes on the platform. McCoy is angry that his Starfleet commission was reactivated and that it was Kirk's idea for him to be brought along on the mission. His attitude changes, however, when Kirk says he desperately needs him. McCoy leaves to check out the new sickbay. The crew finishes its repairs and the Enterprise leaves drydock and into the solar system. Dr. McCoy comes up to the bridge and complains that the new sickbay is nothing but a computer center. Kirk is anxious to intercept the cloud intruder, and orders Hikaru Sulu (George Takei) to go to warp speed. Suddenly, the ship enters a wormhole, which was created by an engine imbalance, and is about to collide with an asteroid that has been pulled inside. Kirk orders the phasers to be fired on it, but Decker tells Pavel Chekov (Walter Koenig) to fire photon torpedoes instead. The asteroid is destroyed and the wormhole vanishes0. Annoyed, Kirk wants to meet with Decker in his quarters. Dr. McCoy decides to go along. Kirk demands an explanation from Decker. Decker pointed out that the redesigned Enterprise channeled the phasers through the main engines and because they were imbalanced, the phasers were cut off. Kirk acknowledged that he had saved the ship; however, he accuses Decker of competing with him. Decker tells Kirk that, because of his unfamiliarity with the ship's new design, the mission is in jeopardy. Decker tells Kirk that he will gladly help Kirk understand the new design. Kirk then dismisses him from the room. In the corridor, Decker runs into Ilia. Ilia asked if the confrontation was difficult, and he tells her that it was about as difficult as seeing her again, and apologizes. She asked if he was sorry for leaving Delta IV, or for not saying goodbye. He said that if he had seen her again, would she be able to say goodbye? She says \"no,\" and walked around him and entered her quarters nearby. Back in Kirk's quarters, McCoy accuses Kirk of being the one who was competing, and the fact that it was Kirk who used the emergency to pressure Starfleet into letting him get command of the Enterprise. McCoy thinks that Kirk is obsessed with keeping his command. On Kirk's console viewscreen, Uhura informs Kirk that a shuttlecraft is approaching and that the occupant wishes to dock. Chekov also pipes in and replies that it appears to be a courier vessel. Kirk tells Chekov to handle the situation. The shuttle approaches the Enterprise from behind, and the top portion of it detaches and docks at an airlock behind the bridge. Chekov is waiting by the airlock doors and is surprised to see Spock come aboard. Moments later, Spock arrives on the bridge, and everyone is shocked and pleased to see him, yet Spock ignores them. He moves over to the science station and tells Kirk that he is aware of the crisis and knows about the ship's engine design difficulties. He offers to step in as the science officer. McCoy and Dr. Christine Chapel (Majel Barret Roddenberry) come to the bridge to greet Spock, but Spock just stares alarmingly at their emotional outburst. Spock leaves to discuss fuel equations with Scotty in engineering. With Spock's assistance, the engines are now rebalanced for full warp capacity. The ship successfully goes to warp to intercept the cloud. In the officers lounge, Spock meets with Kirk and McCoy. They discuss Spock's kohlinahr training on Vulcan, and how Spock broke off from his training to join them. Spock describes how he sensed the consciousness of the intruder, from a source more powerful that he has ever encountered, with perfect, logical thought patterns. He believes that it holds the answers he seeks. Uhura tells Kirk over the intercom that they have visual contact with the intruder. The cloud scans the ship, but Kirk orders no return scans. Spock determines that the scans are coming from the center of the cloud. Uhura tries sending \"linguacode\" messages, but there is no response. Decker suggests raising the shields for protection, but Kirk determines that that might be considered hostile to the cloud. Spock analyzes the clouds composition, and discovers it has a 12-power energy field, the equivalent of power generated by thousands of starships. Sitting at the science station, Spock awakens from a brief trance. He reveals to Kirk that the alien was communicating with him. The alien is puzzled; it contacted the Enterprise--why has the Enterprise not replied? A red alert sounds, and an energy beam from within the cloud touches the ship, and begins to overload the ship's systems. Bolts of lightning surround the warp core and nearly injure some engineering officers, and Chekov is also hurt--his hand is burned while sitting at the weapons station on the bridge. The energy beam then disappears. A medical team is summoned to the bridge, and Ilia is able to use her telepathic powers to soothe Chekov's pain. Spock confirms to Kirk that the alien has been attempting to communicate. It communicates at a frequency of more than one million megahertz, and at such a high rate of speed, the message only lasts a millisecond. Spock programs to computer to send linguacode messages at that frequency. Another energy beam is sent out, but Spock transmits a message just in time, and the beam disappears. The ship continues on course through the cloud. They pass through many expansive and colorful cloud layers and upon clearing these, a giant vessel is revealed. It is roughly cylindrical in shape, with large spikes jutting out from the surface at equidistant angles between each other, forming a hexagonal shape. Kirk tells Uhura to transmit an image of the alien to Starfleet, but she explains that any transmission sent out of the cloud is being reflected back to them. Kirk orders Sulu to fly above and along the top of the vessel. The Enterprise is so small compared to the size of the alien vessel that it appears only as a little white dot next to it. The ship travels past many oddly-shaped structures, including a sunken area where the energy beams originate. An alarm sounds, and yet another energy bolt approaches the ship. It appears on the bridge as a column of bright light that emits a very loud noise. The crew struggles to shield their eyes from its brilliant glow. Chekov asks Spock if it is one of the alien's crew, and Spock replies that it is a probe sent from the vessel. The probe slowly moves around the room and stops in front of the science station. Bolts of lightning shoot out from it and surround the console--it is trying to access the ship's computer. Spock manages to smash the controls to prevent further access, and the probe gives him an electric shock that sends him rolling onto the floor. The probe approaches the helm/navigation console and it scans Lt. Ilia. Suddenly, she vanishes, along with the probe. Ahead of the ship looms another giant section of the vessel. A tractor beam is drawing the Enterprise toward an opening aperture. Decker calls for Chief DiFalco (Marcy Lafferty) to come up to the bridge as Ilia's replacement. The ship travels deep into the next chamber. Decker wonders why they were brought inside--they could have been easily destroyed outside. Spock deduces that the alien is curious about them. Uhura's monitor shows that the aperture is closing; they are trapped. The ship is released from the tractor beam and suddenly, an intruder alert goes off. Someone has come aboard the ship and is in the crew quarters section. Kirk and Spock arrive inside a crewman's quarters to discover that the intruder is inside the sonic shower. It is revealed to be Ilia, although it isn't really her--there is a small red device attached to her neck. In a mechanized voice, she replies \"You are the Kirk unit--you will listen to me.\" She explains that she has been programmed by an entity called \"V'Ger\" to observe and record the normal functions of the carbon-based units (humans) \"infesting\" the Enterprise. Kirk opens the shower door and \"Ilia\" steps out, wearing a small white garment that just materialized around her. Dr. McCoy and a security officer enter the room, and Kirk tells McCoy to scan her with a tricorder. Kirk asks her who V'Ger is. She replies \"V'Ger is that which programmed me.\" McCoy tells Kirk that Ilia is a mechanism and Spock confirms she is a probe that assumed Ilia's physical form. Kirk asks where the real Ilia is, and the probe states that \"that unit\" no longer functions. Kirk also asks why V'Ger is traveling to Earth, and the probe answers that it wishes to find the Creator, join with him, and become one with it. Spock suggests that McCoy perform a complete examination of the probe. In sickbay, the Ilia probe lays on a diagnostic table, its sensors slowly taking readings. All normal body functions, down to the microscopic level, are exactly duplicated by the probe. Decker arrives and is stunned to see her there. She looks up at him and addresses him as \"Decker\", rather than \"Decker unit,\" which intrigues Spock. Spock talks with Kirk and Decker in an adjoining room, and Spock locks the door. Spock theorizes that the real Ilia's memories and feelings have been duplicated by the probe as well as her body. Decker is angry that the probe killed Ilia, but Kirk convinces him that their only contact with the vessel is through the probe, and they need to use that advantage to find out more about the alien. Suddenly, the probe bursts through the door, and demands that Kirk assist her with her observations. He tells her that Decker will do it with more efficiency. Decker and Ilia are seen walking around in the recreation room. He shows her pictures of previous ships that were named Enterprise. Decker has been trying to see if Ilia's memories or emotions can resurface, but to no avail. Kirk and McCoy are observing them covertly on a monitor from his quarters. Decker shows her a game that the crew enjoys playing. She is not interested and states that recreation and enjoyment has no meaning to her programming. At another game, which Ilia enjoyed and nearly always won, they both press one of their hands down onto a table to play it. The table lights up, indicating she won the game, and she gazes into Deckers eyes. This moment of emotion ends suddenly, and she returns to normal. \"This device serves no purpose.\" \"Why does the Enterprise require the presence of carbon units?\" she asks. Decker tells her the ship couldn't function without them. She tells him that more information is needed before the crew can be patterned for data storage. Horrified, he asks her what this means. \"When my examination is complete, all carbon units will be reduced to data patterns.\" He tells her that within her are the memory patterns of a certain carbon unit. He convinces her to let him help her revive those patterns so that she can understand their functions better. She allows him to proceed. Spock slowly enters an airlock room. He sees an officer standing at a console, his back to Spock. Spock quietly approaches him, and gives him the Vulcan nerve pinch to render him unconscious. Decker, the probe, Dr. McCoy, and Dr. Chapel are in Ilia's quarters. Dr. Chapel gives the probe a decorative headband that Ilia used to wear. Chapel puts it over \"Ilia's\" head and turns her toward a mirror. Decker asks her if she remembers wearing it on Delta IV. The probe shows another moment of emotion, saying Dr. Chapel's name, and putting her hand on Decker's face, calling him Will. Behind them, McCoy reminds Decker that she is a mechanism. Decker asks \"Ilia\" to help them make contact with V'Ger. She says that she can't, and Decker asks her who the Creator is. She says V'Ger does not know. The probe becomes emotionless again and removes the headband. Spock is now outside the ship in a space suit with an attached thruster pack. He begins recording a log entry for Kirk detailing his attempt to contact the alien. He activates a panel on the suit and calculates thruster ignition and acceleration to coincide with the opening of an aperture ahead of him. He hopes to get a better view of the spacecraft interior. Kirk comes up to the bridge and Uhura tells him that Starfleet signals are growing stronger, indicating they are very close to Earth. Starfleet is monitoring the intruder and notifies Uhura that it is slowing down in its approach. Sulu confirms this and says that lunar beacons show the intruder is entering into orbit. Chekov tells Kirk that Airlock 4 has been opened and a thruster suit is missing. Kirk figures out that Spock has done it, and orders Chekov to get Spock back on the ship. He changes his mind, and instead tells him to determine his position. Spock touches a button on his thruster panel and his thruster engine ignites. He is propelled forward rapidly, and enters the next chamber of the vessel just before the aperture closes behind him. The thruster engine shuts down, and the momentum carries Spock ahead further. He disconnects the thruster pack from his suit and it falls away from him. Continuing his log entry, Spock sees an image of what he believes to be V'Gers home planet. He passes through a tunnel filled with crackling plasma energy, possibly a power source for a gigantic imaging system. Next, he sees several more images of planets, moons, stars, and galaxies stored and recorded. Spock theorizes that this may be a visual representation of V'Gers entire journey. \"But who or what are we dealing with?\" he ponders. He sees the Epsilon 9 station, and notes to Kirk that he is convinced that all of what he is seeing is V'Ger; and that they are inside a living machine. Then he sees a giant image of Lt. Ilia with the sensor on her neck. Spock decides it must have some special meaning, so he attempts to mind-meld with it. He is quickly overwhelmed by the multitude of images flooding his mind, and is thrown backward. Kirk is now in a space suit and has exited the ship. The aperture in front of the Enterprise opens, and Spock's unconscious body floats toward him. Later, Dr. Chapel and Dr. McCoy are examining Spock in sickbay. Dr. McCoy performs scans and determines that Spock endured massive neurological trauma from the mind-meld. Spock tells Kirk he should have known and Kirk asks if he was right about V'Ger. Spock calls it a conscious, living entity. Kirk explains that V'Ger considers the Enterprise a living machine and it's why \"Ilia\" refers to the ship as an entity and the crew as an infestation. Spock describes V'Ger's homeworld as a planet populated by living machines with unbelievable technology. But with all that logic and knowledge, V'Ger is barren, with no mystery or meaning. He momentarily lapses into sleep but Kirk rouses him awake to ask what Spock should have known. Spock grasps Kirk's hand and tells him \"This simple feeling is beyond V'Ger's comprehension. No meaning, no hope. And Jim, no answers. It's asking questions. 'Is this all that I am? Is there nothing more?'\" Uhura chimes in and tells Kirk that they are getting a faint signal from Starfleet. The intruder has been on their monitors for a while and the cloud is rapidly dissipating as it approaches. Sulu also comments that the intruder has slowed to sub-warp speed and is three minutes from Earth orbit. Kirk acknowledges and he, McCoy and Spock go up to the bridge. Starfleet sends the Enterprise a tactical report on the intruders position. Uhura tells Kirk that V'Ger is transmitting a signal. Decker and \"Ilia\" come up to the bridge, and she says that V'Ger is signaling the Creator. Spock determines that the transmission is a radio signal. Decker tells Kirk that V'Ger expects an answer, but Kirk doesn't know the question. Then \"Ilia\" says that the Creator has not responded. An energy bolt is released from V'Ger and positions itself above Earth. Chekov reports that all planetary defense systems have just gone inoperative. Several more bolts are released, and they all split apart to form smaller ones and they assume equidistant positions around the planet. McCoy notices that the bolts are the same ones that hit the ship earlier, and Spock says that these are hundreds of times more powerful, and from those positions, they can destroy all life on Earth. \"Why?\" Kirk asks \"Ilia.\" She says that the carbon unit infestation will be removed from the Creator's planet as they are interfering with the Creator's ability to respond and accuses the crew of infesting the Enterprise and interfering in the same manner. Kirk tells \"Ilia\" that carbon units are a natural function of the Creator's planet and they are living things, not infestations. However \"Ilia\" says they are not true life forms like the Creator. McCoy realizes V'Ger must think its creator is a machine. Spock compares V'Ger to a child, and suggests they treat it like one. McCoy retorts that this child is about to wipe out every living thing on Earth. To get \"Ilia's\" attention, Kirk says that the carbon units know why the Creator hasn't responded. The Ilia probe demands that the Creator \"disclose the information.\" Kirk won't do it until V'Ger withdraws all the orbiting devices. In response to this, V'Ger cuts off the ship's communications with Starfleet. She tells him again to disclose the information. He refuses, and a plasma energy attack shakes the ship. McCoy tells Spock that the child is having a \"tantrum.\" Kirk tells the probe that if V'Ger destroys the Enterprise, then the information it needs will also be destroyed. Ilia says that it is illogical to withhold the required information, and asks him why he won't disclose it. Kirk explains it is because V'Ger is going to destroy all life on Earth. \"Ilia\" says that they have oppressed the Creator, and Kirk makes it clear he will not disclose anything. V'Ger needs the information, says \"Ilia.\" Kirk says that V'Ger will have to withdraw all the orbiting devices. \"Ilia\" says that V'Ger will comply, if the carbon units give the information. Spock tells Kirk that V'Ger must have a central brain complex. Kirk theorizes that the orbiting devices are controlled from there. Kirk tells \"Ilia\" that the information cant be disclosed to V'Ger's probe, but only to V'Ger itself. \"Ilia\" stares at the viewscreen, and, in response, the aperture opens and drags the ship forward with a tractor beam into the next chamber. Chekov tells Kirk that the energy bolts will reach their final positions and activate in 27 minutes. Kirk calls to Scotty on the intercom and tells him to stand by to execute Starfleet Order 2005; the self-destruct command. A female crewmember asks Scotty why Kirk ordered self-destruct, and Scotty tells her that Kirk hopes that when they explode, so will the intruder. The countdown is now down to 18 minutes. DiFalco reports that they have traveled 17 kilometers inside the vessel. Kirk goes over to Spock's station, and sees that Spock has been crying. \"Not for us,\" Kirk realizes. Spock tells him he is crying for V'Ger, and that he weeps for V'Ger as he would for a brother. As he was when he came aboard the Enterprise, so is V'Ger now--empty, incomplete, and searching. Logic and knowledge are not enough. McCoy realizes Spock has found what he needed, but that V'Ger hasn't. Decker wonders what V'Ger would need to fulfill itself. Spock comments that each one of us, at some point in our lives asks, \"Why am I here?\" \"What was I meant to be?\" V'Ger hopes to touch its Creator and find those answers. DiFalco directs Kirk's attention to the viewscreen. Ahead of them is a structure with a bright light. Sulu reports that forward motion has stopped. Chekov replies that an oxygen/gravity envelope has formed outside of the ship. \"Ilia\" points to the structure on the screen and identifies it as V'Ger. Uhura has located the source of the radio signal and it is straight ahead. A passageway forms outside the ship as Kirk Spock, McCoy, Decker, and \"Ilia\" enter a turbolift. The landing party exits an airlock on the top of the saucer section and walks up the passageway. At the end of the path is a concave structure, and in the center of it is an old NASA probe from three centuries earlier. Kirk tries to rub away the soot on the nameplate and makes out the letters V G E R. He continues to rub away more of the residue, and discovers that the craft is actually Voyager 6. Kirk recalls the history of the Voyager program--it was designed to collect data and transmit it back to Earth. Decker tells Kirk that Voyager 6 disappeared through a black hole. Kirk says that it must have emerged on the far side of the galaxy and got caught in the machine planet's gravity. Spock theorizes that the planet's inhabitants found the probe to be one of their own kind--primitive, yet kindred. They discovered the probe's 20th century programming, which was to collect data and return that information to its creator. The machines interpreted that instruction literally, and constructed the entire vessel so that Voyager could fulfill its programming. Kirk continues by saying that on its journey back, it amassed so much knowledge that it gained its own consciousness. \"Ilia\" tells Kirk that V'Ger awaits the information. Kirk calls Uhura on his communicator and tells her to find information on the probe in the ship's computer, specifically the NASA code signal, which will allow the probe to transmit its data. Decker realizes that that is what the probe was signaling--it's ready to transmit everything. Kirk then says that there is no one on Earth who recognizes the old-style signal--the Creator does not answer. Kirk calls out to V'Ger and says that they are the Creator. \"Ilia\" says that is not logical--carbon units are not true life forms. Kirk says they will prove it by allowing V'Ger to complete its programming. Uhura calls Kirk on his communicator and tells him she has retrieved the code. Kirk tells her to set the Enterprise transmitter to the code frequency and to transmit the signal. Decker reads off the numerical code on his tricorder, and is about to read the final sequence, but Voyager's circuitry burns out, an effort by V'Ger itself to prevent the last part of the code from being transmitted. \"Ilia\" says that the Creator must join with V'Ger, and turns toward Decker. McCoy warns Kirk that they only have 10 minutes left. Decker figures out that V'Ger wanted to bring the Creator here and transmit the code in person. Spock tells Kirk that V'Ger's knowledge has reached the limits of the universe and it must evolve. Kirk says that V'Ger needs a human quality in order to evolve. Decker thinks that V'Ger joining with the Creator will accomplish that. He then goes over to the damaged circuitry and fixes the wires so he can manually enter the rest of the code through the ground test computer. Kirk tries to stop him, but \"Ilia\" tosses him aside. Decker tells Kirk that he wants this as much as Kirk wanted the Enterprise. Suddenly, a bright light forms around Decker's body. \"Ilia\" moves over to him, and the light encompasses them both as they merge together. Their bodies disappear, and the light expands and begins to consume the area. Kirk, Spock, and McCoy retreat back to the Enterprise. V'Ger explodes, leaving the Enterprise above Earth, unharmed. On the bridge, Kirk wonders if they just saw the beginning of a new life form, and Spock says yes and that it is possibly the next step in their evolution. McCoy says that its been a while since he \"delivered\" a baby, and hopes that they got this one off to a good start. Uhura tells Kirk that Starfleet is requesting the ship's damage and injury reports and vessel status. Kirk reports that there were only two casualties: Lt. Ilia and Captain Decker. He quickly corrects his statement and changes their status to \"missing.\" Vessel status: fully operational. Scotty comes on the bridge and agrees with Kirk that it's time to give the Enterprise a proper shakedown. When Scotty offers to have Spock back on Vulcan in four days, Spock says that's unnecessary, as his task on Vulcan is completed. Kirk tells Sulu to proceed ahead at warp factor one. When DiFalco asks for a heading, Kirk simply says \"Out there, thataway.\" With that, the Enterprise flies overhead and engages warp drive.",
+      "writers": [
+         "Gene Roddenberry",
+         "Harold Livingston"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0079945/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BNzE4MTY1MTMyN15BMl5BanBnXkFtZTcwMzk5MzI4OA@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: William Shatner, Leonard Nimoy, DeForest Kelley | See full cast and crew »"],
+      "reviews": [
+         "Star Trek: The Motion Picture is the first film in the Star Trek series, the most successful series in movie history. After all, the fact that a movie series can hold the public's interest for 21 years (and nine films) and that the whole Star Trek concept is alive and well after over 30 years says something about the genius of Gene Roddenberry, Star Trek's creator. People seem to cricitize this film heavily. Some of the criticisms of the film that I have heard in my discussions with people include phrases such as \"frightfully boring,\" \"way too long,\" and \"chronically lacking in action.\" However, if that is all you saw in the film, then you clearly missed out on the film's beauty. This film is not about guns, explosions, blood, or machismo. It is about the philosophical relationship between logic and emotion. The film is masterfully directed by Robert Wise, the academy award winning director of \"The Sound of Music.\" The film reunites the original cast of the Star Trek series with a few new faces ... Stephen Collins as \"Capt. Decker\" and Persis Khambata as \"Lt. Ilia\". It also recaps the events that have transpired in each original series character since the television series in the late 60's with a sensitivity to newcomers to the Star Trek universe. It effectively introduces newcomers to Star Trek without insulting the intelligence of those of us who are thoroughly familiar with Star Trek. The plot features an intelligent, logical entity that calls itself VGER. VGER is an innocent entity with one mission ... \"learn all that is learnable... transmit that information to the creator.\" VGER in its incredible journey has in essence gained knowledge that spans the very essence of the universe. VGER now has set a course for Earth in an attempt to share its knowledge with its creator. VGER believes that its creator is on Earth. VGER becomes a threat to life on Earth when its destroys three Klignon vessels and a Federation space station with incredible destructive power. To counter this threat, Admiral Kirk takes command of the Enterprise and leads the Enterprise in an intriguing battle with this alien entity. While battling this alien entity, Admiral Kirk, Spock, and the rest of the crew learn about the relationship between human logic and emotion. They explore philosophical issues such as \"Is this all that I am?\" and \"Is there nothing more?\". I believe Spock summarizes the quest for answers to these questions by his statement about two-thirds of the way into the film that indicates that \"logic alone is not enough\". They eventually learn to appreciate the unique attributes that make us human ... \"our weaknesses ... and the drive that compels us to overcome them.\" In conclusion, this film has a great plot, great special effects, and excellent music and cinematography. Definitely see it if you are truly interested in taking a philosophical journey into the essence of what makes us human.",
+         "It's amazing how many Trekkies I meet describe Star Trek the Motion Picture as \"A good sci-fi film, but an awful Star Trek movie.\"....And that's when they're feeling generous! This statement can't be farther from the truth. The story is well written and director Robert Wise makes the characters believable. The movie is not filled with the goofy jokes and ridiculous Shatner back-flip fight scenes that some Trekkies seem to enjoy. Instead, the battle with the mysterious alien entity reveals the dynamics and inner conflicts of the crew. Spock realizes that pure logic alone cannot answer all, but must be coupled with emotion in order to tap into our creative imagination and see the possibilities of our universe. Kirk is portrayed as a daring and brilliant captain, who learns that as a leader he needs to rely on the expertise of those around him. He is a more believable figure who is fallible and struggles to learn from his mistakes. The Enterprise is not envisioned as an easy to fly wonder ship that requires no more than the main Trek cast to run, but as a complex machine that needs precise tuning of components balanced by a crew of hundreds. The scene where Spock and the engineering crew struggle with balancing the mathematical models needed to program the warp engines convey the real dangers of space flight. Additionally, both the visual and audio effects add to the impact of this movie. For a film made in '79, before the advent of believable CGI, the special effects are superb. Believe it or not, I've noticed special effects scenes in Independence Day taken directly from Star Trek:TMP footage (scan the shots of the inside of the mother ship (ID4)when Will Smith is making his escape run). All in all, the ingredients of good character development, believable conflict, and hard science make this movie the true precursor to Star Trek: The Next Generation. Unfortunately, Star Treks III, IV, and V avoid the hard work this movie required and depend on the silly antics of its maturing crew.",
+         "This was an under-rated film in the first version, and it is improved a great deal with the changes that Robert Wise made just a few years before he passed away. There has been a backlash against this picture, mostly for two reasons; it was not Star Wars, and it was not what people expected of Star Trek. If you put these expectations aside, and if you also have some attention span and willingness to relax into a picture this is a remarkable experience. I often here people use words like boring, too long etc. Well yes, if we are expecting a quick-hit, film that can be digested in 90 minutes like a TV show, this is not that type of film. If we apply these standards to Lawrence of Arabia, 2001, Blade Runner, Bridge on the River Kwai, or Citzen Kane (which Robert Wise edited, none of these films would have ever been made. If you put Star Trek The Motion Picture in context of it's scale and the craftsman involved you start to appreciate it's quality and elegance. Robert Wise does not need qualification. He brings an elegance and texture to work and life in space that StarWars has not put to screen to this day. Star Wars even now seems like nothing more than an impressive exercise in effects and sound. It is always reminding us that it is a movie. ST-TMP on other hand departed into an \"immersive experience\" developed by Robert Wise, with the amazing talents of Doug Trumbull and John Dykstra, and the enormous contibutions of Jerry Goldsmith. Likewise, the photography, the scale of the sets and the editing of the film all contribute to a immersive world that saturates the viewer into the film. You gain a lot of knowledge and appreciation of this film and the experience that they achieved by watching the Director's Edition DVD and listening to Wise, Trumbull, Dykstra, Goldsmith and others discuss the production. This was a uniquely creative and enormous effort, and considering the technological limitations, the demands of the studio, and the many demands of the Star Trek Bible that qualified the creation of the movie. I am pleased to see that other reviewers here have come to appreicate this movie many years later. I encourage the skeptics to find the time to relax and watch it on the biggest screen you can find.",
+         "Oooh, a difficult one this. Very difficult indeed. Unless you are particularly patient, or are a hardcore Star Trek fan this is going to take some effort to stick with. It doesn't seem like a Trekkie movie. Nowhere near as much fun as Wrath Of Khan, or First Contact. Not as much humour as The Voyage Home. In fact, there is no humour at all. Something that cripples the film badly. Everything is very straight-faced and sincere. To introduce someone to Star Trek with this film would be a bad idea. Being the first Trek product since the original series one might expect the familiar campy story lines and beaming down to \"M-class\" planets - a bit of desert 10-minutes drive from LA - but there's none to be had. Veteran director Robert Wise has crafted a film very much in the style of his original version of The Haunting. His w-i-d-e-s-c-r-e-e-n compositions are beautiful and he really manages to lift Trek from the small screen to the cinema screen. It was a hard undertaking, but he set the standard for nine sequels to date. The plot has a giant alien force destroying three Klingon ships on its direct course with earth. If the Federation doesn't stop this thing, it will blow up the planet. Admiral Kirk leaves his sunny San Francisco home to assume command of the Enterprise from Captain Decker and stop the alien menace. But Decker has a chip on his shoulder. The new Enterprise is not finished yet and he doesn't appreciate Kirk moving in on his territory. Very slowly the original crew return and are in command of their posts again and there is a weird new navigator, a bald-headed, celibate alien woman named Ilia. Decker seems to have a thing for her. For some reason. Once they reach the mysterious alien mass, the crew learns its name is Vger. Ilia is kidnapped and replaced with an android. Spock is driven to tears as he finds TOTAL logic in Vger actions and motivations. This is all sub-subtext and the actual explanation behind Vger might not come as a surprise to most. Once they fly inside Vger's mass of clouds and orifices it takes a healthy hour for the damn thing to be fully revealed. To criticise a film for its length may be an ignorant thing to do. Audiences today are too satisfied with any plot lasting less than 100 minutes. This is not a good sign. Films with the scope and, dare I say it, class of Star Trek: The Motion Picture need their full and proper running time. Coherent story lines can be sacrificed for fast paced, exhilarating storytelling, or a dull, seemingly endless narrative can be the result of a big story being fully fleshed out. It's difficult to achieve both length and pace. Sadly, this film doesn't. But it looks very good, is well directed and has the balls to bite off more than it can chew.",
+         "**No Spoilers** I think Orson Welles said it best in the trailers for this film. \"It will startle your senses. Challenge your intellect. And change your perception of the future....by taking you there.\" Indeed it will and does. Let me start off by saying, by all means: You don't have to be a fan of Star Trek to get into this movie. I'm not. Just watch it, and the motion picture will do the rest. I've been told countless times that Star Wars is the greatest Sci-fi film of all time. I'd like to correct those people. Star Wars is the greatest \"action and special effects sci-fi film\" of all time. Nothing more....and nothing less. I'm a big fan of Star Wars. It was my favorite sci-fi movie--even beating out Alien, 2001, and Starship Troopers. That was until I saw this film. I remember right after watching Star Wars that I felt good inside because it was a rush that one can only get--from eye candy. Star Trek: The Motion Picture gave me a different rush--a more profound touch that made me realize movies can have a deeper meaning. Much like 2001, this deals with life....actually more about the \"meaning\" of life. The purpose of existence. Some of the best quotes in cinema history can be traced to this film. My favorite line is from Spock. It pretty much sums up the theme of Star Trek: The Motion Picture \"Each of us, at some point in our lives, turns to someone - a father, a brother, a God - and asks, \"Why am I here? What was I meant to be?\" One thing that really stands out in Star Trek: The Motion Picture is the musical score by Jerry Goldsmith that makes me wonder if it was blessed by God. Star Wars could never get me to buy the soundtrack on CD. This movie has. I wonder why this didn't win an Oscar for best score. Now to the plot: When three Klingon (Alien) Starships are attacked and erased from existence by a vast giant omnipotent cloud, drifting in space; a close by Star Base finds out that not only is the cloud headed directly towards them, but is also on a direct path for Earth. The Star Base in question (The Epslion 9) sends a message to Star Fleet for a Starship to be sent and prevent it from reaching Earth. The only Starship in enough range to stop the cloud in time is none other than the famous Enterprise from the infamous 1960s television series. The Starfleet legend and hero Captain Kirk and the rest of his crew from the also famous five year mission of the show, make a comeback for one last mission (and many more later, but those are other movie reviews). Before the crew can start on their mission, they patch up old wounds put aside their anger for each other to face the menacing unknown that awaits them, realizing this may be the last time they speak to one another...alive. Not much is known about the cloud or why it is erasing everything in it's path from existence; other than what Spock, the science officer of The Enterprise, has sensed from it.... \"It only knows that it needs, Commander. But, like so many of us, it does not know what.\" Suspense eats away at you when the final showdown between The Enterprise and the intelligent vast cloud finally comes. And the movie doesn't stop their. Like I said, the movie talks about the meaning of life. If you can, buy the director's cut on DVD or VHS. This IS the most beautiful science fiction movie you will ever see.",
+         "I recently watched this movie for the first time in ten or fifteen years. When I was younger I thought this one was even worse than Star Trek V, because as bad as \"The Final Frontier\" was, at least it had some action and colour. The version I just saw wasn't the new Director's Edition, just the old video, but I was still completely surprised by just about everything -- partly because I hadn't seen it in so long, and partly because it's so totally different from all the following Trek movies. I even kinda liked the silly space pajamas everyone wears. After this, the movie series turned to action-oriented stories, a more militaristic look and feel, and infinitely less challenging concepts. True, the pacing of \"Star Trek: The Motion Picture\" drags in parts, and the behavior of its stars is a little cold and stiff. But instead of treating us with space battles and phaser shootouts, it gives us long, loving shots of the newly revamped starship Enterprise, and instead of rather tawdry plots grounded in mundane reality, it takes us on a metaphysical voyage into an unknown, bizarre, and palpably huge alien device. The relationship of the three main characters has changed a little after several years apart, and they're each getting used to things all over again: Kirk has to deal with the unfamiliar new ship; Spock, after trying to purge his emotions, must confront his human half; and McCoy is \"shanghaied\" out of retirement for the trip. Decker and Ilia, the new characters, provide enough interest that they were virtually resurrected as Riker and Troi in Star Trek: The Next Generation. The sense of scale is important. The cloud surrounding V'Ger is gigantic, and the ship at the heart of the cloud is a whole world to itself. The Enterprise must fly into the cloud and communicate with the ship, and it's the only time in any of the ten movies that the heroes actually confront something new and unknown. This was a staple of the original show, and some of the best episodes of the spin-off series. The subsequent films were content with setting their battles and chases in space, but \"Star Trek I\" actually wants to explore that space. The question at the centre of the film, posed by Spock, is \"Is this all we are? Is there nothing more?\" Kirk, Spock, and V'Ger are all searching for an answer to that question. However, the thing that definitely drags the film down is the sound. The red alert blares every other minute, and mechanical computer voice-overs announce just about everything they possibly can. In the process of updating the ship, they've emphasized the computers and mechanics of the vessel in a way they never had before or since, and the effect is jarring and interesting at the same time. The Enterprise is much more of a physical ship traveling in space, and less of a device to facilitate storytelling. The visual effects are amazing enough to warrant some digital cleaning, and the movie should be seen in widescreen, preferably on a large television. It's too bad that this movie wasn't more of a success, because I would like to see more Star Trek in this style. After many years and many TV shows, I admit I've gotten a little tired of space battles. UPDATE: I recently watched the Director's Edition DVD. The sound effects are fixed, and the film has been re-edited to tighten the pace ever so slightly. The changes made are not on the level of the Star Wars special editions, but they do make the movie more watchable. It's a little more coherent now, and I like it even more.",
+         "This DVD version has improved and restored and made Star Trek: TMP a pleasure to watch rather than a chore. You're less inclined to hit fast-forward in those lengthy scenes. This movie will resonate well with mature-age viewers because the story is not what you would expect from today's action packed cinema. I appreciated the movie more as I got older. Bob Wise explains on the DVD that production was extremely rushed and had no time to preview the film with an audience that would now after 20 years, tell him to tighten the opticals and emphasize characters. This is precisely what he has done in the DVD version and its magnificent. Aesthetically, the DVD version shows you the best Star Trek: The Motion Picture can possibly look. Film is sharper; color is dead on however there is still a lot of film grain present unfortunately. My guess is they cleaned the original negative up as much as they could but it had deteriorated so much in storage, or was badly preserved. Certainly looks better than my bad pan/scanned VHS copy. The DVD truly shines with its brand new sound mix. This isn't your standard stereo to 5.1 DVD conversions like they are doing for movies pre 5.1; they have gutted it up and added new stuff. The original release was so rushed that very little in terms of ambient sound and special effects audio elements were done on the sound mix amongst other production elements. For this DVD they went back to the original audiotapes and remixed them digitally. Goldsmith's score sounded fantastic when it originally came out now sounds even better on the DVD version. It's tremendous, you will hear what your suppose to hear now with the added advantage of 5.1 surround sound. Goldsmith score truly has a chance to soar now by stretching into a clean high fidelity 5.1 environment rather than being squeezed onto a mono or stereo track. Bass kicks in often especially on big musical cues. You'll hear nifty panning and those surrounds and subwoofer will definitely get a workout. In instances they isolate different parts of the orchestra through different speakers, mainly the bass and percussion. Most onstage dialog was re-recorded afterwards because of onstage noise due to mechanical devices etc; this is now common practice in the industry. The result is cleaner dialog that comes prominently out of your center speaker. The dialog audio is good, but on occasion it shows a mild muffled and tinny quality probably due to age of material or analog technology of the time, nevertheless I guarantee you, the average viewer will like it, I'm just being picky. In short the movie will sound almost as good as if the movie was made recently. Not only having rebuilt the original audio they have put in more surround elements, like ambient bridge noises and computer voices. Not sure why they changed the `Intruder Alert' voice, I don't mind but I guess it was because they rushed the sound mix in the 70's and chose that voice as a last minute thing. There are other elements that have been changed, for the better I would say. The DVD contents have been remastered with Wise's overseeing. There are too many subtleties to comment on so shall briefly discuss a few. Before opening credits you are treated to Goldsmiths V'ger/Love theme, a nice touch. Then you hear the bombastic Star Trek Theme. Newly done credits over moving starfield. First main new special effect is the Vulcan landscape, tilting from sky to the surface. Then cuts to a new matte painting of the beautiful orange sky. Originally Spock shields his eyes and in the reversal, not only is there no sun there is little sky visible. The new matte painting now fits in nicely. San Francisco sequence has been redone, 3 new matte paintings that better show the futurized city, Golden Gate Bridge and a bigger shuttlebay. When they get into V'Ger they encounter a weapon heading towards them that is suppose to dissipate, in the original it simply disappears instantly, now we see a new visual that shows it dissipating just before it hits the ship. Later we see a probe heading towards the ship on the viewscreen and then through some hokey editing it appears on the bridge. This has been replaced with an improved FX shot showing the approach of the entity on an exterior shot. A new 'Wing Walk' sequence. Breathtaking new CGI's that show the away-team walk from the hull to the V'Ger stage, some using the original live action shots. New FXs for the most part are based on original storyboards. They didn't go overboard with the effects which is good, Bob tells us that they made FX that they could only do in the 1970's, unlike Star Wars whom George Lucas went overkill on new FX when he redid his in the 1990's. There are trims, some rearrangements of shots for the better. E.g. Ilia/Deckers exchange of looks, Kirk's `Oh My God', his second `Viewer Off.' I suspect they had to edit within Jerry's score, or have to also edit Jerry's score to accommodate the new editing, if so they have done it very well, I couldn't notice. Some lengthy scenes remain in its entirety, e.g. flying up to the enterprise, I don't blame them for not trimming them, some are sentimental. The 2 DVD's come with a plethora of information. Audio commentaries by the director, 2 special effect's guys, an actor and the composer guide you through the director's edition. Text commentary by Okuda gives even more scene specific info. Disc 2 gives you most of the trims, deleted scenes from the TV and Theatrical release not used in the DVD version and an outtake of an abandoned visual effect. Plus 3 documentaries about the abandoned TV series ST:Phase II, Directors edition DVD and the movie itself. Plus advertisements/trailers plus storyboards. A MUST BUY FOR FANS! You'll Love It!",
+         "\"Star Trek: The Motion Picture - The Director's Edition\" \"Star Trek: The Motion Picture\" is by far the most important of the series and in my opinion also the best. This Director's Cut has improved and tightened the 1979 theatrical release to create a truer version of the director's original vision. In most cases Director's Cuts ruin the original Motion Picture they set out to improve, yet this film is the exception. What Robert Wise did here was very necessary and it has been accomplished with great reverence for the original material. This is now the authoritative version of \"Star Trek: The Motion Picture\" and justly so. What I admire about this first incarnation to the big screen is the faith that Robert Wise obviously has for his audience. Scenes are purposely slow which allows the atmosphere of the film to wash over the viewer like a warm bath rather than being bombarded by action and explosions as in the second of the Motion Picture series. There are obvious references to Stanley Kubrick's 2001:A Space Odyssey (1967), which I admire because to want to aspire to those heights and nearly succeed can only be regarded with respect. I have to say that the production design by Harold Michelson has never been bettered. The scope of his sets gives real life and location to the interior of the Star Ship Enterprise. The gathering of the whole crew in the lounge for example or Kirk emotionally trapped in his quarters by the dark glass sliding doors. The bridge of the Enterprise has never looked, sounded or functioned better. (It would have been nice to hear the old sliding door sounds!) A criticism would have to be levelled at the costume design, which I found uninspired, dreary and slightly camp. Decker's skin-tight body suit reveals more than modesty should allow! I suppose underwear is obsolete in the 23rd century? Kirk's sleeveless white shirt is quite off- putting, as I couldn't stop staring a William Shatner's extremely hairy arms. Yet these are my only criticisms. I really enjoy this film and have done so since its release. This version finally completes an unfinished work and improves upon it to such a degree that Trekkies will have to reevaluate yet again which is the best of the Motion Picture series. As for me apart from the original series this is Star Trek's finest hour!",
+         "Watched this one after few years, didn't remember what it was all about. Oh yes, it was the one with \"V'ger\"...aka amazingly beautiful Persis Khambatta...with her head shaved. Most beautiful bald woman I can think of right now... The film is about huge unbeatable \"cloud\" approaching and threatening Earth, only thing standing in between is Enterprise with it's legendary crew. It appears I enjoy the film more and more each decade I see it again. I thought there was slightly too much time used on introduction and drafting of old crew, but once the \"action\" began it kept me on edge of my seat all the way through. Don't think that \"action\" I mention was fighting and shooting, it wasn't. Perhaps lack of silly fighting makes (all too) many people to say that this film was too long and slow paced. Well, I disagree - this is exactly the kind of science fiction I love, you are given chance to use your own imagination. Some say pacing and the film is similar to Kubrik's 2001...I won't argue against it. The film had amazing special effects for it's time. No, not amazing, incredible. But don't watch it for special effects only, the real interest of this film lies in the nature of the alien \"cloud\" and Enterprise crew trying to figure it out and trying to cope with it. Special effects were used as a tool to launch YOUR imagination, as they should be. This film is probably closest to spirit of original series, without much campiness though. A thinking man's Star Trek film. What a wonderful treat. They don't make films like this any more. 9/10",
+         "Like a slug-paced parade that never ends (and that's just the first half-hour), iconic director Robert Wise brings to the big screen the beloved characters from that wonderfully cheesy '60s sci-fi TV show that, although it didn't last very long (three years), snowballed into an even larger cult following throughout the '70s, enough to merit a \"motion picture\" - too bad it had to be this one. William Shatner as Captain James T. Kirk returns to the Enterprise with a solemn, angry air, as does McCoy, even grumpier than Kirk... And finally Spock - duller than even a Vulcan should be... As they set out to intercept a giant mysterious cloud heading to earth to... blow it up. A boring side-story involves the new young Enterprise commander (whom Kirk must replace), portrayed by the milky Steven Collins, and a very sexy bald chick who's as grumpy as the rest of the cast... especially when she becomes a robot, or something. And most of the film has the crew standing on the bridge, gazing out in awed-wonderment at all the expensive, and impressive, special effects - the only thing somewhat worthwhile. But the eye-candy gets stale quick since there's nothing \"solid\" to chase it with - and we're FINALLY led to an incredibly lame \"twist\" ending that tries hard for Kubrick-esquire wonderment but ends of pretentiously stale. If this were a condensed forty-five minute episode of the original series it'd still be a throwaway, lacking the mysteriously brainy chess-match aura that made the show so endearing, interesting, and fun. The next film, THE WRATH OF KHAN (which actually has a title), is where the film series should've started. Not only is there a palpable villain, but the three leads are actually likable, and the classic side-characters, including Scotty, Uhura, Sulu, and Chekov, have more to do than stand around looking... familiar."
+      ],
+      "genres": [
+         "Adventure",
+         "Mystery",
+         "Sci-Fi",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "Paramount Pictures",
+         "Century Associates"
+      ],
+      "summaries": [
+         "An massive alien spacecraft of enormous power is approaching Earth, destroying everything in its path. The only starship in range is the USS Enterprise--still in drydock after a major overhaul. As Captain Willard Decker readies his ship and his crew to face this menace, Admiral James T. Kirk arrives with orders to take command of the Enterprise and intercept the alien intruder. But it has been three years since Kirk last commanded the Enterprise on its historic five year mission... is he up to the task of saving the Earth?",
+         "A massive alien spacecraft of enormous power destroys three powerful Klingon cruisers, entering Federation space. Admiral James T. Kirk is called upon to take command of the USS Enterprise for the first time since the television series ended. The alien spacecraft is heading towards Earth, destroying everything in its path. The only starship in range is the Enterprise--after undergoing a major overhaul in drydock. Kirk rounds up the rest of his old crew, and acquires a few new members, and sets off to intercept the alien spacecraft.",
+         "The dazzling, refurbished USS Enterprise soars proudly once again in this ultimate space adventure. When a massive alien spacecraft destroys three powerful Klingon cruisers, Captain James T. Kirk (William Shatner) returns to the newly-transformed USS Enterprise to take command. Shatner is joined on this heroic mission by Leonard Nimoy, DeForest Kelley, and the cast from the acclaimed \"Star Trek\" television series. The entire crew mobilizes at warp speed to stop the alien intruder from its relentless flight toward Earth.",
+         "An alien spacecraft descends upon three Klingon cruisers and eradicates them with an energy bolt. The Epsilon IX space station alerts the Federation, but they too are wiped out by the entity. The starship assigned to the situation is, what else, the NCC-1701. That would be the registration number for the USS Enterprise, which has been rebuilt. Thus, the entire original crew you knew from the television series returns. Although they are prepared to face the entity, nothing will prepare them for the ride to come. The film asks the question Paul Gauguin asks in a painting bearing this name: \"Where do I come from? What am I? Where am I going?\"",
+         "When an alien spacecraft of enormous power is spotted approaching Earth, Admiral Kirk resumes command of the Starship Enterprise in order to intercept, examine and hopefully stop the intruder."
+      ],
+      "budget": 35000000
+   },
+   "movielensId": 1371,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1979-12-06",
+      "dvdReleaseDate": "2003-05-13",
+      "directors": ["Robert Wise"],
+      "runtime": 132,
+      "movieId": 1371,
+      "title": "Star Trek: The Motion Picture",
+      "mpaa": "PG",
+      "actors": [
+         "William Shatner",
+         "Leonard Nimoy",
+         "DeForest Kelley",
+         "James Doohan",
+         "George Takei",
+         "Walter Koenig",
+         "Nichelle Nichols",
+         "Majel Barrett",
+         "Persis Khambatta",
+         "Stephen Collins",
+         "Grace Lee Whitney",
+         "Mark Lenard",
+         "Billy Van Zandt",
+         "Roger Aaron Brown",
+         "Gary Faga",
+         "Franklyn Seales"
+      ],
+      "imdbMovieId": "0079945",
+      "originalTitle": "Star Trek: The Motion Picture",
+      "genres": [
+         "Science Fiction",
+         "Adventure",
+         "Mystery"
+      ],
+      "youtubeTrailerIds": [
+         "5drkg1NFfLM",
+         "xb613GEepFg",
+         "g0-7Z2lYII8",
+         "WiYcKBrXhoY",
+         "3LikvGkX9bw",
+         "nPCCb6Y7qiA",
+         "x1vaHqkPeK0"
+      ],
+      "plotSummary": "When a destructive space entity is spotted approaching Earth, Admiral Kirk resumes command of the Starship Enterprise in order to intercept, examine, and hopefully stop it.",
+      "tmdbMovieId": 152,
+      "avgRating": 3.09133,
+      "releaseYear": "1979",
+      "numRatings": 11639,
+      "posterPath": "/ys5Sgpc27mVo3H5zYLPV9LWDq5.jpg"
+   }
+}

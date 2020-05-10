@@ -1,0 +1,607 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "bachelor",
+            "id": 1338
+         },
+         {
+            "name": "loyalty",
+            "id": 1797
+         },
+         {
+            "name": "donkey",
+            "id": 4144
+         },
+         {
+            "name": "stag night",
+            "id": 8070
+         },
+         {
+            "name": "party",
+            "id": 8508
+         },
+         {
+            "name": "wedding",
+            "id": 13027
+         }
+      ],
+      "imdb_id": "tt0086927",
+      "video": false,
+      "title": "Bachelor Party",
+      "recommendations": [
+         10466,
+         10023,
+         13665,
+         9080,
+         10169,
+         918,
+         9749,
+         14628,
+         10141,
+         11064,
+         10890,
+         11974,
+         11584,
+         8388,
+         10859,
+         10780,
+         2619,
+         11821,
+         18172,
+         11977
+      ],
+      "backdrop_path": "/yQNBzi41xbBjZlnVuApdCcDbduX.jpg",
+      "revenue": 38435947,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Rick Gassko",
+               "gender": 2,
+               "credit_id": "52fe44da9251416c7504336f",
+               "name": "Tom Hanks",
+               "profile_path": "/pQFoyx7rp09CJTAb932F2g8Nlho.jpg",
+               "id": 31,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Debbie Thompson",
+               "gender": 1,
+               "credit_id": "52fe44da9251416c75043373",
+               "name": "Tawny Kitaen",
+               "profile_path": "/tu9RnSjrGu5Mdj1usuDd7iO8gvV.jpg",
+               "id": 72055,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Jay O'Neill",
+               "gender": 2,
+               "credit_id": "52fe44da9251416c75043377",
+               "name": "Adrian Zmed",
+               "profile_path": "/9K9GnDvmhtI8gx1u5qkbXHDFqbt.jpg",
+               "id": 36039,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Ed Thompson",
+               "gender": 2,
+               "credit_id": "52fe44da9251416c7504337b",
+               "name": "George Grizzard",
+               "profile_path": "/9V2TkXB0E5Ol9RqNwHyCPgA4JAc.jpg",
+               "id": 72056,
+               "order": 3
+            },
+            {
+               "cast_id": 23,
+               "character": "Mrs. Thompson",
+               "gender": 1,
+               "credit_id": "58d1e367c3a36838df012d5b",
+               "name": "Barbara Stuart",
+               "profile_path": "/akUMGNKhOOn3CxO73Ke26jjfo7S.jpg",
+               "id": 153692,
+               "order": 4
+            },
+            {
+               "cast_id": 24,
+               "character": "Cole Whittier",
+               "gender": 2,
+               "credit_id": "58d1e3749251411a9f014458",
+               "name": "Robert Prescott",
+               "profile_path": "/fWwAdFxzXRYPMfmYsF5UO600NNQ.jpg",
+               "id": 38086,
+               "order": 5
+            },
+            {
+               "cast_id": 19,
+               "character": "Ryko",
+               "gender": 2,
+               "credit_id": "53dbbe7cc3a368434500006a",
+               "name": "Michael Dudikoff",
+               "profile_path": "/oUsn5aUJ4f9V4a5mcucTVbQMRj1.jpg",
+               "id": 21259,
+               "order": 6
+            },
+            {
+               "cast_id": 25,
+               "character": "Dr. Stan Gassko",
+               "gender": 2,
+               "credit_id": "58d1e384c3a36838af01429e",
+               "name": "William Tepper",
+               "profile_path": null,
+               "id": 15214,
+               "order": 7
+            },
+            {
+               "cast_id": 22,
+               "character": "Gary",
+               "gender": 2,
+               "credit_id": "57d5f9909251416f62002675",
+               "name": "Gary Grossman",
+               "profile_path": "/5ZHnyiMcm8O3HwA8dFHFqdiOTGC.jpg",
+               "id": 86930,
+               "order": 8
+            },
+            {
+               "cast_id": 18,
+               "character": "Dr. Tina Gassko",
+               "gender": 1,
+               "credit_id": "52fe44da9251416c750433cb",
+               "name": "Wendie Jo Sperber",
+               "profile_path": "/nadvO9Q24eNrGAznKmlOwV6E6Wb.jpg",
+               "id": 1068,
+               "order": 9
+            },
+            {
+               "cast_id": 27,
+               "character": "Rudy",
+               "gender": 0,
+               "credit_id": "58d1e39f9251411ab5014398",
+               "name": "Barry Diamond",
+               "profile_path": null,
+               "id": 1226328,
+               "order": 10
+            },
+            {
+               "cast_id": 26,
+               "character": "Brad Mollen",
+               "gender": 2,
+               "credit_id": "58d1e395c3a36838e9012f19",
+               "name": "Bradford Bancroft",
+               "profile_path": null,
+               "id": 95455,
+               "order": 11
+            },
+            {
+               "cast_id": 28,
+               "character": "Ilene",
+               "gender": 1,
+               "credit_id": "58d1e3ad9251411aef0139f6",
+               "name": "Deborah Harmon",
+               "profile_path": "/1PmLrtndDP3Fee7DpeTJoQ90GyU.jpg",
+               "id": 100600,
+               "order": 12
+            },
+            {
+               "cast_id": 17,
+               "character": "Bobbi",
+               "gender": 1,
+               "credit_id": "52fe44da9251416c750433c7",
+               "name": "Tracy Smith",
+               "profile_path": "/mhQxK51whkEvdh577y6I94Cu646.jpg",
+               "id": 173136,
+               "order": 13
+            },
+            {
+               "cast_id": 29,
+               "character": "Sister Mary Francis",
+               "gender": 1,
+               "credit_id": "58d1e3f99251411adc014863",
+               "name": "Florence Schauffler",
+               "profile_path": null,
+               "id": 174871,
+               "order": 14
+            },
+            {
+               "cast_id": 30,
+               "character": "Milt",
+               "gender": 2,
+               "credit_id": "58d1e40bc3a36838f9013f9a",
+               "name": "John Bloom",
+               "profile_path": null,
+               "id": 1242423,
+               "order": 15
+            },
+            {
+               "cast_id": 31,
+               "character": "Nick",
+               "gender": 2,
+               "credit_id": "58d1e4159251411acb013b1d",
+               "name": "Brett Baxter Clark",
+               "profile_path": "/d3gguNk0z5XS0o995ZDTBTyejJG.jpg",
+               "id": 148195,
+               "order": 16
+            },
+            {
+               "cast_id": 21,
+               "character": "Alley Pimp",
+               "gender": 2,
+               "credit_id": "573a4802c3a36806a6000c14",
+               "name": "Ji-Tu Cumbuka",
+               "profile_path": "/4AKIMnqocyxESQsH9Xr1fFlJ7iy.jpg",
+               "id": 937883,
+               "order": 17
+            },
+            {
+               "cast_id": 32,
+               "character": "Tracey",
+               "gender": 1,
+               "credit_id": "58d1e421c3a36838df012e2d",
+               "name": "Monique Gabrielle",
+               "profile_path": "/jIlS9UmmvOoX2Pu0MWPHX05LQrB.jpg",
+               "id": 44995,
+               "order": 18
+            },
+            {
+               "cast_id": 33,
+               "character": "Desiree",
+               "gender": 1,
+               "credit_id": "58d1e42c9251411a9f0144f5",
+               "name": "Toni Alessandrini",
+               "profile_path": null,
+               "id": 100969,
+               "order": 19
+            },
+            {
+               "cast_id": 34,
+               "character": "Bridal Shower Hooker",
+               "gender": 1,
+               "credit_id": "58d1e43a9251411acb013b4a",
+               "name": "Rosanne Katon",
+               "profile_path": "/AhRm3LwfLDYFc2A7sbUbgMpzjO2.jpg",
+               "id": 84870,
+               "order": 20
+            },
+            {
+               "cast_id": 35,
+               "character": "Mrs. Klupner",
+               "gender": 1,
+               "credit_id": "58d1e448c3a36838e9012fd3",
+               "name": "Angela Aames",
+               "profile_path": "/u76XgPVGkToA1yyhd78HtYcGjQH.jpg",
+               "id": 45463,
+               "order": 21
+            },
+            {
+               "cast_id": 36,
+               "character": "Screaming Woman",
+               "gender": 1,
+               "credit_id": "58d1e47e9251411adc0148f9",
+               "name": "Rebecca Perle",
+               "profile_path": null,
+               "id": 106802,
+               "order": 22
+            },
+            {
+               "cast_id": 37,
+               "character": "Hooker",
+               "gender": 0,
+               "credit_id": "58d1e4869251411ab5014483",
+               "name": "Anne Gaybis",
+               "profile_path": null,
+               "id": 58808,
+               "order": 23
+            },
+            {
+               "cast_id": 38,
+               "character": "Patient",
+               "gender": 2,
+               "credit_id": "59c4770c9251415b8701fb9d",
+               "name": "Billy Beck",
+               "profile_path": null,
+               "id": 141418,
+               "order": 24
+            },
+            {
+               "cast_id": 39,
+               "character": "IBM Girl",
+               "gender": 0,
+               "credit_id": "59c47739c3a3681430021a6d",
+               "name": "Michele Starck",
+               "profile_path": null,
+               "id": 105358,
+               "order": 25
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe44da9251416c75043381",
+               "name": "Neal Israel",
+               "profile_path": null,
+               "id": 57359,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44da9251416c75043387",
+               "name": "Neal Israel",
+               "profile_path": null,
+               "id": 57359,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44da9251416c7504338d",
+               "name": "Bob Israel",
+               "profile_path": null,
+               "id": 57097,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44da9251416c75043393",
+               "name": "Pat Proft",
+               "profile_path": null,
+               "id": 12991,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44da9251416c75043399",
+               "name": "Bob Israel",
+               "profile_path": null,
+               "id": 57097,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44da9251416c7504339f",
+               "name": "Ron Moler",
+               "profile_path": null,
+               "id": 30386,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44da9251416c750433a5",
+               "name": "Raju Patel",
+               "profile_path": null,
+               "id": 66907,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44da9251416c750433ab",
+               "name": "Sharad Patel",
+               "profile_path": null,
+               "id": 66908,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44da9251416c750433b1",
+               "name": "Joe Roth",
+               "profile_path": "/lUtmB3mtMPrA5hhoEwZBeX1U5uL.jpg",
+               "id": 18311,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44da9251416c750433b7",
+               "name": "Robert Folk",
+               "profile_path": null,
+               "id": 43393,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44da9251416c750433bd",
+               "name": "Hal Trussell",
+               "profile_path": null,
+               "id": 72057,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55b798ccc3a3682282002542",
+               "name": "Tom Walls",
+               "profile_path": null,
+               "id": 1491246,
+               "department": "Editing",
+               "job": "Editor"
+            }
+         ]
+      },
+      "genres": [{
+         "name": "Comedy",
+         "id": 35
+      }],
+      "popularity": 7.561434,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 12309,
+      "vote_count": 191,
+      "budget": 6000000,
+      "overview": "This outrageously funny look at one man's final moments of bachelorhood stars Tom Hanks as Rick, reluctant recipient of a bachelor bash given by a group of friends who view partying as their full-time religion. Rick's worried fiancée, Debbie (Tawny Kitaen), dresses up in disguise and crashes the party to spy on her future husband.",
+      "similar": [
+         712,
+         8273,
+         9029,
+         8363,
+         195589,
+         11931,
+         376659,
+         6557,
+         325133,
+         50124,
+         11778,
+         24,
+         107811,
+         84174,
+         86838,
+         15037,
+         10521,
+         150117,
+         11971,
+         179144
+      ],
+      "original_title": "Bachelor Party",
+      "runtime": 105,
+      "poster_path": "/truIlGNy9H8mmSzIu626ZYcZJHg.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "日本語",
+            "iso_639_1": "ja"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Twin Continental",
+            "id": 81144,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Bachelor Party Productions",
+            "id": 81142,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Aspect Ratio Film",
+            "id": 81143,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1984-06-29",
+      "vote_average": 5.8,
+      "belongs_to_collection": {
+         "backdrop_path": "/f2ckgUb2dR2bkjJ39fKCotT0Ypn.jpg",
+         "name": "Bachelor Party Collection",
+         "id": 466318,
+         "poster_path": "/9HNsbJwOqnlIYVBbzNYDuJJkCoN.jpg"
+      },
+      "tagline": "A man's tradition every woman should know about.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Neal Israel"],
+      "runtime": 105,
+      "synopsis": null,
+      "writers": [
+         "Bob Israel",
+         "Neal Israel"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0086927/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTgxMjMzNjcyN15BMl5BanBnXkFtZTcwNjg3ODIyMQ@@._V1_SY317_CR5,0,214,317_AL_.jpg",
+      "actors": ["Stars: Tom Hanks, Tawny Kitaen, Adrian Zmed | See full cast and crew »"],
+      "reviews": [
+         "I have heard of Bachelor Party a couple times, once on VH1's I love the 80's and also in Clerks 2 there was a small reference. The weird thing is, I'm more used to a dramatic Tom Hanks, other than Big and A League of Their Own, I've never seen him in a raw comedy movie, so it was a little weird to think of Tom Hanks as this very funny male lead in a movie. But I decided to go ahead and give the movie a look, I have to tell you, I haven't laughed so hard and so out loud in a movie like this in a long time. Then I check out the rating on IMDb, 5.7?! Are you kidding me?! This movie is just so beyond funny, I know that it is cliché'd eighties, but come on! I just couldn't believe that anyone else would not find this to be a funny film. If you're telling me you did not find Brad to be funny, you have got to get your funny bone checked because Bachelor Party is non stop laughs from beginning to end. Rick is about to get married to beautiful Debbie, his friends who live to party are throwing him the biggest bachelor party they can have. Debbie's rich and snobby family definitely don't want Rick to be apart of their lives, so Debbie's dad will do anything, including her ex-boyfriend, Cole, who wants her back, to split them up. But the bachelor party night has arrived, and things are going more crazy than the boys have expected. Bachelor Party is seriously funny, it's predictable and silly, especially the end, but it's all in good fun. This is perfect 80's humor, it's the humor I miss and I'm sure others do too, because it's raunchy but doesn't over do it and just has fun with the audience. This cast looked like they had an ultimate blast and Tom Hanks was just brilliant, his character could be a jerk, but such a great guy at the same time, so he's real and likable. This is just a funny movie that I would recommend, it's a lot of fun and the rating on IMDb is just too harsh. Come on, let's get this rating up. 8/10",
+         "First of all, if you are thinking that this will be some wonderful, well thought out, well crafted artwork starring Tom Hanks, put the movie down and back away from the rack. Now flash back to 1984, when movies were inane and entertaining--solely for entertaining!!! As far as raunchy 80's humor goes, you won't find anything better that Bachelor Party. Yes, the humor is predictable. Yes, the sight gags are predictable. But this movie does it better than anyone else in it's genre (that would be raunchy comedy). Good girl falls for bad boy, plan to get married, but first the guys must be guys. \"Let's have a party with liquor and drugs and guns and hookers and cops!\" and they do. Don't ask for more than this movie can deliver, yet appreciate it for what it is!",
+         "I've read, someone has written \"not worth of watching\". That's all blah-blah-blah. I looked it through this evening, and I can't even say how many times I've already seen it. None of the modern US comedies could be compared to \"Bachelor Party\". They are all uninteresting and pure in humour. It makes me think how free were american movie-makers in 80's - they could do and allowed to say everything they wanted. I'm not American and the modern comedies for teens I watch now forced me to believe that as a genre comedy is dead in US. That's why I advise you to watch this movie, old but full of jokes about sex, crazy parties and true love, that means keeping promises.",
+         "Tom Hanks' career began in comedy, and this film is a shining example of his comedic talents. Hanks delivers a satisfying and enjoyable performance as groom-to-be Rick Gassko, and his supporting cast couldn't have been better selected. Many of the film's co-stars had worked with Hanks in the past, most notably on TV's Bosom Buddies. The chemistry is apparent here, as the actors are all very comfortable in their roles, as the dialogue is executed with a smooth, yet expedient wit. The jokes all work in this film - outlandish as some of them may be. There is never a dull moment in Bachelor Party, as each scene is well-constructed to deliver an inevitable laugh, without the premeditated one-liners that seem so forced in today's trash comedies. The events of the film were based on Producer Bob Israel's real life bachelor party experience, and the realism of the story can be felt in the film, as the viewer rarely has to suspend disbelief. This movie can best be appreciated by the movie fan who enjoys witty, smirk-inducing comedies such as Porky's, Animal House, Police Academy, Summer School, and Weekend At Bernie's.",
+         "I think this is one of the funniest movies in the history of comedy. Tom Hanks was a phenomenal comedian at one point in his career, and I would watch this over any of his other movies (even Mazes & Monsters). I don't know what I can say about this movie other than as long as you don't try to take it seriously, it will leave you in stitches for 2 hours, and if you are going to plan a bachelor party, this is your handbook. The general plot line is Tom Hanks is a blue collar worker (school bus driver for a Catholic School) as are most of his friends, but he falls in love with the rich girl, whose parent's can't stand there daughter dating an uneducated slob. Many of you will say that this plot has been seen numerous times, but this was the original comedy that did it, and did it best. If you haven't seen this movie, take the time to watch it, you don't know what you have been missing.",
+         "\"Bachelor Party\" is very much like other films of its genre except that it is one of Tom Hanks' very early efforts and, as a result, is more fondly remembered than it probably would be without Hanks. Yes, before Hanks turned into Forrest Gump and an Oscar-winning heavyweight actor, he desperately starred in a 1984 teen sex comedy not unlike \"Porky's,\" \"The Last American Virgin\" or \"American Pie.\" \"Splash\" had been a success by now so the marketers could rely upon his newly-created status to promote \"Bachelor Party,\" and it paid off -- this movie was an unexpected hit when it came out (albeit a small one). Tom Hanks is a fine actor but I have to say that he had a certain charm about his acting that made many mediocre '80s comedies -- including \"Turner and Hooch,\" \"The 'burbs\" and of course \"Bachelor Party\" -- immensely likable despite their flaws. Yes, this is a crude, lewd, rude movie but it has its fair share of embarrassing moments, laugh-out-loud segments and cheesy (but fun) segments. Good entertainment for a Friday or Saturday night, and a good glimpse at a much younger, thinner, more comedic (and slapstick) Tom Hanks before he got all weepy-eyed and serious on us.",
+         "Bachelor Party has few redeeming features, but it does have one big one: it's funny. Tom Hanks is about to get married, and his friends throw him one big bachelor party. Naked women, large amounts of drinking and a donkey getting high all follow. Of course, someone wants to ruin the fun, in the form of Hank's bride-to-be father. Naturally, all of his plans to ruin the party are foiled by the motley crew. Most of the gags in Bachelor Party are tasteless, but that's half of the fun. Not really recommended to devout Christians, but those with open minds will either find this film infectiously silly, or just stupid. It's a nice reminder of what film makers could get away with in the 80's, though. American Pie, it's nearest competitor, is too glossy and slick to be a proper Hollywood soft porn flick. It also has too much of a heart. Bachelor Party just piles on the dirtiness, and throws in a moral at the end, which is the way all 'Porky's' copies should be made (although Party is more fun than Porkys.) (Comedy, 1984)",
+         "This is one of those typical silly early '80's comedies, that features lots of immature teenage type of lame humor and nudity and sex jokes. No, this by no means is a great movie and it also is hardly the best the genre has to offer but it's a movie that simply serves its purpose and brings some good entertainment. The movie features dozens of silly and over-the-top characters, who are the main reason why this movie is such a maintaining and silly entertaining one to watch. It features Tom Hanks in an early comical movie role and it actually is sort of a shame he doesn't do movies like this anymore, since he certainly was very talented at it. Not that I mind the movies that he does now days of course but it at the same time is also a waste of his comical talent. The movie also tries to feature some more serious elements, that concentrated on what it means to be married. Not that this works out horrible for the movie but it of course is also distracting a bit from what the movie is really truly about; simple immature comedy. Further more there is very little story actually and it simply features on the events during and around a bachelor party. The movie is so silly, simplistic and immature that you just can't help being entertained by it all. No matter how bad and cheesy it all gets, you can't help laughing at this movie. Some comical moments are just plain great. A real enjoyable silly '80's comedy, starring a young Tom Hanks. 7/10 http://bobafett1138.blogspot.com/",
+         "When a goofy Care-Free bus driver named Rick (Two Time Oscar-Winner:Tom Hanks), who decides to get married with a rich nice young woman named Debbie (Tawny Kitaen). Rick's friends (Adrian Zmed, William Tepper, Barry Diamond, Gary Grossman, Gradford Bancroft & Michael Dudikoff) decides to give Rick, an wild all-out Bachelor Party. While Rick's nemesis, a scumbag named Cole (Robert Prescott) tries to ruined the party of Rick and also trying to framed him as well. Since he's still crazy about his ex-girlfriend:Debbie. Directed by Neal Isreal (Suft Ninjas) made an amusing comedy, which it was in the heights of Tom Hanks' career. Which he had another hit in 1984, which it was \"Splash\". Hanks is fun, so is the entire cast. This has some memorable funny scenes and clever gags as well. This has becomes an Camp Classic. Fans of his early work, should enjoy this as well. DVD has an fine anamorphic Widescreen (1.85:1) transfer and an good-Dolby Digital 4.0 Surround Sound. DVD also vintage behind the scenes vignettes and short interviews with the actors as well. Fans of wild 1980's sex comedies will have a blast. (****/*****).",
+         "There is a lot of funny stuff in this movie as Tom Hanks plays part straight man and part traffic cop to the insanity that happens around him as a simple bachelor party swells and then degrades into a bacchanalic revelry. Let this movie serve as warning to anyone even THINKING of throwing a party as this seems to confirm Murphy's Law: If Anything Can Go Wrong, It Will. The movie has a great soundtrack and Adran Zmed really wails on \"Little Demon\" as the craziness occurs around him. Hanks' character, no matter how nuts he seems to act, turns out to be quite, sensitive and reserved as he hides in a corner and finally retreats to a back room as his buddies keep having the fun, but they keep dragging him back into it. For my tastes, Tawni Kitaen, now or then, is not much of a beauty, but Wendi Jo Sperber (Tom's Busom Buddies co-star) is also on hand as his sister-in-law. This movie does win the \"Scary Movie\" award for unnecessary sex jokes, but the scenes at the photo studio, the garage and the 3-D theatre are some of the funniest."
+      ],
+      "genres": [
+         "Comedy",
+         "Romance"
+      ],
+      "productionCompanies": [
+         "Bachelor Party Productions",
+         "Aspect Ratio Film",
+         "Twin Continental"
+      ],
+      "summaries": [
+         "Rick Gassko is about to marry Debbie Thompson. Her parents hate him. Her old boyfriend hates him. They all have money and he gets a cut of the crap games on the Catholic school bus that he drives. His friends decide to give him the bachelor party of all bachelor parties in an expensive hotel with booze, adult movies and hookers. As the players catch wind of the elements of the party, each adds a little monkey wrench so that one set of hookers ends up giving demos at the bride's shower, the brides friends end up dressed as hookers in a room with a number of non English speaking Japanese businessmen, and so on, as things get out of hand.",
+         "A soon-to-be-married man's friends throw him the ultimate bachelor party."
+      ],
+      "budget": 0
+   },
+   "movielensId": 3525,
+   "movielens": {
+      "languages": [
+         "English",
+         "日本語"
+      ],
+      "releaseDate": "1984-06-29",
+      "dvdReleaseDate": "2001-06-05",
+      "directors": ["Neal Israel"],
+      "runtime": 105,
+      "movieId": 3525,
+      "title": "Bachelor Party",
+      "mpaa": "R",
+      "actors": [
+         "Tom Hanks",
+         "Tawny Kitaen",
+         "Adrian Zmed",
+         "George Grizzard",
+         "Barbara Stuart",
+         "Robert Prescott",
+         "Michael Dudikoff",
+         "William Tepper",
+         "Gary Grossman",
+         "Wendie Jo Sperber",
+         "Barry Diamond",
+         "Bradford Bancroft",
+         "Deborah Harmon",
+         "Tracy Smith",
+         "Florence Schauffler",
+         "John Bloom",
+         "Brett Baxter Clark",
+         "Ji-Tu Cumbuka",
+         "Monique Gabrielle",
+         "Toni Alessandrini",
+         "Rosanne Katon",
+         "Angela Aames",
+         "Rebecca Perle",
+         "Anne Gaybis",
+         "Billy Beck",
+         "Michele Starck"
+      ],
+      "imdbMovieId": "0086927",
+      "originalTitle": "Bachelor Party",
+      "genres": ["Comedy"],
+      "youtubeTrailerIds": ["VJhzlV3X5so"],
+      "plotSummary": "This outrageously funny look at one man's final moments of bachelorhood stars Tom Hanks as Rick, reluctant recipient of a bachelor bash given by a group of friends who view partying as their full-time religion. Rick's worried fiancée, Debbie (Tawny Kitaen), dresses up in disguise and crashes the party to spy on her future husband.",
+      "tmdbMovieId": 12309,
+      "avgRating": 3.06764,
+      "releaseYear": "1984",
+      "numRatings": 2092,
+      "posterPath": "/truIlGNy9H8mmSzIu626ZYcZJHg.jpg"
+   }
+}

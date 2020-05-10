@@ -1,0 +1,624 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "monster",
+            "id": 1299
+         },
+         {
+            "name": "factory",
+            "id": 1382
+         },
+         {
+            "name": "alien life-form",
+            "id": 4862
+         },
+         {
+            "name": "meteor",
+            "id": 5404
+         },
+         {
+            "name": "rocket",
+            "id": 6394
+         },
+         {
+            "name": "sequel",
+            "id": 9663
+         },
+         {
+            "name": "scientist",
+            "id": 14760
+         }
+      ],
+      "imdb_id": "tt0050873",
+      "video": false,
+      "title": "Quatermass II",
+      "recommendations": [
+         24580,
+         26865,
+         38006,
+         111942,
+         28752,
+         18979,
+         44559,
+         43093,
+         55150,
+         3145,
+         34282,
+         29882,
+         53045,
+         22606,
+         32858,
+         28763,
+         38680,
+         17907,
+         28435,
+         19201
+      ],
+      "backdrop_path": "/A0JUHtVPgDYOMYTPBSrJpJYaYro.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 5,
+               "character": "Prof. Bernard Quatermass",
+               "gender": 2,
+               "credit_id": "52fe44f8c3a368484e0412eb",
+               "name": "Brian Donlevy",
+               "profile_path": "/dJP0woESrhHQrPbTieZdE54OM2f.jpg",
+               "id": 41755,
+               "order": 0
+            },
+            {
+               "cast_id": 1,
+               "character": "Chief Inspector Lomax",
+               "gender": 2,
+               "credit_id": "52fe44f8c3a368484e0412d7",
+               "name": "John Longden",
+               "profile_path": "/rsCoUEx2ThNIz12fBR6vPncCICk.jpg",
+               "id": 7383,
+               "order": 1
+            },
+            {
+               "cast_id": 2,
+               "character": "Jimmy Hall",
+               "gender": 2,
+               "credit_id": "52fe44f8c3a368484e0412db",
+               "name": "Sid James",
+               "profile_path": "/9dMtCoy4lvc7blUersBo4ypao1M.jpg",
+               "id": 40952,
+               "order": 2
+            },
+            {
+               "cast_id": 8,
+               "character": "Marsh",
+               "gender": 0,
+               "credit_id": "52fe44f8c3a368484e0412f9",
+               "name": "Bryan Forbes",
+               "profile_path": "/2jVyi8jPtZ84FTmVt7Zc6DxvB09.jpg",
+               "id": 31439,
+               "order": 3
+            },
+            {
+               "cast_id": 26,
+               "character": "Dr. Tom Brand",
+               "gender": 2,
+               "credit_id": "59320eecc3a3685a4500231d",
+               "name": "William Franklyn",
+               "profile_path": "/7Y9lPbYXzlzIf1Ij4v5YRwTIdSh.jpg",
+               "id": 114552,
+               "order": 4
+            },
+            {
+               "cast_id": 11,
+               "character": "Work Camp Manager Dawson",
+               "gender": 2,
+               "credit_id": "52fe44f8c3a368484e041305",
+               "name": "Charles Lloyd Pack",
+               "profile_path": null,
+               "id": 93172,
+               "order": 5
+            },
+            {
+               "cast_id": 21,
+               "character": "Vincent Broadhead, M.P.",
+               "gender": 2,
+               "credit_id": "587b1454c3a36846c3009e54",
+               "name": "Tom Chatto",
+               "profile_path": null,
+               "id": 1065887,
+               "order": 6
+            },
+            {
+               "cast_id": 22,
+               "character": "The Plant Tour Guide",
+               "gender": 2,
+               "credit_id": "587b14669251413e9200b84a",
+               "name": "John Van Eyssen",
+               "profile_path": "/14DEEXSyd22NxKSNv2lFyS0zXMj.jpg",
+               "id": 106989,
+               "order": 7
+            },
+            {
+               "cast_id": 7,
+               "character": "Paddy Gorman",
+               "gender": 2,
+               "credit_id": "52fe44f8c3a368484e0412f5",
+               "name": "Percy Herbert",
+               "profile_path": "/5ZUj6cyhZ237SbeyF5fwAv2jvjD.jpg",
+               "id": 33220,
+               "order": 8
+            },
+            {
+               "cast_id": 24,
+               "character": "E. J. Macleod",
+               "gender": 0,
+               "credit_id": "587b14959251413eec00b2e7",
+               "name": "John Rae",
+               "profile_path": null,
+               "id": 104306,
+               "order": 9
+            },
+            {
+               "cast_id": 9,
+               "character": "Sheila",
+               "gender": 1,
+               "credit_id": "52fe44f8c3a368484e0412fd",
+               "name": "Vera Day",
+               "profile_path": "/luju5IYvH4Lnhjj7aW0H6AaFZZt.jpg",
+               "id": 236388,
+               "order": 10
+            },
+            {
+               "cast_id": 10,
+               "character": "Ernie the Bartender",
+               "gender": 2,
+               "credit_id": "52fe44f8c3a368484e041301",
+               "name": "Michael Ripper",
+               "profile_path": "/oEFxIrp1uYlkYsbwtnKZu9SJK22.jpg",
+               "id": 24340,
+               "order": 11
+            },
+            {
+               "cast_id": 25,
+               "character": "Miss Beal",
+               "gender": 1,
+               "credit_id": "587b14b19251413ecb00b8a4",
+               "name": "Marianne Stone",
+               "profile_path": "/5jFJji3UamXNvDU3it1YeG1V7Zc.jpg",
+               "id": 106628,
+               "order": 12
+            },
+            {
+               "cast_id": 45,
+               "character": "Mrs. McLeod",
+               "gender": 0,
+               "credit_id": "59c98a08c3a3684d95000ac3",
+               "name": "Jane Aird",
+               "profile_path": null,
+               "id": 1296248,
+               "order": 13
+            },
+            {
+               "cast_id": 27,
+               "character": "Kelly",
+               "gender": 0,
+               "credit_id": "59320f96c3a3685a450023b4",
+               "name": "Betty Impey",
+               "profile_path": null,
+               "id": 1827587,
+               "order": 14
+            },
+            {
+               "cast_id": 29,
+               "character": "Peterson",
+               "gender": 2,
+               "credit_id": "59320febc3a3685990002405",
+               "name": "Edwin Richfield",
+               "profile_path": null,
+               "id": 184981,
+               "order": 15
+            },
+            {
+               "cast_id": 35,
+               "character": "Harry",
+               "gender": 2,
+               "credit_id": "5932109bc3a36859ef0024c1",
+               "name": "Michael Balfour",
+               "profile_path": "/5MiwiFjIULYYVwmk3SmsptJXZu4.jpg",
+               "id": 18763,
+               "order": 16
+            },
+            {
+               "cast_id": 32,
+               "character": "The Police Commissioner",
+               "gender": 2,
+               "credit_id": "59321046c3a3685a0b00250d",
+               "name": "John Stuart",
+               "profile_path": "/zZzUldf0EqwbrNVHx9anw7YInHp.jpg",
+               "id": 30709,
+               "order": 17
+            },
+            {
+               "cast_id": 30,
+               "character": "Woman Member of Parliament",
+               "gender": 0,
+               "credit_id": "593210109251417dd400249c",
+               "name": "Joyce Adams",
+               "profile_path": null,
+               "id": 1827589,
+               "order": 18
+            },
+            {
+               "cast_id": 28,
+               "character": "Lab Assistant",
+               "gender": 0,
+               "credit_id": "59320fabc3a3685a240021e5",
+               "name": "Philipp Baird",
+               "profile_path": null,
+               "id": 1827588,
+               "order": 19
+            },
+            {
+               "cast_id": 31,
+               "character": "Intern",
+               "gender": 0,
+               "credit_id": "593210269251417e1d0023fb",
+               "name": "John Fabian",
+               "profile_path": null,
+               "id": 169549,
+               "order": 20
+            },
+            {
+               "cast_id": 46,
+               "character": "Super",
+               "gender": 2,
+               "credit_id": "59c98ac5c3a3684d06000b44",
+               "name": "George Merritt",
+               "profile_path": "/5Q3zRQOzfgeiu7CIo0jYjHvvbnE.jpg",
+               "id": 27944,
+               "order": 21
+            },
+            {
+               "cast_id": 34,
+               "character": "Chris (uncredited)",
+               "gender": 2,
+               "credit_id": "59321077c3a3685a4500244d",
+               "name": "Barry Lowe",
+               "profile_path": "/eemehNORn0L2YJNcO4l0uaawrTi.jpg",
+               "id": 117471,
+               "order": 22
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe44f8c3a368484e0412e1",
+               "name": "Val Guest",
+               "profile_path": "/99rZHWC9WKCyVgFLpBy1fKDkyLB.jpg",
+               "id": 39853,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44f8c3a368484e0412f1",
+               "name": "Nigel Kneale",
+               "profile_path": null,
+               "id": 66202,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "538e82de0e0a2644c100086f",
+               "name": "Anthony Hinds",
+               "profile_path": null,
+               "id": 30168,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "538e82f5c3a36832c3000686",
+               "name": "Michael Carreras",
+               "profile_path": null,
+               "id": 29664,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "538e831cc3a36832ca0005e4",
+               "name": "James Bernard",
+               "profile_path": null,
+               "id": 30137,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "538e8329c3a36832c60006b0",
+               "name": "Gerald Gibbs",
+               "profile_path": null,
+               "id": 115057,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "538e8335c3a36832d5000625",
+               "name": "James Needs",
+               "profile_path": null,
+               "id": 30172,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "538e8342c3a36832d7000631",
+               "name": "Bernard Robinson",
+               "profile_path": null,
+               "id": 30139,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "538e8351c3a36832ca0005e8",
+               "name": "Philip Leakey",
+               "profile_path": null,
+               "id": 30703,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "538e8418c3a36832c0000699",
+               "name": "Val Guest",
+               "profile_path": "/99rZHWC9WKCyVgFLpBy1fKDkyLB.jpg",
+               "id": 39853,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5934a51cc3a3685a24025c99",
+               "name": "Bill Warrington",
+               "profile_path": null,
+               "id": 1582124,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5934a5469251417ddc028e2e",
+               "name": "Henry Harris",
+               "profile_path": null,
+               "id": 1828636,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5934a555c3a3685a45026f55",
+               "name": "Frank George",
+               "profile_path": null,
+               "id": 1592687,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5934a5649251417e32026426",
+               "name": "John Hollingsworth",
+               "profile_path": null,
+               "id": 1555746,
+               "department": "Sound",
+               "job": "Music Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5934a5739251417dea0282c3",
+               "name": "Don Weeks",
+               "profile_path": null,
+               "id": 1207591,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5934a57f9251417e1d027a85",
+               "name": "Rene Coke",
+               "profile_path": null,
+               "id": 1688831,
+               "department": "Costume & Make-Up",
+               "job": "Wardrobe Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5934a591c3a3685a24025d16",
+               "name": "Anthony Nelson Keys",
+               "profile_path": null,
+               "id": 29665,
+               "department": "Production",
+               "job": "Production Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5934a5a49251417e32026463",
+               "name": "John Workman",
+               "profile_path": null,
+               "id": 1290932,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5932120ec3a3685a0b00266a",
+               "name": "Nigel Kneale",
+               "profile_path": null,
+               "id": 66202,
+               "department": "Writing",
+               "job": "Teleplay"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Horror",
+            "id": 27
+         },
+         {
+            "name": "Science Fiction",
+            "id": 878
+         }
+      ],
+      "popularity": 3.359286,
+      "production_countries": [{
+         "iso_3166_1": "GB",
+         "name": "United Kingdom"
+      }],
+      "id": 26278,
+      "vote_count": 39,
+      "budget": 0,
+      "overview": "Quatermass is the director of an important scientific base, where he builds nuclear rockets for the colonization of the Moon. A strange fall of meteorites in a nearby village leads to the discovery of a huge base under a strict military control, officially a factory of artificial food. Quatermass reveals that the factory is actually breeding alien creatures.",
+      "similar": [
+         7191,
+         124905,
+         126889,
+         34851,
+         588,
+         1091,
+         5876,
+         8078,
+         44943,
+         329865,
+         384521,
+         339967,
+         1927,
+         39256,
+         339530,
+         46261,
+         16866,
+         15767,
+         22825,
+         2114
+      ],
+      "original_title": "Quatermass II",
+      "runtime": 85,
+      "poster_path": "/nRvZWgwwgZfzouJeMCUQ9P9mmZm.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": "/pi7SHIi3CNAyDUCt6Jpr1q9UW3t.png",
+         "name": "Hammer Film Productions",
+         "id": 1314,
+         "origin_country": "US"
+      }],
+      "release_date": "1957-05-24",
+      "vote_average": 6.2,
+      "belongs_to_collection": {
+         "backdrop_path": null,
+         "name": "Quatermass (Hammer series)",
+         "id": 123726,
+         "poster_path": "/skk1tmdHnvySB8kADEtoOActyOc.jpg"
+      },
+      "tagline": "A horrible enemy from the unknown strikes terror across the earth!",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "UK",
+      "color": "Black and White",
+      "budgetCurrency": "£",
+      "directors": ["Val Guest"],
+      "runtime": 85,
+      "synopsis": "The movie opens with a car speeding along a dirt road. The woman driving (Jan Holden) is telling her boyfriend, Chris (Barry Lowe) to \"Hold on, well get help soon, were coming to the main road.\" He has a large dark blister on his face. He's delirious, grabs the steering wheel, and tries to run the car off the road. They enter a \"T\" intersection and nearly crash into the car Professor Bernard Quatermass (Brian Dunlevy) is driving. Quatermass gets out of his car and walks over to the other. He's very angry and shaken, but inquires about the burn on the man's face. The woman hands him some rock fragments and tells him they were responsible for the burn. She tells him they were in Winterton Flats for a picnic. Quatermass helps push the car back onto the road, when Chris bolts from the car. They wrestle him back into the car. Credits roll. (Note: The British Version is called Quatermass 2, while the American version of this movie was titled Enemy from Space.) At the Rocket project we see a building with a radar antenna mounted on the roof. Two operators are watching the screen. They notice scores of objects coming down slowly. They track the objects to one hundred miles north of their location. As they reset the equipment, Quatermass drives up. He notices the antenna setting and is very annoyed. He scolds Brand (William Franklyn) and Marsh (Bryan Forbes) for what he perceives as unauthorized use of the scanner. He tells Marsh and Brand that tomorrow none of them may have jobs. He gives Marsh the stone fragments and tells him to have them analyzed and classified. He apologizes to Brand and tells him that the moon project is to be cancelled. He outlines the project scope in front of a scale model--to build a colony on the moon. As he prepares to get in his car he points to the rocket ship on the launch pad and tells Brand, \"Can you still bear to look at it? The sum total of our achievement up to now--one Rocket, crewless, untried.\" He leaves for the rocket launch area. Brand returns to the radar room and notices more traces on the screen. It is morning and the office is a buzz of activity. Quatermass enters, awake all night, and Marsh is waiting for him. He wants to report on the meteorite. Brand is holding the reconstructed fragments and notes that it is hollow and symmetric. Quatermass tells Marsh to get the car ready. He and Marsh drive up to Winterton Flats to have a look at the place themselves. They encounter a new road, marked \"Road Closed, Government Property.\" Ignoring the sign they drive until the road ends and they get out of the car to investigate. Quatermass warns Marsh not to walk any further. They get back in the car and drive back and take another fork in the road. That takes them to a section of road on a plateau. They see a demolished town below and their moon project fully built. They walk down to get a better look. They notice the area littered with more rock fragments, some broken, others nearly whole. They hear an alarm horn and Quatermass asks, \"I wonder if that's meant for us? Perhaps we better go and explain ourselves.\" Marsh digs up a whole object. He picks it up and hears a whoosh of air, and smoke billows from the object. Marsh coughs and collapses to the ground. Quatermass notices something on his face. A large blister and a V shaped scar on his cheek. A truck of soldiers leaves the installation. Quatermass helps Marsh to his feet as a dozen or more soldiers surrounds them. A couple of soldiers grab Marsh. They refuse to respond to questions asked by Quatermass. He notices one soldier with the same V shaped mark on his face. They escort Quatermass back to his car after hitting him in the face with a rifle butt. They tell him, \"Go, go now.\" Quatermass drives into a local town to report to the police, but the little town has no police, only a camp committee in the Community Center. He talks to the camp secretary, Dawson (Charles Lloyd Pack). When he asks about the installation he is met with hostility and suspicion. They refuse to allow him to use the phone. Quatermass drives to the nearby town of Brawley. The police there tell him he was not supposed to be trespassing at the installation. They will not tell him anything about the facility. Quatermass drives back to the rocket center. Brand tells him more meteorites have fallen. Quatermass immediately orders the rocket center guarded. He tells Brand the stones are a container of some type. In addition to ammonia gas, they harbor something alien and alive. He also tells Brand that the moon project has already been built at Winterton Flats. Quatermass will go to London in the morning. His staff has reconstructed the container before it entered the atmosphere. They conclude its aerodynamic shape is the sign of intelligence. Driving to London, Quatermass notices large trucks moving equipment with the same strange logo he saw on the road signs. He stops at Scotland Yard to talk to Inspector Lomax (John Longden). Lomax wants to engage in small talk, but Quatermass gets straight to the point. He asks, \"Just how much do you know about a place called Winterton Flats?\" Lomax seems stunned. He tells him the place is Top Secret. Quatermass tells Lomax his story. Lomax finally admits a tidbit, \"Well that place should be harmless enough. It's a government project to make synthetic food.\" Lomax then gets on the phone and arranges a meeting for Quatermass with a Member of Parliament, one Vincent Broadhead. They are to meet in an hour. Quatermass tells Vincent Broadhead (Tom Chatto) about his trip to the site. Broadhead thinks the project is just a waste of money, but he wants details and tells Quatermass it started to scale up about two years before. Broadhead tells him he just got a pass to visit the installation. He meets with the P.R. officer (John Van Eyssen) and gets Quatermass added to the pass. They have lunch then board cars for the trip to Winterton Flats. They enter the plant. It resembles a huge oil refinery (Shell Haven Refinery in Essex). Quatermass pulls Broadhead aside when he spots the Medical Centre Building. He is looking for his colleague, Marsh, and asks if he wants to join him in having a look inside. The P.R. guide notices Quatermass and Broadhead missing from the tour and searches for them. The two men enter the medical building and are met by a very rude doctor and an empty hospital. There are no patients and very little staff. The guide finds them and gets them back with the inspection team. Quatermass notices a large container marked Ammonia. Their next stop on the tour is one of the large containment domes. Three men inside the dome don gas masks as the inspection party is hustled along the tour. The guide notices that Broadhead is missing. He tries to seal the door on the tour group, but Quatermass escapes and gets back outside. Quatermass runs back to a steel sphere he noticed earlier. Broadhead exits the top of the structure and stumbles down a ladder screaming and coughing. He is covered in a corrosive black slime that burns. He warns Quatermass not to touch him. The material has blinded him and eventually kills him. An alarm horn goes off and Quatermass runs back to the car. Guards with machine guns fire at him. He commandeers one of the cars and escapes the facility. At Scotland Yard, a very drunk Jimmy Hall (Sid James) stops by for any news he can print in the newspaper. He needs to fill one and one-half columns before midnight. Quatermass stops by to see Lomax. Hall accosts him at the front desk. Lomax is preparing to leave the office. Quatermass briefs Lomax on the goings on at the plant. He tells Lomax that Broadhead is dead. Lomax shows him a newspaper story that Broadhead is away on a \"Trade Mission.\" Quatermass demands an investigation. Lomax goes to talk to the Commissioner (John Stuart) but before he can relate the story he notices the mark on the man's hand. He makes up a story and exits. He returns to Quatermass and asks about the mark. He describes it perfectly. They now know that many government and police officials are being systematically infected to protect the project. Brand calls Quatermass at Scotland Yard and tells him they've found the source of the containers. Jimmy Hall barges into Lomax's office and Quatermass and Lomax decide that a news report may be the best solution. At the Rocket Center Quatermass and Lomax show Hall the evidence. He tells him that the alien intelligence is a piece of a larger organism. They infect a human host then, \"an immediate invasion of his entire nervous system. Something is implanted, an instinct, a blind compulsion to act for them.\" Hall is incredulous. He wants more information and wants to see Winterton Flats. Before they leave Quatermass briefs Brand on his contingency plans. He also gets a preliminary report on the black slime. He tells Hall and Lomax that it is a deadly poison to every living thing on earth. Quatermass thinks it is food for the life in the domes. There is a St. Patricks Day dance at the Rec Center. Ernie, the bartender (Michael Ripper) and Sheila (Vera Day) are busy behind the bar with drink orders. Sheila is horrified by the drunken \"jig\" Paddy Gorman (Percy Herbert) is performing. She pushes him aside, dances, and wins the competition. Hall shows up, along with Quatermass and Lomax, and asks Sheila about work at the plant. The camp secretary recognizes Quatermass and tries to throw the three out. Then the crowd tries to throw them out but Lomax identifies himself as a police officer and tells the crowd they are in danger. A container falls through the roof. They empty the room while Sheila picks the meteorite up and is infected. Against strong advise from Quatermass, Hall calls in his story from the Rec Center. The guards show up and kill Hall while he's on the phone. Quatermass and Lomax get in the car and are fired upon as they depart. They head for the facility. Quatermass hits and kills a guard on the road with his car. They stop and find a truck with steel containers containing alien creatures. He notes that this is how they get them back to the domes. Quatermass sends Lomax back to London, while he impersonates the dead guard to gain entrance to the facility. A mob of townsfolk walk to the plant. They stop Lomax from getting back to London. They steal his car and head for the gate. Quatermass arrives at one of the dome processing areas. He looks into the dome through an inspection port and is mesmerized at the sight of the alien creature. It is huge. It looks like a multi-eyed, dark writhing carpet. His fellow workers suspect he isn't one of them, but before they can act, a general alarm is called to an emergency at Gate 4. The mob approaches the gate. The mob attacks one of the container retrieval trucks. The guards retaliate with gun fire. They are told over the loudspeaker to shoot to kill. They fight their way into the main pressure control blockhouse, where Quatermass was waiting for them. He identifies himself. Dawson, the camp secretary, panics and wants out. Quatermass examines the controls and notes the gases being used: Ammonia, Methane, Hydrogen and Oxygen. He also examines the piping layout. He speculates that the oxygen is being used to acclimatize the aliens to the earth's atmosphere. He shuts off all gases to the domes except Oxygen. That gets an immediate response. Quatermass confides in Lomax that the contingency plan is to use the rocket ship as an atomic bomb to hit the orbiting asteroid--the source of the containers and the aliens. Launch at midnight is the plan. Brand and Peterson (Edwin Richfield) make preparations at the launch center. As they are setting the systems, Marsh arrives with a contingent of guards to stop the launch. Brand is shot but launches the rocket. With his dying strength he arms the rocket for detonation. At the blockhouse, the mob has armed themselves with anti-tank weapons. Quatermass is happy to see his rocket was launched. The plant supervisors try to bargain with the control room mob. McLeod (John Rae) talks to one on the phone and arranges to see inside the dome. He, Dawson, and a third man leave and walk to one of the domes. Shortly thereafter there is a scream that reverberates through the oxygen pipe. Then blood starts dripping out of the oxygen supply pipe. They used the men as a plug to stop the flow. Angry, Ernie and Paddy begin firing at the dome and manage to blow one up. A toxic gas wafts towards the control room. The alien creature emerges from the remains of the damaged structure. It writhes around and attacks the control room, pushing in a wall. The remaining group consisting of Quatermass, Lomax, Ernie and Paddy escape. Amid the confusion of the humans, and the destruction to the plant by the alien forms they commandeer a jeep and escape the plant. Some distance from the plant they look back at three creatures writhing in pain exposed to the earth's atmosphere. The rocket hits its target in space and explodes lighting up the night sky like daytime. The creatures fall over and die amid the burning wreckage of the plant. A huge wind gust blows over their jeep. They take shelter behind it. An infected guard they took as proof of the infection now shows no sign of the mark. We end with Lomax asking, \"How am I going to make a final report about all this?\" Quatermass responds, \"What worries me is how final can it be?\" They walk down the road, and the cast credits roll.",
+      "writers": [
+         "Nigel Kneale",
+         "Nigel Kneale"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0050873/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTI1MDA5MzAzM15BMl5BanBnXkFtZTcwMDM2MzkxMQ@@._V1_SY317_CR5,0,214,317_AL_.jpg",
+      "actors": ["Stars: Brian Donlevy, John Longden, Sidney James | See full cast and crew »"],
+      "reviews": [
+         "This was one of the first of its kind; a subtlety scary vision of a secret alien takeover. X-FILES may owe a debt to this low-budget, but nevertheless effective film of the powers-that-be who are conspiring with the invaders, and one lone, determined scientist who accidentally uncovers the sinister plot. QUATERMASS II (U.S. title: ENEMY FROM SPACE) was produced before INVASION OF THE BODY SNATCHERS, the film it is often compared to, due to their thematic similarities (loss of identity, social oppression, dangers of conformity, and blind allegiance to a greatly questionable, authoritarian power). However, it was released in the U.S. shortly after BODY SNATCHERS, probably making it look like a copycat to some. Superb writer Nigel Kneale (excellent script, highly original for its time, derived from the earlier BBC serial) was known to strongly despise Brian Donleavy's gruff performance as the lead character. Kneale did not like the fact that Donleavy presented the character as a cold, methodical misanthrope who treats his colleagues like expendable underlings. He will probably want to boil me in oil for saying this, but I felt that presenting the lead character as morally ambivalent and ethically questionable jettisoned the standard 50's scientist/hero sterotype (for once he is not nice and charming). It also added a further degree of tension to the well-plotted story. In many ways, his alienated character is somewhat alien; perhaps that's the only true way to resist social pressures and conditioning. The allegory here is strong. As the story opens, Quatermass is driving one night on a remote country road. He is furious that the stodgy Whitehall bureaucrats rejected his funding request for a proposed moon colonization project. A speeding car nearly hits him head-on as it runs off the road. The shaken passengers are a frightened woman and her boyfriend, who is in a crazed state, and has a strange black mark on his face. Quatermass returns to his isolated lab, where radar reveals to his assistants that many small meteor particles (at least that's what they assume they are) have descended over a rural village known as Wynerton Flats. Going out there with his colleague, Marsh, they first discover his moon project, fully constructed, and some small, mysterious rocks. As Marsh examines one, it emits an eerie gas and pops in his face, leaving the weird black mark. Strange soldiers arrive, behaving like aloof zombies, abduct Marsh, strong-arm Quatermass in the typical fascist tradition, and order him to leave. (There may be one flaw here: Why didn't the \"soldiers\" either abduct or kill Quatermass, instead of letting him go, so he can inform?) Naturally the authorities all have tight lips about the secret activities at Wynerton Flats, but Quatermass manages to convince a few officials to go out there with him. A government aid (with that strange black mark on his wrist) conducts a formal tour of the plant, where everything seems to be normal. Not so. The small group is indoctrinated by the zombies (who resemble Nazis), but Quatermass manages to escape. (This scene truly exposes Donleavy's ruthless side: He and a woman are taken into a large dome, but Quatermass flees, leaving the woman behind, without any concern for her fate. Hell, he doesn't even abide by the old fifties hero tradition by risking his life to save the distressed damsel. In many ways Quatermass was an ahead-of-his-time anti-hero. I always felt that this added a disquieting strength to the drama and the severity of the dire situation, but I guess that Kneale will still vehemently disagree). I'll stop here, but don't worry, the worse is still to come. The sense of growing unease and mounting terror (strong qualities of your finer British Science Fiction at that time) escalates. Be patient, for it does carefully build into a total state of alarm, as Quatermass and the local angered citizens challenge the invaders (who have taken over most of the government and military officials) to a brutal showdown. There is something highly menacing in those domes. This impressive film is true Science Fiction at its best. It thrills without pandering and is thoughtful to the point of disturbing. You can't trust anyone. Its social and political implications are definitely troubling. This is not for your Lucas and Spielberg crowd, for we're not talking about commercial catering to eight-year-olds. Val Guest directs in a cold, cynical Kubrickian manner, accentuating the high degree of paranoia, and the picture's black & white photography conveys a bleak, creepy mood. (Sorry, no pretty pictures here). The intriguing story takes on true nightmarish proportions. The few effects won't win any CGI awards (don't forget, computers weren't around then) but the briefly glimpsed monster (in the gothic Lovecraft tradition) is quite sickening. After all, it can manipulate man's dirty politics, you can't get more reprehensible than that. From the late sixties to the late eighties this film was unavailable to the public, and it was feared to be permanently lost, but it later was released on video and shown occasionally on the Science Fiction Channel. Many notable Science Fiction and Horror authors (I believe that Harlan Ellison and Stephen King were among them) have championed this small, but remarkable early Hammer production. This is the film that many others have \"borrowed from.\" Just a polite way of saying RIPPED-OFF! For those seeking an intelligent challenge, check it out.",
+         "I was never aware that this movie was anything other than a stand-alone feature. I'm not familiar with 'Quatermass' in any way whatsoever. But I saw a movie when I was a kid that was titled 'Enemy From Space' and I've never forgotten it. The scene where a man who has been covered in some black stuff shockingly, jarringly shrieks out and stumbles down the outside stairway of some huge, weird, vat-like structure frightened me enormously. I didn't know what the stuff was exactly, I just knew it was burning the man horribly and his utterly convincing screams drove it into my brain permanently. I was pretty young when I saw it at my local 'B-Movies Only' neighborhood theater. I'm not sure how it was elsewhere, but in my hometown there was a movie house that got all the A-List pictures (Cary Grant, James Stewart, Liz Taylor, Disney) and another that made the most of the plentiful supply of small-budget monster movies that were released in the late fifties and very early sixties. Triple Features were often offered in these 'lesser' venues. The beauty of it was that both types of theater thrived in those cable-less, vcr-less days. But I digress. So I see this movie and I'm only about 7 years old at the time and that night I couldn't sleep. And though I had sat through the entire thing, my mind was locked into that horrifying scene so completely that I did not really recall another word spoken in the film. It came around to the Biltmore a couple more times and, though terrified, I was irresistibly drawn to see it again, each time absorbing a little more of the content. The challenging storyline wasn't all that easy to grasp - a lot of it went over my young head. It was a long time ago but I remember a meteorite falling through a roof, a road that went nowhere, a silent and sinister industrial area, a man who becomes suddenly very sick (in the pub I think) and has a white splotch on his face, severely serious soldiers who seem to be bad guys, a window through which an alien something-or-other is observed and, of course, the unfortunate man covered in burning black oil. A truly eerie movie, as engrossing as it is chilling. I would very much like to see it again",
+         "One has to see this film in the context of when it was made. Britain was in the grip of science fever at the time. There were heavily attended science fairs all over the country; the space race was under starter's orders; and many people (even some scientists) still harboured the idea that there was intelligent life in the solar system. A man of the times was the character of Prof Bernard Quatermass played by Brian Donlevy. He was the new breed of scientific hero: tough talking, hard-headed, as good with his fists as he was with his integral calculus, wilful, and armed with a can of bullshit repellent. At the time, it was thought that the scientists were going to solve all the world's problems; and Prof Quatermass was the British embodiment of this notion. The Shell refinery setting is superb for one of the most frightening SF stories you are ever going to come across. It is not the aliens which are so frightening as the reactions of the authorities, and the lengths they will go to, to cover the whole thing up. Note that some of the uniforms worn by the authorities are even more frightening than the aliens in the domes. It is not often that a sequel is better than the original; but this is such a case. The Quatermass Experiment is fine; but this one is much, much better. It's still good. It could have been made only a couple of weeks ago.",
+         "'Quatermass 2' is even better than the excellent 'The Quatermass Xperiment'. Like the first movie it was a remake of the original British TV production which I have sadly not seen (both are lost I think). Val Guest directs once again, Brian Donlevy reprises the role of the crusty Professor Quatermass, and this time Nigel Kneale was allowed to adapt his own original script, which probably explains why it improves on the first movie. Quatermass stumbles across a mysterious secret Government installation which is supposedly developing synthetic food, but is in fact something quite different and frightening. Donlevy isn't my favourite Quatermass but he is better here than in the first movie, and the supporting cast includes John Longden in the role originally played by Jack Warner, Bryan Forbes as Quatermass' assistant Marsh (another change of actor), comedian Sid James of 'Carry On' fame, and Hammer regular Michael Ripper. 'Quatermass 2' is a very entertaining and suspenseful thriller, which hasn't dated as half as much as you'd expect. It will particularly be interesting to fans of 'Invasion Of The Body Snatchers', which it shares certain themes with, and 'The X-Files', which many people, myself included, would argue owes this movie and the next in the series 'Quatermass and the Pit' a large debt. Nigel Kneale is one of the most underrated writers of SF and horror of our time (over 80 years old and still active!), and the Quatermass movies are his best known and enjoyable achievements. I highly recommend them all.",
+         "I first saw this film once when I was about five or six years old on TV. Because the film had location shooting at an oil refinery, for years I was always reminded of this film when ever I drove past one, wondering if something sinister was going on inside those tanks. However, soon after I first saw this film, QUATERMASS 2 (or ENEMY FROM SPACE-as it was called here in the USA), was pulled from distribution for various legal reasons, and this film was for years impossible to view. Then the film was released from its legal limbo in the mid eighties and I purchased a video copy as soon as it came out. Unlike so many hard to view films that have been promoted as \"a long lost classic\", that often turn out not to live up to their reputations when finally viewed again*, QUATERMASS 2 truly deserves its reputation as a rediscovered lost classic. It is one of the best British science fictions films from the fifties. The films acting and direction are uniformly good. The black and white photography is excellent and the film has an excellent musical score (although sometimes the music is a bit too loud.) The scene where the giant aliens burst from the domes is one of my favorite scenes in a fantastic film. Its like something out of a nightmare: the dome begins to crack, like a giant egg, and emerging from is not a cute little chick, but a hideous malignancy. The gloomy dark gray lighting enhance this scene. However, the aliens that emerge, while gross and repulsive looking when viewed for the first time, begin to look a tad bit silly after repeated viewings. Perhaps one of the most interesting thing about this film when viewed today, is the films story has many similarities to the \"Area 51\" mythology. In the film there is government owned plant where everything is top secret, it gets unlimited tax payer funding, but no one in the government dare asks whats going on. This sounds lot like what we are told about the so-called \"Area 51.\" I'm surprised \" psycho/social reductionists\" like Curtis \"Watch The Skies\" Peebles overlooked this film. Then again, maybe we are lucky they have. QUATERMASS 2 is an excellent fifties science fiction that should be more widely shown. Like the other films in the famous \"Quatermass\" series, its literate, suspenseful and thrilling. *Sometimes the films promoted as \"long lost classics\" aren't even lost!",
+         "Thanks to a good friend I'm currently undergoing what sci-fi fans refer to as \"the Quatermass-experience\". That simply means watching the three QUATERMASS-movies in a short time period. The first one felt like a true sci-fi classic, but I honestly couldn't really tell, because I haven't seen enough of those black & white sci-fi flicks to compare it too. But I'm working on that. After having seen QUATERMASS 2, I'm starting to get convinced that those movies really are a stellar trilogy (even though the individual stories aren't actually related). This second installment was the first British movie ever to feature a number \"2\" in its title, to indicate that it's a sequel. The movie itself shows a lot of similarities with the original INVASION OF THE BODY SNATCHERS (an alien organism invading earth, loss of human identity, a common higher consciousness, a global threat at hand...). But since they were produced around the same time none of the movies can be accused of stealing from each other. Writer Nigel Kneale presents us a solid, coherent story undermined with plausible scientific facts. To put it rather simply: an organism not of this earth infects humans and even infiltrates the highest ranks of the British government. The story moves at a decent pace and never gets boring. Val Guest's directing is as good as it gets for a movie from the 50's. He clearly knew what he was doing on the set. Some minor continuity problems can be encountered (some night shots feature a few glimpses of daylight) and at least one scene seemed a bit artificially staged for convenience's sake (the one where Broadhead and Quatermass get their passes from the ministry-chap). But all that really isn't anything to complain about. I sort of liked Brian Donlevy as Quatermass. He really feels like the prototype of an anti-hero. He's often a bit rude and really persistent. Especially that last characteristic made his character more believable. The rest of the acting was also decent, though all of the supporting roles were too small to be memorable. And I so much liked the fact that there wasn't an obligatory love-interest in the plot for Mr. Quatermass. That simply would not have worked. There were a few details I really liked, like when Quatermass arrives in that little town in the area of Winterton Flats (or was it Willingdon Flats?). All the inhabitants work for the alien-infested factory and they have posters on the wall with slogans like \"Remember: Secrets mean sealed lips\" and \"Talk about your job. Lose it\". Another cool thing about the story was that it was actually Quatermass who designed the factory facility with the domes, which was originally to be a moon-colonization project. Only, the government stole his design and build it here on earth, for the alien organism to adapt itself. The factory was an excellent location and felt real. So were the few special effects (mainly miniatures of the domes). The 'rocket-lift-off' shots and effects looked rather silly though. I'm glad this movie was in black & white, that way, when we finally see the alien organism in all its giant glory, it looked a bit more terrifying. So if you're curious about the history of sci-fi movies, than you just can not miss this one. Now I'm really looking forward to see QUATERMASS AND THE PIT.",
+         "This film was actually the first sequel to use a number in the title (although it's American title was \"Enemy from Space\"). Not only was this a cleverly written film, based on Nigel Kneale's screenplay, but it was a cruel satire on English and American culture in the 1950s. In a nutshell, Professor Bernard Quatermass, leader of England's rocket group, is at wit's end trying to get more funding for his projected moon project. The British government decides it has \"projects of far greater importance.'' At the same time, workers at Quatermass' base detect scores of what look like meteorites falling close by. When Quatermass investigates, he not only finds remnants of the meteorites, but his moon base, conveniently appropriated by an unknown government entity. His lab assistant picks up one of the meteorites and it explodes in his face, immediately infecting him with an alien parasite. Quatermass is forced to go it almost alone, helped by a cynical police inspector, a drunken beat reporter and a vigilant member of parliament who can't get even his own party members to question where millions of pounds of tax dollars are going to. The cruel satire comes from the comparison of Western governments of the 1950s to the communist governments they vehemently opposed during the Cold War years. British citizens were taught to implicitly trust government even as it spent millions to unknowingly fund an alien invasion. Civilian workers were so glad to have jobs they don't question why the supposed \"synthetic food\" plant they're building needs huge doses of toxic gases like ammonia. Even when evidence of wrongdoing is brought up, government red tape squelches it. As for the movie itself, it is much better written than the original (\"The Quatermass Experiment\"). Nigel Kneale softens Quatermass' dour and brusk personality. Director Val Guest effectively uses a string musical score to build a creepy atmosphere. He and Kneale even overcome the first movie's dull ending, which had an alien getting electrocuted with no suspense whatsoever. Here, the plant workers, angry that one of their own is carted away by infected security guards at gunpoint, try to storm the plant, turning the aliens' carefully planned invasion on its ear. The irony, of course, is that the plant was conceived because government bureaucracy kept it secret. Now, as the plant is threatened, the same secrecy prevents the aliens from calling for help from the police or armed forces. The special effects are better in this film, though the giant aliens at the end are not as convincing as they could be. Still, the film is a great example of British science fiction, which relied more on plot and characterization than the special effects that dominated American science fiction.",
+         "This movie sees Brian Donleavy reprise the role of Bernard Quatermass,who when the movie opens is not a happy man,the British government having turned down his plans for a Moon colony.Distraction arrives in the form of objects from outer space landing in northern England .On going to investigate he finds a site looking more than a little like the moon project mock up,and to complicate matters his assistant(played by future author/director Bryan Forbes,then in his stalwart character actor mode)is stricken by on coming into contact with the alien substance and is carted away by the guards on the project Quatermass gains entry to the plant as part of a parliamentary study group who are assured it is a project to manufacture synthetic food.Naturally ,they are being economical with the truth and the plant is the front for an alien invasion How the intrepid if permanently bad tempered scientist tackles the problem is the root of the movie which still has resonance today in its suggestion of cover up and conspiracy,aliens having infiltrated the government and police(This would explain why British politicians seem determined that we shall be ruled by aliens--the EC!) The movie makes good use of locations and the alien plant is an old utilities generation plant that looks chilling and strangely futuristic.Donleavy is too much on one note as,but Sid James is effective in a rare straight role as a hard drinking journalist and the rest of the cast are adequate Special effects are antiquated.What still works are its atmosphere and sense of paranoia regarding our political lords and masters.",
+         "The second of the Quatermass films (the first was THE QUATERMASS XPERIMENT, the \"X\" used to emphasise the adult X-rating the film received on its initial release) was allowed a slightly larger budget and benefited enormously from Nigel Kneale's participation in the screenplay. In this film, at least Brian Donlevy behaves a little more like Quatermass ought to, though I still don't think he was right for the part. For my money, Quatermass should be a pipe-smoking English boffin with leather patches sewn on the elbows of his jacket. The original character was conceived as a kind of Barnes Wallis type, as portrayed by Michael Redgrave in THE DAM BUSTERS. The movie is set in a post-war Britain that was a little panicked by the idea of nuclear weapons and even more unsettled by the knowledge that our former allies, The Soviets, had the same weapons and they were pointed at us. This was the climate that gave us Orwell's 1984 and Don Siegel's INVASION OF THE BODY SNATCHERS. Paranoia was out to get us ... This same atmosphere lasted well into the 1960s and can also be glimpsed in TV shows like THE AVENGERS. This was the era I grew up in, so I speak from personal experience :-) This movie is one of Hammer's better offerings of the period. Released the same year as CURSE OF FRANKENSTEIN, it more than holds its own against the other, better-known Hammer colour offerings. Indeed, it benefits from its monochrome photography, which brilliantly communicates the austerity of the years immediately following WWII. Thoroughly recommended, this film will appeal to anyone who can get beyond the admittedly primitive 1950s special effects to be rewarded by the rich and clever story that lies beneath the slightly dodgy veneer ...",
+         "Val Guest's Quatermass II is my favourite film ever. The cold, dawning revelation that builds up all the way through the first half of the film that the invasion is actually underway and that the 'zombies' not only WALK AMONG US, but are actually IN CHARGE and IN POWER is terrifyingly atmospheric. I always like to think that if the invasion ever did come, it wouldn't come through massive mother ships as per Independence Day, but from within, from the suburbs, the rural villages. Really clever invaders would use Earth's own power structures, governments and resources against it without anyone noticing, not turn up en masse in flying saucers spoiling for a fight. The idea of the invasion falling to Earth in meteorites through a form of collective intelligence (recycled in the 1973 BBC Doctor Who serial Spearhead From Space) continues this threatening vein of invasion, and provides the most atmospheric scene in the film when Quatermass stands in the open night air as whizzing sounds around him give away the increased number of the meteorites now falling (the invasion is now fully underway!). Other scenes are just downright terrifying and follow the Kneale tradition of 'terror through revelation': the lorries in London carrying the symbol; Quatermass' first glimpse through the dome viewing panel; and when it is revealed how the zombies are blocking the pipes!! This 'revelation' aspect can be seen in all of the Quatermass films and serials (in The Quatermass Conclusion: when it is revealed by the body parts that the hippies weren't 'transported', in Quatermass and the Pit: 'you mean WE are the Martians!!'). Storytelling, atmosphere and terror like this hasn't survived the onset of today's special effects. Film makers like Dean Devlin just don't need to employ methods like this anymore, and this is why thinking people's science fiction relying on chilling, atmospheric and scientifically valid stories, plots and concepts will never ever be repeated."
+      ],
+      "genres": [
+         "Sci-Fi",
+         "Horror"
+      ],
+      "productionCompanies": ["Hammer Film Productions"],
+      "summaries": [
+         "Professor Quatermass, trying to gather support for Moon colonisation his project to colonize the Moon, is intrigued by the mysterious traces that have been showing up on his radar - meteorites crashing down?. Following them to the place where they should be landing he finds a destroyed village, a mysterious factory too close to his designs for the Moon colony for comfort, and some strange, aerodynamic objects containing a mysterious, ammonia-based gas that infects one of his assistants. Officially, the factory is producing synthetic food; but despite the veil of secrecy surrounding it Quatermass succeeds in finding out it harbours aliens with deadly designs on the Earth... Second in Hammer Films' trio of screen versions for Nigel Kneale's classic 1950s BBC serials, with the same director and star as 1955's \"The Quatermass Experiment\".",
+         "Dr. Quatermass is the director of an important scientific base, where he builds nuclear rockets for the colonization of the Moon. A strange fall of meteorites in a nearby village leads to the discovery of a huge base under a strict military control, officially a factory of artificial food. The shrewdness of Quatermass reveals that the factory is the place chosen by the aliens to conquer the Earth: they come in the form of an alive gas hidden in the meteors and to live in our atmosphere they use the human body taking the control of the brain. The courage of Quatermass and the launch of of his nuclear rocket against the asteroid of the aliens save the Earth.",
+         "Professor Quatermass, trying to gather support for his Lunar colonisation project, is intrigued by mysterious traces that have been showing up."
+      ],
+      "budget": 92000
+   },
+   "movielensId": 3659,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1957-05-24",
+      "dvdReleaseDate": "2000-05-23",
+      "directors": ["Val Guest"],
+      "runtime": 85,
+      "movieId": 3659,
+      "title": "Quatermass II",
+      "mpaa": "",
+      "actors": [
+         "Brian Donlevy",
+         "John Longden",
+         "Sid James",
+         "Bryan Forbes",
+         "William Franklyn",
+         "Vera Day",
+         "Charles Lloyd Pack",
+         "Tom Chatto",
+         "John Van Eyssen",
+         "Percy Herbert",
+         "Michael Ripper",
+         "John Rae",
+         "Marianne Stone",
+         "Jane Aird",
+         "Betty Impey",
+         "John Stuart",
+         "Joyce Adams",
+         "Edwin Richfield",
+         "Philipp Baird",
+         "John Fabian",
+         "George Merritt",
+         "Michael Balfour",
+         "Barry Lowe"
+      ],
+      "imdbMovieId": "0050873",
+      "originalTitle": "Quatermass II",
+      "genres": [
+         "Horror",
+         "Science Fiction"
+      ],
+      "youtubeTrailerIds": ["vCwRzJQ0T7Y"],
+      "plotSummary": "Quatermass is the director of an important scientific base, where he builds nuclear rockets for the colonization of the Moon. A strange fall of meteorites in a nearby village leads to the discovery of a huge base under a strict military control, officially a factory of artificial food. Quatermass reveals that the factory is actually breeding alien creatures.",
+      "tmdbMovieId": 26278,
+      "avgRating": 3.36391,
+      "releaseYear": "1957",
+      "numRatings": 169,
+      "posterPath": "/nRvZWgwwgZfzouJeMCUQ9P9mmZm.jpg"
+   }
+}

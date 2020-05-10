@@ -1,0 +1,923 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "paris",
+            "id": 90
+         },
+         {
+            "name": "london england",
+            "id": 212
+         },
+         {
+            "name": "france",
+            "id": 254
+         },
+         {
+            "name": "england",
+            "id": 392
+         },
+         {
+            "name": "san francisco",
+            "id": 582
+         },
+         {
+            "name": "horse race",
+            "id": 643
+         },
+         {
+            "name": "fire",
+            "id": 657
+         },
+         {
+            "name": "helicopter",
+            "id": 720
+         },
+         {
+            "name": "drug abuse",
+            "id": 726
+         },
+         {
+            "name": "terrorist",
+            "id": 949
+         },
+         {
+            "name": "secret identity",
+            "id": 1308
+         },
+         {
+            "name": "firemen",
+            "id": 2733
+         },
+         {
+            "name": "fire engine",
+            "id": 2736
+         },
+         {
+            "name": "villain",
+            "id": 3289
+         },
+         {
+            "name": "ascot",
+            "id": 3518
+         },
+         {
+            "name": "silicon valley",
+            "id": 3519
+         },
+         {
+            "name": "zeppelin",
+            "id": 3520
+         },
+         {
+            "name": "earthquake",
+            "id": 3521
+         },
+         {
+            "name": "snowboarding",
+            "id": 3522
+         },
+         {
+            "name": "microchip",
+            "id": 3523
+         },
+         {
+            "name": "doping",
+            "id": 3524
+         },
+         {
+            "name": "racehorse",
+            "id": 3525
+         },
+         {
+            "name": "flooding",
+            "id": 3528
+         },
+         {
+            "name": "pipeline",
+            "id": 3535
+         },
+         {
+            "name": "snow",
+            "id": 10794
+         },
+         {
+            "name": "british secret service",
+            "id": 156095
+         },
+         {
+            "name": "skiing",
+            "id": 159558
+         }
+      ],
+      "imdb_id": "tt0090264",
+      "video": false,
+      "title": "A View to a Kill",
+      "recommendations": [
+         699,
+         700,
+         691,
+         708,
+         682,
+         698,
+         253,
+         709,
+         667,
+         681,
+         668,
+         660,
+         36670,
+         657,
+         658,
+         646,
+         714,
+         36643,
+         710,
+         36669
+      ],
+      "backdrop_path": "/9SudvdR6HYtgTqMz17RYXdWuTUl.jpg",
+      "revenue": 152427960,
+      "reviews": [{
+         "author": "De Burgh",
+         "id": "58ab61c5c3a3684a0a002640",
+         "content": "**Highly entertaining Bond movie**\r\n\r\nSurprisingly serious Bond movie has Roger Moore step up to the plate for the last time as 007 - this time tackling none other than a psychotic Christopher Walken.\r\n\r\nOne of the better entries, this film has it all - action, humour, beautiful locales, sexy ladies, a scary villain, great stunt work, a classic theme song and of course, the legendary Roger Moore as James Bond.\r\n\r\nIt's a shame that Barbara Broccoli threw all of this classic Bond fun down the toilet in 2006. Bond has always been silly and, sadly, the 2006 reboot has thrown it all away and has no rewatchbility.",
+         "url": "https://www.themoviedb.org/review/58ab61c5c3a3684a0a002640"
+      }],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 16,
+               "character": "James Bond",
+               "gender": 2,
+               "credit_id": "52fe426dc3a36847f801debf",
+               "name": "Roger Moore",
+               "profile_path": "/8tnAaHY6cehjC9B6mIvxaFPewbh.jpg",
+               "id": 10222,
+               "order": 0
+            },
+            {
+               "cast_id": 17,
+               "character": "Max Zorin",
+               "gender": 2,
+               "credit_id": "52fe426dc3a36847f801dec3",
+               "name": "Christopher Walken",
+               "profile_path": "/ApgDL7nudR9T2GpjCG4vESgymO2.jpg",
+               "id": 4690,
+               "order": 1
+            },
+            {
+               "cast_id": 18,
+               "character": "Stacey Sutton",
+               "gender": 1,
+               "credit_id": "52fe426dc3a36847f801dec7",
+               "name": "Tanya Roberts",
+               "profile_path": "/5HXVOsPCvwNuaAgVBhBrzuhlCVA.jpg",
+               "id": 10660,
+               "order": 2
+            },
+            {
+               "cast_id": 19,
+               "character": "May Day",
+               "gender": 1,
+               "credit_id": "52fe426dc3a36847f801decb",
+               "name": "Grace Jones",
+               "profile_path": "/8MBh8TXQYoEGHbyf7XKRbXH7kTA.jpg",
+               "id": 10661,
+               "order": 3
+            },
+            {
+               "cast_id": 20,
+               "character": "Tibbett",
+               "gender": 2,
+               "credit_id": "52fe426dc3a36847f801decf",
+               "name": "Patrick Macnee",
+               "profile_path": "/i7olaWWHDaOIou49JMSkykl8nWt.jpg",
+               "id": 10662,
+               "order": 4
+            },
+            {
+               "cast_id": 21,
+               "character": "Scarpine",
+               "gender": 0,
+               "credit_id": "52fe426ec3a36847f801ded3",
+               "name": "Patrick Bauchau",
+               "profile_path": "/eAlTfdwkw4xCU8UIxVCkL4LWYO5.jpg",
+               "id": 5274,
+               "order": 5
+            },
+            {
+               "cast_id": 22,
+               "character": "Chuck Lee",
+               "gender": 0,
+               "credit_id": "52fe426ec3a36847f801ded7",
+               "name": "David Yip",
+               "profile_path": "/s2ApWZ620ZMe8nwvKM2y8TwjenE.jpg",
+               "id": 696,
+               "order": 6
+            },
+            {
+               "cast_id": 23,
+               "character": "Pola Ivanova",
+               "gender": 1,
+               "credit_id": "52fe426ec3a36847f801dedb",
+               "name": "Fiona Fullerton",
+               "profile_path": "/xfjBxJ1mbYXa9PdzP3YOKXhUIRP.jpg",
+               "id": 10663,
+               "order": 7
+            },
+            {
+               "cast_id": 32,
+               "character": "Bob Conley",
+               "gender": 0,
+               "credit_id": "5401059e0e0a2658e600326a",
+               "name": "Manning Redwood",
+               "profile_path": "/gXzteRKgayG4Ltmq4cO1VXVTN5A.jpg",
+               "id": 99366,
+               "order": 8
+            },
+            {
+               "cast_id": 33,
+               "character": "Jenny Flex",
+               "gender": 1,
+               "credit_id": "540105bf0e0a2658f100309d",
+               "name": "Alison Doody",
+               "profile_path": "/iXP0rdo8vRLU0YwWejFNwmEQtyV.jpg",
+               "id": 739,
+               "order": 9
+            },
+            {
+               "cast_id": 24,
+               "character": "Dr. Carl Mortner",
+               "gender": 2,
+               "credit_id": "52fe426ec3a36847f801dedf",
+               "name": "Willoughby Gray",
+               "profile_path": "/u8auv1S92EtCLfqC0Ov6nugljUc.jpg",
+               "id": 10664,
+               "order": 10
+            },
+            {
+               "cast_id": 25,
+               "character": "Q",
+               "gender": 2,
+               "credit_id": "52fe426ec3a36847f801dee3",
+               "name": "Desmond Llewelyn",
+               "profile_path": "/6dYMQoMSZ6iVZTbcgjpzypTZ2pr.jpg",
+               "id": 9906,
+               "order": 11
+            },
+            {
+               "cast_id": 29,
+               "character": "M",
+               "gender": 2,
+               "credit_id": "52fe426ec3a36847f801def3",
+               "name": "Robert Brown",
+               "profile_path": "/8L1cp6Py2YCC5LdmWbJcyry4swZ.jpg",
+               "id": 10513,
+               "order": 12
+            },
+            {
+               "cast_id": 26,
+               "character": "Miss Moneypenny",
+               "gender": 1,
+               "credit_id": "52fe426ec3a36847f801dee7",
+               "name": "Lois Maxwell",
+               "profile_path": "/uQneO3fT5H7vmjxusi3lJmm3xT3.jpg",
+               "id": 9878,
+               "order": 13
+            },
+            {
+               "cast_id": 27,
+               "character": "General Gogol",
+               "gender": 0,
+               "credit_id": "52fe426ec3a36847f801deeb",
+               "name": "Walter Gotell",
+               "profile_path": "/1VZFqeruev1IQBIKmUpgo5DGBA9.jpg",
+               "id": 6610,
+               "order": 14
+            },
+            {
+               "cast_id": 28,
+               "character": "Minister of Defence",
+               "gender": 2,
+               "credit_id": "52fe426ec3a36847f801deef",
+               "name": "Geoffrey Keen",
+               "profile_path": "/cfl3AjlaS4beYAbxbmXUWgH337Y.jpg",
+               "id": 10462,
+               "order": 15
+            },
+            {
+               "cast_id": 34,
+               "character": "Aubergine",
+               "gender": 0,
+               "credit_id": "540105ef0e0a2658db003202",
+               "name": "Jean Rougerie",
+               "profile_path": "/o3bM4t4hMhFa0mnE8HW19BtvNmG.jpg",
+               "id": 35881,
+               "order": 16
+            },
+            {
+               "cast_id": 35,
+               "character": "Howe",
+               "gender": 2,
+               "credit_id": "5401062a0e0a2658e9003215",
+               "name": "Daniel Benzali",
+               "profile_path": "/rA4VqjLia992v9WWWt5F4a5esd0.jpg",
+               "id": 58663,
+               "order": 17
+            },
+            {
+               "cast_id": 40,
+               "character": "Klotkoff",
+               "gender": 0,
+               "credit_id": "5947f555c3a368171b03dc8c",
+               "name": "Bogdan Kominowski",
+               "profile_path": null,
+               "id": 1327765,
+               "order": 18
+            },
+            {
+               "cast_id": 36,
+               "character": "Pah Ho (as Papillon Soo Soo)",
+               "gender": 0,
+               "credit_id": "540106420e0a2658f10030ac",
+               "name": "Papillon Soo",
+               "profile_path": "/6KrzdQuUXZXM2SLLTmASI63Dq5C.jpg",
+               "id": 8668,
+               "order": 19
+            },
+            {
+               "cast_id": 37,
+               "character": "Kimberley Jones",
+               "gender": 1,
+               "credit_id": "540106940e0a2658d8003173",
+               "name": "Mary Stavin",
+               "profile_path": "/6WvKqIqLQ865G5JPFKBVbkZgloD.jpg",
+               "id": 147290,
+               "order": 20
+            },
+            {
+               "cast_id": 41,
+               "character": "Butterfly Act Compere",
+               "gender": 0,
+               "credit_id": "5947f5a99251413fc203fd22",
+               "name": "Dominique Risbourg",
+               "profile_path": null,
+               "id": 1835883,
+               "order": 21
+            },
+            {
+               "cast_id": 42,
+               "character": "Whistling Girl",
+               "gender": 1,
+               "credit_id": "5947f5d49251413fb60418bd",
+               "name": "Carole Ashby",
+               "profile_path": null,
+               "id": 1225724,
+               "order": 22
+            },
+            {
+               "cast_id": 43,
+               "character": "Taiwanese Tycoon (as Anthony Chin)",
+               "gender": 0,
+               "credit_id": "5947f61cc3a36816f60439a0",
+               "name": "Anthony Chinn",
+               "profile_path": "/vDan4SUtiJ8HXD4GWREqg090Vjv.jpg",
+               "id": 1211876,
+               "order": 23
+            },
+            {
+               "cast_id": 44,
+               "character": "Paris Taxi Driver (as Lucien Jerome)",
+               "gender": 0,
+               "credit_id": "5947f677c3a368265f021cdb",
+               "name": "Lucien Jérôme",
+               "profile_path": null,
+               "id": 550424,
+               "order": 24
+            },
+            {
+               "cast_id": 45,
+               "character": "U.S. Police Captain",
+               "gender": 0,
+               "credit_id": "5947f698c3a36816e4040faf",
+               "name": "Joe Flood",
+               "profile_path": null,
+               "id": 169910,
+               "order": 25
+            },
+            {
+               "cast_id": 46,
+               "character": "Auctioneer",
+               "gender": 0,
+               "credit_id": "5947f6e1c3a36816c5042f5d",
+               "name": "Gerard Bühr",
+               "profile_path": null,
+               "id": 1835885,
+               "order": 26
+            },
+            {
+               "cast_id": 47,
+               "character": "Venz",
+               "gender": 2,
+               "credit_id": "5947f6f99251413ff404229d",
+               "name": "Dolph Lundgren",
+               "profile_path": "/hjR1tpZV5XKX8daIKmU80ZuOfMO.jpg",
+               "id": 16644,
+               "order": 27
+            },
+            {
+               "cast_id": 48,
+               "character": "Mine Foreman",
+               "gender": 0,
+               "credit_id": "5947f7269251413fbb0413e5",
+               "name": "Tony Sibbald",
+               "profile_path": null,
+               "id": 126536,
+               "order": 28
+            },
+            {
+               "cast_id": 49,
+               "character": "O'Rourke",
+               "gender": 0,
+               "credit_id": "5947f73cc3a368265f021d81",
+               "name": "Bill Ackridge",
+               "profile_path": null,
+               "id": 548088,
+               "order": 29
+            },
+            {
+               "cast_id": 50,
+               "character": "Guard I",
+               "gender": 2,
+               "credit_id": "5947f7549251413ff40422f3",
+               "name": "Ron Tarr",
+               "profile_path": null,
+               "id": 1490615,
+               "order": 30
+            },
+            {
+               "cast_id": 51,
+               "character": "Guard II",
+               "gender": 0,
+               "credit_id": "5947f7669251413fdd0417ee",
+               "name": "Taylor McAuley",
+               "profile_path": null,
+               "id": 1835886,
+               "order": 31
+            },
+            {
+               "cast_id": 52,
+               "character": "Tycoon",
+               "gender": 0,
+               "credit_id": "5947f772c3a36816c5042fe1",
+               "name": "Peter Ensor",
+               "profile_path": null,
+               "id": 1835887,
+               "order": 32
+            },
+            {
+               "cast_id": 53,
+               "character": "Helicopter Pilot",
+               "gender": 0,
+               "credit_id": "5947f795c3a368171b03de5e",
+               "name": "Seva Novgorodtsev",
+               "profile_path": null,
+               "id": 1646963,
+               "order": 33
+            },
+            {
+               "cast_id": 54,
+               "character": "The Girls",
+               "gender": 0,
+               "credit_id": "5947f7d5c3a368170f044198",
+               "name": "Sian Adey-Jones",
+               "profile_path": null,
+               "id": 1835888,
+               "order": 34
+            },
+            {
+               "cast_id": 55,
+               "character": "The Girls",
+               "gender": 0,
+               "credit_id": "5947f7e2c3a368111502e59d",
+               "name": "Caroline Hallett",
+               "profile_path": null,
+               "id": 1835889,
+               "order": 35
+            },
+            {
+               "cast_id": 56,
+               "character": "The Girls",
+               "gender": 0,
+               "credit_id": "5947f7eac3a368261901e9e6",
+               "name": "Nike Clark",
+               "profile_path": null,
+               "id": 1835890,
+               "order": 36
+            },
+            {
+               "cast_id": 57,
+               "character": "The Girls",
+               "gender": 0,
+               "credit_id": "5947f7f1c3a368170f0441b5",
+               "name": "Paula Thomas",
+               "profile_path": null,
+               "id": 1835891,
+               "order": 37
+            },
+            {
+               "cast_id": 58,
+               "character": "The Girls",
+               "gender": 0,
+               "credit_id": "5947f7f89251413fdd041896",
+               "name": "Gloria Douse",
+               "profile_path": null,
+               "id": 1835892,
+               "order": 38
+            },
+            {
+               "cast_id": 59,
+               "character": "The Girls",
+               "gender": 0,
+               "credit_id": "5947f802c3a36816f6043b59",
+               "name": "Lou-Anne Ronchi",
+               "profile_path": null,
+               "id": 1835893,
+               "order": 39
+            },
+            {
+               "cast_id": 60,
+               "character": "The Girls",
+               "gender": 0,
+               "credit_id": "5947f80a9251413fb1044c9f",
+               "name": "Elke Ritschel",
+               "profile_path": null,
+               "id": 1835894,
+               "order": 40
+            },
+            {
+               "cast_id": 61,
+               "character": "The Girls",
+               "gender": 0,
+               "credit_id": "5947f814c3a368265f021e50",
+               "name": "Mayako Torigai",
+               "profile_path": null,
+               "id": 1835895,
+               "order": 41
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe426dc3a36847f801de73",
+               "name": "John Glen",
+               "profile_path": "/uR9zerOtAOSAC7rSuGLyAv03vtv.jpg",
+               "id": 10179,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe426dc3a36847f801de79",
+               "name": "Richard Maibaum",
+               "profile_path": "/5esfG4HckFBs9MRxywwLwPnNpfV.jpg",
+               "id": 9858,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe426dc3a36847f801de7f",
+               "name": "Albert R. Broccoli",
+               "profile_path": null,
+               "id": 9861,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe426dc3a36847f801de85",
+               "name": "Tom Pevsner",
+               "profile_path": null,
+               "id": 10493,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe426dc3a36847f801de8b",
+               "name": "John Barry",
+               "profile_path": "/9NyieJO78xbwKIBZ1589WfdRPV8.jpg",
+               "id": 2289,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe426dc3a36847f801de97",
+               "name": "Alan Hume",
+               "profile_path": null,
+               "id": 8934,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe426dc3a36847f801de9d",
+               "name": "Peter Davies",
+               "profile_path": null,
+               "id": 10612,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe426dc3a36847f801dea3",
+               "name": "Debbie McWilliams",
+               "profile_path": null,
+               "id": 10496,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe426dc3a36847f801dea9",
+               "name": "Peter Lamont",
+               "profile_path": "/auOeNxa9viwhGN3XIO33q4v6Jcq.jpg",
+               "id": 8524,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe426dc3a36847f801deaf",
+               "name": "John Fenner",
+               "profile_path": null,
+               "id": 10497,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe426dc3a36847f801deb5",
+               "name": "Crispian Sallis",
+               "profile_path": null,
+               "id": 945,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe426dc3a36847f801debb",
+               "name": "Emma Porteous",
+               "profile_path": null,
+               "id": 10198,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe426ec3a36847f801def9",
+               "name": "Michael G. Wilson",
+               "profile_path": "/j9E7oKJMgprlrwkUkk2JXdY5tnJ.jpg",
+               "id": 69678,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe426ec3a36847f801deff",
+               "name": "Michael G. Wilson",
+               "profile_path": "/j9E7oKJMgprlrwkUkk2JXdY5tnJ.jpg",
+               "id": 69678,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "562d3c389251414006006cfd",
+               "name": "Ian Fleming",
+               "profile_path": "/3Pld5n7f5AAVjP0HdsAkgSvrlJg.jpg",
+               "id": 9856,
+               "department": "Writing",
+               "job": "Characters"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5518341bc3a36863020042c3",
+               "name": "Barbara Broccoli",
+               "profile_path": null,
+               "id": 10666,
+               "department": "Directing",
+               "job": "Assistant Director"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Adventure",
+            "id": 12
+         },
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         }
+      ],
+      "popularity": 18.184547,
+      "production_countries": [
+         {
+            "iso_3166_1": "FR",
+            "name": "France"
+         },
+         {
+            "iso_3166_1": "IS",
+            "name": "Iceland"
+         },
+         {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+         },
+         {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+         }
+      ],
+      "id": 707,
+      "vote_count": 637,
+      "budget": 30000000,
+      "overview": "A newly developed microchip designed by Zorin Industries for the British Government that can survive the electromagnetic radiation caused by a nuclear explosion has landed in the hands of the KGB. James Bond must find out how and why. His suspicions soon lead him to big industry leader Max Zorin.",
+      "similar": [
+         954,
+         10204,
+         667,
+         146216,
+         691,
+         5919,
+         6637,
+         253,
+         714,
+         562,
+         1573,
+         1979,
+         646,
+         657,
+         668,
+         682,
+         699,
+         708,
+         137094,
+         267860
+      ],
+      "original_title": "A View to a Kill",
+      "runtime": 131,
+      "poster_path": "/veDMW7eX6tat86EapsvGEICJ8Tq.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": "/czmPjPlpsJwsWuuTub2iATe2sgR.png",
+         "name": "Eon Productions",
+         "id": 7576,
+         "origin_country": "GB"
+      }],
+      "release_date": "1985-05-24",
+      "vote_average": 6,
+      "belongs_to_collection": {
+         "backdrop_path": "/6VcVl48kNKvdXOZfJPdarlUGOsk.jpg",
+         "name": "James Bond Collection",
+         "id": 645,
+         "poster_path": "/HORpg5CSkmeQlAolx3bKMrKgfi.jpg"
+      },
+      "tagline": "Has James Bond finally met his match?",
+      "adult": false,
+      "homepage": "http://www.mgm.com/view/movie/2101/A-View-to-a-Kill/",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "UK",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["John Glen"],
+      "runtime": 131,
+      "synopsis": "James Bond (Roger Moore) is sent to Siberia to locate the body of 003 and to recover a microchip. Upon doing so, he is ambushed by Soviet troops but flees in a submarine built to resemble an iceberg. After Bond returns to England a week later, Q (Desmond Llewelyn) has the microchip analysed and informs M (Robert Brown), Bond and the Minister of Defense that its design is an exact match of a microchip made by Zorin Industries. The retrieved microchip is also designed to withstand the damage caused to other chips by the electromagnetic pulse of a nuclear explosion. Bond and his superiors visit the Ascot Racecourse to observe the company's founder and CEO, Max Zorin (Christopher Walken). While at the track, Zorin's horse Pegasus miraculously pulls ahead to win the race. Later, Pegasus throws a fit and it takes some effort to get him under control. Sir Godfrey Tibbett (Patrick Macnee), an MI6 agent who works as a horse trainer, believes Zorin's horse was given drugs, although when screened by officials prior to the race, it did not show any drugs in its bloodstream. Through Tibbett, Bond meets a French private detective named Achille Aubergine (Jean Rougerie) at the restaurant on the Eiffel Tower to discuss how the horse may have won. Aubergine informs Bond that Zorin is holding an annual horse sale later in the month. Moments later, Aubergine is assassinated by Zorin's mysterious bodyguard, May Day (Grace Jones). Bond chases her to an upper level of the tower but she parachutes off before he can catch her. Bond steals a Renault taxi and chases her through the city but is unable to apprehend her. A boat driven by Zorin later picks her up on the Seine. Bond and Tibbett travel to Chantilly, France where Bond poses as James St. John Smythe (pronounced \"sin-jin-smythe\"), a rich dilettante who recently inherited horses, with Tibbett posing as his valet. During a reception party, they meet Zorin's head of security, Scarpine (Patrick Bauchau), and an American named Stacey Sutton (Tanya Roberts). Bond thinks the woman \"bares closer inspection,\" but Tibbett reminds him of their primary mission. Bond uses polarizing sunglasses provided by Q to discreetly survey Zorin's mansion, discovering Zorin's secret lab. Bond and Tibbett break into the lab and discover the secret: Zorin plants microchips in his horses, programmed to release a steroid when prompted by a hidden radio transmitter snuck into the tip of the jockey's whip. Bond eludes Scarpine and retreats to May Day's room. He asks May Day to join him in bed and she does so with Zorin's amused permission. Their intrusion is discovered and Zorin asks Bond to report to his study, where he'll aid St. John Smythe in selecting a stud horse for the stables he supposedly inherited. During their meeting, Zorin uses a database to find a match for pictures he takes of Bond; Zorin discovers Bond's real identity. He invites Bond to race with him steeplechase-style. In an effort to get rid of Bond, he provides Bond with an ill-tempered horse; when Bond overtakes Zorin, Zorin activates a device that causes the horse to go wild. Bond escapes the track and sees his limousine, boarding it. However, Tibbett has been killed by May Day, who is driving the car. She and Zorin attempt to drown Bond in a nearby pond but the plan fails. Later, General Gogol (Walter Gotell) from the Soviet Union visits Zorin's estate with several other KGB agents. Zorin, it is revealed, has been in the employ of the KGB and is admonished by Gogol for his public image and attention-garnering business ventures. Zorin replies by saying he no longer sees the need to continue doing business with the KGB. When Gogol's assistant chides Zorin for being a \"physiological freak\" Mayday grabs the man and throws him. Gogol gravelly warns Zorin \"no one leaves the KGB,\" but grudgingly leaves when Zorin's men pull guns on him. Later, in an airship over San Francisco, Zorin unveils to a group of investors his new criminal scheme to destroy Silicon Valley in an operation he dubs \"Main Strike\", which if implemented will gain them a monopoly in the microchip market. For involvement in the plan, Zorin demands $100 million from each participant in addition to a contract promising half of their net income through marketing deals. One man refuses and is dropped out of the airship by May Day, landing in San Francisco Bay. Meeting in San Francisco with his CIA contact, Bond learns that Zorin is a psychopath, the product of Nazi medical experimentation during World War II by Zorin's mentor, Dr. Carl Mortner (Willoughby Gray), who is revealed to be a former Nazi doctor named Dr. Hans Glaub. Bond assumes the identity of a reporter for the London Financial Times to continue his investigation. Bond learns from a local crab fisherman that a prolific crab patch has vanished near one of Zorin's oil pumping stations. Bond also learns from the mayor that Zorin has been testing his oil lines for leaks with seawater, an explanation for the disappearing crab stock. 007 spies on an oil rig owned by Zorin. He catches KGB agent Pola Ivanova trying to blow up the rig, while recording Zorin announcing his plans. Bond meets Stacey again, and he learns that her grandfather's oil company had been taken over by Zorin. The two team up to steal documents about his plan from the San Francisco City Hall. Zorin arrives, holding them hostage, and then forces a city official to call the police. He kills the official with Bond's Walther PPK pistol and sets the building on fire in order to frame Bond for the murder. Bond and Sutton escape from the fire but when the police try to arrest Bond, they escape in a fire engine. A chase ensues, during which multiple SFPD cruisers are wrecked. Bond and Sutton then manage to shake the police off completely when the police captain leading the chase orders a bridge operator to open the Third Street Drawbridge. Bond and Sutton's fire truck makes it across just as the bridge gates close to stop traffic and the bridge begins to rise. The police cars are unable to stop in time and pile up at the bottom of the bridge. The senior officer is berating his underlings when his own car is crushed by the bridge's counterweight. The next day, Bond and Sutton infiltrate Zorin's mine near Silicon Valley, discovering his plot to detonate explosives beneath the lakes along the Hayward Fault and the San Andreas Fault causing them to flood, submerging Silicon Valley. The resulting disaster will make Zorin the sole manufacturer of microchips in the world. A larger bomb is also on site in the mine to destroy a \"geological lock\" that is in place to prevent the two faults from moving at the same time. Once destroyed, it would supposedly cause a double earthquake. Zorin and Scarpine flood the mines, nearly killing Bond and May Day and murder all of the mine workers as they attempt to flee. Stacey manages to escape. Because she was betrayed, May Day helps Bond remove the larger bomb that would destroy the lock. They put the bomb on a handcar and push it out of the mine along a railroad line. May Day stays on the car to hold the faulty brake lever, sacrificing her own life as the bomb explodes outside, away from the lock. Sutton is quickly captured by a devastated Zorin, who is escaping via airship with Scarpine and Mortner. Bond grabs hold of the mooring rope and clings on as the airship ascends. Zorin tries to kill Bond by flying him into the Golden Gate Bridge, but Bond manages to moor the airship to the bridge framework, stopping it from moving. Stacey attacks Zorin and in the ensuing fracas, Mortner and Scarpine are temporarily knocked out. Stacey flees onto the bridge and joins with Bond, but Zorin comes after them with an axe and engages in a fierce battle with Bond. Bond gains the upper hand and sends Zorin plummeting off the bridge to his death. An enraged Mortner attempts to kill Bond with a bundle of dynamite, but Bond slashes the mooring rope, causing Mortner to drop the dynamite into the cabin. Seconds later, the dynamite explodes and destroys the airship, killing Mortner and Scarpine. In the aftermath, Bond is ironically awarded the Order of Lenin by General Gogol. Q, inside a special van in California, uses his fake-dog surveillance camera to locate 007. He safely finds him making love to Stacey in her shower.",
+      "writers": [
+         "Richard Maibaum",
+         "Michael G. Wilson"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0090264/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTMwMTYzOTIwM15BMl5BanBnXkFtZTcwODY5MDg0NA@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Roger Moore, Christopher Walken, Tanya Roberts | See full cast and crew »"],
+      "reviews": [
+         "A View To A Kill seems to get more than its fair share of criticism. Often it is labelled the weakest of the Bond entries, but I don't think this is particularly true. Personally, I don't even rate it as the poorest of Roger Moore's Bond outings, with Moonraker and The Man With the Golden Gun standing out in my memeory as less memorable escapades than this one. It's Moore's final appearance as 007, and he is trying to prevent a psychotic business magnate, Max Zorin (Walken) from destroying Silicon Valley and cornering the world electronic market all for himself. To make matters worse, Zorin is not your average adversary, since he was born as the result of a Nazi doctor's scientific tamperings resulting in him being hyper-intelligent but also uncontrollably murderous. The mission takes Bond from Zorin's French chateau, to San Francisco, and ultimately to an abandoned mine close to Silicon Valley, where Zorin plans to detonate a bomb which will trigger a cataclysmic earthquake. The set pieces are memorable, including a parachute pursuit from the Eiffel Tower, a fire engine chase around the hilly streets of San Francisco, and an airship crash on the Golden Gate bridge. Moore looks a bit old for the part, and his sexual humour bears a greater emphasis than usual of the \"dirty old man\" baggage. However, he still has an easy-going charisma and good comic timing. Walken makes for a good, supremely confident villain, and is well backed by the fearsome Grace Jones. However, Tanya Roberts might be a gorgeous looker, but her Bond girl character is whining and screaming so much in this film that she eventually wears out her welcome. The theme song from Duran Duran is rather too '80s, but the instrumental music by John Barry is stirring and dramatic. I'm not sure what all the disappointment is about. A View To A Kill is an above average Bond flick with plenty to keep you entertained.",
+         "\"A View to a Kill\" is a true remake of \"Goldfinger.\" Let's start with the villain and his scheme\u0085 The villain, Max Zorin (Christopher Walken), is a true and exact copy of Auric Goldfinger\u0085 He owns a stud farm, and wins horse races by cheating... He is the European outsider who plans to wipe out a massive American resource, thus increasing the value of his own stockpiled wealth\u0085His lust for power are greater than his loyalty to a lover\u0085 Disco diva Grace Jones took the role of May Day, Zorin's natural born killer\u0085 May Day's leap off the top of the Eiffel Tower is a fine moment in best Bond tradition\u0085This statuesque Jamaican woman\u0097with sharp-cut hair to enhance her profile\u0097is cast as a horse-taming, Kickboxing American who, according to Q, 'must take a lot of vitamins.' Nevertheless, at the film's climax, she retained a few shreds of humanity\u0085 The film opens on an icy Siberian shore, where Bond recovers a microchip from the body of 003, driving back a party of Russian militiamen in his flight back to a British submarine disguised as an ice floe and controlled by blonde compatriot Kimberley Jones (Mary Stavin). The location chosen is both arresting and well-photographed enough to distinguish itself\u0085 Bond is alerted to Zorin's intentions while investigating how the Russians have managed to duplicate a secret microchip resistant to damage caused by the magnetic pulse of a nuclear explosion\u0085 The technology has been leaked to the KGB following Zorin's purchase of the research company that developed the chip\u0085 Tanya Roberts\u0097who had joined the cast of television detective series Charlie's Ange1s in 1980\u0097is cast for the role of Stacey Sutton, the beautiful blond geologist and heiress who results a vital assistance to 007 in unraveling the details of Zorin's scheme to detonate a bomb in one of his mines and create a cataclysmic earthquake\u0085 \"A View to a Kill\" represents the farewell of Lois Maxwell who appeared as Miss Moneypenny for over 20 years of loyal secretarial service, and a unique claim to have featured in every Bond film\u0085 The motion picture also concludes Roger Moore's activities for over a decade in Bond adventures\u0085In all his Bond's movies, Moore was a likable hero who softened the menace saving the world seven times with charm, intelligence, and great dialog\u0085 However action sequences lost their deadly flavor and took on a madcap flavor\u0085 In battles with characters such as J. W. Pepper, Nick Nack, Jaws, and May Day, it was hard to keep too straight a face\u0097and Bond didn't\u0085",
+         "Seriously underrated and lambasted by critics, but in my opinion one of the best Bond films. Moore bowed out of the series, just in time (well, at least close to it...) and with a serious bang. Christopher Walken is deliciously evil and psychopathic as Mack Zorin, the Nazi engineered genius looking to take over the tech industry by destroying Silicon Valley with a major flood disaster and earthquake. He is definitely one of the best movie villains ever. Along with some of the best music scoring of all the films in the series, including the fantastic Duran Duran song which epitomizes the 80's, the final showdown between Zorin and Bond on top of the golden gate bridge is breathtakingly exciting. I get goose bumps watching the ending! Many people hate this entry in the 007 series, calling it cheezy, clichéd, and that Moore is just too hammy and way too old. I disagree. I claim to be a true Bond-phile, having seen every film many times over, and have read every one of the most excellent (and quite different from the films) Fleming novels (btw the Fleming short story View to a Kill is actually the basis for the films Live and Let Die and For Your Eyes Only) and find that this is definitely one of my favourites. A great watch with amazing music, villains, and final action sequence.",
+         "This 1985 Bond film is one of the better entries in the Bond series, even if the story is a bit absurd. It's not quite as good as some of the 1960's classics, and Tanya Roberts is simply awful as the heroine, but Roger Moore is always a treat to watch, and Christopher Walken is solid, if a bit low-key. Some of the scenes in France drag on (the \"horse steroids\" subplot is tangential to the main story about microchips), but A View to a Kill is still more intelligent than the mindless, over-the-top-action-over-storyline Bonds of the Pierce Brosnan era. Roger Moore is the second-best bond because of his wit alone. If you have to guess who the BEST Bond is, you obviously don't know your Bond history very well.",
+         "With A View To a Kill, the cutain falls on one of the greatest era's in action/adventure movies, as we, EON and the rest of the world bid a fond farewell to Roger Moore's James Bond. And what an exit Moore makes, put simply A View to a Kill is on of the most exciting, stylish, well written and under-rated Bond movies of all time. The basic feel of the movie is pure electric. The series is on a role after the rousing successes that were For Your Eyes Only and Octopussy. Both these movies had represented a maturing point in the series and the shot in the arm of suspense,action and excitement that was needed. This trend is continued to the full with A View To A Kill, and in his goodbye performance Roger Moore manages to remarkably combine all the best elements of his previous Bond movies, and comes up with a perfect way to leave behind Bond and Her Majestys Secret Service. Cubby Broccoli could hardly have awarded Roger a better acolade in wich to leave the series, than to give him the opportunity to act alongside one of America's all time best character/villain actors : Christopher Walken. Walken as Zorin is the best villain in the series since Christopher Lee's Scaramanga in The Man with The Golden Gun. Walken brings a refreshing air of realism and menace combined to put him amngst the great villains of the series. Equally impressive is Grace Jones as MayDay. Jones is the epitomy of a she-hulk and is the very fore of mid 80-s femenism.She strangely manages to be beautiful and frightening in the same breath, and looks fantastic in the action and love making sequences were she lets Bond know who's on top! Then there is Patrick MacNee as Tibbet. Tibbet is a fun character and when posing as Bonds servent early on in the movie Moore takes every opportunity to ad-lib, ordering and bossing MacNee about. In truth it is very amusing to see John Steed carrying Simon Templer's Bags around. It is a petty that MacNee's character is Killed because other Bond movies would have benefited from Macnee's presence. Less succesfull on the character fronts are David Yip, whos character drifts into the movie, seemingly to make the numbers up and is then killed, and of course Tanya Roberts as Stacey Sutton. Sutton makes Brit Ecklands Goodnight look impressive. Roberts looks good, nd the part is well written , so perhaps it is a case of miscasting. Luckily, the beautiful Fiona Fullerton, who may have been a more impressive Stacey Sutton turns up as the tantalisingly sexy Pola Evanova. The action set pieces like in every Bond movie fire and work on all cilendars. There is a wonderfull pre-credits Ski-Chase battle set in a picturesque arctic glacier. The excitement begins in Parris were BJ Worth doubled for grace Jones and parachuted off the Eiffel Tower, and this is imediately followed by a fantastic car chase through the Parrisian locals. This later shifts to a simmilar scene in San Francisco, wich has bon Escape a burning elavator shaft and end up driving a Fire Engine [or dangling from one] at full speed through the city. And finally to the Golden Gate bridge via Air Balloon were Bond and Zorin battle to death. Here Walken displays all the depth of his character, giving a knowing giggle before plummiting to his death, as though he apreciates the joke is on him. A View to a Kill represents one of the finest scripts in the series, the battle for monopoly over the microchip market. Even if the climax borrows slightly from Superman the Movies flooding of St Andres Fault, or in this case Sillicon Valley. All the elements work. John Barry's Score is his best since On Her Majesty's Secret Service, and the title song by Duran Duran is one of the most energetic and exciting of the series and has quickly becom a standard. In all this is a most satisfying Bond movie. An adequate exit for Roger Moore and one that has stood the test of time well. Thanks Roger and goodbye.",
+         "This is a good Bond film, but sadly is the last with Roger as 007. Despite this, A View to a Kill has one of if not the best Bond bad guys ever. Chris Walken is in fine form as the evil Zorin - a psychopathic mega-lo-maniac with his eyes set on computer domination of the world by destroying silicone valley. I found his devilish laughter, especially just before he dies, one of the best moments in the film. Also his horse related exchanges with 007 are swiftly and enjoyable executed. Obviously Moore does it again with a fine portrayal as JB. The scene with the Iceberg, the fight at Miss Suttons house, the fire truck, the race course are particularly enjoyable. Grace Jones is VERY scary as May Day and certainly one of the most unusual Bond girls. Tanya Roberts as Stacey Sutton is fine and does what all Bond girls are supposed to do - say \"oh James\" at the end of the film. With Lois Maxwell and Roger Moore leaving the series its a good swan song for them both. (Also, the title Duran Duran sequence is probably the best of the lot with its colourful 80's imagery and the punchy track from a great band!)",
+         "In Roger Moore's final cinematic assignment as Agent 007, the super-spy must investigate the connection between a Soviet research centre's reproduction of British high-tech blast-proof microchips based and a multi-national industrialist who is hoarding them. With a supporting cast of Christopher Walken, Grace Jones, Patrick McNee, and Tanya Roberts, and locations such as Paris and San Francisco, what you have is another Bond movie with the size and scope to match any of its contemporaries. To start with the good points, Roger Moore is once again reliable and believable in the role of Bond, and although critics of this movie maintain he was told old by now, this is disputable. The script doesn't allow him as much of his custom wit and repartee, with the writers dropping his usual amiability towards the villain in favour of a disgusted and repulsed tone, which is quite a turn. For those sick of the movies where Bond and his enemies swap endless pleasantries despite efforts to kill each other, check out the Bond/Zorin scenes towards the middle and end of this film. Although not Moore's most memorable turn, he is very solid as 007. Christopher Walken as Max Zorin, the product of a Nazi genetic experiment who was artificially given both incredible intelligence and psycopathy as a side effect of his mother's treatment in the concentration camps before his birth, gives us an odd-ball but distinctive performance, and is very credible as a single-minded sociopath. Grace Jones plays MayDay, Zorin's bodyguard/girlfriend/personal trainer/hit-woman/seductress and whilst she won't go down as either one of the most beautiful Bond girls or one of his most feared villains, Jones still comes across well with some menace and formidable qualities that even Bond struggles to get to grips with (quite literally!). Both Walken and Jones were odd choices for roles in a Bond movie but both acquit themselves well and gain a respectable place in the pantheon of 007's enemies. Continuing with the positives, the regulars M, Q, Moneypenny, Frederick Gray, and General Gogol (with Lois Maxwell in her last Bond role) are dependable as ever, and are joined by David Yip as a CIA agent. As in the two previous Bond movies, Moore is joined by a fellow agent on his mission, this time Patrick McNee as Sir Godfrey Tibbett, a horse racing expert affiliated to MI6. In some brilliantly funny scenes, with Bond posing as an owner and Tibbett as his valet, the pair go undercover at Zorin's stables during a horse sale with both hamming it up to distract the guards from suspecting them as impostors. Moore and McNee also appeared together in Sherlock Holmes in New York as Holmes and Watson respectively, as well as The Sea Wolves, and their chemistry is a highlight of the film. Too bad really that Tibbett is assassinated in unusual but chilling fashion by MayDay before the film can make more of his obvious debonair charm. Also on the plus side, the action is handled very competently, with a Siberian (actually Iceland) ski-chase featuring some extreme-sport pursuits like snowboarding before they became more well-known, an adrenaline-fuelled horse race in which Bond comes under attack from Zorin's henchmen, and a scene in which a Russian agent is fed into a propeller after he is found spying on Zorin. There are also some great stunts, such a base-jump off the Eiffel Tower and in the aforementioned ski scene. For a Bond film the plot is actually fairly logical, although it seems to have borrowed some inspiration from its predecessors. Having said that, which Bond film didn't? However it isn't all roses. Tanya Roberts is extremely annoying and not at all believable as California's state geologist and a businesswoman whose shares Zorin is trying to buy. Every time it comes to a fight or some action she cowers and whimpers, yelling `Help me James' at the top of her shrill voice, and spends most of the time as some sort of damsel in distress for Bond to save. Apart from Mayday, the henchmen are rather boring this time, with a bunch of caricatures instead of characters: a Texan oil boss, a mad scientist (plus monocle, tweed suit, wild hair, and German accent), and a tall silent type with a facial scar as his single defining feature. Lucky then that Walken is there to bail the movie out and prove, as the tagline suggests, to provide a match for James Bond. Also, the technically well-done chase sequence in Paris is ruined due to a ludicrous moment in which Bond-s care is hit by another and breaks in half! It looked cool driving on two wheels, but it would have been better in a cartoon. In keeping with some of the less attractive Bond conventions, some of the other action scenes are ruined by an overly-jokey feel - the San Francisco fire truck chase, for example, is played totally for laughs, and, like the Golden Gate Bridge scenes, features so much poor back-projection it is hard not to laugh. Plus, the pre-credits ski-chase is wrecked by an 80's cover of 'California Girls' being played over the action, and Bond's companion and vehicle at the end of this sequence. For all the problems in this paragraph, director John Glen deserves the blame, although he was hardly alone in getting things wrong during 007's 40-year history. Despite criticisms from some that this is a tired movie with a re-hashed plot and an uninspired screenplay, A View To A Kill holds up pretty well. Most diehard fans of the series don't rank this too highly amongst the others, but for the less demanding viewer there is enough of the Bond formula to appreciate, without a great deal of silliness. There are a few flaws in AVTAK but the positives outweigh the negatives, and while Roger Moore didn't make a great success of his post-Bond career, at least he had a very respectable sign-of from the series with this. Verdict: 3.5/5: Well worth watching.",
+         "I can say I am a Bond fan, seeing as I own twenty of the twenty-two movies currently on DVD (as of writing this review). So far the only film I haven't enjoyed in the series has been Roger Moore's Moonraker, just because of the over the top silliness and the obvious sell-out to appeal to moviegoers who had just seen Star Wars. Upon seeing 'A View to a Kill' I instantly was prepared for the worst, and let me tell you this certainly is a bad Bond film. Moore is showing his obvious age, making the relations with his leading ladies undeniably awkward, to say the least. The plot is as simple as they come, and none of the actors are really given any chance with the dialogue they have been given. Moore has very few witty comments in this movie, and most of the other characters are cardboard cut outs. One thing however manages to make this film better than Moonraker. This is the under-appreciated role of Max Zorin, played by the always wonderful Christopher Walken. I can say without a doubt in my mind that Walken is the single saving grace in this film, exhibiting everything any good Bond villain needs. Exotic locations: Check! Unique henchmen/henchwoman: Check! Surrounded by beautiful girls: Check Cold and ruthless attitude: Double check! Heartless and chilling disregard for henchmen life: CHECK Walken, with a horrid script (every character in this movie is poorly written) is able to create one of the best Bond villains I've ever seen! The way he talks, the way he acts, everything he does showcases his undeniable talent. So for a movie like 'A View to a Kill' Walken's performance is like shifting through sewage and finding a large diamond ring. It is because of Walken that I recommend this movie and give it a relatively good rating. Everything else about this film is really forgettable. You'd think a super-strong female henchwoman would make for a memorable moment in the franchise, but this is so poorly handled that she winds up as one of the most forgettable characters in the series, as opposed to one of the best. Roger Moore, unfortunately, ends his career on Bond in perhaps his own worst performance, which is undeniably sad. It seems that all Bond actors seem to end their careers on the lowest of their films (Connery with 'Diamonds are Forever', Brosnan with 'Die Another Day', and though Dalton was a great Bond, I have to say 'License to Kill' was a weak film) but with those films it has always been more the scripts fault, as opposed to the actor's talent (all three tried their best with the material). Moore is just plain stiff in his last entry! The man seems to have totally lost interest in playing the character by this point. I consider 1979's 'Moonraker' Moore's worst, but like 'Diamonds are Forever', and 'Die Another Day', Moonraker was more the fault of the script writers; not the Bond actor. In 'A View to a Kill' Moore really shows that he is no longer capable of playing the part, and that is the saddest part of the film (especially seeing Moore seducing girls much younger than himself, with his developing turkey neck becoming quite obvious). Walken makes the movie an enjoyable, B-grade action movie, but as for Bond, this is where it becomes an undeniable fact that Moore has overstayed his welcome as Agent 007. Moore deserved a better ending, and the fact is that he just shouldn't have come back for this film. Octopussy may have actually been a decent departure, but Moore decided to try one last time and it really is the straw that breaks the Moore Bond's back. Enough was enough, and Moore failed to recognize when he should have cried \"when!\" I give this film a decent rating for the performance of Christopher Walken, but everything else is very low, and forgettable. Go and see it for Walken, but it is sad to see Moore's finally desperate breaths as he tries to keep the character going one last time.",
+         "Despite Roger Moore being a little over the hill for his last Bond film, I still loved it. The basic premise of this movie is, yes, I admit it, similar to Goldfinger. Christopher Walken who happened to be a product of Nazi experimentation plans to destroy silicone valley and have a monopoly on the computer chip market. This was a great story line, especially in the 1980's when computers were becoming cool. Tonya Roberts, In my humble opinion was probably the most beautiful Bond girl there was. Her sexy throaty whisper was intoxicating. May Day (Walken's strange and muscular girlfriend) added so much too the story, especially what she did at the end. Despite what people say about this being one of the worst 007 movies, it had a solid story. An amazing performance by Christopher Walken and a very sexy Tanya Roberts. This movie should at least be somewhere in the middle of your James Bond list. So please give this one a chance, it's one of my favorites. Oh, and we can't forget the theme song, which has to be the best James Bond theme ever, and you can't deny that.",
+         "After reading several not very flattering opinions of this film, I thought it right to add my own opinion to this film. I'd like to discuss a couple of points mentioned in previous comments. 1) Roger's age - I know Roger was in his late 50's when this movie was made but I don't think it really affects the flow of the film. I actually think this is one of Roger's better films. 2). One of the worst bond films of all time - Lot's of comments refer to this movie as being Roger's worst and possibly one of the worst Bond movies of all time. For me the movie has all the essential bond elements a sexy bond girl, a great theme song, terrific bad guy (Christopher Walken) and Roger on top form. The humour is there throughout the film and it just feels like a bond film. Compare this to 'for your eyes only' which never felt like a bond film to me. I feel it is certainly worthy of a much higher rating than 6.0."
+      ],
+      "genres": [
+         "Action",
+         "Adventure",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "Danjaq",
+         "Eon Productions",
+         "Metro-Goldwyn-Mayer (MGM)"
+      ],
+      "summaries": [
+         "James Bond has one more mission. Bond returns from his travels in the USSR with a computer chip. This chip is capable of withstanding a nuclear electromagnetic pulse that would otherwise destroy a normal chip. The chip was created by Zorin Industries, and Bond heads off to investigate its owner, Max Zorin. Zorin may only seem like a innocent guilty man, but is really planning to set off an earthquake in San Andreas which will wipe out all of Silicon Valley. As well as Zorin, Bond must also tackle May Day and equally menacing companion of Zorin, whilst dragging Stacy Sutton along for the ride.",
+         "A silicon chip is captured from the Soviets and found to be identical to a prototype British design capable of withstanding the intense electromagnetic radiation of a nuclear blast. The British suspect industrialist Max Zorin of leaking details of the design to the Russians. When James Bond is sent to investigate he finds that Zorin is stockpiling silicon chips and, mysteriously, drilling near the San Andreas fault.",
+         "007 returns from the USSR with a new computer chip; one that is invulnerable to the magnetic pulse of a nuclear explosion. The chip is being manufactured by Zorin Industries, headed up by a sociopathic businessman named Max Zorin who is planning to corner the world microchip market by using explosives to cause an earthquake in the San Andreas fault that will wipe out Silicon Valley - and the millions who live and work there! Bond must face not only Zorin himself, but the equally twisted May Day and Scarpine, another one of Zorin's henchmen. Assisted by San Francisco City employee Stacy, Bond goes after the would-be computer magnate in a series of frightening confrontations - including fire in the SF City Hall, a wild chase through the city with Stacy at the wheel of a fire department ladder truck, and finally in a hand-to-hand fight atop San Francisco's Golden Gate Bridge.",
+         "James Bond takes on one of his most maniacal villians to date, Max Zorin, a leading French Industrialist. Zorin plans to detonate a series of explosions in the Silicon Valley causing an earthquake so he can get his hands on the world's leading microchip market. It is up to 007 to stop him!",
+         "When Bond is sent to investigate a security leak at the high-tech Zorin Industries, he discovers a hotbed of murder and deception. The company's mysterious owner, Max Zorin has devised a plan to corner the world microchip market, even if he has to kill millions to do it! But before Bond can stop Zorin, he must confront the madman's beautiful and deadly companion May Day. With help from the gorgeous Stacey, Bond will launch an all-out assault on Zorin's deadly scheme, climaxing in a spine-tingling duel on the upper spans of the Golden Gate Bridge.",
+         "An investigation of a horse-racing scam leads 007 to a mad industrialist who plans to create a worldwide microchip monopoly by destroying California's Silicon Valley."
+      ],
+      "budget": 30000000
+   },
+   "movielensId": 2376,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1985-05-24",
+      "dvdReleaseDate": "2000-10-17",
+      "directors": ["John Glen"],
+      "runtime": 131,
+      "movieId": 2376,
+      "title": "A View to a Kill",
+      "mpaa": "PG",
+      "actors": [
+         "Roger Moore",
+         "Christopher Walken",
+         "Tanya Roberts",
+         "Grace Jones",
+         "Patrick Macnee",
+         "Patrick Bauchau",
+         "David Yip",
+         "Fiona Fullerton",
+         "Manning Redwood",
+         "Alison Doody",
+         "Willoughby Gray",
+         "Desmond Llewelyn",
+         "Robert Brown",
+         "Lois Maxwell",
+         "Walter Gotell",
+         "Geoffrey Keen",
+         "Jean Rougerie",
+         "Daniel Benzali",
+         "Bogdan Kominowski",
+         "Papillon Soo",
+         "Mary Stavin",
+         "Dominique Risbourg",
+         "Carole Ashby",
+         "Anthony Chinn",
+         "Lucien Jérôme",
+         "Joe Flood",
+         "Gerard Bühr",
+         "Dolph Lundgren",
+         "Tony Sibbald",
+         "Bill Ackridge",
+         "Ron Tarr",
+         "Taylor McAuley",
+         "Peter Ensor",
+         "Seva Novgorodtsev",
+         "Sian Adey-Jones",
+         "Caroline Hallett",
+         "Nike Clark",
+         "Paula Thomas",
+         "Gloria Douse",
+         "Lou-Anne Ronchi",
+         "Elke Ritschel",
+         "Mayako Torigai"
+      ],
+      "imdbMovieId": "0090264",
+      "originalTitle": "A View to a Kill",
+      "genres": [
+         "Adventure",
+         "Action",
+         "Thriller"
+      ],
+      "youtubeTrailerIds": [
+         "cLM6QjHEOIU",
+         "buOK9kJIJA4",
+         "shW7k1ch_v4",
+         "sIWFLMBdGUM"
+      ],
+      "plotSummary": "A newly developed microchip designed by Zorin Industries for the British Government that can survive the electromagnetic radiation caused by a nuclear explosion has landed in the hands of the KGB. James Bond must find out how and why. His suspicions soon lead him to big industry leader Max Zorin.",
+      "tmdbMovieId": 707,
+      "avgRating": 3.18375,
+      "releaseYear": "1985",
+      "numRatings": 4117,
+      "posterPath": "/veDMW7eX6tat86EapsvGEICJ8Tq.jpg"
+   }
+}

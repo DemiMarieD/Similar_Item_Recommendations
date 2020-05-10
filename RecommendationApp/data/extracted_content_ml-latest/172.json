@@ -1,0 +1,742 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "brain",
+            "id": 2588
+         },
+         {
+            "name": "childhood memory",
+            "id": 3321
+         },
+         {
+            "name": "dystopia",
+            "id": 4565
+         },
+         {
+            "name": "pharmaceutical industry",
+            "id": 6135
+         },
+         {
+            "name": "computer chip",
+            "id": 6566
+         },
+         {
+            "name": "courier",
+            "id": 8662
+         },
+         {
+            "name": "cyber",
+            "id": 10919
+         },
+         {
+            "name": "cyberpunk",
+            "id": 12190
+         }
+      ],
+      "imdb_id": "tt0113481",
+      "video": false,
+      "title": "Johnny Mnemonic",
+      "recommendations": [
+         8831,
+         8870,
+         12088,
+         12123,
+         2157,
+         9482,
+         5549,
+         9292,
+         9604,
+         9556,
+         10153,
+         9425,
+         9208,
+         9349,
+         10061,
+         10003,
+         2614,
+         9946,
+         9271,
+         9333
+      ],
+      "backdrop_path": "/vNsGZPwf45rA3BrXEu8TVRwSqKF.jpg",
+      "revenue": 19075720,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 10,
+               "character": "Johnny Mnemonic",
+               "gender": 2,
+               "credit_id": "52fe4541c3a36847f80c3d27",
+               "name": "Keanu Reeves",
+               "profile_path": "/bOlYWhVuOiU6azC4Bw6zlXZ5QTC.jpg",
+               "id": 6384,
+               "order": 0
+            },
+            {
+               "cast_id": 11,
+               "character": "Jane",
+               "gender": 1,
+               "credit_id": "52fe4541c3a36847f80c3d2b",
+               "name": "Dina Meyer",
+               "profile_path": "/a208ijs7X3u8lPzKWHeXSp3PiMd.jpg",
+               "id": 2133,
+               "order": 1
+            },
+            {
+               "cast_id": 12,
+               "character": "Takahashi",
+               "gender": 2,
+               "credit_id": "52fe4541c3a36847f80c3d2f",
+               "name": "Takeshi Kitano",
+               "profile_path": "/xkXZ7HC8uyhu5MtNnbdP8mhdiFN.jpg",
+               "id": 3317,
+               "order": 2
+            },
+            {
+               "cast_id": 13,
+               "character": "J-Bone",
+               "gender": 2,
+               "credit_id": "52fe4541c3a36847f80c3d33",
+               "name": "Ice-T",
+               "profile_path": "/2XsNifyKI37XBbBbZEH8P21god1.jpg",
+               "id": 21411,
+               "order": 3
+            },
+            {
+               "cast_id": 15,
+               "character": "Street Preacher",
+               "gender": 2,
+               "credit_id": "52fe4541c3a36847f80c3d3b",
+               "name": "Dolph Lundgren",
+               "profile_path": "/hjR1tpZV5XKX8daIKmU80ZuOfMO.jpg",
+               "id": 16644,
+               "order": 4
+            },
+            {
+               "cast_id": 50,
+               "character": "Shinji",
+               "gender": 2,
+               "credit_id": "55391501c3a3685f9b002360",
+               "name": "Denis Akiyama",
+               "profile_path": "/aBHmYKZw0qB0sRxyRE7ME6FZZrw.jpg",
+               "id": 538687,
+               "order": 5
+            },
+            {
+               "cast_id": 16,
+               "character": "Spider",
+               "gender": 2,
+               "credit_id": "52fe4541c3a36847f80c3d3f",
+               "name": "Henry Rollins",
+               "profile_path": "/2E0cZdoJsdt1Lv4waG3s6fsfJeU.jpg",
+               "id": 9290,
+               "order": 6
+            },
+            {
+               "cast_id": 17,
+               "character": "Anna Kalmann",
+               "gender": 1,
+               "credit_id": "52fe4541c3a36847f80c3d43",
+               "name": "Barbara Sukowa",
+               "profile_path": "/mGKhBMI9P2teTXC1v9HgS3WtL73.jpg",
+               "id": 23378,
+               "order": 7
+            },
+            {
+               "cast_id": 18,
+               "character": "Ralfi",
+               "gender": 2,
+               "credit_id": "52fe4541c3a36847f80c3d47",
+               "name": "Udo Kier",
+               "profile_path": "/sTNpaKOBNi7WUJw7jPDrsbGAL4O.jpg",
+               "id": 1646,
+               "order": 8
+            },
+            {
+               "cast_id": 19,
+               "character": "Pretty",
+               "gender": 1,
+               "credit_id": "52fe4541c3a36847f80c3d4b",
+               "name": "Tracy Tweed",
+               "profile_path": "/hYLt3sze7RJAt3YT0t3aOU0zN8K.jpg",
+               "id": 122159,
+               "order": 9
+            },
+            {
+               "cast_id": 20,
+               "character": "Yomamma",
+               "gender": 0,
+               "credit_id": "52fe4541c3a36847f80c3d4f",
+               "name": "Falconer Abraham",
+               "profile_path": "/pJC2Jtpnr11Cdx1EJMIT8CCJMnP.jpg",
+               "id": 180682,
+               "order": 10
+            },
+            {
+               "cast_id": 21,
+               "character": "Hooky",
+               "gender": 2,
+               "credit_id": "52fe4541c3a36847f80c3d53",
+               "name": "Don Francks",
+               "profile_path": "/9oSLGj7w9PapcHHqTkr9h2dZy5j.jpg",
+               "id": 87461,
+               "order": 11
+            },
+            {
+               "cast_id": 22,
+               "character": "Henson",
+               "gender": 0,
+               "credit_id": "52fe4541c3a36847f80c3d57",
+               "name": "Diego Chambers",
+               "profile_path": "/vEmPlTGpInhNj4DaPkGq41lGc7E.jpg",
+               "id": 168614,
+               "order": 12
+            },
+            {
+               "cast_id": 23,
+               "character": "Takahashi's Secretary",
+               "gender": 1,
+               "credit_id": "52fe4541c3a36847f80c3d5b",
+               "name": "Sherry Miller",
+               "profile_path": "/vxsyJwaVpm8W1KRcPwya56hFaeJ.jpg",
+               "id": 43301,
+               "order": 13
+            },
+            {
+               "cast_id": 24,
+               "character": "Viet",
+               "gender": 2,
+               "credit_id": "52fe4541c3a36847f80c3d5f",
+               "name": "Arthur Eng",
+               "profile_path": null,
+               "id": 176006,
+               "order": 14
+            },
+            {
+               "cast_id": 25,
+               "character": "Viet",
+               "gender": 2,
+               "credit_id": "52fe4541c3a36847f80c3d63",
+               "name": "Von Flores",
+               "profile_path": "/iuAwdsaVmltuZKOrsDR9n9najuc.jpg",
+               "id": 64888,
+               "order": 15
+            },
+            {
+               "cast_id": 26,
+               "character": "Pharmakom Receptionist",
+               "gender": 0,
+               "credit_id": "52fe4541c3a36847f80c3d67",
+               "name": "Victoria Tengelis",
+               "profile_path": null,
+               "id": 552452,
+               "order": 16
+            },
+            {
+               "cast_id": 27,
+               "character": "Yakuza Operator",
+               "gender": 0,
+               "credit_id": "52fe4541c3a36847f80c3d6b",
+               "name": "Warren Sulatycky",
+               "profile_path": "/2IdR4kySlvOwAcuYULEQl2ThfTi.jpg",
+               "id": 185133,
+               "order": 17
+            },
+            {
+               "cast_id": 28,
+               "character": "Mikiyo",
+               "gender": 0,
+               "credit_id": "52fe4541c3a36847f80c3d6f",
+               "name": "Celina Wu",
+               "profile_path": null,
+               "id": 552453,
+               "order": 18
+            },
+            {
+               "cast_id": 29,
+               "character": "Laslo",
+               "gender": 0,
+               "credit_id": "52fe4541c3a36847f80c3d73",
+               "name": "Gene Mack",
+               "profile_path": null,
+               "id": 174954,
+               "order": 19
+            },
+            {
+               "cast_id": 30,
+               "character": "Toad",
+               "gender": 2,
+               "credit_id": "52fe4541c3a36847f80c3d77",
+               "name": "Jamie Elman",
+               "profile_path": "/1YOxX9IhLp8TeLnsAA2bimC70pz.jpg",
+               "id": 95002,
+               "order": 20
+            },
+            {
+               "cast_id": 31,
+               "character": "Man in Hotel Lobby",
+               "gender": 0,
+               "credit_id": "52fe4541c3a36847f80c3d7b",
+               "name": "Simon Sinn",
+               "profile_path": "/t2umcoYo4nyMWJCWPjDWCl0cppP.jpg",
+               "id": 185092,
+               "order": 21
+            },
+            {
+               "cast_id": 32,
+               "character": "Twin in Hotel Lobby",
+               "gender": 0,
+               "credit_id": "52fe4541c3a36847f80c3d7f",
+               "name": "Caitlin Carmody",
+               "profile_path": null,
+               "id": 552454,
+               "order": 22
+            },
+            {
+               "cast_id": 33,
+               "character": "Twin in Hotel Lobby",
+               "gender": 0,
+               "credit_id": "52fe4541c3a36847f80c3d83",
+               "name": "Erin Carmody",
+               "profile_path": null,
+               "id": 552455,
+               "order": 23
+            },
+            {
+               "cast_id": 34,
+               "character": "Pharmakom Security Officer",
+               "gender": 2,
+               "credit_id": "52fe4541c3a36847f80c3d87",
+               "name": "Douglas O'Keeffe",
+               "profile_path": "/xQAetTbYePBo4IPZGJrOon99tND.jpg",
+               "id": 182946,
+               "order": 24
+            },
+            {
+               "cast_id": 35,
+               "character": "Lotek Kid",
+               "gender": 0,
+               "credit_id": "52fe4541c3a36847f80c3d8b",
+               "name": "Marlow Vella",
+               "profile_path": null,
+               "id": 185109,
+               "order": 25
+            },
+            {
+               "cast_id": 36,
+               "character": "Strike",
+               "gender": 0,
+               "credit_id": "52fe4541c3a36847f80c3d8f",
+               "name": "Howard Szafer",
+               "profile_path": null,
+               "id": 552456,
+               "order": 26
+            },
+            {
+               "cast_id": 37,
+               "character": "Stump",
+               "gender": 0,
+               "credit_id": "52fe4541c3a36847f80c3d93",
+               "name": "Paul Brogren",
+               "profile_path": null,
+               "id": 27560,
+               "order": 27
+            },
+            {
+               "cast_id": 38,
+               "character": "Nurse",
+               "gender": 0,
+               "credit_id": "52fe4541c3a36847f80c3d97",
+               "name": "Arthi Sambasivan",
+               "profile_path": null,
+               "id": 185125,
+               "order": 28
+            },
+            {
+               "cast_id": 39,
+               "character": "Stick",
+               "gender": 0,
+               "credit_id": "52fe4541c3a36847f80c3d9b",
+               "name": "Michael A. Miranda",
+               "profile_path": "/kKZtPnutxCjJHNpCLm5QJkKXxHl.jpg",
+               "id": 180917,
+               "order": 29
+            },
+            {
+               "cast_id": 40,
+               "character": "Buddy",
+               "gender": 0,
+               "credit_id": "52fe4541c3a36847f80c3d9f",
+               "name": "Coyote Shivers",
+               "profile_path": "/fpbbMbIoQ0VgUDBBUTwdpKZ5nqQ.jpg",
+               "id": 552457,
+               "order": 30
+            },
+            {
+               "cast_id": 41,
+               "character": "Yakuza with Rocket Launcher",
+               "gender": 0,
+               "credit_id": "52fe4541c3a36847f80c3da3",
+               "name": "Lynne Adams",
+               "profile_path": null,
+               "id": 197795,
+               "order": 31
+            },
+            {
+               "cast_id": 42,
+               "character": "Yakuza Partner",
+               "gender": 0,
+               "credit_id": "52fe4541c3a36847f80c3da7",
+               "name": "Michael Shearer",
+               "profile_path": "/3gyrOhUlmd6Gkitxr2qSQ5qb10J.jpg",
+               "id": 552458,
+               "order": 32
+            },
+            {
+               "cast_id": 43,
+               "character": "Opera Singer",
+               "gender": 0,
+               "credit_id": "52fe4541c3a36847f80c3dab",
+               "name": "Susan Tsagkaris",
+               "profile_path": null,
+               "id": 552459,
+               "order": 33
+            },
+            {
+               "cast_id": 44,
+               "character": "Beijing Riot Newscaster",
+               "gender": 0,
+               "credit_id": "52fe4541c3a36847f80c3daf",
+               "name": "Christopher Comrie",
+               "profile_path": "/jus4gerKMBqDIbHHc6qHsYU70Rl.jpg",
+               "id": 552460,
+               "order": 34
+            },
+            {
+               "cast_id": 45,
+               "character": "Girl in Hotel Room",
+               "gender": 0,
+               "credit_id": "52fe4541c3a36847f80c3db3",
+               "name": "Robin Crosby",
+               "profile_path": null,
+               "id": 552461,
+               "order": 35
+            },
+            {
+               "cast_id": 46,
+               "character": "Bandleader (uncredited)",
+               "gender": 0,
+               "credit_id": "52fe4541c3a36847f80c3db7",
+               "name": "Glenn Bang",
+               "profile_path": "/sxyRoM5UylZlD3WxAl6eaeCo6wO.jpg",
+               "id": 181020,
+               "order": 36
+            },
+            {
+               "cast_id": 47,
+               "character": "Tall Chinese Man (uncredited)",
+               "gender": 0,
+               "credit_id": "52fe4541c3a36847f80c3dbb",
+               "name": "Natalie Gray",
+               "profile_path": null,
+               "id": 552462,
+               "order": 37
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4541c3a36847f80c3cf9",
+               "name": "Robert Longo",
+               "profile_path": "/erzaRdEKjBvhDjpBZ2LJr0Idmcm.jpg",
+               "id": 59997,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4541c3a36847f80c3d05",
+               "name": "François Protat",
+               "profile_path": null,
+               "id": 56005,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4541c3a36847f80c3d0b",
+               "name": "Ronald Sanders",
+               "profile_path": null,
+               "id": 310,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4541c3a36847f80c3d11",
+               "name": "Staffan Ahrenberg",
+               "profile_path": "/cz0JRJ7guBoyZYhXLQGtiNG8C8o.jpg",
+               "id": 8310,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4541c3a36847f80c3d17",
+               "name": "Victoria Hamburg",
+               "profile_path": null,
+               "id": 59999,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4541c3a36847f80c3d1d",
+               "name": "Robert Lantos",
+               "profile_path": "/5zgnr7BdExuqKSPwzHYkyUHVJzv.jpg",
+               "id": 20182,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4541c3a36847f80c3d23",
+               "name": "Don Carmody",
+               "profile_path": null,
+               "id": 8303,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4541c3a36847f80c3dc1",
+               "name": "William Gibson",
+               "profile_path": "/mnrprkOYH3nsrEBtb31BMtp8IH6.jpg",
+               "id": 150783,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5364b167c3a3681241000c65",
+               "name": "Brad Fiedel",
+               "profile_path": null,
+               "id": 2722,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Adventure",
+            "id": 12
+         },
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Science Fiction",
+            "id": 878
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         }
+      ],
+      "popularity": 9.916316,
+      "production_countries": [
+         {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+         },
+         {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+         }
+      ],
+      "id": 9886,
+      "vote_count": 459,
+      "budget": 25000000,
+      "overview": "A data courier, literally carrying a data package inside his head, must deliver it before he dies from the burden or is killed by the Yakuza.  In a dystopian 2021, Johnny (Keanu Reeves) is a data trafficker who has an implant that allows him to securely store data too sensitive for regular computer networks. On one delivery run, he accepts a package that not only exceeds the implant's safety limits - and will kill him if the data is not removed in time - but also contains information far more important and valuable than he had ever imagined. On a race against time, he must avoid the assassins sent to kill him and remove the data before it, too, ends his life.",
+      "similar": [
+         605,
+         604,
+         335984,
+         3509,
+         534,
+         78,
+         603,
+         17431,
+         2048,
+         262543,
+         76341,
+         157336,
+         157350,
+         281,
+         87101,
+         198663,
+         9323,
+         7512,
+         9739,
+         9381
+      ],
+      "original_title": "Johnny Mnemonic",
+      "runtime": 97,
+      "poster_path": "/s9LyQtKhfUcQlZEw8hJLP6XqroO.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "日本語",
+            "iso_639_1": "ja"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": "/rzgMLzPgJ2ZBYnlVwNi8ZDfOMwo.png",
+            "name": "TriStar Pictures",
+            "id": 559,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Alliance Communications Corporation",
+            "id": 2480,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1995-05-26",
+      "vote_average": 5.5,
+      "belongs_to_collection": null,
+      "tagline": "The hottest data on earth. In the coolest head in town.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Canada",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Robert Longo"],
+      "runtime": 96,
+      "synopsis": "In the 21st century, information is the ultimate commodity. The most valuable of information is transported in mnemonic implants in the heads of professional mnemonic couriers like Johnny (Keanu Reeves - Speed) who offer both security and confidentiality for the right price. But Johnny has paid a heavy price of his own - He's dumped his own memories to make room for the programmes he smuggles. To buy them back he agrees to deliver priceless data, the most important data of the 21st century, data that has already set an army of professional killers on his trail. but the massive upload is too much for his brain and johnny must find the secret codes to download the information - or die. Intro pre-title, 2nd decade of 21st century. Scrolling script sets up the story, Loteks vs. corporations, and elite agents who smuggle data by wet-wired brain implants. A man (Keanu Reeves) awakes at 10:30 am, Thursday 17 Jan 2021. An attractive woman dresses as he scans thru the TV channels. After she leaves he uses the TV to dial a man Ralfi (Udo Kier), they have a video conversation. Johnny needs $1.5M to remove the implant device and return to normal but has to do one more courier run. In Central Beijing Johnny gets out of a cab in the midst of a riot. He enters a posh hotel and goes up an elevator. Taking a small device from his pocket he inserts a wired tether into a socket in his head and watches as the progress bar formats his head with a memory doubler and a voice warning he can only handle 160 GB safely. Entering a room full of asians he is greeted by pointed weapons. The young men in charge admit they are new at hiring a data courier. Johnny installs a motion detector on the door as the men discuss his memory limits. This trip will require 320 GB but Johnny acts nonplussed. Downstairs an ominous group of black coated Yakuza prepare to enter the elevator. Johnny sets up his upload equipment and instructs the clients to take three video screen shots as the counter approaches zero. Putting on a dark visor over his eyes and a teeth clencher the painful data upload begins. The client presses the screen shot device 3 times as the data stream ends, and three photos come out of a small printer. Johnny excuses himself to the toilet as one of the men goes to fax the photos to the end user in Newark, NJ. The photos are the encryption key to enable the data download. In the washroom Johnny has a slight bloody nose and he tidies up. Meanwhile the Yakuza charge into the room and start shooting. The leader has a monofilament wire whip that slices thru anything. Johnny outfights one assailant in the washroom. In the main room fight the three photo strip is sliced in two and the fax transmission is interrupted. The Yakuza leader Takahashi (Takeshi Kitano) recovers half the photo strip, the other half is burned. Johnny manages to escape but the clients are all killed. At the airport a security scanner detects Johnny's implant but it is listed as an approved dyslexia device by the Federal government. The scanner also detects a potential medical problem, synaptic leakage, and issues a verbal warning. In an office in Newark Takahashi greets a rich man Shinji (Dennis Akayama) and tells him the courier, Johnny escaped. Shinji accepts the partial photo key and dismisses the Yakuza. In a cab Johnny calls Ralfi, he is furious at the blown deal and demands to know what is going on. At a busy night club a man Spider (Henry Rollins) meets a woman Jane (Dina Meyer) and they discuss her medical condition. She then approaches Ralfi, sitting a table with his henchmen. Jane attempts to show her ability as a bodyguard. Ralfi makes her show steady her hands are as she suffers from NAS, Nerve Attenuation Syndrome, aka \"Black Shakes\". The cab drops Johnny off in a dark alley. Observers, J-Bone (Ice-T) and aide, above detects the memory implant but leaves him alone. Johnny meets two armed men but when threatened, escapes the building. In a confrontation outside J-Bone helps Johnny kill the two. Johnny then goes to confront Ralfi claiming he was set up, but is taken from behind with a knockout drug. Janes sees the henchmen carry the unconscious Johnny away. In a room Johnny is strapped to a bed as Ralfi gloats, Takahashi is there as they are prepared to remove the memory device. Jane is in the ceiling above and drops down and fights off Ralfi's gang. Johnny is cut loose and joins the fight and they escape. Takahashi slices Ralfi's upper torso in frustration. Outside J-Bone and several cronies protect Johnny and Jane as they stand-off the Yakuza. Johnny and Jane get away thru a deserted subway tunnel. Jane wants to get paid, Johnny has a severe head pain episode. Shinji dresses and watches a video of a young girl. The video is interrupted as an ethereal woman's face (Barbara Sukowa) comes on and tells him the courier's data can give him new purpose in life. Back in the tunnel Johnny asks for help to get the data out of his head. He admits he had to dump some of his own childhood memories to make space for the uploaded data. Johnny wants to get out of the courier business, and wants a computer. They break into an electronics store and Johnny gears up with a VR visor and gloves. In a 3D display environment he tracks down the fax number from the Beijing hotel room. The local Newark number is for a Dr. Allcome. An IT tech notices the hack and informs Takahashi of Johnny's location. As the cars approach Johnny chats online with a head figure who mentions PharmaKom is behind it. Once again Johnny and Jane escape. In the PharmaKom skyscraper Shinji makes a video call to a Street Preacher(Dolph Lundgren) a cross and candles pseudo cleric, and offers him a contract to get Johnny's head. At a phone booth Johnny hacks into the phone system with a repairman's device and offers the 320 GB of info to PharmaKom, hoping they will negotiate. Jane then goes into spasms and has a seizure, she still manages to direct Johnny to Spider. At a dark isolated warehouse Spider lets them in, he rants about information overload but begins to examine Jane. J-Bone and his cronies observe Street P striding down the street. Shinji gets a briefing about the woman's face in his video, she is Anna Kalmann, she died in 2015 and had been imprinted into a computer in Switzerland and is now a \"ghost in the machine\", advising the company from her present state. Johnny explains his situation to Spider. Street P approaches the bartender Hooky (Don Francks) and freezes his prosthetic hand in a liquid, torturing him to find out where Jane is. Spider stabilizes Jane and scans Johnny. Spider is not very confident, Johnny onvinces Spider to drive them to Dr. Allcome. Driving away they run over Street Preacher. In a crowded makeshift hospital Spider tells them Dr. Allcome is merely an emergency code word, the fax was meant for them, the NAS Underground. Spider hooks Johnny up to another device and reads the data in his brain. He offers to remove the implant but it would have some severe adverse effects. The data is the cure for NAS, which can save millions of people. Johnny refuses the removal. Suddenly the Street Preacher enters and causes havoc. Spider is stabbed and killed but Johnny and Jane manage to run away. Calling PharmaKom again Johnny offers to meet at the bridge, Landfill 5. He is talking to Shinji who is using a anglo-saxon avatar to talk to Johnny. As Shinji hangs up the face of Anna Kalmann reappears warning him he is running out of time. Johnny and jane arrive by garbage truck under the bridge, two guards watch them. A burning car falls and they narrowly dodge it. Johnny loses it and rants about his desire for normalcy. J-Bone descends beside them in an elevator device. Johnny begins to have flash episodes and collapses as the three ascend to the bridge deck, the busy Lotek HQ. Back at Pharmakom Shinji prepares a katana sword and pistol and directs an aide to have Takahashi meet at the bridge. At the bridge Jane comforts Johnny and the two kiss. J-bone takes them to a work area with several stacked video monitors and a dolphin in a glass tank. The Loteks send out encrypted data to the world. The white dolphin is rigged up with a helmet and wires and is to be used as the codebreaker. Takahashi and a large squad of Yakuza soldiers arrive below the bridge. Johnny is hesitant to link with the dolphin but finally agrees to put on the wired headpiece. The Yakuza use personal ascenders to raise themselves up. Shinji arrives by helicopter. The Yakuza start killing the guards. Johnny has a painful experience as the dolphin slowly tries to finds the encrytpion key. A woman with a shoulder launched missle launcher fires at the bridge from below until J-bone shoots her with a crossbow. The codebreaking is interrupted with the fighting with only one picture resolved. Shinji confronts Johnny with a pistol and sword. Anna Kalmann appears on the monitors, in a fury Shinji slices through a wire bundle. Takahashi shoots Shinji in the back and approaches Johnny with his wire device. Jane starts a distracting fight and Johnny tries to flee, chased by the Japanese man. They fall through wreckage and hang by their fingers high above the river. Johnny manages to get control of the monofilament wire device and kills Takahashi. Back on top Johnny meets a dying Shinji who gives him the half of the photo strip key. Street Preacher arrives and in a wild fight Jane and Johnny manage to defeat the big man, burning him alive. Johnny gives J-Bone the pictures and prepares to link with the dolphin again. Ann Kalmann comes on again and appeals to Johnny. J-Bone broadcasts to the world the cure is coming and the final painful data download commences. At the end of the data stream Johnny faints but recovers quickly. J-Bone, Johnny and Jane look out onto the lights of the city with the PharmaKom tower in flames in the distance.",
+      "writers": [
+         "William Gibson",
+         "William Gibson"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0113481/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMjg5ODYwNjU2Ml5BMl5BanBnXkFtZTcwOTAwNDI4OA@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Keanu Reeves, Dolph Lundgren, Dina Meyer | See full cast and crew »"],
+      "reviews": [
+         "I must start with a personal statement - I'm amazed at the silliness of those who bombastically declare this to be the worst movie of all times and so on... Really? Is it really that bad, worse than \"Manos - The Hands of Fate\" or \"Cocoon - the Return\"? I think most of the people who diss this film fall, broadly, in three large categories: 1) those who are so attached to the original short story that they can't stand the idea of an eponymous film with a different vision (although, again, its Gibson himself who penned this script!) This is not \"purism\", but acting like brats - just like those who criticized the film \"Resident Evil\" for not \"sticking closer to the original games\". 2) then, there are those who have a personal dislike for Keanu Reeves, and they follow him over the 'net, criticizing him for \"wooden acting\". It doesn't matter to them that the Johnny character is exactly what Keanu portrays - an egotistic, self-absorbed bastard, who only cares about his posh clothes, cold Mexican beer and hookers (and there are already so many out there like him, in the real world!). Then 3) there are those who are simply too stupid to actually watch what's going on on the screen, because of personal convictions, education or background (i.e. those who mention Grenpeace and anti-capitalism as if they are capital crimes, or those who think PharmaKom is a Japanese company). I was particularly amused at the user who launched a furious diatribe against the idea of the Lo-Teks being so visible in the ruined bridge, despite the fact that the only time in which they actually identify themselves as the source of anti-establishment activities is the very end, when they also announce they'll be going off the air. The list could go on. But this is supposed to be a review, not an answer to those who dislike the movie so vehemently. I believe this is *the* film which, despite its occasional artistic shortcomings, connects \"Blade Runner\" to \"The Matrix\". It was a courageous endeavour, portraying an all-too possible near future, and reminded me of another picture, similarly vilified by simpletons who couldn't see beyond the surface - \"Starship Troopers\". The sad fact is that the movie was mistreated, and what we ended by seeing on DVD in most of the world is not what the director intended. There is an alternative version (briefly mentioned on this site) which makes some significant changes, and it's available only in Japan. First of all, the prologue is different and more poignant. Here it is, in this exact form: \"New century. Age of terminal capitalism. The armored towers of multinational corporations rise above the ruins of the democracies that gave them birth. Soldiers of the Yakuza defend them. Hackers, data-pirates, LoTek media rebels are the enemy, burrowing like rats in the walls of cyberspace. A new plague convulses the cities: Nerve Attenuation Syndrome, incurable, fatal, epidemic, bringing fear and misery as old as the species itself. But the most precious data is sometimes entrusted to elite private agents, wetwired to function as human data banks. Mnemonic couriers.\" In this day and age, in the post-Enron, post-9/11 world, all the above doesn't seem so far-fetched anymore. The film is more somber in the Japanese version. We see more of Takahashi's inner desolation, and there are some added bits of gore and violence in the Beijing fight. Johnny himself is much more of a corporate puppet - we see it from a longer dialogue with the hooker in the hotel room, or in the scene in which he acquires the memory doubler. We see J-Bone sticking a syringe in the dolphin, sadistically commenting how the creature is a junkie. There is also more realism involved (Spoiler alert!): the hero doesn't somehow miraculously recover his childhood memories after being connected to Jones. And we see how Johnny, exhausted, decides to get it over with, despite a dire warning that the \"looping\" procedure through the dolphin will most certainly kill him. That is a moment of pure redemption, sadly lost in the official European and North-American film versions. Last but not least, the extended cut gives more screen time to Lundgren's \"mad preacher\" character. We see him sermonizing in his church, in front of a rapt audience, using words and gestures that are scarily familiar to anyone who has watched an Evangelical TV channel. He discovers along the way that Johnny's \"load\" is the miraculous cure for NAS, and he covets it for himself - he even shouts he wants to \"become (like) God.\" It's easy to see why \"some circles\" decided to eliminate all this potentially uncomfortable content... but we ended up with a caricature, instead of a cunning and shrewd film villain. Johnny, we barely knew you.",
+         "Johnny Mnemonic could have been a wonderful movie, had William Gibson not strayed so far from his original story when writing the screenplay. Having painter Robert Longo direct the movie, the first and to this date only full length feature he has directed, was probably not the best idea either. While Longo may present the occasional intriguing image, his inexperience shows in other areas. The acting is terrible for the most part, with Henry Rollins taking the cake for worst performance. Reeves, contrary to popular opinion, is alright and has a few great scenes, most notably his angry breakdown on the pile of garbage under the bridge. Having read Johnny Mnemonic several times the character of Jane is one of the most annoying factors of the movie. In the story the character is Molly Millions, a confident, tough as nails mercenary who sports several augmentations, most important being retractable blades under her fingernails. However, they had to change the character since Molly Millions is also a main character in Gibson's book Neuromancer, and another company owed the film production rights for that book, including the character of Molly. But they could have made Jane more like Molly. Instead, she's as insecure as Johnny, and he spends more time protecting her than she does him, which is supposed to be her job. There are other little inaccuracies in the movie, such as the Magnetic Dog Sisters. In the story they are the door guards at the club and Johnny claims that they are \"bad news in a tussle.\" In the movie they are Ralfi's bodyguards and portrayed as pathetic and outdated rather than dangerous. The story doesn't have anything about NAS, that's all a fabrication to fill space for the movie. Gibson seems to try to shoehorn several of his concepts into the Johnny Mnemonic movie. Instead of living in the rafters high above the streets, as they do in the story, the Lo Teks live on an old bridge. Gibson has people living on the Golden Gate Bridge in his books Virtual Light and All Tomorrow's Parties. The bartender Hooky, at the club where Johnny meets Ralfi, is an approximation of Ratz, a bartender from the book Neuromancer. Johnny never accesses the matrix (the internet) in the story, but he does in the movie, for no apparent reason other than allowing director Longo to show off some CGI special effects. Longo also chooses to mimic Blade Runner in the opening scenes, and later on one character tells another that it's \"time to die\", a famous line from BR. I thought this was unnecessary, and cheapens the movie, as blatantly ripping of Blade Runner, whether it's for the purpose of homage or not, is the signature of several B-Movies, which is sadly what Johnny Mnemonic ends up being anyway. I still like the movie. It does have some good elements to it, and if you're a fan of Gibson, you should see it. It's better than Abel Ferrera's terrible adaptation of New Rose Hotel, because it at least portrays Gibsons technological world. I hope that Johnny Mnemonic is remade one day because it is a great story. I'd ask Reeves to play Johnny again, because I like him in the role. Gibson's writing is so descriptive, that a screenplay should follow the story as literally as possible. Ideally, I think that Johnny Mnemonic would work out as a short film, something no longer than an hour. It is a short story after all, and adding filler to extend the time certainly didn't work the first time.",
+         "This is not a terrible film as claimed, but it had faults: poor pacing; weak atmosphere (visuals were there, but insufficient music track to back them up); and its largely unexplained universe. Ideally, you need to have read Gibson's short stories and \"Neuromancer\" first, and then all the props - cyberspace, 'black ice', grubby streets, brand-name hardware, Yakuza assassins, muscle grafts, etc - make sense. The \"Blade Runner\" style information dump was no substitute. Incidentally, many of these props appear cliched, but remember that Gibson more or less invented them; it's merely that this film appeared long after they had become standard movie fixtures. Gibson's written work has fairly sparse dialogue, and makes heavy use of precise and rather introspective visual description to convey character. Perhaps this just doesn't translate well to film.",
+         "Heavens, why is everybody bragging about this movie? Maybe because they compare it to \"Matrix? Probably, I wouldn't know another reason. Nobody says that this is a real block-buster, but it is definetely not as bad as everyone here wants to make it. It's a nice movie to enjoy (especially on DVD) and forget afterwards. Not because it was bad but just because it was good and entertaining for a short while. Nothing more, nothing less. And it DID have its benefits: that crazy preacher was so hilarious to behold. A nice and funny mirror to the numerous fundamentalistic Christians in the American society. And, of course, some nice fighting scenes, cool hi-tech equipment, and a gorgeous Dina Meyer, all packed in a futuristic ambience. What else could I ask for for an action movie that you can enjoy and forget about afterwards?",
+         "Oh man! Why so many bad reviews... if you wanted acting, WHY WERE YOU WATCHING A KEANU REEVES MOVIE?! If you wanted a thick plot with many twists and turns, you shouldn't have even went \"Oh, lets go see a low budget b-film from '95!\"!!! The movie didn't call for acting, they just needed a brief plot outline and charismatic actors to play the leads. When I saw this movie way back in '98 when it was on TV, I heard so many horrid reviews that were too over-analystic. When watching a film like \"Dude Where's My Car?\", are you going to look for the same quality you saw in a film like \"The Usual Suspects\"? Keanu Reeves did his role only good enough to support the movie... That's fine!!! The plot was a cliche cyber-thriller and you must have known that even just buy the back of the box or the trailer. It delivered a plot that was kind of cool, an star that does some one-liners, and action. If these three things were not what you wanted from this film then you shouldn't have went. It just delivers an action/adventure movie, nothing short of what promised. Don't be critical on films that are obviously intended as sheer dumb fun from start to finish... if these scripts even tried to be thinker, they'd be boring... AND YOU KNOW IT!",
+         "What is it with Keanu Reeves and big budget cyberpunk science fiction movies? Oh well. Considering it was based on the short story of the same name by cyberpunk godfather William Gibson, the movie is a minor disappointment. It's not that bad, but it could have been so much better. However, a lot of Gibson's ideas are still there, making it a solid cyberpunk movie. There aren't too many of those around.",
+         "Why does everyone hate that movie so much!?! All the reviews I have read called it \"confusing\". How could it be confusing? 1. Takes place in a world created in William Gibson's many works of fiction. 2. Man has data in head. 3. Others REALLY want data. 4. Man tries to get data out of head before it kills him -- or the people chasing him do. Along the way there are some colorful characters, cool gadgets and cityscapes from Gibson's 2021, and even a smidgen of romance (but not enough to bother anyone). I mean what's the problem!?! The movie is very faithful to Gibson's vision and even asks the main character to wrestle with an ethical dilemma or two while all the action is going on...",
+         "I saw half of this movie on television once, and since I am a avid sci-fi fan, the story intrigued me. A couple of weeks later I went out to pick up a copy of this movie for myself, and ever since I've been watching it every now and then. Not every month, but at least once every 4 or 5 months. Sometimes more. There's just something about it that I like. Well, lets start from the beginning: It is the year 2021 and the world has been taken over by large coorporations that do pretty much what they want to. Most of them are out to make money, however, and will do anything to achieve that goal. One of these coorporations is PharmaCom, a coorporation that deals in medicine and exists pretty much all over the world. From Beijing to Newark. 'Johnny' is a Mnemonic courier who carries an implant in his brain which allows him to carry a large amount of data there. But when he accepts a job where he is overloaded with data, he is not only experiencing trouble with getting rid of the data, but also finds that several bounty hunters and crime organizations are after his head and the information stored within. Over 24 hours he jumps around in the city of Newark, trying to find a way to get rid of the data and the bounty hunters. A touch in this movie that many might recognize from the film 'The Matrix' is that in this movie they tend to hook themselves up to the internet, which has become a virtual reality like, àlà The Lawnmower man. But in the end of the film, Keanu's character completly hooks himself up to the internet for a short amount of time, walking around in it and controlling his actions as if he was in another world. Pretty much like he did in the Matrix. Wierd, huh? The film presents a very interesting vision of the future. Coorporations, crime syndicates, virtual-reality, futuristic weapons and the like. The sets look authentic and the look and feel of the film is top-notch. The music seems to fit the mood at all times, too, which is a big plus. The characters are likeable and unique in their own way, but with one exception. Keanu Reeves plays 'Johnny' without any life or energy put into it and delivers his lines flat and in the most boring way. His worst acting job ever? Perhaps. You could tell he didn't like this movie very much. Overall, its a very interesting sci-fi flick which has its ups and downs. The upsides is the setting, the music, the vision of the future etc. etc. while the downsides are Keanu Reeve's acting and sometimes lack of interest in what happens next in the movie. I give it a 7/10.",
+         "All things considered, this film probably does exactly what it sets out to do. Unfortunately the people behind it set their sights too low. There is so much movie-making potential in Gibsons writing, that this film could very easily have been both entertaining AND carried the depth of his literature. I was left with the feeling that Gibson thought: -\"Well, this is going to be my one chance at getting my work on the big screen. So I'd better stick a little bit of everything I've made in it.\" Too many of the characters taken from his fiction get mistreated by the script: Ralfi, Molly Millions, the-guy-with-the-monowire-thumb, Johnny. Whereas the new ones, like Spider and the Street Preacher are much more entertaining. For example: One of the central ideas in the short story was that Johnny is \"a very technical boy\" - totally reliant on technology - and therefore actually needs Molly's muscle-power to protect him. Aside from one initial rescue, Johnny actually saves his own bodyguard more times than she helps him (with anything!) Maybe Keanu has a \"Heroism Clause\" of his own, like Kevin Kostner... :) A pleasant surprise though, was the appearance of Takeshi Kitano (even if it was a small part.) My favourite scene is Johnnys rant on the rubbish heap. I know it is contrary to the intent of the scene, but I sympathise completely with his feelings. He had sacrificed something that most people hold sacred, in order to live a certain lifestyle, and it gets taken away from him completely undeservedly - no wonder he feels cheated. If you really want Gibsonesque cyberpunk, go for _New Rose Hotel (1998) _ instead.",
+         "Usually when you watch a sci-fi film, the first half usually piques your interest only to sink into a confusing and badly written second half (\"Star Trek V\" comes to mind.). \"Johnny Mnemonic\" has the unique distinction of having a rather bad first half being saved by the second half. There were moments of badly delivered lines and situations, which I fully blame the director for. There were cuts where the demeanor of Keanu Reeves changed confusingly. Again I blame the director and continuity supervisor. There was, IMHO, more gore than necessary. But that's a matter of taste. And, to make matters worse, I wasn't sure of what I was watching. There was a LOT of good things about the movie. It told a sci-fi story about a dark and bleak future....somewhat similar to \"Blade Runner\". And it did it well. There were an amazing amount of sets, extras, and really well done computer effects. There was even one really well filmed shot in a hospital that reminded me of the long scene from \"Gone With The Wind\" showing the dead and dying in the Atlanta train yard. Many of the secondary actors (especially Henry Rollins as \"Spider\" and Ice-T as \"J-Bone\") were surprisingly good and helped to raise my rating of the film from an initial 4.0 to an overall 7.0 rating. If you aren't into a lot of foul language and/or gore, I'd steer clear of this film. But if you want to see a surprisingly well made piece of dark sci-fi, this is a film worth giving a chance to watch."
+      ],
+      "genres": [
+         "Action",
+         "Crime",
+         "Sci-Fi",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "TriStar Pictures",
+         "Alliance Communications Corporation",
+         "Cinévision"
+      ],
+      "summaries": [
+         "In 2021, the whole world is connected by the gigantic Internet, and almost a half of the population is suffering from the Nerve Attenuation Syndrome (NAS).Johnny with an inplanted memory chip in his brain was ordered to transport the over loaded information from Beijing to Newark. While Pharmakom Industries supported by yakuza tries to capture him to get the informaiton back, the Low-tech group led by J-Bone tries to break the missing code to download the cure of NAS which Johnny carries.",
+         "The year is 2021, and half of the Earth's population is suffering from the disease known as Nerve Attenuation Syndrome (NAS). Johnny, a mnemonic data courier, is hired to carry 320 gigabytes of crucial information to safety from the Pharmacom corporation. Pursued by Yakuza agents and a crazed cyborg, Johnny must deliver the data or die in twenty-four hours.",
+         "A data courier, literally carrying a data package inside his head, must deliver it before he dies from the burden or is killed by the Yakuza."
+      ],
+      "budget": 25000000
+   },
+   "movielensId": 172,
+   "movielens": {
+      "languages": [
+         "English",
+         "日本語"
+      ],
+      "releaseDate": "1995-05-26",
+      "dvdReleaseDate": "2001-10-09",
+      "directors": ["Robert Longo"],
+      "runtime": 97,
+      "movieId": 172,
+      "title": "Johnny Mnemonic",
+      "mpaa": "R",
+      "actors": [
+         "Keanu Reeves",
+         "Dina Meyer",
+         "Takeshi Kitano",
+         "Ice-T",
+         "Dolph Lundgren",
+         "Denis Akiyama",
+         "Henry Rollins",
+         "Barbara Sukowa",
+         "Udo Kier",
+         "Tracy Tweed",
+         "Falconer Abraham",
+         "Don Francks",
+         "Diego Chambers",
+         "Sherry Miller",
+         "Arthur Eng",
+         "Von Flores",
+         "Victoria Tengelis",
+         "Warren Sulatycky",
+         "Celina Wu",
+         "Gene Mack",
+         "Jamie Elman",
+         "Simon Sinn",
+         "Caitlin Carmody",
+         "Erin Carmody",
+         "Douglas O'Keeffe",
+         "Marlow Vella",
+         "Howard Szafer",
+         "Paul Brogren",
+         "Arthi Sambasivan",
+         "Michael A. Miranda",
+         "Coyote Shivers",
+         "Lynne Adams",
+         "Michael Shearer",
+         "Susan Tsagkaris",
+         "Christopher Comrie",
+         "Robin Crosby",
+         "Glenn Bang",
+         "Natalie Gray"
+      ],
+      "imdbMovieId": "0113481",
+      "originalTitle": "Johnny Mnemonic",
+      "genres": [
+         "Adventure",
+         "Action",
+         "Drama",
+         "Science Fiction",
+         "Thriller"
+      ],
+      "youtubeTrailerIds": ["U_8BVWHSU_o"],
+      "plotSummary": "A data courier, literally carrying a data package inside his head, must deliver it before he dies from the burden or is killed by the Yakuza.  In a dystopian 2021, Johnny (Keanu Reeves) is a data trafficker who has an implant that allows him to securely store data too sensitive for regular computer networks. On one delivery run, he accepts a package that not only exceeds the implant's safety limits - and will kill him if the data is not removed in time - but also contains information far more important and valuable than he had ever imagined. On a race against time, he must avoid the assassins sent to kill him and remove the data before it, too, ends his life.",
+      "tmdbMovieId": 9886,
+      "avgRating": 2.75009,
+      "releaseYear": "1995",
+      "numRatings": 14391,
+      "posterPath": "/s9LyQtKhfUcQlZEw8hJLP6XqroO.jpg"
+   }
+}

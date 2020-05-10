@@ -1,0 +1,593 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "amnesia",
+            "id": 1453
+         },
+         {
+            "name": "rolling stone",
+            "id": 2465
+         },
+         {
+            "name": "lonely hearts ad",
+            "id": 5444
+         },
+         {
+            "name": "woman director",
+            "id": 187056
+         }
+      ],
+      "imdb_id": "tt0089017",
+      "video": false,
+      "title": "Desperately Seeking Susan",
+      "recommendations": [
+         26827,
+         10631,
+         19382,
+         12772,
+         11591,
+         10013,
+         5968,
+         13665,
+         11557,
+         18169,
+         2321,
+         9941,
+         31052,
+         12518,
+         3101,
+         10875,
+         13697,
+         12472,
+         12714,
+         2039
+      ],
+      "backdrop_path": "/gfenrYQu3xV9kcgzZxmD2xoIsOJ.jpg",
+      "revenue": 27400000,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "Susan",
+               "gender": 1,
+               "credit_id": "52fe4493c3a36847f809e025",
+               "name": "Madonna",
+               "profile_path": "/7KMAZvh8LehYpRdDuUdaUA7tevs.jpg",
+               "id": 3125,
+               "order": 0
+            },
+            {
+               "cast_id": 3,
+               "character": "Roberta Glass",
+               "gender": 1,
+               "credit_id": "52fe4493c3a36847f809e029",
+               "name": "Rosanna Arquette",
+               "profile_path": "/rQMQYQUF9QzD6oDfkP6tsjmyZhS.jpg",
+               "id": 2165,
+               "order": 1
+            },
+            {
+               "cast_id": 5,
+               "character": "Dez",
+               "gender": 2,
+               "credit_id": "52fe4493c3a36847f809e033",
+               "name": "Aidan Quinn",
+               "profile_path": "/fOiuJIBJUdiuqjQtGkffpSbRQ49.jpg",
+               "id": 18992,
+               "order": 2
+            },
+            {
+               "cast_id": 6,
+               "character": "Gary Glass",
+               "gender": 2,
+               "credit_id": "52fe4493c3a36847f809e037",
+               "name": "Mark Blum",
+               "profile_path": "/mXRMbyyUtZ0JBs8aagC5Gn3omnE.jpg",
+               "id": 14103,
+               "order": 3
+            },
+            {
+               "cast_id": 7,
+               "character": "Jim",
+               "gender": 2,
+               "credit_id": "52fe4493c3a36847f809e03b",
+               "name": "Robert Joy",
+               "profile_path": "/xh5eb9p379k9w3NOGRjEyAw2yrP.jpg",
+               "id": 19976,
+               "order": 4
+            },
+            {
+               "cast_id": 8,
+               "character": "Leslie Glass",
+               "gender": 1,
+               "credit_id": "52fe4493c3a36847f809e03f",
+               "name": "Laurie Metcalf",
+               "profile_path": "/oHhTbuv9eNJV4YlgizhCkZsPV0N.jpg",
+               "id": 12133,
+               "order": 5
+            },
+            {
+               "cast_id": 29,
+               "character": "Crystal",
+               "gender": 1,
+               "credit_id": "58ee6a2692514113650009ee",
+               "name": "Anna Levine",
+               "profile_path": "/A3oxT1n8ecpl0uYomHaMUWGBivu.jpg",
+               "id": 3711,
+               "order": 6
+            },
+            {
+               "cast_id": 30,
+               "character": "Wayne Nolan",
+               "gender": 2,
+               "credit_id": "58ee6a49925141136f000a52",
+               "name": "Will Patton",
+               "profile_path": "/qpycaaWP1oUx1Wd2lMBfQtR7qDO.jpg",
+               "id": 883,
+               "order": 7
+            },
+            {
+               "cast_id": 31,
+               "character": "Larry Stillman D.D.S.",
+               "gender": 2,
+               "credit_id": "58ee6a5f92514113a8000a69",
+               "name": "Steven Wright",
+               "profile_path": "/m9827iUNPGTbAsfjHD9tpMCXYbR.jpg",
+               "id": 3214,
+               "order": 8
+            },
+            {
+               "cast_id": 32,
+               "character": "Ray",
+               "gender": 2,
+               "credit_id": "58ee6a7dc3a36847e1000a44",
+               "name": "John Turturro",
+               "profile_path": "/70V4hwvWN0J3aX2LzQg7eKCeq29.jpg",
+               "id": 1241,
+               "order": 9
+            },
+            {
+               "cast_id": 33,
+               "character": "Street Vendor",
+               "gender": 2,
+               "credit_id": "58ee6a8c9251411396000a84",
+               "name": "Giancarlo Esposito",
+               "profile_path": "/d39hOi5lTfqekjFK4JKKPeuGNdW.jpg",
+               "id": 4808,
+               "order": 10
+            },
+            {
+               "cast_id": 34,
+               "character": "Bruce Meeker",
+               "gender": 0,
+               "credit_id": "58ee6a9ac3a3684808000a3a",
+               "name": "Richard Hell",
+               "profile_path": null,
+               "id": 1079317,
+               "order": 11
+            },
+            {
+               "cast_id": 35,
+               "character": "Taxi Driver",
+               "gender": 2,
+               "credit_id": "58ee6aafc3a36847c70008de",
+               "name": "Rockets Redglare",
+               "profile_path": "/ytzTZMZifn86lpZhMCc8UhFbVz3.jpg",
+               "id": 6401,
+               "order": 12
+            },
+            {
+               "cast_id": 36,
+               "character": "Band Singer",
+               "gender": 1,
+               "credit_id": "58ee6ae99251411396000b11",
+               "name": "Annie Golden",
+               "profile_path": "/2onk2YDUlJIQdJKhfRRNyuNjzu7.jpg",
+               "id": 66094,
+               "order": 13
+            },
+            {
+               "cast_id": 37,
+               "character": "Man With Newspapers",
+               "gender": 2,
+               "credit_id": "58ee6af7c3a36847c7000922",
+               "name": "Richard Edson",
+               "profile_path": "/7YegwxrBppretnwGEEMxEI453Ef.jpg",
+               "id": 6396,
+               "order": 14
+            },
+            {
+               "cast_id": 38,
+               "character": "Cigarette Girl",
+               "gender": 1,
+               "credit_id": "58ee6b0bc3a36847ee000a79",
+               "name": "Ann Magnuson",
+               "profile_path": "/ry9H1u1GFbwXiWWolYA63pjBctp.jpg",
+               "id": 37042,
+               "order": 15
+            },
+            {
+               "cast_id": 39,
+               "character": "Neighbor Saxophonist",
+               "gender": 2,
+               "credit_id": "58ee6b27925141138e000afe",
+               "name": "John Lurie",
+               "profile_path": "/izPEjdTrWUy3gPEdJ8f2OOnBW3f.jpg",
+               "id": 6394,
+               "order": 16
+            },
+            {
+               "cast_id": 40,
+               "character": "Ian",
+               "gender": 2,
+               "credit_id": "58ee6d48c3a36847d4000dd8",
+               "name": "Peter Maloney",
+               "profile_path": "/q6R13qWu3EzEGuyfz7n30RNllQj.jpg",
+               "id": 15415,
+               "order": 17
+            },
+            {
+               "cast_id": 41,
+               "character": "Victoria",
+               "gender": 1,
+               "credit_id": "58ee6d8cc3a36847d4000e39",
+               "name": "Anne Carlisle",
+               "profile_path": "/eCbQFywpobIKs8OTC3WB4FHy3IW.jpg",
+               "id": 136243,
+               "order": 18
+            },
+            {
+               "cast_id": 42,
+               "character": "Sgt. Taskal",
+               "gender": 2,
+               "credit_id": "58f7be31c3a3680aea00089d",
+               "name": "Victor Argo",
+               "profile_path": "/kYwuOpT59qqJnssl9R4226yHSAG.jpg",
+               "id": 2561,
+               "order": 19
+            }
+         ],
+         "crew": [
+            {
+               "gender": 1,
+               "credit_id": "52fe4493c3a36847f809e021",
+               "name": "Susan Seidelman",
+               "profile_path": "/6b6fLt4zZO3SrllEMgayfOya1Pv.jpg",
+               "id": 53861,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4493c3a36847f809e02f",
+               "name": "Leora Barish",
+               "profile_path": null,
+               "id": 30457,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5719516c92514103680000e7",
+               "name": "Santo Loquasto",
+               "profile_path": null,
+               "id": 23966,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "57619374c3a36856db00000c",
+               "name": "Werner Sherer",
+               "profile_path": null,
+               "id": 1456487,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "576193cc9251415c1c0002ad",
+               "name": "Timothy R. Sexton",
+               "profile_path": null,
+               "id": 1558406,
+               "department": "Sound",
+               "job": "Music Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "576193dbc3a368334900027c",
+               "name": "Danny Goldberg",
+               "profile_path": null,
+               "id": 554394,
+               "department": "Sound",
+               "job": "Music Supervisor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5761942fc3a3683349000285",
+               "name": "Risa Bramon Garcia",
+               "profile_path": null,
+               "id": 3191,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5761943ac3a3685764000027",
+               "name": "Billy Hopkins",
+               "profile_path": "/vTGamEl7a1D93TCh165v8IyZZMG.jpg",
+               "id": 3192,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5761944a9251415c2b000261",
+               "name": "Andrew Mondshein",
+               "profile_path": null,
+               "id": 5327,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5761945bc3a368333f0002f8",
+               "name": "Thomas Newman",
+               "profile_path": "/nZSsNIrjbkqqxFYwsD3zcHskxdP.jpg",
+               "id": 153,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "576197049251415c270002f4",
+               "name": "Ira Hurvitz",
+               "profile_path": null,
+               "id": 1533790,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "57619719c3a3683356000313",
+               "name": "Edward Lachman",
+               "profile_path": "/yXhB83p1aRpJzd3qKke6uBYescB.jpg",
+               "id": 6345,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5761987a9251415c2b0002f2",
+               "name": "Michael Peyser",
+               "profile_path": null,
+               "id": 59949,
+               "department": "Production",
+               "job": "Unit Production Manager"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5761988b9251415c27000320",
+               "name": "Midge Sanford",
+               "profile_path": null,
+               "id": 90559,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "57619897925141779300009f",
+               "name": "Sarah Pillsbury",
+               "profile_path": null,
+               "id": 28714,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "576198a3c3a368336a0002dd",
+               "name": "Michael Peyser",
+               "profile_path": null,
+               "id": 59949,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "576198bdc3a3683349000319",
+               "name": "Richard Dean",
+               "profile_path": null,
+               "id": 214170,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "576198ebc3a3683356000347",
+               "name": "Les Lazarowitz",
+               "profile_path": null,
+               "id": 1562587,
+               "department": "Sound",
+               "job": "Sound Mixer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5761990b9251415c2b000303",
+               "name": "George DeTitta Jr.",
+               "profile_path": null,
+               "id": 18173,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57619927c3a36857640000a6",
+               "name": "Maurice Schell",
+               "profile_path": null,
+               "id": 1407197,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "57619a3ec3a36856db0000e8",
+               "name": "Andrew D. Schwartz",
+               "profile_path": null,
+               "id": 1395369,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5761c3699251413bbb000007",
+               "name": "Mitch Dubin",
+               "profile_path": null,
+               "id": 1395463,
+               "department": "Camera",
+               "job": "First Assistant Camera"
+            }
+         ]
+      },
+      "genres": [{
+         "name": "Comedy",
+         "id": 35
+      }],
+      "popularity": 7.009372,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 8130,
+      "vote_count": 131,
+      "budget": 5000000,
+      "overview": "Roberta is a bored suburban housewife who is fascinated with a woman, Susan, she only knows about by reading messages to and from her in the personals section of the newspaper. This fascination reaches a peak when an ad with the headline \"Desperately Seeking Susan\" proposes a rendezvous. Roberta goes too, and in a series of events involving amnesia and mistaken identity, steps into Susan's life.",
+      "similar": [
+         10735,
+         27586,
+         3981,
+         858,
+         112160,
+         634,
+         437557,
+         258480,
+         17130,
+         43923,
+         1018,
+         141,
+         401898,
+         297762,
+         394117,
+         244772,
+         242224,
+         376660,
+         11284,
+         129139
+      ],
+      "original_title": "Desperately Seeking Susan",
+      "runtime": 104,
+      "poster_path": "/1neVMrxJlrxKjwdmFzVvgOfn9rb.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": "/wOMD2jDmY6wU2oScXOEgq9hqeNN.png",
+         "name": "Orion Pictures",
+         "id": 41,
+         "origin_country": ""
+      }],
+      "release_date": "1985-03-29",
+      "vote_average": 6,
+      "belongs_to_collection": null,
+      "tagline": "Roberta is desperate to be Susan. Susan is wanted by the mob. The mob finds Roberta instead...",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Susan Seidelman"],
+      "runtime": 104,
+      "synopsis": null,
+      "writers": ["Leora Barish"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0089017/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTIzMzA5NjIzOF5BMl5BanBnXkFtZTYwOTA2NTI5._V1_SY317_CR3,0,214,317_AL_.jpg",
+      "actors": ["Stars: Rosanna Arquette, Madonna, Aidan Quinn | See full cast and crew »"],
+      "reviews": [
+         "It's been almost 20 years and there hasn't been another film like Desperately Seeking Susan. At times, the movie feels like French New Wave with its characters and storyline. Even the setting of the crude but artistic background of New York City, the movie lets off an emotion of fantasy. The cast which includes Rosanna Arquette, Aidan Quinn, John Turturro and Madonna create a story like no other. Madonna is both the eye candy and the punch lines as Arquette gives her best leading lady qualities. It's hard to believe that this movie cost less than 5 million dollars to make. A true coming of age drama with moments of comedy and struggle, Desperately Seeking Susan falls under many genres of film. The independent style and its outrageous subject matter makes this an interesting and timeless film. Even though it is full of 80's moments with the clothing and music, the movie is one of Madonna's and Arquette's best.",
+         "Desperately Seeking Susan is one of those titles in a catalogue of definitive 80s movies. It is a fantastic little caper directed by the fantastic Susan Seidleman, and unfortuantely, was one movie that got pitched around a long time before someone finally picked it up. Susan (played terrifically by Madonna in her pre-burnout years) is a sassy, flaky, and often witty young woman who's always looking for a good time, even when danger is afoot. Enter Roberta Glass (Rosanna Arquette) who could practically be her alter ego as she is everything Susan is not. She is shy and judicious and stuck in a boring marriage, looking for an escape. She is everything Susan is not, and wants to be everything that Susan is. And she will get her chance. Roberta reads the personal ads frequently because that is how wordly traveller Susan reaches her boyfriend, Jimmy (Robert Joy). They place ads saying hello and telling each where to meet. Roberta is going to tag along when Susan posts a new ad telling Jimmy to meet her in battery park. This is where Roberta takes an interest in Susan, but not that in single white female kind of way, despite the sudden mix up that arises out of all of this. She follows Susan around the city and so forth. Someone else is following Susan, too. A murderer (Patton) looking for a very expensive earring that was stolen from a museum. He is after Susan because he knows she has the earring. But, after an accident at the park and Roberta winding up with amnesia, the murderer is after the wrong Susan. With the help of Jim's friend Dez (Quinn), Roberta slowly has to figure out who she is, otherwise the murderer is going to kill her, thinking she has the find. In the meantime, Susan teams up with Roberta's totally idiotic husband, Gary (Mark Blum) to find out Roberta's whereabouts. Roberta is going to get exactly what she wanted: a little fun, a little adventure, and a little escape, that will have her rethinking her own course. Desperately Seeking Susan is really a fun movie that takes place in New York City. Everybody in it, even Mark Blum as the obnoxious Gary Glass and Laurie Metcalf as his compulsive and mistrusting sister, Leslie. Rosanna Arquette is great in nearly everything I've seen her in for her 80s career of movies, and works perfectly as Roberta in her romance with Dez (Quinn). And, it is one of the few things that I actually like Madonna in. They tried to recreate her Susan image (and story) for the movie, Who's That Girl (with Griffin Dunne), but it just couldn't work as perfectly as it did here. Seidleman and writer Leora Barish did some good work in producing a fun film. By the way, if you're ever in Greenwhich Village, 'Love Saves the Day' (the second hand clothing store that Susan goes into to buy boots) still exists. However, they mostly sell retro novelty toys.",
+         "yay! madonna actually does have one good movie! (and yes, we are talking about this one.) she plays susan, who is the definition of a free-spirit. and rosanna arquette is just as delightful as she always is, and frankly i would expect nothing less. the soundtrack is an 80s gem. madonna's song \"into the grove\" is proudly featured and really sets the mood in the club scene. and the 80s fashion provides such an effective blast from the past that one really finds himself back in 1985. this was overall a really good movie. it was fun and the characters were likable. i recommend that you rent it for an evening in with the friends.",
+         "This movie has 5 great things going for it: Madonna, Rosanna Arquette, the soundtrack, shot in 1984 and in New York City. Arquette plays Roberta Glass, a bored and ignored housewife who is obsessed with a couple she reads about in the personals, Jim and Susan. Roberta reads that Jim and Susan will meet at Battery Park the following day, and goes down to watch the two. As Jim and Susan part again for a few days, Roberta decides to follow Susan (Madonna) though the streets and into a clothing store, where Susan trades the store-owner her pyramid jacket for some rhinestone boots. When Susan leaves, Roberta buys the jacket, goes home and finds a key in one of the pockets. Roberta then puts an ad in the paper for Susan to meet her at Battery Park to pick up the key she left in the jacket. As Susan gets to the park, she is arrested for short-changing the cab driver, just as a thug who is after Susan mistakes Roberta for her. Roberta knocks herself out cold accidentally and wakes up believing she is Susan. The rest of the film is non-stop comedic confusion and madness, played out by some great talents including Laurie Metcalf as Roberta's sister-in-law, Leslie, and Aidan Quinn, Robert Joy and Mark Blum as the hapless unfortunate love interests of our heroines. Directed by Susan Seidelman (\"Smithereens\"). Highly recommended.",
+         "I fear I may be going against the grain here... \"Desperately Seeking Susan\" was certainly inventive, original, and oftentimes fun. The acting was actually decent, even from Madonna (whose acting has won her 6 Razzies). However, I think the movie suffers from being labelled a comedy. While a couple lines brought a smile or a chuckle, I rarely laughed throughout this movie. Not that there were jokes that didn't work; I couldn't tell what was even supposed to be funny! The whole situation was amusing, but I wouldn't call it laugh-out-loud funny. Eh, whatever. I'd still recommend it.",
+         "Desperately Seeking Susan (1985 Dir. Susan Seidelman) \"Chicks\" love this movie for the feminist, take charge of your life point of view, while guys enjoy this movie cuz there are plenty of bra shots. Madonna in her first starring (supporting really) role as a street-smart hustler being chased by some small time hoods. Rosanna Arquette gets mistaken for the Madonna character and therein lies the plot of this oh so '80s comedy. Set in summer in Manhattan, the movie preserves like a time capsule so much of the decade: the hair, the clothes, the music. And of course there's Madonna clanking her balls from start to finish. Ms. Arquette (in the supposed starring role) had the movie not merely stolen, but ripped out of her hands by the unstoppable force of the 80s: Madonna!",
+         "A wonderful film all around, with good acting, and great humor. This movie is most certainly not serious, but it is great fun to watch, and one of the few movies I have enjoyed seeing multiple times. Madonna is quite good, playing a character similar to her public persona. Aidan Quinn and Rosanna Arquette are also terrific. Even the soundtrack is well done.",
+         "Everybody is \"Desperately Seeking Susan,\" but nobody realizes they're not looking for the same person in this 1985 quirky comedy starring Roseanna Arquette, Madonna, Aidan Quinn, and Laurie Metcalf. The film was directed by Susan Seidelman from a script by Leora Barish. In this very clever story, Roberta (Arquette) is a bored housewife with a rich fantasy life who envies a woman named Susan (Madonna). Susan's boyfriend is always leaving her notes in the personals column about where to meet. Before long, Roberta is showing up at the meeting places and actually starts stalking Susan. When Susan pays for a pair of boots that she wants with her unique leather jacket, Roberta buys it and starts wearing it. All this could have been harmless fun except for three things: 1) Susan is a con artist, and she's stolen Egyptian artifacts she mistook for earrings from a guy in Atlantic City, who ended up dead at the bottom of his hotel; 2) Susan was seen (from the back) wearing her jacket in the hallway of the hotel by a mobster who wants the artifacts; and 3) Roberta is in an accident, and when she wakes up, she has amnesia. A friend (Aidan Quinn) of Susan's boyfriend who came to the meeting place to check on the real Susan as a favor thinks Roberta is Susan. This is such a fun movie, with much of the comedy being in the situation rather than in the dialogue. Not only that, it's totally '80s, right down to Madonna's leggings, and brought back a lot of great memories. The acting is very good, and one wonders why Madonna didn't continue in this vein rather than trying to become a great dramatic actress. She's perfect in this off-beat role as well as being beautiful, exotic, trashy, and sexy. She also would have been excellent as Roxy in \"Chicago\" if the film had been made back in the '70s, when it was originally supposed to be done. She might then have had a very interesting film career. Though \"Desperately Seeking Susan\" was made 23 years ago, Roseanna Arquette hasn't changed much. She's excellent as the quiet, dying to be free, fantasy-driven Roberta. Aidan Quinn gives his usual good performance as a poor sap over his head. He doesn't know how lucky he is - he could have gotten involved with the real Susan! Highly recommended, especially if you were a young adult in the '80s.",
+         "Every time i heard about this movie, it's about Madonna. Well, if the Madie from 87-90 was my first crush, actually the star is Rosanna. I just like the way she is always away, dreamy, longing for something outside her grasp (By the way, I'm sure John Scott Campbell, the comic books artist, is also a fan because he always draws her). Here, Rosanna goes from middle-class desperate housewife to free punk runaway in the Lower East Side. It isn't the NYC of see sights books but it worth the look. We even go to the Dancetaria, the club where Madonna begins her career. Jesus, it's true, she is everywhere and I can't help writing about her. Well, i will add that this movie was an UFO in Hollywood at this time: produced by a woman, written by and for another, directed by another one as well, i am sure that this feminine touch explains it success. Surely, nowadays, we need this badly! Except \"Boys don't cry\", i don't know any other other girl power movie. Another good thing here is the time-machine: for the new babies, the 80 were like this: flashy, shiny, an explosion of clothes, things and music. In 2K10, conformism seems everywhere and we don't have no more song-tracks like \"Get into the groove\", written by you-know-who!",
+         "God I love this movie! Easily Rosanna Arquette's best movie...come to think of it, Madonna's best movie too. The story is fun and engaging. The bad guys are really bad, the leading man is handsome Aidan Quinn. The comic relief is top-notch. \"Oh, go take a Valium...like a Normal person,\" says a pre-Rosanne Laurie Metcalf. Fun from beginning to end. God bless Susan Seidelman."
+      ],
+      "genres": [
+         "Comedy",
+         "Drama"
+      ],
+      "productionCompanies": ["Orion Pictures"],
+      "summaries": [
+         "Bored Roberta spots a regular personal ad in the paper titled 'Desperately Seeking Susan'. She heads off to New York, following one of the ads, and finds Susan. When Susan sells her jacket, Roberta - trying to emulate her mystery ad writer - buys the jacket and wears it. Little does she know someon is looking for the jacket - and its owner...",
+         "Taken-for-granted housewife Roberta passes the time following the progress of Susan who regularly contacts her boyfriend Jim through the Personals. When she sees the two are meeting in New York Roberta goes along, ending up buying Susan's coat. Finding a locker key in the pocket she in turn advertises for a meeting with Susan. Jim sends his projectionist pal along to see what is going on, and when Roberta knocks herself out he assumes she is Susan. Then things start to get complicated.",
+         "Roberta is a housewife, bored with her life and feeling ignored by her hot tub-selling husband. The one thing that interests her is the excitement and romance she finds in following the relationship of Jim and Susan, who communicate through their travels using the personal ads. Susan is having her own fun when she sees the ad to meet Jim in NYC. Unfortunately, Susan is unaware that the last man she was with is entangled with the mob. So when Roberta shows up to actually see her idol, she takes it upon herself to emulate her. After a bout of amnesia, she is mistaken for Susan and must survive with Susan, Jim, her husband, and the mob - scrambling for the truth. Until Jims best friend comes to the rescue",
+         "A bored suburban housewife, seeking adventure to her life, accidentally gets hit on the head, wakes up with amnesia, and is mistaken for a free-spirited New York City drifter named Susan."
+      ],
+      "budget": 4500000
+   },
+   "movielensId": 2369,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1985-03-29",
+      "dvdReleaseDate": "2000-06-13",
+      "directors": ["Susan Seidelman"],
+      "runtime": 104,
+      "movieId": 2369,
+      "title": "Desperately Seeking Susan",
+      "mpaa": "PG-13",
+      "actors": [
+         "Madonna",
+         "Rosanna Arquette",
+         "Aidan Quinn",
+         "Mark Blum",
+         "Robert Joy",
+         "Laurie Metcalf",
+         "Anna Levine",
+         "Will Patton",
+         "Steven Wright",
+         "John Turturro",
+         "Giancarlo Esposito",
+         "Richard Hell",
+         "Rockets Redglare",
+         "Annie Golden",
+         "Richard Edson",
+         "Ann Magnuson",
+         "John Lurie",
+         "Peter Maloney",
+         "Anne Carlisle",
+         "Victor Argo"
+      ],
+      "imdbMovieId": "0089017",
+      "originalTitle": "Desperately Seeking Susan",
+      "genres": ["Comedy"],
+      "youtubeTrailerIds": [
+         "ZuZp0vU17eY",
+         "Uzme2JZXbss"
+      ],
+      "plotSummary": "Roberta is a bored suburban housewife who is fascinated with a woman, Susan, she only knows about by reading messages to and from her in the personals section of the newspaper. This fascination reaches a peak when an ad with the headline \"Desperately Seeking Susan\" proposes a rendezvous. Roberta goes too, and in a series of events involving amnesia and mistaken identity, steps into Susan's life.",
+      "tmdbMovieId": 8130,
+      "avgRating": 2.93059,
+      "releaseYear": "1985",
+      "numRatings": 5943,
+      "posterPath": "/7aT69yN6Y0m0GQjocEnSk4kESdd.jpg"
+   }
+}

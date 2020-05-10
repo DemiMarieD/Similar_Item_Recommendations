@@ -1,0 +1,922 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "musical",
+            "id": 4344
+         },
+         {
+            "name": "death",
+            "id": 34079
+         },
+         {
+            "name": "dying young",
+            "id": 164245
+         },
+         {
+            "name": "nostalgic",
+            "id": 164246
+         },
+         {
+            "name": "mexican american",
+            "id": 164253
+         },
+         {
+            "name": "rising star",
+            "id": 164255
+         },
+         {
+            "name": "marital rape",
+            "id": 164263
+         }
+      ],
+      "imdb_id": "tt0093378",
+      "video": false,
+      "title": "La Bamba",
+      "recommendations": [
+         11465,
+         14621,
+         13704,
+         24153,
+         11335,
+         11584,
+         15143,
+         11967,
+         26827,
+         8130,
+         10130,
+         19382,
+         1406,
+         11950,
+         12395,
+         11630,
+         12278,
+         11310,
+         13763,
+         10905
+      ],
+      "backdrop_path": "/pz5VnRmUeGO6jJ1WxEtZoUq3Qth.jpg",
+      "revenue": 54215416,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "Ritchie Valens",
+               "gender": 2,
+               "credit_id": "52fe46e09251416c7508689b",
+               "name": "Lou Diamond Phillips",
+               "profile_path": "/afXcQRss7rZ6Ocx7PUQFbz7tPOm.jpg",
+               "id": 38560,
+               "order": 0
+            },
+            {
+               "cast_id": 4,
+               "character": "Donna Ludwig",
+               "gender": 1,
+               "credit_id": "52fe46e09251416c7508689f",
+               "name": "Danielle von Zerneck",
+               "profile_path": "/mKXkVPkJNDfixjREHcg9Bmpis5c.jpg",
+               "id": 82220,
+               "order": 1
+            },
+            {
+               "cast_id": 5,
+               "character": "Rosie Morales",
+               "gender": 1,
+               "credit_id": "52fe46e09251416c750868a3",
+               "name": "Elizabeth Peña",
+               "profile_path": "/ePeN3h3UDH9S4THwxwWjQQyK3cH.jpg",
+               "id": 7430,
+               "order": 2
+            },
+            {
+               "cast_id": 6,
+               "character": "Connie Valenzuela",
+               "gender": 1,
+               "credit_id": "52fe46e09251416c750868a7",
+               "name": "Rosanna DeSoto",
+               "profile_path": "/ppAz1PLGnuxTgXYDVWblLgXKkqp.jpg",
+               "id": 2111,
+               "order": 3
+            },
+            {
+               "cast_id": 7,
+               "character": "Bob Morales",
+               "gender": 2,
+               "credit_id": "52fe46e09251416c750868ab",
+               "name": "Esai Morales",
+               "profile_path": "/qeOm5PAxV0vDg5l9l0oqZsZg7PR.jpg",
+               "id": 65344,
+               "order": 4
+            },
+            {
+               "cast_id": 10,
+               "character": "Bob Keane",
+               "gender": 2,
+               "credit_id": "52fe46e09251416c750868b9",
+               "name": "Joe Pantoliano",
+               "profile_path": "/zBvDX2HWepvW9im6ikgoyOL2Xj0.jpg",
+               "id": 532,
+               "order": 6
+            },
+            {
+               "cast_id": 11,
+               "character": "Ted Quillin",
+               "gender": 0,
+               "credit_id": "52fe46e09251416c750868bd",
+               "name": "Rick Dees",
+               "profile_path": null,
+               "id": 1234967,
+               "order": 7
+            },
+            {
+               "cast_id": 12,
+               "character": "Buddy Holly",
+               "gender": 0,
+               "credit_id": "52fe46e09251416c750868c1",
+               "name": "Marshall Crenshaw",
+               "profile_path": null,
+               "id": 183566,
+               "order": 8
+            },
+            {
+               "cast_id": 13,
+               "character": "Eddie Cochran",
+               "gender": 2,
+               "credit_id": "52fe46e19251416c750868c5",
+               "name": "Brian Setzer",
+               "profile_path": null,
+               "id": 106290,
+               "order": 9
+            },
+            {
+               "cast_id": 14,
+               "character": "Lelo",
+               "gender": 0,
+               "credit_id": "52fe46e19251416c750868c9",
+               "name": "Daniel Valdez",
+               "profile_path": null,
+               "id": 14850,
+               "order": 10
+            },
+            {
+               "cast_id": 15,
+               "character": "Jackie Wilson",
+               "gender": 0,
+               "credit_id": "58f613d8c3a3680e9800d057",
+               "name": "Howard Huntsberry",
+               "profile_path": null,
+               "id": 1798529,
+               "order": 11
+            },
+            {
+               "cast_id": 16,
+               "character": "Curandero",
+               "gender": 0,
+               "credit_id": "58f613f092514127b800c537",
+               "name": "Felipe Cantu",
+               "profile_path": null,
+               "id": 1798530,
+               "order": 12
+            },
+            {
+               "cast_id": 17,
+               "character": "Chino",
+               "gender": 0,
+               "credit_id": "58f613fc925141276d00d30f",
+               "name": "Eddie Frias",
+               "profile_path": null,
+               "id": 1798531,
+               "order": 13
+            },
+            {
+               "cast_id": 18,
+               "character": "Mexican Ed",
+               "gender": 2,
+               "credit_id": "58f61408925141279500cdbb",
+               "name": "Mike Moroff",
+               "profile_path": "/zwq1DD5Xt76wm9OY7mou3erUt13.jpg",
+               "id": 100260,
+               "order": 14
+            },
+            {
+               "cast_id": 19,
+               "character": "Rudy",
+               "gender": 2,
+               "credit_id": "58f6142d925141277100c45f",
+               "name": "Geoffrey Rivas",
+               "profile_path": "/izch6wDjzbTrFHLeXdudOd7fm3m.jpg",
+               "id": 58651,
+               "order": 15
+            },
+            {
+               "cast_id": 20,
+               "character": "Mr. Ludwig",
+               "gender": 2,
+               "credit_id": "58f6144a925141276d00d337",
+               "name": "Sam Anderson",
+               "profile_path": "/2zcmQEBeArztSQJ317nZCHwCVtF.jpg",
+               "id": 36221,
+               "order": 16
+            },
+            {
+               "cast_id": 21,
+               "character": "Mrs. Ludwig",
+               "gender": 1,
+               "credit_id": "58f61460925141277100c477",
+               "name": "Maggie Gwinn",
+               "profile_path": null,
+               "id": 1492742,
+               "order": 17
+            },
+            {
+               "cast_id": 22,
+               "character": "Alan Freed",
+               "gender": 2,
+               "credit_id": "58f614c5c3a3680e5d00b4e9",
+               "name": "Jeffrey Alan Chandler",
+               "profile_path": null,
+               "id": 1504116,
+               "order": 18
+            },
+            {
+               "cast_id": 23,
+               "character": "Big Bopper",
+               "gender": 2,
+               "credit_id": "58f614d392514127a600cce4",
+               "name": "Stephen Lee",
+               "profile_path": "/drAixjx9vjshLlGpWq0m4V5bYIg.jpg",
+               "id": 91537,
+               "order": 19
+            },
+            {
+               "cast_id": 24,
+               "character": "Bartender",
+               "gender": 2,
+               "credit_id": "58f614e0c3a3680e4200b79d",
+               "name": "John Quade",
+               "profile_path": "/qxe58joAmuN8WqK3zPRdy5AXaaS.jpg",
+               "id": 152701,
+               "order": 20
+            },
+            {
+               "cast_id": 25,
+               "character": "Vera",
+               "gender": 1,
+               "credit_id": "58f614f3c3a3680e8a00c7f7",
+               "name": "Lettie Ibarra",
+               "profile_path": null,
+               "id": 1798539,
+               "order": 21
+            },
+            {
+               "cast_id": 26,
+               "character": "Ernestine",
+               "gender": 1,
+               "credit_id": "58f61521c3a3680e4200b7bc",
+               "name": "Diane Rodriguez",
+               "profile_path": null,
+               "id": 1798540,
+               "order": 22
+            },
+            {
+               "cast_id": 27,
+               "character": "Connie Jr.",
+               "gender": 1,
+               "credit_id": "58f61558c3a3680e7800c5a5",
+               "name": "Katie Valdez",
+               "profile_path": null,
+               "id": 1798545,
+               "order": 23
+            },
+            {
+               "cast_id": 28,
+               "character": "Irma",
+               "gender": 1,
+               "credit_id": "58f61590925141276d00d3d7",
+               "name": "Gloria Balcorta",
+               "profile_path": null,
+               "id": 1798550,
+               "order": 24
+            },
+            {
+               "cast_id": 29,
+               "character": "Garbage Man",
+               "gender": 0,
+               "credit_id": "58f615f1925141277500ca71",
+               "name": "Ernesto Hernández",
+               "profile_path": null,
+               "id": 1798552,
+               "order": 25
+            },
+            {
+               "cast_id": 30,
+               "character": "Howard",
+               "gender": 2,
+               "credit_id": "58f615ff925141276d00d40d",
+               "name": "Noble Willingham",
+               "profile_path": "/wJcquiMa4IVlJZBr7gvJXrbPsI0.jpg",
+               "id": 31005,
+               "order": 26
+            },
+            {
+               "cast_id": 31,
+               "character": "Sound Engineer",
+               "gender": 0,
+               "credit_id": "58f6160bc3a3680e7800c5fb",
+               "name": "Thom Pintello",
+               "profile_path": null,
+               "id": 1798553,
+               "order": 27
+            },
+            {
+               "cast_id": 32,
+               "character": "Tommy Allsup",
+               "gender": 0,
+               "credit_id": "58f61654c3a3680e2100c04e",
+               "name": "Stephen F. Schmidt",
+               "profile_path": null,
+               "id": 1798554,
+               "order": 28
+            },
+            {
+               "cast_id": 33,
+               "character": "Sharon Sheeley",
+               "gender": 1,
+               "credit_id": "58f61687925141276d00d43e",
+               "name": "Rosanna Locke",
+               "profile_path": "/yx3C4LWoqylKhkg5d8hDanJRwfu.jpg",
+               "id": 1798555,
+               "order": 29
+            },
+            {
+               "cast_id": 34,
+               "character": "Donna's Girlfriend",
+               "gender": 1,
+               "credit_id": "58f6173f925141277100c5d0",
+               "name": "Kim Sebastian",
+               "profile_path": null,
+               "id": 95978,
+               "order": 30
+            },
+            {
+               "cast_id": 35,
+               "character": "Rosalinda",
+               "gender": 1,
+               "credit_id": "58f617a792514127c700c92d",
+               "name": "Dyana Ortelli",
+               "profile_path": "/fRNvwWADALgp6vRJY73HXovtS3p.jpg",
+               "id": 104382,
+               "order": 31
+            },
+            {
+               "cast_id": 36,
+               "character": "Mr. House",
+               "gender": 0,
+               "credit_id": "58f6181a925141276d00d537",
+               "name": "Andy Griggs",
+               "profile_path": null,
+               "id": 1250679,
+               "order": 32
+            },
+            {
+               "cast_id": 37,
+               "character": "Trucker",
+               "gender": 0,
+               "credit_id": "58f618c8c3a3680e4200b958",
+               "name": "Art K. Koustik",
+               "profile_path": null,
+               "id": 1798558,
+               "order": 33
+            },
+            {
+               "cast_id": 38,
+               "character": "Mr. Caballero",
+               "gender": 2,
+               "credit_id": "58f618dfc3a3680e2100c184",
+               "name": "Tony Genaro",
+               "profile_path": "/zicRnTUBHN5MBr8oQkPk2t1HAyG.jpg",
+               "id": 166606,
+               "order": 34
+            },
+            {
+               "cast_id": 39,
+               "character": "Girl at Party",
+               "gender": 1,
+               "credit_id": "58f6194592514127c700ca09",
+               "name": "Allison Robinson",
+               "profile_path": null,
+               "id": 1226361,
+               "order": 35
+            },
+            {
+               "cast_id": 40,
+               "character": "Baseball Announcer",
+               "gender": 0,
+               "credit_id": "58f61978925141276d00d5d2",
+               "name": "Hunter Payne",
+               "profile_path": null,
+               "id": 1798563,
+               "order": 36
+            },
+            {
+               "cast_id": 41,
+               "character": "Student",
+               "gender": 0,
+               "credit_id": "58f61990c3a3680e9800d301",
+               "name": "Joe Miller",
+               "profile_path": null,
+               "id": 1798564,
+               "order": 37
+            },
+            {
+               "cast_id": 42,
+               "character": "Student",
+               "gender": 1,
+               "credit_id": "58f619a6925141277500cc1d",
+               "name": "Mary Ann Tanedo",
+               "profile_path": "/9iUgKhSJfkQT3MT4aIRFn2tHpVk.jpg",
+               "id": 1304289,
+               "order": 38
+            },
+            {
+               "cast_id": 43,
+               "character": "Student",
+               "gender": 1,
+               "credit_id": "58f61e8ec3a3680e5d00b92c",
+               "name": "Barb Jittner",
+               "profile_path": null,
+               "id": 1798572,
+               "order": 39
+            },
+            {
+               "cast_id": 44,
+               "character": "Student",
+               "gender": 0,
+               "credit_id": "58f6200292514127c700cd43",
+               "name": "Brian Russell",
+               "profile_path": null,
+               "id": 1798573,
+               "order": 40
+            },
+            {
+               "cast_id": 45,
+               "character": "Tall Blonde Girl on Motorcycle",
+               "gender": 1,
+               "credit_id": "58f6201e925141276d00d93c",
+               "name": "Yolanda Martinez Olivarri",
+               "profile_path": null,
+               "id": 1798574,
+               "order": 41
+            },
+            {
+               "cast_id": 46,
+               "character": "Student",
+               "gender": 0,
+               "credit_id": "58f62049c3a3680e2100c51e",
+               "name": "Frank Aragon",
+               "profile_path": null,
+               "id": 1134690,
+               "order": 42
+            },
+            {
+               "cast_id": 47,
+               "character": "Dancer",
+               "gender": 1,
+               "credit_id": "58f62056925141276d00d95e",
+               "name": "Linda Holdahl",
+               "profile_path": "/4rrKFFphe1N0xGVeLeGaIvMZgxW.jpg",
+               "id": 100549,
+               "order": 43
+            },
+            {
+               "cast_id": 48,
+               "character": "Man at Party",
+               "gender": 0,
+               "credit_id": "58f62064c3a3680e9800d64e",
+               "name": "Thomas Rosales, Jr.",
+               "profile_path": "/ffDrcpKGvjPgpcjd0t9T6EtQ2hz.jpg",
+               "id": 43010,
+               "order": 44
+            },
+            {
+               "cast_id": 49,
+               "character": "Dancer",
+               "gender": 0,
+               "credit_id": "58f6208ac3a3680e7800cb0c",
+               "name": "Matthew Shields",
+               "profile_path": null,
+               "id": 1798575,
+               "order": 45
+            },
+            {
+               "cast_id": 50,
+               "character": "Student",
+               "gender": 0,
+               "credit_id": "58f6209892514127b800cb45",
+               "name": "Reynaldo Silva",
+               "profile_path": null,
+               "id": 1798576,
+               "order": 46
+            },
+            {
+               "cast_id": 51,
+               "character": "Elderly Lady at Party",
+               "gender": 1,
+               "credit_id": "58f620bcc3a3680e2100c54b",
+               "name": "Connie Valenzuela",
+               "profile_path": null,
+               "id": 1798578,
+               "order": 47
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe46e09251416c75086897",
+               "name": "Luis Valdez",
+               "profile_path": null,
+               "id": 82219,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46e09251416c750868b1",
+               "name": "Luis Valdez",
+               "profile_path": null,
+               "id": 82219,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58f62128c3a3680e5000d247",
+               "name": "Stuart Benjamin",
+               "profile_path": null,
+               "id": 1551930,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58f6213d925141276d00d9c1",
+               "name": "Bill Borden",
+               "profile_path": null,
+               "id": 57614,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58f62149925141279500d452",
+               "name": "Taylor Hackford",
+               "profile_path": "/heZfdghufTV3t3ayrWvIuiP1jvb.jpg",
+               "id": 18596,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58f6215bc3a3680e5d00ba37",
+               "name": "Daniel Valdez",
+               "profile_path": null,
+               "id": 14850,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58f62168c3a3680e4200bd2b",
+               "name": "Miles Goodman",
+               "profile_path": null,
+               "id": 63964,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58f62174c3a3680e5000d275",
+               "name": "Carlos Santana",
+               "profile_path": "/vR4AQxzn00IjCEyzo9pq9kTfpxQ.jpg",
+               "id": 115089,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58f6218bc3a3680e7800cb93",
+               "name": "Adam Greenberg",
+               "profile_path": "/te3aqArBCPkza8DeJpDx0Rncen8.jpg",
+               "id": 2723,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58f62198925141277900ca55",
+               "name": "Don Brochu",
+               "profile_path": null,
+               "id": 58208,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58f621a4925141276d00da06",
+               "name": "Sheldon Kahn",
+               "profile_path": null,
+               "id": 7068,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "58f621b1c3a3680e6e00bee4",
+               "name": "Junie Lowry-Johnson",
+               "profile_path": "/1WIEz9uYLpsv28tcvnH97OgcYoF.jpg",
+               "id": 2399,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58f62273c3a3680e4200bd98",
+               "name": "Vincent M. Cresciman",
+               "profile_path": null,
+               "id": 1339183,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "58f6227f92514127a600d367",
+               "name": "Rosemary Brandenburg",
+               "profile_path": "/rrlIjwGSprN47jjXCVIhoIBjKXr.jpg",
+               "id": 13588,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 1,
+               "credit_id": "58f6232f92514127b800cc74",
+               "name": "Sylvia Vega-Vasquez",
+               "profile_path": null,
+               "id": 1428817,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58f62388c3a3680e4200be18",
+               "name": "Alan C. Blomquist",
+               "profile_path": "/gfHo83GSUZv8XiMWvBGlKnzKdjO.jpg",
+               "id": 414,
+               "department": "Production",
+               "job": "Unit Production Manager"
+            },
+            {
+               "gender": 1,
+               "credit_id": "58f623afc3a3680e2100c6cb",
+               "name": "Marcy Carriker",
+               "profile_path": null,
+               "id": 1404915,
+               "department": "Production",
+               "job": "Casting Associate"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58f6241a925141277100cbca",
+               "name": "Richard Davis, Jr.",
+               "profile_path": null,
+               "id": 1759860,
+               "department": "Production",
+               "job": "Location Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58f62431925141276d00db40",
+               "name": "Josh King",
+               "profile_path": null,
+               "id": 1798593,
+               "department": "Production",
+               "job": "Location Manager"
+            },
+            {
+               "gender": 1,
+               "credit_id": "58f62450c3a3680e8a00cf64",
+               "name": "Misty Carey",
+               "profile_path": null,
+               "id": 1798595,
+               "department": "Production",
+               "job": "Production Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58f6248ac3a3680e6e00c029",
+               "name": "Kerry Lyn McKissick",
+               "profile_path": "/5IAKLVCEBwqWBmMG0JEYgjfDaO0.jpg",
+               "id": 1355532,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58f624b3c3a3680e7800cd0a",
+               "name": "Dan Perri",
+               "profile_path": null,
+               "id": 1648134,
+               "department": "Art",
+               "job": "Title Designer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Music",
+            "id": 10402
+         }
+      ],
+      "popularity": 6.552208,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 16620,
+      "vote_count": 154,
+      "budget": 6500000,
+      "overview": "Biographical story of the rise from nowhere of singer Ritchie Valens whose life was cut short by a plane crash.",
+      "similar": [
+         872,
+         2034,
+         621,
+         2005,
+         31900,
+         18126,
+         9702,
+         10471,
+         45272,
+         60405,
+         10537,
+         16367,
+         14410,
+         1125,
+         30197,
+         28658,
+         409447,
+         211264,
+         21468,
+         3087
+      ],
+      "original_title": "La Bamba",
+      "runtime": 108,
+      "poster_path": "/cjgXvTixDiUsQbfwrxoT1m0kr2E.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "New Visions Pictures",
+            "id": 15117,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+            "name": "Columbia Pictures",
+            "id": 5,
+            "origin_country": "US"
+         }
+      ],
+      "release_date": "1987-07-24",
+      "vote_average": 6.8,
+      "belongs_to_collection": null,
+      "tagline": "Born into poverty. Destined for stardom. He lived the American dream.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Luis Valdez"],
+      "runtime": 108,
+      "synopsis": "Richard Steven Valenzuela (Lou Diamond Phillips) is a normal teenage boy living in San Diego, California who becomes a rock 'n' roll superstar under the stage name Ritchie Valens. He meets and falls in love with fellow high school student Donna Ludwig, for whom he wrote a song that became a number one hit (\"Donna\"). However, her father is shown as having problems with his daughter dating Ritchie, which causes friction between Donna and Ritchie. The movie also has several subplots, such as his relationship with his mother Connie Valenzuela (Rosanna DeSoto) and half-brother Bob Morales (Esai Morales), and the jealousy Bob felt toward Ritchie because of his success. In one scene, Bob wins an important art contest that helps promising cartoonists, only to throw away his prize because, in his mind, his mother doesn't seem to care enough. Bob resorts to drinking heavily and, at one point, leads him to end up crying in front of his mother's door yelling \"I want to see my daughter!\" in reference to the child he sired with Ritchie's ex-girlfriend, Rosie (Elizabeth Peña). However, when they get an opportunity, Ritchie and Bob sneak out for a good time. On one occasion, they take a road trip to Tijuana, visiting one of the local nightclubs where Ritchie discovers the song that would eventually become his biggest hit, \"La Bamba\". Meanwhile, the film also focuses on Ritchie's aviophobia (fear of flying), and a recurring dream he has as a result of a mid air collision between two planes that actually occurred directly over Ritchie's school, in which Ritchie's best friend was killed by one of the fallen aircraft. Eventually, he must conquer his fear when asked to perform his song \"Donna\" on American Bandstand. His manager, Bob Keane (Joe Pantoliano), helps him by giving him a little vodka to calm his nerves during the flight to Philadelphia for the Bandstand appearance. As Valens becomes more famous, his responsibilities change. He has to go on the ill-fated 1959 Winter Party Dance Tour with Buddy Holly (Marshall Crenshaw) and \"The Big Bopper\" (Stephen Lee) after his hits, \"La Bamba\" and \"Donna\", reach the top of the Billboard charts. Valens, Holly, and Bopper take off in an airplane during a light snowstorm for their fateful flight on February 3, 1959 (a day that becomes known as \"The Day the Music Died\"). Before that, Ritchie makes a call to his brother, wherein they patch up their differences. He even invites Bob to fly out to Chicago to join the tour for family support. The next day, as Bob is fixing his mother's car, he hears the news bulletin on the radio that his brother's plane crashed without any survivors. Bob darts out of his driveway in an attempt to get to his mother before she hears the bad news through the radio. Unfortunately, by the time he gets there she stands immobile. The news hits the whole Valenzuela family very hard. In the final scene, Bob is walking over a bridge and screaming the name of Ritchie, remembering all the good times they had together (in flashback). We then see Lou Diamond Phillips and the Mexican American rock band Los Lobos performing Valens' version of \"La Bamba\" accompanied by the closing credits.",
+      "writers": ["Luis Valdez"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0093378/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTk4NTk0NTMyNV5BMl5BanBnXkFtZTcwMTc1NzgxMQ@@._V1_SY317_CR6,0,214,317_AL_.jpg",
+      "actors": ["Stars: Lou Diamond Phillips, Esai Morales, Rosanna DeSoto | See full cast and crew »"],
+      "reviews": [
+         "La Bamba which stars Lou Diamond Phillips as tragic 50's rocker Ritchie Valens(real name Richard Valenzuela) is my favorite rock bio film. The film covers the Mexican American Valens' rise from poverty in California to becoming a rock n roll superstar at the young age of 17 only to lose it all within 8 months on the \"Day the Music Died\". In addition to focusing on Valens' music career, writer/director Luis Valdez spends time showing the tense relationship between Ritchie and his older brother Bob who is played excellently by Esai Morales. As Ritchie becomes famous Bob begins to resent him and that provides the film with some of its most powerful and heartbreaking scenes. The film's other effective moments come between Ritchie and his girlfriend Donna. During their scenes together I felt that Valdez did a good job in showing what teenage romances must've been like back in the more innocent 1950's and how parents prejudices could interfere. Last but not least is the film's great soundtrack. Ritchie Valens songs were redone for the film by the group Los Lobos. All of the instrumental music was provided by Carlos Santana and Miles Goodman. Also included are many other classic songs from the 50's. The only small criticism I have of the film is that Valdez spends too much time in foreshadowing Valens' fate through dream sequences and references to his fear of flying. While it is documented that Ritchie did have a fear of flying I would imagine that he didn't talk about it as frequently as he does in the film. Overall I think that La Bamba is a film about sticking to your dreams and the importance of family. I give this film a pretty strong recommendation. You don't even necessarily have to be a fan of 50's music to enjoy it. This is for those who enjoy small films that deal with the triumphs and struggles of everyday people.",
+         "One Summer afternoon back in 1996 i was 17 years old, I had a guitar but never played as much as i should have. With nothing to do i was watching TV, and La Bamba came on and for whatever reason i decided to watch it. I have heard of Ritchie Valens but knew nothing of him, i knew a few of his hit songs but never knew that was him singing till i watched the movie. That summer day i watched La Bamba changed my life. The movie just reached out and touched something in my soul. I am a Rocker and love all kinds of Rock music. And that's one of the things i loved about La Bamba the great music. I watched La Bamba everyday it would come on cable even bought the movie, even after that i would still watch it when ever it came on. Every time i see it i fall in-love with the movie all over again. And because of this film i play my guitar, and because of this film i have a dream of working in film as a Writer/Director. The story is all about Ritchie Valens who is 17 years old and dreams of being a rock star. But there is so much more to it then that. It's a story about family as well, and young love. Lou Diamond Phillips who is a Fav actor of mine is amazing in La Bamba he shows how talented he is. Esai Morales plays Ritchie's older brother Bob. Esai Morales plays the troubled Bob with perfection. The Casting is great Rosanna Desoto plays Connie Ritchie's Mother, Elizabeth Pena as Rosie Bob's wife. Danielle Von Zerneck as Donna Ritchie's Girlfriend and the great Joe Pantoliano as Bob Keene who discovers Ritchie Valens and is his Producer/Manager. Like i said there is more to the story then just Ritchie's dreams,What La Bamba comes down to is a story about Brothers. In some ways i relate to Ritchie but at the same time i know how Bob feels being second best. Writer/Director Luis Valdez does an amazing job. Thank you Mr.Valdez for the wonderful job. Los Lobos perform most of the sound-track and perform all of Ritchie Valens songs. Lou Diamond Phillips is amazing but Esai Morales is the stand-out with his performance. I just wanna thank the cast and crew for the inspiration they have given me. And of course the man himself Ritchie Valens R.I.P La Bamba shows you that Dreams can in fact come true. I give La Bamba 10/10",
+         "Ritchie Valens was a young,vibrant rock and roll star.At 17,he could already write songs,sing,and was an absolute wizard with a guitar.I'm too young to remember the real Valens,but when I think of him,as well as other stars who died tragically young,I can't help but wonder what might have been.This young man was only getting started in his stardom when he was cut down all too soon in the same plane crash that claimed the lives of Buddy Holly and The Big Bopper.This film did a great job of bringing the legend of Valens back to life if only for a couple of hours.Lou Diamond Phillips gave the performance of his career here,as Valens,even though he didn't really look much like the real man in my opinion.Being the role he is best known for,I'm sure it is also one he has tried to escape from in the 15 years since its' release.As far as historical accuracy,I have heard discrepancies as to how the story really went,but you know Hollywood,things always have to be spiced up just a little.Overall,this movie is great fun,especially for old rock and roll enthusiasts such as myself.Thumbs up!",
+         "I must say I am very disappointed in the people slamming this movie. While they are certainly entitled to their opinion, I think if they watched the movie again without an open mind, they would come to love it as I have. I can't even begin to describe the pure quality of this movie. Absorbing story, believable, sympathetic characters, pathos, bathos, all the makings of a thought-provoking movie. Personally, there are two quintessential rock and roll movies: \"The Doors,\" and \"La Bamba.\" For a good cry and a good time, check out this movie. You don't even have to be a fan of Valens or a fan of 50's music to fall in love with it.",
+         "Under-rated melodrama with excellent music by Los Lobos and others. Young Lou Diamond Phillips gives an excellent energetic performance and Esi Morles is at his very best as the sometimes neglected hoodlum brother. A great cast from top to bottom saves what could have been an all too sudsy script.",
+         "Ritchie Valens (Lou Diamond Phillips) is a very poor Mexican-American living with his family in a slum in Paicoma, California. When he is sixteen years old, his half-brother Bob Morales (Esai Morales) is released from the jail and comes back home, bringing money enough for the family to move from the slums to a humble house in a better place. Ritchie goes to the nearby high-school, where he falls in love for Donna (Danielle von Zerneck). Donna, together with his mother Connie Valenzuela (Rosanna DeSoto), his family and his guitar, are the passions of Ritchie. Bob Keene (Joe Pantoliano), president of Del-Fi Records in Hollywood, invites Ritchie to record a single and offers him a recording contract. His first single (`Come On Let's Go') is a great success, and Bob Keene becomes Ritchie's manager. The next songs (`Donna' and `La Bamba') are also very successful and Ritchie Valens becomes famous, earning lots of money. While traveling making shows along USA, he decides to accept an invitation of Buddy Holly to fly back home. A tragic plane crash on 03 Feb 1959 ends the life of this promising seventeen years old singer, along with Buddy Holly and the Big Bopper. The dramatization of Ritchie Valens' life is presented like a soap-opera, full of beautiful songs, and it is very pleasant to watch this film. Lou Diamond Phillips has (maybe) his best performance as actor, but Esai Morales is wonderful as his big brother. The touching story looks like a fairy tale, having a tragic end. My vote is nine. Title (Brazil): `La Bamba'",
+         "The life and times of Richie Valens, and well made to say the least. Lou Diamond Phillips really showed a lot of promise in this film, but poor choices later in his career hurt his rep in Hollywood. Nonetheless, this film is quite an achievement in regards to portraying a rock idol (which was far better than the dull Buddy Holly Story). What really made this film was the relationship between Phillips and Esai Morales. Never has a brotherly dynamic been portrayed so fluidly, displaying the sweet and sour sides of the two growing up. With the help of a great soundtrack, I really felt this film has a spirit which isn't displayed in biographies anymore. Nowadays, most films try too hard to show the downside, which is what this tried not to do. 7.5/10",
+         "Esai Morales gives the best performance of his career in this 1987 movie about Hall of Fame rock and roller Ritchie Valens, who was tragically killed in a plane crash at the age of 17 with the big bopper and Buddy Holly on February 3, 1959. Morales plays Bob Morales, the half brother of Ritchie. Bob is a drunk who feels as if he is in the shadow of Ritchie due to Ritchie's musical talent and success. In fact if I didn't know better you might think the movie is about Bob. He was in the movie a ton. Lou Diamond Phillips does a good job of portraying Ritchie. I would definitely suggest that you watch this movie. It has a ton of great music and like I said before Morales is awesome in this movie.",
+         "In the history of Hollywood cinema,musicals have always played an important role.\"La Bamba\" is one of those rare,well made musicals which depict the cause of the rising popularity of Latino music.All credit for this film's success must go to its creators such as director Luis Valdez,famous musicians Carlos Santana and Los Lobos and amazing actors Esai Morales and Lou Diamond Philips who plays \"once in a lifetime role\" of a talented rock musician named Ritchie Valens who left for heavenly abode at a young age.This film provides for an interesting viewing experience as we get mesmerized by its diverse themes which range from family drama,gentle romance,sibling rivalry and soothing music.La Bamba has enough material in the form of social message too.We learn from this film that true brothers are always made for each other as they understand each other's joys and pains.It is said that talent never goes undetected.This is shown candidly as young Ritchie Valens succeeds only due to his natural ability to perform beautiful songs.\"La Bamba\" is a film for all those admirers of good cinema who would like to see a musical film.",
+         "La Bamba is one of the movies that makes you feel good,cry and think about how life really is short. Lou Diamond Phillps was in top form as Richie Valens who never got the chance to show us what he could do. I'm not really a Rock & Roll fan but this is a good movie and one hat brings a tear every time I watch it."
+      ],
+      "genres": [
+         "Biography",
+         "Drama",
+         "Music"
+      ],
+      "productionCompanies": [
+         "Columbia Pictures Corporation",
+         "New Visions Pictures"
+      ],
+      "summaries": [
+         "This is the true story of Ritchie Valens, a young rock and roll singer who tragically died in a plane crash at age 17. The film follows Ritchie from his days in Pacoima, California where he and his family make a meager living working on farms to his rise as a star. The film also focuses on Ritchie's friendship and rivalry with his older brother Bob Morales and his relationship with Donna Ludwig, his girlfriend.",
+         "Biographical story of the rise from nowhere of early rock and roll singer Ritchie Valens who died at age 17 in a plane crash with Buddy Holly and the Big Bopper."
+      ],
+      "budget": 6500000
+   },
+   "movielensId": 3478,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1987-07-24",
+      "dvdReleaseDate": "2002-04-02",
+      "directors": ["Luis Valdez"],
+      "runtime": 108,
+      "movieId": 3478,
+      "title": "La Bamba",
+      "mpaa": "PG-13",
+      "actors": [
+         "Lou Diamond Phillips",
+         "Danielle von Zerneck",
+         "Elizabeth Peña",
+         "Rosanna DeSoto",
+         "Esai Morales",
+         "Joe Pantoliano",
+         "Rick Dees",
+         "Marshall Crenshaw",
+         "Brian Setzer",
+         "Daniel Valdez",
+         "Howard Huntsberry",
+         "Felipe Cantu",
+         "Eddie Frias",
+         "Mike Moroff",
+         "Geoffrey Rivas",
+         "Sam Anderson",
+         "Maggie Gwinn",
+         "Jeffrey Alan Chandler",
+         "Stephen Lee",
+         "John Quade",
+         "Lettie Ibarra",
+         "Diane Rodriguez",
+         "Katie Valdez",
+         "Gloria Balcorta",
+         "Ernesto Hernández",
+         "Noble Willingham",
+         "Thom Pintello",
+         "Stephen F. Schmidt",
+         "Rosanna Locke",
+         "Kim Sebastian",
+         "Dyana Ortelli",
+         "Andy Griggs",
+         "Art K. Koustik",
+         "Tony Genaro",
+         "Allison Robinson",
+         "Hunter Payne",
+         "Joe Miller",
+         "Mary Ann Tanedo",
+         "Barb Jittner",
+         "Brian Russell",
+         "Yolanda Martinez Olivarri",
+         "Frank Aragon",
+         "Linda Holdahl",
+         "Thomas Rosales",
+         " Jr.",
+         "Matthew Shields",
+         "Reynaldo Silva",
+         "Connie Valenzuela"
+      ],
+      "imdbMovieId": "0093378",
+      "originalTitle": "La Bamba",
+      "genres": [
+         "Drama",
+         "Music"
+      ],
+      "youtubeTrailerIds": [
+         "I7QX5SJ6q4I",
+         "wnrqC8-YCDE"
+      ],
+      "plotSummary": "Biographical story of the rise from nowhere of singer Ritchie Valens whose life was cut short by a plane crash.",
+      "tmdbMovieId": 16620,
+      "avgRating": 3.24639,
+      "releaseYear": "1987",
+      "numRatings": 2147,
+      "posterPath": "/cjgXvTixDiUsQbfwrxoT1m0kr2E.jpg"
+   }
+}

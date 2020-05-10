@@ -1,0 +1,632 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "television",
+            "id": 2136
+         },
+         {
+            "name": "meteorology",
+            "id": 2221
+         },
+         {
+            "name": "metereologist",
+            "id": 3337
+         },
+         {
+            "name": "weatherman",
+            "id": 6340
+         },
+         {
+            "name": "los angeles",
+            "id": 12670
+         },
+         {
+            "name": "duel",
+            "id": 12965
+         },
+         {
+            "name": "unemployment",
+            "id": 156052
+         }
+      ],
+      "imdb_id": "tt0102250",
+      "video": false,
+      "title": "L.A. Story",
+      "recommendations": [
+         10631,
+         11591,
+         9080,
+         1552,
+         16384,
+         10168,
+         10859,
+         11584,
+         14628,
+         40820,
+         10442,
+         26261,
+         12772,
+         9941,
+         9749,
+         13665,
+         10141,
+         2565,
+         11896,
+         11307
+      ],
+      "backdrop_path": "/tICxGzjJit4yIRi0P8RvX8WPmVK.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 16,
+               "character": "Harris K. Telemacher",
+               "gender": 2,
+               "credit_id": "52fe4336c3a36847f8042deb",
+               "name": "Steve Martin",
+               "profile_path": "/rI2EMvkfKKPKa5z0nM2pFVBtUyO.jpg",
+               "id": 67773,
+               "order": 0
+            },
+            {
+               "cast_id": 20,
+               "character": "SanDeE",
+               "gender": 1,
+               "credit_id": "52fe4336c3a36847f8042dfb",
+               "name": "Sarah Jessica Parker",
+               "profile_path": "/chjO3dDzkT7UzAZk1AGjXdbezyg.jpg",
+               "id": 520,
+               "order": 1
+            },
+            {
+               "cast_id": 17,
+               "character": "Sara McDowel",
+               "gender": 1,
+               "credit_id": "52fe4336c3a36847f8042def",
+               "name": "Victoria Tennant",
+               "profile_path": "/8l6jWaq4o2us3KtMD9hhocaMajR.jpg",
+               "id": 21618,
+               "order": 2
+            },
+            {
+               "cast_id": 18,
+               "character": "Roland Mackey",
+               "gender": 2,
+               "credit_id": "52fe4336c3a36847f8042df3",
+               "name": "Richard E. Grant",
+               "profile_path": "/jMnSjjPQwCOAJ1kPRXLbh0WnsPa.jpg",
+               "id": 20766,
+               "order": 3
+            },
+            {
+               "cast_id": 19,
+               "character": "Trudi",
+               "gender": 1,
+               "credit_id": "52fe4336c3a36847f8042df7",
+               "name": "Marilu Henner",
+               "profile_path": "/lLdcfeQSsYeMKsFUEL9Il5K874h.jpg",
+               "id": 21619,
+               "order": 4
+            },
+            {
+               "cast_id": 21,
+               "character": "Ariel",
+               "gender": 1,
+               "credit_id": "52fe4336c3a36847f8042dff",
+               "name": "Susan Forristal",
+               "profile_path": "/A8Dh5EKIjaRUqGmpY8GdIAW9pJY.jpg",
+               "id": 21620,
+               "order": 5
+            },
+            {
+               "cast_id": 23,
+               "character": "Morris Frost",
+               "gender": 2,
+               "credit_id": "52fe4336c3a36847f8042e03",
+               "name": "Sam McMurray",
+               "profile_path": "/5NgEWVYgGWCj4N6bzEzU5a7c0wN.jpg",
+               "id": 5176,
+               "order": 6
+            },
+            {
+               "cast_id": 24,
+               "character": "Mr. Perdue",
+               "gender": 2,
+               "credit_id": "52fe4336c3a36847f8042e07",
+               "name": "Patrick Stewart",
+               "profile_path": "/wEy5qSDT5jT3ZASc2hbwi59voPL.jpg",
+               "id": 2387,
+               "order": 7
+            },
+            {
+               "cast_id": 25,
+               "character": "Frank Swan",
+               "gender": 2,
+               "credit_id": "52fe4336c3a36847f8042e0b",
+               "name": "Kevin Pollak",
+               "profile_path": "/kwu2T8CDnThZTzE88uiSgJ5eHXf.jpg",
+               "id": 7166,
+               "order": 8
+            },
+            {
+               "cast_id": 27,
+               "character": "Carlo Christopher",
+               "gender": 2,
+               "credit_id": "55b80ec192514123db0002bf",
+               "name": "Chevy Chase",
+               "profile_path": "/svjpyYtPwtjvRxX9IZnOmOkhDOt.jpg",
+               "id": 54812,
+               "order": 9
+            },
+            {
+               "cast_id": 28,
+               "character": "Harris' Boss",
+               "gender": 2,
+               "credit_id": "55b80ed392514123e40002f1",
+               "name": "Woody Harrelson",
+               "profile_path": "/tFAngknlbFZebWVMaFFLFIsFvLE.jpg",
+               "id": 57755,
+               "order": 10
+            },
+            {
+               "cast_id": 29,
+               "character": "Gravedigger",
+               "gender": 2,
+               "credit_id": "55b80ee992514123dd0002cf",
+               "name": "Rick Moranis",
+               "profile_path": "/rVZbTJjM4g0Um6trlLHRiBzBO7t.jpg",
+               "id": 8872,
+               "order": 11
+            },
+            {
+               "cast_id": 30,
+               "character": "Voicephone",
+               "gender": 2,
+               "credit_id": "55b80f0692514123d30002a0",
+               "name": "Robert Picardo",
+               "profile_path": "/5L0WCl3TzjeWdP8TqXfQ1n9uaOn.jpg",
+               "id": 16180,
+               "order": 12
+            },
+            {
+               "cast_id": 31,
+               "character": "Straight Weatherman",
+               "gender": 2,
+               "credit_id": "55b80f2092514123d50002c0",
+               "name": "George Plimpton",
+               "profile_path": "/3FIC6GkFzf08XMvM3xREwINmwG5.jpg",
+               "id": 95741,
+               "order": 13
+            },
+            {
+               "cast_id": 32,
+               "character": "Bob, News Anchor",
+               "gender": 2,
+               "credit_id": "56e78becc3a368409d0013fe",
+               "name": "Andrew Amador",
+               "profile_path": "/fSeyACklLaylD2y2ieEAgLacplM.jpg",
+               "id": 1591225,
+               "order": 14
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4336c3a36847f8042d99",
+               "name": "Mick Jackson",
+               "profile_path": "/eZKzRhgiX0fTNz6twzIOeaLMOJB.jpg",
+               "id": 8843,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4336c3a36847f8042d9f",
+               "name": "Steve Martin",
+               "profile_path": "/rI2EMvkfKKPKa5z0nM2pFVBtUyO.jpg",
+               "id": 67773,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4336c3a36847f8042da5",
+               "name": "Daniel Melnick",
+               "profile_path": null,
+               "id": 14942,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4336c3a36847f8042db1",
+               "name": "Peter Rodgers Melnick",
+               "profile_path": null,
+               "id": 21611,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4336c3a36847f8042db7",
+               "name": "Andrew Dunn",
+               "profile_path": "/vguhffdvBgtxb5Hl08PKZl160en.jpg",
+               "id": 8846,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4336c3a36847f8042dbd",
+               "name": "Richard A. Harris",
+               "profile_path": null,
+               "id": 3985,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4336c3a36847f8042dcf",
+               "name": "Mindy Marin",
+               "profile_path": "/qzqo2SyYdwb3CKeLuUMXBJneWEe.jpg",
+               "id": 6044,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4336c3a36847f8042ddb",
+               "name": "Charles William Breen",
+               "profile_path": null,
+               "id": 21615,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4336c3a36847f8042de7",
+               "name": "Rudy Dillon",
+               "profile_path": null,
+               "id": 21617,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4336c3a36847f8042e11",
+               "name": "Michael I. Rachmil",
+               "profile_path": null,
+               "id": 58183,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "57c73c21c3a3683e3e00b50b",
+               "name": "Chris Butler",
+               "profile_path": null,
+               "id": 21616,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 2,
+               "credit_id": "57c73c3c925141542800063e",
+               "name": "Lawrence Miller",
+               "profile_path": null,
+               "id": 21614,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57c73ced92514153d2000684",
+               "name": "Jane Kass",
+               "profile_path": null,
+               "id": 1672753,
+               "department": "Editing",
+               "job": "First Assistant Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "57c73d019251417387006926",
+               "name": "Pamela Alch",
+               "profile_path": null,
+               "id": 1344278,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "57c73d40c3a368555a0005f4",
+               "name": "Steve Martin",
+               "profile_path": "/rI2EMvkfKKPKa5z0nM2pFVBtUyO.jpg",
+               "id": 67773,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "57c73d5b9251417387006968",
+               "name": "Mario Kassar",
+               "profile_path": null,
+               "id": 3986,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57c73dcc9251413731004bba",
+               "name": "Chris Coles",
+               "profile_path": null,
+               "id": 1672755,
+               "department": "Production",
+               "job": "Unit Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57c73ddec3a3683e3e00b65b",
+               "name": "Marcia Reed",
+               "profile_path": null,
+               "id": 1536247,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "57c73e68c3a3680ba40052aa",
+               "name": "James E. Webb",
+               "profile_path": null,
+               "id": 1672758,
+               "department": "Sound",
+               "job": "Production Sound Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57c73eb7c3a3683e3e00b6ef",
+               "name": "Lon Bender",
+               "profile_path": null,
+               "id": 16736,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57c73ec69251417387006a34",
+               "name": "Mark P. Stoeckinger",
+               "profile_path": null,
+               "id": 15332,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57c73eecc3a3680ba400530f",
+               "name": "Andy Napell",
+               "profile_path": null,
+               "id": 1672759,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "57c73efb92514154280007cc",
+               "name": "Richard Portman",
+               "profile_path": null,
+               "id": 3105,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57c73f3592514154800007fa",
+               "name": "Joe Dunne",
+               "profile_path": null,
+               "id": 1425491,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57c73f539251417387006a77",
+               "name": "Alan E. Lorimer",
+               "profile_path": null,
+               "id": 1442509,
+               "department": "Crew",
+               "job": "Special Effects Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57c73f6bc3a3683e3e00b762",
+               "name": "Jerry Ariganello",
+               "profile_path": null,
+               "id": 1672760,
+               "department": "Production",
+               "job": "Location Manager"
+            },
+            {
+               "gender": 1,
+               "credit_id": "57c73f7cc3a368556a0008da",
+               "name": "Kathleen Bennett",
+               "profile_path": null,
+               "id": 1672761,
+               "department": "Sound",
+               "job": "Music Editor"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Fantasy",
+            "id": 14
+         },
+         {
+            "name": "Romance",
+            "id": 10749
+         }
+      ],
+      "popularity": 10.870059,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 2107,
+      "vote_count": 106,
+      "budget": 0,
+      "overview": "With the help of a talking freeway billboard, a \"wacky weatherman\" tries to win the heart of an English newspaper reporter, who is struggling to make sense of the strange world of early-90s Los Angeles.",
+      "similar": [
+         96,
+         435,
+         941,
+         90,
+         10774,
+         306,
+         2976,
+         7873,
+         6963,
+         9546,
+         9713,
+         11450,
+         56224,
+         13703,
+         216541,
+         23397,
+         11598,
+         31121,
+         37608,
+         482004
+      ],
+      "original_title": "L.A. Story",
+      "runtime": 95,
+      "poster_path": "/nWoF3yzKMoisiGybTPx1a4xaIKl.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": "/rzgMLzPgJ2ZBYnlVwNi8ZDfOMwo.png",
+            "name": "TriStar Pictures",
+            "id": 559,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "L.A. Films",
+            "id": 960,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Carolco Pictures",
+            "id": 14723,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1991-02-08",
+      "vote_average": 6.4,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Mick Jackson"],
+      "runtime": 95,
+      "synopsis": null,
+      "writers": ["Steve Martin"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0102250/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMjE1ODM4MTk5OF5BMl5BanBnXkFtZTcwMTYwOTIzMQ@@._V1_SY317_CR4,0,214,317_AL_.jpg",
+      "actors": ["Stars: Steve Martin, Victoria Tennant, Richard E. Grant | See full cast and crew »"],
+      "reviews": [
+         "Okay, I was raised in the LA area, so I appreciate \"LA Story\" more than many might, but it's still just an incredibly wonderful romantic comedy regardless of where you grew up. The script is fabulous, and the soundtrack featuring the music of Enya is the perfect counterpoint to this wonderfully wicked lampoon of Southern California culture. The humor is much more intelligent than early Steve Martin features such as \"The Jerk\", but it isn't snobbish. It has wit, charm, and pure satirical funniness. Whether it's watching Martin roller-skate through a museum of Old Masters, seeing a restaurant full of jaded Californians casually ride out a minor earthquake as their tables gracefully vibrate across the room, or the absurdity of a freeway sign giving out cryptic personal messages that change the course of the principal character's lives, the movie simply works. Steve Martin is at his best here, equal to his wonderful performance in \"Roxanne\". Victoria Tennant is the perfect choice as the off-beat, tuba-playing British journalist Martin's character falls for. Sarah Jessica Parker is absolutely priceless as SanDeE* (that's her spelling, not a typo), the young would-be spokesmodel/bimbette who \"likes to point\". Even Rick Moranis as the comedic Cockney grave digger is wonderful, despite his having one of the least believable accents since Dick van Dyck as the chimneysweep Bert in \"Mary Poppins\". Forget the comment about Moranis' accent... you'll enjoy him anyway. Overall, this is one of my two favorite movies of all time, and considering how many I've enjoyed, that's saying volumes.",
+         "Outwardly, it's a ridiculous plot line. Steve Martin as the sensitive, wacky weatherman... falling in love with a British woman and somehow accidentally getting involved with the Sex in the City girl along the way. The reality of it is, though, there are so many charming details in the movie... vivid images and pictures painted in various scenes alluding to the childlike innocence of falling in love, the magic of letting yourself go and following the advice of an electric traffic sign... this movie become more enjoyable as you watch it more and shouldn't that be how a movie should be? Shouldn't it get more enjoyable instead of LESS enjoyable like most movies made today, that start with a shock and go downhill? Steve Martin shines throughout this movie and you share his gleeful moments... for example after he's tickled to find that his wife is having an affair with his agent and he converts his make-believe-shock into a dance as he approaches his then-a-symbol-of-affluence LeBaron in the street... when he tosses his hat to himself after he sets up another way to see the woman he is falling for... Simultaneously, though, you share his confusion as to how to handle the relationship with the over-energetic, giddy 23 year old he's accidentally fallen into bed with along the way. This is a complex movie that presents itself so innocently, you can't help but enjoy it. And, as a tribute to the brilliance of \"The Man With Two Brains,\" he even manages to insert a portion of the (now legendary) \"Pointy Birds\" poem. In all, this is a worthwhile experience if you're willing to watch it all the way through. This is a movie for Steve Martin fans, because his unique, sensitive, accessible brand of humor and (more importantly) of life is apparent throughout.",
+         "LA Story is a funny and very inventive comedy drama, even though the real love affair is with LA itself. When looking at the storyline, it does look a bit odd, (man receiving love advice from a freeway sign?) but this helps give it a more surreal and somewhat magical edge. The acting is very good all across the board, even from a non-man-eating Sarah Jessica Parker. It has a lot of quotable dialogue, (she's not young she'll be 27 in 4 years) and some passable cameos from Rick Moranis, Patrick Stewart and Chevy Chase. Perhaps some scenes get a bit too sentimental and make the film seem a bit uneven. But I think this helps improve the shape of its overall atmosphere, and make it heart-warming and not just a bit of gas. LA Story is an underrated classic. It's consistently enjoyable, nicely acted and highly memorable. 7.5 out of 10.",
+         "I've read that this movie was Steve Martin's homage to a city he loves. Certainly, it feels like that. The whole movie has been crafted with the utmost care and delight - a feeling that is conveyed so well to the viewer. I've watched this film many many times and as yet have been utterly unable to find a single mistake, wrongly placed moment, person or prop anywhere. What I have found is a sense of deeply placed pleasure at watching the unfolding of an old story told beautifully and never strained by being told in the 20th Century.",
+         "When Steve Martin is hot, he's really hot. L.A. Story, written by Steve Martin, is hot. The entire film keeps you in a state of constant chuckling. And, the movie has more than a few moments of comedic genius. It's the cumulative effect of little jokes littered throughout the film, both verbal and visual, that keeps you in stitches. On top of that, it piques your interest. Here's what I mean: while Martin mercilessly it pokes fun of L.A. for it's flakiness, it's love and tolerance of idiosyncrasies, it's constant preoccupation with image, it's narcissism, the humor is never vulgar, crass, or shallow. For example, one scene takes place in the municipal art museum. We see Harry Telemacher (Steve Martin), with his friends, rapt in admiration for a painting. The camera angle comes from the canvas itself, where we watch Harry, deep in thought, dissertate on the subjects in the portrait, their motives, actions, and hidden agendas. He moves forward, backward, forward again, as if in active dialogue with the lacquer. At last, moving backward, he concludes his remarks by wrinkling his nose in disgust and saying `Look at the way he's holding her: it's almost filthy!' And then the camera moves around to Telemacher's perspective. The painting's a total abstraction. There isn't a distinct line in the entire rectangular frame. In the argot of Postmodernism, one might call it a `readerly' work of art. It's the perfect metaphor for L.A., where you may interpret anything, any way you like. There's no standard, except one's own `personal reality.' No one can use social norms as a personal club to tell someone else, `You're wrong,' because there is none. It's all `what-E-verrrr.' Best of all, L.A. Story is a love story, the kind of love that adores someone as much for their faults as for their virtues. Martin's satire is so effective because he loves the city so much.",
+         "When I first saw this film in the theater, I remember the complete emotional reaction I had to it. I had to watch it several more times to really grasp all of the many complicated levels it contains. This film has more layers than a Vadallia Onion, and each one is as sweet and intricate as the next. This film is in many ways the best work Steve Martin has ever done. It reflects the best of his intellectually complicated and sophisticated silliness while also delivering a deeply emotional and spiritual message of self discovery and the eternal hope of love and life. At times poignant and funny concurrently, at other times silly and spiritual together, this film is an entrancing journey into a vision of a better, more hopeful, world. The music used in the film, particularly Enya's contributions, add an profound element of power and beauty to the overall effort. Indeed, the music, and the way it is employed throughout, is a complex layer of the film in and of itself. This film covers the gamut of humanity without being arrogant, and mixes Shakespeare, Saturday Night Live and Existential Philosophy in a VERY entertaining and at the same time inspiring journey. This was one of the few films I have ever seen that made me laugh, cry, smile knowingly and get chills all across my spine virtually at the same time. You will need to watch this remarkable effort more than once to appreciate all of its levels and beauty, its message and musings, its hope and glory while you are laughing and being inspired beyond what seems reasonable for a film all at the same time. This film was never appreciated as it should have been, and it is a rare gem. You will never forget this sweet journey into what could be, and maybe what should be, the real world.",
+         "LA Story is arguably one of the smartest comedies of the early nineties. It never once stops to fall into the sacharine depths that romantic comedies are plagued with, nimbly skipping over them by never leaving the skewed world that it has created. Apart from being a sharp jab at life in LA, it still has a story with heart, and manages to get you interested and involved in all the important characters. And really, nothing tops a talking electronic road sign.",
+         "LA STORY is one of those films that leaves you feeling like maybe you shouldn't have enjoyed the movie as much as you did. Looking back on the film, the plot is absolutely preposterous, the characters are entirely one-dimensional and the acting questionable. Yet I don't think there is anyone out there that wouldn't ultimately enjoy this fantasy. Steve Martin is in top form (maybe the last decent film he did before BOWFINGER), and the wacky charm throughout makes the comedy fresh and exciting. Tremendous cameo support from the likes of Chevy Chase, Rick Moranis and Woody Harrellson add to make LA STORY a fresh comedy with lots of appeal.",
+         "Steve Martin plays Harris K. Telemacher, a funny weatherman who's in a relationship with Trudi (Marilu Henner) but falls for a British journalist Sara McDowel (Victoria Tennant).He also meets an energetic young woman SanDeE (Sarah Jessica Parker) on the way.He gets some important messages from a freeway sign like that the weather will change his life in two ways.L.A. Story (1991) is a great romantic fantasy comedy from Mick Jackson.It's written by Steve Martin, who also gives an amazing performance in the lead.This 59 year old comedian has made us laughed in many hilarious movies in the past.Hopefully he still will do so in the future.Let's see how he can fill the shoes of Peter Sellers in the upcoming Pink Panther movie.Other actors do a great job as well.Sarah Jessica Parker can be seen there before she was a huge star.This year she stopped working in Sex and the City after six years.You can also see, more or less, people like Richard E. Grant, Iman, Rick Moranis, Chevy Chase, Kevin Pollak, Patrick Stewart and Woody Harrelson.L.A. Story is a declaration of love to Los Angeles like Woody Allen has made many to New York.This movie is full of extremely funny scenes.I found myself laughing many times watching this movie.Isn't that what makes a good comedy?",
+         "In Los Angeles, the meteorologist Harris K. Telemacher (Steve Martin) is the wacky weatherman of television news. He has a wasted relationship with his obnoxious girlfriend Trudi (Marilu Henner) and he feel that he lives a boring life. When Harris meets the Londoner journalist Sara McDowell (Victoria Tennant), who has come to LA to write en article for the London Times, in a brunch party with her ex-husband Roland Mackey (Richard E. Grant) and other friends, he believes that she is the woman of his life. Harris does not know how to seduce her and he discovers that Trudi has been cheating him with his agent for three years. Then Harry dates the younger aspirant spokesmodel SanDeE* (Sarah Jessica Parker) because he believes that Sara is interested in her ex-husband. However a freeway signpost helps Harry to woo Sara. \"L.A. Story\" is a romantic comedy that is still delightful and witty after so many years from the release. The chemistry between Steve Martin and his wife is perfect and there are hilarious dialogs and situations, like for example, when Harris tells Sara that he would like to take her on a cultural tour of L.A., and Sara replies that this would be the first fifteen minutes. Or when he tells to SanDeE* that her breasts are weird and she answers that it is because they are real. Or when SanDeE* and Roland fantasize with Mel Gibson. In addition, there are cameos of many actors and famous people. The music score by Enya is awesome and fits perfectly to the conclusion. My vote is eight. Title (Brazil): \"L.A. Story\""
+      ],
+      "genres": [
+         "Comedy",
+         "Drama",
+         "Fantasy",
+         "Romance"
+      ],
+      "productionCompanies": [
+         "Carolco Pictures",
+         "IndieProd Company Productions",
+         "L.A. Films"
+      ],
+      "summaries": [
+         "Harris K Telemacher is a 'wacky weekend weatherman' for a local Los Angeles television station who is searching for meaning in his otherwise cliche ridden Los Angeles life. With the help of an insightful and talkative Freeway sign, Harris embarks on a journey through Los Angeles in pursuit of Sarah, an English reporter who has been sent to the City of Angels to research an article for the London Times.",
+         "In Los Angeles, the meteorologist Harris K. Telemacher is the wacky weatherman of television news. He has a wasted relationship with his obnoxious girlfriend Trudi and he feel that he lives a boring life. When Harris meets the Londoner journalist Sara McDowell, who has come to LA to write en article for the London Times, in a brunch party with her ex-husband Roland Mackey and other friends, he believes that she is the woman of his life. Harris does not know how to seduce her and he discovers that Trudi has been cheating him with his agent for three years. Then Harry dates the younger aspirant spokesmodel SanDeE* because he believes that Sara is interested in her ex-husband. However a freeway signpost helps Harry to woo Sara.",
+         "Harris Telemacher is the \"Wacky Weather\" presenter for a Los Angeles television station. He finds himself battling the insane conditions and people caused by the manic chaos that is Los Angeles. Striving to achieve happiness (or at least a date), he finds a helping hand from the last person he expected: the city of Los Angeles itself.",
+         "In this spin on the traditional romantic comedy, Harris K. Tellemacher, a Shakespeare-quoting, Los Angeles TV weatherman is looking for something meaningful for his life. The Los Angeles Freeway sign informs him that the weather will change his life in two ways, and Harris begins to search for the meaning behind that message.",
+         "With the help of a talking freeway billboard, a \"wacky weatherman\" tries to win the heart of an English newspaper reporter, who is struggling to make sense of the strange world of early-90s Los Angeles."
+      ],
+      "budget": 0
+   },
+   "movielensId": 2108,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1991-02-08",
+      "dvdReleaseDate": "1998-05-19",
+      "directors": ["Mick Jackson"],
+      "runtime": 95,
+      "movieId": 2108,
+      "title": "L.A. Story",
+      "mpaa": "PG-13",
+      "actors": [
+         "Steve Martin",
+         "Sarah Jessica Parker",
+         "Victoria Tennant",
+         "Richard E. Grant",
+         "Marilu Henner",
+         "Susan Forristal",
+         "Sam McMurray",
+         "Patrick Stewart",
+         "Kevin Pollak",
+         "Chevy Chase",
+         "Woody Harrelson",
+         "Rick Moranis",
+         "Robert Picardo",
+         "George Plimpton",
+         "Andrew Amador"
+      ],
+      "imdbMovieId": "0102250",
+      "originalTitle": "L.A. Story",
+      "genres": [
+         "Comedy",
+         "Drama",
+         "Fantasy",
+         "Romance"
+      ],
+      "youtubeTrailerIds": ["0eCSmfP4g2c"],
+      "plotSummary": "With the help of a talking freeway billboard, a \"wacky weatherman\" tries to win the heart of an English newspaper reporter, who is struggling to make sense of the strange world of early-90s Los Angeles.",
+      "tmdbMovieId": 2107,
+      "avgRating": 3.59518,
+      "releaseYear": "1991",
+      "numRatings": 7712,
+      "posterPath": "/nWoF3yzKMoisiGybTPx1a4xaIKl.jpg"
+   }
+}

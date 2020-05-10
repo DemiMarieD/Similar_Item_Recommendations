@@ -1,0 +1,814 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "rome",
+            "id": 588
+         },
+         {
+            "name": "secret identity",
+            "id": 1308
+         },
+         {
+            "name": "boat",
+            "id": 1422
+         },
+         {
+            "name": "dance",
+            "id": 1691
+         },
+         {
+            "name": "intelligence",
+            "id": 2051
+         },
+         {
+            "name": "forbidden love",
+            "id": 3691
+         },
+         {
+            "name": "embassy",
+            "id": 4123
+         },
+         {
+            "name": "duty",
+            "id": 4263
+         },
+         {
+            "name": "sightseeing",
+            "id": 4674
+         },
+         {
+            "name": "photography",
+            "id": 6025
+         }
+      ],
+      "imdb_id": "tt0046250",
+      "video": false,
+      "title": "Roman Holiday",
+      "recommendations": [
+         6620,
+         4808,
+         11113,
+         164,
+         13320,
+         705,
+         3078,
+         981,
+         3001,
+         239,
+         887,
+         93,
+         900,
+         303,
+         702,
+         910,
+         37257,
+         223,
+         596,
+         11787
+      ],
+      "backdrop_path": "/lP5RnAzEDWcgSV4a66gYvbSPTkh.jpg",
+      "revenue": 12000000,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 13,
+               "character": "Joe Bradley",
+               "gender": 2,
+               "credit_id": "52fe4278c3a36847f80214ff",
+               "name": "Gregory Peck",
+               "profile_path": "/ycs6o0UoohQ7nV7A6VWaTkoIkCQ.jpg",
+               "id": 8487,
+               "order": 0
+            },
+            {
+               "cast_id": 14,
+               "character": "Princess Ann",
+               "gender": 1,
+               "credit_id": "52fe4278c3a36847f8021503",
+               "name": "Audrey Hepburn",
+               "profile_path": "/lNmmbyKxwnMSe0vb4kzZroa8lzr.jpg",
+               "id": 1932,
+               "order": 1
+            },
+            {
+               "cast_id": 15,
+               "character": "Irving Radovich",
+               "gender": 2,
+               "credit_id": "52fe4278c3a36847f8021507",
+               "name": "Eddie Albert",
+               "profile_path": "/tScju2xZ42MpXqx5WSYKFtwzH8r.jpg",
+               "id": 11998,
+               "order": 2
+            },
+            {
+               "cast_id": 16,
+               "character": "Mr. Hennessy",
+               "gender": 2,
+               "credit_id": "52fe4278c3a36847f802150b",
+               "name": "Hartley Power",
+               "profile_path": "/7HIY3vgeBBHv5S366ZKBWp5VaBj.jpg",
+               "id": 11999,
+               "order": 3
+            },
+            {
+               "cast_id": 17,
+               "character": "Ambassador",
+               "gender": 2,
+               "credit_id": "52fe4279c3a36847f802150f",
+               "name": "Harcourt Williams",
+               "profile_path": "/cpPBPKse0jWYqWTlLXWYRfatQ4j.jpg",
+               "id": 12000,
+               "order": 4
+            },
+            {
+               "cast_id": 18,
+               "character": "Countess Vereberg",
+               "gender": 0,
+               "credit_id": "52fe4279c3a36847f8021513",
+               "name": "Margaret Rawlings",
+               "profile_path": "/vQ1fLkWLQAtC9sT4XZhLWt2ROH5.jpg",
+               "id": 12001,
+               "order": 5
+            },
+            {
+               "cast_id": 19,
+               "character": "Gen. Provno",
+               "gender": 2,
+               "credit_id": "52fe4279c3a36847f8021517",
+               "name": "Tullio Carminati",
+               "profile_path": "/v7Tc3mYh36WCESRgUVrAmzoe88t.jpg",
+               "id": 12002,
+               "order": 6
+            },
+            {
+               "cast_id": 20,
+               "character": "Mario Delani",
+               "gender": 0,
+               "credit_id": "52fe4279c3a36847f802151b",
+               "name": "Paolo Carlini",
+               "profile_path": "/1jq0ftit0XH6FlbhM26TVY5dWm0.jpg",
+               "id": 12003,
+               "order": 7
+            },
+            {
+               "cast_id": 21,
+               "character": "Giovanni",
+               "gender": 2,
+               "credit_id": "52fe4279c3a36847f802151f",
+               "name": "Claudio Ermelli",
+               "profile_path": "/4vXiiYhF4epqG5uUvHnbGrUOERp.jpg",
+               "id": 12004,
+               "order": 8
+            },
+            {
+               "cast_id": 22,
+               "character": "Charwoman",
+               "gender": 0,
+               "credit_id": "52fe4279c3a36847f8021523",
+               "name": "Paola Borboni",
+               "profile_path": "/rUALvkILtnGE4dZ9ywLt457K6vr.jpg",
+               "id": 12005,
+               "order": 9
+            },
+            {
+               "cast_id": 23,
+               "character": "Cab driver",
+               "gender": 2,
+               "credit_id": "52fe4279c3a36847f8021527",
+               "name": "Alfredo Rizzo",
+               "profile_path": "/qXNtcqOVtUMYjJedqAlNzPiQg1w.jpg",
+               "id": 12006,
+               "order": 10
+            },
+            {
+               "cast_id": 24,
+               "character": "Hennessy's Secretary",
+               "gender": 0,
+               "credit_id": "5690601cc3a3686b44000666",
+               "name": "Laura Solari",
+               "profile_path": "/phzFbs7VqrMJzzOfIIvsAW9yGD4.jpg",
+               "id": 1315106,
+               "order": 11
+            },
+            {
+               "cast_id": 25,
+               "character": "Shoe Seller",
+               "gender": 0,
+               "credit_id": "569060ca925141456a000671",
+               "name": "Gorella Gori",
+               "profile_path": null,
+               "id": 1489908,
+               "order": 12
+            },
+            {
+               "cast_id": 27,
+               "character": "Admiral Dancing with Princess (uncredited)",
+               "gender": 0,
+               "credit_id": "56914ec4c3a36802f6000473",
+               "name": "Armando Annuale",
+               "profile_path": null,
+               "id": 1560722,
+               "order": 13
+            },
+            {
+               "cast_id": 28,
+               "character": "Young Boy with Car (uncredited)",
+               "gender": 0,
+               "credit_id": "56914f28c3a36802f600047f",
+               "name": "Maurizio Arena",
+               "profile_path": "/oZQncWF5n3Ir9AqhWwDGee6pSIY.jpg",
+               "id": 131306,
+               "order": 14
+            },
+            {
+               "cast_id": 29,
+               "character": "Flower Seller (uncredited)",
+               "gender": 0,
+               "credit_id": "56914fbd92514179a6000441",
+               "name": "Gildo Bocci",
+               "profile_path": null,
+               "id": 228864,
+               "order": 15
+            },
+            {
+               "cast_id": 30,
+               "character": "Embassy Aide (uncredited)",
+               "gender": 1,
+               "credit_id": "56915057c3a36802e2000447",
+               "name": "Andrea Esterhazy",
+               "profile_path": null,
+               "id": 39431,
+               "order": 16
+            },
+            {
+               "cast_id": 31,
+               "character": "Correspondent at Poker Game (uncredited)",
+               "gender": 0,
+               "credit_id": "56915124c3a36802ef000438",
+               "name": "George Higgins",
+               "profile_path": null,
+               "id": 1454254,
+               "order": 17
+            },
+            {
+               "cast_id": 32,
+               "character": "Correspondent at Poker Game (uncredited)",
+               "gender": 2,
+               "credit_id": "56915233c3a36802e200046a",
+               "name": "Richard McNamara",
+               "profile_path": null,
+               "id": 1124231,
+               "order": 18
+            },
+            {
+               "cast_id": 33,
+               "character": "Old Man Dancing with Princess (uncredited)",
+               "gender": 0,
+               "credit_id": "569152e892514179a300045b",
+               "name": "Luigi Moneta",
+               "profile_path": null,
+               "id": 999782,
+               "order": 19
+            },
+            {
+               "cast_id": 34,
+               "character": "Faceless Man on the Barge (uncredited)",
+               "gender": 2,
+               "credit_id": "56915379925141799e0004b3",
+               "name": "Piero Pastore",
+               "profile_path": null,
+               "id": 1139841,
+               "order": 20
+            },
+            {
+               "cast_id": 35,
+               "character": "Worker Hugging the Three Out Side Police Station (uncredited)",
+               "gender": 2,
+               "credit_id": "569153b092514179b30004d0",
+               "name": "Mimmo Poli",
+               "profile_path": "/ogRb16e5BplvdpngH3Txhp3Y0pb.jpg",
+               "id": 225190,
+               "order": 21
+            },
+            {
+               "cast_id": 36,
+               "character": "Faceless Man on the Barge (uncredited)",
+               "gender": 0,
+               "credit_id": "569153d892514179aa0004c6",
+               "name": "Giuliano Raffaelli",
+               "profile_path": "/ePn6M92CiZgbu53RdI1dISxrez2.jpg",
+               "id": 38125,
+               "order": 22
+            },
+            {
+               "cast_id": 37,
+               "character": "Police Official (uncredited)",
+               "gender": 0,
+               "credit_id": "56915435c3a36802e2000495",
+               "name": "Carlo Rizzo",
+               "profile_path": null,
+               "id": 1177603,
+               "order": 23
+            },
+            {
+               "cast_id": 38,
+               "character": "Girl at Cafe Waving at Irving (uncredited)",
+               "gender": 0,
+               "credit_id": "5691548492514179a00006f0",
+               "name": "Gianna Segale",
+               "profile_path": null,
+               "id": 1201885,
+               "order": 24
+            },
+            {
+               "cast_id": 39,
+               "character": "Girl at Cafe Waving at Irving (uncredited)",
+               "gender": 0,
+               "credit_id": "569154a9c3a36802f30004bd",
+               "name": "Dianora Veiga",
+               "profile_path": null,
+               "id": 1127395,
+               "order": 25
+            },
+            {
+               "cast_id": 40,
+               "character": "Pallid Young Man Dancing with Princess (uncredited)",
+               "gender": 2,
+               "credit_id": "569154eb92514179aa0004d9",
+               "name": "Marco Tulli",
+               "profile_path": null,
+               "id": 89210,
+               "order": 26
+            },
+            {
+               "cast_id": 41,
+               "character": "Francesca - Irving's Model (uncredited)",
+               "gender": 1,
+               "credit_id": "5691552692514179aa0004ea",
+               "name": "Tania Weber",
+               "profile_path": "/5f81kjruWVXszNqz7HehkPpOBiV.jpg",
+               "id": 1130804,
+               "order": 27
+            },
+            {
+               "cast_id": 42,
+               "character": "Schoolgirl (uncredited)",
+               "gender": 1,
+               "credit_id": "5691557192514179b00004fb",
+               "name": "Catherine Wyler",
+               "profile_path": null,
+               "id": 73262,
+               "order": 28
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4278c3a36847f80214b9",
+               "name": "William Wyler",
+               "profile_path": "/AvxH2K3FDzui3je0wQZBKN3IUTt.jpg",
+               "id": 10001,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4278c3a36847f80214c5",
+               "name": "Ian McLellan Hunter",
+               "profile_path": null,
+               "id": 11994,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4278c3a36847f80214cb",
+               "name": "John Dighton",
+               "profile_path": null,
+               "id": 11995,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4278c3a36847f80214d1",
+               "name": "William Wyler",
+               "profile_path": "/AvxH2K3FDzui3je0wQZBKN3IUTt.jpg",
+               "id": 10001,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4278c3a36847f80214dd",
+               "name": "Georges Auric",
+               "profile_path": null,
+               "id": 2578,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4278c3a36847f80214e3",
+               "name": "Henri Alekan",
+               "profile_path": null,
+               "id": 2307,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4278c3a36847f80214e9",
+               "name": "Robert Swink",
+               "profile_path": null,
+               "id": 11997,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4278c3a36847f80214ef",
+               "name": "Hal Pereira",
+               "profile_path": null,
+               "id": 5188,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4278c3a36847f80214f5",
+               "name": "Edith Head",
+               "profile_path": "/63ZeXQOh26sGa8nTbYWntieyWrz.jpg",
+               "id": 4350,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4278c3a36847f80214fb",
+               "name": "Joseph de Bretagne",
+               "profile_path": null,
+               "id": 11561,
+               "department": "Sound",
+               "job": "Sound Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569061a8925141456a0006b5",
+               "name": "Lester Koenig",
+               "profile_path": null,
+               "id": 1461517,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "569155fac3a36802f90004e6",
+               "name": "Franz Planer",
+               "profile_path": null,
+               "id": 1940,
+               "department": "Crew",
+               "job": "Cinematography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56915653c3a36802e20004cd",
+               "name": "Walter H. Tyler",
+               "profile_path": null,
+               "id": 21456,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56915787c3a36802f6000543",
+               "name": "Anna Cristofani",
+               "profile_path": null,
+               "id": 1560728,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569157db92514179b0000538",
+               "name": "Maurizio Lodi-Fè",
+               "profile_path": null,
+               "id": 570176,
+               "department": "Production",
+               "job": "Unit Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5691582892514179aa000527",
+               "name": "Charles Woolstenhulme",
+               "profile_path": null,
+               "id": 1560730,
+               "department": "Production",
+               "job": "Unit Production Manager"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5691587bc3a36802e8000551",
+               "name": "Herbert Coleman",
+               "profile_path": null,
+               "id": 2653,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "569158b192514179a3000508",
+               "name": "Bernard Vorhaus",
+               "profile_path": null,
+               "id": 105477,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569158e4c3a36802ec000531",
+               "name": "Italo Tomassi",
+               "profile_path": null,
+               "id": 1431338,
+               "department": "Art",
+               "job": "Set Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569159b292514179a000076a",
+               "name": "Vittorio Valentini",
+               "profile_path": null,
+               "id": 10008,
+               "department": "Crew",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56915a39c3a36802e800057a",
+               "name": "Enzo Barboni",
+               "profile_path": null,
+               "id": 56033,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56915ac692514179b0000586",
+               "name": "Robert Belcher",
+               "profile_path": null,
+               "id": 72551,
+               "department": "Editing",
+               "job": "Assistant Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56915b0292514179b000058b",
+               "name": "Leo Shuken",
+               "profile_path": null,
+               "id": 30257,
+               "department": "Sound",
+               "job": "Orchestrator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56915bac92514179b0000599",
+               "name": "Victor Young",
+               "profile_path": null,
+               "id": 26026,
+               "department": "Sound",
+               "job": "Additional Soundtrack"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59f33c7a925141223b012728",
+               "name": "Joseph de Bretagne",
+               "profile_path": null,
+               "id": 11561,
+               "department": "Sound",
+               "job": "Sound Recordist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59f33a9cc3a368714b0129cc",
+               "name": "Dalton Trumbo",
+               "profile_path": "/2Ii27zuIjlzkqgs6dFS4SgsuNKH.jpg",
+               "id": 11993,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59f33ad0c3a36871000121e5",
+               "name": "Dalton Trumbo",
+               "profile_path": "/2Ii27zuIjlzkqgs6dFS4SgsuNKH.jpg",
+               "id": 11993,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59f33b3d925141229f01280c",
+               "name": "Franz Planer",
+               "profile_path": null,
+               "id": 1940,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f33c2ec3a36871d2011378",
+               "name": "Alberto De Rossi",
+               "profile_path": null,
+               "id": 25806,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59f33c3b925141223001206b",
+               "name": "Wally Westmore",
+               "profile_path": null,
+               "id": 7689,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59f33ca492514122f80125d4",
+               "name": "Robert Wyler",
+               "profile_path": null,
+               "id": 11996,
+               "department": "Production",
+               "job": "Associate Producer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Romance",
+            "id": 10749
+         }
+      ],
+      "popularity": 21.167159,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 804,
+      "vote_count": 649,
+      "budget": 1500000,
+      "overview": "Overwhelmed by her suffocating schedule, touring European princess Ann takes off for a night while in Rome. When a sedative she took from her doctor kicks in, however, she falls asleep on a park bench and is found by an American reporter, Joe Bradley, who takes her back to his apartment for safety. At work the next morning, Joe finds out Ann's regal identity and bets his editor he can get exclusive interview with her, but romance soon gets in the way.",
+      "similar": [
+         2288,
+         253,
+         954,
+         13183,
+         249070,
+         1620,
+         329829,
+         11541,
+         31526,
+         255603,
+         257057,
+         215576,
+         228298,
+         29410,
+         215697,
+         22639,
+         255724,
+         305242,
+         252516,
+         208156
+      ],
+      "original_title": "Roman Holiday",
+      "runtime": 119,
+      "poster_path": "/A0JKLHc5rS3uztYl9GDOMwXl1d3.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Italiano",
+            "iso_639_1": "it"
+         }
+      ],
+      "production_companies": [{
+         "logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
+         "name": "Paramount",
+         "id": 4,
+         "origin_country": "US"
+      }],
+      "release_date": "1953-08-26",
+      "vote_average": 7.8,
+      "belongs_to_collection": null,
+      "tagline": "Romance in romantic Rome!",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Black and White",
+      "budgetCurrency": "$",
+      "directors": ["William Wyler"],
+      "runtime": 118,
+      "synopsis": "Princess Ann (Hepburn) is a royal princess of an unspecified country. She is on a widely publicized tour of several European capitals, including Rome. One night, she rebels against the strenuous demands of her official duties, where every minute of her time is scheduled. Her doctor gives her a sedative in order to help her sleep, but she secretly leaves her country's embassy and goes out alone to experience Rome. The injection eventually takes effect and she falls asleep on a public bench where Joe Bradley (Peck), an expatriate American reporter, meets her, but does not recognize her. He offers her money so that she can take a taxi home, but \"Anya Smith,\" as she calls herself, refuses to disclose where that is, saying that she should be taken to the Colosseum. Joe finally decides, for safety's sake, to let her spend the night in his apartment. He is amused by her regal manner, but less so when she appropriates his bed, leaving him the uncomfortable couch. The next morning, unable to rouse her, he goes to work. His editor, Mr. Hennessy (Hartley Power), asks him if he had covered the press conference with the princess. Joe lies, making up details of the alleged interview until Hennessy tells him that the princess had suddenly \"fallen ill\" and the conference had been canceled. Joe sees a picture of her and recognizes the young woman he had left sleeping in his apartment. Hennessy then threatens to fire him, and the two men end up making a bet that Joe can get an exclusive on the princess. Joe realizes he is sitting on a windfall; an exclusive story about his unsuspecting guest. He offers to show Rome to Anya, but not before getting his photographer friend, Irving Radovich (Eddie Albert), to tag along to take pictures of her without her knowledge. Hepburn and Peck embark on a Vespa ride through Rome in one of the films comedic sequences.They spend the day seeing the sights, including the \"Mouth of Truth,\" a marble image said to bite off the hands of liars. On a whim, she gets her hair cut short in a barbershop facing the famous Trevi Fountain. She shares with Joe her dream of living a normal life without her crushing responsibilities and restrictions. That night, at a dance on a boat, government agents finally track her down and try to escort her away, but a wild melee breaks out and Joe and Anya escape. Through all this, they gradually fall in love. However, Anya realizes that it cannot be. She finally bids farewell to Joe, without revealing her true identity, and returns to the embassy. During the course of the day, Hennessy learns that the princess is missing, not ill as the embassy had claimed. He suspects that Joe knows where she is, and tries to get him to admit it, but Joe claims to know nothing about it. Knowing Joe's feelings for Anya, Irving reluctantly decides not to sell his photos. The next day, Princess Ann appears at the delayed news conference, only to find Joe and Irving among the members of the press. Irving takes her picture with the same miniature cigarette lighter/camera he had used the previous day. He then presents her with the photographs he had taken that day, as a memento of her adventure. Joe lets her know, by allusion, that her secret is safe with them. She, in turn, works into her bland press conference statements a coded message of love and gratitude to Joe. She then departs, leaving Joe to linger for a while, contemplating what might have been.",
+      "writers": [
+         "Ian McLellan Hunter",
+         "John Dighton"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0046250/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTg1ODgzODA1Nl5BMl5BanBnXkFtZTcwNTI0MzU3Mg@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Gregory Peck, Audrey Hepburn, Eddie Albert | See full cast and crew »"],
+      "reviews": [
+         "This charming comedy is justly famous as the film that made the whole world fall in love with Audrey Hepburn and half the world want to run out and buy a Vespa scooter. Hepburn was always beguiling, but in some of her later roles she tended to overplay the winsomeness. Here every note she hits is just about perfect. And speaking of notes, pay special attention to the score by the great Georges Auric. If the film had been produced in the manner of modern romantic comedies, the sound track would have been larded with pop hits by Perry Como, Dinah Shore, and Frankie Laine, which would have done an awful lot to destroy the magic. Instead Auric's complex, vibrant, evocative music complements the story's inherent lyricism without upstaging it. In an era of bombastic film scoring, this seems a miracle. Someone once said that Audrey Hepburn's was the beauty of possibility and transformation -- she was always in motion, always becoming something else. \"Roman Holiday\" is very much of a piece with that notion. On the surface, the film is about a princess who disguises herself as a \"commoner\". But in truth she's actually pretending to be a princess, at least at first. She finally becomes authentic -- is transformed and prepared to deal with her destiny -- only through the ennobling power of love and sacrifice. That's one heck of a mythic subtext and does a lot to explain \"Roman Holiday's\" enduring power.",
+         "I recently caught this little gem of a film on a retro program and it was a trip well worth it. William Wyler was a genius directing throughout his film career. Here he's in top form. The only way this film could have been conceived was with the charming presence of Audrey Hepburn in her first appearance on a Hollywood film. She is without a doubt, an angel who was sent to this earth to delight the movie audiences in whatever movie she happened to dignify with her appearance in. Some people have compared Audrey Tatou with the incomparable Audrey Hepburn. Seeing Ms Hepburn in Roman Holiday will certainly change the minds of those comparing fans. Audrey Hepburn was a star's star! She exudes charm, intelligence, elegance, and beauty. Just one look from her could disarm Gregory Peck forever. The only wrong note of this production was the way the writer, Dalton Trumbo, was treated since he had been blacklisted by the anti-communist faction lead by Sen. McCarthy and company. In the end, Mr. Trumbo was vindicated in having his name recognized as the writer of Roman Holiday. This film is a feast to the eyes in that glorious cinematography and Rome as a background. This was Hollywood at its best. Gregory Peck and Audrey Hepburn will be forever young any time we take a look at this classic that I'm sure will live and charm its viewers whenever they take a chance to see it for the first time, or like some of us, for another loving look.",
+         "A plot as slender as Audrey Hepburn but oh what magic! If you've never seen this jewel, you're to have one of the best evenings of your week, your month. Perhaps the key to this movie's success is restraint - in the dialogue, in the music, in the cynicism of Peck and cronies at the movie's beginning. No one gushes - all is understated - but how one feels its power. I hope everyone has experienced a day such as they - with someone they come to care for - as much as they. It's my wish for the world.",
+         "Audrey Hepburn's first big film role cast her as a Princess of country unknown, making a state visit to Rome. Bored of the endless run of openings, dedications and so on, she decides to see something of the city, and runs into American newsman Gregory Peck. He recognises her as the missing Princess and plans to scoop a major interview for his syndicate, with the help of pal Eddie Albert and his hidden camera. Hepburn is an absolute joy, particularly when her hair is shorn down to the classic urchin cut and she takes a motorcycle ride. Peck, too, is served well by this kind of role, and the romance of the city of Rome helps their relationship to develop during their 24 hours of freedom. Roman Holiday is one of those rarities which are truly perfect and memorable, a real girly flick with beautiful photography and a sparkling script. Highly recommended, and especially so in the wonderful recent restoration.",
+         "A Holiday worth celebrating every day of the year. The Princess awakens from her slumbers in this classic fall-from-innocence, coming-of-age tale with a royal twist. Audrey Hepburn stakes her claim as the most perfect woman who ever lived. Gregory Peck at his best as the ne'er-do-well American reporter who guides her chastely from girlhood to womanhood. What can I add? One of the finest movies ever made. Now will you please stop reading this review and rent the movie, for heaven's sake? ...Now, according to the rules, this review has to go for at least 10 lines. And yet I've said everything I have to say about Roman Holiday. It is perfect. Rent it. Or better yet, buy it. You won't regret it. There, now that's 11 lines, that ought to do it.",
+         "Constantly advised, overprotected, and bored with her royal duties, Princess Anne, on holiday in Rome, evades her protectors and sneaks out at night to discover how the ordinary Italians live... Exhausted from a claustrophobic schedule, she collapses in a public place\u0085 Passing by is Joe Bradley (Gregory Peck), a newspaper reporter who was planning to interview the Princess the following day\u0085 Not realizing who she is, he eventually takes her to his apartment where she spends the night on his couch\u0085 After discovering her identity, Bradley charms the runaway princess for the exclusive story he visualizes writing\u0085 He calls his carefree photographer friend Eddie Albert and proposes to spend the day with her and experience everything she has always desired to\u0085 Audrey Hepburn\u0097the exquisite incognito princess who finds romance in the capital city of Italy\u0097 not only lets down her long tresses, but also gets a more fashionable cut, as she blossoms to embrace a life she knows she cannot keep\u0085 Hepburn received an Oscar for Best Actress in recognition of her gamine charms and for her great acting ability\u0085 If you like to remember Princess Anne at the café ordering champagne for lunch; smoking her \"very first\" cigarette; dancing on a barge on the Tiber River; hitting the royal agents with beer bottles; and testing the legend of 'The Mouth of Truth;' don't miss this delightful movie with three legendary stars\u0085",
+         "Audrey Hepburn doesn't have a vulgar bone in her body: she breezes through this comedic romp with the spirit of a saint on holiday. When a princess escapes the castle while touring Italy, a down-on-his-luck American reporter chances to meet her and smells a good story. A joyful fairy tale, but with the heartbreak of reality at the finale, and what sweet sadness there is in those final shots! Hepburn won an Oscar for Best Actress, and deserved it. Gregory Peck is almost playful in his scenes with her, and Eddie Albert is a perfect buddy-match. Director William Wyler sets up the story very gingerly, but he cuts loose as well, and the whole picture plays like a delectable dessert. ***1/2 from ****",
+         "With a very nice blend of fantasy and reality, and two very likable stars, \"Roman Holiday\" is both entertaining and thoughtful. Sometimes it is very funny, and at other times it makes you feel a great sympathy and warmth towards the characters. Audrey Hepburn and Gregory Peck are ideal in the leading roles, and the story is very clever in getting a lot of mileage out of a simple idea without pushing things too far, which makes it quite effective. The idea of Princess Ann (Audrey) slipping away unnoticed and unrecognized for a day of fun and freedom from responsibility is of course fanciful, but it works for a lot of reasons, not the least of which is Peck's role as a pragmatic newsman. He is a good balance for Hepburn's charm and energy, remaining calm and logical without ever becoming cold or distant. You feel as if you could spend a lot more than a couple of hours in their company. And how could you improve on Eddie Albert's performance as Peck's photographer friend? The movie also adds in the atmosphere of Rome itself, with some creative scenes that make good use of the setting. There are many fine moments in a story that at times seems almost like a daydream, and then it brings the characters back to reality in a moving way. It's not an easy combination to pull off, but here it all fits together very well, to make the kind of classic worth remembering, and one which you can watch and enjoy more than once.",
+         "When Roman Holiday was in the planning stages William Wyler envisioned either Elizabeth Taylor or Jean Simmons in the role of the princess. When neither proved available, he and Paramount studios decided to do a Scarlett O'Hara type search for an unknown for the part. The film then would only have Gregory Peck as the star to draw the people in. But when Peck saw the screen test and also realized the film would rise and fall on the performance of the princess part, he insisted on top billing for Audrey Hepburn. Audrey had only done a few small bit parts in some English films up till then, however Peck insisted on the billing of her right after him with 'introducing Audrey Hepburn' as her title credit. In the same way that William Holden credited Barbara Stanwyck with helping him get through Golden Boy, Audrey Hepburn credited Gregory Peck with her performance in Roman Holiday. As well as William Wyler who still has a record of more people getting to the Oscar sweepstakes for his films than any other director. Roman Holiday is simple and delightful film about a young princess of some unnamed European country who gets tired of her programmed routine and wants a break from it. In Rome while on a European tour, princess Audrey fakes an illness and runs off for a day of fun. An American wire service reporter Gregory Peck finds her and realizes he's got an exclusive. So he chaperones her around without letting her know she's on to him. He even gets photographer Eddie Albert to help him out. Eddie Albert got the first of two nominations for Best Supporting Actor for Roman Holiday, the second one being The Goodbye Girl. He lost to Frank Sinatra for From Here to Eternity. Though Albert is funny in this film, for dramatic work I never understood why he was not nominated for Attack or for Captain Newman, MD. If you're thinking that the film is starting to bear a resemblance to a continental It Happened One Night you would be right. And if that's your thinking it will come as no surprise to learn that Frank Capra originally had the idea to film this. The property reverted to Paramount as part of his settlement to leave that studio after doing two Bing Crosby films. I wish Paramount had done Roman Holiday in color though. Darryl F. Zanuck over at 20th Century did Three Coins in the Fountain in gorgeous color and later on MGM did The Seven Hills of Rome also in color. Still the Roman locations really add a lot to Audrey's adventure. When Oscar time Audrey Hepburn in her first starring role and really first role of any consequence won an Oscar for Best Actress. Until the day she died Audrey Hepburn had charm enough for ten, you can't help but love her in anything she ever did. Even if the film she did was not that great, Audrey sparkles through. Even in black and white, the Eternal City with Audrey and Greg make anyone young at heart.",
+         "I could just write my one line summary over and over again, but that would make for a rather dull comment, so I won't (stop cheering in the balcony!). In addition to the wonderful Ms. Hepburn, Gregory Peck does his typically superb job and Eddie Albert turns in a delightful (but no doubt painful, for him) performance in this incredibly charming jewel of a film. This film made me an incurable romantic for life! *sigh* I'd better quit before my apartment becomes a wind-tunnel! Joyously, happily recommended!"
+      ],
+      "genres": [
+         "Comedy",
+         "Drama",
+         "Romance"
+      ],
+      "productionCompanies": ["Paramount Pictures"],
+      "summaries": [
+         "Princess Anne embarks on a highly publicized tour of European capitals. When she and her royal entourage arrive in Rome, she begins to rebel against her restricted, regimented schedule. One night Anne sneaks out of her room, hops into the back of a delivery truck and escapes her luxurious confinement. However, a sedative she was forced to take earlier starts to take effect, and the Princess is soon fast asleep on a public bench. She is found by Joe Bradley, an American newspaper reporter stationed in Rome. He takes her back to his apartment. The next morning Joe dashes off to cover the Princess Anne press conference, unaware that she is sleeping on his couch. Once he realizes his good fortune, Joe promises his editor an exclusive interview with the Princess.",
+         "A bored and sheltered princess escapes her guardians and falls in love with an American newsman in Rome."
+      ],
+      "budget": 1500000
+   },
+   "movielensId": 916,
+   "movielens": {
+      "languages": [
+         "English",
+         "Italiano"
+      ],
+      "releaseDate": "1953-09-02",
+      "dvdReleaseDate": "2002-11-26",
+      "directors": ["William Wyler"],
+      "runtime": 119,
+      "movieId": 916,
+      "title": "Roman Holiday",
+      "mpaa": "G",
+      "actors": [
+         "Gregory Peck",
+         "Audrey Hepburn",
+         "Eddie Albert",
+         "Hartley Power",
+         "Harcourt Williams",
+         "Margaret Rawlings",
+         "Tullio Carminati",
+         "Paolo Carlini",
+         "Claudio Ermelli",
+         "Paola Borboni",
+         "Alfredo Rizzo",
+         "Laura Solari",
+         "Gorella Gori",
+         "Armando Annuale",
+         "Maurizio Arena",
+         "Gildo Bocci",
+         "Andrea Esterhazy",
+         "George Higgins",
+         "Richard McNamara",
+         "Luigi Moneta",
+         "Piero Pastore",
+         "Mimmo Poli",
+         "Giuliano Raffaelli",
+         "Carlo Rizzo",
+         "Gianna Segale",
+         "Dianora Veiga",
+         "Marco Tulli",
+         "Tania Weber",
+         "Catherine Wyler"
+      ],
+      "imdbMovieId": "0046250",
+      "originalTitle": "Roman Holiday",
+      "genres": [
+         "Comedy",
+         "Romance"
+      ],
+      "youtubeTrailerIds": ["twi3lQIDkiU"],
+      "plotSummary": "Overwhelmed by her suffocating schedule, touring European princess Ann takes off for a night while in Rome. When a sedative she took from her doctor kicks in, however, she falls asleep on a park bench and is found by an American reporter, Joe Bradley, who takes her back to his apartment for safety. At work the next morning, Joe finds out Ann's regal identity and bets his editor he can get exclusive interview with her, but romance soon gets in the way.",
+      "tmdbMovieId": 804,
+      "avgRating": 4.05744,
+      "releaseYear": "1953",
+      "numRatings": 7390,
+      "posterPath": "/A0JKLHc5rS3uztYl9GDOMwXl1d3.jpg"
+   }
+}

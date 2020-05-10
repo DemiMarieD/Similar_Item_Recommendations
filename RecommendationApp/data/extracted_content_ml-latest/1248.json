@@ -1,0 +1,885 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "hotel",
+            "id": 612
+         },
+         {
+            "name": "brothel",
+            "id": 1411
+         },
+         {
+            "name": "border",
+            "id": 2286
+         },
+         {
+            "name": "evidence",
+            "id": 2620
+         },
+         {
+            "name": "honeymoon",
+            "id": 2676
+         },
+         {
+            "name": "investigation",
+            "id": 5340
+         },
+         {
+            "name": "united states\u2013mexico barrier",
+            "id": 5616
+         },
+         {
+            "name": "car bomb",
+            "id": 7336
+         },
+         {
+            "name": "mexican",
+            "id": 163127
+         },
+         {
+            "name": "film noir",
+            "id": 195402
+         }
+      ],
+      "imdb_id": "tt0052311",
+      "video": false,
+      "title": "Touch of Evil",
+      "recommendations": [
+         1092,
+         247,
+         963,
+         3112,
+         3090,
+         910,
+         996,
+         845,
+         654,
+         37257,
+         93,
+         1939,
+         827,
+         204,
+         596,
+         3782,
+         288,
+         21734,
+         887,
+         576
+      ],
+      "backdrop_path": "/pIWTZLpLfryQj4NrCY4ElI8Sk24.jpg",
+      "revenue": 2247465,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "Ramon Miguel Vargas",
+               "gender": 2,
+               "credit_id": "52fe42f8c3a36847f8030c69",
+               "name": "Charlton Heston",
+               "profile_path": "/pXwJV9JlOCKOHSfEJdt2q61SZVq.jpg",
+               "id": 10017,
+               "order": 0
+            },
+            {
+               "cast_id": 9,
+               "character": "Susan 'Susie' Vargas",
+               "gender": 1,
+               "credit_id": "52fe42f8c3a36847f8030c91",
+               "name": "Janet Leigh",
+               "profile_path": "/3FWYSCJUOuYVDPG9UoMjtqNMdyb.jpg",
+               "id": 7302,
+               "order": 1
+            },
+            {
+               "cast_id": 10,
+               "character": "Police Captain Hank Quinlan",
+               "gender": 2,
+               "credit_id": "52fe42f8c3a36847f8030c95",
+               "name": "Orson Welles",
+               "profile_path": "/k7a0gp3HKWT5uBmfirM74vackiV.jpg",
+               "id": 40,
+               "order": 2
+            },
+            {
+               "cast_id": 11,
+               "character": "Police Sergeant Pete Menzies",
+               "gender": 0,
+               "credit_id": "52fe42f8c3a36847f8030c99",
+               "name": "Joseph Calleia",
+               "profile_path": "/xyb6l5Epo5NXbKUXD7puhLoYca2.jpg",
+               "id": 33747,
+               "order": 3
+            },
+            {
+               "cast_id": 12,
+               "character": "'Uncle' Joe Grandi",
+               "gender": 2,
+               "credit_id": "52fe42f8c3a36847f8030c9d",
+               "name": "Akim Tamiroff",
+               "profile_path": "/24khOVoHMGhYwSHnd3QpPcv6HSP.jpg",
+               "id": 30719,
+               "order": 4
+            },
+            {
+               "cast_id": 13,
+               "character": "Marcia Linnekar",
+               "gender": 1,
+               "credit_id": "52fe42f8c3a36847f8030ca1",
+               "name": "Joanna Moore",
+               "profile_path": "/fzSAhMvjKSTy0PNkbehN3OHO5fe.jpg",
+               "id": 94889,
+               "order": 5
+            },
+            {
+               "cast_id": 14,
+               "character": "District Attorney Adair",
+               "gender": 2,
+               "credit_id": "52fe42f8c3a36847f8030ca5",
+               "name": "Ray Collins",
+               "profile_path": "/ovjJ7n0N0fO4SNO0Z3lbeQWxFyZ.jpg",
+               "id": 14518,
+               "order": 6
+            },
+            {
+               "cast_id": 15,
+               "character": "Mirador Motel Night Manager",
+               "gender": 2,
+               "credit_id": "52fe42f8c3a36847f8030ca9",
+               "name": "Dennis Weaver",
+               "profile_path": "/vlAJC2oEE7PWOdp2hRi4K8v3zro.jpg",
+               "id": 12422,
+               "order": 7
+            },
+            {
+               "cast_id": 16,
+               "character": "Pancho",
+               "gender": 2,
+               "credit_id": "52fe42f8c3a36847f8030cad",
+               "name": "Valentin de Vargas",
+               "profile_path": "/pbbUyCyMNnBX7OQDu6lyhtGQszI.jpg",
+               "id": 94892,
+               "order": 8
+            },
+            {
+               "cast_id": 17,
+               "character": "Al Schwartz - District Attorney's Assistant",
+               "gender": 2,
+               "credit_id": "52fe42f8c3a36847f8030cb1",
+               "name": "Mort Mills",
+               "profile_path": "/1KmPkFX992nBkDBPzg5QoWB8v4K.jpg",
+               "id": 45525,
+               "order": 9
+            },
+            {
+               "cast_id": 18,
+               "character": "Manelo Sanchez",
+               "gender": 0,
+               "credit_id": "52fe42f8c3a36847f8030cb5",
+               "name": "Victor Millan",
+               "profile_path": "/4kumG5B5wKnKX43Otnu8wnRxupJ.jpg",
+               "id": 94893,
+               "order": 10
+            },
+            {
+               "cast_id": 19,
+               "character": "Risto - Grandi's Nephew",
+               "gender": 2,
+               "credit_id": "52fe42f8c3a36847f8030cb9",
+               "name": "Lalo Rios",
+               "profile_path": null,
+               "id": 94894,
+               "order": 11
+            },
+            {
+               "cast_id": 20,
+               "character": "Pretty Boy",
+               "gender": 2,
+               "credit_id": "52fe42f8c3a36847f8030cbd",
+               "name": "Michael Sargent",
+               "profile_path": null,
+               "id": 94895,
+               "order": 12
+            },
+            {
+               "cast_id": 22,
+               "character": "Zita",
+               "gender": 1,
+               "credit_id": "52fe42f8c3a36847f8030cc5",
+               "name": "Joi Lansing",
+               "profile_path": "/zNFC2Z2S2CbpUH17em1W38Luy2k.jpg",
+               "id": 55997,
+               "order": 14
+            },
+            {
+               "cast_id": 23,
+               "character": "Chief Gould",
+               "gender": 2,
+               "credit_id": "52fe42f8c3a36847f8030cc9",
+               "name": "Harry Shannon",
+               "profile_path": "/7Js8vAjzKzM5eXcu6THDzWM7j5P.jpg",
+               "id": 4077,
+               "order": 15
+            },
+            {
+               "cast_id": 24,
+               "character": "Tanya",
+               "gender": 1,
+               "credit_id": "52fe42f8c3a36847f8030ccd",
+               "name": "Marlene Dietrich",
+               "profile_path": "/eZFuvNCV0kkI9MHFKxTKYegAfIK.jpg",
+               "id": 2896,
+               "order": 16
+            },
+            {
+               "cast_id": 25,
+               "character": "Strip-Club Owner",
+               "gender": 1,
+               "credit_id": "52fe42f8c3a36847f8030cd1",
+               "name": "Zsa Zsa Gábor",
+               "profile_path": "/spsHbBoqF6aeLhqjYvsgvL5EBMp.jpg",
+               "id": 44715,
+               "order": 17
+            },
+            {
+               "cast_id": 26,
+               "character": "Coroner",
+               "gender": 2,
+               "credit_id": "52fe42f8c3a36847f8030cd5",
+               "name": "Joseph Cotten",
+               "profile_path": "/bTUTrTnzacCQV4F0rs1xH4QaETf.jpg",
+               "id": 7664,
+               "order": 18
+            },
+            {
+               "cast_id": 27,
+               "character": "Construction Site Foreman",
+               "gender": 2,
+               "credit_id": "52fe42f9c3a36847f8030cd9",
+               "name": "Billy House",
+               "profile_path": "/ntSAH3Qf0xVEzpkMeOO23zRb2pw.jpg",
+               "id": 85737,
+               "order": 19
+            },
+            {
+               "cast_id": 28,
+               "character": "Gang Leader",
+               "gender": 1,
+               "credit_id": "52fe42f9c3a36847f8030cdd",
+               "name": "Mercedes McCambridge",
+               "profile_path": "/hfpsmWUzDHeblAJ0vKv0ftXg0jB.jpg",
+               "id": 18737,
+               "order": 20
+            },
+            {
+               "cast_id": 29,
+               "character": "Customs Officer",
+               "gender": 2,
+               "credit_id": "52fe42f9c3a36847f8030ce1",
+               "name": "Dan White",
+               "profile_path": "/tnwilbvrLDuFtF5boIgTgb8WvKs.jpg",
+               "id": 94897,
+               "order": 21
+            },
+            {
+               "cast_id": 30,
+               "character": "Marcia Linnekar's Attorney",
+               "gender": 2,
+               "credit_id": "52fe42f9c3a36847f8030ce5",
+               "name": "Keenan Wynn",
+               "profile_path": "/vKRcpt50Eh9AQ6yi9umy1YFZWyf.jpg",
+               "id": 4966,
+               "order": 22
+            },
+            {
+               "cast_id": 35,
+               "character": "Blaine",
+               "gender": 0,
+               "credit_id": "549954669251411f43000b84",
+               "name": "Phil Harvey",
+               "profile_path": "/bOaW9RbYuZijcLs1CXXRQr1G3LQ.jpg",
+               "id": 1234558,
+               "order": 23
+            },
+            {
+               "cast_id": 38,
+               "character": "Policeman (uncredited)",
+               "gender": 2,
+               "credit_id": "55fee2069251411824000504",
+               "name": "John Dierkes",
+               "profile_path": "/enFa8jeKSkySro8wto7PPcJ3bZ4.jpg",
+               "id": 29645,
+               "order": 24
+            },
+            {
+               "cast_id": 39,
+               "character": "Ginnie (uncredited)",
+               "gender": 0,
+               "credit_id": "55fee24fc3a36813340036f0",
+               "name": "Arlene McQuade",
+               "profile_path": null,
+               "id": 1230785,
+               "order": 25
+            },
+            {
+               "cast_id": 40,
+               "character": "Gang Member (uncredited)",
+               "gender": 2,
+               "credit_id": "55fee290c3a36813340036f9",
+               "name": "Ken Miller",
+               "profile_path": null,
+               "id": 39925,
+               "order": 26
+            },
+            {
+               "cast_id": 41,
+               "character": "Gang Member (uncredited)",
+               "gender": 0,
+               "credit_id": "55fee2c5c3a36813340036fc",
+               "name": "Wayne Taylor",
+               "profile_path": null,
+               "id": 1199438,
+               "order": 27
+            },
+            {
+               "cast_id": 42,
+               "character": "Eddie Farnham (uncredited)",
+               "gender": 2,
+               "credit_id": "55fee2eec3a3681a40000529",
+               "name": "Gus Schilling",
+               "profile_path": null,
+               "id": 33743,
+               "order": 28
+            },
+            {
+               "cast_id": 43,
+               "character": "Marcia Linnekar's Attorney (uncredited)",
+               "gender": 2,
+               "credit_id": "55fee31a9251411bd20004ef",
+               "name": "William Tannen",
+               "profile_path": null,
+               "id": 29626,
+               "order": 29
+            },
+            {
+               "cast_id": 44,
+               "character": "Detective Casey (uncredited)",
+               "gender": 0,
+               "credit_id": "55fee3679251410471000fe5",
+               "name": "Rusty Wescoatt",
+               "profile_path": null,
+               "id": 126017,
+               "order": 30
+            },
+            {
+               "cast_id": 70,
+               "character": "Stripper Sitting at Bar",
+               "gender": 1,
+               "credit_id": "593b7f9e92514105e2006d5b",
+               "name": "Eva Gabor",
+               "profile_path": "/xmUoBtWHw2v89Yd9MAVoh9Y0QAw.jpg",
+               "id": 44714,
+               "order": 31
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe42f8c3a36847f8030c65",
+               "name": "Orson Welles",
+               "profile_path": "/k7a0gp3HKWT5uBmfirM74vackiV.jpg",
+               "id": 40,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe42f8c3a36847f8030c6f",
+               "name": "Whit Masterson",
+               "profile_path": null,
+               "id": 55995,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe42f8c3a36847f8030c75",
+               "name": "Orson Welles",
+               "profile_path": "/k7a0gp3HKWT5uBmfirM74vackiV.jpg",
+               "id": 40,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe42f8c3a36847f8030c7b",
+               "name": "Albert Zugsmith",
+               "profile_path": null,
+               "id": 45279,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe42f8c3a36847f8030c87",
+               "name": "Henry Mancini",
+               "profile_path": "/sXl1lCYNnSf10ESG1nyCEDYGs1L.jpg",
+               "id": 1938,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe42f8c3a36847f8030c8d",
+               "name": "Russell Metty",
+               "profile_path": null,
+               "id": 13809,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe42f9c3a36847f8030cf1",
+               "name": "Aaron Stell",
+               "profile_path": null,
+               "id": 8484,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe42f9c3a36847f8030cf7",
+               "name": "Virgil W. Vogel",
+               "profile_path": null,
+               "id": 12345,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "561c60749251415a620028a3",
+               "name": "Robert Clatworthy",
+               "profile_path": null,
+               "id": 7306,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "561c6080c3a368225e0027fe",
+               "name": "Alexander Golitzen",
+               "profile_path": null,
+               "id": 12346,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "55fd9df492514152ae00132b",
+               "name": "Bill Thomas",
+               "profile_path": null,
+               "id": 14493,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55fd9e599251417711000534",
+               "name": "David Sharpe",
+               "profile_path": "/cyLoiW8jhViXmDGiIgtru2MuLxQ.jpg",
+               "id": 97660,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56663835c3a36806b0001bec",
+               "name": "Leslie I. Carey",
+               "profile_path": null,
+               "id": 7654,
+               "department": "Sound",
+               "job": "Sound"
+            },
+            {
+               "gender": 2,
+               "credit_id": "568c02139251411334025015",
+               "name": "John P. Austin",
+               "profile_path": null,
+               "id": 7651,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56bbe1c392514144e000101e",
+               "name": "Sherman Clark",
+               "profile_path": null,
+               "id": 1542033,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56ecaf80925141440800428b",
+               "name": "Russell A. Gausman",
+               "profile_path": null,
+               "id": 12348,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56fac76dc3a3683db300081f",
+               "name": "Vic Jones",
+               "profile_path": null,
+               "id": 1369442,
+               "department": "Lighting",
+               "job": "Gaffer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56febe869251416cc200241c",
+               "name": "Merle Reeves",
+               "profile_path": null,
+               "id": 1581756,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56fec0abc3a36821ab00336e",
+               "name": "Joseph Gershenson",
+               "profile_path": null,
+               "id": 342032,
+               "department": "Sound",
+               "job": "Music Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "575ae5c5c3a3682d2700018b",
+               "name": "Franklin Coen",
+               "profile_path": null,
+               "id": 12342,
+               "department": "Crew",
+               "job": "Additional Writing"
+            },
+            {
+               "gender": 2,
+               "credit_id": "575ae605c3a3682d2700019c",
+               "name": "Paul Monash",
+               "profile_path": null,
+               "id": 9579,
+               "department": "Crew",
+               "job": "Additional Writing"
+            },
+            {
+               "gender": 2,
+               "credit_id": "575ae6a3c3a3682d160001b8",
+               "name": "Edward Curtiss",
+               "profile_path": null,
+               "id": 13350,
+               "department": "Editing",
+               "job": "Additional Editing"
+            },
+            {
+               "gender": 0,
+               "credit_id": "575ae6e0c3a3682d240001b4",
+               "name": "Bud Westmore",
+               "profile_path": null,
+               "id": 14498,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "575ae70d9251410b8b0001c8",
+               "name": "Vincent Romaine",
+               "profile_path": null,
+               "id": 1587738,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "575ae730c3a3682d060001c2",
+               "name": "Maurice Seiderman",
+               "profile_path": null,
+               "id": 1000458,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "575ae7489251410b890001a2",
+               "name": "Monty Westmore",
+               "profile_path": null,
+               "id": 957990,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "575ae7c5c3a3682d0b0001e4",
+               "name": "Phil Bowles",
+               "profile_path": null,
+               "id": 1622157,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "575ae81ac3a3682d090001e1",
+               "name": "Harry Keller",
+               "profile_path": null,
+               "id": 67349,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "575ae84cc3a3682d240001e8",
+               "name": "Terence Nelson",
+               "profile_path": null,
+               "id": 1455432,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "575ae945c3a3682d09000210",
+               "name": "Ernest J. Nims",
+               "profile_path": null,
+               "id": 103673,
+               "department": "Editing",
+               "job": "Assistant Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "575ae9ebc3a3682d16000231",
+               "name": "Wayne Fitzgerald",
+               "profile_path": null,
+               "id": 81538,
+               "department": "Crew",
+               "job": "Title Graphics"
+            },
+            {
+               "gender": 1,
+               "credit_id": "575aea20c3a3682d1e000264",
+               "name": "Betty A. Griffin",
+               "profile_path": null,
+               "id": 1455417,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "575aea59c3a3682d1e000270",
+               "name": "Robert Tafur",
+               "profile_path": null,
+               "id": 1461590,
+               "department": "Crew",
+               "job": "Technical Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "577a9196925141743e0006d2",
+               "name": "James V. King",
+               "profile_path": null,
+               "id": 1091872,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "57c7194f925141738700542f",
+               "name": "Barney Kessel",
+               "profile_path": null,
+               "id": 1235589,
+               "department": "Sound",
+               "job": "Additional Soundtrack"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         },
+         {
+            "name": "Crime",
+            "id": 80
+         }
+      ],
+      "popularity": 9.025018,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 1480,
+      "vote_count": 380,
+      "budget": 829000,
+      "overview": "Stark, perverse story of murder, kidnapping, and police corruption in Mexican border town.",
+      "similar": [
+         1092,
+         996,
+         1939,
+         2539,
+         11423,
+         4170,
+         19997,
+         255,
+         14638,
+         910,
+         3112,
+         3766,
+         11016,
+         11462,
+         16958,
+         17136,
+         18671,
+         678,
+         25736,
+         20367
+      ],
+      "original_title": "Touch of Evil",
+      "runtime": 95,
+      "poster_path": "/i2gJBlr01BZiZb5b5TOJudc4nv6.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Español",
+            "iso_639_1": "es"
+         }
+      ],
+      "production_companies": [{
+         "logo_path": "/nY62adzeba5GVK8LJYD6yd9R8H4.png",
+         "name": "Universal International Pictures",
+         "id": 10330,
+         "origin_country": ""
+      }],
+      "release_date": "1958-04-23",
+      "vote_average": 7.7,
+      "belongs_to_collection": null,
+      "tagline": "THE STRANGEST VENGEANCE EVER PLANNED!",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Black and White",
+      "budgetCurrency": "$",
+      "directors": ["Orson Welles"],
+      "runtime": 95,
+      "synopsis": "While passing through the seedy border town of Los Robles, newlyweds Mike and Susan Vargas (Charlton Heston and Janet Leigh) witness a car bomb explosion in which Rudy Linnekar, a local construction magnate, and his female companion are killed. Suspecting that the bomb was planted on the Mexican side of the border and may be the work of the Grandi narcotics ring, Vargas, the Mexican head of the Pan-American Narcotics Commission, offers his assistance to the Los Robles officials investigating the case. The lead detective, the obese and lumbering Capt. Hank Quinlan (Orson Welles), rudely rebuffs Vargas' offer. However, Quinlan's partner, the loyal Sgt. Pete Menzies (Joseph Calleia), and Adair, a district attorney (Ray Collins), apologize for Quinlan's behavior and invite Vargas to observe their investigation because of his status as a highly placed Mexican government official. In the meantime, a group of young Mexican men working for \"Uncle\" Joe Grandi (Akim Tamiroff), a small-time crime boss with a bad toupee, bring Susan, an American, to Grandi's headquarters in a sleazy hotel. Grandi warns Susan of dire consequences if her husband continues his prosecution of Grandi's brother, an imprisoned drug dealer awaiting trial in Mexico, but Susan is unimpressed. While investigating the case on the Mexican side of the border, Quinlan visits the tawdry brothel run by Tanya, a former lover (Marlene Dietrich), and the place fills him with nostalgic yearnings. Upon learning of Susan's encounter with Grandi, Vargas decides that she will be safer stashed in a motel on the American side of the border while he continues working on the Linnekar case. However, unknown to Vargas, the motel is owned by Grandi, managed by a disturbed night clerk (Dennis Weaver), and in the middle of the desert. Quinlan soon tracks down a suspect, a Mexican shoe clerk who was having an affair with Linnekar's daughter, Marcia (Joanna Moore), and later married her in a secret ceremony. Sanchez (Victor Millan) claims he is innocent and appeals to Vargas for help. After a prolonged search, Quinlan declares that Menzies has found damning evidence of Sanchez's guilt concealed in a shoe box. Vargas, who had earlier seen that the box was empty, accuses Quinlan of planting dynamite in the box to frame Sanchez. Grandi approaches Quinlan to suggest that they work together to ruin Vargas and after Quinlan has downed several drinks at Grandi's prodding, they plot to destroy Vargas professionally and personally by framing Susan. Grandi's gang of young hoodlums, led by a lesbian clad in black leather (Mercedes McCambridge), take over the motel and accost the terrified Susan, who is shot up with drugs and then transported to a room in Grandi's hotel. When Vargas meets with Police Chief Gould and District Attorney Adair to discuss his suspicions about Quinlan, the faithful Menzies doggedly tracks down his partner to inform him of the meeting. Quinlan storms in on the meeting and, furious that Gould is not defending him, makes a show of throwing down his badge. Uncomfortable with the fact that Vargas is an outsider making accusations against a star detective, Gould and Adair placate Quinlan by telling Vargas to stay out of police business. Al Schwartz, a young assistant D.A., stands by Vargas and secretly gains him access to Quinlan's case files, which strongly suggest that Quinlan, tortured by the fact that he was unable to find enough evidence to convict the suspect who strangled his wife, has been framing suspects for years. Unable to accept that his partner and best friend is crooked, Menzies attempts to defend Quinlan. Unable to reach Susan by phone, Vargas finally makes it to the motel to find the night clerk sitting in the dark and seemingly speechless with fear. To Vargas' horror, all that remains in Susan's room are the stench of marijuana smoke and the debris of a wild party. Meanwhile, Quinlan arrives at Grandi's hotel and enters the room where Susan lies unconscious, the smell of marijuana clinging to the clothing strewn about the floor. After forcing Grandi at gunpoint to telephone Menzies to report that he has found Vargas' wife surrounded by evidence of a drug party, Quinlan, who wants to ensure that he will not be a victim of blackmail, strangles Grandi with one of Susan's stockings. Soon after, Vargas, who has launched a desperate search for his wife, learns that Susan has been jailed on suspicion of drug use, prostitution and the murder of Grandi. Knowing that Quinlan is behind the frame-up and feeling helpless to stop him, Vargas explodes with rage, but Menzies takes him aside and reveals that he found Quinlan's cane at the murder scene. Although he is devastated by the fall of his idol, Menzies agrees to help Vargas amass more incontrovertible evidence of Quinlan's criminal activities and consents to being wired in the hopes that Quinlan will confess to his trusted partner. Quinlan, still on a binge, has holed up at Tanya's place where, in a drunken haze, he asks her to read his fortune. Tanya, however, sadly declares that his future is \"all used up\" and advises him to go home. As he reels out the door, Quinlan is confronted by Menzies, who begins asking questions about the Grandi murder while, nearby, Vargas records the conversation. As they walk toward a bridge spanning a murky canal, Menzies accuses Quinlan of betraying his loyalty by setting him up as the stooge who always found the planted evidence. The argument is interrupted when Quinlan hears the sound of their voices on Vargas' tape recorder and finally realizes that Menzies is wired. When Menzies tries to stop Quinlan from harming Vargas, who is clinging to the side of the bridge, Quinlan shoots him and then, in shock at what he has done, stumbles down to the canal to wash the blood from his hands. Vargas confronts Quinlan with the evidence he now has on tape, and Quinlan prepares to kill him so that he can pin the Menzies murder on him. However, Menzies, on the brink of death, manages to crawl to the edge of the bridge and shoot Quinlan. Schwartz arrives with Susan, who has been released from jail, and Vargas departs to take her home to Mexico City, knowing that he is leaving behind enough evidence to prove that Quinlan framed Susan, Sanchez and many others. Ironically, however, Sanchez has ended up confessing to the murder of Rudy Linnekar. Tanya arrives at the edge of the canal and gazing with Schwartz at Quinlan's large frame floating in the black water, she sadly remarks that Quinlan was \"some kind of a man.\"",
+      "writers": [
+         "Orson Welles",
+         "Whit Masterson"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0052311/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTY3NjIwMDY4M15BMl5BanBnXkFtZTgwODMwODgyMTE@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Charlton Heston, Orson Welles, Janet Leigh | See full cast and crew »"],
+      "reviews": [
+         "Seldom have I seen so many comments with so little understanding. The movie is not about Heston's \"Mexican-ness\" or lack of it. The movie is not about the 5 or 8 or 10 minute opening shot. The movie is not even, god help us, about Welles' descent from the heights into \"slumming it\" in a \"Grade B\" flick. The movie is about two things : film-making, and character. Every shot worth remembering (and there are few that aren't) is an exercise in the possibilities of film, particularly black and white film. Woody Allen makes movies in black and white that are all conversation. Welles made movies in black and white because that's where the colors of the characters, the location and ultimately the meaning of the movie are possible. Black and white film is about the infinite possibilities of shadow. Touch of Evil is about the infinite possibilities of human nature. Heston, for those of you who just can't see past a \"bad\" accent is about rigidity and short-sightedness. What kind of idiot would leave his wife in all those threatening situations? The kind of idiot who can't imagine that anyone would harm HIS wife, simply because she IS his wife! Akim Tamiroff's Grandi is about flexibility to the point of breakage. Always playing ALL ends against the middle he is the essence of \"harmless\" corruption, that ultimately harms everyone. And Welles' Hank Quinlan ... I just don't have the time or space to explain that Quinlan is about the true cost of police work when the humanity has gone out of it. Ultimately Quinlan would kill his best and only friend, the only one, as Dietrich has it, who really loves him. At one time, perhaps, Quinlan WAS the image that Pete Menzies saw. But the man behind that image was eaten up long ago with alcohol and frustrated grief. It's all about winning and losing now, and things he would never do. Until he does them. There are so many other moments and characters that I'm afraid you'll just have to watch the film with your eyes and your mind open instead of shut to \"get it\". Pay attention to what's on the screen instead of the smart, cynical, hip comments you can make about an actual work of heart. Well, what the hell. Joan Didion said it best. Film criticism is petit point on kleenex. Raoul Duke",
+         "There are only two ways to write a review that would truly do this film justice. Either one would have to write an exceedingly long review, or a short, concise one. I choose to do the latter. When I first saw \"Touch of Evil,\" I was glued to the chair. When I found out it was not Welles' definitive vision, I wondered how on earth it could have been made better. And when I saw the re-released version, I wondered why the studio altered it. The stunning black-and-white images, the intricate plot, and the powerful, engaging performances took a hold of my imagination. At times, I imagined myself on the street with the characters, because the atmosphere was so thick I felt surrounded in it. The actors all did an outstanding job, especially Leigh and Heston (who, although not thoroughly convincing as a Mexican, soared above his usual powerful, furious presence). This is Welles' picture, however, and whenever the camera catches his obese figure, you are fully aware of the man as a director and an actor. His powerful vision drives the film, from the single-cut opening sequence to the cat-and-mouse finale. I suggest watching the 1998 restored version over the original theatrical release, but regardless of which version, \"Touch of Evil\" will have you stuck in your seat, questioning your views of morality until long after the last credit has rolled up the screen.",
+         "Considered by many to be the last \"classic\" noir film ever made, and perhaps the last masterwork from child prodigy Orson Welles, who looks about sixty in this film, despite his 42 years. In TOUCH OF EVIL the \"noirish\" dark streets and shadows are darker than ever, practically swallowing up the soft tones like a murky swamp. The action takes place in a nondescript U.S./Mexico border town where the worst that both sides has to offer is most in evidence. The famous opening scene (a 3 1/2-minute continuous shot) where we witness a time bomb being placed in the trunk of a Cadillac is masterful. The camera pulls in and out of the city scene as it follows the motion of the vehicle winding its way through streets littered with pedestrians, thus effectively creating a level of anxiety that could not be duplicated with multiple edits. After the inevitable explosion, the drama dives into a seedy world of corrupt police justice and malevolent decrepitude, which is filmed with such a stylish flair, it is almost weirdly humorous and playful! Mike Vargas, the good guy, is played by Charlton Heston and seems more than a wee bit miscast as a Mexican narcotics officer with his face darkened by makeup. When U.S. Police Captain Hank Quinlan (Orson Welles) first meets him he remarks, \"He doesn't look Mexican.\" Quinlan is the ultimate repugnant cop gone bad and Welles has the camera looking up into his nostrils most of the time making his character look even more monstrous. But Quinlan is also pitifully sad. A man who once had the instincts of a cat and the intelligence of a fox has been reduced to an insignificant mass of tissue, who's \"instinct\" is having a knack for finding evidence that he himself has planted. And while he may be revered by the local officials in law enforcement, he's acutely aware that he is a fraud and petrified that Vargas, has seen him naked.",
+         "Rather than films like Citizen Kane (1941) and The Lady from Shanghai (1947), neither of which am I a big fan of, Touch of Evil evidences director/writer/star Orson Welles' capacity for cinematic genius. The story is engaging, suspenseful, tight and well paced; the cinematography is consistently beautiful, inventive and symbolic; the setting and overall tone of the film, including the performances, are captivating, yet slightly surreal and otherworldly; and there are many interesting subtexts. This all combines to create a complex artwork that will reward however far a viewer wishes to dig into the film. Based on a novel by Whit Masterson, Badge of Evil, Touch of Evil is a battle between two policemen--Hank Quinlan (Orson Welles) and Ramon Miguel Vargas (Charlton Heston). Parallel to this is a kind of border battle between the United States, represented by Quinlan, and Mexico, represented by Vargas; the film is set in two border towns, frequently crossing over. As Touch of Evil opens, we see a bomb being placed in the trunk of a car in Mexico. A construction company owner, Mr. Linnekar, gets in with his girlfriend. Vargas and his new wife, Susan (Janet Leigh), manage to walk along next to the car--they're all crossing the border into the United States. Shortly after crossing, the bomb goes off. This brings the gruff Quinlan into the picture. His investigation of the bombing brings him into Mexico for suspects. Meanwhile, Vargas and his wife are being threatened by Joe Grandi (Akim Tamiroff), a Mexican mob boss, and his underlings. Both Quinlan and Vargas are well respected in their countries, and both are used to getting what they want. But the bombing investigation ends up putting them at loggerheads, and Quinlan gradually turns out to have more than a \"touch of evil\". As with many of his films, Orson Welles ended up having to battle the studio to realize his artistic vision. Usually, as here, the battle was unsuccessful for him. Despite his 58-page memo detailing various problems with Universal's non-director supervised reshoots (by Harry Keller) and re-edits, because they felt that Welles' final cut \"could use some improvement\", the film was released in a form that was not satisfactory to Welles. The fiasco has resulted in various versions of Touch of Evil appearing throughout the years. The 58-page memo was thought to have been lost, but a copy was discovered relatively recently in Charlton Heston's possession. The film was recut in 1998 based on Welles' memo. So make sure that you watch the 111-minute version first released by Universal on DVD in 2000. The opening scene of Touch of Evil is famous, and rightfully so. Beginning with the timer being set on the bomb, then the bomb being placed in Linnekar's trunk before he gets into the car, we follow both the car and the relative ebb and flow of Vargases as they roughly walk alongside the car, all in one very long tracking shot that covers a lot of ground and features a lot of unusual angles. Welles stages the scene so that there are all kinds of complex background and foreground elements interacting with the car and our protagonist pedestrians. The suspense built up in this scene is incredible--you just know that bomb is going to go off, but you don't know just when, or who it is going to hurt. Compositionally, the scene is simply beautiful. The film is worth watching for this opening alone, but the whole of Touch of Evil features similar, meticulously planned artistry, filled with suspense. Welles as an actor tends to have a very peculiar way of speaking that is full of affectations. Sometimes this can be a detriment to the film, as it was in The Lady from Shanghai. Here, though, the oddity works, and this despite the fact that, like Woody Allen, he seems to direct his whole cast to deliver their dialogue as if they were him. As a result, Touch of Evil has very peculiar, contrapuntal scenes where people frequently talk on top of one another, with odd phrasing. It works because of the particular kinds of personality conflicts that Welles set up in the script. These are people who frequently _would_ talk on top of each other and occasionally not pay attention to each other. But that's not the only odd thing about the film. Welles managed to find locations that, shot in this highly stylized and cinematographically complex film-noir manner, seem almost otherworldly. Except for a couple expansive desert shots, Touch of Evil feels eerily claustrophobic, even though most locations aren't exactly enclosed. The various modes and settings are all perfect for their dramatic material, which is mostly dark and moody. One change that Universal made was the excision of a lot of comic relief material featuring the Grandi family. Universal was right to cut it, and wisely, Welles agreed. The music in the film is also extremely effective but unusual. Most of it is incidental. Latin and rock 'n' roll emanates from radios, for example, and the climax intermittently has a repeating, contextually haunting theme from a pianola. But of course the story is just as important. Although Welles stated hyperbolically at various points that he was trying to \"infuriate\" the audience with a somewhat inscrutable plot, and it's true that the plot isn't exactly given in a straightforward manner, once you figure out the gist, it's relatively simple but extremely captivating. At the same time, it is full of symbolism and subtexts, including commentary on justice systems and perhaps some irony about the popular conceptions of the U.S. versus Mexico (made more complex by the fact that Quinlan spends just as much time south of the border and Vargas seems to spend a lot of time north). But as for being annoyed, you're more likely to become infuriated with Quinlan, who becomes more and more deliciously despicable as the film unfolds.",
+         "Here is a film that wouldn't be made today because nobody makes 'B' movies anymore; and this is the greatest 'B' movie in the history of cinema. Here is the perfect example of why Orson Welles should be considered a genius. He has made this film look so effortlessly easy that it could almost be considered film making by numbers. From the famous opening sequence to the closing titles, this is the film students' reference book. Welles portrayal of the bloated cop Hank Quinlan is only bettered by his Harry Lime in 'The Third Man'. He gets right inside the seedy, corrupt Quinlan; but still leaves room for just the lightest touch sympathy because we know that, after all, he's a fallible human like all of us. We almost feel sad at his fate especially when Marlene Dietrich gives her sad soliliquay about him. This is another film that can only exist in black and white, and begs the question, why can't directors work effectively in this medium today? Some have tried but none have have really suceeded. David Lynch's Eraserhead is probably the best modern example of a black and white only film. Woody Allen's Manhattan tries hard but ends up looking too much like a documentary. I don't think that directors today use this medium enough, too many rely on colour and the efffects that can only work in colour to get them out of trouble. So put A Touch Of Evil on your 'must see' list and enjoy a work of film making artistry.",
+         "Orson Welles' \"Touch of Evil\" is a complex, ironic examination of the relationship between the law and justice... The film must stand beside the very best in detectives genre... Its enormous confused tracking shots, its low angles, its tormented lighting, its obscure intelligent photography, its great use of the wide-angle lens, its hard complexity and complete fictional night-city word, all represent a brilliant essay of pure cinema establishing Welles as an alarming genius, one of the greatest filmmakers with movies years ahead of their time... \"Touch of Evil\" is an outstanding achievement of a great cinematic mind, displaying a powerful range of Gothic expressionism... Welles' first appearance as a corrupt used-up Texas police captain (Hank Quinlan) is no less surprising... A police car comes to a stop to the scene of a murder and unexpectedly there is Welles, sitting in the back seat: gross, unshaven, sweaty, and with a cigar clenched between his teeth... He seems a repellent person, with \"intuition,\" manifesting that sensation of evil, as no crime movie has managed to do since, a suggestion of corruption that is the key to the fascinating and doubtful character he plays... Welles character will cheat, lie and murder in order to prevent the truth from emerging... One hates his toughness, yet one still understands him and feels pity for him than for his victims... Joseph Calleia, his slightly more presentable assistant, is like Dana Andrews in Otto Preminger's \"Where the Sidewalks Ends,\" a villain with unchanged methods: he waits, watches, leaves the police work to others, remains loyal to his profession and to his boss\u0097but could not exist without him, or in another environment... From that moment, we are caught between admiration of his brilliant directorial effects and fascination with his characterization of Quilan, a chief able to make a quick arrest by the simple expedient of framing the most likely suspects... He appears to have been using the techniques for years, but before this he has usually fitted the frame round the guilty party... It is a performance which frequently gives great energy to the screen... Stanley Kubrick once said that the first shot of a movie should be the most captivating... Definitely, Welles' legendary opening shot satisfies one of the key requirements of the movie mystery... Of course, Russ Metty deserves a lot of credit... The long traveling shot starts with a close-up of a time-bomb being placed in the trunk of a car by a shadowy figure, then, the richest man in town (Rudy Lanniker) and his mistress appearing from the background, getting into the car and driving away across the border from Mexico to the United States and through the border town... By this time the roving camera\u0097that seems never to come to a standstill, has offered to us long view of the surroundings (crumbling arches, peeling walls, poor hotels and night clubs and a lot of trash) which will enclose the plot... While the convertible stops at a crossroad, the camera descends swiftly to introduce a Mexican gentleman, an idealistic justice department lawyer Ramon Vargas (Charlton Heston) and his bride, the blonde American Susan (Janet Leigh) walking toward the frontier... The superlative camera tracks the couple for some time, catching again the car as both Vargas and the automobile meet at the U.S. Customs post... We see and hear a conversation between Vargas, his wife and the border guard as the vehicle moves out of the frame... We proceed with the couple about to cross the border until the bomb goes off and the car explodes... The killing is the start of the conflict between policemen from both sides of the border... \"Touch of Evil\" is great and memorable for the distinguished description of its scenes, its images, its acting and its sound track... Its importance lies entirely in how the event is told 'not' in the message or material... In addition to its wonderful opening, the film contains other outstanding sequences: - The deplorable ambiance of a closed nightclub where Marlene Dietrich wisely advises Welles to \"lay off the candy bars.\" \"Honey, you're a mess\", she says when she finally recognizes Quinlan, and (at the end of the picture) when he asks \"Come on, read my future for me,\" she replies: \"You haven't got any. Your future is all used up. Why you don't go home.\" - The single shot (in the murder suspect's apartment) where Welles handles his cast with great skill... There is much overlapping conversation as everyone talks at once, and half a dozen characters are brilliantly delineated... - When the camera meets a group of three characters crossing the street across a hotel lobby and into a restricted elevator, and rides with them slowly up to the second floor until Vargas, who has left them in the lobby, reappears at the very moment the elevator door reopens... - The horrifying siege of Leigh at the isolated Mirador Motel by a gang of young punks... Perhaps the finest things about \"Touch of Evil\" is the cold, strange and unsympathetic atmosphere of its night city (narcotics, gang-rape, racism, prostitution) an almost universal corruption... It's unlikely that there will ever be a more unpleasant or offensive or disgusting detective than Welles or a more fascinating one... Watch for Mercedes McCambridge in it... but look quickly, or it will be too late.",
+         "Touch of Evil has, perhaps, the BEST cinematography and lighting in ANY film ever made. Not just in the film noir genre, but in all categories. Orson Welles tended to use wide shots for all of his films, and Touch of Evil's use of wide shots took filmmaking to another level, especially with the amazing opening shot. The camera techniques and lighting are too spectacular to fathom, it is the grandmaster of all movies. Brilliant is an understatement. See this film, if not for the excellent acting and sheer brilliance in terms of the camera (this film had a GREAT D.P.!!), but for entertainment value. But if you are a film student or just want to see great camera work, Touch of Evil will astonish you.",
+         "Orson Welles made this film over 15 years after \"Citizen Kane\", but even though it doesn't reach the level of \"Kane\", he never lost his genius touch. With a basic story and regular budget he made the most famous B-film ever. His majesty in the camera control and the editing jump out of the screen. His director geniality is seen through the outstanding performances by great actors like himself, Janet Leigh and Marlene Dietricht, and actors not that great, like Charlton Heston. Several lines of this motion picture are amongst the greatest of all times, specially the Dietrich ones. The credits scene, that runs uncut for about 3 minutes, is one of the greatest moments in the film history, along with the pianola tune at Tanya's place. Some might say that \"Touch of Evil\" is banal and boring, but these are the people that don't like real motion pictures, and we all know that, so we don't care about them.",
+         "The genius of Orson Welles (and I am only convinced of his genius and that of Eisenstein and Griffith, though I have seen thousands of movies) was so amazing that one could easily see in the reviews on the IMDb that mostly everybody got the right idea about Touch of Evil. It is almost impossible not to SEE what Welles intended to be seen in this picture, the differences of opinion come afterwards and have nothing do do with the movie itself but with the way we interpret it. We have to keep in mind that Heston himself, who was the damn actor playing the leading role had no idea what he was actually doing in here, just as Anthony Perkins will be clueless to the meaning of his role in The Trial four years later. It is obvious for everybody that the movie has style, but few understand the meaning of that style. It is not only the noirish cinematography (partially invented by Welles-Tolland in Citizen Kane) and the overall movement of the camera and the brilliant lighting and everything that means cinema that gives this picture style, but the fact that it is aware of its being the last of the mohicans, the last of the noir genre. This awareness gives a new depth to the movie that other B-flicks never had. The customary recipe with a noir movie was a gullible guy, falls for pretty, dangerous woman with a dangerous husband or boyfriend, a crime is committed and the gullible guy gets the fall. This is a story about the appearance of things not being their essence, and every noir movie shared something from this. Touch of Evil is all about this: yes, for all you frustrated Heston-haters, he was suppose to be a parody of a Mexican, just as Welles was supposed to be both a parody of his Harry Lime character and a parody of himself. And Marlene is a German actress speaking English, playing a Mexican gypsy saying \"Adios\" at the end. Akim Tamiroff is a Georgian playing a Mexican etc. etc. There are also the apparently transsexual...fellows at the motel. Everything is fakery in this picture and I think that this should be looked upon in the same analytic vein as we look at movies such as Alphaville or A bout de soufle. Nobody thinks Godard intended a sci-fi or a noir with those movies, then why should we think that Welles intended a noir with this one? Is it simply because the story seems to unravel in the usual noir way? I agree that the story is not so convincing if you look at it only at the surface. Any story from any noir movie more or less is filled with holes and loose ends. The main intent of those movies was never to create a perfect, novel-like story, but a cinematic account of what a story could be. Touch of Evil is one of the most cinematic movie you will ever see. Every shot is composed with a perfect understanding of what the medium can do, and in this category I think it is only matched by Welles' own Othello in the use of architecture in order to achieve a sense of space within the frame. Look at the way the shadows are projected on the walls and at the relative proportions of the characters. It is clear to the fullest that the movie develops in space and time, a conscience alone for which this movie deserves praise .",
+         "After sitting through almost 40 minutes of this unwatchable film, I just had to turn it off. The acting was poor, the screenplay was disjointed, and the storyline was illogical. Some examples: Charlton Heston is supposed to be a Mexican. They give him a Cisco Kid mustache but his accent is from Iowa. His new bride, Janet Leigh, and he are on their honeymoon in Tijuana. If you are taking Janet Leigh on a honeymoon, there are certainly much better places to take her than a scruffy border town. But catch more of this logic. Heston is a law officer in Mexico who is pursuing a drug gang. Right at the border, near where they are walking, a bomb blows up a convertible with two people inside. Heston is with his wife. Logic says that he would assume that this is a dangerous place, not only for him but his wife. But that does not stop him. He tells her to go by herself back to the fleabag hotel where they have chosen to spend their honeymoon. On the way, she is accosted by a bunch of toughs who say that they have a message for her husband. And she follows them! Later on, she is undressing in her hotel room, which has no shades and someone shines a flashlight on her from a window across the street. After she covers up, what does she do? Does she turn the light off in her room? Does she call the management? No, she climbs up and unscrews the hot light bulb in her room, (without a tinge of pain) and throws it across the street into the window where the light came from and she hits a bullseye. (Try throwing a light bulb once. It's like throwing a ping-pong ball.) Later Heston can't seem to find another hotel in the town so the takes her to a fleabag motel in the boondocks, where she is the only guest. (I half expected it to be the Bates Motel). She lounges around the room in a bustier, while a gang of toughs in hot cars arrive. She shows absolutely no fear or trepidation at this turn of events. Meanwhile, her husband still does not seem concerned over her safety, even though the motel is owned by the drug gang chief. At the point I turned it off, Heston was holding a meeting with a few American cops and takes them to his hotel room, which looked perfectly fine. Why then is she in the boondocks? Note that there are pointless cameos of Marlene Dietrich and Eva Gabor and even Dennis Weaver whose acting consists of looking back and forth nervously behind a set of overly large glasses. For those of you who view this film positively, you must have watched a different movie than the one I watched."
+      ],
+      "genres": [
+         "Crime",
+         "Film-Noir",
+         "Thriller"
+      ],
+      "productionCompanies": ["Universal International Pictures (UI)"],
+      "summaries": [
+         "Mexican Narcotics officer Ramon Miguel 'Mike' Vargas has to interrupt his honeymoon on the Mexican-US border when an American building contractor is killed after someone places a bomb in his car. He's killed on the US side of the border but it's clear that the bomb was planted on the Mexican side. As a result, Vargas delays his return to Mexico City where he has been mounting a case against the Grandi family crime and narcotics syndicate. Police Captain Hank Quinlan is in charge on the US side and he soon has a suspect, a Mexican named Manolo Sanchez. Vargas is soon onto Quinlan and his Sergeant, Pete Menzies, when he catches them planting evidence to convict Sanchez. With his new American wife, Susie, safely tucked away in a hotel on the US side of the border - or so he thinks - he starts to review Quinlan's earlier cases. While concentrating on the corrupt policeman however, the Grandis have their own plans for Vargas and they start with his wife Susie.",
+         "An automobile is blown up as it crosses the Mexican border into the United States. Mike Vargas, a high ranking Mexican narcotics official on honeymoon with his bride, Susie, is drawn into the investigation because a Mexican national has been accused of the crime. The figurative and physical presence of Hank Quinlan as the 330 pound sheriff looms all over. Quinlan is a fanatic where \"justice\" is concerned, even if obtaining it involves planting evidence. Quinlan's reputation for law and order enables him to bend the law without question until Vargas confronts him. From that point on, it's a battle of wits between the two that, with an accelerating pace, rushes to a climax.",
+         "Mexico's chief narcotics officer, Mike Vargas, is in a border town on a quick honeymoon with his American wife. Soon he must testify against Grandi, a drug lord whose brother and sons are tracking him, hoping to scare his wife and back him off the case. When a car bomb kills a rich U.S. developer, Vargas embroils himself in the investigation, putting his wife in harm's way. After Vargas catches local legendary U.S. cop, Hank Quinlan, planting evidence against a Mexican national suspected in the bombing, Quinlan joins forces with the Grandi family to impugn Vargas's character. Local political lackeys, a hard-edged whore, pachucos, and a nervous motel clerk also figure in the plot.",
+         "After crossing the border of Mexico to the United States of America, a bomb planted in the car of the wealthy businessman Rudy Linneker blows up in Los Robles. The Mexican Chief of Narcotics, Miguel Vargas, is spending his honeymoon with his American wife, Susan Vargas, in the border town. He is to testify in the case of the drug dealer Grandi, arrested in Mexico City. The idolized ex-alcoholic American Police Captain, Hank Quinlan, is in charge of the investigation as the murder happened on the American side of the border. However, Mike Vargas participates as observer because he finds out that the Mexican citizen Sanchez is the prime suspect. Meanwhile, Uncle Joe Grandi unsuccessfully presses Susie, trying to convince her husband to drop the case. When Hank plants dynamites in the house of Sanchez in a shoe box that Vargas had seen empty ten minutes before, he confronts Hanks.",
+         "A stark, perverse story of murder, kidnapping, and police corruption in a Mexican border town."
+      ],
+      "budget": 829000
+   },
+   "movielensId": 1248,
+   "movielens": {
+      "languages": [
+         "English",
+         "Español"
+      ],
+      "releaseDate": "1958-04-23",
+      "dvdReleaseDate": "2000-10-31",
+      "directors": ["Orson Welles"],
+      "runtime": 95,
+      "movieId": 1248,
+      "title": "Touch of Evil",
+      "mpaa": "PG-13",
+      "actors": [
+         "Charlton Heston",
+         "Janet Leigh",
+         "Orson Welles",
+         "Joseph Calleia",
+         "Akim Tamiroff",
+         "Joanna Moore",
+         "Ray Collins",
+         "Dennis Weaver",
+         "Valentin de Vargas",
+         "Mort Mills",
+         "Victor Millan",
+         "Lalo Rios",
+         "Michael Sargent",
+         "Joi Lansing",
+         "Harry Shannon",
+         "Marlene Dietrich",
+         "Zsa Zsa Gábor",
+         "Joseph Cotten",
+         "Billy House",
+         "Mercedes McCambridge",
+         "Dan White",
+         "Keenan Wynn",
+         "Phil Harvey",
+         "John Dierkes",
+         "Arlene McQuade",
+         "Ken Miller",
+         "Wayne Taylor",
+         "Gus Schilling",
+         "William Tannen",
+         "Rusty Wescoatt",
+         "Eva Gabor"
+      ],
+      "imdbMovieId": "0052311",
+      "originalTitle": "Touch of Evil",
+      "genres": [
+         "Drama",
+         "Thriller",
+         "Crime"
+      ],
+      "youtubeTrailerIds": [
+         "qarsXV_d4cA",
+         "UiVLwYnFF9o",
+         "fmYsBZTkFzo",
+         "gFCaDFAKNlk"
+      ],
+      "plotSummary": "Stark, perverse story of murder, kidnapping, and police corruption in Mexican border town.",
+      "tmdbMovieId": 1480,
+      "avgRating": 4.15471,
+      "releaseYear": "1958",
+      "numRatings": 5284,
+      "posterPath": "/4fkBpBB461nZhee5vb8uVsiBAQM.jpg"
+   }
+}

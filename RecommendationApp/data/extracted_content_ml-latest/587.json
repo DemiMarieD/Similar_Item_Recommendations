@@ -1,0 +1,914 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "corruption",
+            "id": 417
+         },
+         {
+            "name": "fortune teller",
+            "id": 663
+         },
+         {
+            "name": "money transfer",
+            "id": 881
+         },
+         {
+            "name": "money laundering",
+            "id": 975
+         },
+         {
+            "name": "pottery",
+            "id": 1553
+         },
+         {
+            "name": "afterlife",
+            "id": 6155
+         },
+         {
+            "name": "spiritism",
+            "id": 210530
+         }
+      ],
+      "imdb_id": "tt0099653",
+      "video": false,
+      "title": "Ghost",
+      "recommendations": [
+         88,
+         114,
+         619,
+         3981,
+         9494,
+         2005,
+         402,
+         8367,
+         9493,
+         664,
+         9602,
+         788,
+         9889,
+         951,
+         1844,
+         2280,
+         9489,
+         9354,
+         1885,
+         795
+      ],
+      "backdrop_path": "/rgyMubnjg883VdJUKKwASijyAFc.jpg",
+      "revenue": 505000000,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "Sam Wheat",
+               "gender": 2,
+               "credit_id": "52fe422dc3a36847f8009f2f",
+               "name": "Patrick Swayze",
+               "profile_path": "/b5G8AGP609DsUeokQ1asnqYJBSl.jpg",
+               "id": 723,
+               "order": 0
+            },
+            {
+               "cast_id": 3,
+               "character": "Molly Jensen",
+               "gender": 1,
+               "credit_id": "52fe422dc3a36847f8009f33",
+               "name": "Demi Moore",
+               "profile_path": "/eLNoOYnxvhpV0BMSkNNnyyo5In7.jpg",
+               "id": 3416,
+               "order": 1
+            },
+            {
+               "cast_id": 26,
+               "character": "Oda Mae Brown",
+               "gender": 1,
+               "credit_id": "52fe422dc3a36847f8009fa3",
+               "name": "Whoopi Goldberg",
+               "profile_path": "/n3lF8w4X4rDa4J2LMDIxMEcuUeH.jpg",
+               "id": 2395,
+               "order": 2
+            },
+            {
+               "cast_id": 25,
+               "character": "Carl Bruner",
+               "gender": 2,
+               "credit_id": "52fe422dc3a36847f8009f9f",
+               "name": "Tony Goldwyn",
+               "profile_path": "/asV7pfeMIzT8GFdA2gqBjAPGd6l.jpg",
+               "id": 3417,
+               "order": 3
+            },
+            {
+               "cast_id": 4,
+               "character": "Subway Ghost",
+               "gender": 2,
+               "credit_id": "52fe422dc3a36847f8009f37",
+               "name": "Vincent Schiavelli",
+               "profile_path": "/q2fEosVlli2T8k5db7c7xueNTtc.jpg",
+               "id": 3418,
+               "order": 4
+            },
+            {
+               "cast_id": 7,
+               "character": "Oda Mae's Sister",
+               "gender": 1,
+               "credit_id": "52fe422dc3a36847f8009f43",
+               "name": "Gail Boggs",
+               "profile_path": "/5tpQ49LOdPrNuA6EiE70qS7QVuo.jpg",
+               "id": 3422,
+               "order": 5
+            },
+            {
+               "cast_id": 8,
+               "character": "Police Sgt.",
+               "gender": 2,
+               "credit_id": "52fe422dc3a36847f8009f47",
+               "name": "Stephen Root",
+               "profile_path": "/sceCvLiv8xe2jQzrVn39wvosVHG.jpg",
+               "id": 17401,
+               "order": 6
+            },
+            {
+               "cast_id": 22,
+               "character": "Willie Lopez",
+               "gender": 2,
+               "credit_id": "52fe422dc3a36847f8009f93",
+               "name": "Rick Aviles",
+               "profile_path": "/p4do7d8TKPbdQ2IkF5vx8uHLh93.jpg",
+               "id": 3432,
+               "order": 7
+            },
+            {
+               "cast_id": 5,
+               "character": "Ortisha",
+               "gender": 1,
+               "credit_id": "52fe422dc3a36847f8009f3b",
+               "name": "Vivian Bonnell",
+               "profile_path": null,
+               "id": 3419,
+               "order": 8
+            },
+            {
+               "cast_id": 6,
+               "character": "Oda Mae's Sister",
+               "gender": 1,
+               "credit_id": "52fe422dc3a36847f8009f3f",
+               "name": "Armelia McQueen",
+               "profile_path": null,
+               "id": 3420,
+               "order": 9
+            },
+            {
+               "cast_id": 9,
+               "character": "Rosa Santiago",
+               "gender": 1,
+               "credit_id": "52fe422dc3a36847f8009f4b",
+               "name": "Angelina Estrada",
+               "profile_path": null,
+               "id": 3424,
+               "order": 10
+            },
+            {
+               "cast_id": 10,
+               "character": "Orlando",
+               "gender": 0,
+               "credit_id": "52fe422dc3a36847f8009f4f",
+               "name": "Augie Blunt",
+               "profile_path": null,
+               "id": 3425,
+               "order": 11
+            },
+            {
+               "cast_id": 23,
+               "character": "Emergency Room Ghost",
+               "gender": 2,
+               "credit_id": "52fe422dc3a36847f8009f97",
+               "name": "Phil Leeds",
+               "profile_path": null,
+               "id": 3433,
+               "order": 12
+            },
+            {
+               "cast_id": 24,
+               "character": "Woman Ghost",
+               "gender": 1,
+               "credit_id": "52fe422dc3a36847f8009f9b",
+               "name": "Alma Beltran",
+               "profile_path": "/ys4ubykPT4gX29b0ZCjG99aOM9B.jpg",
+               "id": 3434,
+               "order": 13
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe422dc3a36847f8009f2b",
+               "name": "Jerry Zucker",
+               "profile_path": "/n2iX1gJyOxImJie2LTORZNKM9n9.jpg",
+               "id": 3415,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe422dc3a36847f8009f59",
+               "name": "Lisa Weinstein",
+               "profile_path": null,
+               "id": 3427,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe422dc3a36847f8009f5f",
+               "name": "Howard W. Koch",
+               "profile_path": "/ocnNi4vGIENHuQFzv2ecoLjP9pB.jpg",
+               "id": 3428,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe422dc3a36847f8009f65",
+               "name": "Maurice Jarre",
+               "profile_path": "/yJDDi7RKlxHjb7g8NZTEhnS4drG.jpg",
+               "id": 2704,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe422dc3a36847f8009f6b",
+               "name": "Adam Greenberg",
+               "profile_path": "/te3aqArBCPkza8DeJpDx0Rncen8.jpg",
+               "id": 2723,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe422dc3a36847f8009f71",
+               "name": "Janet Hirshenson",
+               "profile_path": null,
+               "id": 2874,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe422dc3a36847f8009f77",
+               "name": "Jane Jenkins",
+               "profile_path": "/aVOlC6UkKaxZpzvpdRxCjkMtJHI.jpg",
+               "id": 3275,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe422dc3a36847f8009f7d",
+               "name": "Jane Musky",
+               "profile_path": null,
+               "id": 3429,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe422dc3a36847f8009f83",
+               "name": "Clayton Collins",
+               "profile_path": null,
+               "id": 3430,
+               "department": "Sound",
+               "job": "Sound Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe422dc3a36847f8009f89",
+               "name": "Walter Murch",
+               "profile_path": "/7ZUPk0aT7IBm4xPeILzm8dUrl48.jpg",
+               "id": 154,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe422dc3a36847f8009f8f",
+               "name": "Bruce Joel Rubin",
+               "profile_path": "/jgSFvY1hTFONlIkbfGHHnH6DW50.jpg",
+               "id": 3431,
+               "department": "Writing",
+               "job": "Author"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5333f448c3a3682abb001aea",
+               "name": "Ruth Morley",
+               "profile_path": null,
+               "id": 1051,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "552a81a6c3a3683e5200305a",
+               "name": "Mark W. Mansbridge",
+               "profile_path": null,
+               "id": 21070,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "552a81bbc3a36858d6003799",
+               "name": "Joe D. Mitchell",
+               "profile_path": null,
+               "id": 16615,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "552a81f1925141323600239e",
+               "name": "Julia L. Walker",
+               "profile_path": null,
+               "id": 1453274,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "552a821892514111d60048e4",
+               "name": "Dione Taylor",
+               "profile_path": null,
+               "id": 83067,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "552a822fc3a3683e52003065",
+               "name": "Ben Nye Jr.",
+               "profile_path": null,
+               "id": 30391,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "552a824bc3a3683e5200306a",
+               "name": "Marietta Carter-Narcisse",
+               "profile_path": null,
+               "id": 9775,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "552a8270925141265f001988",
+               "name": "Kyle Sweet",
+               "profile_path": null,
+               "id": 1315648,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "552a82c092514111d60048f6",
+               "name": "Butch West",
+               "profile_path": null,
+               "id": 1453276,
+               "department": "Art",
+               "job": "Construction Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "552a82d8c3a3683e52003077",
+               "name": "Horst Grandt",
+               "profile_path": null,
+               "id": 1453277,
+               "department": "Crew",
+               "job": "Property Master"
+            },
+            {
+               "gender": 2,
+               "credit_id": "552a82f3c3a36858d60037c0",
+               "name": "Thomas Saccio",
+               "profile_path": null,
+               "id": 1380036,
+               "department": "Crew",
+               "job": "Property Master"
+            },
+            {
+               "gender": 0,
+               "credit_id": "552a830dc3a3681f5c0043cc",
+               "name": "Gary Kudroff",
+               "profile_path": null,
+               "id": 1453278,
+               "department": "Art",
+               "job": "Leadman"
+            },
+            {
+               "gender": 2,
+               "credit_id": "552a8328925141074b0035ea",
+               "name": "Stan Tropp",
+               "profile_path": null,
+               "id": 1378751,
+               "department": "Art",
+               "job": "Set Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "552a838292514132360023d5",
+               "name": "Gary Ritchie",
+               "profile_path": null,
+               "id": 1453281,
+               "department": "Crew",
+               "job": "Sound Recordist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "552a839b92514132360023db",
+               "name": "Kathy McCart",
+               "profile_path": null,
+               "id": 1453282,
+               "department": "Crew",
+               "job": "Sound Recordist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "552a83b8925141265f0019b3",
+               "name": "Ken Dufva",
+               "profile_path": null,
+               "id": 1341855,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "552a83ccc3a36859cf004197",
+               "name": "David Lee Fein",
+               "profile_path": null,
+               "id": 1170025,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 1,
+               "credit_id": "552a83eec3a36859cf00419c",
+               "name": "Lee Haxall",
+               "profile_path": null,
+               "id": 10394,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "552a84049251414b79003cf5",
+               "name": "Michael Magill",
+               "profile_path": null,
+               "id": 1341405,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "552a846492514111d6004929",
+               "name": "Steve Maslow",
+               "profile_path": null,
+               "id": 928942,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "552a84789251410876003616",
+               "name": "Walter Murch",
+               "profile_path": "/7ZUPk0aT7IBm4xPeILzm8dUrl48.jpg",
+               "id": 154,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "552a848ec3a3681f56004a74",
+               "name": "Leslie Shatz",
+               "profile_path": null,
+               "id": 56765,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "552a84a5c3a36858d60037df",
+               "name": "Douglas Greenfield",
+               "profile_path": null,
+               "id": 1424127,
+               "department": "Sound",
+               "job": "Dolby Consultant"
+            },
+            {
+               "gender": 0,
+               "credit_id": "552a8510925141074b00362a",
+               "name": "Jeff Howard",
+               "profile_path": null,
+               "id": 1453284,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "552a85259251414b79003d15",
+               "name": "Candace Lewis",
+               "profile_path": null,
+               "id": 1453285,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "552a85389251413236002408",
+               "name": "Martine Tomczyk",
+               "profile_path": null,
+               "id": 1453286,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 2,
+               "credit_id": "552a8599c3a36830d4000636",
+               "name": "Anthony Stacchi",
+               "profile_path": "/w4xXHA8eG9HIQFw3YXprZqggV4N.jpg",
+               "id": 52691,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "552a85c9925141265f0019fd",
+               "name": "Sean Turner",
+               "profile_path": null,
+               "id": 1453288,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "552a860e925141087600363b",
+               "name": "Judith Weaver",
+               "profile_path": null,
+               "id": 1453289,
+               "department": "Visual Effects",
+               "job": "Animation Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "552a863b92514101f6003add",
+               "name": "Doug Chiang",
+               "profile_path": null,
+               "id": 23782,
+               "department": "Crew",
+               "job": "Visual Effects Art Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "552a86ab92514111d600496f",
+               "name": "Charlie Clavadetscher",
+               "profile_path": null,
+               "id": 1453291,
+               "department": "Visual Effects",
+               "job": "Animation Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "552a86d9c3a36859cf0041fc",
+               "name": "Michael Gleason",
+               "profile_path": null,
+               "id": 1401105,
+               "department": "Crew",
+               "job": "Visual Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "552a86f1c3a3683e520030e3",
+               "name": "Ned Gorman",
+               "profile_path": null,
+               "id": 1395262,
+               "department": "Visual Effects",
+               "job": "Visual Effects Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "552a872792514101f6003af9",
+               "name": "John T. Van Vliet",
+               "profile_path": null,
+               "id": 1400820,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "552a873d925141265f001a23",
+               "name": "Howard Stein",
+               "profile_path": null,
+               "id": 1453296,
+               "department": "Crew",
+               "job": "Visual Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "552a876bc3a36858d6003829",
+               "name": "Richard Edlund",
+               "profile_path": null,
+               "id": 21548,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "552a878c92514111d600498b",
+               "name": "Katherine Kean",
+               "profile_path": null,
+               "id": 1445981,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "552a87aac3a3681f56004ada",
+               "name": "Bruce Nicholson",
+               "profile_path": null,
+               "id": 1400561,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "552a880ec3a36858d600383b",
+               "name": "Charlie Picerni",
+               "profile_path": "/kRO5tGbhZOPnUH46keu01i5UYd.jpg",
+               "id": 91243,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "552a88389251410876003697",
+               "name": "Mike Benson",
+               "profile_path": null,
+               "id": 65238,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "552a8859925141074b003695",
+               "name": "Cary Fisher",
+               "profile_path": null,
+               "id": 1453308,
+               "department": "Crew",
+               "job": "Second Unit Cinematographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "552a887292514121d60011d7",
+               "name": "Elizabeth Ziegler",
+               "profile_path": null,
+               "id": 1397731,
+               "department": "Camera",
+               "job": "Steadicam Operator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "552a888792514111d60049ac",
+               "name": "Peter Sorel",
+               "profile_path": null,
+               "id": 1411293,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "552a889e92514121d60011df",
+               "name": "Deven Chierighino",
+               "profile_path": null,
+               "id": 1425842,
+               "department": "Lighting",
+               "job": "Gaffer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "552a88c192514121d60011e3",
+               "name": "Dawn J. Jackson",
+               "profile_path": null,
+               "id": 1453316,
+               "department": "Costume & Make-Up",
+               "job": "Costume Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "552a892c925141265f001a71",
+               "name": "Gene R. Johnson",
+               "profile_path": null,
+               "id": 1453318,
+               "department": "Crew",
+               "job": "Transportation Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "552a8942c3a3681f56004b11",
+               "name": "Faye Brenner",
+               "profile_path": null,
+               "id": 1453319,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "552a895dc3a368565f003877",
+               "name": "Eric Klosterman",
+               "profile_path": null,
+               "id": 1453320,
+               "department": "Production",
+               "job": "Location Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "552a897592514111d60049ce",
+               "name": "Patti Hawn",
+               "profile_path": null,
+               "id": 1453321,
+               "department": "Crew",
+               "job": "Unit Publicist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58433c2d9251416ae5001a91",
+               "name": "Gary Davis",
+               "profile_path": null,
+               "id": 93887,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Fantasy",
+            "id": 14
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         },
+         {
+            "name": "Mystery",
+            "id": 9648
+         },
+         {
+            "name": "Romance",
+            "id": 10749
+         }
+      ],
+      "popularity": 27.419898,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 251,
+      "vote_count": 1863,
+      "budget": 22000000,
+      "overview": "Sam Wheat is a banker, Molly Jensen is an artist, and the two are madly in love. However, when Sam is murdered by his friend and corrupt business partner Carl Bruner over a shady business deal, he is left to roam the earth as a powerless spirit. When he learns of Carl's betrayal, Sam must seek the help of psychic Oda Mae Brown to set things right and protect Molly from Carl and his goons.",
+      "similar": [
+         12159,
+         4771,
+         3580,
+         1266,
+         9631,
+         11423,
+         193893,
+         1586,
+         1949,
+         101,
+         75780,
+         137094,
+         275,
+         281,
+         745,
+         3597,
+         7007,
+         26390,
+         2142,
+         2048
+      ],
+      "original_title": "Ghost",
+      "runtime": 127,
+      "poster_path": "/rtxy3cplRFPUvruZajpcoxOQ7bi.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
+         "name": "Paramount",
+         "id": 4,
+         "origin_country": "US"
+      }],
+      "release_date": "1990-07-12",
+      "vote_average": 6.9,
+      "belongs_to_collection": null,
+      "tagline": "A love that will last forever.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Jerry Zucker"],
+      "runtime": 127,
+      "synopsis": "Sam Wheat (Patrick Swayze), a banker, and Molly Jensen (Demi Moore), a talented potter, are a loving couple who move into a New York City apartment. At work, Sam discovers discrepancies in some bank accounts and confides in his good friend and colleague, Carl Bruner (Tony Goldwyn). Carl offers to investigate the matter, but Sam decides to investigate himself. Soon afterward, Sam and Molly are attacked by armed thug Willy Lopez (Rick Aviles), after leaving a theater and Sam is killed by a gunshot in an ensuing fight with Willy. Sam's ghost arises from the dead body next to the distraught Molly and he gradually realizes that he is a ghost whose presence cannot be seen or heard. Sam meets Oda Mae Brown (Whoopi Goldberg), a con-artist posing as a medium and realizes she can hear him, although Oda Mae had been faking her abilities until then. Oda Mae is persuaded by Sam to tell Molly that she is in danger because Willy still has his wallet containing their address, but Molly is still in shock and will not believe Oda Mae. Carl convinces Molly that Oda Mae is a fraud. Sam discovers that Carl was involved in a money laundering scheme at the bank and that the attack was an attempt by Carl to acquire Sam's security codes. Molly remains unconvinced by Oda Mae's messages and even talks to the Police, but they inform her that Oda Mae is a known confidence trickster. Sam learns from an aggressive New York City subway poltergeist (Vincent Schiavelli) how to master the skill of moving solid objects by his mental powers alone. He persuades Oda Mae to thwart Carl's money laundering scheme by impersonating the owner of Carl's fake bank account. With Sam sitting next to her unseen, she withdraws the balance and closes the account, donating the amount ($4 million) to a homeless shelter. Carl is desperate when he cannot access the fake bank account which is now closed. He learns that Oda Mae closed the account and declares that if the money is not returned, he will kill Molly. Sam catches Willy in Oda Mae's apartment and physically attacks him. Terror-stricken, Willy attempts to escape from Sam but is killed in a traffic accident. Willy's ghost arises, only to be grabbed by a group of howling demons and pulled into the shadows, presumably to Hell. Afterwards, Sam and Oda Mae return to Molly's apartment to warn her about Carl, but she refuses to let her in and breaks down in grief. Sam enters the apartment and tells Ode Mae to push a penny under the front door, which Sam lifts into the air in front of Molly. Astonished, she finally realizes the truth and lets Ode Mae inside. After calling the Police about Carl, Ode Mae allows Sam to possess her body, allowing him and Molly to share a dance one final time. Carl arrives, prepared to murder Molly and Oda Mae, but they flee. Sam is left momentarily weakened by the possession, leaving Molly and Oda Mae to fend for themselves against Carl. After evading him for a brief time, he seizes Ode Mae and threatens her at gunpoint for the money. Molly comes to Oda Mae's rescue and is knocked aside just as a fully recovered Sam arrives to help them. Finally, Carl attempts to flee through a nearby window, but not before flinging a scaffolding hook in Sam's direction. The hook swings back and partially shatters the glass in the upper part of the window, which plummets down on Carl as he is climbing through, impaling him through the chest. Carl becomes a ghost himself much to his astonishment and to Sam's grief. Sam then watches in silence as the shadowy demons arrive and drag a screaming Carl away into the darkness. As Sam goes to Oda Mae and Molly and asks if they are all right, Molly suddenly realizes that she can hear him. As a heavenly light begins to fill the room, Sam becomes fully visible to both Molly and Oda Mae. Sam looks behind him and sees hundreds of people, presumably angels. Now realizing that his task is completed, he can finally move on. After thanking Oda Mae for everything she has done to help him, Sam says an emotional farewell to Molly and departs to the after life.",
+      "writers": ["Bruce Joel Rubin"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0099653/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTU0NzQzODUzNl5BMl5BanBnXkFtZTgwMjc5NTYxMTE@._V1_SY317_CR0,0,214,317_AL_.jpg",
+      "actors": ["Stars: Patrick Swayze, Demi Moore, Whoopi Goldberg | See full cast and crew »"],
+      "reviews": [
+         "Ghost is one of my favorite films. It is romantic and touching. Ghost shows the love that transcends even death. The chemistry between Demi Moore and Patrick Swayze is incredible. The way they look at one another is sexier than any of those very graphic \"love scenes\". They make a real romantic connection just through their eyes. Ghost not only has wonderful, likeable characters in Sam Wheat, Molly Jensen, and Oda Mae Brown, but it has an engrossing plot that moves right along. Entwined in all this is a beautiful score. The theme song \"Ghost\", written by Maurice Jarre specifically for the movie, is enchanting, and, of course, an oldie, \"Unchained Melody\", adds another magical touch to a magical film.",
+         "Certain movies will just always be hard to write a review for. You can give your opinion and say what you enjoyed or didn't enjoy but I find myself hesitating in certain aspects just because a classic must be left some space to be a classic. Ghost as far as I'm concerned will forever be a romantic classic. It's sheer brilliance is it's twists, it is incredibly, deeply, romantic and at the same time terrifying, and has an underlying story that is never fully explored. It's got action, mystery, horror, and at the heart is the pure, simplistic romance of it all. The story is about an investment banker played by Patrick Swayze and his girlfriend, played by Demi Moore. Sam and Molly are deeply in love, planning for the future and happier in their lives than ever before. Until Sam discovers laundered money in investment accounts. He is robbed and subsequently murdered for his password to the computer in order to empty the laundered money from the accounts. But Sam doesn't go the other side. He is kept on earth in spirit form because of his unfinished business both with Molly and to discover his murderer. He must learn the ropes of being a ghost and nobody else can hear him until he runs into a so called psychic who scams people into believing she can contact their dearly departed. However it turns out, Oda Mae Brown played in her academy award winning role by Whoopie Goldberg can actually hear Sam. Together the unlikely team must help each other uncover the horrible murder plot and save Molly. Swayze and Moore make an incredible couple..hot on screen. Their careers have perhaps slipped since then one might say but this was them at their best. Swayze was indeed at the top of his game coming out of Dirty Dancing and Roadhouse and Moore was young and a new hot commodity which made them undeniably perfect together. Their roles fit them perfectly. Whoopie Goldberg was hilarious and believable as Oda Mae and her character was such an integral part of the film. Tony Goldwyn plays a great villain as the betrayer of the film. In a short time director Jerry Zucker establishes a best friendship between Goldwyn and Swayze, a deeply loving relationship between Swayze and Moore, and a plot line that goes far beneath the movie. Obviously Goldwyn's character is being used by a much higher up criminal to launder money although we never see him. Is he being blackmailed? Paid off? Something held over his head? Maybe he's not the bad guy but rather forced to commit these acts? It's a big job because we also know Willie Lopez played by Rick Aviles is involved in this as well. And deeper than that we have the theology in the film. The light brings good people to the afterlife and the dark shadowy beings torture the evil. This film is one of a few that is endlessly watchable meaning you can sit down any time and watch it through over and over and over again which is exactly what makes it a classic. It has it's holes, it has to with a plot like that. And it has it's disturbing moments, a gratituous death scene, a make out scene which although features Swayze and Moore is actually Demi and Whoopi...you have to see it to understand it. Also if Sam Wheat must learn how to physically touch things in his ghost form...how does he sit, walk, etc before he learns that? And his first experience with walking through a door happens days after his death. I'm sure sometime between then and that point he would have had to have walked through something. Perhaps those are minor points but they are things that will come up especially if you have seen it as many times as I have. The film is a must see and if you haven't seen it, go watch it right now!! Because it's one of those staples of films that everyone must know about. Ghost is amazing!! 9/10 Happy Anniversary to my beautiful Sam...we watched Ghost together last night.",
+         "The imaginative but well-conceived idea of dishing up a romance upon lovers communicating spiritually owing to one of them is dead, was first filmed by Steven Spielberg 8 months before the Ghost's silver screen release. Spielberg's movie Always(1989) had classy use of visuals fulfilling the needs of viewers with mystery-based expectations. Yet, Always lacked the sense of essential romance concept, despite having the same plot and even the same storyline in Ghost. Originally the idea has been created by Chandler Sprague and David Boehm. However, Ghost accomplished of what \"Always\" tried and failed to accomplish. Thanks to the great acting trio of Patrick Swayze + Demi Moore + Whoopi Goldberg, for together they registered indelible moments into Ghost. It is scraped in our memory how in time Molly and Sam happen to keep their thoughts off each others' feelings, and that taught us: \"Love begins with emotions, ends with thoughts\". On this account they never called off their faith on believing that they will keep an enduring love affair. These indelible scenes in Ghost are conceptually cut where the editing was so impressive that instead of trying to make the story more plausible, it empowered the devotion of lovers onto their relation. The scene which Sam's ghost drew upon Oda Mae's body to break the longing with Molly by kissing her is an imperishable cinematic instant. I was in love with someone, and it was February,2005; we were both watching the Ghost on TV, both talking on the phone. Then that scene came upon(Sam's ghost kissing Molly in Oda Mae's body), I felt lost deep in my heart seeking the girl I'm talking on the phone. I heard she was crying and sobbing, and keep saying to me: \"I will never forget the first time you kissed me and I don't need to be alive to recall this\" Ghost is one timeless romantic masterpiece that had its moments. For me the kissing scene was the best kiss in movies of all time. MTV had honoured this kiss as well, several years after the release of the movie, as the best kiss in '90s. Superimposing that, the scenes where Oda Mae Brown convinces Molly that Sam's ghost is around her and then Molly reasons with police that Oda Mae knows what nobody is able to know but Sam and herself only, are the scenes that deliver the magic beyond eyes and beyond ears. To watch Ghost is in the to do list of what to do when you're on a date.",
+         "It may be easy to write this fantasy/love story off as a bloated box-office winner with a heart of F/X, however the performances are so winning, and the Oscar-winning script so satisfying, I can't believe it doesn't rate higher with viewers. Murdered businessman (Patrick Swayze, not a good actor but doing OK here) sets out in ghostly form to bring his killers to justice--and to watch out over his lovely girlfriend (Demi Moore, hitting all the right notes of a grieving lover). Whoopi Goldberg won a Supporting Oscar as a fake medium and Tony Goldwyn is uncanny as a slimeball ex-friend (his sniveling is so convincing it may have cost him real-life celebrity). Extremely well-directed by Jerry Zucker--in anybody else's hands, this might have turned to mush. ***1/2 from ****",
+         "I cant believe all the people who are slamming this movie for bad acting or miscasting. Its a wonderful movie and demi moore and patrick swayze do great.Whoopi gives her oscar winning performance in force as a psychic who helps the ghostly swayze avenge his murder.I couldnt believe the user who commented that they wish they could go back in time and recast with nicole kidman and jason patric as the leads -WRONG . now that would be moronic recasting esp jason patric ? who the hell is he? some beverly hills 90210 punk and nicole kidman would not pass for the sweatshirt type woman period. great movie ignore the naysayers",
+         "GHOST, in my opinion, is an excellent romance about true love that lasts eternally. When Sam (Patrick Swayze) got mugged, I got really scared. You'll have to see the movie if you want to know why. If you ask me, Maurice Jarre's score is absolutely beautiful. To me, Carl (Tony Goldwyn) was a very creepy guy. Also, Willie (Rick Aviles) was just as scary as he was. I was amazed at the way Sam could step through anything in his ghostly state. All in all, everyone involved in this film did an outstanding job. In conclusion, if you like Patrick Swayze or Demi Moore, this is definitely a movie to see. You will really be touched by it.",
+         "I must say this film surprised me. Coming in, I knew nothing about it but the famous clay-forming scene... I didn't know I was in for such a strong experience. This film had me from the first few moments of it. I never lost interest. The plot is so interesting and intriguing, you can't help but watch, often at the very edge of your seat. I will say that I found one twist somewhat predictable, but maybe I've just seen too many later movies before watching this. There is a lot of suspense in this film. When I found that it was directed by a Zucker(yup... Airplane and so forth), I was somewhat doubtful as to any other quality in the film than the humor of it... if you're reading this and you're thinking the same, trust me; he pulls it off. Excellently. There are few, if any, flaws in directing. The writing is solid. At times, there seemed to be a little too much humor and some scenes were maybe a tad long, but apart from that, there was not really anything with this film that was flawed. The score is great. The pacing is incredibly good. The acting is really good all-round. Goldberg provides a lot of comic relief, without being obnoxious. Moore and Swayze have magnificent chemistry, you truly believe them as a couple. The special effects are grand, yet they don't take over the movie. This is driven by the emotions, by how the plot affects these characters. I was completely into this movie all the way. The humor is very good and surprisingly tasteful for the theme. Much of it is derived from the situation of Swayze's character and his interaction with environment and other characters. All in all, just a very impressive film. I recommend this to any fan of drama, romance, comedy, thriller or fantasy, as well as anyone interested in seeing a non-parody Zucker film and fans of the actors. 7/10",
+         "After so many years, every time when I see this movie again, it always makes my eyes water! This is basically a simple story. However, the script writer by Bruce Joel Rubin and the director by Jerry Zucker are intelligent. They made the simple story a touching, interesting one. I think most people cried at the end of the movie. This reminded me another commercial successful movie \"Titanic\" in the year 1997. The music (composed by Maurice Jarre) was so moving. Patrick Swayze and Demi Moore played well, not to mention Whoopi Goldberg. Her performance was amazing!(she also had excellent acting in Spielberg's early masterpiece \"The Color Purple\") The visual effects by ILM was extraordinary in that time. By and large, this touching movie is not only a huge commercial success, but also a classic!",
+         "My wife loves this film, and I found it more then a romance movie. A intriguing story, of deception, death, the after life, and greed. This is a great film, with character you care about, suspense, romance, and a fresh script. This film made Patricks carrier, and after this film he chose a few films that killed his chances of acting in higher budget films. I believe if he picked a couple more scripts like this one he would be on the same level as Tom Cruse. I think the politically correct 90's found him too macho for their tastes, and it drove him to do that film about India which helped kill his carrier. In the end this film is a little about what Patrick could have been, a true international star.",
+         "In 1970 we had \"Love Story\" remember? Ryan O'Neal and Ali McGraw crying and loving all the way to the bank? 1990 gave us \"Ghost\" love beyond death and corporate shenanigans. I saw it last night for the first time and surprise, surprise, 15 years later I do understand why people all over the world flocked to see, to devour this soufflé, again and again. Bruce Joel Rubin won an Academy Award for the screenplay, I remember Jodie Foster handing him the statuette with a smile worthy of a British diplomat. But in fact, the screenplay should have propelled the Academy to create a separate category alongside Best Original Screenplay and Best Adapted Screenplay. Yes, Smart Ass Screenplay of the year or Most Commercial Screenplay. Jerry Zucker does a masterful job allowing Rubin's stroke of genius to unfold without major interference. Demi Moore is scrumptious and what Maurice Jarre does with her tears deserves an award of its own. Patrick Swayze suffers with a certain amount of dignity, his anger is very virile but his expressions of longing are pure Lana Turner. What makes the whole calculated enterprise worth every bit of its hype is Whoopi Goldberg. She brings the tale where it really belongs. A comedy. A ghostly comedy about enduring love."
+      ],
+      "genres": [
+         "Drama",
+         "Fantasy",
+         "Romance",
+         "Thriller"
+      ],
+      "productionCompanies": ["Paramount Pictures"],
+      "summaries": [
+         "Sam and Molly are a very happy couple and deeply in love. Walking back to their new apartment after a night out at the theatre, they encounter a thief in a dark alley, and Sam is murdered. He finds himself trapped as a ghost and realises that his death was no accident. He must warn Molly about the danger that she is in. But as a ghost he can not be seen or heard by the living, and so he tries to communicate with Molly through Oda Mae Brown, a psychic who didn't even realise that her powers were real.",
+         "Sam Wheat and his fiancée Molly Jensen live in Manhattan. Sam has a high powered job at a local bank, and Molly works on ceramic art. Sam's friend Carl Bruner also works at the bank. Sam holds the passwords to some of the bank's major accounts. While returning home from a movie theater, Sam and Molly are attacked by a mugger named Willie Lopez. As Sam and Willie struggle over Willie's gun, a shot rings out, and Willie runs off. Sam chases Willie, but Willie escapes. Sam then runs back to Molly to see if she's alright -- but Sam finds himself dead in a devastated Molly's arms, and Sam realizes that he is now a ghost. Later, Willie finds Sam and Molly's home, and breaks in while Molly is busy in the bedroom. Sam scares Willie off before Willie can do anything. Molly didn't even know Willie and Sam were in the place. Sam follows Willie to his home, and wants to have Molly turn Willie in, but Sam can't communicate with Molly because Molly can't see him or hear him. Sam visits spiritualist Ona May Brown, who can hear him, but not see him. When Sam convinces Ona May to talk to Molly, Molly refuses to believe what Ona May says, and Carl tells Molly to have nothing to do with Ona May. Sam follows Carl to Willie's apartment, thinking that Carl is about to confront Willie, but instead, Sam watches in shock as Carl chews Willie out for killing Sam. Willie was not supposed to kill Sam -- Willie was supposed to steal the account passwords from Sam's wallet for Carl, so Carl could carry out a drug money laundering operation. Now Sam and Ona May must protect Molly from both Willie and Carl, who thinks the account passwords are in Molly's home.",
+         "Sam Wheat is bank executive, who has moved in with his girlfriend, Molly. One night while out on a date, a man comes out of nowhere and pulls out a gun and demands Sam's wallet, Sam was about to give it to him when a scuffle broke out and Sam was killed. But Sam's spirit remains on Earth and is walking around and encounters other spirits, who tell him about his transformation. Sam hangs around Molly and despite her not knowing it is watching over her. One day the man who killed him breaks into the apartment and Sam stop's him before he could do anything to Molly. Sam follows him and discovers where he lives but unfortunately can't tell anyone. Sam then meets a supposed spiritualist, Oda Mae Brown, who is so obviously a huckster but who doesn't know that she can hear the dead. so when Sam speaks he hears her. He convinces her to tell Molly about the guy who broke into the apartment. Molly then goes to the police and they in turn tell her that Oda Mae's a con woman. She then tells her friend, Carl about what Oda Mae told her. He goes to investigate and Sam goes with him and discovers something terrible.",
+         "Sam Wheat was murdered during a date with his girlfriend Molly. Sam's spirit, in a mysterious manner, remains on the Earth, unseen to normal people. After following his murderer, Sam realizes that his death was not an accident, and that molly is in danger. Sam's ghost try to warn Molly, but she does not know it is really there. Then he meets a spiritualist named Oda Mae Brown, who can hear the dead. Sam speaks to hear and convince her to help him save Molly.",
+         "After being killed during a botched mugging, a man's love for his partner enables him to remain on earth as a ghost."
+      ],
+      "budget": 22000000
+   },
+   "movielensId": 587,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1990-07-12",
+      "dvdReleaseDate": "2001-04-24",
+      "directors": ["Jerry Zucker"],
+      "runtime": 127,
+      "movieId": 587,
+      "title": "Ghost",
+      "mpaa": "PG-13",
+      "actors": [
+         "Patrick Swayze",
+         "Demi Moore",
+         "Whoopi Goldberg",
+         "Tony Goldwyn",
+         "Vincent Schiavelli",
+         "Gail Boggs",
+         "Stephen Root",
+         "Rick Aviles",
+         "Vivian Bonnell",
+         "Armelia McQueen",
+         "Angelina Estrada",
+         "Augie Blunt",
+         "Phil Leeds",
+         "Alma Beltran"
+      ],
+      "imdbMovieId": "0099653",
+      "originalTitle": "Ghost",
+      "genres": [
+         "Fantasy",
+         "Drama",
+         "Thriller",
+         "Mystery",
+         "Romance"
+      ],
+      "youtubeTrailerIds": ["KZkbSUSdqX4"],
+      "plotSummary": "Sam Wheat is a banker, Molly Jensen is an artist, and the two are madly in love. However, when Sam is murdered by his friend and corrupt business partner Carl Bruner over a shady business deal, he is left to roam the earth as a powerless spirit. When he learns of Carl's betrayal, Sam must seek the help of psychic Oda Mae Brown to set things right and protect Molly from Carl and his goons.",
+      "tmdbMovieId": 251,
+      "avgRating": 3.44444,
+      "releaseYear": "1990",
+      "numRatings": 32001,
+      "posterPath": "/rtxy3cplRFPUvruZajpcoxOQ7bi.jpg"
+   }
+}

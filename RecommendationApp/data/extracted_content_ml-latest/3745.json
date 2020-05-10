@@ -1,0 +1,838 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "monster",
+            "id": 1299
+         },
+         {
+            "name": "galaxy",
+            "id": 4270
+         },
+         {
+            "name": "dystopia",
+            "id": 4565
+         },
+         {
+            "name": "space",
+            "id": 9882
+         },
+         {
+            "name": "alien",
+            "id": 9951
+         },
+         {
+            "name": "animation",
+            "id": 10336
+         },
+         {
+            "name": "mission",
+            "id": 10364
+         }
+      ],
+      "imdb_id": "tt0120913",
+      "video": false,
+      "title": "Titan A.E.",
+      "recommendations": [
+         2114,
+         2157,
+         5137,
+         9397,
+         2614,
+         10796,
+         55931,
+         11827,
+         9824,
+         10336,
+         9886,
+         5491,
+         8202,
+         2135,
+         11548,
+         10249,
+         200,
+         8831,
+         201,
+         1648
+      ],
+      "backdrop_path": "/gb1EB2iKOPvA3OTPLTXHAsPb7ek.jpg",
+      "revenue": 36754634,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 3,
+               "character": "Cale Tucker",
+               "gender": 2,
+               "credit_id": "52fe447dc3a36847f8099461",
+               "name": "Matt Damon",
+               "profile_path": "/elSlNgV8xVifsbHpFsqrPGxJToZ.jpg",
+               "id": 1892,
+               "order": 0
+            },
+            {
+               "cast_id": 4,
+               "character": "Captain Korso",
+               "gender": 2,
+               "credit_id": "52fe447dc3a36847f8099465",
+               "name": "Bill Pullman",
+               "profile_path": "/pIpTEQVbDif8m8OdjAxQKNCj0D6.jpg",
+               "id": 8984,
+               "order": 1
+            },
+            {
+               "cast_id": 8,
+               "character": "Akima",
+               "gender": 1,
+               "credit_id": "52fe447dc3a36847f8099475",
+               "name": "Drew Barrymore",
+               "profile_path": "/y8GKPHsBXVGIGBdDzdNxjm0IbKF.jpg",
+               "id": 69597,
+               "order": 2
+            },
+            {
+               "cast_id": 5,
+               "character": "Gune",
+               "gender": 2,
+               "credit_id": "52fe447dc3a36847f8099469",
+               "name": "John Leguizamo",
+               "profile_path": "/rbq24AzthnwRXUYcVfUnP5bKN50.jpg",
+               "id": 5723,
+               "order": 3
+            },
+            {
+               "cast_id": 6,
+               "character": "Preed",
+               "gender": 2,
+               "credit_id": "52fe447dc3a36847f809946d",
+               "name": "Nathan Lane",
+               "profile_path": "/2eB01W4VURqihttVdewfhfhhCwW.jpg",
+               "id": 78729,
+               "order": 4
+            },
+            {
+               "cast_id": 7,
+               "character": "Stith",
+               "gender": 1,
+               "credit_id": "52fe447dc3a36847f8099471",
+               "name": "Janeane Garofalo",
+               "profile_path": "/jwZs05qdp8kh6IwfECxDyRrteK8.jpg",
+               "id": 21197,
+               "order": 5
+            },
+            {
+               "cast_id": 9,
+               "character": "Prof. Sam Tucker",
+               "gender": 2,
+               "credit_id": "52fe447dc3a36847f8099479",
+               "name": "Ron Perlman",
+               "profile_path": "/xZyrXT2iEmSOokQRc1hedmxrbTi.jpg",
+               "id": 2372,
+               "order": 6
+            },
+            {
+               "cast_id": 10,
+               "character": "Young Cale",
+               "gender": 2,
+               "credit_id": "52fe447dc3a36847f809947d",
+               "name": "Alex D. Linz",
+               "profile_path": "/9ZmlsSNC0R7q749RwUs209exQbr.jpg",
+               "id": 15789,
+               "order": 7
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe447dc3a36847f8099457",
+               "name": "Don Bluth",
+               "profile_path": "/sek7iLDM6J8Poc2FueAkgCUytfn.jpg",
+               "id": 40345,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe447dc3a36847f809945d",
+               "name": "Gary Goldman",
+               "profile_path": "/3GPDphDxHIlT3D8GiMCKsf3X4Rj.jpg",
+               "id": 12881,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe447dc3a36847f8099483",
+               "name": "Don Bluth",
+               "profile_path": "/sek7iLDM6J8Poc2FueAkgCUytfn.jpg",
+               "id": 40345,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe447dc3a36847f809948f",
+               "name": "David Kirschner",
+               "profile_path": null,
+               "id": 13596,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe447dc3a36847f8099495",
+               "name": "Graeme Revell",
+               "profile_path": "/g2Nhv2OCV8ygLYxkeDbhlqnrv7Z.jpg",
+               "id": 5912,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe447dc3a36847f809949b",
+               "name": "Tim Simonec",
+               "profile_path": null,
+               "id": 28241,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe447dc3a36847f80994a7",
+               "name": "Paul Martin Smith",
+               "profile_path": null,
+               "id": 45702,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe447dc3a36847f80994ad",
+               "name": "Fiona Trayler",
+               "profile_path": null,
+               "id": 53344,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe447dc3a36847f80994b3",
+               "name": "Bob Bender",
+               "profile_path": null,
+               "id": 33885,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59125cfc9251414e8d048ae8",
+               "name": "Hans Bauer",
+               "profile_path": null,
+               "id": 57437,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 1,
+               "credit_id": "537cc4460e0a262a9100194d",
+               "name": "Marion Levine",
+               "profile_path": null,
+               "id": 1322149,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "537cc4870e0a262a840019f6",
+               "name": "Philip A. Cruden",
+               "profile_path": null,
+               "id": 60270,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "537cc49e0e0a262a97001a16",
+               "name": "Kenneth Valentine Slevin",
+               "profile_path": null,
+               "id": 1322150,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 1,
+               "credit_id": "537cc4b40e0a263162000692",
+               "name": "Kym Barrett",
+               "profile_path": "/wphQYPxu1Jr82JrEQWtTApX7Kys.jpg",
+               "id": 6209,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5518f01492514159180016d7",
+               "name": "Paul Dutton",
+               "profile_path": null,
+               "id": 1447377,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55190c31925141731c0027c6",
+               "name": "Christopher Starnes",
+               "profile_path": null,
+               "id": 1447426,
+               "department": "Crew",
+               "job": "Visual Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "551913e9925141731c002984",
+               "name": "George Villaflor",
+               "profile_path": null,
+               "id": 1447599,
+               "department": "Visual Effects",
+               "job": "Visual Development"
+            },
+            {
+               "gender": 2,
+               "credit_id": "55397b72c3a3685f9b002c33",
+               "name": "Gary Goldman",
+               "profile_path": "/3GPDphDxHIlT3D8GiMCKsf3X4Rj.jpg",
+               "id": 12881,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "553ff2b3c3a3681dab00005c",
+               "name": "Jean Kalile",
+               "profile_path": null,
+               "id": 1460462,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "553ff4bbc3a3681da5000078",
+               "name": "Steve Cunningham",
+               "profile_path": null,
+               "id": 1460472,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5543d0cbc3a3680cd900250c",
+               "name": "Blair Kitchen",
+               "profile_path": null,
+               "id": 1460548,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5546de569251411147000717",
+               "name": "Robert Sprathoff",
+               "profile_path": null,
+               "id": 1462810,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5548dae69251415602002322",
+               "name": "Darren Griffiths",
+               "profile_path": null,
+               "id": 1460644,
+               "department": "Crew",
+               "job": "Visual Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5548db20c3a368787e002247",
+               "name": "Brandon Blevins",
+               "profile_path": null,
+               "id": 1463190,
+               "department": "Crew",
+               "job": "Compositors"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5548db36c3a3687875002578",
+               "name": "Jessica Wolff",
+               "profile_path": null,
+               "id": 1463183,
+               "department": "Crew",
+               "job": "Compositors"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5548db4592514155ff002008",
+               "name": "Elizabeth McClurg",
+               "profile_path": null,
+               "id": 1463185,
+               "department": "Crew",
+               "job": "Compositors"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55490bc0c3a36841b2000174",
+               "name": "Juan 'Jo' Luna",
+               "profile_path": null,
+               "id": 1460481,
+               "department": "Directing",
+               "job": "Layout"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55490eb5c3a36841a90001dc",
+               "name": "David J. Hardy",
+               "profile_path": null,
+               "id": 1463249,
+               "department": "Visual Effects",
+               "job": "Visual Development"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55491099c3a36841b20001c8",
+               "name": "Fred A. Reilly",
+               "profile_path": null,
+               "id": 1463245,
+               "department": "Directing",
+               "job": "Layout"
+            },
+            {
+               "gender": 0,
+               "credit_id": "554911e192514104ca0001bd",
+               "name": "Troylan B. Caro",
+               "profile_path": null,
+               "id": 1450364,
+               "department": "Directing",
+               "job": "Layout"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55614a2492514171ab000985",
+               "name": "Manny DeGuzman",
+               "profile_path": null,
+               "id": 1447594,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59125be3c3a36864ec045f08",
+               "name": "Matthew Wood",
+               "profile_path": "/oB9wVbEIg8fjY3ulDKjKsGn2A55.jpg",
+               "id": 71536,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59125c20c3a3686519045954",
+               "name": "Christopher Boyes",
+               "profile_path": "/qPYrAJif2AYqgUckgE9bEkjrdVw.jpg",
+               "id": 900,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59125c279251414ead0479ab",
+               "name": "Christopher Boyes",
+               "profile_path": "/qPYrAJif2AYqgUckgE9bEkjrdVw.jpg",
+               "id": 900,
+               "department": "Sound",
+               "job": "Sound Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59125c359251414e9204b3ae",
+               "name": "Gary Summers",
+               "profile_path": null,
+               "id": 1425978,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59125c489251414edb04b6f7",
+               "name": "Andrea Gard",
+               "profile_path": null,
+               "id": 1414886,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59125c9f9251414ead047a67",
+               "name": "Joshua Winget",
+               "profile_path": null,
+               "id": 95842,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59125cc79251414e9204b42e",
+               "name": "Glen Ballard",
+               "profile_path": null,
+               "id": 42262,
+               "department": "Sound",
+               "job": "Music Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59125d1d9251414e8904c517",
+               "name": "Randall McCormick",
+               "profile_path": null,
+               "id": 141462,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59125d279251414e8904c523",
+               "name": "Ben Edlund",
+               "profile_path": "/3rCZ4ubwANlXZ4XWWd9sh2omS08.jpg",
+               "id": 1215761,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59125d319251414e8504b0df",
+               "name": "John August",
+               "profile_path": "/t0jbO861bLCaKVC4hDBZ7sic8na.jpg",
+               "id": 1300,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59125d5b9251414edb04b808",
+               "name": "Joss Whedon",
+               "profile_path": "/dTiVsuaTVTeGmvkhcyJvKp2A5kr.jpg",
+               "id": 12891,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a6f402b0e0a265f040350c2",
+               "name": "Matthew A. Ward",
+               "profile_path": null,
+               "id": 1968909,
+               "department": "Visual Effects",
+               "job": "3D Animator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a6f403e0e0a265efb0347e6",
+               "name": "Patricia Frazier",
+               "profile_path": null,
+               "id": 1968911,
+               "department": "Visual Effects",
+               "job": "3D Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a6f40870e0a265efe032ede",
+               "name": "Jan Carlee",
+               "profile_path": null,
+               "id": 1968912,
+               "department": "Visual Effects",
+               "job": "Animation Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a6f40c30e0a265efb03488a",
+               "name": "Dan Whiting",
+               "profile_path": null,
+               "id": 1597214,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a6f40edc3a3685547034157",
+               "name": "Scott Olson",
+               "profile_path": null,
+               "id": 1968913,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a6f4126c3a368554d02d3bd",
+               "name": "Rick Rogers",
+               "profile_path": null,
+               "id": 1968914,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a6f414a0e0a265f07033dd2",
+               "name": "Raleigh L. Swick II",
+               "profile_path": null,
+               "id": 1968915,
+               "department": "Visual Effects",
+               "job": "3D Modeller"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a6f41aa0e0a265f0d0330a0",
+               "name": "Chandra Joy Hagopian",
+               "profile_path": null,
+               "id": 1968918,
+               "department": "Visual Effects",
+               "job": "Visual Effects Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a6f41c50e0a265f0d0330c9",
+               "name": "David Dozoretz",
+               "profile_path": null,
+               "id": 1403539,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a6f421bc3a368554d02d50e",
+               "name": "Charlie Breakiron",
+               "profile_path": null,
+               "id": 1968919,
+               "department": "Crew",
+               "job": "Special Effects Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a6f4353c3a368555202dadd",
+               "name": "Len Simon",
+               "profile_path": null,
+               "id": 1968921,
+               "department": "Visual Effects",
+               "job": "Animation Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a6f436c0e0a265f07034120",
+               "name": "Paul J. Kelly",
+               "profile_path": null,
+               "id": 1968922,
+               "department": "Visual Effects",
+               "job": "Animation Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a6f4392c3a36855440347ac",
+               "name": "Louise Zingarelli",
+               "profile_path": null,
+               "id": 1968923,
+               "department": "Visual Effects",
+               "job": "Character Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a6f43a4c3a36855410340e5",
+               "name": "Wayne D. Barlowe",
+               "profile_path": null,
+               "id": 83293,
+               "department": "Visual Effects",
+               "job": "Character Designer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Animation",
+            "id": 16
+         },
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Science Fiction",
+            "id": 878
+         },
+         {
+            "name": "Family",
+            "id": 10751
+         },
+         {
+            "name": "Adventure",
+            "id": 12
+         }
+      ],
+      "popularity": 9.424323,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 7450,
+      "vote_count": 374,
+      "budget": 75000000,
+      "overview": "A young man finds out that he holds the key to restoring hope and ensuring survival for the human race, while an alien species called the Dredge are bent on mankind's destruction.",
+      "similar": [
+         157336,
+         228161,
+         16306,
+         49849,
+         9016,
+         19898,
+         19995,
+         299687,
+         137113,
+         602,
+         604,
+         605,
+         348,
+         17431,
+         126889,
+         841,
+         2048,
+         8337,
+         8078,
+         9693
+      ],
+      "original_title": "Titan A.E.",
+      "runtime": 94,
+      "poster_path": "/huI8CYyxY0BhzJSLn6XAP4nWAv.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "普通话",
+            "iso_639_1": "zh"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "David Kirschner Productions",
+            "id": 11050,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Fox Animation Studios",
+            "id": 11231,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+            "name": "20th Century Fox",
+            "id": 25,
+            "origin_country": "US"
+         }
+      ],
+      "release_date": "2000-06-16",
+      "vote_average": 6.3,
+      "belongs_to_collection": null,
+      "tagline": "When Earth Ends, The Adventure Begins.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": [
+         "Don Bluth",
+         "Gary Goldman"
+      ],
+      "runtime": 94,
+      "synopsis": "By the year 3028 A.D., deep space travel and interaction with a plethora of alien races is commonplace for humanity and, as often happens with the passage of time, a new discovery is made. As electricity and splitting the atom were in history, what comes to be known as the Titan Project proves to be a profound scientific advance in mankind's role in the universe; a testament to their strength and imagination. However, it is explained that this marvel does not go unnoticed. The Drej, an alien race comprised entirely of energy, deems the human race a threat and advance their armada on Earth to destroy the Titan Project and what they see as mankind's last chance of being a dominant force in the galaxy. Five year-old Cale ( Alex D. Linz) puts the last touches on his latest invention, a hydro-powered console, before it accidentally breaks in a small creek. His father, Sam Tucker ( Ron Perlman) comes to collect him, explaining that they have to leave. He takes his son to the nearby base where he is stationed and where evacuation pods filled with people are being sent into space. Sam places Cale in the care of family friend and guardian Tek ( Tone Loc) before explaining that he has to go away for a while. He gives Cale a gold ring and tells him that, as long as he wears it, there will be hope. Then, despite Cale's pleas, Sam is escorted by friend Joseph Korso ( Bill Pullman) to a nearby hangar as Cale is brought aboard an evacuation pod with Tek. Reports of Drej fighters attacking civilian pods ring out as Cale's ship takes off. He watches as his father runs inside and activates the Titan Project; a large, spherical ship which manages to fly past the incoming Drej and uses its hyperdrive to vanish into outer space. At a safe distance, Cale watches as the Drej mothership, commanded by the Queen Drej ( Christopher Scarabosio), hones in on Earth and destroys it in one shot with a massive energy blast. Fifteen years later, Cale ( Christopher Scarabosio) works in a salvage yard in asteroid belt Tau 14. The human population has dwindled severely over the past few years and the race is considered inferior to other alien species, constantly ridiculed and rumored to be near extinction. Impatient and tired of constantly being shoved to the back of the line, Cale defiantly rides his scooter away from the check-out point to the nearest hangar entrance, only to collide with a docking ship. He is propelled onto the bow of the ship and briefly gets a glimpse of the young female pilot within before she closes the shield doors. The pilot then sends a com-link message to the disembarking captain, reminding him that they are on a time schedule. Cale makes it inside and begins to wash up before he's confronted by two fellow alien workers who express distaste with Cale's line-jumping stunt. They begin to beat him up to teach him a lesson before the captain of the newly-arrived ship intervenes and lassos the aliens. He introduces himself as Joseph Korso and says he's been searching for Cale who carries mankind's last salvation. Skeptical and disheartened to hear that Korso was a friend of his father's, Cale refuses to cooperate and reunites with Tek in the galley who seems rather disinterested in Cale's complaints. Korso, meanwhile, is alerted by pilot Akima ( Drew Barrymore) that their time limit has been cut with the arrival of a few Drej fighters. With the mounting pressure, Korso follows Cale into the galley and greets Tek as an old friend, to Cale's astonishment. Korso then shows Cale the reason he's there; he takes Cale's ring and uses a pen to activate a minute code within the lining before replacing it on Cale's finger. The ring projects a holographic map onto the palm of Cale's hand. Korso explains that the ring was coded to Sam's DNA, and is thus to Cale's. The map is supposed to lead to where Sam hid the ship the Titan and, if they find it before the Drej do, they will be able to give the human race something they haven't had in years; a new planet to call home. At that moment, two Drej fighters enter the galley and immediately target Cale. Korso disables the artificial gravity generator at the back of the kitchen and he and Cale follow the cowardly cook ( Jim Breuer) through an escape hatch. They make it to a warehouse and hijack a construction vehicle with the Drej in hot pursuit. Cale is injured in the escape and Korso pilots the vehicle straight through a closed dock and into space. He calls for Akima to pick them up as the windshield on the vehicle cracks. Korso kicks it out and uses a fire extinguisher to propel him and Cale into the hold of the Valkyrie. When Cale wakes, he meets Akima face to face along with the sly first mate, Preed ( Nathan Lane), before he is introduced to the rest of the crew including Stith ( Janeane Garofalo), the surly weapons specialist, and Gune ( John Leguizamo), the eccentric astronomer. Cale is brought to Gune who reads the map on his palm and determines that their next heading should be to Sesharrim, a planet that, as Korso recalls, is home to the ancient Gaoul race. After arriving, Preed and Gune are left at the ship to watch for the Drej while the others take a boat across a lake filled with hydrogen-pod trees. They find the remnants of a temple and are suddenly surrounded by bat-like creatures. Before Korso can open fire, Akima determines that they are the Gaoul. The lead Gaoul approaches Cale and instructs him through pantomime to hold his palm up towards the planet's prominent star. Held against the sky, Cale sees the arrow on the map pointing towards the distant Andali Nebula where the Titan is surely hidden. Suddenly, Drej fighters descend on the planet and attack the group. The Gaoul assist the group escape to their boat as Preed and Gune, having been distracted from their post, struggle to get the Valkyrie airborne again. The Gaoul use the hydrogen pods on the trees to destroy some of the fighters but, in the chaos, Cale and Akima are knocked off the boat. Before Korso can retrieve them, a Drej ship locks onto them with its tractor beam and escapes into outer space. It takes Cale and Akima to the Drej mothership where Akima, of no use, is expelled into space in a pod. Cale is then held before the Queen and forced to open his palm, giving the Drej a complete copy of the map detailing where the Titan is hidden. Cale is then sent into confinement. Meanwhile, Korso and Preed are able to track Akima's location to a prison block on a nearby planet. They attempt to disguise themselves as a slave trader and his subordinate but the guard ( Charles Rocket) displays higher-than-average intelligence. So they use force and make their way towards the cell where Akima is resting atop her pod, unconscious invalids on the ground around her. On board the Drej mothership, Cale discovers that he can manipulate the energy keeping him locked inside to release himself. He escapes to the main hangar and commandeers a Drej ship, flying out into space with a scouting party. He is able to catch up to the Valkyrie although the crew nearly mistakes him for another Drej scout. Safe again, Cale and Korso have a heart-to-heart and Cale is allowed to pilot the Valkyrie through a tract of space. Putting his piloting skills to the test, Cale playfully races a band of 'space angels', creatures that dwell in nebular matter. The crew then makes a pit stop at a human drifter colony called New Bangkok to repair the ship and pick up supplies. However, as Cale and Akima return to the ship with a few necessities, they overhear Korso speaking to a holographic link with the Queen Drej. Korso argues with her that Cale is his responsibility and he alone will use him to find the Titan, though the Queen asserts that, despite their agreement, the Drej will do whatever is necessary to assure the Titan's destruction. Cale and Akima turn away straight into Preed's gun and he leads them inside where they are confronted by Korso. Korso admits that he made a deal with the Drej; that he would lead them to the Titan with the assurance of his own survival and for the hefty bounty. No longer wanting to believe that the human race is destined for extinction, Cale fights Korso and Preed and manages to escape the ship with Akima, though she is wounded in the process. With Cale and Akima safely in New Bangkok, Korso takes the Valkyrie and leaves for the Andali Nebula. Akima and Cale are assisted by the locals including an old woman ( Tsai Chin) who assures them that Akima merely needs rest. While waiting, Cale meets a young girl ( Crystal Scales) and her brother who shows Cale that a little imagination is all that's needed to envision a better place to live rather than just accepting what is. Encouraged, Cale later tells Akima, fully healed, that he plans to beat Korso to the Titan using an old ship at the colony. With the help of other able-bodied humans, Cale and Akima are able to repair and refit the old Phoenix and blast off towards the Nebula. The Andali Nebula's center is a thick ring of ice crystals which makes for extremely tricky navigation. Korso and Preed struggle to maintain a steady course as Cale and Akima come up behind them. They use the reflective surface of the ice to create an illusion as they sneak right by the ship before igniting their engines full thrust and making a break for the Titan. The Valkyrie tries to follow, but the ever-shifting ice blocks their path. Cale and Akima make it to the center of the ice pack and finally discover the resting place of the Titan. They find a hatch to dock at and make their way inside. Akima finds a library stacked with vials that are revealed to be genetic information for all animals and plant life that were found on Earth. Meanwhile, the Valkyrie finds the Titan and docks at an alternate entrance. Korso and Preed prepare to disembark and instruct Gune and Stith to stay behind. However, the pair are suspicious of Korso's intentions. They are proven right when Preed sends a com-link message to Stith's watch which proceeds to beep in a countdown. Gune removes Stith's watch and runs off before it explodes. Stith awakes in the rubble unharmed but finds Gune apparently injured. He announces that he needs to take a brief nap before he falls still. Cale and Akima make their way to the main console at the center of the ship where Cale finds his old invention, completely repaired, and activates a message from his father. The image explains that the ship has the power to create an entirely new planet for humans but that, in its escape, the ship used up all of its auxillary power. He begins to go over the initiation process to restore power until a shot rings out and the message ends. Korso appears and demands Cale's ring but Preed suddenly presses his gun to Korso's head. He announces that he made a separate deal with the Drej; that he could live provided he killed everyone else before their imminent arrival. Korso fights back and manages to overpower Preed, breaking his neck. Cale then tackles Korso and they both fall over the edge of the platform. Cale is able to grab onto a piece of rigging and climb back onto the main platform but Korso falls further until he grasps a wire which leads him back onto the main unit. At that moment, an alert sounds; the Drej have arrived. Stith is reunited with Cale and Akima and she activates the controls to the exterior guns, blasting away at the Drej fighters. Cale struggles to think of a way to beat the Drej and activate the Titan until he remembers that the Drej are pure energy. He is able to harness into their energy and restart the internal power system, but one of the circuit breakers located outside malfunctions. Cale has no choice but to go out and fix it manually. Stith provides cover until all guns are shot out by the Drej. Cale is cornered by Drej fire until Korso appears and offers to help. They work together to fix the circuit until Korso is gravely injured. He opts to stay behind, effectively sacrificing himself in order to unjam the circuit. As Cale escapes back into the Titan, he is covered by Gune piloting the Valkyrie; apparently having recovered from his nap. Korso uses his gun to link the circuits and is electrocuted in the process. Cale makes it back to the main platform and uses his ring to activate the ship just as the Drej mothership targets the Titan. A blast is sent out from the Titan and the Drej are disintegrated, their energy sucked into the Titan's engines. Waves of energy expand from the center of the ice ring and swirl it together towards the center. The Titan flies out of the core as gravity takes over and a new planet is formed, the remaining ice melting into vast seas. Cale and Akima step foot onto the new planet and Akima asks what they should call it. Cale decides to name the planet 'Bob', despite Akima's protests. They kiss and watch as Gune and Stith fly the Valkyrie above them in a victorious sweep. Meanwhile, ships and colonies of the surviving humans have received word of their new home and all flock to claim it. Year 16 A.E., for 'After Earth', introduces us to 'New Earth', aka 'Planet Bob'.",
+      "writers": [
+         "Hans Bauer",
+         "Randall McCormick"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0120913/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMjE0NTU0ODg4NV5BMl5BanBnXkFtZTcwNzY3MTQyMQ@@._V1_SY281_CR1,0,214,281_AL_.jpg",
+      "actors": ["Stars: Matt Damon, Drew Barrymore, Bill Pullman | See full cast and crew »"],
+      "reviews": [
+         "I remember a year ago when I went to see this movie. I think of that day as a turning point in my life in how I view animation. I am surprised I have not written a review for this movie. After reading through every single bad review by every paid critic on the planet and watching this movie fail because of it (taking Fox Animation with it), I have decided it was about time I added my insight into the pile. Kind of late, but bear with me. I know more now than I did then. First off, the storyline isn't what the critics have brainwashed you into thinking. If you are a sci-fi fan, I guess it is easier to grasp. In the wide world of science fiction, this movie seems to have struggled to find originality and found enough of it. Set 1000 years into the future, Humans have discovered an extremely advanced technology which drives a race of almost indestructible aliens to destroy Earth in it's entirety. A teenage boy is left with the power to find the key to bring humanity back before it is killed off forever. When I saw this movie, I had a breath of relief. Finally humanity isn't the all-powerful! The movie puts humanity in the act of a downtrodden, confused, holding-on race manipulated and shunned by other races. The emotion I felt from the story in this film and the characters in it is extraordinary. The animation by far is a turning point in the world of animated features. From the start, you can tell the animation is exceptional. Extra time was taken to make the characters lifelike, as well as the environments they are in, the coordinating of colors, and even the shadows from a tree on the character's faces. It's unbelievable. And the 2D animation mixes so well with the 3D animation - it just adds to the thrill of the movie. The scenes in the movie are exceptional - from the ice rings scene with the reflections to the wake angels scene in space. The characters are just portrayed so well, like I said. The actors doing the voice-overs put so much emotion into what the characters actually felt, and the characters portrayed it well. There is a nice variety of characters as well, all the way down to the comic relief of Gune and the angry kangaroo-like alien, Stith. Overall, this movie just blew me away. I couldn't think for days. The animation, the story, the characters - all of it. And I have gotten others to see this movie, and they agree on it. So next time you are in the video store, not sure what to rent, think about this movie. I guarantee it is in stock and it will change the way you see animation forever.",
+         "This film (To be blunt) is one of the greatest animated sci-fi films ever made. The story is a blast, as are the characters and the visuals are stunning. Unfortunately the movie was highly underrated by critics (But what do they know). Any science fiction fan with half a brain can see this is an intriguing story, and one that the cast is totally committed to. Indeed the actors put on such a excellent performance that you can believe in their plight and really feel for them. Overall this movie is easily able to hold it's own against masterpieces such as Starchaser: The legend of Orin, Fire & ice and other films in the animated sci-fi/fantasy genre.",
+         "After reading a number of negative reviews of this film, I went ahead and bought the DVD. I had read that, although the movie was mediocre, it was the kind of film that's great for showing off your DVD player. I am thrilled to own this movie. True enough, the story is cliched. Yet I didn't think about it for a second while I watched the film unfold. I was completely caught up in everything I saw on the screen. If it was a slow scene, I just gazed at the beautiful eye candy. And during the incredibly inventive action scenes, I was surprised to find myself at the edge of my seat. There are some who say that the mix of 3d and traditional 2d animation didn't work. I couldn't disagree more. There are times when the two styles were a glaring contrast. Yet, as the movie progressed, the two became as one to my eyes. I have no problem calling this a revolutionary step forward in animation. I loved A Bug's Life and Toy Story. But this trip, in my eyes blew those films away. Finally, though I wouldn't consider this film 'adult' by any means, the slighter darker tone made it much more accessible as an adult viewer. Every year I sigh when I see a preview for another assembly line Disney film. (Hey, let's dumb down the gothic horror 'The Hunchback of Notre Dame' and give him cute sidekicks!) The look of Disney films hasn't changed in years. (If anything, they look more simple) This film, as cliched as the story was, was visually inspired. The original Fantasia needed no story. It was an appreciation of music and animation. Let this be the new Fantasia. If you want to experience breathtaking and beautiful animation, I couldn't recommend this any more.",
+         "This can be a true revolutionary of all the animated films with its real eye-stunning graphics, a very imaginative sci-fi setting, more realistic-looking characters, and plenty of real action and yes, even some blood-spilling violence. After years of churning out shots of sparkly-starry fantasy like Rock-A-Doodle-Doo, We're Back: A Dinosaur's Story, and Troll In The Central Park, Don Bluth's crew finally comes up with a very gritty, mature science fiction story all about humans being hunted down by the evil aliens who are out to destroy the planet Earth altogether. So a very brave young engineer grimly launched an enormous project that his little son was to carry on when he finally grew up. But it just wouldn't be a very easy path for the young hero to accomplish this great feat that would give a long ray of hope to all the innocent humans hiding out in the outer space. But with the help of a very spunky young female co-pilot, a group of bickering aliens, and a hardened space veteran, he just might...even with all those dread monsters hot on his very tail! Beautifully made, this sweeping space odyssey really takes GIGANTIC steps to break from all the traditional aspects of an animated film to introduce mouth-droppingly MAGNIFICENT visions of the distant future as well as a more adult approach to storytelling and animation, so it may take awhile for the casual viewer to get used to it...and one day truly appreciate the great changes that is taking place in the whole animation industry.",
+         "Titan A.E is a story set in a post-earth era (hence the A.E: after earth, which i thought was a nice touch). Its about the son of a scientist who is thrust upon him the quest of finding the Titan, the greatest ship ever built, and is humanity's last chance. The movie begins with an awesome scene of the evacuation of earth, and caught me nicely off guard with some great 3D rendering of the Titan (when launched), and the escape ships. The imagination that went into some scenes in the movie, especially the cruising alongside the wake angels, and the ice rinks were fantastic. And the plot, though a bit unrealistic in terms of modern science, was thoroughly refreshing in concept. And its got just the right balance of action to move it quickly from a kids film to a good sci-fi show for slightly older audiences. Titan A.E is a great film. It has a story that's original and neatly executed. It brought about some great 3D rendering in a time where animation was primarily 2D. Its got good character development with a nice twist in the middle. And its also got a fine soundtrack, which I love to listen to. Go watch this movie. You will not be disappointed.",
+         "Filled with spectacular visions of other worlds, Titan A.E. brings us into the 31st century and into a whole new level of science fiction. The story is pretty simple, a race called the Drej feel the human race is a threat so they decide to destroy us. The only hope for the survival of the human species is a ship called the Titan. Only trouble is, no one knows where it is. The answer lays with Cale, the son of the inventor of Titan. Once Cale realizes what he's in for, we're off on an intergalactic roller coaster ride. We get chases in swamps filled with hydrogen trees and an imaginative hide and seek game in a field of ice crystals. Traditional hand drawn characters are blended in with amazing CGI renderings of planets, ships, and the vast emptiness of space with very good results. Sure there may be some clunker lines here and there but Titan A.E. gives fans of sci-fi what they want. Well worth the price of admission",
+         "The first time I saw this I was 13 or 14. I saw it in a theatre with some friends. Most of em didn't really seem impressed but I really thought it rocked. I really like Cale's character. He seemed to \"click\" as a normal guy you wouldn't mind being identified with. And that Goon character was just fantastic. I really liked the scene with the giant ice crystals, and the sound effects during that scene were awesome. And I noticed this movie had a lot of Starwars references, but who cares. Didn't bother me in the least---in fact I like that kind of thing. I was sort of disappointed at how this one just sort of dried up and blew away (I don't even think it played a whole week at the theatre). Luckily a friend, knowing I liked this movie, gave me a DVD he'd bought and no longer wanted. So, again, I watched and enjoyed this unappreciated great creation. Somehow it seemed even better now. As usual, I'll leave all the technical discussions to other reviewers (of which there are a multitude). I try to review on an entertainment level only...yeah, I suppose I'm the shallow guy who only sees what's right up front. Anyhow, if you care a whit about sci-fi, don't miss this one even if it is animated. It doesn't really have that \"anime\" feel to it. So if you're turned off by anime, check this one out anyway. BTW, this movie is great for family viewing.",
+         "TITAN A. E. / (2000) *** (out of four) \"Titan A.E.\" is like a giant looming over movie animation landscape; it is one of the most visually bracing family fantasy adventures to come down the pike in years. The film's animation is wonderfully spectacular, visually enticing and entirely convincing. Directors Don Bluth and Gary Goldman enthrall the audience with a sweeping sense of atmosphere and action. This is the kind of cartoon that is mature to the level in which the characters and set designs could have been replaced with live action filmmaking without changing the movie's perspective. The production takes place twenty-eight years after the third millennium. Planet Earth has been demolished by a cruel species called the Drej, who fear the potential intelligence of the human race. Cale (voiced by Matt Damon) is a young man working as a space dump attendant who believes his father abandoned him when he was a child. Cale doesn't know it yet, but he holds the key to the survival of the human race with a genetically coded map on his hand showing the course to the hidden position of a special spacecraft called the Titan. Cale meets a young woman named Akima (voiced by Drew Barrymore), who cherishes conventional memorabilia of her late planet. She and her captain, Korso (voiced by Bill Pullman), and the navigator, Gune (John Leguizamo), set out to locate the vital Titan before the evil Drej can exterminate it along with mankind's future hope of existence. Instead of our traditional, well-developed bad guy that posses serious threats to the protagonist's mission, in \"Titan A.E.\" we receive something of a different sort: an underwritten alien race whose motives and backgrounds are unclear and undeveloped. The movie seems to know of this, however, therefore the film wisely switches villains in the second act. The story provides an interesting twist that supplies us with solid and comprehendible antagonism. This movie's plot feels somewhat pieced together from previous science fiction fantasies like \"Star Trek,\" \"Star Wars,\" and \"Lost in Space.\" John Whedon, Ben Edlund, and John August vividly detail a story that moves along steadily, but occasionally stalls to build momentum for the character's purpose for achieving goals. There is a scene on a spaceship holding Cale in captivity that feels trite and dual, but the film quickly rejuvenates itself with an exhilarating chase sequence. The film's plot would have been more involving if we knew more about the characters. They seem pretty interesting but we never really get to know them because the filmmakers were more concerned with special effects, a common misconception both animated and live action films. This production is engaging and well animated; \"Titan: After Earth\" is smart to jolt a appropriate about of energy into its action scenes and contains sufficient amounts of style and wit to satisfy younger audiences as well to hold the attention of the older, more sophisticated viewers. It is not every day a cartoon is able to do that.",
+         "The storyline of TITAN A.E. follows standard mythical canon: unlikely youthful hero from the boondocks is forced to follow his destiny and struggle against overwhelming odds to save his people. No surprises there, to be sure, but God is in the details, and the details is where this film excels. I can't say enough good about the animation and visual artistry--it's the best ever. Hopefully this will raise the bar for animated feature films. After forty-odd years, I have had enough of the formulaic Disney approach. I would also give TITAN A.E. high marks for acting and for the musical selections in the soundtrack. This film should make a great addition to any enthusiast's DVD library. I agree that the plot is rather holey, but I was so busy enjoying the film that I didn't notice at the time.",
+         "Saw this on DVD, missing it completely at the cinema. Which was probably what happened to the audience for the film, as it was difficult to market for any target group. Having seen it, it's apparent that lot of very hard work went into producing it. I can compare it to a few other sci-fi animated films of recent years... As ground-breaking as The Last Starfighter was in its day. Though not pure animation, Starfighter showed off what even early CG could do in terms of gimbal-free animation of spaceships and vehicles. Much, much better than Final Fantasy, as the action is genuinely epic. The story goes places and uses the chosen technology very nicely. Titan is not a boring film. Very similar to Disney's later production of the Treasure Island book. Disney appeared to have cribbed one or two scenes from Titan A.E. Not nice. Graphically, it's up there with Iron Giant, using finely animated CG figures mixed with traditional cell animation. The scene where we first see the older Cale Tucker (in space, cutting up junk) is very impressive. But something bugs me. There was something missing. Iron Giant gave me a sense of wonder, which was achieved by some great character acting, clever pacing and a wonderful story line. At no point was I \"taken\" by what I saw on-screen while watching Titan A.E. I think Titan tripped over itself in the drama department more than a few times. Along with the latest Star Wars films, it tumbles along without stopping up and letting the audience know what the characters are feeling. The actors have to have the skills to enable the audience to feel, to immerse. Without that, the action has a risk of becoming incomprehensible. Pretty, fast-paced, intriguing. But I wish someone would use these toys to produce something great, something big. Something wonderful."
+      ],
+      "genres": [
+         "Animation",
+         "Action",
+         "Adventure",
+         "Family",
+         "Sci-Fi"
+      ],
+      "productionCompanies": [
+         "David Kirschner Productions",
+         "Fox Animation Studios",
+         "Twentieth Century Fox Film Corporation"
+      ],
+      "summaries": [
+         "In the year 3028 A.D., Earth is being attacked by the Drej, which are aliens made of pure energy! The Drej mother-ship destroys Earth with an energy beam just as hundreds of space vehicles manage to escape with the last of mankind aboard! One of the escapees is Sam's young son Cale, who carries with him a ring given to him by his father. Fifteen years later, Cale works on a salvage station, eking out a rough life and hating his father for having disappeared aboard the Titan so long ago. Without a home planet, surviving humans have been reduced to outer space drifters and are constantly bullied and looked down on by other space-faring races. A human captain named Joseph Korso and his pilot Akima seek out Cale and explain that he must help them find the Titan which contains a mechanism that will create a new Earth and therefore unite all of humanity. Meanwhile, the Drej wants to find the Titan so that they can destroy it. With Korso's help, Cale discovers that the ring his father gave to him contains a genetically encoded map to the Titan, and thus begins his race across the universe with Korso and his ship and crew, including Preed, a wisecracking rat-like humanoid, Gune, an eccentric, green-skinned scientist, and Stith, a tough, hard-as-nails weapons expert who resembles something of a kangaroo. Before long, Cale and Akima finds out that Korso is searching for the Titan in order to hand it over to the Drej.",
+         "One thousand years from now, aliens destroy Earth in fear of the Titan project. Some humans escape, becoming a downtrodden Diaspora, living in impoverished settlements. The mysterious Titan spacecraft also escapes, and its inventor has hidden it before dying. A spacecraft captain and its pilot, Korso and Akima, two humans, seek out Cale, the youthful son of the dead scientist and explain that he must help them find the Titan, which holds a mechanism to unite and save humanity. Cale refuses, but the arrival of the killer aliens persuades him to join Korso. Can he avoid his pursuers, know friend from foe, find the Titan, and embrace his humanity, a nature he has despised until now?",
+         "A young man learns that he has to find a hidden Earth ship before an enemy alien species does in order to secure the survival of humanity."
+      ],
+      "budget": 75000000
+   },
+   "movielensId": 3745,
+   "movielens": {
+      "languages": [
+         "English",
+         "普通话"
+      ],
+      "releaseDate": "2000-06-16",
+      "dvdReleaseDate": "2000-11-07",
+      "directors": [
+         "Don Bluth",
+         "Gary Goldman"
+      ],
+      "runtime": 94,
+      "movieId": 3745,
+      "title": "Titan A.E.",
+      "mpaa": "PG",
+      "actors": [
+         "Matt Damon",
+         "Bill Pullman",
+         "Drew Barrymore",
+         "John Leguizamo",
+         "Nathan Lane",
+         "Janeane Garofalo",
+         "Ron Perlman",
+         "Alex D. Linz"
+      ],
+      "imdbMovieId": "0120913",
+      "originalTitle": "Titan A.E.",
+      "genres": [
+         "Animation",
+         "Action",
+         "Science Fiction",
+         "Family",
+         "Adventure"
+      ],
+      "youtubeTrailerIds": [],
+      "plotSummary": "A young man finds out that he holds the key to restoring hope and ensuring survival for the human race, while an alien species called the Dredge are bent on mankind's destruction.",
+      "tmdbMovieId": 7450,
+      "avgRating": 3.27807,
+      "releaseYear": "2000",
+      "numRatings": 6572,
+      "posterPath": "/huI8CYyxY0BhzJSLn6XAP4nWAv.jpg"
+   }
+}

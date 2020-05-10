@@ -1,0 +1,875 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "london england",
+            "id": 212
+         },
+         {
+            "name": "parent child relationship",
+            "id": 970
+         },
+         {
+            "name": "secret",
+            "id": 1328
+         },
+         {
+            "name": "socially deprived family",
+            "id": 1952
+         },
+         {
+            "name": "reunion",
+            "id": 9824
+         },
+         {
+            "name": "illegitimate son",
+            "id": 183886
+         }
+      ],
+      "imdb_id": "tt0117589",
+      "video": false,
+      "title": "Secrets & Lies",
+      "recommendations": [
+         10217,
+         10503,
+         44009,
+         21450,
+         11109,
+         851,
+         13446,
+         14320,
+         12454,
+         110,
+         10683,
+         695,
+         108,
+         993,
+         887,
+         109,
+         309,
+         10712,
+         396,
+         976
+      ],
+      "backdrop_path": "/yjMyR5wwqDjSwG6CE3ty1PRJMSH.jpg",
+      "revenue": 13417292,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Maurice Purley",
+               "gender": 2,
+               "credit_id": "52fe44049251416c75026133",
+               "name": "Timothy Spall",
+               "profile_path": "/yMClxMrLdOXk37RGvrqJEWjg9ko.jpg",
+               "id": 9191,
+               "order": 0
+            },
+            {
+               "cast_id": 3,
+               "character": "Cynthia Rose Purley",
+               "gender": 1,
+               "credit_id": "52fe44049251416c75026137",
+               "name": "Brenda Blethyn",
+               "profile_path": "/wp0tIM7dGDmc9TOrm9fgL7JkzQQ.jpg",
+               "id": 4154,
+               "order": 1
+            },
+            {
+               "cast_id": 5,
+               "character": "Hortense Cumberbatch",
+               "gender": 1,
+               "credit_id": "52fe44049251416c7502613f",
+               "name": "Marianne Jean-Baptiste",
+               "profile_path": "/7C1Ubphw4o1Gv200pAwlgohdxcV.jpg",
+               "id": 17352,
+               "order": 2
+            },
+            {
+               "cast_id": 14,
+               "character": "Monica Purley",
+               "gender": 1,
+               "credit_id": "52fe44049251416c75026167",
+               "name": "Phyllis Logan",
+               "profile_path": "/96ZL2QNBeWm7RdnujwmPQH7uBAC.jpg",
+               "id": 127164,
+               "order": 3
+            },
+            {
+               "cast_id": 4,
+               "character": "Roxanne Purley",
+               "gender": 1,
+               "credit_id": "52fe44049251416c7502613b",
+               "name": "Claire Rushbrook",
+               "profile_path": "/nbiqoy0XJxd10jwNRs7xUVBgsEM.jpg",
+               "id": 68384,
+               "order": 4
+            },
+            {
+               "cast_id": 22,
+               "character": "Paul",
+               "gender": 2,
+               "credit_id": "5497ccba9251417a8100548b",
+               "name": "Lee Ross",
+               "profile_path": "/lMOJz7ZSs4iOWYON0NdKlVuWvlo.jpg",
+               "id": 93177,
+               "order": 5
+            },
+            {
+               "cast_id": 16,
+               "character": "The Social Worker",
+               "gender": 1,
+               "credit_id": "52fe44049251416c7502616f",
+               "name": "Lesley Manville",
+               "profile_path": "/wyETH2tk6s15DXrQFZhx4KOwvNL.jpg",
+               "id": 72305,
+               "order": 6
+            },
+            {
+               "cast_id": 20,
+               "character": "Jane",
+               "gender": 1,
+               "credit_id": "5497cc6192514132ed005cda",
+               "name": "Elizabeth Berrington",
+               "profile_path": "/wFz71bIKTlQoa8v1s243TIh5wUm.jpg",
+               "id": 42998,
+               "order": 7
+            },
+            {
+               "cast_id": 21,
+               "character": "Dionne",
+               "gender": 1,
+               "credit_id": "5497cc8cc3a368054b000d4d",
+               "name": "Michele Austin",
+               "profile_path": "/idzfdSxWlUjezsz7uAg9H02IOqS.jpg",
+               "id": 145694,
+               "order": 8
+            },
+            {
+               "cast_id": 23,
+               "character": "Stuart",
+               "gender": 2,
+               "credit_id": "589356d0c3a3686d1000677e",
+               "name": "Ron Cook",
+               "profile_path": "/aGTaBYQhT0AG0PrVmrkBuNvzCG8.jpg",
+               "id": 5319,
+               "order": 9
+            },
+            {
+               "cast_id": 18,
+               "character": "Hortense's Brother",
+               "gender": 0,
+               "credit_id": "5431a0410e0a265915002471",
+               "name": "Trevor Laird",
+               "profile_path": null,
+               "id": 1216607,
+               "order": 10
+            },
+            {
+               "cast_id": 24,
+               "character": "Hortense's Brother",
+               "gender": 0,
+               "credit_id": "589357029251416ef5006a2a",
+               "name": "Brian Bovell",
+               "profile_path": null,
+               "id": 1228665,
+               "order": 11
+            },
+            {
+               "cast_id": 25,
+               "character": "Girl with scar",
+               "gender": 0,
+               "credit_id": "5893570d9251416ef2006ff3",
+               "name": "Emma Amos",
+               "profile_path": null,
+               "id": 1239068,
+               "order": 12
+            },
+            {
+               "cast_id": 26,
+               "character": "Hortense's Sister in Law",
+               "gender": 0,
+               "credit_id": "5893571fc3a3686d22006784",
+               "name": "Clare Perkins",
+               "profile_path": null,
+               "id": 1147904,
+               "order": 13
+            },
+            {
+               "cast_id": 27,
+               "character": "Hortense's Nephew",
+               "gender": 0,
+               "credit_id": "58935739c3a3686d17006bc7",
+               "name": "Elias Perkins McCook",
+               "profile_path": null,
+               "id": 1749195,
+               "order": 14
+            },
+            {
+               "cast_id": 28,
+               "character": "Senior Optician (as June Mitchell)",
+               "gender": 0,
+               "credit_id": "5893578a9251416ee3006ecd",
+               "name": "Jane Mitchell",
+               "profile_path": null,
+               "id": 1749196,
+               "order": 15
+            },
+            {
+               "cast_id": 29,
+               "character": "Junior Optician",
+               "gender": 0,
+               "credit_id": "5893579cc3a3686d220067d1",
+               "name": "Janice Acquah",
+               "profile_path": null,
+               "id": 1251463,
+               "order": 16
+            },
+            {
+               "cast_id": 30,
+               "character": "Girl in Opticians (as Keeley Flanders)",
+               "gender": 0,
+               "credit_id": "589357b79251416ef2007069",
+               "name": "Keylee Jade Flanders",
+               "profile_path": null,
+               "id": 1394981,
+               "order": 17
+            },
+            {
+               "cast_id": 31,
+               "character": "First Bride",
+               "gender": 0,
+               "credit_id": "589357cac3a3686d1c0069b2",
+               "name": "Hannah Davis",
+               "profile_path": null,
+               "id": 993240,
+               "order": 18
+            },
+            {
+               "cast_id": 32,
+               "character": "First Bride's Father",
+               "gender": 2,
+               "credit_id": "589357ebc3a3686d1f006757",
+               "name": "Terence Harvey",
+               "profile_path": "/h35uW5GYjAk5XE5qXhVzHiD17sW.jpg",
+               "id": 25656,
+               "order": 19
+            },
+            {
+               "cast_id": 33,
+               "character": "Second Bride",
+               "gender": 1,
+               "credit_id": "589357fc9251416ef5006abc",
+               "name": "Kate O'Malley",
+               "profile_path": null,
+               "id": 1055559,
+               "order": 20
+            },
+            {
+               "cast_id": 34,
+               "character": "Groom",
+               "gender": 2,
+               "credit_id": "5893580b9251416ef200709c",
+               "name": "Joe Tucker",
+               "profile_path": null,
+               "id": 143181,
+               "order": 21
+            },
+            {
+               "cast_id": 35,
+               "character": "Vicar",
+               "gender": 2,
+               "credit_id": "58935819c3a3686d1c0069d5",
+               "name": "Richard Syms",
+               "profile_path": null,
+               "id": 390184,
+               "order": 22
+            },
+            {
+               "cast_id": 36,
+               "character": "Best Man",
+               "gender": 2,
+               "credit_id": "5893582f9251416ee3006f3f",
+               "name": "Grant Masters",
+               "profile_path": null,
+               "id": 176201,
+               "order": 23
+            },
+            {
+               "cast_id": 37,
+               "character": "Mother in family group",
+               "gender": 0,
+               "credit_id": "58935846c3a3686d1c0069e9",
+               "name": "Annie Hayes",
+               "profile_path": null,
+               "id": 217906,
+               "order": 24
+            },
+            {
+               "cast_id": 38,
+               "character": "Grandmother",
+               "gender": 1,
+               "credit_id": "5893585d9251416ee9006ec4",
+               "name": "Jean Ainslie",
+               "profile_path": null,
+               "id": 109390,
+               "order": 25
+            },
+            {
+               "cast_id": 39,
+               "character": "Nurse",
+               "gender": 0,
+               "credit_id": "5893586bc3a3686d13006c1d",
+               "name": "Lucy Sheen",
+               "profile_path": "/hUGZ34LqHmE9OjWH8Og6rwHNnOg.jpg",
+               "id": 1229178,
+               "order": 26
+            },
+            {
+               "cast_id": 40,
+               "character": "Young mother",
+               "gender": 0,
+               "credit_id": "5893587bc3a3686d17006ca7",
+               "name": "Frances Ruffelle",
+               "profile_path": null,
+               "id": 132992,
+               "order": 27
+            },
+            {
+               "cast_id": 41,
+               "character": "Potential Suitor",
+               "gender": 2,
+               "credit_id": "58935899c3a3686d17006cc0",
+               "name": "Nitin Ganatra",
+               "profile_path": "/72pfDncUPdySEqzjDegwvPsBmd0.jpg",
+               "id": 58776,
+               "order": 28
+            },
+            {
+               "cast_id": 42,
+               "character": "Conjuror",
+               "gender": 0,
+               "credit_id": "589358ac9251416ee3006f99",
+               "name": "Metin Marlow",
+               "profile_path": null,
+               "id": 1749199,
+               "order": 29
+            },
+            {
+               "cast_id": 43,
+               "character": "Raunchy woman",
+               "gender": 1,
+               "credit_id": "589358bb9251416eeb0065cd",
+               "name": "Su Elliott",
+               "profile_path": "/6IlvNaDF0JRF9hhIVTOEyLDjS36.jpg",
+               "id": 1221007,
+               "order": 30
+            },
+            {
+               "cast_id": 44,
+               "character": "Raunchy woman",
+               "gender": 0,
+               "credit_id": "589358ca9251416ee9006eff",
+               "name": "Amanda Crossley",
+               "profile_path": null,
+               "id": 1749200,
+               "order": 31
+            },
+            {
+               "cast_id": 45,
+               "character": "Raunchy woman",
+               "gender": 0,
+               "credit_id": "589358da9251416ef5006b46",
+               "name": "Di Sherlock",
+               "profile_path": null,
+               "id": 1749201,
+               "order": 32
+            },
+            {
+               "cast_id": 47,
+               "character": "Men in suits",
+               "gender": 0,
+               "credit_id": "58935900c3a3686d220068a2",
+               "name": "David Neilson",
+               "profile_path": null,
+               "id": 94219,
+               "order": 34
+            },
+            {
+               "cast_id": 48,
+               "character": "Men in suits",
+               "gender": 0,
+               "credit_id": "58935910c3a3686d17006d0f",
+               "name": "Peter Waddington",
+               "profile_path": null,
+               "id": 214521,
+               "order": 35
+            },
+            {
+               "cast_id": 49,
+               "character": "Men in suits",
+               "gender": 0,
+               "credit_id": "58935922c3a3686d220068bb",
+               "name": "Peter Stockbridge",
+               "profile_path": null,
+               "id": 1749203,
+               "order": 36
+            },
+            {
+               "cast_id": 50,
+               "character": "Graduate",
+               "gender": 1,
+               "credit_id": "58935953925141625100000c",
+               "name": "Rachel Lewis",
+               "profile_path": null,
+               "id": 1749204,
+               "order": 37
+            },
+            {
+               "cast_id": 51,
+               "character": "Grinning Husband",
+               "gender": 0,
+               "credit_id": "589359639251416242000013",
+               "name": "Paul Trussell",
+               "profile_path": "/mHuuR1XdBQAzw1eVrEKprCwv65x.jpg",
+               "id": 1231626,
+               "order": 38
+            },
+            {
+               "cast_id": 52,
+               "character": "Fiance",
+               "gender": 2,
+               "credit_id": "58935987c3a368269500002f",
+               "name": "Jonny Coyne",
+               "profile_path": "/ahErjJI8W9RGBCky2rB3W2vFbIm.jpg",
+               "id": 1323612,
+               "order": 39
+            },
+            {
+               "cast_id": 53,
+               "character": "Uneasy woman",
+               "gender": 0,
+               "credit_id": "58935996925141624e000032",
+               "name": "Denise Orita",
+               "profile_path": null,
+               "id": 1565425,
+               "order": 40
+            },
+            {
+               "cast_id": 54,
+               "character": "Elderly Lady",
+               "gender": 0,
+               "credit_id": "589359a5925141624200003a",
+               "name": "Margery Withers",
+               "profile_path": null,
+               "id": 1347968,
+               "order": 41
+            },
+            {
+               "cast_id": 55,
+               "character": "Laughing man",
+               "gender": 0,
+               "credit_id": "589359b5925141623c000037",
+               "name": "Gordon Winter",
+               "profile_path": null,
+               "id": 1492479,
+               "order": 42
+            },
+            {
+               "cast_id": 56,
+               "character": "Daughter",
+               "gender": 0,
+               "credit_id": "589359c3925141624500005a",
+               "name": "Theresa Watson",
+               "profile_path": null,
+               "id": 1247601,
+               "order": 43
+            },
+            {
+               "cast_id": 57,
+               "character": "Father in family group",
+               "gender": 2,
+               "credit_id": "589359d8c3a368269f000064",
+               "name": "Peter Wight",
+               "profile_path": "/cjERr21Oo197GJGhPC9HHHhxqdd.jpg",
+               "id": 17476,
+               "order": 44
+            },
+            {
+               "cast_id": 58,
+               "character": "Boxer",
+               "gender": 2,
+               "credit_id": "589359e8925141625100007a",
+               "name": "Gary McDonald",
+               "profile_path": "/5bOk4g9eiFpQXmU0GAVtVSuRjiS.jpg",
+               "id": 72312,
+               "order": 45
+            },
+            {
+               "cast_id": 59,
+               "character": "Woman with dog",
+               "gender": 1,
+               "credit_id": "589359f4c3a368269f000073",
+               "name": "Alison Steadman",
+               "profile_path": "/lPthoSzhSr8KDgFKOmILAYUkJ2l.jpg",
+               "id": 47699,
+               "order": 46
+            },
+            {
+               "cast_id": 60,
+               "character": "Woman with cat",
+               "gender": 1,
+               "credit_id": "58935a04c3a368269200006f",
+               "name": "Liz Smith",
+               "profile_path": "/rFmFjKTl9Drjv7tA687miEyn1tG.jpg",
+               "id": 7320,
+               "order": 47
+            },
+            {
+               "cast_id": 61,
+               "character": "Fertile Mother",
+               "gender": 1,
+               "credit_id": "58935a16c3a36826a400006f",
+               "name": "Sheila Kelley",
+               "profile_path": "/ulR7E9i6sS04WUmaR1WxHKJhx2l.jpg",
+               "id": 90762,
+               "order": 48
+            },
+            {
+               "cast_id": 62,
+               "character": "Little Boy's Mother",
+               "gender": 1,
+               "credit_id": "58935a26c3a368269500009c",
+               "name": "Angela Curran",
+               "profile_path": "/uUzym4tHDSSbAgnydkr8QBAXvP1.jpg",
+               "id": 174700,
+               "order": 49
+            },
+            {
+               "cast_id": 63,
+               "character": "Pin Up Housewife",
+               "gender": 1,
+               "credit_id": "58935a37925141623f0000a7",
+               "name": "Linda Beckett",
+               "profile_path": "/qhwiZSumUIuaHbgPO44ONEOjyrn.jpg",
+               "id": 183799,
+               "order": 50
+            },
+            {
+               "cast_id": 64,
+               "character": "Man in suit",
+               "gender": 2,
+               "credit_id": "58935a4bc3a368269f0000a0",
+               "name": "Phil Davis",
+               "profile_path": "/znnB0M3mdPiiXZHjl9zUEP9MTiu.jpg",
+               "id": 26854,
+               "order": 51
+            },
+            {
+               "cast_id": 65,
+               "character": "Glum woman",
+               "gender": 1,
+               "credit_id": "58935a55c3a36826920000a1",
+               "name": "Wendy Nottingham",
+               "profile_path": "/7thfC5hZ6qIsHdc1LgpGninrgSy.jpg",
+               "id": 37052,
+               "order": 52
+            },
+            {
+               "cast_id": 66,
+               "character": "Uneasy Man",
+               "gender": 2,
+               "credit_id": "58935a65c3a36826a400009e",
+               "name": "Anthony O'Donnell",
+               "profile_path": "/6QSAbIRfRezk9t1fZMiAdvKIDoI.jpg",
+               "id": 47944,
+               "order": 53
+            },
+            {
+               "cast_id": 67,
+               "character": "Laughing Woman",
+               "gender": 1,
+               "credit_id": "58935a79c3a36826920000b8",
+               "name": "Ruth Sheen",
+               "profile_path": "/1A8sHqgO7vkzcaHAnGr0Ya4Dxte.jpg",
+               "id": 53367,
+               "order": 54
+            },
+            {
+               "cast_id": 68,
+               "character": "Fiancee",
+               "gender": 0,
+               "credit_id": "58935a90925141624e0000dc",
+               "name": "Mia Soteriou",
+               "profile_path": null,
+               "id": 1749206,
+               "order": 55
+            },
+            {
+               "cast_id": 69,
+               "character": "Men in Suits",
+               "gender": 0,
+               "credit_id": "5a6028960e0a2651010101be",
+               "name": "Stephen Churchett",
+               "profile_path": null,
+               "id": 152091,
+               "order": 56
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe44049251416c75026145",
+               "name": "Simon Channing Williams",
+               "profile_path": null,
+               "id": 20423,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44049251416c7502614b",
+               "name": "Andrew Dickson",
+               "profile_path": null,
+               "id": 68047,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44049251416c75026151",
+               "name": "Dick Pope",
+               "profile_path": null,
+               "id": 60085,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44049251416c75026157",
+               "name": "Jon Gregory",
+               "profile_path": "/bjtIqNephAYhm5T47q6YBWWGUMi.jpg",
+               "id": 10725,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44049251416c7502615d",
+               "name": "Mike Leigh",
+               "profile_path": "/kvW8YDDi0dHOEYJG7jLHYQRrRJs.jpg",
+               "id": 65452,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44049251416c75026163",
+               "name": "Mike Leigh",
+               "profile_path": "/kvW8YDDi0dHOEYJG7jLHYQRrRJs.jpg",
+               "id": 65452,
+               "department": "Directing",
+               "job": "Director"
+            }
+         ]
+      },
+      "genres": [{
+         "name": "Drama",
+         "id": 18
+      }],
+      "popularity": 5.964826,
+      "production_countries": [
+         {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+         },
+         {
+            "iso_3166_1": "FR",
+            "name": "France"
+         }
+      ],
+      "id": 11159,
+      "vote_count": 162,
+      "budget": 4500000,
+      "overview": "A middle-aged London factory worker is shocked when the mixed-race daughter she gave up at birth decides to track her down. At first she denies she is her mother. All family members become emotional, as everyone's secrets are exposed.",
+      "similar": [
+         334,
+         244772,
+         634,
+         2196,
+         1562,
+         6637,
+         2024,
+         595,
+         8967,
+         858,
+         866,
+         88,
+         39254,
+         322,
+         142,
+         111,
+         1164,
+         2288,
+         4347,
+         452507
+      ],
+      "original_title": "Secrets & Lies",
+      "runtime": 142,
+      "poster_path": "/8yRTeiJX4ckalsXO8DrTGSKoZym.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Channel Four Films",
+            "id": 181,
+            "origin_country": "GB"
+         },
+         {
+            "logo_path": null,
+            "name": "October Films",
+            "id": 236,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "CiBy 2000",
+            "id": 7832,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Thin Man Films",
+            "id": 10100,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1996-05-24",
+      "vote_average": 7.2,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "France",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Mike Leigh"],
+      "runtime": 142,
+      "synopsis": null,
+      "writers": ["Mike Leigh"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0117589/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTY3NDIxODMyNV5BMl5BanBnXkFtZTgwNDk2MDM0MDE@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Timothy Spall, Brenda Blethyn, Phyllis Logan | See full cast and crew »"],
+      "reviews": [
+         "It took a second viewing of Mike Leigh's 'Secrets and Lies' to reveal the depth of its genius. I love character-driven drama, and this film succeeds in creating indelible portraits. Even the social worker is quirky and memorable instead of just furthering the plot and being patently sympathetic. I could write quite a lot about Blethyn's riveting performance. How drained she must have been after sustaining a character who seems always at the height of emotional pressure. Opposite her, Jean-Baptiste seemed as cool and smooth as could be. The contrasts created by these personae even extended to costume and decor. I decided to watch this movie again because after a BBC Shakespeare binge I wanted to see everything Ron Cook has been in. And while the Stuart scene is really somewhat incongruous to the rest of the family plot, Cook's scene as the bitter, drunk 't****r' works for me perfectly. So do the scenes of photo sessions -- and it's a matter of observing this film in terms of clarity of personal vision. The occupations of photographer and optometrist seem to lend metaphors of spirituality -- for Maurice, the ability to see people as they are, and for Hortense, the ability to understand how others see the world. The wall of smoke that Cynthia and Roxanne seem to keep in front of them. The disparity between the images created for the formal portraits and the truth of the personalities in them. In a distinctly un-sappy way, Leigh has explored the old adage that \"the truth will set you free.\" If one reads a paragraph describing the main plot -- the adopted child seeking out her birth mother -- a very clear idea of a movie-of-the-week story comes to mind. 'Secrets and Lies' is nothing like that, and shows a mastery of vision and a cast of great talent. My roommate agreed, saying he thought this was one of the best films he's seen this decade.",
+         "This is one of my very favorite movies of the last 10, even 20 years. For me, its greatness lies in the resonance of the story lines, the brilliant acting, (Brenda Blethyn, Marianne Jean-Baptiste and Timothy Spall all turned in Oscar-worthy turns, and the rest of the ensemble were all with them), and Mike Leigh's direction. This is a feast of tremendous acting, by a most talented ensemble who really become their characters. The scenes play out very naturally, and you really feel a part of the story, with special empathy towards - in no particular order - Cynthia, Maurice and Hortense. As the film builds towards a showdown/climax at the birthday party, you can even take a step back and at least sympathize with Roxanne and even, Monica. This rates 10/10 by this reviewer, who wishes that more directors - if they truly have a good story to tell - will shoot and edit the film in a way that appreciates the audience's intelligence and capacity to feel without being manipulated by a director's avant-garde(??) bag of tricks ...for comparison, perhaps see my scathing review of 21 Grams! What a contrast of styles!!!",
+         "This is a lovely, small film with beautiful performances by Brenda Blethyn and Marianne Jean-Baptiste. It is filled with comical moments that balance out some of the heavier parts of the film. My heart went out to the two lead characters as they struggled to make sense of the mutual bond unearthed by Ms. Jean-Baptiste's character. At once confused, hurt, shocked and afraid, Ms. Blethyn is completely convincing in her role. I was moved by her decision to enter into a relationship with this woman whom she had never before met. Perhaps the fact that Ms. Blethyn and Ms. Jean-Baptiste had never been introduced prior to the scene in which their two characters meet added to the realism of that moment. And Ms. Jean-Baptiste's portrayal of a woman who is surprised by her discovery and not a little disappointed was dead-on, as is her dogged determination to get what she came after. If you are searching for a movie brimming with action, special effects, and/or blockbuster stars you need to pass this over. But if you are in the mood for a film that offers winning performances and an entertaining storyline that grows out of human interaction, this is the one you're looking for! \"Secrets & Lies\" is a gem of a movie!",
+         "I wish the USA had a director like Mike Leigh. His movies are amazing. \"Secrets & Lies\" traces the pain we often hold inside along with our secrets and the catharsis that can come by revealing them. Lives of quiet desperation within a family gradually find healing in this movie about adoption, children and the walls we build around ourselves for protection. There is a poignant metaphor in the brother Morris' career as a photographer, as his subjects attempt to cover the stories in their faces long enough to smile for the camera. This is an intense movie but it is not without beauty and hope.",
+         "Mike Leigh's superb comedy-drama of family relationships. Heart-rending, bitter and delightful by turn Leigh's modern classic captured a brace of Oscar nominations but went home empty handed in the face of The English Patient's near clean sweep. Even Blethyn's Cannes-winning performance lost out to Frances McDormand's Fargo turn (hard to challenge this decision, although in any other year the brilliant Blethyn would have deserved to win). The film eventually racked up a considerable number of awards, its Oscar success aside. The story, every bit as believable and real as the rest of Leigh's work, centres on a woman, Cynthia Purley (Blethyn ), whose mid-life crisis is further exacerbated by the appearance on the scene of the daughter she gave away at birth, the wonderfully named Hortense Cumberbatch (Baptiste) - a young, beautiful, professional black woman who causes a few eyebrows to be raised in the family, and forces Cynthia to come to terms with her past. Alternating between high comedy, scathing one-liners (Blethyn telling daughter Rushbrook she has a face like a \"slapped arse\" is a moment to treasure) and tear-jerking poignancy, with Spall, Rushbrook and Baptiste all offering strong support, this is nothing short of superb. Verdict A genuine hit for Mike Leigh, Secrets And Lies has the coarse grain of real life, sympathetically and affirmingly fashioned.",
+         "Here is a question which has dogged me each time I watch this film - and I have seen it over 40 times: Two times during the film, Cynthia Purley (Brenda Blethyn) discusses the circumstances under which her daughter, Hortense Cumberbatch (Marianne Jean-Baptiste) was born - but when Hortense asks who her father is, Cynthia cannot say. In the restaurant, when Cynthia realizes that she, a white woman, is indeed the mother of this black daughter, she has a moment where she hints at the true circumstances of Hortense's birth. We realize that Hortense's father is black...but is there another secret? After all, at the birthday party for Cynthia's other daughter Roxanne (Claire Rushbrook), Cynthia tells Roxanne that her father's name was Bingham - that he was an American medical student that she met on holiday while she was at Benidorm. So, she can tell people who Roxanne's true father was. But when Hortense asks if her father \"was a nice man,\" Cynthia can't say - or won't. The question to be asked here, which no one breaches, is: Was Hortense the product of rape? Was the 15 year old Cynthia Purley raped by a black man in 1968 in London? And did she then keep the child, only to give it up for adoption? Why doesn't anyone ask this? Why does Cynthia let Roxanne know who her father is, but not Hortense? Now, was this done on purpose by the director and/or the screenwriter? After all, it would be simple enough to see the name of the child, \"Elizabeth Rose Purley,\" on the birth certificate that Hortense gets a copy of. If it is blank, this would prove that Cynthia did not know who the father was - pointing the way to rape. But the question is not asked, and the answer not given. Can we speculate? Can we broach the subject that a black man raped a white girl and yet she did not abort the child and instead gave it life and then gave it away? This is an absolutely fantastic film. From Brenda Blethyn to Marianne Jean-Baptiste (now on CSI:New York without her British accent) to Timothy Spall, this film is filled with Oscar worthy performances. Why this was passed over for the (dull and boring) \"The English Patient\" is beyond me. I would recommend this film without doubt. It is one of the finest pieces of film-making and acting I have ever seen.",
+         "In honor of my film class wrapping up this week, I will be counting down my top five favorite films we have watched for class. I begin with my #5 choice, Secrets and Lies, a Mike Leigh drama/comedy about the secrets and lies (shock) that tear apart a dysfunctional British family. Brenda Blethyn plays Cynthia Purley, the very dramatic and always crying single mother who is one day contacted by the daughter she gave up for adoption\u0085who happens to be black. The look on Blethyn's face is priceless as she flashes back to a one night stand she had as a young lady. Most would think Leigh's story would revolve around race relations, which is not the case at all (race is never an issue). Instead he revolves his story around the Purley family, a unit so torn apart from over the years that a simple family cook out turns into a soap opera. \"Secrets and lies! We're all in pain! Why can't we share our pain? I've spent my entire life trying to make people happy, and the three people I love the most in the world hate each other's guts, and I'm in the middle! I can't take it anymore!\" This memorable quote comes from Maurice Purley, brother to Cynthia and talented photographer. Maurice is your classic good guy, the passive patriarch who always tries to hold the family together. (The irony around his character is that he cannot conceive a child with his wife, Monica). You almost feel sorry for the successful Hortense, as if she would be better off not knowing her birth mother at all. The actors are so talented in this film that Leigh, at times, uses no cuts during a scene. The camera stays in one spot as the actors' play out scenes that can last 10-15 minutes. After you get past the difficult British dialect (you may want to use captions while watching), you will feel as if you are that nosey neighbor who can't help but listen and enjoy the problems this family confronts\u0085and that's no lie.",
+         "With modern films placing so much emphasis on visuals and sound & the stage specializing in avant-garde drama or comedy, it's rare to find old-fashioned storytelling outside of books. But it's rare at any time or in any medium to find a work combining such smartness & sensitivity as \"Secrets & Lies.\" After the deaths of her adoptive parents, urbane young London optometrist Hortense (Jean-Baptiste) searches for her biological origins and locates her mother: alcoholic, neurotic, once-promiscuous factory worker Cynthia (Blethyn, in one of the finest film performances of all time). Each is stunned to find something about the other that neither knew: that the mother is white and the daughter is black! The film has sideplots rather than subplots, two other stories developed in depth, parallel to the main story, although Leigh masterfully uses them to support rather than weaken the central relationship between Cynthia & Hortense. Cynthia's daughter Roxanne (Rushbrook) is coming of age and exploring love, work and independence while struggling between the love, pity, resentment & disgust she holds for her mother. Cynthia's brother Maurice (Spall, a roly-poly, English Jimmy Stewart), a prosperous but overworked studio photographer, gives the family name a facade of middle-class respectability even as he & his wife Monica (Logan) carefully conceal an embarrassment of their own. Through a variety of small, seemingly random but fascinating illustrations like the Canterbury Tales, the film hammers home its theme: that lying & deception become not just easy but casual in an age that emphasizes individualism & responsibility, where you assume that no one, not even the closest of your relatives, wants to hear about your problems. Rather than help one another, each suffers alone, while every lie they so readily spin must constantly be fed with more deception. A story that could have been both preachy & crushingly depressing is cut with just the right amount of humor in all the right places, until the heartbreaking climax that is as powerful as any ever filmed. There isn't an air of judgment or lecturing morality, no attempt to make a sweeping commentary of society. If any such message is delivered it must be derived from the story. In a superb cast Blethyn stands out as the haunted, tormented Cynthia, hurt & angered by the contempt & pity she sees in the eyes of her brother, sister-in-law & daughter as she staves off nervous breakdown with the bottle. Yet she can't bring herself to turn away again from the child she gave up long ago, even though only she knows how much pain lies ahead if she doesn't. Jean-Baptiste provides a stark contrast as the cool-headed but intense young woman who might be repulsed by the coarse, painful world in which Cynthia lives, yet never shows any reluctance to enter it. There's a spareness about the film (so many scenes go without music that you're often surprised to remember that there IS a music score) that engrosses the viewer, making him concentrate, rather than giving an air of cheapness. It's not Shakespeare or Greek theater, since no one gets stabbed or finds out he's married his mother, but Tennessee Williams or Anton Chekhov would have been envious of this effort.",
+         "I've seen this movie four times now and waited before writing a review, waited to see if my first spell-bound viewing could be matched by the others that would follow. And an overwhelming yes is the answer. It actually gets deeper with each viewing even with knowing that the cast were given the outline of the characters and told to develop their own dialogue. In fact Brenda Blethyn, who plays Cynthia, the mother, was not even aware that Hortense, played by Marianne Jean-Baptiste, was black until she meets her for the first time in a crucial scene. Timothy Spall, playing Maurice, the brother/uncle is incredible, what he can portray just with his eyes is breathtaking. I love the layering of the story, the characterizations so unexpected. Such as the child abandoned at birth and put out for adoption being the most centred and focused of everyone. The drunken ex-owner of the business that Maurice bought bringing Maurice to a place of awareness that it could be him wandering around drunkenly, speaking of his past achievements. The flashes of mini-plots portrayed by the subjects of Maurice's photographic settings. The heart-breaking scene where Maurice's snobby wife reveals her secrets. The slowly developing warmth and comfort between Cynthia and Hortense.And on. This is a fabulous movie, worth seeing over and over to \"get\" it all. And even then. The secret of Hortense's father is never revealed, just an \"unknown\" marked on the birth certificate, which leaves us to ponder on the fact she was probably raped at fifteen. She states she deliberately never saw the baby that was the result. You can literally feel her growing joy in Hortense and how beautiful a person she is. One scene earlier on has Cynthia telling Hortense how more like her she is than her other (white) daughter. Remarkable. 9 out of 10. Would that we had a Mike Leigh at this side of the world to bring us such treasures!!",
+         "The way Leigh weaves a story here - no screenplay, just tell the actors what the scenes are supposed to do, give them an outline, but don't give away the punch line or the ending - shows up in the final print. This is cinematic magic, with Blethyn turning in one of the most breathtaking performances ever seen on the silver screen. The transformation into Cynthia Purley is total. Study especially the scene in the cafe in Holborn - story has it these two principals had not met before shooting this scene, and the scene goes on forever, and puts incredible demands on both actors, especially Blethyn, who is simply unreal in her abilities. All do a great job here. This is not a light comedy. It will tear at you, thanks in part to the evocative music, but at the end you will go 'wow' and feel good for having seen it."
+      ],
+      "genres": ["Drama"],
+      "productionCompanies": [
+         "Channel Four Films",
+         "CiBy 2000",
+         "Thin Man Films"
+      ],
+      "summaries": [
+         "Cynthia lives in London with her sullen street-sweeper daughter. Her brother has been successful with his photographer's business and now lives nearby in a more upmarket house. But Cynthia hasn't even been invited round there after a year. So, all round, she feels rather lonely and isolated. Meanwhile, in another part of town, Hortense, adopted at birth but now grown up, starts to try and trace her mother.",
+         "Successful black woman traces her birth mother to a lower-class white woman, who denies it; emotions run high as everyone's secrets are exposed."
+      ],
+      "budget": 4500000
+   },
+   "movielensId": 1041,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1996-05-24",
+      "dvdReleaseDate": "2005-02-01",
+      "directors": ["Mike Leigh"],
+      "runtime": 142,
+      "movieId": 1041,
+      "title": "Secrets & Lies",
+      "mpaa": "",
+      "actors": [
+         "Timothy Spall",
+         "Brenda Blethyn",
+         "Marianne Jean-Baptiste",
+         "Phyllis Logan",
+         "Claire Rushbrook",
+         "Lee Ross",
+         "Lesley Manville",
+         "Elizabeth Berrington",
+         "Michele Austin",
+         "Ron Cook",
+         "Trevor Laird",
+         "Brian Bovell",
+         "Emma Amos",
+         "Clare Perkins",
+         "Elias Perkins McCook",
+         "Jane Mitchell",
+         "Janice Acquah",
+         "Keylee Jade Flanders",
+         "Hannah Davis",
+         "Terence Harvey",
+         "Kate O'Malley",
+         "Joe Tucker",
+         "Richard Syms",
+         "Grant Masters",
+         "Annie Hayes",
+         "Jean Ainslie",
+         "Lucy Sheen",
+         "Frances Ruffelle",
+         "Nitin Ganatra",
+         "Metin Marlow",
+         "Su Elliott",
+         "Amanda Crossley",
+         "Di Sherlock",
+         "David Neilson",
+         "Peter Waddington",
+         "Peter Stockbridge",
+         "Rachel Lewis",
+         "Paul Trussell",
+         "Jonny Coyne",
+         "Denise Orita",
+         "Margery Withers",
+         "Gordon Winter",
+         "Theresa Watson",
+         "Peter Wight",
+         "Gary McDonald",
+         "Alison Steadman",
+         "Liz Smith",
+         "Sheila Kelley",
+         "Angela Curran",
+         "Linda Beckett",
+         "Phil Davis",
+         "Wendy Nottingham",
+         "Anthony O'Donnell",
+         "Ruth Sheen",
+         "Mia Soteriou",
+         "Stephen Churchett"
+      ],
+      "imdbMovieId": "0117589",
+      "originalTitle": "Secrets & Lies",
+      "genres": ["Drama"],
+      "youtubeTrailerIds": ["YToU70X6O_Y"],
+      "plotSummary": "A middle-aged London factory worker is shocked when the mixed-race daughter she gave up at birth decides to track her down. At first she denies she is her mother. All family members become emotional, as everyone's secrets are exposed.",
+      "tmdbMovieId": 11159,
+      "avgRating": 4.04223,
+      "releaseYear": "1996",
+      "numRatings": 6038,
+      "posterPath": "/8yRTeiJX4ckalsXO8DrTGSKoZym.jpg"
+   }
+}

@@ -1,0 +1,864 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "prison",
+            "id": 378
+         },
+         {
+            "name": "gorilla",
+            "id": 690
+         },
+         {
+            "name": "research",
+            "id": 3664
+         },
+         {
+            "name": "instinct",
+            "id": 6245
+         },
+         {
+            "name": "murder",
+            "id": 9826
+         },
+         {
+            "name": "psychologist",
+            "id": 11268
+         }
+      ],
+      "imdb_id": "tt0128278",
+      "video": false,
+      "title": "Instinct",
+      "recommendations": [
+         11478,
+         10395,
+         2275,
+         11983,
+         11088,
+         6520,
+         11374,
+         9271,
+         10861,
+         178,
+         10326,
+         10057,
+         8843,
+         11560,
+         10003,
+         9623,
+         10685,
+         9566,
+         8080,
+         1945
+      ],
+      "backdrop_path": "/j9V1EtDRegY46uFicnnp1FhxUon.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 10,
+               "character": "Dr. Ethan Powell",
+               "gender": 2,
+               "credit_id": "52fe44b89251416c7503eb65",
+               "name": "Anthony Hopkins",
+               "profile_path": "/btweZvSRBiE6jaMME93BSXeTQN6.jpg",
+               "id": 4173,
+               "order": 0
+            },
+            {
+               "cast_id": 11,
+               "character": "Dr. Theo Caulder",
+               "gender": 2,
+               "credit_id": "52fe44b89251416c7503eb69",
+               "name": "Cuba Gooding Jr.",
+               "profile_path": "/yu8Q3ImFu3RJne585jjgeQO2Boo.jpg",
+               "id": 9777,
+               "order": 1
+            },
+            {
+               "cast_id": 12,
+               "character": "Ben Hillard",
+               "gender": 2,
+               "credit_id": "52fe44b89251416c7503eb6d",
+               "name": "Donald Sutherland",
+               "profile_path": "/luKIiU3wAAZ5C6j2053g35cRhzE.jpg",
+               "id": 55636,
+               "order": 2
+            },
+            {
+               "cast_id": 13,
+               "character": "Lynn Powell",
+               "gender": 1,
+               "credit_id": "52fe44b89251416c7503eb71",
+               "name": "Maura Tierney",
+               "profile_path": "/sG8ZxJtdMoNlBOOkMZVABxSH5F0.jpg",
+               "id": 16307,
+               "order": 3
+            },
+            {
+               "cast_id": 14,
+               "character": "Dr. John Murray",
+               "gender": 2,
+               "credit_id": "52fe44b89251416c7503eb75",
+               "name": "George Dzundza",
+               "profile_path": "/jyjr4P3uCpfrbwk8ySXNaDpBMbc.jpg",
+               "id": 10477,
+               "order": 4
+            },
+            {
+               "cast_id": 15,
+               "character": "Guard Dacks",
+               "gender": 2,
+               "credit_id": "57310d0a92514148680008ce",
+               "name": "John Ashton",
+               "profile_path": "/omfIdOt1F8LDkb7AMZTtLDiyJ3O.jpg",
+               "id": 778,
+               "order": 5
+            },
+            {
+               "cast_id": 16,
+               "character": "Warden Keefer",
+               "gender": 2,
+               "credit_id": "57310d1e92514148680008d1",
+               "name": "John Aylward",
+               "profile_path": "/jdU2dcdjBM3IbsQv6pEdZT64ajb.jpg",
+               "id": 103833,
+               "order": 6
+            },
+            {
+               "cast_id": 17,
+               "character": "Nicko",
+               "gender": 2,
+               "credit_id": "57310d54c3a36819c2000a68",
+               "name": "Doug Spinuzza",
+               "profile_path": "/frk6AkLK7SRZe0IwXLMwyDJrnv9.jpg",
+               "id": 35024,
+               "order": 7
+            },
+            {
+               "cast_id": 18,
+               "character": "Pete",
+               "gender": 2,
+               "credit_id": "57310dc99251413fb8000ae4",
+               "name": "Thomas Q. Morris",
+               "profile_path": "/hSwyc2w1p2U8vUxna6v0GQPwkGz.jpg",
+               "id": 1484867,
+               "order": 8
+            },
+            {
+               "cast_id": 19,
+               "character": "Catherine",
+               "gender": 0,
+               "credit_id": "57310f619251414868000904",
+               "name": "Vivienne Sendaydiego",
+               "profile_path": "/b3JChYQNrdQKMsqscShvEwPWsGe.jpg",
+               "id": 65422,
+               "order": 9
+            },
+            {
+               "cast_id": 20,
+               "character": "Bluto",
+               "gender": 2,
+               "credit_id": "5931973592514170770008c0",
+               "name": "Paul Bates",
+               "profile_path": "/c0MSOhtxwik2RwaSxNcL3eovSIJ.jpg",
+               "id": 4693,
+               "order": 10
+            },
+            {
+               "cast_id": 21,
+               "character": "Gurad Alan",
+               "gender": 2,
+               "credit_id": "59319764c3a3682b01000901",
+               "name": "Rex Linn",
+               "profile_path": "/2ze2PNirf4vle9sWRkSxHgv1iH0.jpg",
+               "id": 16937,
+               "order": 11
+            },
+            {
+               "cast_id": 22,
+               "character": "Guard Anderson",
+               "gender": 2,
+               "credit_id": "5931979a925141705c0008ec",
+               "name": "Rod McLachlan",
+               "profile_path": "/spIIZUsG5o4zUxsl32QGFnFl7Y3.jpg",
+               "id": 155560,
+               "order": 12
+            },
+            {
+               "cast_id": 23,
+               "character": "Annie",
+               "gender": 1,
+               "credit_id": "593197cfc3a3682b300009d5",
+               "name": "Tracey Ellis",
+               "profile_path": "/ctvSXygooaKmdSej12XeAimmsPk.jpg",
+               "id": 134061,
+               "order": 13
+            },
+            {
+               "cast_id": 24,
+               "character": "Lester Rodman",
+               "gender": 0,
+               "credit_id": "593198019251417064000941",
+               "name": "Kim Ingram",
+               "profile_path": null,
+               "id": 1827420,
+               "order": 14
+            },
+            {
+               "cast_id": 25,
+               "character": "Tom Hanley",
+               "gender": 2,
+               "credit_id": "593198519251417061000986",
+               "name": "Paul Collins",
+               "profile_path": "/5ledDuBp57ESqz2Ug8EJCkz02AA.jpg",
+               "id": 143574,
+               "order": 15
+            },
+            {
+               "cast_id": 26,
+               "character": "Foley",
+               "gender": 2,
+               "credit_id": "5931987d9251417070000967",
+               "name": "Marc Macaulay",
+               "profile_path": "/eSNgzHn7NUX9iAbG1MLV41lqy14.jpg",
+               "id": 6908,
+               "order": 16
+            },
+            {
+               "cast_id": 27,
+               "character": "Boaz",
+               "gender": 2,
+               "credit_id": "593198a9c3a3682b83000998",
+               "name": "Jim Grimshaw",
+               "profile_path": null,
+               "id": 41745,
+               "order": 17
+            },
+            {
+               "cast_id": 28,
+               "character": "Marjorie Powell",
+               "gender": 1,
+               "credit_id": "593198e59251417061000a04",
+               "name": "Louanne Stephens",
+               "profile_path": "/evbBYzGp7M5BaHwomHfKhwYNP7p.jpg",
+               "id": 204896,
+               "order": 18
+            },
+            {
+               "cast_id": 29,
+               "character": "Captain Kagona",
+               "gender": 0,
+               "credit_id": "593199479251417077000a60",
+               "name": "Ajgie Kirkland",
+               "profile_path": "/mw7vxoZHbnmsgcGRA1hR5RT09wV.jpg",
+               "id": 1325966,
+               "order": 19
+            },
+            {
+               "cast_id": 30,
+               "character": "David",
+               "gender": 0,
+               "credit_id": "5931997ac3a3682b01000aa6",
+               "name": "Chike Kani Omo",
+               "profile_path": null,
+               "id": 1827421,
+               "order": 20
+            },
+            {
+               "cast_id": 31,
+               "character": "Dr. Marzuez",
+               "gender": 1,
+               "credit_id": "593199d6925141705c000a6f",
+               "name": "Ivonne Coll",
+               "profile_path": "/9o1PzlyQKOPZMSXIwvNZN719svC.jpg",
+               "id": 46929,
+               "order": 21
+            },
+            {
+               "cast_id": 32,
+               "character": "Dr. Josephson",
+               "gender": 0,
+               "credit_id": "59319a10c3a3682b4e000a3a",
+               "name": "Pat McNamara",
+               "profile_path": null,
+               "id": 1174793,
+               "order": 22
+            },
+            {
+               "cast_id": 33,
+               "character": "Gilbert",
+               "gender": 2,
+               "credit_id": "59319a65c3a3682bac000b56",
+               "name": "Roger Floyd",
+               "profile_path": null,
+               "id": 182136,
+               "order": 23
+            },
+            {
+               "cast_id": 34,
+               "character": "Guard #1",
+               "gender": 2,
+               "credit_id": "59319ad1c3a3682bac000ba0",
+               "name": "Kurt Smildsin",
+               "profile_path": null,
+               "id": 93704,
+               "order": 24
+            },
+            {
+               "cast_id": 35,
+               "character": "Guard #2",
+               "gender": 0,
+               "credit_id": "59319b11c3a3682bac000bcb",
+               "name": "Jim R. Coleman",
+               "profile_path": "/hXVUwGegUIb7zpnbTPdtZD5dbq4.jpg",
+               "id": 78885,
+               "order": 25
+            },
+            {
+               "cast_id": 36,
+               "character": "Federal Marshall",
+               "gender": 0,
+               "credit_id": "59319b619251417061000bd9",
+               "name": "Gary Bristow",
+               "profile_path": null,
+               "id": 1236029,
+               "order": 26
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe44b89251416c7503eb31",
+               "name": "Jon Turteltaub",
+               "profile_path": "/borF48XTUkOCKE3ryh3BFxe4Unr.jpg",
+               "id": 12962,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44b89251416c7503eb37",
+               "name": "Gerald Di Pego",
+               "profile_path": null,
+               "id": 46086,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44b89251416c7503eb3d",
+               "name": "Danny Elfman",
+               "profile_path": "/pWacZpYPos8io22nEiim7d3wp2j.jpg",
+               "id": 531,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44b89251416c7503eb43",
+               "name": "Philippe Rousselot",
+               "profile_path": null,
+               "id": 1301,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44b89251416c7503eb49",
+               "name": "Richard Francis-Bruce",
+               "profile_path": "/pZUcIBbaWsX64d5Qy3SyGKcl88U.jpg",
+               "id": 6581,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44b89251416c7503eb4f",
+               "name": "Michael Taylor",
+               "profile_path": null,
+               "id": 17797,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe44b89251416c7503eb55",
+               "name": "Barbara Boyle",
+               "profile_path": null,
+               "id": 71324,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe44b89251416c7503eb5b",
+               "name": "Gail Katz",
+               "profile_path": null,
+               "id": 21865,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44b89251416c7503eb61",
+               "name": "Wolfgang Petersen",
+               "profile_path": "/t3Fxy4SBeOWj8T8TZbhwz3jlWAF.jpg",
+               "id": 5231,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "59319c55925141705c000c58",
+               "name": "Renee Rousselot",
+               "profile_path": null,
+               "id": 960987,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59319cb2c3a3682b9c000c88",
+               "name": "Garreth Stover",
+               "profile_path": null,
+               "id": 112520,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59319cdfc3a3682b5c000d1c",
+               "name": "Chris Cornwell",
+               "profile_path": null,
+               "id": 112521,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59319d029251417064000d1e",
+               "name": "Larry Dias",
+               "profile_path": null,
+               "id": 21984,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 1,
+               "credit_id": "59319d4e92514170ab000d2d",
+               "name": "Jill M. Ohanneson",
+               "profile_path": null,
+               "id": 28162,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59319e0392514170ab000dc1",
+               "name": "John Blake",
+               "profile_path": null,
+               "id": 1329417,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59319e4492514170ab000e24",
+               "name": "Daniel Curet",
+               "profile_path": null,
+               "id": 121275,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59319e7892514110bd00001b",
+               "name": "John M. Elliott Jr.",
+               "profile_path": null,
+               "id": 1322087,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Department Head"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59319ebfc3a3684fa2000080",
+               "name": "William M. Elvin",
+               "profile_path": null,
+               "id": 35664,
+               "department": "Directing",
+               "job": "First Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59319f1492514110ab0000eb",
+               "name": "Marcie Friedman",
+               "profile_path": null,
+               "id": 1213025,
+               "department": "Art",
+               "job": "Art Department Coordinator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59319f68c3a3684f43000153",
+               "name": "Mark Garner",
+               "profile_path": null,
+               "id": 66532,
+               "department": "Art",
+               "job": "Set Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59319fadc3a3684f6c0001cb",
+               "name": "Cosmas A. Demetriou",
+               "profile_path": null,
+               "id": 1327524,
+               "department": "Art",
+               "job": "Set Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59319ffec3a3684fa2000239",
+               "name": "Dan Pemberton",
+               "profile_path": null,
+               "id": 1532615,
+               "department": "Art",
+               "job": "Construction Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5931a030c3a3684f6c00026b",
+               "name": "Christopher Scheetz",
+               "profile_path": null,
+               "id": 1403084,
+               "department": "Art",
+               "job": "Construction Foreman"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5931a10dc3a3684f2a0003b9",
+               "name": "Scott Sanders",
+               "profile_path": null,
+               "id": 1423757,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5931a16a92514110ab0003b1",
+               "name": "Wylie Stateman",
+               "profile_path": null,
+               "id": 1352969,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5931a19c92514110ab0003ce",
+               "name": "Lauren Stephens",
+               "profile_path": null,
+               "id": 1392901,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5931a1cd92514110a600043f",
+               "name": "Jon Title",
+               "profile_path": null,
+               "id": 1342657,
+               "department": "Sound",
+               "job": "Sound Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5931a21fc3a3684f4300040f",
+               "name": "Keith Marbory",
+               "profile_path": null,
+               "id": 14193,
+               "department": "Visual Effects",
+               "job": "Special Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5931a26392514110c6000492",
+               "name": "James L. Roberts",
+               "profile_path": null,
+               "id": 1364413,
+               "department": "Crew",
+               "job": "Special Effects Coordinator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5931a353c3a3684f920004f9",
+               "name": "Jim Vickers",
+               "profile_path": null,
+               "id": 1433735,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5931a3f792514110f6000559",
+               "name": "Anastas N. Michos",
+               "profile_path": null,
+               "id": 19464,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5931a447c3a3684f920005a0",
+               "name": "Robin Melhuish",
+               "profile_path": null,
+               "id": 1551334,
+               "department": "Camera",
+               "job": "First Assistant Camera"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5931a47ac3a3684f920005c1",
+               "name": "Ted Morris",
+               "profile_path": null,
+               "id": 1552214,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5931a4f692514110b600067e",
+               "name": "John Casey",
+               "profile_path": null,
+               "id": 1330048,
+               "department": "Costume & Make-Up",
+               "job": "Costume Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5931a539c3a3684f43000641",
+               "name": "Alix Friedberg",
+               "profile_path": null,
+               "id": 52016,
+               "department": "Costume & Make-Up",
+               "job": "Key Costumer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5931a57092514110a6000701",
+               "name": "Bob Badami",
+               "profile_path": null,
+               "id": 5132,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5931a59e92514110f6000699",
+               "name": "Lisa Jaime",
+               "profile_path": null,
+               "id": 16497,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5931a5e2c3a3684fb0000704",
+               "name": "Scott Graves",
+               "profile_path": null,
+               "id": 1463728,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5931a62d92514110b1000757",
+               "name": "Thomas Johnston",
+               "profile_path": null,
+               "id": 587969,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5931a663c3a3684fb0000765",
+               "name": "Kris Olson",
+               "profile_path": null,
+               "id": 1538140,
+               "department": "Production",
+               "job": "Production Coordinator"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Mystery",
+            "id": 9648
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         }
+      ],
+      "popularity": 7.553598,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 12117,
+      "vote_count": 201,
+      "budget": 80000000,
+      "overview": "Dr. Ethan Powell, an anthropologist, is in Africa studying apes when he is lost for two years. When he is found, he kills 3 men and puts 2 in the hospital. Cuba Gooding's character is a psychiatrist who wants to take up the task of trying to get Dr. Powell to speak again and maybe even stand judgment at a trial for his release from prison of mental cases. Along the way, Cuba has to deal with also helping the mental patients that are being abused and neglected. In this process Cuba learns a few things about himself and life, and so does Anthony Hopkins character, Dr. Powell.",
+      "similar": [
+         357096,
+         10651,
+         2749,
+         4771,
+         445954,
+         22825,
+         984,
+         111083,
+         123109,
+         18587,
+         15069,
+         26390,
+         8090,
+         12150,
+         9299,
+         2832,
+         1586,
+         1572,
+         1949,
+         75780
+      ],
+      "original_title": "Instinct",
+      "runtime": 126,
+      "poster_path": "/utbDE181LCMA27E1CgGtaC4XrbF.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": "/jSj8E9Q5D0Y59IVfYFeBnfYl1uB.png",
+            "name": "Spyglass Entertainment",
+            "id": 158,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/ou5BUbtulr6tIt699q6xJiEQTR9.png",
+            "name": "Touchstone Pictures",
+            "id": 9195,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1999-06-04",
+      "vote_average": 6.3,
+      "belongs_to_collection": null,
+      "tagline": "Nothing is more savage than civilization.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Jon Turteltaub"],
+      "runtime": 126,
+      "synopsis": null,
+      "writers": [
+         "Gerald Di Pego",
+         "Gerald Di Pego"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0128278/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTM4MDc3MjExNl5BMl5BanBnXkFtZTcwMjg3OTMyMQ@@._V1_SY317_CR3,0,214,317_AL_.jpg",
+      "actors": ["Stars: Anthony Hopkins, Cuba Gooding Jr., Donald Sutherland | See full cast and crew »"],
+      "reviews": [
+         "Every once in a while a movie comes out that has something to say. It has something to offer that is more than just Hollywood. It believes in something. In recent years movies like Dances With Wolves, JFK, Falling Down, Malcolm X, Boyz and The Hood and Saving Private Ryan are recent ones that come to mind. They make us examine who we are and what we are doing here and why we do the things that we do. They make us question our actions and they show us that we are perhaps not as great as we thought we were. Movies like this don't come around too often and that's because they have things to say that not only people don't like to hear, but because they don't want to know. Dances With Wolves made me feel guilty to be a white man, Instinct made me ashamed to be a human being. There is a line in one of Pearl Jams songs that says \" I don't question our existence, I just question our modern needs. \" You will not find more profound lyrics than those ones and this movie takes that same idea and explores it deeper. It shows us the greedy nature of man and how destructive we all are. But it also shows us how beautiful it all once was, and how it all changed. This movie has been so unfairly critisized by everyone from the media to even other people in this very forum that don't seem to understand what it is all about. By now we all know the story of how Anthony Hopkins goes to the jungle and lives among the gorillas and then ends up murdering people. But what we don't know is why he does it. How he gets to that fateful moment and what it is that makes him, a peaceful man, want to kill another human being. The strengths in this movie are numerous but it starts with the performances. Hopkins is quietly brilliant as the emotionally traumatized and scarred former anthropologist. You can feel his pain even before he tells what it is that is eating away inside of him. Cuba Gooding is great as the doctor that goes on a journey with Ethan Powell. At first his interest in Powell is simply one of selfishness. But as he learns more about this complex man, the more he understands and empathizes with him. Also good in his role as the brutal prison guard is John Ashton ( remember him from Beverly Hills Cop? ). His character is very reminiscent of Clancy Brown's in Shawshank Redemption but he is very good here. But the real strength of the film is in the story and the screenplay. The two writers for the film care about what it is that they have to say and they believe in it. You can feel what it is that they are trying to convey. And that is simply: why must we as human beings be so destructive? Why must we be so hateful and greedy and why do have to ruin everything that was once pure and serene? The scenes in this film that are meant to ask for your sympathy are not just gratuitous violence to sell tickets, they are there because things like this happen in real life and we never do anything to stop it. And that is a shame. Denzel Washington's character in \" The Siege \" said, \" You don't let any murderer go free. ANY MURDERER!!! \" Well Hopkin's character was punished for his crime but what about the men that murdered those that weren't human? What crime have they committed? And what punishment do they receive for the act of murder against something that isn't human? There is no punishment. And that is what makes us sad individuals and that is what this movie is trying to tell us. Give this movie a chance. It really is a gem and hopefully it will open just one person's eyes and ask them to change. If it can do that, then it has done it's job. I applaud everyone associated with this movie. I just wish more studios and directors and actors would have the guts to do this. I just hope some people can see this movie for what it is and not for what we critisize it for trying to be. And as melo-dramatic as this review may sound to some people and as melo-dramatic as this is also going to sound, it has to be said. Thank you John Turtletaub for making this movie. You moved me and made me think about a great many things. I hope I'm not alone.",
+         "I sincerely believe this movie has been under-rated. Instinct is one of the best movies I have ever seen. It invites people to meditate about the meaning of freedom and it forces them to travel inside their mind. Anthony Hopkins is an extraordinary actor and the whole cast is superb. This movie is a gem, it's simply great!",
+         "This film really surprised me. I mean REALLY. I mean I knew that Hopkins, Sutherland and Gooding Jr. were good actors and I'd heard about the film, but I was believing it would be nothing special. I WAS wrong. It had been very long, since I had last seen a film, with a message, a meaning and a higher value than entertainment, but this one is it. Maybe it's just because I study psychology, but I really enjoyed this film. It will take away your illusions. Highly recommended. 8 out of 10",
+         "I just watched the network premiere of it on CBS and was blown way by how good it was. However, I'm even more shocked by the fact that I hadn't heard of it. I went to Box Office Mojo and found out that it only made 35 million dollars. I don't understand why this film was poorly received. The performances from all four lead actors were absolutely great. Anthony Hopkins and Cuba Gooding Jr. had great chemistry with each other and I love to see another movie with them together in lead roles. Maura Tierney consistently proves what a versatile actress she is and I'm convinced that she will become an even better actress. Donald Sutherland was his usual charming self and although is screen time was limited, he made up for it with his wonderful performance. The story of the movie is about a man, Ethan Powell (Hopkins), who is brought from Africa with charges of murder after living in the rainforest with gorillas for two years and hasn't spoken a word since his capture. Gooding Jr. plays a psychiatrist, Theo Caulder, who is assigned to him, who is determined to reach out to him and figure out what happened to him. Sutherland plays Gooding Jr.'s superior while Tierney plays Hopkins daughter. There were a lot of nicest touches in this movie such as Powell realizing that the camera, not his presence, bothered the gorillas, and Powell observing that the gorillas in the zoo were different from those in the rainforest. The scene where Powell demonstrates to Caulder that he needs to break down his illusions of freedom and control was really done well. I was impressed by the fact the reason for why Powell cracked was not only because gorilla hunters viciously killed Powell's gorilla family but also because of the items he left in the forest lead the hunters to the gorillas and, therefore, felt responsible. Overall, I thought this was a terrific movie and that everyone should go see it!",
+         "Dear reader, this movie is fully packed with meaning. The title gives out very little about the true nature of this remarkable work of Jon Turteltaub. Apart from the excellent acting of both the main characters (Hopkins and Cuba Gooding) and the secondary roles, the movie is based on a script of rare quality. This movie is certainly not going to be appreciated by everyone, certainly not by those unable to honestly look into the modern society and the workings of it, and their role in that society. This movie asks for soul-searching, and unless you are ready for it, unless you are ready to \"give up control\", you most probably won't like it. I did like it, thanks also to the fact that I already have meditated on the issues the film raises, earlier in my life. This film is capable of polarizing, because it contains a lot of unpleasant truth, that humanity should accept in order to really advance. This is an important movie, a very strong statement on today's society's relationshipt to nature and it's inhabitants. In the same time, it's analyzing the question of imprisonment and the treatment of inmates. It also raises questions about friendship and loyalty in a way never seen before. If you have not seen the movie and wonder whether you should, I will give you a hint without spoiling anything: if you didn't like Princess Mononoke, you will not like this movie, either.",
+         "On any level, this film has to be considered one of the most incisive and painful commentaries on the human condition. Above the acting (superior performances), above the direction, above all the production values is the constant message that we as a race are marching toward an open grave pit. For all our possessions, for all our wealth, for all our so-called achievements, we have yet to learn to respect the intelligence of nature and to act accordingly. \"Instinct\" is in every living organism and to deny one's own instinct is to go against the natural order. The prison system in this country doesn't work because it is used to destroy man's spirit instead of supporting it. Until we learn how to live in harmony and love with all the other living organisms, we will continue to destroy what we seek to build. Don't buy those Christmas presents - support your wildlife fund. We don't need things, we need spiritual reconnection with the earth we live on. Dr. Powell, as played by Anthony Hopkins, is one of the most highly evolved beings ever seen in a movie. To the writer I am grateful for his creation, to Mr. Hopkins I am grateful for giving us a character to emulate. This movie has made a lasting impression on me. I hope it does the same for everyone who sees it. Open your heart because if you don't, then you will create your own inner prison and live a messy life that the rest of us will have to clean up.",
+         "Ethan Powell (Anthony Hopkins) A brilliant anthropologist, committed to an asylum for the criminally insane after committing murder. Theo Caulder (Cuba Gooding Jr.) a brilliant young psychologist, volunteers to examine Ethan to try and understand what exactly went on. Theo's driven ambition pushes him into the psyche of a madman where he risks his own life to peel away the layers and unveil the man behind the madness. A perfect cast and terrific story make this a very tense and thrilling ride through the mind of a madman, who may just hold the secret to remove the illusions we all have. 8/10 If you bore easily then leave well alone.",
+         "A friend and I saw a sneak preview of INSTINCT last night. The film stars Anthony Hopkins and Cuba Gooding Jr. and looked like a thriller about an anthropologist who went to Africa and wound up living with gorillas instead of just studying them. It was much more. Hopkins' character, Dr. Ethan Powell, is accused of the murders of several Africans. Having been held in a Rwandan prison for a year, he's then extradited to the U.S. and put in a lovely prison in the insane department. Donald Sutherland (looking mighty fine!) is a noted professor of psychiatry at a nearby University, and Gooding is his pet resident, Dr. Theo Calder. When Sutherland's department is asked by the feds to do a psych evaluation, Gooding as Calder researches the case and begs to be allowed to do the work. Calder has been shown at this point to be a brilliant, ambitious resident with a sterling career ahead, and so Sutherland gives him the chance. What develops from there is a wonderfully written, exquisitely acted story, interweaving the sessions with Powell and Calder with the life of the prison and its insane inmates. Further woven into the fabric is the story of what happened to Powell in Africa. In the African scenes, Stan Winston's work on the apes is incredibly realistic and never cartoonish. Danny Elfman's score (I don't always like Elfman, but did enjoy the Batman score) is also a beautiful accompaniment to these scenes, though a little heavy in other parts of the film. It's hard to explain the refreshingly intelligent and moving and thoughtful script of this film. Issues such as what is really civilized behavior, the pack as family mentality, and humanity vs. inhumanity are explored with depth but never with a heavy hand. The performances of Hopkins and Gooding are exceptional. Gooding did a great job with the other film I'd seen him in, JERRY MAGUIRE, but the depths of emotion and the layered aspects of his performance in INSTINCT are incredible. My friend said after we'd left the theater last night that this came very close to being a Great Film. And she's right. It had a great script and brilliant performances by all, fully realized characters (even the secondary ones), good plot. Where it falls a little, I think, is in the direction. Jon Turteltaub is a competent director who has done films I've enjoyed, such as WHILE YOU WERE SLEEPING and PHENOMENON. But in this case, with everything it had going for it, Turteltaub didn't hold the strings tight. The pacing is off in a few places, and a whiff of a subplot involving Gooding's character in a romance with Maura Tierney as Hopkins' daughter fails because you can feel it waffling. Should we leave this subplot in or pull it out? Since they couldn't decide, it leans both ways from scene to scene. This speaks to me of weakness in the director. But INSTINCT is a very, very good film. Highly recommended. And those of you who are prone to weep, bring your hankies.",
+         "I think this is a GREAT movie. It has a story line that while not complicated, is very different. And it is a great story that is very facinating. There were a number of great character acts too. There are a number of characters in the insane prison from a number of \"unknown\" actors that really give the movie added personality. It made me want to look up these actors to see what else they do. The scenes with the gorillas were tastefully done, with no over kill that made it look somewhat artificial, which so many movies tend to do. For example, 'Greystoke' starring Christofer Lambert as Tarzan, was an attempt at realism, but had the apes portraying some very human like relationships. Not so with 'Instinct'. The only thing I found spoilt the movie a bit was to suggest that an American insane prison setup would find it necessary, even encouraged, for inmates to be violent to each other. This ridiculous aspect brought the quality of the movie down a notch or two. The relationship between Hopkins and Gooding was fantastic. And the intense scene between them involving 'duck tape' really brought forth the message the movie was giving. SO, why is the movie more well known??? I guess the movie promoters just didn't do their job very well. OH WELL!!! Movie gets 8/10 from me.",
+         "SPOILERS Sometimes it's a curiousity that just won't go away. Why is it that the vast majority of films which are mainly based in a mental institution are quality. \"One Flew Overs The Cuckoo's Nest\", the mental institution section of \"12 Monkeys\" and this film, are all movie memories to treasure. Society has always believed that if someone is mentally different to the rest of us, then that person requires to be physically confined. This might be true in the occasional case, but as John Stuart Mill once considered, what makes Society flavoured is it's variety in viewpoints. Mill pondered that rather than locking away someone with a different viewpoint to our own, we should cherish this persons opinion. In a way, this film continues along this idea. In \"Instinct\", Cuba Gooding Jnr, an actor who I confess to not being a big fan of, although who displayed excellent skill in the final ten minutes of this film, convinces his boss, the God like Donald Sutherland, to allow him to investigate the case of an \"ape-man\" (Hopkins). Cuba spends the majority of this film either talking to Sir Hopkins and learning the truth about society and freedom or talking about Anthony's situation with Hopkin's daughter, Maura Tierney. All three actors put in acceptable performances, with the occasional moment of excellence, and the plot of this film is, whilst not too obvious when watching but definate afterwards, apparently heading to a blatant climax at the end of it. The thing with this film which I love, despite the almost forced opinion of loving animals and hating humans, is the idea towards the end of freedom. Are we free beings? If you ever ask a person on the street if they consider themselves to be free, it's logical to assume that they'd say something like \"of course I'm free, I have choice and the freedom to do what I want\". The problem, as this film points out is that ultimately, we don't. The restraints upon us, normally by an authority figure in this society, hinder this attempt to be ultimately free and our desires to gain this authority by playing \"The Game\" only drag us further and further from ever being in reality free. Ultimately, aside from the cute Gorilla's and a mental institute full of scarily likeable \"madmen\", this notion of freedom is the most important part. If you choose this film, I suggest you watch it because your willing to think. If you desire to watch Gorilla's in their living enviroment, watch a nature programme with David Attenborough or someone similar. This film requires an open mind, and the ability to accept, that perhaps, no matter how hard we try, freedom is something the majority of us will never have."
+      ],
+      "genres": [
+         "Drama",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "Spyglass Entertainment",
+         "Touchstone Pictures"
+      ],
+      "summaries": [
+         "Nearly two years after having gone amiss in Africa, renowned anthropologist Dr. Ethan Powell is caught committing a crime and subsequently imprisoned in a Florida mental institution, where aspiring psychiatrist Dr. Theo Calder takes over his important case. Dr. Powell, who has been with a group of gorillas during all that time, is not talking at all and seems to be living in a dreamworld. Very slowly, Dr. Calder manages to reach Ethan Powell and starts finding out why Ethan killed two of the poachers. Yet Theo's case is not just about why the murders have happened, but also about how Dr. Powell became the being he is in the first place. With Ethan's silence broken, Theo is introduced into a world beyond common human comprehension: The true nature of being. He learns that mankind's control of everything is a mere illusion and that the true values of existence can't be found so easily. Ethan changes Theo's view of things forever.",
+         "Dr. Ethan Powell, an anthropologist, is in Africa studying apes when he is lost for two years. When he is found, he kills 3 men and puts 2 in the hospital. Cuba Gooding's character is a psychiatrist who wants to take up the task of trying to get Dr. Powell to speak again and maybe even stand judgment at a trial for his release from prison of mental cases. Along the way, Cuba has to deal with also helping the mental patients that are being abused and neglected. In this process Cuba learns a few things about himself and life, and so does Anthony Hopkins character, Dr. Powell.",
+         "When a noted anthropologist who left society to live in the jungle is imprisoned for murder, it's up to a young psychiatrist to get through to him."
+      ],
+      "budget": 55000000
+   },
+   "movielensId": 2676,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1999-06-04",
+      "dvdReleaseDate": "1999-11-16",
+      "directors": ["Jon Turteltaub"],
+      "runtime": 126,
+      "movieId": 2676,
+      "title": "Instinct",
+      "mpaa": "R",
+      "actors": [
+         "Anthony Hopkins",
+         "Cuba Gooding Jr.",
+         "Donald Sutherland",
+         "Maura Tierney",
+         "George Dzundza",
+         "John Ashton",
+         "John Aylward",
+         "Doug Spinuzza",
+         "Thomas Q. Morris",
+         "Vivienne Sendaydiego",
+         "Paul Bates",
+         "Rex Linn",
+         "Rod McLachlan",
+         "Tracey Ellis",
+         "Kim Ingram",
+         "Paul Collins",
+         "Marc Macaulay",
+         "Jim Grimshaw",
+         "Louanne Stephens",
+         "Ajgie Kirkland",
+         "Chike Kani Omo",
+         "Ivonne Coll",
+         "Pat McNamara",
+         "Roger Floyd",
+         "Kurt Smildsin",
+         "Jim R. Coleman",
+         "Gary Bristow"
+      ],
+      "imdbMovieId": "0128278",
+      "originalTitle": "Instinct",
+      "genres": [
+         "Drama",
+         "Mystery",
+         "Thriller"
+      ],
+      "youtubeTrailerIds": ["zdSZaTBWQqw"],
+      "plotSummary": "Dr. Ethan Powell, an anthropologist, is in Africa studying apes when he is lost for two years. When he is found, he kills 3 men and puts 2 in the hospital. Cuba Gooding's character is a psychiatrist who wants to take up the task of trying to get Dr. Powell to speak again and maybe even stand judgment at a trial for his release from prison of mental cases. Along the way, Cuba has to deal with also helping the mental patients that are being abused and neglected. In this process Cuba learns a few things about himself and life, and so does Anthony Hopkins character, Dr. Powell.",
+      "tmdbMovieId": 12117,
+      "avgRating": 3.14743,
+      "releaseYear": "1999",
+      "numRatings": 2201,
+      "posterPath": "/utbDE181LCMA27E1CgGtaC4XrbF.jpg"
+   }
+}

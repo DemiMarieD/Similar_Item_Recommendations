@@ -1,0 +1,797 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "ice",
+            "id": 1445
+         },
+         {
+            "name": "space marine",
+            "id": 1826
+         },
+         {
+            "name": "paranoia",
+            "id": 2340
+         },
+         {
+            "name": "snow storm",
+            "id": 3373
+         },
+         {
+            "name": "norwegian",
+            "id": 4711
+         },
+         {
+            "name": "research station",
+            "id": 4713
+         },
+         {
+            "name": "alien life-form",
+            "id": 4862
+         },
+         {
+            "name": "remake",
+            "id": 9714
+         },
+         {
+            "name": "alien",
+            "id": 9951
+         },
+         {
+            "name": "antarctica",
+            "id": 14728
+         },
+         {
+            "name": "shape shifting alien",
+            "id": 14729
+         },
+         {
+            "name": "cult film",
+            "id": 34117
+         },
+         {
+            "name": "sled dogs",
+            "id": 155821
+         }
+      ],
+      "imdb_id": "tt0084787",
+      "video": false,
+      "title": "The Thing",
+      "recommendations": [
+         9426,
+         765,
+         764,
+         948,
+         60935,
+         8337,
+         1103,
+         923,
+         814,
+         766,
+         10331,
+         6978,
+         609,
+         8413,
+         106,
+         679,
+         377,
+         837,
+         5548,
+         30497
+      ],
+      "backdrop_path": "/7mdGrxp3ZL2OqNSrQ5LoYySi5MH.jpg",
+      "revenue": 19629760,
+      "reviews": [{
+         "author": "John Chard",
+         "id": "56342f2c92514161670083d7",
+         "content": "Flips the scenario round from the original to great effect.\r\n\r\nJohn Carpenter shows how much he loves the 1951 original by giving it the utmost respect that he possibly could, the only difference here is that Carpenter chooses to stick to the paranoiac core of John W Campbell Jr's short story.\r\n\r\nThe secret to this version's success is the unbearable tension that builds up as the group of men become suspicious of each other, the strain of literally waiting to be taken over takes a fearful hold. Carpenter then manages to deliver the shocks as well as the mystery that's needed to keep the film heading in the right direction.\r\n\r\nBe it an horrific scene or a \"what is in the shadow\" sequence, the film is the perfect fusion of horror and sci-fi. The dialogue is laced with potency and viability for a group of men trying to keep it together under such duress, while Ennio Morricone's score is a wonderful eerie pulse beat that further racks up the sense of doom and paranoia seaming throughout the film.\r\n\r\nThe cast are superb, a solid assembly line of actors led by Carpenter favourite Kurt Russell, whilst the effects used around the characters get the right amount of impact needed. But most of all it's the ending that is the crowning glory, an ending that doesn't pander to the norm and is incredibly fitting for what has gone on before it. Lets wait and see what happens indeed. 10/10",
+         "url": "https://www.themoviedb.org/review/56342f2c92514161670083d7"
+      }],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 14,
+               "character": "R.J. MacReady",
+               "gender": 2,
+               "credit_id": "52fe42e7c3a36847f802ba37",
+               "name": "Kurt Russell",
+               "profile_path": "/rlnFuNkisPpuypARI7QaGCmOY6V.jpg",
+               "id": 6856,
+               "order": 0
+            },
+            {
+               "cast_id": 18,
+               "character": "Childs",
+               "gender": 2,
+               "credit_id": "52fe42e7c3a36847f802ba47",
+               "name": "Keith David",
+               "profile_path": "/nwAC9TgwRkj0Ritq93O8GeublyL.jpg",
+               "id": 65827,
+               "order": 1
+            },
+            {
+               "cast_id": 15,
+               "character": "Dr. Blair",
+               "gender": 2,
+               "credit_id": "52fe42e7c3a36847f802ba3b",
+               "name": "Wilford Brimley",
+               "profile_path": "/t0TLF4qXgXiroirvjVWWP88B0GD.jpg",
+               "id": 11065,
+               "order": 2
+            },
+            {
+               "cast_id": 23,
+               "character": "Garry",
+               "gender": 2,
+               "credit_id": "52fe42e7c3a36847f802ba5b",
+               "name": "Donald Moffat",
+               "profile_path": "/8kZ2Ow3cPtTmDwTxL7jFEsQi4ia.jpg",
+               "id": 15417,
+               "order": 3
+            },
+            {
+               "cast_id": 19,
+               "character": "Dr. Copper",
+               "gender": 2,
+               "credit_id": "52fe42e7c3a36847f802ba4b",
+               "name": "Richard Dysart",
+               "profile_path": "/uYWgsPAjJ2VyhVwGuBkVxmwB2wt.jpg",
+               "id": 15413,
+               "order": 4
+            },
+            {
+               "cast_id": 20,
+               "character": "Norris",
+               "gender": 2,
+               "credit_id": "52fe42e7c3a36847f802ba4f",
+               "name": "Charles Hallahan",
+               "profile_path": "/bXRE5dfHZZhovEbXgQCXDTw9ZHY.jpg",
+               "id": 15414,
+               "order": 5
+            },
+            {
+               "cast_id": 16,
+               "character": "Nauls",
+               "gender": 2,
+               "credit_id": "52fe42e7c3a36847f802ba3f",
+               "name": "T. K. Carter",
+               "profile_path": "/qoeRT7O8ORQ36Hd18mmN4WfP9ZP.jpg",
+               "id": 15411,
+               "order": 6
+            },
+            {
+               "cast_id": 17,
+               "character": "Palmer",
+               "gender": 2,
+               "credit_id": "52fe42e7c3a36847f802ba43",
+               "name": "David Clennon",
+               "profile_path": "/sUZ6eL77Eh0aNYSx2NaB9NEZeCf.jpg",
+               "id": 15412,
+               "order": 7
+            },
+            {
+               "cast_id": 21,
+               "character": "Bennings",
+               "gender": 2,
+               "credit_id": "52fe42e7c3a36847f802ba53",
+               "name": "Peter Maloney",
+               "profile_path": "/q6R13qWu3EzEGuyfz7n30RNllQj.jpg",
+               "id": 15415,
+               "order": 8
+            },
+            {
+               "cast_id": 22,
+               "character": "Clark",
+               "gender": 2,
+               "credit_id": "52fe42e7c3a36847f802ba57",
+               "name": "Richard Masur",
+               "profile_path": "/w8qQdmxLRRSXNXkjHKHlY5vawXG.jpg",
+               "id": 15416,
+               "order": 9
+            },
+            {
+               "cast_id": 24,
+               "character": "Fuchs",
+               "gender": 2,
+               "credit_id": "52fe42e7c3a36847f802ba5f",
+               "name": "Joel Polis",
+               "profile_path": "/bwDOMBwBxL2cyXHBa4sLO00ifQg.jpg",
+               "id": 15418,
+               "order": 10
+            },
+            {
+               "cast_id": 25,
+               "character": "Windows",
+               "gender": 0,
+               "credit_id": "52fe42e7c3a36847f802ba63",
+               "name": "Thomas G. Waites",
+               "profile_path": "/siYdrSBj0ubxuCZm66lotNulg6M.jpg",
+               "id": 15419,
+               "order": 11
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe42e7c3a36847f802b9eb",
+               "name": "John Carpenter",
+               "profile_path": "/jGprVNNSmlJzLNhm2tcdmjquLyL.jpg",
+               "id": 11770,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe42e7c3a36847f802b9f1",
+               "name": "Bill Lancaster",
+               "profile_path": null,
+               "id": 15406,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe42e7c3a36847f802b9fd",
+               "name": "David Foster",
+               "profile_path": "/5XcWMR9BEEqWgIhBopMvnHJWbsk.jpg",
+               "id": 11813,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe42e7c3a36847f802ba09",
+               "name": "Wilbur Stark",
+               "profile_path": null,
+               "id": 15408,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe42e7c3a36847f802ba0f",
+               "name": "Ennio Morricone",
+               "profile_path": "/tlntfyflyEHgJTFjqIgg8P8UIx9.jpg",
+               "id": 1259,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe42e7c3a36847f802ba15",
+               "name": "Dean Cundey",
+               "profile_path": "/xunb0FZLZLhca2F5OJcKzV1mjR0.jpg",
+               "id": 1060,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe42e7c3a36847f802ba1b",
+               "name": "Todd C. Ramsay",
+               "profile_path": null,
+               "id": 1767,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe42e7c3a36847f802ba21",
+               "name": "Anita Dann",
+               "profile_path": null,
+               "id": 15409,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe42e7c3a36847f802ba27",
+               "name": "John J. Lloyd",
+               "profile_path": null,
+               "id": 7186,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe42e7c3a36847f802ba2d",
+               "name": "Henry Larrecq",
+               "profile_path": null,
+               "id": 15410,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe42e7c3a36847f802ba33",
+               "name": "John M. Dwyer",
+               "profile_path": null,
+               "id": 796,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54e637ac92514121f80004de",
+               "name": "Stuart Cohen",
+               "profile_path": null,
+               "id": 15407,
+               "department": "Production",
+               "job": "Co-Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54e637f59251412201000466",
+               "name": "John W. Campbell Jr.",
+               "profile_path": null,
+               "id": 1429045,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58988ddfc3a368770e00a347",
+               "name": "Cyrus Block",
+               "profile_path": null,
+               "id": 1271804,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "537b6f9ec3a3685e14001a90",
+               "name": "Ronald I. Caplan",
+               "profile_path": null,
+               "id": 1321695,
+               "department": "Costume & Make-Up",
+               "job": "Costume Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "537b6fc0c3a3685e41001c97",
+               "name": "Gilbert Loe",
+               "profile_path": null,
+               "id": 1321696,
+               "department": "Costume & Make-Up",
+               "job": "Costume Supervisor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "537b6fd6c3a3685e2200193e",
+               "name": "Trish Keating",
+               "profile_path": null,
+               "id": 62164,
+               "department": "Costume & Make-Up",
+               "job": "Costume Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5447a024c3a3686d96002360",
+               "name": "John Zemansky",
+               "profile_path": null,
+               "id": 1376512,
+               "department": "Crew",
+               "job": "Property Master"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5447a03ec3a3686d890022c7",
+               "name": "Barton M. Susman",
+               "profile_path": null,
+               "id": 1376513,
+               "department": "Art",
+               "job": "Leadman"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5447a0640e0a2672d40022b3",
+               "name": "David Lewis Yewdall",
+               "profile_path": null,
+               "id": 1376514,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5447a07d0e0a2672ee0023f3",
+               "name": "Colin C. Mouat",
+               "profile_path": null,
+               "id": 16210,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5447a09ec3a3686d890022d4",
+               "name": "Warren Hamilton Jr.",
+               "profile_path": null,
+               "id": 1269306,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5447a0c10e0a2672d40022c5",
+               "name": "Steve Maslow",
+               "profile_path": null,
+               "id": 928942,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5447a122c3a3686e91001f91",
+               "name": "Thomas Marshall",
+               "profile_path": null,
+               "id": 1376515,
+               "department": "Lighting",
+               "job": "Gaffer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5447a13a0e0a2672dd002356",
+               "name": "Charles E. Nippell",
+               "profile_path": null,
+               "id": 1376516,
+               "department": "Lighting",
+               "job": "Best Boy Electric"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5447a157c3a3686d9200234a",
+               "name": "Raymond Stella",
+               "profile_path": null,
+               "id": 62583,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5447a1b00e0a2672eb002337",
+               "name": "Cliff Kohlweck",
+               "profile_path": null,
+               "id": 1344273,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5447a1d20e0a2672da0022e7",
+               "name": "Candy Artmont",
+               "profile_path": null,
+               "id": 1376517,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54e637c8c3a3685fea0003f7",
+               "name": "Lawrence Turman",
+               "profile_path": null,
+               "id": 10770,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54e637ddc3a3685fdd000537",
+               "name": "Larry J. Franco",
+               "profile_path": null,
+               "id": 511,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54e63829c3a3685fea0003fb",
+               "name": "Rob Bottin",
+               "profile_path": null,
+               "id": 101608,
+               "department": "Crew",
+               "job": "Makeup Effects"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54e6387cc3a3685fd400052a",
+               "name": "Ken Diaz",
+               "profile_path": "/evDWsHoxnKp5saXTjVOMFXJnX3O.jpg",
+               "id": 14653,
+               "department": "Crew",
+               "job": "Makeup Effects"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5849bc8d92514159b000467c",
+               "name": "Christine Wilson",
+               "profile_path": null,
+               "id": 1384398,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58988d5a9251417a82009c81",
+               "name": "Nate Irwin",
+               "profile_path": null,
+               "id": 1752055,
+               "department": "Crew",
+               "job": "Pilot"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58988d6e9251417a8a009cec",
+               "name": "Lawrence Perry",
+               "profile_path": null,
+               "id": 1752057,
+               "department": "Crew",
+               "job": "Pilot"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58988da2c3a36877240096a9",
+               "name": "Ken Strain",
+               "profile_path": null,
+               "id": 1077434,
+               "department": "Crew",
+               "job": "Pilot"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58988e289251417a8e00a7c9",
+               "name": "David R. Anderson",
+               "profile_path": null,
+               "id": 1413602,
+               "department": "Lighting",
+               "job": "Gaffer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58988e63c3a368771a009b01",
+               "name": "Dave Gordon",
+               "profile_path": null,
+               "id": 1258222,
+               "department": "Camera",
+               "job": "Dolly Grip"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58988e76c3a3687709009b12",
+               "name": "Kris Krosskove",
+               "profile_path": null,
+               "id": 1537471,
+               "department": "Camera",
+               "job": "Dolly Grip"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58988ea1c3a368771500a2eb",
+               "name": "Dillard Brinson",
+               "profile_path": null,
+               "id": 1296181,
+               "department": "Camera",
+               "job": "Key Grip"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58988eb79251417a7c00a1f5",
+               "name": "Ronald Woodward",
+               "profile_path": null,
+               "id": 1752062,
+               "department": "Camera",
+               "job": "Key Grip"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59f5e7589251414221013af8",
+               "name": "John Carpenter",
+               "profile_path": "/jGprVNNSmlJzLNhm2tcdmjquLyL.jpg",
+               "id": 11770,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59f5e763c3a3682fd50154fa",
+               "name": "Alan Howarth",
+               "profile_path": null,
+               "id": 15445,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5a6360d89251410b1c00ef16",
+               "name": "Phyllis Newman",
+               "profile_path": null,
+               "id": 1559277,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a6360fbc3a3687f7100e239",
+               "name": "Ken Chase",
+               "profile_path": null,
+               "id": 14713,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Horror",
+            "id": 27
+         },
+         {
+            "name": "Mystery",
+            "id": 9648
+         },
+         {
+            "name": "Science Fiction",
+            "id": 878
+         }
+      ],
+      "popularity": 34.813655,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 1091,
+      "vote_count": 2078,
+      "budget": 15000000,
+      "overview": "Scientists in the Antarctic are confronted by a shape-shifting alien that assumes the appearance of the people it kills.",
+      "similar": [
+         60935,
+         10513,
+         9982,
+         34851,
+         8337,
+         348,
+         395,
+         601,
+         607,
+         608,
+         10200,
+         47933,
+         49849,
+         9016,
+         18,
+         299687,
+         137113,
+         126889,
+         228161,
+         8077
+      ],
+      "original_title": "The Thing",
+      "runtime": 109,
+      "poster_path": "/s5fH3GqFcHbi2F0NSBSh4KRNTc0.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Norsk",
+            "iso_639_1": "no"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+            "name": "Universal Pictures",
+            "id": 33,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": null,
+            "name": "Turman-Foster Company",
+            "id": 662,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1982-06-25",
+      "vote_average": 7.8,
+      "belongs_to_collection": {
+         "backdrop_path": "/lUPruOqjDhZrCKz9Ze2tCufPxHR.jpg",
+         "name": "The Thing Collection",
+         "id": 479888,
+         "poster_path": "/1HBU3tHjfk2hGQMHGuNJ0T9SbsJ.jpg"
+      },
+      "tagline": "Man is The Warmest Place to Hide.",
+      "adult": false,
+      "homepage": "http://www.theofficialjohncarpenter.com/the-thing/",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["John Carpenter"],
+      "runtime": 109,
+      "synopsis": "In the opening shot, an alien spaceship flies through space and enters Earth's atmosphere near Antarctica. Whether or not the ship crashes or lands on Earth is unknown. In Antarctica, the winter months of 1982, a helicopter flies hurriedly after a husky. The man riding next to the pilot shoots a rifle and drops grenades hoping to kill the dog. The runs toward an American research base, Outpost 31, where a 12-man research crew is getting ready for the upcoming winter. The helicopter, which they see is from a Norwegian research base, flies in and lands. The Americans watch puzzled as two men that emerge from the helicopter speak frantically in their native language. One of them pulls the pin on a grenade but clumsily throws it behind him. As he frantically tries to find it in the snow, it explodes, killing him and taking the helicopter with it. The pilot (named Matias in the prequel) is shooting his rifle hysterically and talking frantically; no one can understand what he is saying and the man shoots Bennings ( Peter Maloney) in his left leg. The camp leader Garry ( Donald Moffat) shoots the gibbering man in defense. Puzzled about why the Norwegians were trying to kill the dog, MacReady ( Kurt Russell) the team's helicopter pilot, their doctor, Copper ( Richard Dysart) and Norris ( Charles Hallahan), go to investigate the Norwegian base. Everyone is dead; one of them had barricaded himself in the radio room and is still sitting frozen in his chair, his wrists and throat slit. Mac and Copper explore further, finding a large & empty box of ice. Along with the human bodies, the American team finds at the Norwegian base the burnt and frozen corpse of a twisted creature, not man but not beast, either. They bring it back to their own base for an autopsy, but that muddies up the mystery. That night, the new stray husky is locked in with the sled dogs. The other dogs soon react with fear to the new addition, growling and snarling. The new dog suddenly transforms into a hideous creature with tentacles and crab's legs and starts attacking the other dogs. The scene is discovered by Clark, who tends to the dogs and he watches, horrified. Mac hears the sounds of the thing's unworldly groan and he immediately responds by sounding the fire alarm, waking up the entire camp who converge on the dog kennel where they see the hideous dog-like creature seemingly consuming the other sled dogs. After shooting at it with their guns, the 'thing' is killed with a flamethrower. (Note: fire is apparently the only effective weapon against the alien creature which can hurt as well as kill it.) An autopsy on the thing's remains reveals its secret: the \"thing\" is an alien organism that imitates other life forms by attacking, and either digesting or dissolving them and reshaping it's image to appear in the animal or person it kills. The following day, MacReady flies with Palmer and Norris to the crash site of where the Norwegians found the UFO after watching a videotape of the discovery of something buried under the ice, and the Norwegians using thermal charges to melt the ice on the spaceship. They find the alien spaceship in the open crater and haul themselves down to look around. Mac asks Norris how long the ship has been entombed; Norris estimates that it's been there for at least 100,000 years. Up near the crash site, they find a block of the ice cap missing where the thing was discovered and chopped out of the ice by the Norwegians. Back at Outpost 31, Mac theorizes that the Norwegians awakened the creature and it immediately began to attack them. The team decides to place the creature's remains in a storage room. Fuchs ( Joel Polis) asks to speak privately with Mac; he tells Mac that he's been looking through Blair's ( Wilford Brimley) notes & found that Blair believes the organism's cells are still alive and active. Blair has also theorized that the alien might have imitated a thousand other lifeforms across space. While Windows and Bennings prepare the room to store the remains, it begins to move under the blanket it's been covered with. Windows returns to the room to find Bennings being attacked, wrapped in tentacles. Windows gets the other team members but Bennings has vanished, running out the back door. They find him in the snow, his transformation by the alien nearly complete except for his hands, which are hideously large and grotesque shapes. The team incinerates him alive and buries him in the snow. Blair, the American team's biologist, studies cells from this Thing, and watches them attack and replicate other kinds of cells on his computer. Typing his report into his computer, the computer replies that the possibility that one or more team members may be infected by the alien organism is 75%, and that if the alien reached civilization, the Earth's population will be infected and taken over by the alien organism exactly 27,000 hours (around 37 months) after first contact. Realizing that something like this could take over the world if it got out, he kills the surviving sled dogs and destroys the helicopter and the communications equipment (injuring the radio operator Windows ( Thomas G. Waites) in the process), trapping the crew without hope of rescue. The others, seeing him as a threat, lock him in the camp's tool shed and sedate him. Soon, fear and paranoia circulates around the camp as nobody knows who may be the thing or who isn't. When blood plasma in the storage room is found to to be tampered with, which a scientific test that could have been used to find out who or who isn't human, Gary and two others become suspects because of their access to the storage room. As a result they are quarantined by MacReady who takes over as the 'de facto' leader of the team to find out who may be the Thing. When a 'whiteout' storm (an Antarctic storm resembling a winter hurricane) hits the camp, they are forced to hunker down, all of them paranoid and distrustful of one another. The following evening, Fuchs, trying to do research on how the Thing can reproduce and multiply, is waylaid when one of the unseen persons infected, disables the power to the lab. In going after it, Fuchs is killed and his body is found outside in the snow a few hours later by Mac, Nauls and Windows. Either the Thing burned Fuchs to death, or Fuchs burned himself in a suicide to prevent him from being taken over. Mac tells Windows to return to the main building while he goes with Nauls to his shack to investigate: when he left two days before, he'd turned out the lights and they're back on. Nauls returns to the camp, nearly collapsing because of the cold. He tells the others he'd found clothing with Mac's name on it in the oil drum near MacCready's shack. As they were struggling back to the main compound, Nauls cut Mac's safety line and made a break for it. Mac is locked outside and breaks the window in another storeroom to enter. He arms himself with a small bundle of dynamite and threatens to blow himself & the rest of them up if they don't back away. When Childs ( Keith David) and the others rebel against MacReady (and to express their suspicion that he may be the Thing), Norris collapses when he appears to have a heart attack. When Dr. Copper tries to revive him using defibrillator paddles, Norris' chest suddenly opens up into a monstrous mouth and bites off Copper's arms. MacReady uses a flamethrower to destroy the Norris/Thing, leaving only it's head, which sprouts spider-like legs and tries to crawl away before it is destroyed as well. At this point, MacReady leads the others in a test to determine who is infected. He suggests that everyone give a blood sample, and then those blood samples be poked with a hot piece of wire. The theory is that each part of a Thing will try to survive independently, and therefore the blood would transform to defend itself. One member, named Clark ( Richard Masur) makes another attempt on MacReady's life, he is shot and killed by him. Everyone is tied up while the test is performed. Windows is the first to be tested, and turns out to be human; MacReady arms him with a flamethrower to torch anyone who might be a Thing. As MacReady continues the test, he openly accuses Garry of being a duplicate, but instead finds that Palmer ( David Clennon) is a Thing clone. As Palmer transforms, MacReady's flamethrower misfires and Windows hesitates to kill the Palmer-Thing, which proves to be a fatal mistake as Palmer-Thing's entire head splits open and turns into a giant mouth, which is used to crush Windows' head. MacReady manages to get his flamethrower working and sets the Palmer-Thing on fire which crashes through the wall to die in the snow. MacReady is then forced to torch Windows the other flame thrower, since he is now infected and the Thing is coming back through him. MacReady and the three remaining survivors, Childs, Garry, and Nauls ( T.K. Carter) are revealed to be not infected. While ordering Childs to stay behind to watch the camp, MacReady, Garry and Nauls go to check on Blair, and discover the shed empty, save for a space craft Blair had been building under the shed. When the power in the whole compound turns off, the survivors discover that Blair is the last Thing creature and he must be stopped. Finally, realizing how pervasive the infection is and that there is little chance for survival, it is proposed that they blow up the base so the Thing can't get to the rest of the world. Childs runs off, and MacReady, Nauls and Garry set fire to the complex with dynamite to prevent the Thing from freezing itself again. In venturing down into the basement of the camp to set TNT charges, Garry is killed by the infected Blair. Nauls disappears and is never seen again. Then, MacReady comes face-to-face with the huge, tentacle Blair/Thing, which destroys his detonator. So instead, MacReady throws a lighted stick of dynamite at it. Both the Thing and the building explode, but MacReady survives. He stumbles to a ruined shack to find Childs there. Neither of them know whether the other is the Thing, and they both sit ready to kill the other at the first sign. (MacReady is definitely not the Thing, but there is a strong possibility that Childs might have been taken over when he wandered off earlier). They take swigs of a bottle of whiskey as the camera shows a wide shot of the camp in flames. Both men, exhausted and wary of each other, sit among the burning wreckage.... waiting for the fires to go out and the winter weather to consume them. On that dark note, and with a wiry laugh from MacReady, 'The Thing' comes to a close.",
+      "writers": [
+         "Bill Lancaster",
+         "John W. Campbell Jr."
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0084787/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMjE1OTIzMjUxNV5BMl5BanBnXkFtZTgwOTUwNzMxMDE@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Kurt Russell, Wilford Brimley, Keith David | See full cast and crew »"],
+      "reviews": [
+         "\"I know I'm human. And if you were all these things, then you'd just attack me right now, so some of you are still human. This thing doesn't want to show itself, it wants to hide inside an imitation. It'll fight if it has to, but it's vulnerable out in the open. If it takes us over, then it has no more enemies, nobody left to kill it. And then it's won.\" John Carpenter's \"The Thing\" is one of the most entertaining horror films ever made \u0096 fast, clever and purely exciting from start to finish. This is how all movies of the genre should be made. Taking place in the Antarctic in 1982, the movie focuses specifically on a group of American scientists. We are given no introduction to their mission, but are thrust into their existence when a pair of seemingly crazy Norwegians appears at their base camp, chasing an escaped dog. The Norwegians are killed, and the dog finds its way into the colony, which is when things really start to get crazy. It is soon made quite clear that the \"dog\" is actually a shape-shifting alien organism, which manifests itself upon the physical form of its victims \u0096 in other words, it begins to eat the Americans, and imitate them so well that the remaining humans cannot discern the difference between their friends and enemies The pack of scientists, led by MacReady (Kurt Russell), begin to fight for their own survival, using wits instead of brawn. If the Thing is indeed amongst them, then how are they to go about revealing it? How many Things are there? How can the Thing be killed? (Or can it be destroyed at all?) The creature's origins in the film are explained easily: Thirty thousand years ago a spacecraft plummeted to Earth, and was frozen in the Antarctic ice. The Thing tried to escape, and was discovered in the ice by the Norwegians, who unknowingly released it from its natural prison. \"The Thing,\" the movie itself, is similar to Ridley Scott's iconic \"Alien\" (1979). Many comparisons have been made \u0096 the protagonists are stranded in a desolate area, stalked by a seldom seen foe that manages to kill them off one-by-one. However, \"The Thing\" \u0096 for all practical purposes \u0096 came first. Based on the famous short story \"Who Goes There?\" by John W. Campbell, Jr. (writing under pseudonym as Don A. Stuart), the film was originally adapted as a feature production in 1951 by Howard Hawks and Christian Nyby. The result was \"The Thing From Another World,\" an unarguable classic. But to be fair, it bore little resemblance to the short story, and Carpenter's remake does it more justice. The idea of the Thing being able to adapt the physicality of anyone is what essentially makes this movie so great, and is the most vital link to the short story. In 1951 the special effects were simply too poor to reasonably portray the shape-shifting organism, but thirty-one years brought many advances in SFX. Creature effects artist Rob Bottin does an excellent job of turning what could have easily become a cheesy gore-fest into a startlingly frightening (and realistic) mess of blood and fear. The Thing, although never actually taking one specific form, is constantly seen in a morphing stage, and the effects are simply superb. They still pack a punch twenty-two years later. Ennio Morricone's score (nominated for a Razzie Award at the time) is a bit too electronic and tinny, but nevertheless haunting when used correctly. From the fact that its cast consists entirely of males, to the fact that its ending is one of the most thought-provoking and untypical conclusions of all time, \"The Thing\" \u0096 by any standards \u0096 is unconventional Hollywood at its best. It comes as no surprise that, at the time of its release, \"The Thing\" performed poorly in theaters, and \"E.T.\" \u0096 released the same year and featuring a much kinder alien \u0096 became the higher-grossing picture of the two (by far). In the long run, however, \"The Thing\" is superior in almost every conceivable way. Spielberg's tale is outdated and flopped during its 20th Anniversary Re-Release. \"The Thing,\" on the other hand, has gradually climbed a ladder of cult classics \u0096 it is one of the most famous non-famous movies ever made. Carpenter is notorious for having a very uneven career \u0096 from his amazing \"Assault on Precinct 13\" (1976) to the magnificent \"Halloween\" (1978) to the disappointing and silly \"Escape from L.A.\" (1996), \"The Thing\" remains his very best motion picture. Although its reputation over the years has never been honorary enough to land it a spot on most \"great movies\" lists, \"The Thing\" is still one of my favorite horror films, and \u0096 upon close inspection \u0096 masterfully crafted. It is a daring and ingenious thrill-ride that is simultaneously unique and chilling \u0096 a genuine relief for film buffs who are tired of the same old horror knock-offs. This one, at the very least, is genuinely unpredictable.",
+         "* * * * ½ (4½ out of 5) The Thing Directed by: John Carpenter, 1982 Looking back on John Carpenter's The Thing \u0096 today a highly treasured cult favourite \u0096 one has to wonder why it was dismissed by both the audience and critics when it first came out in 1982. Steven Spielberg's extra terrestrial adventure about a sweet alien that phoned home (that stole the hearts of both children and adults world wide) had opened just two weeks before and was on its historic box office rampage. Bad scheduling may have had a greater impact than anything else on the fate of Carpenter's first big studio effort for Universal Pictures. Nobody was prepared \u0096 moreover wanted anything so dark, gory and scary as this genuine remake of the famous 1951 original. This was the time of E.T.: The Extra-Terrestrial. It then makes for great movie history trivia, that The Thing has gained such a remarkable afterlife on video, DVD and television. Both financially and critically. Carpenter's version is less a remake of the Howard Hawks' version than a more faithful adaptation of John W. Campbell's short story \"Who Goes There?' (on which both were based), and critics today point out how well Carpenter plays his characters against each other. Kurt Russell will never top this one, and he gets a brilliant sparring from the entire cast. It opens in Antarctica with a sled husky running from a pair of crazed and armed Norwegian men in a helicopter. The scene is long, slow and uneasy. It feels like the Apocalypse. It oozes doomsday. This scene comprises one of the greatest opening sequences in film history. Ennio Morricone's moody synth score (heavy on naked thumping bass lines in classic Carpenter style), the windswept massive white of the desolate polar ice and the majestic husky running across the tundra chased by the chopper, compromises a completely mesmerizing piece of scenery. A satisfying example of a movie that today \u0096 18 years after \u0096 looks downright muscular in its simplicity. The budget was big ($14 mill), yet it allowed Carpenter to visualize his ideas better than ever before. There's a brooding darkness to this film, making the whites and blues of the icy Antarctic claustrophobia seem poetic and almost angelic. Dean Cundey's extraordinary photography created a palpable chill to every shot. The careful preparation (the crew went into a record 11-month pre-production) paid off immensely. Horror specialist Rob Bottin was handpicked for the many gory and grotesque special effects. Be warned \u0096 there's a lot of splatter and gore here. The Thing is actually notorious for its creature morphing scenes. Some find them disgusting, some mere cult. An argument could be made against The Thing being an Alien rip-off; it has its origins in an old sci-fi story and it creates tension by popping a crowd of people (note: all-male) on an isolated outpost (an Antarctic research facility) terrorized by an alien life form. Where Carpenter was clearly inspired by Ridley Scott's 1979 masterpiece, his own alien movie is original and intriguing in its own right. There's a rhythm and an environment that equals Scott's in every way. The husky was in fact half-wolf and half-dog, and it was noted that it never barked or growled on or off the set (Horror Takes Shape, the making of - DVD version). Watch in awe at the scene where it walks through the hallway and stares at a human shadow, slightly tilting its head forward in stalking position like a wild wolf. This is a fine piece of animal training, sure, but that's not the point. This is as spooky as anything ever made in a horror movie. Carpenter had all the right tools here, and he utilized them to perfection, making The Thing his best movie alongside Halloween.",
+         "Just to put things in perspective for you before I get into my thoughts on this film, I am only 20 years old and have grown up in the era of CGI, blue screen effects...and this movie was made around the same time i was born. With that said, WOW, I only recently saw John Carpenter's version of 'The Thing', and what a masterpiece it truly is. I have long since been a fan of John Carpenter, in particular his works from the late 70's and 80's. In 'The Thing' John Carpenter has truly crafted a paranoia inducing, perhaps gut wrenching classic. The movie is an update of the classic 'The Thing From Outer Space', but only like it's predecessor, this film is in full color, and the characters of this film have much more to worry about than an alien veggie The film centers around a group of Arctic Researchers you encounter an alien lifeform capable of taking the form of anything it comes into contact with, and out of for that matter. Kurt Russell stars as R.J. MacReady, an alcoholic Vietnam Vet, thrust into the role of leader of a group of relatively cold and callous men all of whom are readily plunging into manic paranoia and somewhat madness once they realize that they are up against a creature that can take any form, be any one of them. John Carpenter, more than in any other of his films, manages to create a truly believable and incredible atmosphere. When watching this film you truly get the sense of the dark,sinister, desolate surroundings, you feel and realize that these characters have no where to go...never for one second do you not believe they are stuck on a polar ice cap. Also, this film has perhaps one of the greatest endings to any film of it's genre, or any genre for that matter. I'm not going to give it away here, but to say that it will leave you wondering would be an understatement. Kurt Russell is superb as MacReady....truly conveying the emotions of a man thrust into a situation of unimaginable horror, forced to lead a group of men who cannot trust that the man next to them is not the creature that has driven them to the brink of paranoia and emotional meltdown. I don't care if this movie is 20 years old by now, the special effects in this movie are gut wrenching, mind blowing, and absolutely awesome. They blow away any CGI pixel based crap out there today. The 'Thing' itself is a truly horrifying and disturbing creation...unlike any alien you have ever seen in a movie before. Those who have a low tolerance for gore and blood had best prepare themselves for watching this movie. This movie does what any good horror/sci fi movie should do, it really thrusts you into it's character's world. It leaves you wondering, what would you do, who could you trust if anyone you knew could be the creature waiting to feed on you, and take you over as well. The images, and ideals of this movie stayed with me long after i first saw it, and today as i write this review send a chill up my spine. It is a true shame this movie is only now getting the proper recognition it deserves. A box office flop when released, now more then ever when movies are paper thin with plot, and one dimensional in effects, this film can be appreciated as a true masterpiece of sci/fi and horror. If possible, get the Collector's Edition DVD, and enjoy it in anamorphic widescreen..the way it is truly meant to be seen. Marvel at the incredible scenery, the taught direction, the excellent atmosphere, the sweat inducing, gag reflex activating, and everything else that makes this movie great. Watch it with the lights out, with a group of close friends...maybe even with a dog around...if you don't what i'm talking about...you will afterwards. Don't let a classic pass you bye",
+         "I am ashamed to say it, but I have to admit, the first time I saw this film was only about a year ago. After seeing it, I immediately rushed out and bought the DVD collectors' edition and have watched it many times since. The film is terrific on many levels. It works as your straight monster or action type film, as a horror/sci-fi and also as a very intriguing look into the human psyche. The incredible sense of paranoia, mistrust and fear, lent not only by Carpenter's direction (which is stunning) but also by the incredible acting of the cast in general. Kurt Russell (obviously) is spectacularly understated in the lead role of MacReady, and, as a direct result he \"feels\" like a real person, rather than a hollywood \"all american hero\". The other cast members all carry off their roles with style, and the net result is an intensely believable atmosphere, and a truly fantastic film.",
+         "This is another one of those films that I remember staying up late to watch on TV, scaring the crap out of myself at the impressionable age of 12 or so and dooming myself thereafter to a life of horror movie obsession. This is a GREAT movie, and stands as living proof that there were indeed realistic effects before CGI. Set on an isolated base in Antarctica, this version seems almost to pick up where the original version (The Thing From Another World) left off. The American scientists discover a decimated Norwegian base some miles distant. Everyone is dead, and only the half charred remains of some unidentifiable thing left to smolder outside the compound might offer any answers to what may have happened. The Thing is brought back to the American base and, too late, the scientists realize that it is alive and lethal. The Thing thaws out and is off, not only killing anyone and anything that crosses Its path, but also absorbing them, making Itself into whoever and whatever it wants. The film then turns into a brilliant paranoia piece. Everyone is suspect, anyone can be The Thing, and no one trusts anyone anymore. Gone is the strength and security found when human beings band together in spite of their differences to battle a monster. The group splinters and fear rules supreme. Who is the Thing? The gore effects here are absolutely amazing and messily realistic. I could have done without the dogs head splitting open like a banana peel, but that's just the animal lover in me being picky: kill all the humans you want, but leave the kitties and puppies alone. Sanity and reason disintegrate rapidly as, one by one, the humans are taken over by the shapeshifting alien. The power of this film lies in its paranoia, and although I liked the original version, I prefer this one; the real threat lies within, and is scarier for the fact that it cannot be seen or easily detected. When it is forced out of hiding, it's wrath is huge and the results are horrific. This is one of Carpenters best films, right up there with The Fog and Halloween. All of the actors give strong, realistic performances and the special effects are so powerful that they stand as their own main character. This film has something for any lover of the horror genre. Don't miss it.",
+         "John Carpenter's The Thing is hands down the best horror film ever made. Not only that, but it is also on of my personal favorite films of all time. What makes the movie so great? It's hard to put my finger on it. Everything just seems to work in The Thing, it's one of the rare occasions where everything just seems to fall in place. The film is even superior to Alien in creating a type of moody atmospheric hell. The fact that it's not only about the gore (which is wonderful btw), but it is able to create a paranoia that is unmatched in films. A truly wonderful film that is worshiped by all horror buffs, and anyone who has good taste in films.",
+         "Antarctica, winter 1982. The team on an American research base get surprised by a couple of mad Norwegians who is chasing a dog with a helicopter, trying to kill it. All the Norwegians are killed and the Americans are left with nothing, but a dog, a couple of bodies and questions. That's the beginning of the greatest horror/thriller film I've ever seen. From the very beginning all to the end you feel the tense, paranoid mood. Helpless and alone out in no-mans land. Ennio Morricone was nominated for a Razzie Award for his score. Why I don't know 'cause as far as I can see his score is simple, creepy and very good. It really gets you in the right mood. The acting is great! The best performance is probably given by the dog who's just amazing. As for Russell and the others on two legs I can say nothing less. You may think 1982 and special effects are not the most impressive? Well, think again! You haven't seen it all until you've seen this. Bodyparts falling off and creatures changing forms... Rob Bottin has done a great job witch today stands as a milestone is special effects makeup. The movie didn't get a big response when it first hit the big screen due to other alien films at the time and so it's not very well known. In fact you can almost consider it an unknown movie. Nobody I've asked have heard of it. However the movie has managed to survive for over twenty years as a cult film on video and DVD. Twenty years is a long time and except for the haircut the movie is still pretty much up to date. This movie is to be considered a classic. The movie is without doubt one of my, if not my favorite. I've seen it several times, but it's just as good as the first time I saw it. As a Norwegian the only thing I don't like about this movie is that MacReady keeps calling the Norwegians swedes!",
+         "Many people has got a film they think of as their favourite movie. My movie will always be John Carpenter's The Thing! The main reason why this movie is a cult-film is perhaps the splatter-effects created mainly by genius Rob Bottin and that this is the movie that made Kurt Russell what he is today (along with Escape from N.Y.) In my opinion, this is not a great film because of the effects, it has to do with the story, the atmosphere, and of course, the acting. I have watched thousands and thousands of movies (3-6 every day the last 10 years), but none has had the impact on me as this one, not even the great \"Das Boot\". Here's my suggestion to you who likes sci-fi and horror movies: Place yourself in the good chair of your home. Be sure you're not interupted by anyone. If you aint got a projector, sit close to your TV and watch this miracle of a film. Let it absorbe you, and you'll see it my way! Best View Time: Late February between 5 and 9 in the evening.",
+         "Remake of the classic 1951 \"The Thing From Another World\". 12 men are in a completely isolated station in Antartica. They are invaded by a thing from outer space--it devours and completely duplicates anything it chooses to. It starts off as a dog but gets loose--and has a chance to duplicate any of the men. Soon, nobody trusts anyone else--they're isolated--the radio is destroyed--their helicopter likewise. What are they going to do? The 1951 film had the thing just be a big, super human monster. That movie was scary. This one is too--but the story is different (and based more closely on the source material--the novelette \"Who Goes There?\") and it's scary in a different way. The movie starts right off with Ennio Morricone's extremely eerie score setting just the right tone and--when the Thing gets attacked--the amount of gore is astounding. There's blood and body parts flying all over--arms are bitten off, heads detach and--in the strongest one--one man is devoured face first by the Thing. The gore effects are STRONG and real nightmare material. I don't scare easy but I had to sleep with the lights on when I saw this originally back in 1982. Rob Bottin's effects are just incredible--how this picture got by with an R rating is beyond me! It also has a very creepy feel--gore aside, it is very suspenseful. You're not sure who is what and Carpenter's direction and the score really build up the tension. One complaint--no one is given any distinctive personality traits. They actors just remain straight-faced and say their lines. That's annoying...but the movie still works. This was a critical and commercial disaster in 1982--it competed with \"E.T.\" and MANY critics complained about the amount of gore and there being no female characters in the movie. It's now considered one of John Carpenter's best. A must-see...for strong stomaches. NOT a date film! An amusing note: When this was released Universal sent a note along with all prints of the film. They suggested to theatre owners that they play the film in an auditorium near the rest rooms. They were afraid that people would be so sickened by the violence that they'd have to be close to a facility to throw up!",
+         "John Carpenter shows how much he loves the 1951 original by giving it the utmost respect that he possibly could, the only difference here is that Carpenter chooses to stick to the paranoiac core of John W Campbell Jr's short story. The secret to this version's success is the unbearable tension that builds up as the group of men become suspicious of each other, the strain of literally waiting to be taken over takes a fearful hold. Carpenter manages to deliver the shocks as well as the mystery needed to keep the film heading in the right direction. Be it an horrific scene or a \"what is in the shadow\" sequence, the film to me is a perfect fusion of horror and sci-fi. The dialogue is spot on for a group of men trying to keep it together under duress, and Ennio Morricone's score is a wonderful eerie pulse beat that further racks up the sense of doom and paranoia seaming thru the film. The cast are superb, a solid assembly of actors led by Carpenter fave Kurt Russell, whilst the effects used give the right amount of impact needed. But most of all it's the ending that is the crowning glory, an ending that doesn't pander to the norm and is incredibly fitting for what has gone on before it. Lets wait and see what happens indeed. 10/10"
+      ],
+      "genres": [
+         "Horror",
+         "Mystery",
+         "Sci-Fi"
+      ],
+      "productionCompanies": [
+         "Universal Pictures",
+         "Turman-Foster Company"
+      ],
+      "summaries": [
+         "An American scientific expedition to the frozen wastes of the Antarctic is interrupted by a group of seemingly mad Norwegians pursuing and shooting a dog. The helicopter pursuing the dog explodes, eventually leaving no explanation for the chase. During the night, the dog mutates and attacks other dogs in the cage and members of the team that investigate. The team soon realizes that an alien life-form with the ability to take over other bodies is on the loose and they don't know who may already have been taken over.",
+         "In the midst of the Antartican snowfield, the scientists and workers of a small American research base are shocked when a helicopter begins to circle their camp, chasing and shooting at a dog. When the helicopter is destroyed and the passengers are killed, the dog is let into the base and the American's begin to wonder what has actually happened. The helicopter has Norwegian markings, must be from the Norwegian base not too far from their own. A team of Americans are sent to the Norwegian base and find out what has happened. On arrival, they find that the place has been totally destroyed. They also discover a mangled body that looks as though it was once that of a person, which they bring back with them for further study. It is only then that the clues begin to add up; the dog morphs horribly into a strange creature that attacks the researchers. They manage to fight it off, but they come to a terrible conclusion: an alien with the power to transform and take the appearance of anybody else is amongst them. Who is infected already, and who can be trusted? Helicopter pilot J.R MacReady sets out to find the answers to exactly that.",
+         "Members of an American scientific research outpost in Antarctica find themselves battling a parasitic alien organism capable of perfectly imitating its victims. They soon discover that this task will be harder than they thought, as they don't know which members of the team have already been assimilated and their paranoia threatens to tear them apart.",
+         "Scientists in the Antarctic are confronted by a shape-shifting alien that assumes the appearance of the people that it kills."
+      ],
+      "budget": 15000000
+   },
+   "movielensId": 2288,
+   "movielens": {
+      "languages": [
+         "English",
+         "Norsk"
+      ],
+      "releaseDate": "1982-06-25",
+      "dvdReleaseDate": "2004-10-26",
+      "directors": ["John Carpenter"],
+      "runtime": 109,
+      "movieId": 2288,
+      "title": "The Thing",
+      "mpaa": "R",
+      "actors": [
+         "Kurt Russell",
+         "Keith David",
+         "Wilford Brimley",
+         "Donald Moffat",
+         "Richard Dysart",
+         "Charles Hallahan",
+         "T. K. Carter",
+         "David Clennon",
+         "Peter Maloney",
+         "Richard Masur",
+         "Joel Polis",
+         "Thomas G. Waites"
+      ],
+      "imdbMovieId": "0084787",
+      "originalTitle": "The Thing",
+      "genres": [
+         "Horror",
+         "Mystery",
+         "Science Fiction"
+      ],
+      "youtubeTrailerIds": [
+         "p35JDJLa9ec",
+         "JzZOuFeb2Gw",
+         "DBvv2_0EV54"
+      ],
+      "plotSummary": "Scientists in the Antarctic are confronted by a shape-shifting alien that assumes the appearance of the people it kills.",
+      "tmdbMovieId": 1091,
+      "avgRating": 3.83529,
+      "releaseYear": "1982",
+      "numRatings": 11578,
+      "posterPath": "/s5fH3GqFcHbi2F0NSBSh4KRNTc0.jpg"
+   }
+}

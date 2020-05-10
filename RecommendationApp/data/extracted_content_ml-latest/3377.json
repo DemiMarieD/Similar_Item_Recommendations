@@ -1,0 +1,753 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "assassination",
+            "id": 441
+         },
+         {
+            "name": "resistance",
+            "id": 836
+         },
+         {
+            "name": "hostage",
+            "id": 1562
+         },
+         {
+            "name": "nazi",
+            "id": 2652
+         },
+         {
+            "name": "czechoslovakia",
+            "id": 3539
+         },
+         {
+            "name": "gestapo",
+            "id": 15272
+         },
+         {
+            "name": "nazi occupation",
+            "id": 189422
+         }
+      ],
+      "imdb_id": "tt0035966",
+      "video": false,
+      "title": "Hangmen Also Die!",
+      "recommendations": [
+         44190,
+         22404,
+         20362,
+         92819,
+         20330,
+         36786,
+         48155,
+         33224,
+         22112,
+         40650,
+         29106,
+         27036,
+         31555,
+         43396,
+         30162,
+         25688,
+         144425,
+         20028,
+         49334,
+         36332
+      ],
+      "backdrop_path": "/g67s9PYlmY7tqpZbxpsKwyzBbSF.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "Dr. Franticek Svoboda",
+               "gender": 2,
+               "credit_id": "52fe4437c3a368484e0164e3",
+               "name": "Brian Donlevy",
+               "profile_path": "/dJP0woESrhHQrPbTieZdE54OM2f.jpg",
+               "id": 41755,
+               "order": 0
+            },
+            {
+               "cast_id": 3,
+               "character": "Prof. Stephen Novotny",
+               "gender": 2,
+               "credit_id": "52fe4437c3a368484e0164e7",
+               "name": "Walter Brennan",
+               "profile_path": "/wPp0mmWWVMzOD3ipne6MrgDr0Tm.jpg",
+               "id": 4302,
+               "order": 1
+            },
+            {
+               "cast_id": 4,
+               "character": "Masha Novotny",
+               "gender": 1,
+               "credit_id": "52fe4437c3a368484e0164eb",
+               "name": "Anna Lee",
+               "profile_path": "/1dXmlKmat1EI3K5UWItYopiMLJA.jpg",
+               "id": 88460,
+               "order": 2
+            },
+            {
+               "cast_id": 8,
+               "character": "Emil Czaka",
+               "gender": 2,
+               "credit_id": "52fe4437c3a368484e0164fb",
+               "name": "Gene Lockhart",
+               "profile_path": "/7IL5fx1mfhCiMAvYXSiY1Dj7yky.jpg",
+               "id": 30234,
+               "order": 3
+            },
+            {
+               "cast_id": 1,
+               "character": "Reinhard Heydrich",
+               "gender": 2,
+               "credit_id": "52fe4437c3a368484e0164df",
+               "name": "Hans Heinrich von Twardowski",
+               "profile_path": "/qeb70eRfwchNiJ47Kh8gNhqOMU3.jpg",
+               "id": 3007,
+               "order": 4
+            },
+            {
+               "cast_id": 5,
+               "character": "Mrs. Hellie Novotny",
+               "gender": 1,
+               "credit_id": "52fe4437c3a368484e0164ef",
+               "name": "Nana Bryant",
+               "profile_path": "/iZBZsi9gAFIBEB6QPi4Pfb7jGiE.jpg",
+               "id": 88461,
+               "order": 5
+            },
+            {
+               "cast_id": 6,
+               "character": "Ludmilla Novotny",
+               "gender": 1,
+               "credit_id": "52fe4437c3a368484e0164f3",
+               "name": "Margaret Wycherly",
+               "profile_path": "/yKKrlALusigfwNRyZeMH1Pfuar1.jpg",
+               "id": 78791,
+               "order": 6
+            },
+            {
+               "cast_id": 7,
+               "character": "Jan Horak",
+               "gender": 2,
+               "credit_id": "52fe4437c3a368484e0164f7",
+               "name": "Dennis O'Keefe",
+               "profile_path": "/uTu2E94CyTJuXnr8UWcVRzNkMqo.jpg",
+               "id": 88462,
+               "order": 7
+            },
+            {
+               "cast_id": 9,
+               "character": "Chief of Gestapo Kurt Haas",
+               "gender": 0,
+               "credit_id": "52fe4437c3a368484e0164ff",
+               "name": "Tonio Selwart",
+               "profile_path": "/x3I9THS2irX7BOjEJHscIO4GoJh.jpg",
+               "id": 88463,
+               "order": 8
+            },
+            {
+               "cast_id": 10,
+               "character": "Gestapo Insp. Alois Gruber",
+               "gender": 0,
+               "credit_id": "52fe4437c3a368484e016503",
+               "name": "Alexander Granach",
+               "profile_path": "/aAJSwHWe2vjvG5QBAALNjzquYLc.jpg",
+               "id": 9842,
+               "order": 9
+            },
+            {
+               "cast_id": 11,
+               "character": "Gestapo Insp. Ritter",
+               "gender": 0,
+               "credit_id": "52fe4437c3a368484e016507",
+               "name": "Reinhold Schünzel",
+               "profile_path": "/3XLrHa6YZ02vQjdqB9Bh3EoDgWX.jpg",
+               "id": 4344,
+               "order": 10
+            },
+            {
+               "cast_id": 12,
+               "character": "Schirmer",
+               "gender": 2,
+               "credit_id": "52fe4437c3a368484e01650b",
+               "name": "Ludwig Donath",
+               "profile_path": "/eJ91hF6spm3hYihu9TOTiwpHB9W.jpg",
+               "id": 34405,
+               "order": 11
+            },
+            {
+               "cast_id": 13,
+               "character": "Camp Lieutenant Itnut",
+               "gender": 2,
+               "credit_id": "52fe4437c3a368484e01650f",
+               "name": "Arno Frey",
+               "profile_path": null,
+               "id": 88464,
+               "order": 12
+            },
+            {
+               "cast_id": 14,
+               "character": "Mrs. Georgia Dvorak",
+               "gender": 1,
+               "credit_id": "52fe4437c3a368484e016513",
+               "name": "Sarah Padden",
+               "profile_path": "/9Fs52o6cYURJ6aScQ0odorcH7dv.jpg",
+               "id": 34749,
+               "order": 13
+            },
+            {
+               "cast_id": 15,
+               "character": "Dedic",
+               "gender": 2,
+               "credit_id": "52fe4437c3a368484e016517",
+               "name": "Jonathan Hale",
+               "profile_path": "/ajOXZDy3XsZkZ3OqsMBejg8BFXG.jpg",
+               "id": 12502,
+               "order": 14
+            },
+            {
+               "cast_id": 26,
+               "character": "Banya",
+               "gender": 2,
+               "credit_id": "52fe4438c3a368484e016557",
+               "name": "Lionel Stander",
+               "profile_path": "/gDbj1eKxhXraVY36m1q4ypAdegJ.jpg",
+               "id": 4969,
+               "order": 15
+            },
+            {
+               "cast_id": 27,
+               "character": "Cook (uncredited)",
+               "gender": 2,
+               "credit_id": "5587bcb29251411efc00051c",
+               "name": "Chester Conklin",
+               "profile_path": "/s9P3OhaUEMcs84P0oSfUewTMRjC.jpg",
+               "id": 30195,
+               "order": 16
+            },
+            {
+               "cast_id": 28,
+               "character": "Counterwoman (uncredited)",
+               "gender": 1,
+               "credit_id": "5587bccc9251415aa90002c5",
+               "name": "Claire McDowell",
+               "profile_path": "/rCujOYWgzRTZls7bRvrEFdxccrW.jpg",
+               "id": 29974,
+               "order": 17
+            },
+            {
+               "cast_id": 41,
+               "character": "Boda Novotny",
+               "gender": 0,
+               "credit_id": "57c3c639c3a3683c8b000204",
+               "name": "William Roy",
+               "profile_path": null,
+               "id": 1570990,
+               "order": 18
+            },
+            {
+               "cast_id": 42,
+               "character": "Dr. Pillar",
+               "gender": 2,
+               "credit_id": "57c3c63ac3a3683c8b000206",
+               "name": "Edmund MacDonald",
+               "profile_path": "/9zoueJEgi6GxsxYNWWzrc0MFdoj.jpg",
+               "id": 85995,
+               "order": 19
+            },
+            {
+               "cast_id": 43,
+               "character": "Bartos",
+               "gender": 2,
+               "credit_id": "57c3c63ac3a3683194000510",
+               "name": "Byron Foulger",
+               "profile_path": "/iMr3cELQ3pNBcUfnrcH6FP9SIZO.jpg",
+               "id": 96722,
+               "order": 20
+            },
+            {
+               "cast_id": 44,
+               "character": "Mrs. Nimitz",
+               "gender": 1,
+               "credit_id": "57c3c63ac3a36807b300110a",
+               "name": "Virginia Farmer",
+               "profile_path": null,
+               "id": 98966,
+               "order": 21
+            },
+            {
+               "cast_id": 45,
+               "character": "Neeval",
+               "gender": 2,
+               "credit_id": "57c3c63ac3a3683194000512",
+               "name": "George Irving",
+               "profile_path": "/js2u7KGDeYSKf4eOrVQJxDPfaUP.jpg",
+               "id": 13823,
+               "order": 22
+            },
+            {
+               "cast_id": 46,
+               "character": "Peacock",
+               "gender": 0,
+               "credit_id": "57c3c63b925141188a00048a",
+               "name": "James Bush",
+               "profile_path": "/sSnb6rCTmMrV5jhJItEwYroLDcQ.jpg",
+               "id": 101882,
+               "order": 23
+            },
+            {
+               "cast_id": 47,
+               "character": "Rudy",
+               "gender": 2,
+               "credit_id": "57c3c63b92514117e800045b",
+               "name": "Lester Sharpe",
+               "profile_path": null,
+               "id": 975881,
+               "order": 24
+            },
+            {
+               "cast_id": 48,
+               "character": "Gen. Votruba",
+               "gender": 2,
+               "credit_id": "57c3c63b92514120c10001e4",
+               "name": "Arthur Loft",
+               "profile_path": "/eFaXh7N58cEz15pJgehAKNJOQJg.jpg",
+               "id": 34333,
+               "order": 25
+            },
+            {
+               "cast_id": 49,
+               "character": "Hostage (scenes deleted)",
+               "gender": 2,
+               "credit_id": "57c3c63cc3a3682f97000618",
+               "name": "John Abbott",
+               "profile_path": "/lNF9KUxNbriSVl24rUaswangRSs.jpg",
+               "id": 24826,
+               "order": 26
+            },
+            {
+               "cast_id": 50,
+               "character": "Adjutant (uncredited)",
+               "gender": 0,
+               "credit_id": "57c3c63cc3a3683c8b00020a",
+               "name": "Louis Adlon",
+               "profile_path": "/xNNo7GBMSUXFiQJ7J6VOdfMbamg.jpg",
+               "id": 1181054,
+               "order": 27
+            },
+            {
+               "cast_id": 51,
+               "character": "Liberal Official (uncredited)",
+               "gender": 2,
+               "credit_id": "57c3c63cc3a36831840004a0",
+               "name": "Erville Alderson",
+               "profile_path": "/yi3crBgbU5m4jfsH3H15YNNPrpg.jpg",
+               "id": 589728,
+               "order": 28
+            },
+            {
+               "cast_id": 52,
+               "character": "Slugger in Theater (uncredited)",
+               "gender": 2,
+               "credit_id": "57c3c63d92514121230001b1",
+               "name": "Richard Alexander",
+               "profile_path": "/d9zgyrEOlXYy6P90fkrVAshjn4A.jpg",
+               "id": 30197,
+               "order": 29
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4437c3a368484e01651d",
+               "name": "Fritz Lang",
+               "profile_path": "/fQAlhdBDnUYXzkezvyzjLB72pvw.jpg",
+               "id": 68,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4437c3a368484e016523",
+               "name": "Bertolt Brecht",
+               "profile_path": null,
+               "id": 11630,
+               "department": "Writing",
+               "job": "Adaptation"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4438c3a368484e016529",
+               "name": "Bertolt Brecht",
+               "profile_path": null,
+               "id": 11630,
+               "department": "Writing",
+               "job": "Original Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4438c3a368484e01652f",
+               "name": "Fritz Lang",
+               "profile_path": "/fQAlhdBDnUYXzkezvyzjLB72pvw.jpg",
+               "id": 68,
+               "department": "Writing",
+               "job": "Original Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4438c3a368484e016535",
+               "name": "Fritz Lang",
+               "profile_path": "/fQAlhdBDnUYXzkezvyzjLB72pvw.jpg",
+               "id": 68,
+               "department": "Writing",
+               "job": "Adaptation"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4438c3a368484e01653b",
+               "name": "John Wexley",
+               "profile_path": null,
+               "id": 82445,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4438c3a368484e016541",
+               "name": "Fritz Lang",
+               "profile_path": "/fQAlhdBDnUYXzkezvyzjLB72pvw.jpg",
+               "id": 68,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4438c3a368484e016547",
+               "name": "Arnold Pressburger",
+               "profile_path": null,
+               "id": 33172,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4438c3a368484e01654d",
+               "name": "Arnold Pressburger",
+               "profile_path": null,
+               "id": 33172,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4438c3a368484e016553",
+               "name": "James Wong Howe",
+               "profile_path": "/rbAffvKfJYrfLCuuYPzXKSSyU6t.jpg",
+               "id": 14569,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56340303c3a3681b5c016195",
+               "name": "Hanns Eisler",
+               "profile_path": null,
+               "id": 11632,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 2,
+               "credit_id": "563403109251412857015c80",
+               "name": "Gene Fowler Jr.",
+               "profile_path": null,
+               "id": 51767,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56340318c3a3681b54016582",
+               "name": "William S. Darling",
+               "profile_path": null,
+               "id": 1096786,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56340321c3a3681b52015c81",
+               "name": "Robert Stephanoff",
+               "profile_path": null,
+               "id": 1367963,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5634032b9251416d52008102",
+               "name": "Carley Harriman",
+               "profile_path": null,
+               "id": 1529486,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563403359251414ab70140c4",
+               "name": "Walter Mayo",
+               "profile_path": null,
+               "id": 31974,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5634033e9251413b4600845b",
+               "name": "Fred Pressburger",
+               "profile_path": null,
+               "id": 33175,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 1,
+               "credit_id": "563403489251413b4600845d",
+               "name": "Julia Heron",
+               "profile_path": null,
+               "id": 12349,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56340351925141284c016016",
+               "name": "Fred Lau",
+               "profile_path": null,
+               "id": 10919,
+               "department": "Crew",
+               "job": "Sound Recordist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5634035d9251413b46008462",
+               "name": "Jack Whitney",
+               "profile_path": null,
+               "id": 1529487,
+               "department": "Crew",
+               "job": "Sound Recordist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5634037792514129fe008736",
+               "name": "Ned Scott",
+               "profile_path": null,
+               "id": 1369034,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5634038592514129fe008739",
+               "name": "Eleanor Behm",
+               "profile_path": null,
+               "id": 1529489,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "History",
+            "id": 36
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         },
+         {
+            "name": "War",
+            "id": 10752
+         }
+      ],
+      "popularity": 2.910356,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 22178,
+      "vote_count": 33,
+      "budget": 0,
+      "overview": "During the Nazi occupation of Czechoslovakia, surgeon Dr. Franticek Svoboda, a Czech patriot, assassinates the brutal \"Hangman of Europe\", Reichsprotektor Reinhard Heydrich, and is wounded in the process. In his attempt to escape, he is helped by history professor Stephen Novotny and his daughter Mascha.",
+      "similar": [
+         2253,
+         228150,
+         423,
+         613,
+         339259,
+         351339,
+         369885,
+         100747,
+         13752,
+         821,
+         637,
+         1771,
+         15121,
+         16869,
+         5925,
+         424,
+         612,
+         14574,
+         289222,
+         203833
+      ],
+      "original_title": "Hangmen Also Die!",
+      "runtime": 134,
+      "poster_path": "/n10wraCZWluEoKjkdjns1pV8rSj.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Deutsch",
+            "iso_639_1": "de"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "United Artists",
+            "id": 60,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Arnold Pressburger Films",
+            "id": 1486,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1943-04-15",
+      "vote_average": 6.8,
+      "belongs_to_collection": null,
+      "tagline": "The shot heard 'round the world!",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Black and White",
+      "budgetCurrency": null,
+      "directors": ["Fritz Lang"],
+      "runtime": 134,
+      "synopsis": "In Czechoslovakia on June 4, 1942 during the Nazi occupation of World War 2 the vicious Nazi Gestapo leader Reinhard Heydrich, known as The Hangman, is shot at a public location and the man responsible, Dr. Franz Svoboda (Brian Donlevy) has lost his escape because his driver has been arrested. Forced to move about the streets he runs out of options when martial law is announced and a curfew threatens his capture. Svoboda follows Mascha Novotny (Anna Lee) home from the market and posing as a social aquaintance manages to stay the night since the curfew has prevented his departure. Mascha's father Prof. Stephan Novotny (Walter Brennan), consistently suspected because of his anti-Nazi views, is taken into custody and Svoboda escapes disguised as a student. At the internment camp the group of Czech prisoners including Prof. Novotny are systematically assassinated and Mascha is taken into custody for questioning about the possible identity of the man who shot Heydrich and she works with the Czech counter-group to overthrow spies for the Nazi in hopes that she can save her father. One spy they discover in their midst is Emil Czaka (Gene Lockhart) a wealthy beer brewer who names 400 Czech citizens to be taken into custody and shot as a way to get to Svoboda, and during a complex plan they attempt to overthrow the Nazi grip on the Czech nation and save the prisoners.",
+      "writers": [
+         "Bertolt Brecht",
+         "Fritz Lang"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0035966/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTAzNjcyMTQyNTBeQTJeQWpwZ15BbWU4MDAwMTY2ODIx._V1_SY317_CR14,0,214,317_AL_.jpg",
+      "actors": ["Stars: Brian Donlevy, Walter Brennan, Anna Lee | See full cast and crew »"],
+      "reviews": [
+         "'Hangmen Also Die' takes as its story, the assassination of Reinhard Heydrich, a German Nazi official, head of the security police, chief deputy to the head of the Schutzstaffel, Heinrich Himmler, who organized mass exterminations of European Jews during the opening years of World War II... and also the subsequent retaliatory devastation of Lidice, a Czech mining village\u0085 With his usual skill, Lang weaves a tale of gripping suspense: the Gestapo's efforts to find the assassin; the workings of the Czech resistance fighters; and the traitor who is finally hoisted on his own petard\u0085 The film is an indictment of Nazi brutality and a tribute to the oppressed who dared to fight it\u0085",
+         "One suspects this film registered better with viewers in 1943 than it does today. Despite being suggested by the actual assassination of Reichs Protector of Bohemia and Moravia Reinhard Heydrich, better known to the Czechs as \"The Hangman\" because of his excessive brutality in dealing with residents of the conquered regions, it is almost total fiction. Even so it is not bad as a rather involved drama and was very likely good anti-nazi propaganda. Perhaps it is well to start with what actually did happen to Heydrich on May 29, 1942. Two young Czechs, Jan Kubis and Josef Ganchik, parachuted in from an RAF plane and managed to ambush \"the Hangman\" riding in his open Mercedes. Armed with both machine pistols and a bomb, the apparently did little harm by shooting, but did explode the bomb under the car. Heydrich's spleen was penetrated by bomb fragments and debris causing death several days later, possibly more by infection than anything else. The two Czechs evaded capture briefly, but witnesses under torture revealed their hiding place in a church and the SS killed them. In a massive retaliation, Hitler picked the village of Lidice, more or less at random, from among places known to harbor anti-German sentiment, and ordered its total annihilation. The people of Lidice had nothing whatever to do with the assassination, of course. In HANGMEN ALSO DIE we have the story of a lone assassin, using an English made pistol, whose getaway taxi was forced to move by German soldiers, causing him to take refuge during the curfew at the home of a Czech professor. The professor's daughter, Mascha, had impulsively directed the German pursuit away from him. The German police suspect the girl, but release her in the hope she will lead them to the wanted man. They also round up many Czechs, including the girl's father, and begin shooting them as hostages. The girl at first intends to give information, hoping to save her father, but in the end is persuaded otherwise by the Czech resistance. A plan is concocted to bamboozle the SS and save the assassin and the girl, but what it is you will have to see for yourself. Be assured it is incredible. As you see, this story has little to do with the historic assassination and its aftermath, beyond illustrating the SS brutality, but it does make a mildly entertaining wartime adventure with good propaganda value, largely because of the rather low key, intensely personal nature of the plot elements. Some of the characters are very real and believable, e.g. the Gestapo Inspector Gruber, the girl Mascha, and her father, all ably portrayed by Alexander Granach, Anna Lee, and Walter Brennan respectively. On the other hand, some characters are more like cardboard cut-outs and get wooden performances to suit. Brian Donlevy as Dr.Svoboda, the assassin, fits this category alas, as do a number of others. What realism there is seems likely to have been the contribution of Bertolt Brecht rather than John Wexley, who got the credit for the screenplay. One likes to think that Fritz Lang did the best he could with a mixed bag of acting talent, but this can hardly be said to be his best effort. Just why Hollywood producers seem to prefer fiction to the facts when dealing with historical material is a major mystery to me. In 1943 the general facts of the assassination were known, if not all the details, and could have made just as dramatic a story as this fictional one. It is worth a watch, though, especially if you like Anna Lee.",
+         "Superb addition to Fritz Langs wonderful catalogue of films. We see here his trademark 'almost documentary' style as well as propaganda (See The Last Testament of Dr Mabuse for another take on the Nazi regime). His trademark shadows (See 'M'). Early in the film we see Heydrich, an evil dictator who used his mandate from Hitler in the fullest possible way. Here he is played by Hans Heinrich von Twardowski who really is scary in portrayal. Lang shows this brilliantly in the way that the Czech people fear him, and also that he is feared by his own men. The master stroke here is the way Heydrich speaks only in German with no subtitles, given an English translation by someone else in the room. People fear him as he is and even though they cannot understand him, they fear what he has said. The film centres around the reprisals after Heydrich's assassination. The assassin is still living/hiding in Prague. A few know his identity. But they know that if they inform the Gestapo they will be killed and they also know if they don't they may die anyway. The tight script builds the tension to the highest level to a brilliant climax. The cast are brilliant, especially the ever reliable Walter Brennan. An actor of the highest caliber. Abley backed up by Anna Lee, Brian Donlevy & Dennis O'Keefe. This film is made all the more brilliant by the fact that it's idea was conceived only a short time after Heydrich's real-life assassination, not necessarily from a propaganda point of view, but with Lang you know you will get a film that will bench mark the film industry for years to come and people will sit up and take notice.",
+         "Made at the height of WWII not long after the events upon which it is based took place, \"Hangmen Also Die\" is a testament to the patriotic spirit of the Czechoslovakian people under the most dire conditions imaginable. After the Nazis have invaded and conquered the country, a brave resistance fighter assassinates the brutal leader of the German occupation forces, SS leader Reinhard Heydrich, who, like Klaus Barbie, was a ruthless butcher of the innocent. Heydrich subjugated the Czech people by murdering, torturing and enslaving hordes of non-combatant civilians. Just before the Nazi tyrant is shot, he threatens to end a factory slowdown by the murder of hundreds of Czech workers. It is this threat that precipitates the assassination. The desperate killer of Heydrich, member of an underground Czech resistance group, narrowly escapes capture with the assistance of civilians who suffer the consequences immediately afterwards when many are taken hostage by the Nazis, with the threat of imminent death hanging over their heads if the assassin is not turned over to the Gestapo. At the center of the tense drama is Nasha Novotny, flawlessly played by Anna Lee, as the daughter of a distinguished university professor and patriot, portrayed by character actor Walter Brennan. Nasha is instrumental in aiding Brian Donlevy (as Dr. Svoboda, the assassin with ice water in his veins) to escape his bloodthirsty Gestapo pursuers. But when Nasha's own father is picked up by the Gestapo, she is forced to question her loyalty to the resistance, begins to regard the man she has saved as a deadly threat to her family and nearly turns traitor to save her father's life. Expatriate German director Fritz Lang and his scenarists show great sympathy in portraying this all too human failing. In a few simple touches they go far beyond stereotype in showing how the recalcitrant patriot overcomes her strong personal misgivings to rejoin the heroic struggle against the Nazis. \"Hangmen\" is not a movie for the mechanically minded. Its craft is the art of understatement. Many of the events dramatically most important to the story -- such as the assassination -- are not depicted or happen off-screen. Whole sections of the plot line are there only by inference. This is particularly true at the end of the film, when the entire conspiracy to frame up an enemy collaborator is only hinted at before it is sprung as a surprise upon the audience, as on the unwitting villain. How did the underground resistance fighters arrange to fabricate so deadly a case against a traitor? We can only guess, but may hardly object to the ironic way in which the informant meets his end. Fritz Lang has a well known reputation as a leader of the noir school of film maker. Yet, in spite of its horrifying premise, the movie is neither bleak nor pessimistic but a straightforward affirmation of the struggle against tyranny. Unlike many of his less gifted followers, Lang is no mere stylist but is just as much concerned with the historic and moral significance of his story as the artful way in which he presents it. To those who might object that the Nazis are portrayed as stereotyped bad men, the answer is that the Nazis were precisely what the film shows them to be: ugly brutish travesties of human beings. And who would know that better than Fritz Lang and his excellent scenarist Bertolt Brecht? Both of them had lived in Germany under the Nazis and escaped to the United States to strike a devastating propaganda blow against the enemy.",
+         "In 1942, the Czech underground assassinates Reinhard Heydrich, the governor of Bohemia-Moravia. Heydrich's assassin tries to escape capture. This is based on a true story of course -- it's a well-known episode of World War II. Czech commandos were brought in from Britain on a mission with a slim chance of survival for the selfless agents. They unfortunately met a sad end after being betrayed by a fellow Czech. The history is described very well in books such as Callum MacDonald's \"The Killing of SS Obergruppenführer Reinhard Heydrich\". In 1943, when this film was made, were the full details of the actual events widely available in the USA? I'm not sure, but it seems unlikely. The story as presented here is the tale of what happens one day when a girl goes out to buy vegetables for supper, and when a taxi driver lets his finicky engine idle. Perhaps this plot was fabricated for want of any other alternative, but its sheer ordinariness adds to its immediacy. The reptilian Heydrich was one of the architects of Hitler's Final Solution. It's no coincidence that the plan to assassinate him was code-named \"Anthropoid\". Hans Heinrich von Twardowski plays him briefly at the beginning of the drama. He's cold-blooded, vicious, rabid ... and a little effeminate. That aspect seems questionable. In 1943, there were at least as many reasons for knowing what his character represented as there were occupied countries in Europe. This particular embellishment seems to add little or nothing to the suspense. (Twardowski himself was a German exile in Hollywood. If you can read German and have a look at the titles of the films he made in 1928 and 1929, you can probably hazard a guess as to why he was forced to leave Hitler's Germany.) Brian Donlevy plays the assassin. It's not by chance that this character is named Dr. Svoboda. Svoboda is a common name, but it also happens to be the Czech word for \"freedom\". I always find Donlevy effective, particularly so in \"The Great McGinty\" (1940) for Preston Sturges, but he does have a certain B actor limitation on access to his character's inner thoughts. He doesn't quite have the hunted quality of someone facing certain capture and torture. A perspiring lip might have helped. Better is Alexander Granach as the Gestapo man Gruber, a Bob Hoskins sort of person, only sinister. He's ruthless, cunning, perfect in the part. Walter Brennan appears as a Czech professor arrested and held as a hostage. Prof. Walter Brennan, that's right! He's very good. Considering the typecasting he must have been fighting against, he's excellent in fact. My moderate criticism of some of the performances notwithstanding, the suspense in the story was of the nail-biting kind, I felt. I wouldn't have wanted to watch this in 1943 -- it's just too bleak, too disturbing. When hostages are being held by the Gestapo, it's a lose-lose situation all around. All possible outcomes are disastrous. I guess the filmmakers felt -- knew -- that this would be more than a contemporary audience could really handle in the middle of wartime. Hence the film has an uplifting, artificial, fantasy ending which arrives like a deus ex machina. That's certainly a drawback for viewers now, but I can't fault anyone. The context of the times couldn't have allowed any other solution. Fritz Lang directed this return to Mitteleuropa, the scene of his youth and early classic films. He runs the show like a police procedural, making it all too real. He allows himself a couple of his great shots which I will allow you to discover for yourself. In real life, the actual Czech assassins -- Josef Gabcik and Jan Kubis, plus their look-out man, Josef Valcik -- were all killed in battle at their hiding place in the Karel Boromejsky Church in Prague on June 18, 1942. Heydrich's state funeral had been held earlier in Berlin on June 9. The Nazis had Siegfried's Funeral March from Wagner's \"Götterdämmerung\" played for the occasion, probably with extra added bombast. That's the sort of heroic farewell that the martyred Czechs should have received.",
+         "The actors in this film made any number of cheesy B movies during the war, but with Berthold Brecht and Fritz Lang behind them they made a movie touching on greatness. Check out the characterizations of Heydrich, the policeman Gruber, and the other Gestapo agents. Walter Brennan as the patriotic father was an odd choice, but maybe I'm being blinded by his later Western sidekick roles. The sets are outstanding. Although obviously on a Hollywood back lot they made a very believable Prague, using in part pre-war travelogue footage of the city. Indoor scenes are excellent. The actors look like they live in a real place, not a cuckooland paradise that most hack directors would give you.",
+         "This is loosely based on the true story of a member of the Czech underground assasinating the nazi regional governer, a ruthless fellow they call 'the Hangman'. The story revolves around the assasin and the family that unknowingly hid him from the gestapo. When questioned by the gestapo, the family says the guy was there to see their daughter, who happens to be engaged to another fine gentleman. So this little situation complicates the story, as the gestapo detective,a very ruthless chap, tries to catch them in the lie. From there the story moves along in chilling fashion when 400 townfolks are rounded up to be executed in groups of 10 each day until the assasin is turned in. This causes people to question their inner strength and makes them wonder if it is worth it to sacrifice themselves to keep him hidden. The story gets resolves in a very clever way which I will not reveal. The movie has that film noir/Hitchkockian feel to it with the protagonist being chased down and making clever escapes by the skin of his teeth. Although the movie drags a bit here and there, it ends up being a worthwhile suspenseful drama and also makes you think a bit about what would you do if you were put in that situation.",
+         "On 27 May 1942, in Prague, the Deputy Reich-Protector of Bohemia and Moravia \"Hangman\" Reinhard Heydrich is shot by the resistance member Dr. Franticek Svoboda (Brian Donlevy). After the attempt on Heydrich's life, Nasha Novotny (Anna Lee) gives the wrong runaway direction of Svoboda to the Gestapo agents. When Svoboda sees that he is trapped, he goes to Nasha's apartment seeking shelter and he introduces himself as the architect Karel Vanek. He is welcomed by the patriarch and former revolutionary Professor Stephen Novotny (Walter Brennan) and he spends the night with the family. On the next morning, the Gestapo captures hostages including Professor Novotny to force the population to denounce the assassin. Nasha goes to the St. Pancracio Hospital to seek out the resident surgeon Dr. Franticek Svoboda and ask him to surrender to the German authorities to protect the hostages. But sooner she learns that the occupation police has no intentions to let the prisoner go and she helps the resistance in the plan to frame the traitor Emil Czaka (Gene Lockhart). \"Hangmen Also Die!\" is a flawed but entertaining war propaganda film based on a true event, the murder of \"Hangman\" Reinhard Heydrich. The fictional plot of fight for freedom is engaging and it is interesting since it was filmed in 1943, before the end of the war. My vote is seven. Title (Brazil): \"Os Carrascos Também Morrem\" (\"The Hangmen Also Die\")",
+         "One of a handful of propaganda films made by Hollywood during WWII to show how various occupied European countries dealt with the situation; similar films included THE MOON IS DOWN (1941), EDGE OF DARKNESS (1943), THE NORTH STAR (1943) and THIS LAND IS MINE (1943). This one, however, differs from these in that it tackles a real-life event i.e. the assassination of Heydrich - dubbed \"The Hangman\" (his assassination was the subject of two more films, the contemporaneous HITLER'S MADMAN [1943] and OPERATION DAYBREAK [1975]) - and is further elevated by the contribution of two important figures of pre-war German art, director Lang and writer Bertolt Brecht. It also features a great cast (mostly delivering excellent performances, but is saddled with a miscast and rather stiff Brian Donlevy in the lead): Walter Brennan and Gene Lockhart are featured in overly familiar roles but their contribution is, as ever, reliable and entirely welcome; best of all, perhaps, are Anna Lee and Alexander Granach; beloved character actor Dwight Frye (most familiar to horror-film buffs) appears here in one of his last roles but, as was generally the case, is regrettably given only a couple of lines! Long and heavy-going, with the propagandist element coming off as fairly corny now, but the film is held firmly together by Lang's fine direction and James Wong Howe's superb noir-ish lighting (the Region 1 DVD by Kino was eventually re-issued as part of a 5-Disc Noir set). It also involves a couple of scuffles which are quite tense and energetic (Granach's death scene is especially striking), while the last third resorts to the organized frame-up by the Czechs of a traitor in their midst (collaborationist Lockhart) - which, in itself, is no less frightening an act than the heinous persecution of the Nazi regime! I'm confused, however, about the film's running-time: the print I watched ran for 129 minutes in PAL mode (which would bring it to about 134 minutes when converted to NTSC); even so, it contains the ending missing from the DVDs released in Regions 1 and 2 which, being the same version i.e. cut and having the same length (134 minutes), would indicate that the Kino edition is a PAL conversion - which means a full running-time of 139 minutes (a minute short of the 'official' length, as per Lotte Eisner's book on Lang)! To make matters worse, both the Leslie Halliwell and Leonard Maltin film guides I own cite HANGMEN ALSO DIE! as being 131 minutes long!!",
+         "Hangmen Also Die! (1943) The best part of this movie is knowing it was made right in the middle of the war, not in some recreation of the events. It's a little hyperbolic, for sure, but really well acted (both the Nazis and the Czechs), and it ends up being a battle of wits and tricks between the two sides. Fritz Lang was a refuge from Nazi Europe and made this in Hollywood, with an expected sensibility for the cruelties and barbarism of the occupying nasties. And they probably were this nasty--worse, in truth, though less comically so, as the movie sometimes pushes it a bit. Still, really enjoyable, in all. Yet, somehow, it was long. The twists from one scene to another started to sound familiar, and the tension was sustained rather than invigorated, if that makes any sense. Brian Donlevy is the leading good guy here, and he's always a little less than compelling, though he is not in most of the scenes so I suppose that's fine. The double-crosser was played by Gene Lockhart, whose presence grows as the movie gets on, and by the end he's really pretty amazing (far beyond the caricature of, say, the judge he played in \"Miracle on 34th Street\"). Walter Brennan makes an appearance, recognizable mostly by his voice. Two of the Nazi higher-ups were terrific, both the Pilsner guzzling brute and the slightly comical but scary gestapo head. Lang is no fool, and he makes this movie not only a pleasure, but an important tool to remind viewers to be involved, to realize that you can fight oppression, even Nazi oppression, with enough wits and sacrifice."
+      ],
+      "genres": [
+         "Drama",
+         "Film-Noir",
+         "Thriller",
+         "War"
+      ],
+      "productionCompanies": ["Arnold Pressburger Films"],
+      "summaries": [
+         "On May 27, 1942 the Nazi Reichsprotector of Bohemia/Moravia, the \"Hangman\" Reinhard Heydrich, died from the bullets of unidentified resistance fighters. Hangmen Also Die is the story of Heydrich's assassination in fictionalized form. It was Bertolt Brecht's only comparatively successful Hollywood project; the money he received allowed him to write \"The Visions of Simone Marchand\", \"Schwyk in the Second World War\" and his adaptation of Webster's \"The Duchess of Malfi\". Hanns Eisler won an Academy Award for his musical score.",
+         "An apocryphal version of the assassination of the Nazi leader and Czech \"protector\" Reinhard Heydrich by a resistance fighter in World War II. The story follows the assassin as he evades the widening Nazi dragnet, protected by his fellow Czechs even to the point of self-sacrifice. As the Czech people are put to the sword in increasing numbers in retaliation for the assassination and their refusal to give up the killer, a plan evolves to provide the Nazis with an \"assassin\" who is actually a Czech traitor.",
+         "On 27 May 1942, in Prague, the Deputy Reich-Protector of Bohemia and Moravia \"Hangman\" Reinhard Heydrich is shot by the resistance member Dr. Franticek Svoboda. After the attempt on Heydrich's life, Nasha Novotny when questioned by the Gestapo, gives them wrong information as to which direction Svoboda took off in. When Svoboda sees that he is trapped, he goes to Nasha's apartment seeking shelter and he introduces himself as the architect Karel Vanek. He is welcomed by the patriarch and former revolutionary Professor Stephen Novotny and spends the night with the family. The next morning, the Gestapo captures hostages including Professor Novotny to force the population to denounce the assassin. Nasha goes to St. Pancracio Hospital to find the resident surgeon Dr. Franticek Svoboda and ask him to surrender to the German authorities to protect the hostages. She soon learns that she is going to have to take matters in to her own hands.",
+         "After the Nazi administrator of Czechoslovakia is shot, his assassin tries to elude the Gestapo and struggles with his impulse to give himself up as hostages are executed."
+      ],
+      "budget": 0
+   },
+   "movielensId": 3377,
+   "movielens": {
+      "languages": [
+         "English",
+         "Deutsch"
+      ],
+      "releaseDate": "1943-04-15",
+      "dvdReleaseDate": "2000-02-29",
+      "directors": ["Fritz Lang"],
+      "runtime": 134,
+      "movieId": 3377,
+      "title": "Hangmen Also Die!",
+      "mpaa": "",
+      "actors": [
+         "Brian Donlevy",
+         "Walter Brennan",
+         "Anna Lee",
+         "Gene Lockhart",
+         "Hans Heinrich von Twardowski",
+         "Nana Bryant",
+         "Margaret Wycherly",
+         "Dennis O'Keefe",
+         "Tonio Selwart",
+         "Alexander Granach",
+         "Reinhold Schünzel",
+         "Ludwig Donath",
+         "Arno Frey",
+         "Sarah Padden",
+         "Jonathan Hale",
+         "Lionel Stander",
+         "Chester Conklin",
+         "Claire McDowell",
+         "William Roy",
+         "Edmund MacDonald",
+         "Byron Foulger",
+         "Virginia Farmer",
+         "George Irving",
+         "James Bush",
+         "Lester Sharpe",
+         "Arthur Loft",
+         "John Abbott",
+         "Louis Adlon",
+         "Erville Alderson",
+         "Richard Alexander"
+      ],
+      "imdbMovieId": "0035966",
+      "originalTitle": "Hangmen Also Die!",
+      "genres": [
+         "Drama",
+         "History",
+         "Thriller",
+         "War"
+      ],
+      "youtubeTrailerIds": ["1bjwQgSEoyo"],
+      "plotSummary": "During the Nazi occupation of Czechoslovakia, surgeon Dr. Franticek Svoboda, a Czech patriot, assassinates the brutal \"Hangman of Europe\", Reichsprotektor Reinhard Heydrich, and is wounded in the process. In his attempt to escape, he is helped by history professor Stephen Novotny and his daughter Mascha.",
+      "tmdbMovieId": 22178,
+      "avgRating": 3.34375,
+      "releaseYear": "1943",
+      "numRatings": 48,
+      "posterPath": "/n10wraCZWluEoKjkdjns1pV8rSj.jpg"
+   }
+}

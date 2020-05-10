@@ -1,0 +1,828 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "dwarf",
+            "id": 604
+         },
+         {
+            "name": "treasure",
+            "id": 1454
+         },
+         {
+            "name": "map",
+            "id": 1969
+         },
+         {
+            "name": "magic",
+            "id": 2343
+         },
+         {
+            "name": "robin hood",
+            "id": 4147
+         },
+         {
+            "name": "time travel",
+            "id": 4379
+         },
+         {
+            "name": "napoleon",
+            "id": 4381
+         },
+         {
+            "name": "titanic",
+            "id": 4388
+         },
+         {
+            "name": "cage",
+            "id": 4392
+         },
+         {
+            "name": "pig",
+            "id": 4931
+         },
+         {
+            "name": "steampunk",
+            "id": 10028
+         },
+         {
+            "name": "minotaur",
+            "id": 10166
+         },
+         {
+            "name": "independent film",
+            "id": 10183
+         },
+         {
+            "name": "good vs evil",
+            "id": 10842
+         },
+         {
+            "name": "tank",
+            "id": 11117
+         },
+         {
+            "name": "burglary",
+            "id": 11728
+         },
+         {
+            "name": "cult film",
+            "id": 34117
+         },
+         {
+            "name": "arm wrestling",
+            "id": 156191
+         },
+         {
+            "name": "ancient greece",
+            "id": 162861
+         },
+         {
+            "name": "giant",
+            "id": 189099
+         },
+         {
+            "name": "ogre",
+            "id": 189111
+         },
+         {
+            "name": "turned into animal",
+            "id": 241980
+         }
+      ],
+      "imdb_id": "tt0081633",
+      "video": false,
+      "title": "Time Bandits",
+      "recommendations": [
+         14506,
+         10803,
+         11864,
+         9080,
+         2107,
+         3604,
+         11591,
+         4923,
+         11584,
+         1406,
+         1649,
+         10631,
+         9434,
+         11484,
+         11234,
+         11884,
+         10141,
+         11950,
+         2614,
+         10606
+      ],
+      "backdrop_path": "/zTB8FzT5llI39Tvo0wEk2XWbCLY.jpg",
+      "revenue": 42365581,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "King Agamemnon / Fireman",
+               "gender": 2,
+               "credit_id": "52fe460e9251416c910478cd",
+               "name": "Sean Connery",
+               "profile_path": "/ce84udJZ9QRSR44jxwK2apM3DM8.jpg",
+               "id": 738,
+               "order": 0
+            },
+            {
+               "cast_id": 1,
+               "character": "Robin Hood",
+               "gender": 0,
+               "credit_id": "52fe460e9251416c910478c9",
+               "name": "John Cleese",
+               "profile_path": "/kg63gNYQtGPi2fSNIvCnVAclCbi.jpg",
+               "id": 8930,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Dame Pansy / Pansy",
+               "gender": 0,
+               "credit_id": "52fe460e9251416c910478d1",
+               "name": "Shelley Duvall",
+               "profile_path": "/iXBGoVOGCzBkz9klj7YJ83pkstf.jpg",
+               "id": 10409,
+               "order": 2
+            },
+            {
+               "cast_id": 11,
+               "character": "Vincent",
+               "gender": 2,
+               "credit_id": "52fe460e9251416c910478f3",
+               "name": "Michael Palin",
+               "profile_path": "/4x3JaNi3hEh4tdlXbg4dw55X10f.jpg",
+               "id": 383,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Napoleon",
+               "gender": 2,
+               "credit_id": "52fe460e9251416c910478d9",
+               "name": "Ian Holm",
+               "profile_path": "/27SAk1v043GdOeAxT5pPoMUYhGg.jpg",
+               "id": 65,
+               "order": 4
+            },
+            {
+               "cast_id": 12,
+               "character": "Supreme Being",
+               "gender": 2,
+               "credit_id": "52fe460e9251416c910478f7",
+               "name": "Ralph Richardson",
+               "profile_path": "/p9FyikB1ShTtq1cpMgkkhUrI9Bp.jpg",
+               "id": 12689,
+               "order": 5
+            },
+            {
+               "cast_id": 4,
+               "character": "Mrs. Ogre",
+               "gender": 1,
+               "credit_id": "52fe460e9251416c910478d5",
+               "name": "Katherine Helmond",
+               "profile_path": "/m7o1IEKIabcTWz5Qr4yUEoCNHDE.jpg",
+               "id": 381,
+               "order": 6
+            },
+            {
+               "cast_id": 13,
+               "character": "Winston the Ogre",
+               "gender": 2,
+               "credit_id": "52fe460e9251416c910478fb",
+               "name": "Peter Vaughan",
+               "profile_path": "/z9ZplbTA1ojYhgZ8kJUKKhsJ7Gs.jpg",
+               "id": 386,
+               "order": 7
+            },
+            {
+               "cast_id": 14,
+               "character": "Evil Genius",
+               "gender": 2,
+               "credit_id": "52fe460e9251416c910478ff",
+               "name": "David Warner",
+               "profile_path": "/wgp2AlWKveLBOcs8YNuLeZiLsGL.jpg",
+               "id": 2076,
+               "order": 8
+            },
+            {
+               "cast_id": 15,
+               "character": "Randall",
+               "gender": 0,
+               "credit_id": "52fe460e9251416c91047903",
+               "name": "David Rappaport",
+               "profile_path": "/hlbdNL8mPr840vsvYPkINHzg7G4.jpg",
+               "id": 154971,
+               "order": 9
+            },
+            {
+               "cast_id": 10,
+               "character": "Fidgit",
+               "gender": 2,
+               "credit_id": "52fe460e9251416c910478ef",
+               "name": "Kenny Baker",
+               "profile_path": "/sdd9rgifNF9C51RejG7sUGU8Bka.jpg",
+               "id": 130,
+               "order": 10
+            },
+            {
+               "cast_id": 16,
+               "character": "Strutter",
+               "gender": 0,
+               "credit_id": "52fe460e9251416c91047907",
+               "name": "Malcolm Dixon",
+               "profile_path": "/9Z4ZDKXe6S6gH9S361mM8wJd9Ai.jpg",
+               "id": 995639,
+               "order": 11
+            },
+            {
+               "cast_id": 17,
+               "character": "Og",
+               "gender": 2,
+               "credit_id": "52fe460e9251416c9104790b",
+               "name": "Mike Edmonds",
+               "profile_path": "/9xvOIcZPD4fMvGdwMfaF7uhhTwU.jpg",
+               "id": 219382,
+               "order": 12
+            },
+            {
+               "cast_id": 18,
+               "character": "Wally",
+               "gender": 2,
+               "credit_id": "52fe460e9251416c9104790f",
+               "name": "Jack Purvis",
+               "profile_path": "/tuFTY1jhlEgZm3vM80KdAEvHwNI.jpg",
+               "id": 132538,
+               "order": 13
+            },
+            {
+               "cast_id": 19,
+               "character": "Vermin",
+               "gender": 0,
+               "credit_id": "52fe460e9251416c91047913",
+               "name": "Tiny Ross",
+               "profile_path": null,
+               "id": 995640,
+               "order": 14
+            },
+            {
+               "cast_id": 33,
+               "character": "Compere",
+               "gender": 2,
+               "credit_id": "58b5e462c3a3686c8f000acc",
+               "name": "Jim Broadbent",
+               "profile_path": "/50TV6UKJKjmqdn1GQNuuCIYHLzP.jpg",
+               "id": 388,
+               "order": 15
+            },
+            {
+               "cast_id": 35,
+               "character": "Kevin's Mother",
+               "gender": 0,
+               "credit_id": "59635899c3a368253c0d8302",
+               "name": "Sheila Fearn",
+               "profile_path": null,
+               "id": 124516,
+               "order": 16
+            },
+            {
+               "cast_id": 36,
+               "character": "Kevin's Father",
+               "gender": 2,
+               "credit_id": "596358a4c3a368293b0f9b78",
+               "name": "David Daker",
+               "profile_path": "/jsjVTcdEHjITXBrKWYGMNOwQvE8.jpg",
+               "id": 79928,
+               "order": 17
+            },
+            {
+               "cast_id": 37,
+               "character": "Robber Leader",
+               "gender": 2,
+               "credit_id": "596358b0c3a368265d0eacad",
+               "name": "Derrick O'Connor",
+               "profile_path": "/5V0v5o7vIORgUXxbMCqy5aXLf5f.jpg",
+               "id": 14325,
+               "order": 18
+            },
+            {
+               "cast_id": 32,
+               "character": "Neguy",
+               "gender": 0,
+               "credit_id": "5892124e9251412dc20098c3",
+               "name": "Preston Lockwood",
+               "profile_path": "/am8mp4NRPd0tILXzZr88QEOTTdb.jpg",
+               "id": 133137,
+               "order": 19
+            },
+            {
+               "cast_id": 38,
+               "character": "Lucien",
+               "gender": 0,
+               "credit_id": "596358c2c3a36825e80dfd7a",
+               "name": "Terence Bayler",
+               "profile_path": "/ui0sfTzTnum4IkFVrLdpOsUbJDL.jpg",
+               "id": 10732,
+               "order": 20
+            },
+            {
+               "cast_id": 39,
+               "character": "Robert",
+               "gender": 0,
+               "credit_id": "596358d09251410bfa0f7003",
+               "name": "Derek Deadman",
+               "profile_path": "/xHyCqVvZUhgRgm4b70ZLLxWAqdR.jpg",
+               "id": 10984,
+               "order": 21
+            },
+            {
+               "cast_id": 40,
+               "character": "Supreme Being",
+               "gender": 2,
+               "credit_id": "596358e79251415a400c1e28",
+               "name": "Tony Jay",
+               "profile_path": "/cPnNEnzW0tqIHk0DL2w7t3bdt4b.jpg",
+               "id": 65598,
+               "order": 22
+            },
+            {
+               "cast_id": 41,
+               "character": "Benson",
+               "gender": 2,
+               "credit_id": "596358f7c3a3680d590c90be",
+               "name": "Jerold Wells",
+               "profile_path": null,
+               "id": 13465,
+               "order": 23
+            },
+            {
+               "cast_id": 42,
+               "character": "2nd Robber",
+               "gender": 2,
+               "credit_id": "59635903c3a368265d0ead0b",
+               "name": "Neil McCarthy",
+               "profile_path": "/sNQxZARN2qUtNzL28oyJnmuZWGe.jpg",
+               "id": 2601,
+               "order": 24
+            },
+            {
+               "cast_id": 43,
+               "character": "Theatre Manager",
+               "gender": 2,
+               "credit_id": "596359259251410c560e8541",
+               "name": "Charles McKeown",
+               "profile_path": "/1NnGOXieF8BFIjwzUFS9NTxFYUR.jpg",
+               "id": 374,
+               "order": 25
+            },
+            {
+               "cast_id": 44,
+               "character": "Bull Headed Warrior",
+               "gender": 2,
+               "credit_id": "5963593bc3a36825e80dfdf3",
+               "name": "Winston Dennis",
+               "profile_path": null,
+               "id": 215741,
+               "order": 26
+            },
+            {
+               "cast_id": 45,
+               "character": "Puppeter",
+               "gender": 2,
+               "credit_id": "5963594ec3a36828fc0db0c1",
+               "name": "David Leland",
+               "profile_path": null,
+               "id": 33317,
+               "order": 27
+            },
+            {
+               "cast_id": 46,
+               "character": "Fireman 2",
+               "gender": 2,
+               "credit_id": "5963595e9251415a400c1ebe",
+               "name": "Andrew MacLachlan",
+               "profile_path": "/irbBK6KSyfhDgI2ZTuqUm3fIqSv.jpg",
+               "id": 37893,
+               "order": 28
+            },
+            {
+               "cast_id": 47,
+               "character": "1st Refugee",
+               "gender": 2,
+               "credit_id": "5963597492514179040564d2",
+               "name": "Leon Lissek",
+               "profile_path": null,
+               "id": 185960,
+               "order": 29
+            },
+            {
+               "cast_id": 48,
+               "character": "3rd Robber",
+               "gender": 0,
+               "credit_id": "596359849251410bfa0f70f2",
+               "name": "Declan Mulholland",
+               "profile_path": null,
+               "id": 1214791,
+               "order": 30
+            },
+            {
+               "cast_id": 49,
+               "character": "Beryl",
+               "gender": 0,
+               "credit_id": "59635991c3a36828fc0db0fb",
+               "name": "Myrtle Devenish",
+               "profile_path": null,
+               "id": 1237120,
+               "order": 31
+            },
+            {
+               "cast_id": 50,
+               "character": "Arm Wrestler",
+               "gender": 0,
+               "credit_id": "596359a3c3a36825e80dfe62",
+               "name": "Peter Jonfield",
+               "profile_path": null,
+               "id": 27334,
+               "order": 32
+            },
+            {
+               "cast_id": 51,
+               "character": "Horseflesh",
+               "gender": 0,
+               "credit_id": "596359b4c3a3680d590c91a8",
+               "name": "Marcus Powell",
+               "profile_path": "/cNIpsCHwTl5CCtzaqVSfNjsHQe5.jpg",
+               "id": 1183443,
+               "order": 33
+            },
+            {
+               "cast_id": 52,
+               "character": "Troll Father",
+               "gender": 2,
+               "credit_id": "596359ccc3a3680d590c91ca",
+               "name": "Mark Holmes",
+               "profile_path": null,
+               "id": 37894,
+               "order": 34
+            },
+            {
+               "cast_id": 53,
+               "character": "Cartwright",
+               "gender": 2,
+               "credit_id": "596359dac3a368265d0eadf0",
+               "name": "Roger Frost",
+               "profile_path": null,
+               "id": 7029,
+               "order": 35
+            },
+            {
+               "cast_id": 54,
+               "character": "Reginald",
+               "gender": 0,
+               "credit_id": "596359e99251410bfa0f716f",
+               "name": "John Young",
+               "profile_path": "/klYwcM6cJ3kjtkSE1cdNsclmGcZ.jpg",
+               "id": 179028,
+               "order": 36
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe460e9251416c910478df",
+               "name": "Terry Gilliam",
+               "profile_path": "/cFno5isSPvfPEkSdVoEzOs0pJCh.jpg",
+               "id": 280,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe460e9251416c910478e5",
+               "name": "Terry Gilliam",
+               "profile_path": "/cFno5isSPvfPEkSdVoEzOs0pJCh.jpg",
+               "id": 280,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe460e9251416c910478eb",
+               "name": "Michael Palin",
+               "profile_path": "/4x3JaNi3hEh4tdlXbg4dw55X10f.jpg",
+               "id": 383,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "53f107f40e0a2675a9003eaf",
+               "name": "Terry Gilliam",
+               "profile_path": "/cFno5isSPvfPEkSdVoEzOs0pJCh.jpg",
+               "id": 280,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "53f108020e0a2675bc003ccb",
+               "name": "George Harrison",
+               "profile_path": "/3U4WXM0pNb7ob7gvQCnZ3sJYgB9.jpg",
+               "id": 10593,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53f1080e0e0a2675b2003f37",
+               "name": "Denis O'Brien",
+               "profile_path": null,
+               "id": 61865,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53f1081d0e0a2675ac003cd3",
+               "name": "Neville C. Thompson",
+               "profile_path": null,
+               "id": 1057320,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53f1082c0e0a2675a9003ec1",
+               "name": "Mike Moran",
+               "profile_path": null,
+               "id": 1250017,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "53f1083b0e0a2675b8003eac",
+               "name": "Peter Biziou",
+               "profile_path": null,
+               "id": 10717,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "53f108470e0a2675b2003f3d",
+               "name": "Julian Doyle",
+               "profile_path": null,
+               "id": 10718,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "53f108540e0a2675bf003dc7",
+               "name": "Irene Lamb",
+               "profile_path": null,
+               "id": 390,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53f108620e0a2675bc003cd4",
+               "name": "Milly Burns",
+               "profile_path": null,
+               "id": 1353879,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "53f1086f0e0a2675b2003f42",
+               "name": "Norman Garwood",
+               "profile_path": null,
+               "id": 391,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "560e0d50925141477900241c",
+               "name": "George Harrison",
+               "profile_path": "/3U4WXM0pNb7ob7gvQCnZ3sJYgB9.jpg",
+               "id": 10593,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 0,
+               "credit_id": "560e0d699251414feb001f68",
+               "name": "Trevor Jones",
+               "profile_path": "/86HjonjMXwcDyOlpaQW1SVR9CXh.jpg",
+               "id": 7020,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 2,
+               "credit_id": "590a4143c3a3684356005a6d",
+               "name": "James Acheson",
+               "profile_path": null,
+               "id": 69671,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Family",
+            "id": 10751
+         },
+         {
+            "name": "Fantasy",
+            "id": 14
+         },
+         {
+            "name": "Science Fiction",
+            "id": 878
+         },
+         {
+            "name": "Adventure",
+            "id": 12
+         },
+         {
+            "name": "Comedy",
+            "id": 35
+         }
+      ],
+      "popularity": 10.001996,
+      "production_countries": [{
+         "iso_3166_1": "GB",
+         "name": "United Kingdom"
+      }],
+      "id": 36819,
+      "vote_count": 311,
+      "budget": 5000000,
+      "overview": "Young history buff Kevin can scarcely believe it when six dwarfs emerge from his closet one night. Former employees of the Supreme Being, they've purloined a map charting all of the holes in the fabric of time and are using it to steal treasures from different historical eras. Taking Kevin with them, they variously drop in on Napoleon, Robin Hood and King Agamemnon before the Supreme Being catches up with them.",
+      "similar": [
+         141,
+         8810,
+         10140,
+         808,
+         34584,
+         41513,
+         18,
+         673,
+         6978,
+         63,
+         793,
+         107,
+         948,
+         14442,
+         11342,
+         624,
+         201676,
+         14139,
+         11564,
+         4723
+      ],
+      "original_title": "Time Bandits",
+      "runtime": 116,
+      "poster_path": "/4VZtpwdhHQSa4LUkvujyGAHb1hG.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": null,
+         "name": "Handmade Films Ltd.",
+         "id": 146,
+         "origin_country": ""
+      }],
+      "release_date": "1981-07-13",
+      "vote_average": 6.6,
+      "belongs_to_collection": null,
+      "tagline": "All the dreams you've ever had and not just the good ones.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "UK",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Terry Gilliam"],
+      "runtime": 116,
+      "synopsis": "In early 1980s England we find Kevin Lotterby (Craig Warnock), an average 11-year-old boy who is fascinated by history and its legends. However, his material-obsessed parents (David Daker and Sheila Fearn) could care less and spend their evenings ignoring their son and watching game show programs on TV. One night, Kevin is made to get to bed early and just as he lies down to sleep an armored knight riding on horseback bursts from his wardrobe. He then finds himself right smack dab in the middle of a forest clearing. Just after Kevin gets to his feet, the forest falls away and his normal bedroom has turned back to normal, as if nothing out of the ordinary had happened. Examining a picture on his wall almost identical to the scene he just witnessed--a knight on horseback in the middle of a forest--it's his father who bursts in through his door this time, complaining about all of the racket Kevin was making and yells at him to get to sleep. The following evening, Kevin returns to bed equipped with a Polaroid camera and a flashlight, determined to document whatever else might decide to emerge from his wardrobe. Just as he's given up hope and begins to fall asleep, a group of six strangely dressed dwarfs file out of his closet. Kevin shines his light at them and they cower, calling him the The Supreme Being. Soon after discovering his true identity, they gang up on the innocent Kevin, accusing him of things he has no knowledge of. However, when a frightening head-shaped apparition appears in Kevin's room and demands that they return what they've stolen, the dwarfs switch tactics and begin pushing on Kevin's picture-filled wall. Nothing happens at first, but then the wall gives way and keeps going; revealing a stretched hallway through which they continue to push the wall. The Supreme Being still after them, Kevin decides to help the dwarfs. The wall soon gives way through an opening at the end of the hall and the group plummets into the black space beyond. Cut to: a bright, blue sky where suddenly a black door-shaped opening forms and Kevin and the dwarfs fall right out of it. As it turns out, they have used a portal to travel back to 1796 Italy, during the Second Battle of Castiglione, whey they meet Napoleon (Ian Holm) and proceed to steal his riches, despite Kevin's objections. They subsequently travel to the time of Robin Hood (John Cleese), where they are promptly \"volunteered\" into giving up their plunder to the poor, much to the dwarfs chagrin. The six dwarfs finally explain to Kevin that they work for The Supreme Being, the creator of the Universe, as designers. Kevin learns that the dwarfs, whom are named Randall (David Rappaport)-the self-proclaimed leader, Fidgit (Kenny Baker), Strutter (Malcolm Dixon), Og (Mike Edmonds), Wally (Jack Purvis), and Vermin (Tiny Ross), were employees of the Supreme Being, the creator of \"all the big stuff\" in the universe, while it was the regular job of the dwarfs to create small bushes and trees. After designing a particularly foul-smelling tree, the dwarfs were demoted to the job of repairing holes in the space-time fabric. Instead, however, they spitefully stole the map of the holes' locations, which they are now using to travel around, stealing treasures from across history. Meanwhile, in secret, this journey is being observed via mystical powers by a malevolent sorcerer, known simply as \"the Evil Genius\" or \"Ultimate Evil\" (David Warner), who seeks the map for himself to recreate the universe to his liking. In the Fortress of Ultimate Darkness, the Evil Genius rants a little about The Supreme Being, saying that slugs are a demonstration of his incompetence. \"What about you?\" one of his henchman asks. \"He created you.\" Evil responds by blowing him up, adding \"Don't ever ask me another question like that! No one created me! I am absolute evil! I made myself!\" Another henchman pushes his luck, asking, \"Then how does he keep you here? How does he keep you trapped in the fortress?\" He promptly gets blown up. \"Good question,\" Evil states. \"If I were creating the world I wouldn't mess about with butterflies and daffodils. I would have started with lasers, eight o'clock, Day One!\" While the dwarfs ponder their next move, Ultimate Evil decides to magically speak through the mouth of one of the more dunderheaded dwarfs in order to convince the rest of them to pursue the resting place of \"the most fabulous object in the world.\" The dwarfs begin to fight amongst themselves for the map until the Supreme Being re-materializes, which leads Kevin to jump through a time-travel portal on his own in escape. Kevin lands in a vast desert where he unintentionally saves the life of King Agamemnon (Sean Connery) when he falls from a time portal in the sky. After inadvertently helping Agamemnon slay a vicious minotaur, Kevin is welcomed to Agamemnon's royal court and treated like a son. Reflecting on his own neglected life and family, Kevin wishes he can stay with the king forever. Kevin is elated with his new home, capturing scenes during his stay with his Polaroid camera, but this is not to last. A few days later, during a birthday party for King Agamemnon, the six dwarfs suddenly appear again and in yet another time-traveling robbery scheme, they manage to steal Agamemnon's riches along with the boy before fleeing through another time portal door. After time-traveling to the infamous luxury liner Titanic, the boat begins to sink and the stranded group is forced to search out the most fabulous object in the world which turns out to be the Fortress of Ultimate Evil. The Evil Genius, meanwhile, begins to manipulate the adventure with his magical influence, so that Kevin and the dwarfs end up out the freezing waters of the Atlantic Ocean to the ocean of the Time of Legends. Here, circumstances become even more fantastical. The group is picked up by a ship containing the Oger Winston (Peter Vaughan) and his human wife (Katherine Helmond). After overpowering Winston and throwing him and his wife overboard, the group takes command of the ship, but they barely escape when their ship is adorning the head of a giant. After putting the giant to sleep by injecting the top of his head with sleep potion, the travelers escape and find themselves in a vast desert. The dwarfs believe an epic treasure, \"The Most Fabulous Object in the World,\" awaits in this time-period within the Fortress of Ultimate Darkness, where Evil himself resides. Meeting an invisible wall in the middle of the desert, the dwarfs begin to fight and dissent from Randall's authority, when they accidentally down the wall by smashing through it like a pane of glass. They step through the jagged opening to behold Evil's fortress lying ominous on the other side. Once inside, the dwarfs are immediately deceived by Evil's shape-shifting abilities into handing over the map. Evil imprisons them and Kevin in one of many cages hanging over a bottomless void, but the group undoes the lock and swings from cage to cage until they are back within the fortress hall. They are able to use a photograph of the map Kevin had taken earlier to identify holes they can use to recruit help and recover the map. The dwarfs begin putting their plan into action. Randall and four of the dwarfs split up while Kevin stays behind to try to lure away several of the Evil Genius' demon minions that chase him. Kevin is almost left to face the Evil Genius alone when suddenly all kinds of characters from all time periods come to the rescue, among the group several Roman archers, cowboys, a battle tank, knights, and a futuristic soldier, and the dwarfs. The cowboys attempt to wrangle Evil with their lassos, but he begins to spin and the centrifugal force sends them flying. Evil's skull opens up and a wicked looking pole extends from it, producing a knife which cuts the ropes which unsuccessfully bound him. When the archers attempt to skewer them with their well-aimed arrows, Evil essentially turns himself into a pincushion and fires the arrows right back at their sources. Although the hodge-podge group puts up what could be considered a good effort, all efforts to foil evildoing prove in vain and all certainly seems lost. But then, out of nowhere, The Supreme Being appears in human form (Ralph Richardson) and turns Evil into brittle stone. While Randall tries to apologize to The Supreme Being for his groups actions, The Supreme Being reveals that everything which had occurred was actually all part of his plan. The Supreme Being (nicknamed 'SB' by the dwarfs) goes on to briefly explain that he let the midgets borrow the map because, as it turns out, Evil was HIS creation after all and the Supreme Being simply wanted to see it put to the test. Free will is the reason why evil still exists, he explains. He instructs them to dispose of Evil's crumbling bits and pieces into a English Post Box he has provided in order to rid the world of it and warns them not to touch it with their bare hands. Unbeknownst to them, one chunk is overlooked and slowly begins to fester. The SB forgives the dwarfs for their insolence, deciding demotion and a pay cut will suffice as a good enough punishment and announces that it is time to go (presumably back to Heaven). With the time map safely in hand, SB and the dwarfs then leave an indignant Kevin behind \"to carry on the fight.\" Soon, however, the festering piece of Evil begins to smolder and in moments Kevin is enveloped in a cloud of thick, strangely yellow-colored smoke. Almost instantaneously, Kevin wakes up to find himself back in his bed, surrounded now by thick, black smoke. Two firemen burst through his door just in time and rush him from his burning home. Outside, his parents fight over which kitchen appliances should have been saved from the flames and seem to have no concern for whether Kevin had made it out of the house alive or not. It is now morning as Kevin watches the growing flames lick at his home as firemen hose it down and begin to get the fires under controle. One of the two firemen who saved him walks by and asks if he is all right, and then says \"You're a very lucky boy.\" On second look, Kevin recognizes the fireman as the spitting image of King Agamemnon. Baffled, wondering if it was all a dream, Kevin checks his pockets for any evidence of his journey and is amazed to find all of the Polaroid snapshots that he took while on his adventures, thus confirming that it wasn't a dream after all. But before Kevin can show the photos and proof of his time traveling adventures to his bickering parents, another fireman emerges from the home with a charred toaster oven in hand, declaring that it was the cause of the fire, which was left on overnight. His parents open the appliance, revealing the smoking chunk of evil rock lying inside. Kevin gasps, realizing it as the source of the fire. \"Mum, Dad!\" He warns, \"It's Evil! Don't touch it!\" But as always, his stupid parents foolishly ignore him and touch it anyway to remove it. They both explode on contact with the black rock, leaving almost no trace behind. When Kevin turns around looking for help, he sees King Agamemnon-turned-fireman winking at him who then drives away in his fire truck along with the rest of the firemen now that the fire is put out. Kevin is left all alone and bewildered on the front lawn to look back at the smoldering remains of his destroyed house and (now dead) parents while his nosy neighbors look on. The camera zooms out from the town, the world, and the galaxy to reveal its location on the Supreme Being's map. The Supreme Being's hands then roll up the map, ending the film.",
+      "writers": [
+         "Michael Palin",
+         "Terry Gilliam"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0081633/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTg2MDYwMzM0NF5BMl5BanBnXkFtZTcwODI3MTQ5OQ@@._V1_SY317_CR5,0,214,317_AL_.jpg",
+      "actors": ["Stars: Sean Connery, Shelley Duvall, John Cleese | See full cast and crew »"],
+      "reviews": [
+         "It IS a wavelength thing. Terry Gilliam's films are ALL Terry Gilliam films. They all have that certain something, some kind of feeling about them that makes them instantly recognizable. The same can be said of the Coen brothers. Unfortunately, movies that are that personal and unique do not work for everybody. For the people that just can't get into Gilliam films, I hope there's another filmmaker that inspires childlike wonderment in you. Because it's a great feeling. Time Bandits is magic. I've seen it many times (over 10) and each time, I find something new about it. It's a fine example of a movie that works for children and adults alike. When I saw it for the first time at age 8, I enjoyed the fantasy, adventure, and basic good vs. evil story. As I got older I started appreciating the social commentary on consumerism, the Python-esque humor, and just how imaginative and skillfully done the movie is. After watching it again yesterday, I'm having trouble deciding which is the better movie; Brazil or Time Bandits.",
+         "Finding Terry Gilliam's \"Time Bandits\" in the bargain bin at the local movie store was too good a deal for me to pass up, and I'm so glad I didn't! This movie is probably one of the greatest modern-day fantasies I've seen, due primarily to the amazing vision of Gilliam. I was disappointed with it on my first viewing years ago, expecting a rehash of Monty Python material, but yesterday watching it I just couldn't stop grinning. This movie knows its sources, and sends them up right. For starters, I love how Gilliam handled the boy 'hero' in \"Bandits\". He's not anyone spectacular, aside from an active imagination (over and above his banal parents), and he really doesn't contribute much to the story-it simply passes him by. Most of the other characters don't like him that much even. (the \"stinking Kevin\" line just makes me howl!) He's also not that cute, which is a rarity with child actors and which sinks most films with them. Plus, the danger of the story doesn't stop at him, as shown by the rather sobering finale. No 'It's all a dream' type cop-out here. Having studied the form of the fantasy as explained by Tolkien myself, Gilliam obviously understands how it works. Of course, because it works, \"Time Bandits\" is just plain fun. The plot's out of nowhere-just kind of trips along through time and space and stranger things. Napoleon as a height-obsessed drunkard? Robin Hood as the aloof, unlikely leader of a band of violent, too-merry men? Agamemnon as the ideal father figure? It's all here, plus the technocratic, pyromaniac \"Evil\" vs. the Supreme Being. Ah, you always knew He was an staid Englishman in a pinstripe suit, didn't you? (\"Dead? No excuse for laying off work.\") Perhaps it's not Gilliam's masterpiece, as \"Brazil\" could be argued for that...though one could also argue \"Time Bandits\" gives a bleaker perspective through the contrast of the fun and whimsy. If our reality is depressing now, and Kevin's was, is the fulfillment of our fantasies any better? Perhaps Randall said it best himself - \"Heroes, bah! What do they know about an honest day's work?\" :-)",
+         "How's this for a zany plot? A bunch of mischievious dwarves steal a map from the Supreme Being which shows them how to find holes that lead to various historical periods. One such hole brings them out in a small boy's bedroom. The boy joins them, and together they visit diverse lands such as Napoleonic France; Sherwood Forest during the days of Robin Hood; the Titanic; the Middle East during the reign of Agamemnon; etc. Oh yes, and all the time they are being pursued by the Devil (referred to here as \"Evil\"), who would dearly love to steal the map for himself. Time Bandits is an outlandish, often hilarious, always engaging fantasy story with a magical cast. It wins over the audience by offering them a refreshingly unique story, and littering it with memorable episodes which vary in tone from hilarious to frightening, from historical to mythological. Lots of energetic performances add to the fun, with Ian Holm doing a superb Napoleon, Sean Connery an imposing Agamemnon, and Ralph Richardson a delightfully eccentric Supreme Being. The film's peculiar ending used to upset me as a youngster, but now I appreciate its ingenuity and it evokes in me memories of a famous Philip Larkin poem which begins with the infamous line: \"They f*** you up your mum and dad, they may not mean to but they do.......\". Time Bandits is a triumph of imagination. It isn't quite flawless, due to a bland performance by Craig Warnock as the boy and a somewhat dismal episode featuring an angry ogre, but flaws aside it is certainly one of those films with which it is always a pleasure to while away a couple of hours.",
+         "I was lucky enough to see this piece of celluloid magic on the big screen when it first came out. I'm glad I did, too, because the shoe-box multiplexes that were being slapped together couldn't do this movie justice. Terry Gilliam hits just the right note when he introduces Kevin, a ten-year old with big appetite for western mythology(you get the impression that in another year, he'll be reading Joseph Campbell and Rider Haggard)and an even bigger imagination. Having parents of the most sterile, materialistic bent(plastic couch covers--ecch)just ensure his receptiveness to the adventures that follow his falling through the time-door in the back of his closet with Randall and his fellow dwarves as they plunder and loot their way through time and history. Gilliam pokes fun at some of history's figures, like Napoleon(\"That's what I like to see--little things hitting each other!\"), Robin Hood(\"was it really necessary to hit him?\"\"Yes boss.\"\"Ah, I see.\"),and others. Gilliams' lesson that having lots of stuff will not ensure happiness and that usually, the journey itself is reward enough is artfully told without flogging the audience with it. Something else that stuck with me, but I didn't realize until long afterwards, were the things that Kevin discovered, after a fashion, in his adventures but didn't have in his life back in the 'burbs: a real father figure, played by Sean Connery as Agamemnon, and true love, as presented by Peter Vaughan and Katherine Helmond as Mr. and Mrs. Ogre. Plus the special effects are economically impressive without being too cheesy(my god--the fortress of ultimate darkness WAS made of lego blocks!). In the end, though, it was something that I find far, far too rarely in movies now and before, and it occured to me after I had seen, of all things, \"Crouching Tiger, Hidden Dragon\". What Ang Lee's film had in common with Gilliam is simply this: they both had the feel of a great big story that you came in the middle of, and you didn't want ever to end, but it didn't matter, because the structure was such that you had enough to digest for now. And I can count on less than two hands the movies where I was left with THAT wonderful feeling.",
+         "A terrific little fantasy that, not surprisingly, has flavors of Monty Python. My children and I first saw it in the early '80s on a night ferry from Harwich to Zeebrugge. I've seen it a few times since, and marvel at the creativity that went into the film. God's \"employees\" trying to use a map of the universe to track down treasure is the theme; running around through time trying to find the treasure is the game. The cameos by Cleese, Connery and the rest are some amusing highlights, but the Time Bandits themselves really make the story. The climactic scenes with the Evil Genius made me think more than a little of the Sorcerer's Apprentice. I think it is a well done bit of fantasy for older children and adults; it helps to know a bit of history going into it. I wouldn't let my six-year old granddaughter see it -- at least not yet -- but she and her sister probably will love the adventure in a few years.",
+         "For my money, Terry Gilliam is one of the more innovative, creative, and fantastical directors of the last two decades. His films easily bear his stamp of absurdist humour, witty dialogue, sheer fantasy, dream-like sequences, and always a generous dose of black comedy. Time Bandits is certainly no exception, but rather a stepping stone for greater works such as The Fisher King and the wonderful Brazil. The film tells the story of a group of dwarf-like \"crooks\" who leave their jobs with God(the Supreme Being) for a life of crime via a map they have \"stolen\" from their job place. This map holds all the secrets to time holes in the fabric of creation. Thus the bearers of the map can go forward and back in time as they please. They use the map to steal, at which they have little skill, and become rich, at which they miserably fail. Gilliam transports them and us through time to meet such interesting notables as Robin Hood, Napoleon, Agammenon, and the Evil Genius(devil-like entity). The film is grand in its scope and still wanting, for it is tackling a story of epic proportions. Still, Gilliam delivers a pretty good film both visually stunning in certain sequences and brimming with philosophical questions such as the necessity of evil and the election of choice in life. The film is also very funny in many parts, due in large part to a great cast. The protagonists are all quite good. John Cleese plays as likable a Robin Hood to be seen with his almost overly polite manner. The best performances go to Ian Holm, playing a drunken Napoleon obsessed with his size, David Warner, playing the malevolent Evil Genius with relish, and lastly to Sir Ralph Richardson, playing the Supreme Being like a bureaucrat concerned with balancing payroll and the like. Gilliam explores the bureaucratic mentality with even more scope in his Brazil. All in all, Time Bandits is a fun and entertaining picture.",
+         "This is THE definitive work on the nature of good and evil. It asks the age old question: Who is the Supreme Being, and what is it exactly that he wants from us? Terry Gilliam gives us a morality tale wrapped inside a an epic poem seen in the guise of an abstract painting. As a film, all the seperate elements are perfect, and blended together seemlessly by the hand of the maestro Gilliam. It is not only a brilliant comedy, but an enthralling story as well. This is a film that sparks discussion and debate that goes on well into the night. It is the rarest of all cinematic creatures-- a movie that is a genuine pleasure to watch and one that makes you think.",
+         "This movie is the funniest movie I have ever seen. When it was on cable, we watched it about 20 times and I have worn out two tapes of it. There are so many levels of enjoyment. The sets are great, the effects are wondrous, the storyline is wacky, the combination of veteran actors and new faces is perfection. The dialog is a riot and you will find quotes from this movie everywhere, which thrills me to death! I love all the actors that played the dwarfs, especially David Rappaport who played Randall and also loved his TV show \"The Wizard\" that was treated so shabbily. We often find ourselves saying, \"Remember when Evil said this, and when Og said that?\" Or laughly wonder what condition Pansy's boyfriend, Vincent, had that needed fruit? The Napoleon scene alone is enough to cause you to break a rib from laughter. I guarantee that if you have a funnybone at all, you will love this movie! Run, don't walk to the nearest video rental store!",
+         "Time Bandits is a deeply satirical morality tale superficially packaged as a kid's adventure film. On the surface it seems simple enough; a young boy, Kevin, is spirited away by a gang of time travelling comedy dwarfs for a series of adventures in different historical settings. But there's a lot more to it than that. Kevin's parents are a grotesque caricature of self-absorbed suburban materialism; incessantly arguing about kitchen appliances while watching brainless TV gameshows at full volume. It is Gilliam's attention to detail which really makes this film for me. Kevin's parents don't eat anything which hasn't come out of a microwave or blender and are too precious even to remove the plastic wrapping from their hideous three-piece suite. Kevin, meanwhile, is a romantic who, until the fateful night the Time Bandits arrive in his bedroom, can only live out his fantasies in history books. But history turns out not to be all it's cracked up to be. Napoleon is crippled by an inferiority complex stemming from his small stature; Robin Hood is a patronising liar and his 'merry men' are a bunch of violent filthy animals. Only in mythical Greece does Kevin come close to realising his dreams. The film retains a dark edge throughout. As Gilliam explains in his DVD commentary, by casting small people as the bandits, led by the delightfully arrogant David Rappaport, he hoodwinks the audience into swallowing their extreme cupidity. The innocent Kevin (played by a child actor deliberately selected for his shyness) finds himself swept into company even more mindlessly greedy than that of his parents'. At this stage we are introduced to David Warner's deliciously over-acted 'evil genius'; a Satan obsessed with modern technology (but, ironically, surrounded by decay and incompetence), who plots to entrap the time travellers. The film gathers momentum towards the inevitable showdown between good and evil but Gilliam leaves this disturbingly inconclusive. God, played by Ralph Richardson as an intimidating schoolmaster, assures us that he is in control but that misery and suffering are all that we can expect (\"something to do with free will\") and Kevin's troubles have only begun. Ultimately this is a very British film which speaks to lonely idealists everywhere.",
+         "Only David Warner can play the Devil himself with evil relish and yet manage to elicit some sympathy for that fallen angel. His lines are memorable, for indeed, why should a Supreme Being create such an abominable creature as a slug? The Devil just wants a perfect world and he gets hilarious when he says just how (e.g. digital telephones for everyone, fiberoptic telecommunications, etc.) This should remind us of older religious traditions' belief in a Malevolent Being that began existence as a partner of God in creation (cf. Zoroastrianism, Gnosticism, etc.) Apparently, the two had some disagreements on just what the fabric of the universe should be, hence the parting of ways. This also brings to mind Carl Anderrson in his role as Judas in Jesus Christ, Superstar when he asked why the Messiah chose that wretched time in that forsaken land to deliver his message. Jesus should have come in the 20th century with the spread of mass communication. Rantings by the characters played both by Warner and Anderrson are obviously false and yet so much fun and funny. My two little boys enjoyed the film and to my surprise, so did I."
+      ],
+      "genres": [
+         "Adventure",
+         "Comedy",
+         "Fantasy",
+         "Sci-Fi"
+      ],
+      "productionCompanies": ["HandMade Films"],
+      "summaries": [
+         "A young boy's wardrobe contains a time hole. Through this hole an assortment of short people (i.e. dwarfs) come while escaping from their master, the supreme being. They take Kevin with them on their adventures through time from Napoleonic times to the Middle Ages to the early 1900s, to the time of Legends and the Fortress of Ultimate Darkness where they confront Evil.",
+         "A young boy accidentally joins a band of dwarves as they jump from era to era looking for treasure to steal."
+      ],
+      "budget": 5000000
+   },
+   "movielensId": 2968,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1981-07-13",
+      "dvdReleaseDate": "2003-02-23",
+      "directors": ["Terry Gilliam"],
+      "runtime": 116,
+      "movieId": 2968,
+      "title": "Time Bandits",
+      "mpaa": "PG",
+      "actors": [
+         "Sean Connery",
+         "John Cleese",
+         "Shelley Duvall",
+         "Michael Palin",
+         "Ian Holm",
+         "Ralph Richardson",
+         "Katherine Helmond",
+         "Peter Vaughan",
+         "David Warner",
+         "David Rappaport",
+         "Kenny Baker",
+         "Malcolm Dixon",
+         "Mike Edmonds",
+         "Jack Purvis",
+         "Tiny Ross",
+         "Jim Broadbent",
+         "Sheila Fearn",
+         "David Daker",
+         "Derrick O'Connor",
+         "Preston Lockwood",
+         "Terence Bayler",
+         "Derek Deadman",
+         "Tony Jay",
+         "Jerold Wells",
+         "Neil McCarthy",
+         "Charles McKeown",
+         "Winston Dennis",
+         "David Leland",
+         "Andrew MacLachlan",
+         "Leon Lissek",
+         "Declan Mulholland",
+         "Myrtle Devenish",
+         "Peter Jonfield",
+         "Marcus Powell",
+         "Mark Holmes",
+         "Roger Frost",
+         "John Young"
+      ],
+      "imdbMovieId": "0081633",
+      "originalTitle": "Time Bandits",
+      "genres": [
+         "Family",
+         "Fantasy",
+         "Science Fiction",
+         "Adventure",
+         "Comedy"
+      ],
+      "youtubeTrailerIds": [
+         "kZ3qWZBs7ug",
+         "JwnjENpIyq0",
+         "yD6rY2k3Dzk",
+         "5sKgmNXQphI",
+         "omT3UVDemU0"
+      ],
+      "plotSummary": "Young history buff Kevin can scarcely believe it when six dwarfs emerge from his closet one night. Former employees of the Supreme Being, they've purloined a map charting all of the holes in the fabric of time and are using it to steal treasures from different historical eras. Taking Kevin with them, they variously drop in on Napoleon, Robin Hood and King Agamemnon before the Supreme Being catches up with them.",
+      "tmdbMovieId": 36819,
+      "avgRating": 3.57428,
+      "releaseYear": "1981",
+      "numRatings": 9740,
+      "posterPath": "/4VZtpwdhHQSa4LUkvujyGAHb1hG.jpg"
+   }
+}

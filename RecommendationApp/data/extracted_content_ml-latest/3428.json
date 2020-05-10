@@ -1,0 +1,966 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "boxer",
+            "id": 2792
+         },
+         {
+            "name": "boxing match",
+            "id": 4487
+         },
+         {
+            "name": "son",
+            "id": 5153
+         },
+         {
+            "name": "father",
+            "id": 5905
+         },
+         {
+            "name": "sport",
+            "id": 6075
+         }
+      ],
+      "imdb_id": "tt0078950",
+      "video": false,
+      "title": "The Champ",
+      "recommendations": [
+         43041,
+         10608,
+         34014,
+         83407,
+         41279,
+         40344,
+         41800,
+         36934,
+         64170,
+         29901,
+         46925,
+         14040,
+         24731,
+         210599,
+         49008,
+         58473,
+         12714,
+         62676,
+         54989,
+         63988
+      ],
+      "backdrop_path": "/9zfIXbAmCkxcw1OvytSHNATLCjP.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 4,
+               "character": "Billy",
+               "gender": 2,
+               "credit_id": "52fe44249251416c91006463",
+               "name": "Jon Voight",
+               "profile_path": "/c7BvyqlvqDkfkFqSBUCiR21fvTh.jpg",
+               "id": 10127,
+               "order": 0
+            },
+            {
+               "cast_id": 5,
+               "character": "Annie",
+               "gender": 1,
+               "credit_id": "52fe44249251416c91006467",
+               "name": "Faye Dunaway",
+               "profile_path": "/sq12RJZ1HTXHHI48y31YIS2qp87.jpg",
+               "id": 6450,
+               "order": 1
+            },
+            {
+               "cast_id": 6,
+               "character": "T.J.",
+               "gender": 0,
+               "credit_id": "52fe44249251416c9100646b",
+               "name": "Ricky Schroder",
+               "profile_path": "/fGo3BwKX5ed39HHqhozJb7s0D5D.jpg",
+               "id": 76546,
+               "order": 2
+            },
+            {
+               "cast_id": 7,
+               "character": "Jackie",
+               "gender": 2,
+               "credit_id": "52fe44249251416c9100646f",
+               "name": "Jack Warden",
+               "profile_path": "/pD98exbwlD4f9QmQd0N8Sa7j6pw.jpg",
+               "id": 5251,
+               "order": 3
+            },
+            {
+               "cast_id": 8,
+               "character": "Mike",
+               "gender": 2,
+               "credit_id": "55ef6b81c3a36871bf006064",
+               "name": "Arthur Hill",
+               "profile_path": "/hY0HsScC0LyWkJgkWr0NK5kVMDz.jpg",
+               "id": 65505,
+               "order": 4
+            },
+            {
+               "cast_id": 9,
+               "character": "Riley",
+               "gender": 2,
+               "credit_id": "55ef6b82c3a368090c00b04e",
+               "name": "Strother Martin",
+               "profile_path": "/64R2JqNX6MQMBZZK8wkXXKM9pTF.jpg",
+               "id": 8260,
+               "order": 5
+            },
+            {
+               "cast_id": 10,
+               "character": "Dolly Kenyon",
+               "gender": 1,
+               "credit_id": "55ef6b829251412e07004c4a",
+               "name": "Joan Blondell",
+               "profile_path": "/7nS5gqycNArcTdnRO2lXj9rYnkG.jpg",
+               "id": 13568,
+               "order": 6
+            },
+            {
+               "cast_id": 11,
+               "character": "Josie",
+               "gender": 1,
+               "credit_id": "55ef6b82c3a3682c64018de2",
+               "name": "Mary Jo Catlett",
+               "profile_path": "/w4phLdpzRyt8OT20RnSpJ1Q4Chp.jpg",
+               "id": 80634,
+               "order": 7
+            },
+            {
+               "cast_id": 12,
+               "character": "Georgie",
+               "gender": 2,
+               "credit_id": "55ef6b829251413e3e01c2c4",
+               "name": "Elisha Cook Jr.",
+               "profile_path": "/ntXqHlpeaXTM7WqIsGDlYtlG7hk.jpg",
+               "id": 3339,
+               "order": 8
+            },
+            {
+               "cast_id": 13,
+               "character": "Charlie Goodman",
+               "gender": 2,
+               "credit_id": "55ef6b8392514106d6013d09",
+               "name": "Stefan Gierasch",
+               "profile_path": "/y4w2yNJYdAcaKddQyCYm4qtmLqO.jpg",
+               "id": 52463,
+               "order": 9
+            },
+            {
+               "cast_id": 14,
+               "character": "Whitey",
+               "gender": 2,
+               "credit_id": "55ef6b83c3a3687d3b013cb4",
+               "name": "Allan Miller",
+               "profile_path": "/7CCMb61h6rQaFNTstQdGLvbb45d.jpg",
+               "id": 51518,
+               "order": 10
+            },
+            {
+               "cast_id": 16,
+               "character": "Jeffie",
+               "gender": 0,
+               "credit_id": "55ef6b84c3a3682c64018de5",
+               "name": "Jeff Blum",
+               "profile_path": null,
+               "id": 1507162,
+               "order": 12
+            },
+            {
+               "cast_id": 17,
+               "character": "Hoffmaster",
+               "gender": 2,
+               "credit_id": "55ef6b849251412e07004c4e",
+               "name": "Dana Elcar",
+               "profile_path": "/8qDt9Rl10UCGnUtOZvlCwZiHTHI.jpg",
+               "id": 37712,
+               "order": 13
+            },
+            {
+               "cast_id": 18,
+               "character": "Bowers",
+               "gender": 0,
+               "credit_id": "55ef6b849251413e3201b3c8",
+               "name": "Randall 'Tex' Cobb",
+               "profile_path": "/wtRQp99LgNrJ8bF9XyAzbuoekMb.jpg",
+               "id": 5177,
+               "order": 14
+            },
+            {
+               "cast_id": 19,
+               "character": "Sonny",
+               "gender": 0,
+               "credit_id": "55ef6b859251413e2f01abf9",
+               "name": "Kristoff St. John",
+               "profile_path": null,
+               "id": 1212639,
+               "order": 15
+            },
+            {
+               "cast_id": 20,
+               "character": "Cuban Girl",
+               "gender": 1,
+               "credit_id": "55ef6b85c3a368090c00b050",
+               "name": "Gina Gallego",
+               "profile_path": "/knCS7C8QRiErd8H0SQ0Gg0v1ERw.jpg",
+               "id": 79073,
+               "order": 16
+            },
+            {
+               "cast_id": 21,
+               "character": "Mrs. Riley",
+               "gender": 0,
+               "credit_id": "55ef6b85c3a3686f1700a60f",
+               "name": "Jody Wilson",
+               "profile_path": null,
+               "id": 1507163,
+               "order": 17
+            },
+            {
+               "cast_id": 22,
+               "character": "Groom",
+               "gender": 0,
+               "credit_id": "55ef6b86c3a3687d3b013cba",
+               "name": "Reginal M. Toussaint",
+               "profile_path": null,
+               "id": 1507164,
+               "order": 18
+            },
+            {
+               "cast_id": 23,
+               "character": "TV Reporter",
+               "gender": 0,
+               "credit_id": "55ef6b86c3a3687d3b013cc0",
+               "name": "Bob Gordon",
+               "profile_path": null,
+               "id": 1507165,
+               "order": 19
+            },
+            {
+               "cast_id": 24,
+               "character": "Dolly's Trainer",
+               "gender": 0,
+               "credit_id": "55ef6b869251412c320050a2",
+               "name": "Gene Picchi",
+               "profile_path": null,
+               "id": 1507166,
+               "order": 20
+            },
+            {
+               "cast_id": 25,
+               "character": "Horse Owner",
+               "gender": 0,
+               "credit_id": "55ef6b86c3a3681e6a001f9f",
+               "name": "Anne Logan",
+               "profile_path": null,
+               "id": 1507167,
+               "order": 21
+            },
+            {
+               "cast_id": 26,
+               "character": "Race Track Announcer",
+               "gender": 2,
+               "credit_id": "55ef6b87c3a3682c64018de9",
+               "name": "Bill Baldwin",
+               "profile_path": "/iO3gWXI34gESKYbdvTxMaTzUbJ9.jpg",
+               "id": 16527,
+               "order": 22
+            },
+            {
+               "cast_id": 27,
+               "character": "Lady at the Rail",
+               "gender": 0,
+               "credit_id": "55ef6b87c3a368090c00b054",
+               "name": "Rita Turner",
+               "profile_path": null,
+               "id": 1507168,
+               "order": 23
+            },
+            {
+               "cast_id": 28,
+               "character": "Dolly's Guest",
+               "gender": 0,
+               "credit_id": "55ef6b87c3a3682c6b01a27c",
+               "name": "Dorothy Streisin",
+               "profile_path": null,
+               "id": 1507169,
+               "order": 24
+            },
+            {
+               "cast_id": 29,
+               "character": "Hot Walker",
+               "gender": 0,
+               "credit_id": "55ef6b889251413e4501af13",
+               "name": "Lionel Dozier",
+               "profile_path": null,
+               "id": 1507170,
+               "order": 25
+            },
+            {
+               "cast_id": 30,
+               "character": "Head Starter",
+               "gender": 0,
+               "credit_id": "55ef6b889251412c320050a7",
+               "name": "Charles W. Camac",
+               "profile_path": null,
+               "id": 1507171,
+               "order": 26
+            },
+            {
+               "cast_id": 31,
+               "character": "Ship's Captain",
+               "gender": 0,
+               "credit_id": "55ef6b889251413e4101ad0e",
+               "name": "David Peden",
+               "profile_path": null,
+               "id": 1507172,
+               "order": 27
+            },
+            {
+               "cast_id": 32,
+               "character": "Steward",
+               "gender": 0,
+               "credit_id": "55ef6b889251412c320050ab",
+               "name": "William Fuller",
+               "profile_path": "/v39WM9O0D0nJrjQsD8PP6M8svY8.jpg",
+               "id": 100279,
+               "order": 28
+            },
+            {
+               "cast_id": 33,
+               "character": "Pitch Lady",
+               "gender": 0,
+               "credit_id": "55ef6b899251412c320050ae",
+               "name": "Vanna Salviati",
+               "profile_path": null,
+               "id": 1507173,
+               "order": 29
+            },
+            {
+               "cast_id": 34,
+               "character": "Gambler",
+               "gender": 0,
+               "credit_id": "55ef6b899251413e4501af18",
+               "name": "Maurice Pete Mitchell",
+               "profile_path": null,
+               "id": 1507174,
+               "order": 30
+            },
+            {
+               "cast_id": 35,
+               "character": "Bar Patron",
+               "gender": 0,
+               "credit_id": "55ef6b89c3a3686f1700a613",
+               "name": "Ernesto Molinari",
+               "profile_path": null,
+               "id": 1422112,
+               "order": 31
+            },
+            {
+               "cast_id": 36,
+               "character": "Second Gambler",
+               "gender": 0,
+               "credit_id": "55ef6b8ac3a3682c64018ded",
+               "name": "Robert Sutton",
+               "profile_path": null,
+               "id": 1507175,
+               "order": 32
+            },
+            {
+               "cast_id": 37,
+               "character": "Bartender",
+               "gender": 0,
+               "credit_id": "55ef6b8a9251412c320050b3",
+               "name": "Philip Tuersky",
+               "profile_path": null,
+               "id": 1507176,
+               "order": 33
+            },
+            {
+               "cast_id": 38,
+               "character": "Nikki",
+               "gender": 0,
+               "credit_id": "55ef6b8a9251413e4501af1d",
+               "name": "Micki Varro",
+               "profile_path": null,
+               "id": 1507177,
+               "order": 34
+            },
+            {
+               "cast_id": 39,
+               "character": "Security Guard",
+               "gender": 0,
+               "credit_id": "55ef6b8bc3a3682c64018df2",
+               "name": "Geoff Marlowe",
+               "profile_path": null,
+               "id": 1507178,
+               "order": 35
+            },
+            {
+               "cast_id": 40,
+               "character": "Exercise Rider",
+               "gender": 0,
+               "credit_id": "55ef6b8b9251412c320050b8",
+               "name": "George Stidham",
+               "profile_path": null,
+               "id": 1507179,
+               "order": 36
+            },
+            {
+               "cast_id": 41,
+               "character": "Willie",
+               "gender": 0,
+               "credit_id": "55ef6b8b9251413e3201b3cf",
+               "name": "Willie White",
+               "profile_path": null,
+               "id": 1507180,
+               "order": 37
+            },
+            {
+               "cast_id": 42,
+               "character": "Sparring Partner",
+               "gender": 0,
+               "credit_id": "55ef6b8c92514106d6013d0d",
+               "name": "Curtis Jackson",
+               "profile_path": null,
+               "id": 1507181,
+               "order": 38
+            },
+            {
+               "cast_id": 43,
+               "character": "Bowers' Manager",
+               "gender": 0,
+               "credit_id": "55ef6b8c9251413e3e01c2c8",
+               "name": "Wally Rose",
+               "profile_path": null,
+               "id": 165973,
+               "order": 39
+            },
+            {
+               "cast_id": 44,
+               "character": "Referee",
+               "gender": 0,
+               "credit_id": "55ef6b8cc3a3681e6a001fa5",
+               "name": "Dick Young",
+               "profile_path": null,
+               "id": 1507182,
+               "order": 40
+            },
+            {
+               "cast_id": 45,
+               "character": "Bowers' Handler #1",
+               "gender": 0,
+               "credit_id": "55ef6b8c9251413e2f01abfd",
+               "name": "Sonny Shields",
+               "profile_path": null,
+               "id": 1507183,
+               "order": 41
+            },
+            {
+               "cast_id": 46,
+               "character": "Bowers' Handler #2",
+               "gender": 2,
+               "credit_id": "55ef6b8d9251413e4101ad13",
+               "name": "Larry Duran",
+               "profile_path": null,
+               "id": 151630,
+               "order": 42
+            },
+            {
+               "cast_id": 47,
+               "character": "Ring Doctor",
+               "gender": 2,
+               "credit_id": "55ef6b8d9251412e07004c52",
+               "name": "Lars Hensen",
+               "profile_path": null,
+               "id": 1507184,
+               "order": 43
+            },
+            {
+               "cast_id": 48,
+               "character": "Ring Announcer",
+               "gender": 0,
+               "credit_id": "55ef6b8d9251413e3e01c2cb",
+               "name": "Jeff Temkin",
+               "profile_path": null,
+               "id": 1507185,
+               "order": 44
+            },
+            {
+               "cast_id": 49,
+               "character": "Hesh",
+               "gender": 2,
+               "credit_id": "5623f7aac3a3686868008ad4",
+               "name": "Joe Tornatore",
+               "profile_path": null,
+               "id": 84978,
+               "order": 45
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe44249251416c91006453",
+               "name": "Franco Zeffirelli",
+               "profile_path": "/rzu0vDf1FtvriZty1gJ1OwhrReN.jpg",
+               "id": 24657,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44249251416c91006459",
+               "name": "Walter Newman",
+               "profile_path": null,
+               "id": 7335,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe44249251416c9100645f",
+               "name": "Frances Marion",
+               "profile_path": "/eKSqAU7PxO3VCHU9o27CkyKDEkk.jpg",
+               "id": 34741,
+               "department": "Writing",
+               "job": "Screenstory"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5807db389251415ebc003acf",
+               "name": "Dave Grusin",
+               "profile_path": "/h6EgxJIsRpObohHdvlUGEAu6EqK.jpg",
+               "id": 10771,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5807db409251415eb9003993",
+               "name": "Fred J. Koenekamp",
+               "profile_path": "/yxTbBWproHj24o8yrTLEjtzlF9u.jpg",
+               "id": 19102,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5807db46c3a36811ac0032a0",
+               "name": "Michael J. Sheridan",
+               "profile_path": null,
+               "id": 385451,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5807db4dc3a3680f2d00311e",
+               "name": "Dyson Lovell",
+               "profile_path": null,
+               "id": 24661,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a74c6330e0a26642d028d61",
+               "name": "Mike Benson",
+               "profile_path": null,
+               "id": 65238,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a74c6840e0a26643c028105",
+               "name": "Don Morgan",
+               "profile_path": null,
+               "id": 1894065,
+               "department": "Crew",
+               "job": "Unit Publicist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a74c6e30e0a26642a028d59",
+               "name": "Steve Wever",
+               "profile_path": null,
+               "id": 1971657,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a74c70c0e0a26642d028ef1",
+               "name": "Elliott Marks",
+               "profile_path": null,
+               "id": 1418826,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a74c781c3a36859d90249a3",
+               "name": "Richard Lane",
+               "profile_path": null,
+               "id": 1971658,
+               "department": "Editing",
+               "job": "Assistant Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a74c78bc3a36859cf0243a6",
+               "name": "Eric A. Sears",
+               "profile_path": null,
+               "id": 21140,
+               "department": "Editing",
+               "job": "Assistant Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a74c7ba92514105a30252c4",
+               "name": "Jerry Jost",
+               "profile_path": null,
+               "id": 8889,
+               "department": "Sound",
+               "job": "Sound"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a74c803c3a36859fc0290df",
+               "name": "William L. McCaughey",
+               "profile_path": null,
+               "id": 1418825,
+               "department": "Sound",
+               "job": "Sound"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a74c82dc3a36859ec028703",
+               "name": "Aaron Rochin",
+               "profile_path": null,
+               "id": 1394924,
+               "department": "Sound",
+               "job": "Sound"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a74c870925141059f025475",
+               "name": "Michael J. Kohut",
+               "profile_path": null,
+               "id": 1394922,
+               "department": "Sound",
+               "job": "Sound"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a74c8920e0a2664350282a3",
+               "name": "Doris Grau",
+               "profile_path": null,
+               "id": 1213763,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a74c8fc925141059402541a",
+               "name": "Sam Christensen",
+               "profile_path": null,
+               "id": 1755415,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5a74c92f0e0a26642a029108",
+               "name": "Joyce Agu",
+               "profile_path": null,
+               "id": 218645,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a74cb2ec3a36859cc027f61",
+               "name": "James W. Payne",
+               "profile_path": null,
+               "id": 14826,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a74cc13c3a36859fc029697",
+               "name": "Lee Harman",
+               "profile_path": null,
+               "id": 26985,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a74cca70e0a26642d029785",
+               "name": "Robert Dawn",
+               "profile_path": null,
+               "id": 1339685,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a74cd510e0a2664390291ff",
+               "name": "Michael Corsentino",
+               "profile_path": null,
+               "id": 1971680,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a74cd6fc3a3685a0c0274cf",
+               "name": "Harry V. Lojewski",
+               "profile_path": null,
+               "id": 75251,
+               "department": "Sound",
+               "job": "Music Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a74cdaa0e0a266439029254",
+               "name": "John Riordan",
+               "profile_path": null,
+               "id": 1370948,
+               "department": "Sound",
+               "job": "Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a74cdf40e0a2664350289eb",
+               "name": "Joe Tuley",
+               "profile_path": null,
+               "id": 16520,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5a74ce46c3a36859ec028f1c",
+               "name": "Theoni V. Aldredge",
+               "profile_path": null,
+               "id": 8868,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a74d2380e0a2664390296cd",
+               "name": "David Silver",
+               "profile_path": null,
+               "id": 132252,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a74d25fc3a36859cc028681",
+               "name": "Maurice Vaccarino",
+               "profile_path": null,
+               "id": 14441,
+               "department": "Production",
+               "job": "Unit Production Manager"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a74d2a2925141059702597a",
+               "name": "Herman A. Blumenthal",
+               "profile_path": null,
+               "id": 22088,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a74d36cc3a36859d902555b",
+               "name": "Rich Valesko",
+               "profile_path": null,
+               "id": 1834421,
+               "department": "Art",
+               "job": "Property Master"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Family",
+            "id": 10751
+         }
+      ],
+      "popularity": 3.474847,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 30547,
+      "vote_count": 48,
+      "budget": 0,
+      "overview": "The more you love, the harder you fight.The world looks at Billy Flynn and sees a has-been who seemingly never was, an ex-boxing champion slammed to the mat years ago by booze and gambling. But Billy's son TJ sees what the world doesn't. He knows his flawed but loving father is, was and always will be The Champ.",
+      "similar": [
+         1374,
+         1367,
+         1371,
+         1375,
+         921,
+         5693,
+         10637,
+         1578,
+         1366,
+         45317,
+         22881,
+         9291,
+         2300,
+         70,
+         1246,
+         323677,
+         86130,
+         10474,
+         9563,
+         2323
+      ],
+      "original_title": "The Champ",
+      "runtime": 121,
+      "poster_path": "/oGKq9sTNCYLbKldtWobhz8nV445.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": "/zcxym93i5BTqqjhVvAhV5HPwYTR.png",
+         "name": "Metro-Goldwyn-Mayer",
+         "id": 21,
+         "origin_country": "US"
+      }],
+      "release_date": "1979-07-10",
+      "vote_average": 6.5,
+      "belongs_to_collection": null,
+      "tagline": "The most poignant love-triangle of all - a father, his son, and the woman who came between them.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Franco Zeffirelli"],
+      "runtime": 121,
+      "synopsis": null,
+      "writers": [
+         "Frances Marion",
+         "Walter Newman"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0078950/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BNzczMTQ5Mjk3M15BMl5BanBnXkFtZTcwNTI2NDMyMQ@@._V1_SY317_CR3,0,214,317_AL_.jpg",
+      "actors": ["Stars: Jon Voight, Faye Dunaway, Ricky Schroder | See full cast and crew »"],
+      "reviews": [
+         "This is arguably Jon Voight's finest acting performance with the possible exception of The Odessa File. Jon Voight plays Billy Flynn an ex boxing champion with Ricky Shroder playing his eight year old son, T.J Flynn. Billy Flynn is now a horse trainer bringing up his son after a divorce some seven years ago when T.J. was just a baby. Billy loves a drink and is addicted to gambling and bringing up his son does have problems. The problems intensify when his ex-wife, now remarried, appears on the scene to see her son after seven long years. T.J. knows her only as Annie and is played by Faye Dunaway. Annie starts to come between Billy and T.J even though T.J has undying love for his father. As Billy gets further into trouble, his only way of securing a life for his son is to make one last come-back into the boxing ring. The film is very poignant, emotional and has so many sad sequences. Poor T.J. is constantly in tears and whenever his tears flowed, so did mine. The Champ is a superb movie, a must see, and although over 20 years old, still has a place today. The problems that existed then, still exist today. Booze, gambling, single parentage, divorce and reconciliation. Only the clothing fashions are different.",
+         "I first watched this film in 1980 as a five year old with my gran and we managed to distort the credits through our tears and sobbing. I received the video about four years ago, and as a twenty-two year old it had the same effect. Last night, I watched the Champ with my girlfriend and I am happy to say that the years haven't mellowed me and we were both in floods of tears before I switched the film off. I defy anybody who has an emotional bone in their body not to be touched by the story of Billy Flynn, and more importantly TJ. I won't give any of the storyline away as it will make it all the better for watching if you haven't seen it. As for me, I can't wait until the Champ get's it DVD release as I will be first in the queue. \"I want the Champ !\"",
+         "...with the rating of this masterpiece. A 5.8/10? -_- I am upset about this. What you have here is an epic movie that deserves a 9/10. It's the story of the love between a boy and his father, and the boy trying to make it on his own when his mother and father can't. The movie starts out very big on horse-racing, showing how Jon Voight, \"The Champ\", is and gives brief glimpses into his past life. After awhile though, his whole past comes back to him when his son unknowingly meets his mother and develops a bond with her. Conflict between him and his wife rises and we see even deeper into what was a merely a shell of his life in the beginning of the film; he is complicated and emotionally bruised man, snapping sometimes at his son that he loves with all his heart. The film has the most believable performances I have ever seen on screen, and is a tearjerker. But it doesn't try to make you cry once; the entire second half of the film is full of these scenes. Some work while others don't. Either way, it shows the true power and delicacy of unconditional love, and the way it ends leaves you gasping for breath because of the emotional impact it leaves. Not perfect, but it deserves a solid 9.0/10.",
+         "After seeing this movie again (it's been over 20 years), I can't think of enough positive things to say about it. The honesty of the script tends to overcome any sense of melodrama, and it turns out to be a 10-hanky tearjerker. The acting is great all around as well. I didn't know what I'd think since it's been so long, and was a bit surprised to find this film has lost nothing in the intervening years -- if anything, it views even better than it did when it was released. I'm also a bit surprised to see it so far down on the IMDB ratings chart. Almost too painful to watch at times (maybe that's why). 9/10",
+         "Unlike many of the critics who saw this movie and hated it, obviously these so called \"film critics\" must be jaded wanna be filmmakers who never made it, and have not truly found the meaning of film-making to date. Sorry for them. This motion picture is what makes cinema so great. It is the extremely emotional content and story, not the mere technicalities or flaws that makes this movie great. I saw this film 25 years ago and I remember a theaters completely in tears. I saw this movie again just recently on HBO and as hard as you tried, it was impossible to hold back tears, specially at the end. I don't know who these movie critics are nor where they come from, but they certainly have much to learn from this film.",
+         "I cannot believe the rating this movie is only a 5.8. Have they seen the same movie as I have? I have watched \"The Champ\" several times and every time I cry even when I know what is going to happen. It is a story of a retired boxer and his son and the love the boy has for his father would be any father's dream. Even though the father has his faults (like we all do) he loves his son and tries to give his son a better life. I was just shocked at the rating and was compelled to vote. Usually the IMDb community gets it right but in this case they are dead wrong. 10 all they way!!! Great! Super! and very emotional. My whole family cried including my dog.",
+         "If you are not in tears at the end of this movie, go see the Wizard, cause you have no heart! Cute little Ricky Schroder acts his --- off in this drama, which is a tad overdone in spots, but it is so sad that if you are embarrassed to cry in front of other people, see it alone.",
+         "The Champ is the most beautiful Father & Son story I have ever seen. The films emotional ending will go down in history as the saddest scene ever on film. Rick Schroder is amazing. A must see!!! Jon Voight is extremely convincing as a retired prize fighter. He also looks like Rick Schroders Father. Faye Dunaway come s off well. The director Zeffereli is a amazing story teller. You may have scene his Mac Beth with Mel Gibson. Rent this when you want to really feel some strong emotion. Rick Schroder was cast to stardom from it. It might just make you call your father and say I love you. More films need to made like this. It seems Hollywood is interested in special effects movies and they have forgotten the heart. On a separate note, Rick Schroder just made his own boxing film called \"Black Cloud\"it is also amazing and has tons of heart, The boxing scenes in Schroders film are the best I have ever seen. The same boxing coach from the champ worked on Schroders BLACK CLOUD. DVD comes out June 7th for Black Cloud.",
+         "In the whelm of movies that typify that perfect father-son relationship, this is one of the best. The emotions were incredibly well played out, and I can feel the anger and frustration of being the father in T.J.'s situation. Ricky Schroder's performance is convincing beyond many other young talents, and the drama is a stunning contrast of conflict, but not necessarily any resolution. The Champ is truly the quintessential example of the love between father and son, one which I can only hope to be able to show with my children.",
+         "Once upon a time, when I was 10 years old, my father took me from playing with my friends to see this movie called \"The Champ.\" And now, I can't wait to share it with MY children. Truly, the most EMOTIONAL movie I've ever seen. Jon Voight plays the role of ex-Boxing champion Billy Flynn who attempts a comeback to help his son. Ricky Schroder is the object of affection from his down-on-his-luck father, AND his rich mother (Faye Dunaway)who deserted him many years ago. The conflict between the parents is so painfully realistic, but it's Ricky's acting performance as T.J. that steals the show and your heart. Have SEVERAL boxes of tissue handy when viewing this film, because there are MANY scenes that will draw tears from the hardest of hearts. NO ONE can sit through this film and not be affected by the emotional impact, unless they are just a cold-hearted, unloving, uncareing person. I rate this one a 10-hanky MUST-SEE!"
+      ],
+      "genres": [
+         "Drama",
+         "Sport"
+      ],
+      "productionCompanies": ["Metro-Goldwyn-Mayer (MGM)"],
+      "summaries": ["Billy Flynn, a former boxing champion, is now horse trainer in Hialeah. He makes just enough money to raise his little boy T.J., over whom he got custody after his wife Annie left him seven years ago. T.J. worships The Champ who is now working on his come-back in order to give his boy a better future. But suddenly Annie shows up again ..."],
+      "budget": 0
+   },
+   "movielensId": 3428,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1979-07-10",
+      "dvdReleaseDate": "2002-07-09",
+      "directors": ["Franco Zeffirelli"],
+      "runtime": 121,
+      "movieId": 3428,
+      "title": "The Champ",
+      "mpaa": "",
+      "actors": [
+         "Jon Voight",
+         "Faye Dunaway",
+         "Ricky Schroder",
+         "Jack Warden",
+         "Arthur Hill",
+         "Strother Martin",
+         "Joan Blondell",
+         "Mary Jo Catlett",
+         "Elisha Cook Jr.",
+         "Stefan Gierasch",
+         "Allan Miller",
+         "Jeff Blum",
+         "Dana Elcar",
+         "Randall 'Tex' Cobb",
+         "Kristoff St. John",
+         "Gina Gallego",
+         "Jody Wilson",
+         "Reginal M. Toussaint",
+         "Bob Gordon",
+         "Gene Picchi",
+         "Anne Logan",
+         "Bill Baldwin",
+         "Rita Turner",
+         "Dorothy Streisin",
+         "Lionel Dozier",
+         "Charles W. Camac",
+         "David Peden",
+         "William Fuller",
+         "Vanna Salviati",
+         "Maurice Pete Mitchell",
+         "Ernesto Molinari",
+         "Robert Sutton",
+         "Philip Tuersky",
+         "Micki Varro",
+         "Geoff Marlowe",
+         "George Stidham",
+         "Willie White",
+         "Curtis Jackson",
+         "Wally Rose",
+         "Dick Young",
+         "Sonny Shields",
+         "Larry Duran",
+         "Lars Hensen",
+         "Jeff Temkin",
+         "Joe Tornatore"
+      ],
+      "imdbMovieId": "0078950",
+      "originalTitle": "The Champ",
+      "genres": [
+         "Drama",
+         "Family"
+      ],
+      "youtubeTrailerIds": ["qSTaxV3v5vY"],
+      "plotSummary": "The more you love, the harder you fight.The world looks at Billy Flynn and sees a has-been who seemingly never was, an ex-boxing champion slammed to the mat years ago by booze and gambling. But Billy's son TJ sees what the world doesn't. He knows his flawed but loving father is, was and always will be The Champ.",
+      "tmdbMovieId": 30547,
+      "avgRating": 3.08088,
+      "releaseYear": "1979",
+      "numRatings": 340,
+      "posterPath": "/oGKq9sTNCYLbKldtWobhz8nV445.jpg"
+   }
+}

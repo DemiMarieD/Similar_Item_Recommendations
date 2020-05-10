@@ -1,0 +1,936 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "submarine",
+            "id": 339
+         },
+         {
+            "name": "u.s. navy",
+            "id": 4410
+         },
+         {
+            "name": "misfit",
+            "id": 9789
+         }
+      ],
+      "imdb_id": "tt0116130",
+      "video": false,
+      "title": "Down Periscope",
+      "recommendations": [
+         9099,
+         9452,
+         16379,
+         11310,
+         12475,
+         2185,
+         13997,
+         12596,
+         14635,
+         12772,
+         18711,
+         19326,
+         26261,
+         17795,
+         15602,
+         14577,
+         14034,
+         17133,
+         11520,
+         10660
+      ],
+      "backdrop_path": "/kKI12z62i28fgXYG5LoMLh4e3PP.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Lt. Commander Thomas \"Tom\" Dodge",
+               "gender": 2,
+               "credit_id": "52fe44dcc3a36847f80ae4c5",
+               "name": "Kelsey Grammer",
+               "profile_path": "/8h3ThicYhj6fEMSMtSdzFXrUyx2.jpg",
+               "id": 7090,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Lt. Emily Lake",
+               "gender": 1,
+               "credit_id": "52fe44dcc3a36847f80ae4c9",
+               "name": "Lauren Holly",
+               "profile_path": "/bWQsB6ueNNkygxCiIxyKznQAiOK.jpg",
+               "id": 34485,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Executive Officer Lt. Martin T. \"Marty\" Pascal",
+               "gender": 2,
+               "credit_id": "52fe44dcc3a36847f80ae4cd",
+               "name": "Rob Schneider",
+               "profile_path": "/vDbjHkAc4OMKObi9W5xW9OuDhDI.jpg",
+               "id": 60949,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Lt. Howard",
+               "gender": 2,
+               "credit_id": "52fe44dcc3a36847f80ae4d1",
+               "name": "Harry Dean Stanton",
+               "profile_path": "/fkl5iJYpKxSFGixyvAsBpLdDmqN.jpg",
+               "id": 5048,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Rear Admiral Yancy Graham",
+               "gender": 2,
+               "credit_id": "52fe44dcc3a36847f80ae4d5",
+               "name": "Bruce Dern",
+               "profile_path": "/fYhCiXGBARWUevnWDkeCEpwi4h4.jpg",
+               "id": 6905,
+               "order": 4
+            },
+            {
+               "cast_id": 15,
+               "character": "Captain Knox",
+               "gender": 2,
+               "credit_id": "52fe44dcc3a36847f80ae50f",
+               "name": "William H. Macy",
+               "profile_path": "/cYmHYCGxkOVZgu2oDyhF6lKgfaj.jpg",
+               "id": 3905,
+               "order": 5
+            },
+            {
+               "cast_id": 16,
+               "character": "Admiral Winslow",
+               "gender": 2,
+               "credit_id": "52fe44dcc3a36847f80ae513",
+               "name": "Rip Torn",
+               "profile_path": "/rzGaoGikjMuLDruABKdLcQLtkZk.jpg",
+               "id": 9626,
+               "order": 6
+            },
+            {
+               "cast_id": 17,
+               "character": "Seaman Buckman",
+               "gender": 2,
+               "credit_id": "52fe44dcc3a36847f80ae517",
+               "name": "Ken Hudson Campbell",
+               "profile_path": "/lN9e975UkER6sRu9tKpeL2XyU5D.jpg",
+               "id": 236327,
+               "order": 7
+            },
+            {
+               "cast_id": 18,
+               "character": "Seaman Nitro 'Mike'",
+               "gender": 2,
+               "credit_id": "52fe44dcc3a36847f80ae51b",
+               "name": "Toby Huss",
+               "profile_path": "/7uCGyBMPRtPQjwc4ZxelUyricXc.jpg",
+               "id": 18271,
+               "order": 8
+            },
+            {
+               "cast_id": 19,
+               "character": "Planesman 1st Class Jefferson 'R.J.' Jackson",
+               "gender": 2,
+               "credit_id": "52fe44dcc3a36847f80ae51f",
+               "name": "Duane Martin",
+               "profile_path": "/k39pQoTLnRj9q4pPMZhgC5pKFTC.jpg",
+               "id": 84077,
+               "order": 9
+            },
+            {
+               "cast_id": 21,
+               "character": "Engineman 1st Class Brad Stepanak",
+               "gender": 2,
+               "credit_id": "52fe44dcc3a36847f80ae523",
+               "name": "Bradford Tatum",
+               "profile_path": "/9aUztQkveBfWVdgjAky16gceyaz.jpg",
+               "id": 91448,
+               "order": 10
+            },
+            {
+               "cast_id": 22,
+               "character": "Seaman 2nd Class E.T. 'Sonar' Lovacelli",
+               "gender": 2,
+               "credit_id": "52fe44dcc3a36847f80ae527",
+               "name": "Harland Williams",
+               "profile_path": "/yAJrKIKT2OgbdMSZvpDJ3p203MY.jpg",
+               "id": 16846,
+               "order": 11
+            },
+            {
+               "cast_id": 23,
+               "character": "Orlando Radioman",
+               "gender": 0,
+               "credit_id": "52fe44dcc3a36847f80ae52b",
+               "name": "James Martin Jr.",
+               "profile_path": null,
+               "id": 158134,
+               "order": 12
+            },
+            {
+               "cast_id": 25,
+               "character": "Seaman Stanley 'Spots' Sylvesterson",
+               "gender": 2,
+               "credit_id": "52fe44dcc3a36847f80ae533",
+               "name": "Jonathan Penner",
+               "profile_path": "/aozmzC0PU3UImUZXVElVcagk9hT.jpg",
+               "id": 226651,
+               "order": 14
+            },
+            {
+               "cast_id": 27,
+               "character": "Orlando Ensign",
+               "gender": 2,
+               "credit_id": "5611c992c3a368680b0135d4",
+               "name": "Jordan Marder",
+               "profile_path": "/kaAtjnFaFJ9ddyNgNgAG4qXTaUG.jpg",
+               "id": 1236020,
+               "order": 15
+            },
+            {
+               "cast_id": 28,
+               "character": "Supportive Admiral",
+               "gender": 2,
+               "credit_id": "56b17319c3a3686221001bc8",
+               "name": "James Harper",
+               "profile_path": "/gULsp7HC4YKr7kle6E9Q7bWcUoi.jpg",
+               "id": 167178,
+               "order": 16
+            },
+            {
+               "cast_id": 29,
+               "character": "Orlando XO",
+               "gender": 2,
+               "credit_id": "596f5e5dc3a3686fc7007c56",
+               "name": "Matt Landers",
+               "profile_path": "/fImrhGnBAUDAEMvFW5TmjGkcwen.jpg",
+               "id": 156522,
+               "order": 17
+            },
+            {
+               "cast_id": 30,
+               "character": "Orlando Sonarman",
+               "gender": 2,
+               "credit_id": "596f5e73c3a368716200db3c",
+               "name": "Joseph Latimore",
+               "profile_path": "/htOQ6X9fPCgPygtsLrH5Si6u2b2.jpg",
+               "id": 56440,
+               "order": 18
+            },
+            {
+               "cast_id": 31,
+               "character": "Stingray Radioman",
+               "gender": 2,
+               "credit_id": "596f5e8b9251412d3d022acd",
+               "name": "Patton Oswalt",
+               "profile_path": "/dq3uNmTB7r8XTtadV3OD3N7LqV6.jpg",
+               "id": 10872,
+               "order": 19
+            },
+            {
+               "cast_id": 32,
+               "character": "Helmsman",
+               "gender": 2,
+               "credit_id": "596f5eafc3a3686b5a019b07",
+               "name": "Joe Soto",
+               "profile_path": null,
+               "id": 1854401,
+               "order": 20
+            },
+            {
+               "cast_id": 33,
+               "character": "Young Sailor",
+               "gender": 2,
+               "credit_id": "596f5ee8c3a3686b5a019b4e",
+               "name": "John Shepherd",
+               "profile_path": null,
+               "id": 162927,
+               "order": 21
+            },
+            {
+               "cast_id": 34,
+               "character": "Trawler Captain",
+               "gender": 0,
+               "credit_id": "596f5f08c3a3686b0400d27e",
+               "name": "Pierrino Mascarino",
+               "profile_path": "/uePOBpOApVlDbXwlZ2Pmog9LdaO.jpg",
+               "id": 33153,
+               "order": 22
+            },
+            {
+               "cast_id": 35,
+               "character": "Fisherman",
+               "gender": 2,
+               "credit_id": "596f5f1a925141079900cb62",
+               "name": "Dennis Fimple",
+               "profile_path": "/iqufXf1lSczFfi8ZKfwD35jwpdF.jpg",
+               "id": 27742,
+               "order": 23
+            },
+            {
+               "cast_id": 36,
+               "character": "Fisherman",
+               "gender": 0,
+               "credit_id": "596f5f34c3a36871a600da28",
+               "name": "Ancel Cook",
+               "profile_path": "/bHNqz9Bj3IPJIfFbgalv64NynEB.jpg",
+               "id": 1217135,
+               "order": 24
+            },
+            {
+               "cast_id": 37,
+               "character": "Admiral #2",
+               "gender": 2,
+               "credit_id": "596f5f5ec3a36871a600da4b",
+               "name": "Rudy Hornish",
+               "profile_path": null,
+               "id": 1854402,
+               "order": 25
+            },
+            {
+               "cast_id": 38,
+               "character": "Admiral #3",
+               "gender": 2,
+               "credit_id": "596f5fa99251415e86007fff",
+               "name": "Tommy Terrell",
+               "profile_path": null,
+               "id": 1854403,
+               "order": 26
+            },
+            {
+               "cast_id": 39,
+               "character": "Secretary",
+               "gender": 2,
+               "credit_id": "596f5ff4c3a368712800dbf8",
+               "name": "Elliot Easton",
+               "profile_path": null,
+               "id": 1854404,
+               "order": 27
+            },
+            {
+               "cast_id": 40,
+               "character": "Orlando Young Sailor",
+               "gender": 0,
+               "credit_id": "596f602a925141079900cc15",
+               "name": "Michael Connors",
+               "profile_path": null,
+               "id": 1115955,
+               "order": 28
+            },
+            {
+               "cast_id": 41,
+               "character": "Sailor #2",
+               "gender": 2,
+               "credit_id": "596f6047c3a36871a600db01",
+               "name": "Paul Tranghese",
+               "profile_path": null,
+               "id": 1854405,
+               "order": 29
+            },
+            {
+               "cast_id": 42,
+               "character": "Conn Tower Officer",
+               "gender": 2,
+               "credit_id": "596f60939251412d4c021448",
+               "name": "Mitchell R. Danton",
+               "profile_path": null,
+               "id": 1854406,
+               "order": 30
+            },
+            {
+               "cast_id": 43,
+               "character": "Torpedo Man",
+               "gender": 2,
+               "credit_id": "596f60e2c3a3686f7c0070da",
+               "name": "Jackson Sleet",
+               "profile_path": null,
+               "id": 1854407,
+               "order": 31
+            },
+            {
+               "cast_id": 44,
+               "character": "Singing Waitress",
+               "gender": 1,
+               "credit_id": "596f6115c3a3687fc7020655",
+               "name": "Annie Talbot",
+               "profile_path": null,
+               "id": 1854408,
+               "order": 32
+            },
+            {
+               "cast_id": 45,
+               "character": "Singing Sailor",
+               "gender": 2,
+               "credit_id": "596f61549251412d41021d24",
+               "name": "Bob Dini",
+               "profile_path": null,
+               "id": 1854409,
+               "order": 33
+            },
+            {
+               "cast_id": 46,
+               "character": "Singing Sailor",
+               "gender": 2,
+               "credit_id": "596f618dc3a3686b0400d497",
+               "name": "Andrew Christian English",
+               "profile_path": null,
+               "id": 1854410,
+               "order": 34
+            },
+            {
+               "cast_id": 47,
+               "character": "Singing Sailor",
+               "gender": 0,
+               "credit_id": "596f61e79251415e860081f5",
+               "name": "Jamie James",
+               "profile_path": null,
+               "id": 98564,
+               "order": 35
+            },
+            {
+               "cast_id": 48,
+               "character": "Singing Sailor",
+               "gender": 2,
+               "credit_id": "596f620d9251412d3d022dc0",
+               "name": "Joseph Keawkalaya",
+               "profile_path": null,
+               "id": 1854411,
+               "order": 36
+            },
+            {
+               "cast_id": 49,
+               "character": "Singing Sailor",
+               "gender": 2,
+               "credit_id": "596f62459251416c670076a3",
+               "name": "Todd Odom",
+               "profile_path": null,
+               "id": 1854412,
+               "order": 37
+            },
+            {
+               "cast_id": 50,
+               "character": "Village People Biker (uncredited)",
+               "gender": 0,
+               "credit_id": "596f6283c3a3686f7c007244",
+               "name": "James Eric Anzalone",
+               "profile_path": null,
+               "id": 1127746,
+               "order": 38
+            },
+            {
+               "cast_id": 51,
+               "character": "Crewman Pirate / MP (uncredited)",
+               "gender": 2,
+               "credit_id": "596f62aa9251415e860082bc",
+               "name": "Brandon Ladd Burkey",
+               "profile_path": null,
+               "id": 1854413,
+               "order": 39
+            },
+            {
+               "cast_id": 52,
+               "character": "Selection Board Officer (uncredited)",
+               "gender": 0,
+               "credit_id": "596f62edc3a368712800de6b",
+               "name": "Bruce Holman",
+               "profile_path": "/3qIP6JvcNfKCmSee2STHt3JE0Wy.jpg",
+               "id": 1223916,
+               "order": 40
+            },
+            {
+               "cast_id": 53,
+               "character": "Sailor (uncredited)",
+               "gender": 2,
+               "credit_id": "596f630e9251412d3d022ead",
+               "name": "Michael Koster",
+               "profile_path": null,
+               "id": 1854414,
+               "order": 41
+            },
+            {
+               "cast_id": 54,
+               "character": "Village People Indian (uncredited)",
+               "gender": 0,
+               "credit_id": "596f63529251412d41021f0a",
+               "name": "Felipe Rose",
+               "profile_path": null,
+               "id": 1047316,
+               "order": 42
+            },
+            {
+               "cast_id": 55,
+               "character": "Submarine Crewman (uncredited)",
+               "gender": 2,
+               "credit_id": "596f6374c3a3686f7c007312",
+               "name": "Timothy D. Rossi",
+               "profile_path": null,
+               "id": 1854415,
+               "order": 43
+            },
+            {
+               "cast_id": 56,
+               "character": "Sailor (uncredited)",
+               "gender": 2,
+               "credit_id": "596f63b9c3a3686b5a019f90",
+               "name": "Theodore Carl Soderberg",
+               "profile_path": null,
+               "id": 1854416,
+               "order": 44
+            },
+            {
+               "cast_id": 57,
+               "character": "Submarine Sailor (uncredited)",
+               "gender": 2,
+               "credit_id": "596f6407925141607b019413",
+               "name": "Gary Vinant-Tang",
+               "profile_path": null,
+               "id": 1854417,
+               "order": 45
+            },
+            {
+               "cast_id": 58,
+               "character": "Sailor's Wife (uncredited)",
+               "gender": 1,
+               "credit_id": "596f643e925141079900cf7d",
+               "name": "Gabrielle Wagner",
+               "profile_path": "/gauWWWxbBx6HmOkwdGriPUkWuhp.jpg",
+               "id": 202671,
+               "order": 46
+            },
+            {
+               "cast_id": 59,
+               "character": "Sailor's Girlfriend (uncredited)",
+               "gender": 1,
+               "credit_id": "596f6510c3a3686fc70082e7",
+               "name": "Tirralan Watkins",
+               "profile_path": null,
+               "id": 1854418,
+               "order": 47
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe44dcc3a36847f80ae4db",
+               "name": "Hugh Wilson",
+               "profile_path": "/bJv33aw4D67SbsKHv9Er0MqEEtT.jpg",
+               "id": 28904,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44dcc3a36847f80ae4e1",
+               "name": "Andrew Kurtzman",
+               "profile_path": null,
+               "id": 56974,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44dcc3a36847f80ae4e7",
+               "name": "Eliot Wald",
+               "profile_path": null,
+               "id": 56975,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44dcc3a36847f80ae4f3",
+               "name": "Randy Edelman",
+               "profile_path": "/fGS6OjvQpivFVajkmjTRgRiC9BN.jpg",
+               "id": 14712,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44dcc3a36847f80ae4f9",
+               "name": "Victor Hammer",
+               "profile_path": null,
+               "id": 56976,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44dcc3a36847f80ae4ff",
+               "name": "William M. Anderson",
+               "profile_path": null,
+               "id": 2705,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44dcc3a36847f80ae505",
+               "name": "Armen Minasian",
+               "profile_path": null,
+               "id": 21271,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44dcc3a36847f80ae50b",
+               "name": "David S. Ward",
+               "profile_path": null,
+               "id": 12920,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55400fa19251414ae8000295",
+               "name": "Robert Lawrence",
+               "profile_path": null,
+               "id": 1460574,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "596f656ec3a368712800e09a",
+               "name": "Jack Cummins",
+               "profile_path": null,
+               "id": 66077,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "596f65879251412a7301688d",
+               "name": "Stanley Wilson",
+               "profile_path": null,
+               "id": 1326197,
+               "department": "Production",
+               "job": "Co-Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "596f65b89251412d4c0218d5",
+               "name": "Ferne Cassel",
+               "profile_path": null,
+               "id": 2045,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "596f65c7c3a3687fc7020a6c",
+               "name": "Michael Corenblith",
+               "profile_path": null,
+               "id": 7855,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "596f65de9251415e860085a1",
+               "name": "Dan Webster",
+               "profile_path": null,
+               "id": 11508,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "596f65edc3a368716200e210",
+               "name": "Mickey S. Michaels",
+               "profile_path": null,
+               "id": 2118,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "596f65fb9251416c670079ed",
+               "name": "Luke Reichle",
+               "profile_path": null,
+               "id": 954395,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "596f6609c3a368712800e13e",
+               "name": "Jack Cummins",
+               "profile_path": null,
+               "id": 66077,
+               "department": "Production",
+               "job": "Unit Production Manager"
+            },
+            {
+               "gender": 1,
+               "credit_id": "596f66199251412d3d02315e",
+               "name": "Marcy G. Kaplan",
+               "profile_path": null,
+               "id": 1224008,
+               "department": "Production",
+               "job": "Production Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "596f6666c3a3686b5a01a24c",
+               "name": "Tom Reta",
+               "profile_path": null,
+               "id": 92302,
+               "department": "Art",
+               "job": "Set Designer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "596f6678c3a368712800e196",
+               "name": "James F. Truesdale",
+               "profile_path": null,
+               "id": 10837,
+               "department": "Art",
+               "job": "Set Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "596f668a9251412a73016972",
+               "name": "Randall D. Wilkins",
+               "profile_path": null,
+               "id": 1368863,
+               "department": "Art",
+               "job": "Set Designer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "596f66a09251416c67007a82",
+               "name": "Eyde Belasco",
+               "profile_path": null,
+               "id": 53648,
+               "department": "Production",
+               "job": "Casting Assistant"
+            },
+            {
+               "gender": 2,
+               "credit_id": "596f66d8c3a3686b0400d949",
+               "name": "Brian O. Haynes",
+               "profile_path": null,
+               "id": 1854419,
+               "department": "Production",
+               "job": "Location Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "596f67469251412d41022271",
+               "name": "Bailey Pryor",
+               "profile_path": null,
+               "id": 1045736,
+               "department": "Production",
+               "job": "Location Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "596f6760c3a36871a600e1f8",
+               "name": "Al Cerullo",
+               "profile_path": "/szDkSiUOtHf9xEf0ZIIl30KoQTo.jpg",
+               "id": 91042,
+               "department": "Crew",
+               "job": "Pilot"
+            },
+            {
+               "gender": 2,
+               "credit_id": "596f67729251415e86008707",
+               "name": "Cliff Fleming",
+               "profile_path": "/6xdXXFF7cZgbOl6mPZmQj5RFLmE.jpg",
+               "id": 91932,
+               "department": "Crew",
+               "job": "Pilot"
+            },
+            {
+               "gender": 1,
+               "credit_id": "596f6795925141079900d242",
+               "name": "Lainie Miller",
+               "profile_path": null,
+               "id": 1321432,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "596f67c8c3a3686fc700859e",
+               "name": "Diane L. Sabatini",
+               "profile_path": null,
+               "id": 1400543,
+               "department": "Production",
+               "job": "Production Coordinator"
+            }
+         ]
+      },
+      "genres": [{
+         "name": "Comedy",
+         "id": 35
+      }],
+      "popularity": 6.25898,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 9101,
+      "vote_count": 127,
+      "budget": 0,
+      "overview": "Bumbling Navy lieutenant Tom Dodge has been given one last chance to clean up his record. But Admiral Graham, his nemesis, assigns Dodge to the Stingray, a submarine that can barely keep afloat. To add insult to injury, the Stingray is to be the enemy flagship in the upcoming war games \u2026 and to make matters even worse, Dodge's crew is a band of idiots even more incompetent that he is!",
+      "similar": [
+         387,
+         881,
+         8963,
+         75674,
+         817,
+         818,
+         283995,
+         105,
+         127380,
+         4922,
+         4421,
+         1669,
+         8619,
+         12,
+         699,
+         714,
+         744,
+         2756,
+         44833,
+         337339
+      ],
+      "original_title": "Down Periscope",
+      "runtime": 92,
+      "poster_path": "/q6JEjedx4LoZRig8U1R5sJqBfti.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+         "name": "20th Century Fox",
+         "id": 25,
+         "origin_country": "US"
+      }],
+      "release_date": "1996-03-01",
+      "vote_average": 5.7,
+      "belongs_to_collection": null,
+      "tagline": "A rusty sub. A rebel commander. A renegade crew. When destiny called, they should have hung up.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["David S. Ward"],
+      "runtime": 92,
+      "synopsis": "Lieutenant Commander Thomas Dodge (Kelsey Grammer), a capable (if somewhat unorthodox) US Navy officer, is about to be denied command of his own submarine for a third time because of his unconventional ways (not to mention a widely known tattoo on his penis reading \"Welcome aboard!' that he'd gotten after getting drunk due to brushing his sub against a Russian trawler off Murmansk). Failure to secure a command will result in him being dropped from the command program and be assigned a desk job, and he is particularly opposed by Rear Admiral Yancy Graham (Bruce Dern). Vice Admiral Dean Winslow (Rip Torn) finds the perfect use for Dodge, however, when Winslow launches a war-game to test the Navy's defenses against enemy diesel submarines. For this purpose Dodge gains command of the rusty WWII era Balao-class diesel sub, the USS Stingray. Adm. Winslow gives Dodge the order to \"throw the book out\" and to \"think like a pirate\" and advises that if he can win the war-game, including sinking a mock target in Norfolk harbor, Winslow will consider Dodge for command of a nuclear submarine. Adm. Graham, motivated by his dislike for Dodge and his own ambition (he brags that he has never lost a war-game, and that he is in line for a third star), tries to arrange circumstances to make Dodge's mission even more difficult. Graham handpicks a motley crew for the Stingray consisting of rejects and misfits: hot-tempered and uptight Executive Officer Martin Pascal (Rob Schneider), rebellious Engineman 1st Class Brad Stapanek, sharp-eared Sonar Technician 2nd Class E.T. \"Sonar\" Lovacelli, compulsive gambler Seaman Stanley \"Spots\" Sylvesterson, shock-prone (and shock-addled) electrician Seaman Nitro, and the not-so-culinary cook Seaman Buckman. Graham also institutes a pilot program for evaluating the feasibility of women serving on submarines, and Lieutenant Emily Lake (Lauren Holly) joins the crew as Diving Officer. Using unorthodox tactics to offset their technological disadvantage, Dodge and the Stingray crew win their first objective by getting into and setting off flares in Charleston Harbor. Desperate to defeat Dodge, Graham cuts the containment area for the wargame in half without authorization. Running into trouble on their first attempt at Norfolk harbor, Dodge leaves the exercise area. Irate at this lapse in protocol, the zealous by-the-book Pascal attempts to gain command of the Stingray, but no one supports him. Without support, his attempt is considered mutiny and, thinking like a pirate, Dodge makes him walk the plank, straight into the nets of an alongside fishing boat. During the Stingray's second attempt at Norfolk, Graham assumes personal command of the Los Angeles-class USS Orlando, headed by Commander Carl Knox (William H. Macy). After some risky maneuvers by the Stingray, the Orlando is able to chase her down and obtain a shooting solution which ends the game, but not before the Stingray accurately launched two live torpedoes at the dummy ship in Norfolk harbor. Adm. Winslow congratulates Dodge on a job well done and advises him that he will not get a Los Angeles-class submarine as requested, but a Seawolf-class submarine, which is a newer and much larger ship. Dodge rejects the notion of getting a \"proper crew\" with the new boat and requests that he be allowed to transfer the crew of the Stingray. The movie ends with The Village People and the movie cast singing and dancing to 'In the Navy'.",
+      "writers": [
+         "Hugh Wilson",
+         "Hugh Wilson"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0116130/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMjA0NTE0ODE0Ml5BMl5BanBnXkFtZTcwNjMxMzUyMQ@@._V1_SY317_CR5,0,214,317_AL_.jpg",
+      "actors": ["Stars: Kelsey Grammer, Lauren Holly, Rob Schneider | See full cast and crew »"],
+      "reviews": [
+         "I've enjoyed this movie ever since I first saw it in the theatre. Some movies have a cast of characters and a script that come together in perfect synergy, and this is one of them. The characters illustrate some truths about getting the best out of people, working together harmoniously, building a team and achieving goals, without ever preaching morality. The situations are crafted well and are consistent with the movie's opening premise. The tension builds nicely and the humor is clean and consistent throughout. The movie manages to pull me right in to root for the characters, and to laugh pretty well all the way through. This is a feel good movie as good as they come. What amazes me is that a movie which appears so simple can be so long term entertaining. The music is a perfect copy of music in the typical serious post war navy movies, which helps to create the humor and point out that greatness is in the eye of the beholder. The scenes in the credits are a great music video of \"In the Navy\", which deserve their own full screen special feature. The scenes and cuts are crafted well, and the casting and acting is right on. This movie is a classic as great as any ever made, without any pretensions. In fact, the lack of pretension is what makes it so much fun to watch. I love these guys and gal. The other day I thought of the film, and wondered whether it was available on DVD. Good fortune has come to us, and the DVD came out in May 2004. I headed to the store, and snapped up a copy. Then my wife and I enjoyed another hilarious night in front of the big screen. I've rated this movie as a 10 because it comes together on all levels, far better than many high budget films and Oscar winners. This is entertainment. Listen up Fox home video: you have a great movie in your vaults, and it's a shame to find a cheap shot DVD with badly degraded off tint colors only 8 years since release. So why not restore the colors and present the film as it was meant to be seen? I'd gladly pay a few bucks more to get the picture right. I'm grateful to have my own copy. Now give us the eye candy that the film deserves, and how about recreating the credit sequence as a full screen music video special feature.",
+         "Being an ex-submariner on both diesel and nuc boats, I wasn't looking for a true to life Navy movie. I have enjoyed Down Periscope over and over again. Sure, some if not most of the realism of life on a submarine is skimmed over, but this adds to the appeal by creating a simplistic story line that is easy and fun to follow. I swear I knew most of the crew of the Stingray. The excellent cast made for an even more enjoyable movie. I don't want to get into specifics about little things that may not have been correct because that would only serve to detract from what I feel is an excellent movie to enjoy for its entertainment. So sit back, relax and \"Let's kick this pig\"",
+         "This is one of those movies the critics really missed the mark on. This movie is practically McHale's Navy for the 90s or Police Academy at sea. Grammer proves he can play roles other than Frasier as he outwits and outfoxes the Navy in order to get his own sub. Rob Schneider is as wormy as usual, the same in every role he plays, and Lauren Holly is the local sexpot albeit with a brain. Ken Hudson Campbell is as funny as usual with almost every line a catch phrase. The movie has a wonderful intelligent plot and a non-predictable script that still surprises me every time I watch it. Many of the Navy phrases and terms go over my head, though, but it's a small obstacle for the sheer accuracy and realism of the movie and its characters.",
+         "I first saw this movie when it came out on video within months of its theatrical release in 1996. I remember how I laughed much more than I expected. I haven't watched the film until it came out on cable TV recently. Even though I knew the plot and many of the jokes, I still found myself laughing as hard as when I first saw it. I was pleasantly surprised that the movie still had an appeal after all these years and many of the actors in the film did a great job without being overly done. Kelsey Grammer, in particular, played a very likeable commander and even though he had the goofiest men under his command, Grammer brought out the best in each of them. This movie is much more believeable to watch than any of the Police Academy movies. Being a former Navy vet myself, the language made sense to me and after watching a super serious thriller like \"U-571\" recently, Down Periscope still kept within the framework of what is acceptable and believeable within the Navy. If you haven't seen this film, I highly recommend it for pure entertainment and escapism.",
+         "I'm glad they finally released it on DVD. I bought the video tape years ago and watch it at least once or twice a year. Grammer has a wry wit about him that really makes this movie a success. Its formula is certainly not original, but it's very funny nonetheless. I am very surprised that it didn't receive higher in the ratings. It ranks as one of my all-time favorite comedies. It's just a fun little flick that makes you feel good. And sometimes, that's all a movie is meant to be.",
+         "There was a recent documentary on making movies, that featured a long list of actors and directors talking about what its like to make movies. One common theme was you can have a great script, great cast, the best director and lots of money and still create a bad movie. Down Periscope is proof of the corollary to that theory. Not an original or terribly well written screenplay. A few solid actors, but mostly unknowns, and this movie just makes you laugh out loud! It would be easy to just say that Kelsey Grammar carried this movie, but that isn't truly the case. Other character actors, like Rob Schneider, and the hilarious Harland Williams, added significantly to the enjoyability of the film. Cast dynamics, or that mysterious \"movie magic\" are really what happened here, creating a film that flows smoothly, has incredibly well executed transitions and line after line of well written and well performed dialog. A preposterous premise, lots and lots of technical inaccuracies and just plan silly things that could not happen in the real world, or the real navy, but you just don't care. As a merchant marine myself, I found that the overall feel of the movie, while not plausible, was also not too far off the mark as far as life at sea goes. This is a VERY funny movie, a good family film, and, particularly if your a fan, lots of Kelsey Grammar wit, sarcasm and just damn funniness.",
+         "I never understood why so many people hated this film. Maybe it's the whole tongue in cheek attitude this film took toward the military and the good ol'boy system which seems to encompass within the ranks. Or maybe the military is too much of a sacred institution to make fun of (yeah right!). Nonetheless, I felt the film was funny in many parts, despite the rather improbably ending and premise. However, this film did have a great collection of comics who have their own little quirky following. Harland Williams, Rip Torn, Harry Dean Stanton, Kelsey Grammar, Rob Schneider and William H. Macy all gave solid performances, reciting their lines with a great amount of wit. And to note, Lauren Holly looked ravishing with her natural blonde hair (which was a shock, considering I had only seen her in red up to that point).",
+         "Surprisingly good and quick-witted adventure that features Kelsey Grammer (supposedly in his first lead role in a feature) as an unconventional Navy sub commander who wants to run a nuclear sub of his own, however; he has earn it by competing against the U.S. Navy in a series of war-games with a crew of untested, questionable, and lovable men (and a woman, too). Director David S. Ward (\"Major League\") and his writers have put together a hysterically clever and upbeat comedy that tries to make the film easy to understand, which they do quite well. Second, besides the Grammer character, most of the crew provide some or plenty of the movie's humor, which is treated like a double-edged sword. Three members of the supporting cast - Harland Williams, Toby Huss, and Rob Schneider provide the funniest scenes, which includes weird gestures, impersonations, and, well, their personalities. \"Down Periscope\" is more than a Navy version of \"Police Academy\" or \"The Dirty Dozen\". What the film does is get the job done the right way and I liked it.",
+         "Sometimes juvenile, sometimes stupid and sometimes very predictable.....but yet this was a fun movie that is charming at times, too. It wasn't good enough to be a \"keeper,\" but I did enjoy watching this. The humor is a little sleazy at times but the language wasn't too bad. Kelsey Grammar plays a likable role in the Navy comedy. Most of his crew are somewhat stupid characters but I did like the sonar man with the great hearing. Lauren Holy was okay as the female interest but Rob Schneider was just plain annoying and tended to overact. He's either very funny or very stupid in his films. Bruce Dern, as always, was an effective \"bad guy.\" The story is a favorite of the film industry: a bunch of rag-tag misfits and rebels somehow outwit and outmaneuver the larger Establishment experts with their high-tech machinery. No matter how improbable or ridiculous, Hollywood will not stop that formula Nonetheless, it's decent lightweight entertainment with a nice, sentimental ending. Odd, though: what I remember most is the guys stuffing cotton swabs up their nose! If you've seen the film, you know what I'm talking about.",
+         "Starring: Kelsey Grammar, Rob Schneider, Lauren Holly, Rip Torn This movie is a classic family favorite. At least for most members of my family that is. One of us rolls our eyes at the mention of this movie and thinks, \"What a stupid movie.\" I'm not that person though. I still find this movie highly amusing. I just watched it again last night with someone who had never seen it, and I laughed just as hard as the first time I watched it. It's still very funny to me. Naval Captain Tom Dodge (Grammar) is a bit of a black sheep in the navy. He's the kind of guy who will play golf while on a sub, cracking a ball onto a golf course while they sail past it. He's the kind of guy who will get drunk, pass out, and wake up with a hangover and a tattoo on his dongle. He's not the kind of guy that everybody wants to be commanding a sub. But Dodge is at the end of the line. He's put in applications to get command of his own sub several times, and if he doesn't get a sub this time, he's headed for a desk job, meaning that's it for naval life. The Admiralty decide to give him his own boat, but they don't give him a new nuclear sub. They give him a diesel sub, an ancient relic from World War II. His mission is to clean her up and take her out on the Atlantic for a war game. Dodge is obviously a little bit frustrated to have such a crappy boat given to him when he's worked so hard to get to the point that he's at, so he goes and talks to Admiral Winslow (Torn) about it. Winslow explains the purpose of the war game. Diesel subs are still being sold out there in the real world, to countries like Iran, Iraq, and Libya, to name a few. Winslow wants to know what would happen if some renegade captain in a diesel sub came to the States and tried to smuggle a nuclear warhead into one of the bases. Would they make it? Dodge and most of the Admiralty don't think so, but Winslow wants to know for sure, hence why he has devised this war game. Dodge's mission is to take the Stingray out to sea, then try to evade the U.S. nuclear navy and blow up the American naval bases. In simulated battle, of course. So, that's about as deep as the plot gets. This is not a plot driven movie. It's a stupid movie that is just a big gag. It makes fun of itself, and you are not expected to take it seriously. If you're looking for good dumb laughs on a Friday night, I'd urge you to check it out. Bottom Line: 3 out of 4 (worth a look)"
+      ],
+      "genres": ["Comedy"],
+      "productionCompanies": ["Twentieth Century Fox Film Corporation"],
+      "summaries": [
+         "Lt. Cmdr. Tom Dodge is assigned as Captain to the USS Stingray, an old diesel driven submarine that has seen better days. With a crew that consists only of weird guys (and a gal), he's headed against the atomic powered USS Orlando, with the mission to destroy a dummy battleship.",
+         "After repeatedly being passed over by the selection committee, Tom Dodge (Grammer), currently 2nd in command of the USS Orlando nuclear submarine, is finally assigned a sub of his own. RAdm Graham (Den), despite heavy lobbying of the committee and several examples of Dodge's unusual and non-conformist approach to command, fails to convince the committee to not award him his own command. Dodge's command, however, is of the newly recommissioned, and only diesel sub in the US Fleet, the USS Stingray. His first orders are to clean up and take out the Stingray, with the worst misfits for a crew that RAdm Graham could find, and complete a 2-part war game. Dodge makes a deal with Vice Adm Winslow (Torn) that he will be assigned a nuclear submarine if he successfully wins the war game.",
+         "Lt. Cmdr Tom Dodge (Kelsey Grammer) is one of the Navy's best, even if he is a bit unconventional. But to take command of his own ship, he must first prove himself in simulated combat. Dodge is shocked when he's put in command of the rusty and outdated USS Stingray. His crew consists of the Navy's worst misfits and troublemakers. And to add salt to an open wound, Dodge's old rival, Adml. Graham (Bruce Dern), will be supervising the opposing team, the crew of the more-up-to-code USS Orlando. Dodge must now prove that he and his crew are up to the challenge..."
+      ],
+      "budget": 0
+   },
+   "movielensId": 135,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1996-03-01",
+      "dvdReleaseDate": "2004-02-03",
+      "directors": ["David S. Ward"],
+      "runtime": 92,
+      "movieId": 135,
+      "title": "Down Periscope",
+      "mpaa": "PG-13",
+      "actors": [
+         "Kelsey Grammer",
+         "Lauren Holly",
+         "Rob Schneider",
+         "Harry Dean Stanton",
+         "Bruce Dern",
+         "William H. Macy",
+         "Rip Torn",
+         "Ken Hudson Campbell",
+         "Toby Huss",
+         "Duane Martin",
+         "Bradford Tatum",
+         "Harland Williams",
+         "James Martin Jr.",
+         "Jonathan Penner",
+         "Jordan Marder",
+         "James Harper",
+         "Matt Landers",
+         "Joseph Latimore",
+         "Patton Oswalt",
+         "Joe Soto",
+         "John Shepherd",
+         "Pierrino Mascarino",
+         "Dennis Fimple",
+         "Ancel Cook",
+         "Rudy Hornish",
+         "Tommy Terrell",
+         "Elliot Easton",
+         "Michael Connors",
+         "Paul Tranghese",
+         "Mitchell R. Danton",
+         "Jackson Sleet",
+         "Annie Talbot",
+         "Bob Dini",
+         "Andrew Christian English",
+         "Jamie James",
+         "Joseph Keawkalaya",
+         "Todd Odom",
+         "James Eric Anzalone",
+         "Brandon Ladd Burkey",
+         "Bruce Holman",
+         "Michael Koster",
+         "Felipe Rose",
+         "Timothy D. Rossi",
+         "Theodore Carl Soderberg",
+         "Gary Vinant-Tang",
+         "Gabrielle Wagner",
+         "Tirralan Watkins"
+      ],
+      "imdbMovieId": "0116130",
+      "originalTitle": "Down Periscope",
+      "genres": ["Comedy"],
+      "youtubeTrailerIds": ["pjyjP5h6PjI"],
+      "plotSummary": "Bumbling Navy lieutenant Tom Dodge has been given one last chance to clean up his record. But Admiral Graham, his nemesis, assigns Dodge to the Stingray, a submarine that can barely keep afloat. To add insult to injury, the Stingray is to be the enemy flagship in the upcoming war games \u2026 and to make matters even worse, Dodge's crew is a band of idiots even more incompetent that he is!",
+      "tmdbMovieId": 9101,
+      "avgRating": 2.99942,
+      "releaseYear": "1996",
+      "numRatings": 7719,
+      "posterPath": "/q6JEjedx4LoZRig8U1R5sJqBfti.jpg"
+   }
+}

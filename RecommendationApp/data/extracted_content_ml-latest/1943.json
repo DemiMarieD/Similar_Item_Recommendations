@@ -1,0 +1,631 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "circus",
+            "id": 291
+         },
+         {
+            "name": "travelling circus",
+            "id": 41585
+         }
+      ],
+      "imdb_id": "tt0044672",
+      "video": false,
+      "title": "The Greatest Show on Earth",
+      "recommendations": [
+         17661,
+         43277,
+         27367,
+         43278,
+         2897,
+         42861,
+         56164,
+         33667,
+         11426,
+         12311,
+         898,
+         11424,
+         16618,
+         12501,
+         52276,
+         28288,
+         4952,
+         43600,
+         272845,
+         185417
+      ],
+      "backdrop_path": "/ojLrdkabPNfi6rBYfIi3VkhvL1C.jpg",
+      "revenue": 36000000,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "Holly",
+               "gender": 1,
+               "credit_id": "52fe4532c3a368484e04da91",
+               "name": "Betty Hutton",
+               "profile_path": "/dnc5H9yd7ULaYTYdbDUNTOyt9n4.jpg",
+               "id": 97182,
+               "order": 0
+            },
+            {
+               "cast_id": 3,
+               "character": "The Great Sebastian",
+               "gender": 2,
+               "credit_id": "52fe4532c3a368484e04da95",
+               "name": "Cornel Wilde",
+               "profile_path": "/irvjqmXVMSoLmZ9Tcqa9bIpRf2H.jpg",
+               "id": 35320,
+               "order": 1
+            },
+            {
+               "cast_id": 1,
+               "character": "Brad Braden",
+               "gender": 2,
+               "credit_id": "52fe4532c3a368484e04da8d",
+               "name": "Charlton Heston",
+               "profile_path": "/pXwJV9JlOCKOHSfEJdt2q61SZVq.jpg",
+               "id": 10017,
+               "order": 2
+            },
+            {
+               "cast_id": 5,
+               "character": "Phyllis",
+               "gender": 1,
+               "credit_id": "52fe4532c3a368484e04da9d",
+               "name": "Dorothy Lamour",
+               "profile_path": "/7H76LKezXlQala1wGW0iVU8qHDF.jpg",
+               "id": 83400,
+               "order": 3
+            },
+            {
+               "cast_id": 4,
+               "character": "Angel",
+               "gender": 1,
+               "credit_id": "52fe4532c3a368484e04da99",
+               "name": "Gloria Grahame",
+               "profile_path": "/f4Y0WcGs4UDwRVFD9XYoDg5pclS.jpg",
+               "id": 77081,
+               "order": 4
+            },
+            {
+               "cast_id": 18,
+               "character": "FBI Agent Gregory",
+               "gender": 2,
+               "credit_id": "52fe4533c3a368484e04dadb",
+               "name": "Henry Wilcoxon",
+               "profile_path": "/3qJEMJDvOy2WVP45oo5GqmMrwed.jpg",
+               "id": 51310,
+               "order": 5
+            },
+            {
+               "cast_id": 13,
+               "character": "Klaus",
+               "gender": 2,
+               "credit_id": "52fe4533c3a368484e04dac7",
+               "name": "Lyle Bettger",
+               "profile_path": "/cVkO5hV2gmxfauwbtUab15wlouv.jpg",
+               "id": 97657,
+               "order": 6
+            },
+            {
+               "cast_id": 17,
+               "character": "Mr. Henderson",
+               "gender": 2,
+               "credit_id": "52fe4533c3a368484e04dad7",
+               "name": "Lawrence Tierney",
+               "profile_path": "/iFPg06kGUTdgRUkrYir3xt1Dt7c.jpg",
+               "id": 6937,
+               "order": 7
+            },
+            {
+               "cast_id": 6,
+               "character": "Buttons",
+               "gender": 2,
+               "credit_id": "52fe4532c3a368484e04daa1",
+               "name": "James Stewart",
+               "profile_path": "/aBLtt0Sl4AZVNclzFrXzbndRzux.jpg",
+               "id": 854,
+               "order": 8
+            },
+            {
+               "cast_id": 12,
+               "character": "Himself",
+               "gender": 0,
+               "credit_id": "52fe4533c3a368484e04dac3",
+               "name": "Emmett Kelly",
+               "profile_path": "/cyu9HkGjUiUPtT00eJZf8YRkd6S.jpg",
+               "id": 142439,
+               "order": 9
+            },
+            {
+               "cast_id": 14,
+               "character": "Birdie",
+               "gender": 1,
+               "credit_id": "52fe4533c3a368484e04dacb",
+               "name": "Julia Faye",
+               "profile_path": "/zOoz6IVKVabPOVVR7nB09QCHx64.jpg",
+               "id": 130494,
+               "order": 10
+            },
+            {
+               "cast_id": 15,
+               "character": "Doctor",
+               "gender": 2,
+               "credit_id": "52fe4533c3a368484e04dacf",
+               "name": "Frank Wilcox",
+               "profile_path": "/m4RmuaNVzSFoPB3pj58eJvaIR2X.jpg",
+               "id": 34625,
+               "order": 11
+            },
+            {
+               "cast_id": 16,
+               "character": "Buttons' mother",
+               "gender": 0,
+               "credit_id": "52fe4533c3a368484e04dad3",
+               "name": "Lillian Albertson",
+               "profile_path": null,
+               "id": 1158826,
+               "order": 12
+            },
+            {
+               "cast_id": 21,
+               "character": "Sam's Wife (uncredited)",
+               "gender": 1,
+               "credit_id": "52fe4533c3a368484e04dae3",
+               "name": "Dorothy Adams",
+               "profile_path": null,
+               "id": 3346,
+               "order": 14
+            },
+            {
+               "cast_id": 22,
+               "character": "Himself",
+               "gender": 0,
+               "credit_id": "52fe4533c3a368484e04dae7",
+               "name": "John Ringling North",
+               "profile_path": null,
+               "id": 1158827,
+               "order": 15
+            },
+            {
+               "cast_id": 23,
+               "character": "Himself (clown)",
+               "gender": 0,
+               "credit_id": "52fe4533c3a368484e04daeb",
+               "name": "Lou Jacobs",
+               "profile_path": null,
+               "id": 1158828,
+               "order": 16
+            },
+            {
+               "cast_id": 24,
+               "character": "Spectator (uncredited)",
+               "gender": 1,
+               "credit_id": "52fe4533c3a368484e04daef",
+               "name": "Mona Freeman",
+               "profile_path": "/mVvXPfan9zChrQUJlbFmGDBRac9.jpg",
+               "id": 20144,
+               "order": 17
+            },
+            {
+               "cast_id": 25,
+               "character": "Harry",
+               "gender": 2,
+               "credit_id": "52fe4533c3a368484e04daf3",
+               "name": "John Kellogg",
+               "profile_path": "/h1BAZssNIdeKnNGpltnDU312UAd.jpg",
+               "id": 78305,
+               "order": 18
+            },
+            {
+               "cast_id": 26,
+               "character": "Assistant Manager",
+               "gender": 0,
+               "credit_id": "52fe4533c3a368484e04daf7",
+               "name": "John Ridgely",
+               "profile_path": "/438JXIe6hZKXcao3X7mfYdcPOOc.jpg",
+               "id": 2673,
+               "order": 19
+            },
+            {
+               "cast_id": 27,
+               "character": "Little Girl Spectator (uncredited)",
+               "gender": 1,
+               "credit_id": "538ec57a0e0a2644b6000ef4",
+               "name": "Beverly Washburn",
+               "profile_path": "/z4mrxE78UFYUB0PsyKapjU3s7rm.jpg",
+               "id": 15983,
+               "order": 20
+            },
+            {
+               "cast_id": 28,
+               "character": "Little Boy Spectator (uncredited)",
+               "gender": 2,
+               "credit_id": "57c52c419251417eca0003a2",
+               "name": "Lee Aaker",
+               "profile_path": "/fvTvCZhwKuDrBvV2IWUWUSANoSg.jpg",
+               "id": 50306,
+               "order": 21
+            },
+            {
+               "cast_id": 29,
+               "character": "Canvas Man (uncredited)",
+               "gender": 2,
+               "credit_id": "57c52c5ec3a36815c30007d7",
+               "name": "Eric Alden",
+               "profile_path": "/kEpWB8pReDI28FfFVzcomoyCoQc.jpg",
+               "id": 1016571,
+               "order": 22
+            },
+            {
+               "cast_id": 30,
+               "character": "Spectator (uncredited)",
+               "gender": 2,
+               "credit_id": "57c52c799251417eee000355",
+               "name": "Erville Alderson",
+               "profile_path": "/yi3crBgbU5m4jfsH3H15YNNPrpg.jpg",
+               "id": 589728,
+               "order": 23
+            },
+            {
+               "cast_id": 31,
+               "character": "Spectator (uncredited)",
+               "gender": 0,
+               "credit_id": "57c52c89c3a3682ca500039d",
+               "name": "Oliver Blake",
+               "profile_path": "/68AmFqZCnccFJzzSh9S8hp7jRZr.jpg",
+               "id": 114402,
+               "order": 24
+            },
+            {
+               "cast_id": 32,
+               "character": "Hopalong Cassidy (uncredited)",
+               "gender": 2,
+               "credit_id": "57c52c9fc3a3682ca8000375",
+               "name": "William Boyd",
+               "profile_path": "/hASlEm6UEICi8HI5oeLZwkzI4ad.jpg",
+               "id": 130491,
+               "order": 25
+            },
+            {
+               "cast_id": 33,
+               "character": "Dave (uncredited)",
+               "gender": 2,
+               "credit_id": "57c52cb0c3a36815c30007f9",
+               "name": "Lane Chandler",
+               "profile_path": "/3DN1h5C5qYQ3Efd4demVUmZqP3g.jpg",
+               "id": 90369,
+               "order": 26
+            },
+            {
+               "cast_id": 34,
+               "character": "Spectator (uncredited)",
+               "gender": 2,
+               "credit_id": "57c52cd09251417e6300039a",
+               "name": "Bing Crosby",
+               "profile_path": "/sKD1GauhPSBDIuVc9wrcNj9a9Wq.jpg",
+               "id": 24937,
+               "order": 27
+            },
+            {
+               "cast_id": 35,
+               "character": "Narrator (voice) (uncredited)",
+               "gender": 2,
+               "credit_id": "57c52cdac3a36815c700085a",
+               "name": "Cecil B. DeMille",
+               "profile_path": "/hQHlLlfyKbPGw2dS28JFvGjhXR5.jpg",
+               "id": 8636,
+               "order": 28
+            },
+            {
+               "cast_id": 36,
+               "character": "Spectator (uncredited)",
+               "gender": 1,
+               "credit_id": "57c52cf5c3a3682d19000396",
+               "name": "Kathleen Freeman",
+               "profile_path": "/wdNFoCWk58bgTRxoqPV8uN9UoGO.jpg",
+               "id": 7210,
+               "order": 29
+            },
+            {
+               "cast_id": 37,
+               "character": "Spectator (uncredited)",
+               "gender": 2,
+               "credit_id": "57c52d0ac3a3682ca50003df",
+               "name": "Bob Hope",
+               "profile_path": "/i8F9oShrgTTLuYnVCAmmFAqRmeR.jpg",
+               "id": 82388,
+               "order": 30
+            },
+            {
+               "cast_id": 38,
+               "character": "Noel (uncredited)",
+               "gender": 1,
+               "credit_id": "57c52d15c3a3682d190003a8",
+               "name": "Noel Neill",
+               "profile_path": "/enOOEGty5hpVW6nGqyUCmAGYVB7.jpg",
+               "id": 243805,
+               "order": 31
+            },
+            {
+               "cast_id": 39,
+               "character": "Midway Barker at End (uncredited)",
+               "gender": 2,
+               "credit_id": "57c52d23c3a36815bd00080d",
+               "name": "Edmond O'Brien",
+               "profile_path": "/jyi6OW4ZFWudfyk0TgnBK4i3XSf.jpg",
+               "id": 8254,
+               "order": 32
+            },
+            {
+               "cast_id": 40,
+               "character": "Circus Barker (uncredited)",
+               "gender": 2,
+               "credit_id": "57c52d3d9251417eee00039d",
+               "name": "Syd Saylor",
+               "profile_path": "/5VKk3UNGktDsZCEtIqN1Z0GIcmg.jpg",
+               "id": 88728,
+               "order": 33
+            },
+            {
+               "cast_id": 41,
+               "character": "Spectator",
+               "gender": 2,
+               "credit_id": "5a8a32289251410a1f06c879",
+               "name": "Franklyn Farnum",
+               "profile_path": "/zS52s740nZ2WA7kWIVMIy9N5uEl.jpg",
+               "id": 975597,
+               "order": 34
+            },
+            {
+               "cast_id": 42,
+               "character": "Spectator",
+               "gender": 1,
+               "credit_id": "5a8a32529251410a1f06c897",
+               "name": "Bess Flowers",
+               "profile_path": "/akbW8jJl8GSXFpixFaobMOqvNv4.jpg",
+               "id": 121323,
+               "order": 35
+            },
+            {
+               "cast_id": 43,
+               "character": "Ambulance Driver",
+               "gender": 2,
+               "credit_id": "5a8a32740e0a265453075c34",
+               "name": "Chuck Hamilton",
+               "profile_path": null,
+               "id": 34187,
+               "order": 36
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4532c3a368484e04daa7",
+               "name": "Cecil B. DeMille",
+               "profile_path": "/hQHlLlfyKbPGw2dS28JFvGjhXR5.jpg",
+               "id": 8636,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4533c3a368484e04daad",
+               "name": "Fredric M. Frank",
+               "profile_path": null,
+               "id": 97183,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4533c3a368484e04dab3",
+               "name": "Theodore St. John",
+               "profile_path": null,
+               "id": 97184,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4533c3a368484e04dab9",
+               "name": "Fredric M. Frank",
+               "profile_path": null,
+               "id": 97183,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4533c3a368484e04dabf",
+               "name": "Theodore St. John",
+               "profile_path": null,
+               "id": 97184,
+               "department": "Writing",
+               "job": "Screenplay"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Romance",
+            "id": 10749
+         },
+         {
+            "name": "Comedy",
+            "id": 35
+         }
+      ],
+      "popularity": 4.766714,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 27191,
+      "vote_count": 61,
+      "budget": 4000000,
+      "overview": "To ensure a full profitable season, circus manager Brad Braden engages The Great Sebastian, though this moves his girlfriend Holly from her hard-won center trapeze spot. Holly and Sebastian begin a dangerous one-upmanship duel in the ring, while he pursues her on the ground.",
+      "similar": [
+         11360,
+         55787,
+         700,
+         1966,
+         87,
+         587,
+         285783,
+         278927,
+         316029,
+         346364,
+         12222,
+         68728,
+         8982,
+         112454,
+         8054,
+         14001,
+         136,
+         1730,
+         1688,
+         24808
+      ],
+      "original_title": "The Greatest Show on Earth",
+      "runtime": 152,
+      "poster_path": "/2Zh8VfgVgTIeqwhmmPGkNzesNV.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Deutsch",
+            "iso_639_1": "de"
+         }
+      ],
+      "production_companies": [{
+         "logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
+         "name": "Paramount",
+         "id": 4,
+         "origin_country": "US"
+      }],
+      "release_date": "1952-01-10",
+      "vote_average": 6.6,
+      "belongs_to_collection": null,
+      "tagline": "The Heartbeat Story of Circus People, Filmed with the Cooperation of Ringling Bros. - Barnum and Bailey Circus!",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Cecil B. DeMille"],
+      "runtime": 152,
+      "synopsis": null,
+      "writers": [
+         "Fredric M. Frank",
+         "Barré Lyndon"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0044672/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTgzMTA1MDM5NV5BMl5BanBnXkFtZTgwNjg5NDc2MjE@._V1_SY317_CR0,0,214,317_AL_.jpg",
+      "actors": ["Stars: James Stewart, Charlton Heston, Betty Hutton | See full cast and crew »"],
+      "reviews": [
+         "The Greatest Show on Earth is a Cecil B. DeMille extravaganza, maybe the best one he ever produced and directed. Unlike his religious films or his historical films, this film is a nice tribute to an American institution, the Ringling Brothers&Barnum&Bailey Circus and as such it does not attract the controversy of some of his other films. The Best Picture Oscar for 1952 that this film won was more of a tribute to a Hollywood institution. Cecil B. DeMille in fact directed the first Hollywood made film, The Squaw Man, forty years earlier and this Oscar was essentially a tribute to him for the work of a lifetime. Not the first time or the last time the Motion Picture Academy has done that. This is DeMille spectacle at it's best. The circus as a cinema subject, so full of color and life, is ideal for a DeMille production. Wonderful camera work marks this film, both of the circus acts and the reaction shots into the crowd of the children of all ages. Cecil B. DeMille himself narrates portions of the film showing the work involved in putting on the Greatest Show on Earth. His was a familiar voice to the American public because for 10 years DeMille came into American households via radio narrating the Lux Radio Theater. In fact until Alfred Hitchcock got his own anthology TV series, DeMille's voice was probably the most known to the American public of a film director. And only his name and that of Walt Disney's of people behind the camera were guaranteed box office in the days of the Hollywood studio system. Spectacle was his thing and DeMille was the master. As a director of players and a judge of good modern writing, DeMille left a lot to be desired. Because of the nature of the subject, no great historical or religious events, the grandiloquent dialog present in so many DeMille films is kept to a minimum here. This was Charlton Heston's first big break as a star and his second film under a Paramount contract. He had done a film called Dark City, a good noir thriller that got good reviews, but did little for him personally. DeMille saw the six foot two Heston walking on the Paramount lot one day and just said to himself that this was to be the circus ramrod for this film. But Heston was fourth billed behind Betty Hutton, Cornel Wilde, and Gloria Grahame, all better known than him at the time. Wilde and Grahame were independents as was James Stewart who played a clown with a hidden past. Stewart in fact had always wanted to play a clown and took this supporting role with smaller billing just for the opportunity. At the time he agreed to do this, his wife Gloria was pregnant with their twin daughters. Stewart had it in his contract a clause that gave him permission to leave the film temporarily to be with Gloria when her time was near. In fact Gloria McLean Stewart had a rough time with the birth and Jimmy exercised that option and totally enraged DeMille who had to shut down production for a few days. He and DeMille did not get along after that though Stewart finished the film and was great in it. Gloria Grahame may not have been the most beautiful woman in Hollywood, but she was the most seductive operating in 1952. That was a banner year for her. She got a Best Supporting Actress for The Bad and the Beautiful on top of this DeMille film. As the elephant girl she attracts the unwanted attentions of Lyle Bettger who plays an elephant trainer. Bettger was a great player at that time who played a lovely variety of psychopaths on the screen. He pulls out all the stops here and its his unwanted attentions to Grahame that set up the final scenes. Dorothy Lamour was here also in a supporting part and she gets to sing Lovely Luawanna Lady in sarong and the reaction shots of the crowd focus on a couple of familiar faces who panted after her in a few Paramount films. The story itself is a standard four sided triangle involving Heston, Hutton, Wilde, and Grahame with Bettger horning in. You have to see the film to find out who winds up with who. However the high point of the film involves a circus train wreck. DeMille got a lot of notice for wrecking a train in Union Pacific back in 1939. So he doubles the excitement and wrecks two trains here with circus animals pouring out of busted cages. Great stuff. Betty Hutton was coming close to the end of her film career. This and Annie Get Your Gun would be her biggest triumphs. Given DeMille's limitations on directing players, Hutton is surprisingly subdued here and effective. She also sings a couple of nice songs here as she bids adieu to Paramount in her next to last film for them. When The Greatest Show on Earth came out and was doing great box office, Charlton Heston related a story that DeMille came over to him on the Paramount lot and gave him a newspaper clipping and said he would never get a better notice ever, no matter how long a career he had. Heston read the thing and the critic from some small town paper praised all the actors like Stewart, Wilde, Hutton, Grahame, and Lamour said they were great, but that C.B. DeMille must be the greatest director in the world to get a performance out of that circus ramrod. For all of DeMille's faults here, he created a circus picture that set the standard for any to follow.",
+         "It constantly amazes me that people carp that this won best Picture, as though no movie before or since ever won when maybe they shouldn't have. It was a big picture, it had a great story, it gave a lot of bang for the buck and that has always been a factor in grabbing the Oscar. It does seem a bit dated to us now, used to high flying special effects, different acting styles, and quick cut editing, instead of letting the scene play out as it so often does here, but it's such a great story. The circus itself is a character and the way Demille used the audience to make them seem so individual is wonderful. And I'm not just referring to the Hope/Crosby cameo. Remember the fat guy with the kid scarfing down the ice cream laughing his head off while the kid looked confused? You could tell he was reliving his childhood and he became EveryMan to us with only seconds of screen time. That's mastery. The integration of the real circus people with the actors was seamless and if nothing else this movie captures a time when the circus was really a circus. Carp all you want, guys. But I think you may be too spoiled by ultra realism to appreciate the subtler gems in this very respectable film.",
+         "I've never been to the circus, so I think of this movie as my trip to the circus. Charlton Heston is great as Brad, the all business manager of the circus. But my favorite character is James Stewart as Buttons the Clown. It's a very different role for him, but it's great. The Best Picture of 1952, \"The Greatest Show on Earth\" is wonderful, especially if you've never experienced it. I think this is one of Cecil B. De Mille's finest movies, and I recommend it to everyone. So I give it a 10 out of 10!",
+         "I know that some people are down on this movie, but I absolutely LOVE it. It has great ideals and good (not great) acting. It tells a story about the circus in a pseudo-documentary. The story has love, action, and humor. Three things that are missing from much of today's movie. I also love the color and the dramatic \"feel\" of the film for that era. It's a wonderful, wonderful, piece of 'Americana'.",
+         "I saw this film in a theatre when it first came out and, had forgotten a great deal of it, until I saw it again last evening. Much of the film is actual footage of the REAL Barnum and Bailey Circus, setting up, tearing down and loading up for the trip to the next venue. I had also forgotten how superb both Betty Hutton and Cornel Wilde are doing a great deal of their own 'flying'! While you realize that they have a net just under the view of the camera, they both perform physically demanding stunts with the camers right in their faces! I can't stand on my head on the floor much less on a swinging trapeze!! Wilde's front summersault from one swinging bar to another swinging bar is breathtaking!! Some of the action is quite dated and the trainwreck is...well, DeMille's rendition of a massive trainwreck. The plot creaks a bit here and there, but the many performers do their bits with conviction. Hutton and Wilde steal the show from Heston and Stewart. I recommend this film to Circus lovers everywhere and to people who appreaciate actors placing themselves in Harms Way to create illusions (be they VERY dangerous illusions) of the REAL thing! I give it an 8.",
+         "Since this film was released in 1952, some scenes in the film will really be outdated (effects). But other than that, the film is a feast to the eyes and if you're sentimental, to the heart. With a seemingly thin plot, Cecil B. deMille made the film work with visuals and moments of suspense that is missing from a lot of big films nowadays. Mr. deMille is a master of epic films and this is one example. He made the circus one of the main characters in the film, that you will find yourself missing it at this day and age. A guilty pleasure? For me this is a magical pleasure.",
+         "It would validate this film best if I state outright at this point that I am a great fan of the movie SINGIN' IN THE RAIN, also released in 1952 and generally ignored by the Academy, seemingly due to the shower of accolades handed out to AN AMERICAN IN PARIS. THE GREATEST SHOW ON EARTH did not win many Oscars beyond the coveted best picture award, but even this fact has poisoned my viewpoint of the justification of the Academy's decision, and that this in itself displays the incomprehensible factor that the statuette ended up at Paramount, not MGM. However, my eventual purpose of viewing this film was threefold: to see Jimmy Stewart, Dorothy Lamour and one of the final best pictures of the 1950s, which I had not seen. All my SINGIN' IN THE RAIN prejudices aside, I was very pleasantly surprised. Cecil B. DeMille's opinions of the circus as a \u0091human machine made up of many parts' is interesting as it evokes the assemblage of any motion picture, and certainly, an enormous production such as this one. The script, generally convincing in its theme, can deliver on its expectations and bring to life a drama-comedy-epic-action-romance-musical that actually works, all elements and sub-plots played alongside. Even if these aspects make for melodramatic story lines, I have assumed that the purpose of the film is generally basic entertainment. And the basic story\u0085the dramatic lives of circus performers culminating and reaching their peak underneath the glamour and colour of the big top isn't too bad either. DeMille's well-handled direction is intriguing and always expectantly, a job well done. There are many good examples of an all-star ensemble cast, but this one ranks close to the top\u0085Betty Hutton, Cornel Wilde, Charlton Heston, Jimmy Stewart, Dottie Lamour, Gloria Grahame\u0085each may bear no resemblance to their character's personalities, but play their parts interestingly well. Generally, I found Stewart's portrayal as Buttons the clown, masked behind a multiple personality, to be the best performance in the film. It is difficult also not to mention the many great and entertaining real-life circus performers that truly made up the spirit of THE GREATEST SHOW ON EARTH, and continue to do so in their differed entertaining medium today, so it is really quite a nice tribute to their dedication. To satisfy the varied genres of the film, each character is where they are to fuel the particular element. Angel (Grahame) enhances the comedy with her natural talents, and Phyllis (Lamour) and Holly (Hutton) to fill out the musical aspects with an extensive musical program, including `Jumpin' Jack' and the title song. Romance is demonstrated in a series of different love triangles involving five of the six lead characters. Drama is seen with the integration of all these aspects, involving Buttons (Stewart), tension between Sebastian (Wilde) and Brad (Heston), and the case of post ANNIE GET YOUR GUN competitive one-upmanship between Holly and Sebastian on the trapezes. Finally, in the case of action, the sensationalism of the train scene brings all these emotions to a halt\u0085to create one of the biggest epics of 1950s Hollywood, and to destroy some of the colourful and glamourous illusions of circus life. Despite the fact the film definitely exceeded my original expectations of it and the fact that it filled its three-hour plus running time certainly impressed me. However, I would like to continue to retain my position on the unfair juxtaposition of SINGIN' IN THE RAIN, and it is doubtful my opinion will swing to favour THE GREATEST SHOW ON EARTH any time soon. Rating: 8/10",
+         "Every one was shocked when THE GREATEST SHOW ON EARTH won Oscars for Best Motion Picture and Best Screenplay; there was nothing about the film that could be considered \"great art.\" At the same time, however, SHOW was a lot of fun, and certainly audiences of the day flocked to it, making it the single biggest grossing film of 1952. The story is purple-prose soap opera. Circus manager Brad Braden (Charleton Heston) is doing a balancing act between rival arielist stars Sebastian (Cornel Wilde) and Holly (Betty Hutton)--the later of whom is torn in her affections between the two. Add in a lovely but common show girl (Dorothy Lamour), a jealous elephant trainer (Lyle Bettger), the object of his affections (Gloria Graham), a clown with a mysterious past (Jimmy Stewart), high wire accidents, and a train wreck--all mixed well by Cecil B. DeMille's eye for larger-than-life spectacle. The result is brassy, silly, corny, and thoroughly enjoyable. Seen today, the big attraction here is the chance to see the circus when it was still traveling by rail and performing under \"the big top.\" Filmed with the cooperation of Ringling Brothers-Barnum and Bailey, SHOW allows us to see what was involved in organizing the lavish show that was the circus in the 1950s, a world filled with roustabouts, elephants, barkers, peanut vendors, acrobats, and all the rest. One of the more interesting aspects of this is Emmett Kelly, one of America's greatest clowns, who appears throughout the film as himself. THE GREATEST SHOW ON EARTH is lots of flash and dazzle, a little song and dance, Charleton Heston in his first major role, Betty Hutton in one of her final films (she did most of her own stunt work), and lots of corny charm. It might not really be the \"greatest\" show on earth, but it is very picturesque. The film isn't restored, but it isn't in bad condition; sadly, there are no bonuses at all. GFT, Amazon Reviewer",
+         "I have seen this film several times and each time I am more impressed. I don't look at a film to rate the acting, but rather I look at a film for its entertainment qualities. This film shows a behind-the-scenes look into circus life that most people would never have a chance to see. The circus acts shown are typical and entertaining, the characters have some qualities that are not always seen in a movie of this magnitude. I am always interested in special effects and how they are used in a film. The train wreck is obviously done with models but it is so well done, it rates mention. There are many considerations in making special effects seem real and all of those are carefully used in this film. Of course, the circus acts were NOT done with special effects and are very entertaining. If you have not seen this picture, please do so with an open mind and expect to be impressed.",
+         "I am entirely unfamiliar with Cecille B. DeMille's work or even what the public reaction was to his career although I've heard a few negative things, and I've heard a lot more negative things about this picture's Best Oscar win (since it won over such AFI top 100 entries as High Noon and A Place in the Sun). The film is somewhat metacinematic: It brings the joys of the circus to the viewer in the same way that it does for the audience in the film. With authentic circus acts thrown into the mix, these scenes are very exciting. But the film extends beyond just bringing footage of the circus to a movie audience as it effectively captures the drama backstage and brings you into a unique world. The film is slightly more spectacle than story, in the sense that it sometimes feel like the story is secondary to the lions, tigers, and other circus acts. The plot bobbles through multiple story lines, but mainly centers around circus manager Brad (Charlton Heston), trapeze primadonna Holly (not much of a circus name, I know), and a womanizing Frenchman named Sebastian who becomes the circus' new headline trapeze artists and hopes to steal the heart of the woman she stole the spotlight from. Also featuring heavily into the story are Angel (Gloria Grahame), a past flame of Sebastian; Klauss, an elephant tamer with an obsessive desire for Angel; and Jimmy Stewart as a wise old clown who has been hiding a couple of secrets. Among the cast, Heston, Grahame, and Stewart really stick out for excellent performances. Heston's circus manager is a man of very strong character who you come to empathize with because he's got the careers of thousands of people on his backs and is willing to sacrifice his personal relationships, his health, and his ego (when dealing with cocky people like Sebastian) to see to it that the show is a success. Gloria Grahame brings such wit and sass to one-line jabs and insults that it makes a convincing character out of what would otherwise have been a two-note shill. Lastly, Stewart is classic Stewart but he delivers that Midwestern persona underneath a veneer of make-up and in a supporting role."
+      ],
+      "genres": [
+         "Drama",
+         "Family",
+         "Romance"
+      ],
+      "productionCompanies": ["Paramount Pictures"],
+      "summaries": [
+         "To ensure a full profitable season, circus manager Brad Braden engages The Great Sebastian, though this moves his girlfriend Holly from her hard-won center trapeze spot. Holly and Sebastian begin a dangerous one-upmanship duel in the ring, while he pursues her on the ground. Subplots involve the secret past of Buttons the Clown and the efforts of racketeers to move in on the game concessions. Let the show begin!",
+         "The dramatic lives of trapeze artists, a clown, and an elephant trainer against a background of circus spectacle."
+      ],
+      "budget": 4000000
+   },
+   "movielensId": 1943,
+   "movielens": {
+      "languages": [
+         "English",
+         "Deutsch"
+      ],
+      "releaseDate": "1952-01-10",
+      "dvdReleaseDate": "2004-04-06",
+      "directors": ["Cecil B. DeMille"],
+      "runtime": 152,
+      "movieId": 1943,
+      "title": "The Greatest Show on Earth",
+      "mpaa": "",
+      "actors": [
+         "Betty Hutton",
+         "Cornel Wilde",
+         "Charlton Heston",
+         "Dorothy Lamour",
+         "Gloria Grahame",
+         "Henry Wilcoxon",
+         "Lyle Bettger",
+         "Lawrence Tierney",
+         "James Stewart",
+         "Emmett Kelly",
+         "Julia Faye",
+         "Frank Wilcox",
+         "Lillian Albertson",
+         "Dorothy Adams",
+         "John Ringling North",
+         "Lou Jacobs",
+         "Mona Freeman",
+         "John Kellogg",
+         "John Ridgely",
+         "Beverly Washburn",
+         "Lee Aaker",
+         "Eric Alden",
+         "Erville Alderson",
+         "Oliver Blake",
+         "William Boyd",
+         "Lane Chandler",
+         "Bing Crosby",
+         "Cecil B. DeMille",
+         "Kathleen Freeman",
+         "Bob Hope",
+         "Noel Neill",
+         "Edmond O'Brien",
+         "Syd Saylor"
+      ],
+      "imdbMovieId": "0044672",
+      "originalTitle": "The Greatest Show on Earth",
+      "genres": [
+         "Action",
+         "Drama",
+         "Romance"
+      ],
+      "youtubeTrailerIds": ["8GJHCicaOs0"],
+      "plotSummary": "To ensure a full profitable season, circus manager Brad Braden engages The Great Sebastian, though this moves his girlfriend Holly from her hard-won center trapeze spot. Holly and Sebastian begin a dangerous one-upmanship duel in the ring, while he pursues her on the ground.",
+      "tmdbMovieId": 27191,
+      "avgRating": 3.20175,
+      "releaseYear": "1952",
+      "numRatings": 570,
+      "posterPath": "/2Zh8VfgVgTIeqwhmmPGkNzesNV.jpg"
+   }
+}

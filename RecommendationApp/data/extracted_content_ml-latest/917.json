@@ -1,0 +1,695 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "orphanage",
+            "id": 6783
+         },
+         {
+            "name": "child",
+            "id": 208349
+         }
+      ],
+      "imdb_id": "tt0031580",
+      "video": false,
+      "title": "The Little Princess",
+      "recommendations": [
+         29879,
+         27597,
+         28345,
+         43268,
+         38716,
+         57840,
+         43869,
+         33738,
+         110465,
+         43897,
+         142540,
+         128973,
+         38222,
+         43494,
+         20583,
+         39282,
+         18050,
+         90851,
+         206126,
+         29478
+      ],
+      "backdrop_path": "/s8XtmA1gHA2taBgZyEic7arfKxW.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Sara Crewe",
+               "gender": 0,
+               "credit_id": "52fe4509c3a368484e044ba9",
+               "name": "Shirley Temple",
+               "profile_path": "/wWwwQ4Xjb0HHgnPgAnOh2Nx6xZG.jpg",
+               "id": 95624,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Geoffrey Hamilton",
+               "gender": 2,
+               "credit_id": "52fe4509c3a368484e044bad",
+               "name": "Richard Greene",
+               "profile_path": "/yFO2qFbgfXZ9rk5mci3KuT9YLpf.jpg",
+               "id": 32128,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Rose",
+               "gender": 1,
+               "credit_id": "52fe4509c3a368484e044bb1",
+               "name": "Anita Louise",
+               "profile_path": "/dmF7AKtfrjr2xdX2Mbn4s8OSjGj.jpg",
+               "id": 34442,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Captain Crewe",
+               "gender": 2,
+               "credit_id": "52fe4509c3a368484e044bb5",
+               "name": "Ian Hunter",
+               "profile_path": "/7fnMM8p9lSdRtXX0Mqg1NPJrfHL.jpg",
+               "id": 8731,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Bertie Minchin",
+               "gender": 2,
+               "credit_id": "52fe4509c3a368484e044bb9",
+               "name": "Arthur Treacher",
+               "profile_path": "/kKHJIUgyUBL5R202XJKj3kXfzXe.jpg",
+               "id": 5831,
+               "order": 4
+            },
+            {
+               "cast_id": 6,
+               "character": "Amanda Minchin",
+               "gender": 1,
+               "credit_id": "52fe4509c3a368484e044bbd",
+               "name": "Mary Nash",
+               "profile_path": null,
+               "id": 14686,
+               "order": 5
+            },
+            {
+               "cast_id": 7,
+               "character": "Ram Dass",
+               "gender": 2,
+               "credit_id": "52fe4509c3a368484e044bc1",
+               "name": "Cesar Romero",
+               "profile_path": "/fdPXkT3PDFCvVpfI1MUdbEMuz3n.jpg",
+               "id": 4355,
+               "order": 6
+            },
+            {
+               "cast_id": 8,
+               "character": "Lord Wickham",
+               "gender": 2,
+               "credit_id": "52fe4509c3a368484e044bc5",
+               "name": "Miles Mander",
+               "profile_path": "/bdpwtvVZjOgkaOXXA38tfYuiBT5.jpg",
+               "id": 19329,
+               "order": 7
+            },
+            {
+               "cast_id": 9,
+               "character": "Lavinia",
+               "gender": 1,
+               "credit_id": "52fe4509c3a368484e044bc9",
+               "name": "Marcia Mae Jones",
+               "profile_path": "/5Gtq4UgexrSKU37QKGcDitQQnNk.jpg",
+               "id": 95627,
+               "order": 8
+            },
+            {
+               "cast_id": 10,
+               "character": "Queen Victoria",
+               "gender": 1,
+               "credit_id": "52fe4509c3a368484e044bcd",
+               "name": "Beryl Mercer",
+               "profile_path": "/kd22nF2wsJ3vW8ciG61jZxokxig.jpg",
+               "id": 2018,
+               "order": 9
+            },
+            {
+               "cast_id": 11,
+               "character": "Jessie",
+               "gender": 0,
+               "credit_id": "52fe4509c3a368484e044bd1",
+               "name": "Deidre Gale",
+               "profile_path": null,
+               "id": 95628,
+               "order": 10
+            },
+            {
+               "cast_id": 12,
+               "character": "Ermengarde",
+               "gender": 0,
+               "credit_id": "52fe4509c3a368484e044bd5",
+               "name": "Ira Stevens",
+               "profile_path": null,
+               "id": 95629,
+               "order": 11
+            },
+            {
+               "cast_id": 13,
+               "character": "Mr. Barrows",
+               "gender": 2,
+               "credit_id": "52fe4509c3a368484e044bd9",
+               "name": "E.E. Clive",
+               "profile_path": "/2raUbBAzWMDDxsdQ2pKo2ZFGP8N.jpg",
+               "id": 2930,
+               "order": 12
+            },
+            {
+               "cast_id": 14,
+               "character": "Cook",
+               "gender": 1,
+               "credit_id": "52fe4509c3a368484e044bdd",
+               "name": "Eily Malyon",
+               "profile_path": "/nsmVbSUMZsrwbnD74Aef2BQGxEK.jpg",
+               "id": 95631,
+               "order": 13
+            },
+            {
+               "cast_id": 19,
+               "character": "Attendant",
+               "gender": 2,
+               "credit_id": "5554ceebc3a3682083002fa4",
+               "name": "Clyde Cook",
+               "profile_path": "/loYiy4EW1S0p29cLrP9Fxg5ogrU.jpg",
+               "id": 13557,
+               "order": 14
+            },
+            {
+               "cast_id": 20,
+               "character": "Bobbie",
+               "gender": 2,
+               "credit_id": "5554cef49251416de1002e47",
+               "name": "Keith Hitchcock",
+               "profile_path": null,
+               "id": 348606,
+               "order": 15
+            },
+            {
+               "cast_id": 21,
+               "character": "Groom",
+               "gender": 2,
+               "credit_id": "5554cefe9251416dd6002d09",
+               "name": "Will Stanton",
+               "profile_path": null,
+               "id": 148868,
+               "order": 16
+            },
+            {
+               "cast_id": 22,
+               "character": "Groom",
+               "gender": 2,
+               "credit_id": "5554cf089251414fc9000268",
+               "name": "Harry Allen",
+               "profile_path": null,
+               "id": 1090669,
+               "order": 17
+            },
+            {
+               "cast_id": 23,
+               "character": "Doctor",
+               "gender": 2,
+               "credit_id": "5554cf12c3a36820860033b4",
+               "name": "Holmes Herbert",
+               "profile_path": "/r1c9i5E0gqgMxR0DSdSuY6j5hmE.jpg",
+               "id": 29600,
+               "order": 18
+            },
+            {
+               "cast_id": 24,
+               "character": "Doctor",
+               "gender": 2,
+               "credit_id": "5554cf1ec3a3682083002fa8",
+               "name": "Evan Thomas",
+               "profile_path": null,
+               "id": 117695,
+               "order": 19
+            },
+            {
+               "cast_id": 25,
+               "character": "Doctor",
+               "gender": 0,
+               "credit_id": "5554cf279251416de1002e4b",
+               "name": "Guy Bellis",
+               "profile_path": null,
+               "id": 1371301,
+               "order": 20
+            },
+            {
+               "cast_id": 26,
+               "character": "General",
+               "gender": 2,
+               "credit_id": "5554cf30c3a368208a002e2d",
+               "name": "Kenneth Hunter",
+               "profile_path": null,
+               "id": 951488,
+               "order": 21
+            },
+            {
+               "cast_id": 27,
+               "character": "Colonel",
+               "gender": 2,
+               "credit_id": "5554cf3cc3a3682083002fab",
+               "name": "Lionel Braham",
+               "profile_path": null,
+               "id": 99212,
+               "order": 22
+            },
+            {
+               "cast_id": 28,
+               "character": "Officer",
+               "gender": 0,
+               "credit_id": "5554cf47c3a368208c002fad",
+               "name": "Frank Baker",
+               "profile_path": "/fSYn9ESiVpuJtEuS67ttAGceEQW.jpg",
+               "id": 27164,
+               "order": 23
+            },
+            {
+               "cast_id": 29,
+               "character": "Pedestrian Discussing the War",
+               "gender": 0,
+               "credit_id": "5554cf529251416de1002e4e",
+               "name": "Sidney Bracey",
+               "profile_path": "/o72gF6HWbCBrm4wBZWgWiP6RYAK.jpg",
+               "id": 80546,
+               "order": 24
+            },
+            {
+               "cast_id": 30,
+               "character": "Maid",
+               "gender": 0,
+               "credit_id": "5554cf5dc3a368208000300b",
+               "name": "Eve Conrad",
+               "profile_path": null,
+               "id": 1467112,
+               "order": 25
+            },
+            {
+               "cast_id": 31,
+               "character": "Bobbie",
+               "gender": 0,
+               "credit_id": "5554cf67c3a368207b002fd7",
+               "name": "Robert Cory",
+               "profile_path": null,
+               "id": 1432530,
+               "order": 26
+            },
+            {
+               "cast_id": 32,
+               "character": "Orderly Chasing Sara",
+               "gender": 2,
+               "credit_id": "5554cf729251416de1002e52",
+               "name": "Herbert Evans",
+               "profile_path": null,
+               "id": 121095,
+               "order": 27
+            },
+            {
+               "cast_id": 33,
+               "character": "Pedestrian Discussing the War",
+               "gender": 2,
+               "credit_id": "5554cf80c3a3682080003010",
+               "name": "Olaf Hytten",
+               "profile_path": "/uCuFf8QMmSerIkvFlveQzFg7lr7.jpg",
+               "id": 32192,
+               "order": 28
+            },
+            {
+               "cast_id": 34,
+               "character": "Maid",
+               "gender": 0,
+               "credit_id": "5554cf899251416de1002e54",
+               "name": "Lilyan Irene",
+               "profile_path": null,
+               "id": 1409154,
+               "order": 29
+            },
+            {
+               "cast_id": 35,
+               "character": "Wounded Soldier Outside Hospital",
+               "gender": 2,
+               "credit_id": "5554cf949251416ddb002ceb",
+               "name": "Charles Irwin",
+               "profile_path": null,
+               "id": 131612,
+               "order": 30
+            },
+            {
+               "cast_id": 36,
+               "character": "Wounded Irishman",
+               "gender": 0,
+               "credit_id": "5554cfa0c3a368208f002b42",
+               "name": "Patrick X. Kerry",
+               "profile_path": null,
+               "id": 1467114,
+               "order": 31
+            },
+            {
+               "cast_id": 37,
+               "character": "Traumatized Young Soldier",
+               "gender": 2,
+               "credit_id": "5554cfabc3a368207b002fde",
+               "name": "Morton Lowry",
+               "profile_path": "/f4wKgLykBxTSRfeBC8yABjl2al6.jpg",
+               "id": 113759,
+               "order": 32
+            },
+            {
+               "cast_id": 38,
+               "character": "Nurse",
+               "gender": 0,
+               "credit_id": "5554cfb4c3a368208f002b48",
+               "name": "Jean Manners",
+               "profile_path": null,
+               "id": 1467115,
+               "order": 33
+            },
+            {
+               "cast_id": 39,
+               "character": "Orderly",
+               "gender": 0,
+               "credit_id": "5554cfbfc3a368208f002b4c",
+               "name": "Vesey O'Davoren",
+               "profile_path": null,
+               "id": 121128,
+               "order": 34
+            },
+            {
+               "cast_id": 40,
+               "character": "Student",
+               "gender": 1,
+               "credit_id": "5554cfca9251414fc9000283",
+               "name": "Antonia Oland",
+               "profile_path": null,
+               "id": 1118509,
+               "order": 35
+            },
+            {
+               "cast_id": 41,
+               "character": "Minnie - Cook's Helper",
+               "gender": 1,
+               "credit_id": "5554cfd6c3a36820860033c9",
+               "name": "Rita Page",
+               "profile_path": null,
+               "id": 120441,
+               "order": 36
+            },
+            {
+               "cast_id": 42,
+               "character": "Nurse",
+               "gender": 0,
+               "credit_id": "5554cfe3c3a368208f002b54",
+               "name": "Hilda Plowright",
+               "profile_path": null,
+               "id": 1221283,
+               "order": 37
+            },
+            {
+               "cast_id": 43,
+               "character": "Pedestrian Discussing the War",
+               "gender": 0,
+               "credit_id": "5554cfee9251416dd9002fde",
+               "name": "Gerald Rogers",
+               "profile_path": null,
+               "id": 1067994,
+               "order": 38
+            },
+            {
+               "cast_id": 44,
+               "character": "Bobbie",
+               "gender": 0,
+               "credit_id": "5554cff99251416ddb002cf3",
+               "name": "Leslie Sketchley",
+               "profile_path": null,
+               "id": 1466134,
+               "order": 39
+            },
+            {
+               "cast_id": 45,
+               "character": "Nurse",
+               "gender": 1,
+               "credit_id": "5554d0089251416ddf002d76",
+               "name": "Amzie Strickland",
+               "profile_path": "/hxLow28cDbL6BYeAdOiZztRQSYE.jpg",
+               "id": 154178,
+               "order": 40
+            },
+            {
+               "cast_id": 46,
+               "character": "Orderly Sergeant",
+               "gender": 2,
+               "credit_id": "5554d011c3a368207b002ff1",
+               "name": "David Thursby",
+               "profile_path": "/t3tTg25pjjzz0mQ0SuwKVMyGxOW.jpg",
+               "id": 132701,
+               "order": 41
+            },
+            {
+               "cast_id": 47,
+               "character": "Nurse",
+               "gender": 0,
+               "credit_id": "5554d01b9251416dd6002d20",
+               "name": "Clare Verdera",
+               "profile_path": null,
+               "id": 1294687,
+               "order": 42
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4509c3a368484e044be3",
+               "name": "Walter Lang",
+               "profile_path": "/yn0CkRMug4xZOnPK7CIEfX3WDg3.jpg",
+               "id": 80570,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4509c3a368484e044be9",
+               "name": "Ethel Hill",
+               "profile_path": null,
+               "id": 95636,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4509c3a368484e044bef",
+               "name": "Walter Ferris",
+               "profile_path": null,
+               "id": 95637,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4509c3a368484e044bf5",
+               "name": "Frances Hodgson Burnett",
+               "profile_path": "/AoCiYPDSUzMmIyL3IYALVJcSVm3.jpg",
+               "id": 68690,
+               "department": "Writing",
+               "job": "Novel"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Family",
+            "id": 10751
+         }
+      ],
+      "popularity": 3.39375,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 26531,
+      "vote_count": 26,
+      "budget": 0,
+      "overview": "The classic Shirley Temple film in which a little girl goes in search of her father who is reported missing by the military during World War I.",
+      "similar": [
+         20352,
+         257,
+         11448,
+         235,
+         819,
+         745,
+         15,
+         595,
+         394117,
+         346364,
+         354912,
+         1247,
+         9757,
+         5123,
+         5126,
+         509885,
+         206487,
+         7549,
+         46738,
+         10137
+      ],
+      "original_title": "The Little Princess",
+      "runtime": 93,
+      "poster_path": "/xr3TBVOYcBQlRBBt7XxaljIwTPa.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+         "name": "20th Century Fox",
+         "id": 25,
+         "origin_country": "US"
+      }],
+      "release_date": "1939-03-17",
+      "vote_average": 7.1,
+      "belongs_to_collection": null,
+      "tagline": "A great classic comes to life in glorious Technicolor!",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": [
+         "Walter Lang",
+         "William A. Seiter"
+      ],
+      "runtime": 93,
+      "synopsis": "Sara's army captain father must put her in boarding school because he has been ordered to the Boer war. He brings her to the \"best\" girls' school in England, but the owner, Miss Minchin only accepts her after he emphasizes his financial and social status. He instructs Miss Minchin that he will reimburse her for additional expenses to ensure that Sara has the best of everything in his absence. The unspoiled Sara enjoys her privileged life but misses her father. Her kindness stuns the young school servant, Becky. Sara befriends Ram Dass, a servant in the house next door, who is from her beloved India. She also makes friends with a teacher and her secret boyfriend, the riding instructor, and assists their meetings. Sara also discovers a secret dancer, Miss Minchin's brother Bertie, and they delight in impromptu performing when they won't get caught. Sara's father's letters cease when his station at Mafeking is besieged. When new troops arrive and relieve Mafeking, Sara's hopes are dashed when her father is reported missing and presumed dead. Miss Minchin is furious because she has received no reimbursements for Sara's special treatment. She confiscates all of Sara's presents and possessions, and keeps her on as a servant although her work will never repay her debts. She assigns Sara to work in the kitchen and sleep in a cold room in the attic. Sara refuses to believe her father is dead. She performs her chores but always checks new arrivals at the soldiers' hospital in hopes of finding him. Bertie enlisted in the army and works at the hospital, so he aids her search despite his misgivings. They dance and sing for the wounded men. In the servants' quarters, Sara comforts herself by furnishing her room with her imagination: a comfortable bed, a warm fire, plentiful food and books. Her friend Ram Dass observes her misery, and one night he secretly makes her room into the luxurious palace she has envisioned. In the meantime, Sara's father is brought to the hospital, but due to his amnesia is unidentified. He is scheduled to be transferred to another hospital the next day. That morning, Miss Minchin discovers Sara's new things and assumes they are stolen. She locks Sara in to await the police. Sara desperately escapes in order to check the hospital. She is stopped at every turn until she stumbles into Queen Victoria who is visiting the soldiers. The Queen allows Sara to search, and she finally finds her father. She hugs him and cries, but is devastated when he does not recognize her. Finally, she gets through to him and they are happily reunited.",
+      "writers": [
+         "Ethel Hill",
+         "Walter Ferris"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0031580/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTU2MzE0MDMzNF5BMl5BanBnXkFtZTcwMTEzMzU1MQ@@._V1_SY317_CR51,0,214,317_AL_.jpg",
+      "actors": ["Stars: Shirley Temple, Richard Greene, Anita Louise | See full cast and crew »"],
+      "reviews": [
+         "A small child, affectionately known as THE LITTLE PRINCESS, must endure great hardship after her father is killed in the Boer War. Shirley Temple had her last great box-office triumph in this splendid Technicolor adaptation of the Frances Hodgson Burnett childhood classic. No longer a tiny tot - she turned eleven the year THE LITTLE PRINCESS was released - but still a little trooper, Shirley exhibits once again the tremendous charm & talent which made her Hollywood's top box office draw. With wrinkled brow & tremulous lip or bouncing curls & joyous smile, she adeptly displays just the right mood or mannerism to keep the focus of the audience's attention firmly grasped in her chubby fists. The supporting players' roster is abundantly well cast: stalwart Ian Hunter appears as Shirley's soldier father - this very fine actor wisely uses his acting skills to keep from being completely upstaged by the mighty moppet; handsome Richard Greene & lovely Anita Louise play the riding master & teacher who befriend Shirley - their roles aren't terribly significant, but they fill them quite well. Mary Nash is once again cast as Shirley's tormentor, this time playing the evil-spirited headmistress of an exclusive girls' seminary. This accomplished actress did not appear in many films, but she could generally be counted on to provide a vivid performance - notice the relish with which she essays her small part in the medieval fantasy sequence (`I know my rights, I know the law and what I say I saw, I saw!'). Long-legged, adenoidal Arthur Treacher plays her henpecked brother; he is a delight during his two romps with Shirley to the music hall ditty \u0091Knocked \u0091Em In The Old Kent Road.' Cesar Romero quietly portrays an Indian servant in a small, but important, role; Miles Mander & E. E. Clive both appear as hardhearted, crusty old gentlemen - only one is regenerated by film's end. Sweet Beryl Mercer makes the most of her few moments as a stately, kindhearted Queen Victoria - while Eily Malyon is a true fright as the school's slatternly cook. Marcia Mae Jones participates in one of the film's most memorable moments, when, as a particularly vile teenager, she receives a face full of fireplace ashes, courtesy of sweet Shirley. Special attention should be given to ten-year-old South African Sybil Jason, who plays the wistful waifish charmaid who idolizes Shirley. In her American film debut, Warner's LITTLE BIG SHOT (1935), she proved wonderfully winsome & winning, but the storm of attention surrounding Miss Temple (exactly 19 months older than Miss Jason) tends, at this remove, to swamp the boats of the other female child stars of the period. However, delightful Sybil deserves to be remembered & appreciated for her own accomplishments. The Stolen Kiss, a lavish fantasy dream sequence, provides a welcome few minutes change of pace for Temple, Nash, Louise, Greene, Treacher & Romero.",
+         "Charming film in color where Shirley Temple's dad goes off to fight in the Boer War. She is left is a fancy girl's school with a headmistress who is stern. When word is brought to the school that the father, who adored his Sarah (Temple), has been killed and the child is left penniless, poor Sarah is shut up in the attic and made to work in the kitchen. Move over Cinderella. Sarah never gives up hope that her dad (Ian Hunter) is living and she searches feverishly for him. When a Indian mystery man (Cesar Romero) makes her room beautiful during a ballet sequence, Sarah is suspected of stealing. Mary Nash is the wicked headmistress and acts in the same way as Margaret Hamilton in \"The Wizard of Oz.\" Richard Green and Anita Louise play lovers, who are discharged from the school, by Nash for loving each other. The ending is wonderful when Sarah finds her dad with the help no less of Queen Victoria (Beryl Mercer). Enjoyable tale for children and adults alike.",
+         "While American audiences loved this and all the other Shirley Temple vehicles, across the Pond this story of a young girl refusing to accept reports of her father's death in combat must have struck a responsive chord with war-weary Brits who could easily identify with her troubles. Although the Hollywood film industry has always come under some well-deserved criticism for twisting history and other literary sources in its screenplays, they do get it right at times. The largely British cast and English setting give the classic story the right look and feel, and the romance and song-and-dance numbers don't take anything away from the main storyline. Shirley is even reunited with some of her co-stars from other films. (This includes Cesar Romero as a servant here. 8 of his next 11 films were westerns, a genre he'd never tackled, including a pairing with Randolph Scott as Doc Holliday to Scott's Wyatt Earp and a starring role in a handful of Cisco Kid features. Much later would come famous movie and TV roles as Kurt Russell's nemesis A.J. Arno in several Disney comedies in the 70's, and his most famous part, the Joker, in BATMAN.) In a year when so many great films appeared that were taken from the pages of popular books (GONE WITH THE WIND, THE WIZARD OF OZ, THE ADVENTURES OF HUCKLEBERRY FINN, THE HUNCHBACK OF NOTRE DAME,GUNGA DIN, WUTHERING HEIGHTS, GOODBYE, MR. CHIPS,THE HOUND OF THE BASKERVILLES, TARZAN FINDS A SON, THE MAN IN THE IRON MASK) you can add THE LITTLE PRINCESS. If you never get to read any or all of these books, at least watch the films derived from them. You won't regret it. Dale Roloff",
+         "Shirley at 12yrs old is a delight as the sad little girl left in a very snotty all girls boarding school while her father is away at war in 1899,later on he is reported killed and leaves shirley with noone and no money so she is forced to work as a servant to pay her way.. I do admit that this is not one of Shirley's best,for example Shirley's crying scenes are a bit heavy handed and forced but overall she is still so cute you just cant help but love her. I also enjoyed the girl who played Becky ,she was so cute too. Mary Nash could have been the wicked witch in the wizard of oz ,she does good as the nasty head mistress. Look for a very young and handsome Cesar Romero as the Indian servant of an English nobleman. Best scene , Shirley giving a snotty schoolgirl her comeuppance. A timeless family classic to show your children again and again.",
+         "\"The Little Princess\" is a reversal-of-fortune movie, so to speak. Sarah Crewe (Shirley Temple) is the daughter of a wealthy soldier sent off to the Boer War in 1899. Having no relatives, Sarah is placed in an exclusive girls school until her father returns. When her father is reported dead and their fortune is wiped out, the friendly headmistress becomes not-so-friendly towards Sarah, who is made to work off her father's debt to the school. Sarah is convinced that her father is alive, though, and searches the area hospital for him, eventually finding him. This movie serves as an excellent example of several things: movies like this just aren't made any more. Unfortunately, they can't be - people would say it was too corny. In the movie, Shirley portrays a child not only with unshakable hope but patience, manners, politeness and kindness in the face of terrible adversity, with only a couple of cracks in her steadfastness. She meets Queen Victoria. Who would believe that a child under the duress that she suffers could be so gracious? Who would believe that, being a pauper, she could meet the Queen of England? Today's movie child star would have filled the air with sassiness and expletives under the same situation. But Shirley/Sarah doesn't, and that's a reason that I really like this movie - it shows someone who tries to make the best of a bad situation, and never gives up hope. I also believe that the movie is an accurate portrayal of the life and times of the turn of the century, as it was made only 40 years after the Boer War. I think that Victorian England was captured well in this movie; after all, we do a pretty good job of displaying the 1960s on film these days. Overall, though, it is Shirley Temple at her singing/dancing/acting best in this movie, and she does a wonderful job from start to finish.",
+         "We are always captivated by a young person's grown up prowess on stage or screen. This is certainly true of Temple's performance. We are intimidated by her poise and strength, but endeared to her by her sincerity. Who will forget Caesar Romero (or better who would guess it was him)in the role of the Indian servant? The scene when Queen Victoria visits the hospital is gripping. On the one hand, we know the writers could not be so cruel to let her father escape her, yet on the other hand the writers and players condition you into feeling ... . Well, you'll just have to watch the movie. Temple also pulls off the \"the princess and the pauper\" (one implied title of the movie) class switch well. Excellent character actors and actresses support. I think a good movie for young people to watch.",
+         "This Shirley Temple feature is worth seeing for a number of very nice moments in the story of \"The Little Princess\". It might be a little longer than necessary, and the story development is sometimes uneven, which keeps it from achieving its full potential. It offers the young Temple a variety of material to work with, and she has some very good sequences. For the most part, it follows the familiar story, though often embellished, particularly towards the end. The story and Temple's characterization give it a rather different feel from, for example, the silent version that starred Mary Pickford. Here, Temple projects much of her own persona, with her best moments coming with Arthur Treacher, who plays the easygoing brother of the stern headmistress. The character of Becky is still significant, but Temple does not ever have the rapport with her that Pickford and Zasu Pitts had in the earlier version. As a result, it's a bit uneven overall, but for those who enjoy this kind of story, it's still worthwhile. The public domain print makes it somewhat difficult to evaluate the production end, although it clearly contained plenty of detail and color. It's a decent if unexceptional feature whose high points are usually worth waiting for.",
+         "Between the ages of 7 and 10, little Shirley Temple was the biggest box office star in the world. But as she grew older, her popularity quickly began to wane. At 11 (though she believed herself to be 10 because her mother shaved a year off her age), Shirley was still quite a child when she made \"The Little Princess.\" But because she was no longer as cute and cherubic as she was at 6, when \"Stand Up and Cheer!\" first made her a star, it was to be her last successful film in a children's role. As Sara (a Hebrew name meaning \"princess\"), Shirley plays her standard rags-to-riches storyline in reverse: Sara's wealthy widowed father loses everything in the Boer War, and her cruel boarding school headmistress Miss Minchin makes her an underfed, overworked servant girl to pay the tuition debt her father owed. Sara goes from luxurious rooms and private tutors to friendless, freezing attics as suddenly as the swinging America of the 1920s sank into the dust storms, breadlines, and squattervilles of the 1930's Great Depression. But where did poor Americans turn to briefly forget all these problems during the Great Depression? To the movies, where Shirley Temple, her unwavering hopefulness (as present in \"The Little Princess\" as in any of her movies), and her cute song-and-dance numbers -- with titles like \"Laugh, You Son of a Gun\" (1934), \"You Gotta Smile to be Happy\" (1936), \"Be Optimistic\" (1938), and \"Come and Get Your Happiness\" (1938) -- cheered up the entire nation. The same singing and dancing cheers up Sara Crewe while she's working as a galley slave in 1899 London, as Shirley performs \"The Old Kent Road\" with her pal Arthur Treacher (her four-time co-star). In short, \"The Little Princess\" is Shirley Temple's career in a nutshell. It is a must-see film for both longtime Shirley fans and newcomers.",
+         "THE LITTLE PRINCESS (20th Century-Fox, 1939), directed by Walter Lang, based upon the story by Frances Hodgeson Burnett, ranks one of Shirley Temple's best known and most revived feature, as well as her first in Technicolor. Capitalizing on her previous success with screen adaptations to literary children's novels, including HEIDI and WEE WILLIE WINKIE (both 1937), THE LITTLE PRINCESS displays Temple's talent in heavy dramatics at best, especially with her two key scenes, one in which she teary-eyed bids goodbye to her father as he goes off to war; and another where she stands firm, looking angrily straight at her evil boarding school mistress as she is about to slap her face for standing up to her. Like a fairy tale, this production includes good characters along with a wicked one (wonderfully played by Mary Nash), along with some dialog usually found in storybooks, such as one little girl saying on how Sara Crewe (Temple) looks just like a princess, with the overly jealous girl sarcastically responding, \"Princess, INDEED.\" Set in London in the year 1899, Sara (Shirley Temple) is the daughter of her widowed father, Captain Crewe (Ian Hunter), who leaves her in a boarding school under the care of Miss Amanda Mirchin (Mary Nash) and her brother, Bertie (Arthur Treacher), a former music hall performer, before he goes off to the Boer War. Because Crewe is a well known figure and man of wealth, Sara is given the royalty treatment, as if she were \"a little princess,\" causing jealously amongst one of the other girls, Lavinia (Marcia Mae Jones), who doesn't want to lose her place with Miss Mirchin. After Miss Mirchin receives news from Mr. Babbows (E.E. Clive) that Captain Crewe has been killed in the war, leaving daughter Sara penniless, she, at first, decides to put Sara and her belongings into the street, but Babbows advises her that this would not look good for her or the school. So the only other alternative is to place Sara from her luxurious room into a cold attic, taking her expensive clothing and auctioning it off to pay for her lodging, leaving Sara with only paupers' clothes to wear. In order to earn her keep, Sara must work long hard hours in the kitchen along with another girl, Becky (Sybil Jason), who befriends her. Being treated harshly, Sara becomes a hard and bitter child who tries to be a good soldier as her father had wanted her to be, but finds she's unable to do it, being at times both hungry and cold. Not wanting to believe her father is dead, Sara braves the streets of London at night in hope to one day find him amongst the wounded in the military hospital. Also in support in THE LITTLE PRINCESS are Richard Greene and Anita Louise as the young romantic couple, with Louise as Miss Rose, an employee of the boarding school who loses her position for secretly meeting with Sir Geoffrey Hamilton (Greene) against the wishes of Miss Minchin; Cesar Romero as Ram Dass, an Arab servant to Lord Wickham (Miles Mander), Sir Geoffrey's grandfather; Eily Malyon as an unsympathetic boarding school cook; and Beryl Mercer as Queen Victoria, among others. Aside from the heavy handled dramatics that resembles a dark Charles Dickens novel, THE LITTLE PRINCESS does take time for some song and dance, including \"Down By the Old Kent Road\" (by Arthur Chevalier and Charles Ingle) as sung and danced by Shirley Temple and Arthur Treacher; and as with Temple's earlier classic, HEIDI, there's a musical dream sequence, this one titled \"Fantasy\" by Walter Bullock and Samuel Pokrass. As with HEIDI, THE LITTLE PRINCESS is prestigious Temple production. It also reunites her with her HEIDI co-stars, Mary Nash, Arthur Treacher and Marcia Mae Jones. And also like HEIDI, THE LITTLE PRINCESS gives the impression of a hurried conclusion. Mary Nash gives a standout performance with her female interpretation of Mr. Murdstone from Dickens' novel, David COPPERFIELD, with Treacher a likable Micawber character from that very same novel. Temple and Treacher have fine screen chemistry, with this being their fourth and final collaboration together. The 1899 London period setting is wonderfully captured along with its lavish crisp Technicolor. Sybil Jason, a promising young child actress of Warner Brothers (1935-38), who didn't rise above the rank of Temple, is quite memorable playing the cockney orphan, Becky. Her performance is unlike anything she has done before, but sadly, after one more film, THE BLUE BIRD (1940), which also starred Temple, Jason's career would come to an end. Unlike the other Shirley Temple movies of the 1930s, THE LITTLE PRINCESS became a public domain video title, being distributed through various video companies through the years (1980s and 1990s), and like the Christmas classic, IT'S A WONDERFUL LIFE (1946), which also fell victim to public domain, THE LITTLE PRINCESS became frequently shown on numerous television stations at any given time. The 1989 CBS Fox Home Video presentation of THE LITTLE PRINCESS does present this film with the best Technicolor print available, outdoing some others with duller looking copies. THE LITTLE PRINCESS was formerly presented on cable television's American Movie Classics from 1996 to 2001, and occasionally airs on Turner Classic Movies and on the Fox Movie Channel. Wherever THE LITTLE PRINCESS is found, it makes good family viewing. One final note: the Frances Hodgeson Burnett classic included a 1917 silent film version starring Mary Pickford, and a 1995 remake with Eleanor Bron, both titled A LITTLE PRINCESS. But whenever THE LITTLE PRINCESS is mentioned, it'll be no doubt that the Shirley Temple version will be the one that comes to mind. (****)",
+         "This agreeable movie is based on the Francis Burnett children's classic novel. 1899, London, irrepressible Sara(Shirley Temple) is a little girl in Victorian epoch sent to boarding school ruled by a harsh,hateful headmistress named Mischin(Mary Nash) while her widowed father(Ian Hunter) is posted in South African -Transvaal- during the Anglo-Boer war. Her daddy is declared missing but is reported killed in action and the penniless schoolgirl must work as a servant to pay her existence. Kindhearted Sara befriends a young enamored couple(Anita Louise, Richard Greene)who help her. Then Sara in search for her dad, haunting hospitals where she encounters Queen Victoria. Impactful adaptation has Temple as likable child playing, dancing, and singing. Lively screenplay, vivid performances, dazzling scenarios originate classic in film-making. Colorful cinematography in Technicolor by William Skall and Arthur Miller. The picture is brilliant and skilfully directed by Walter Lang, a musical cinema and comedy genre expert. This is Shirley Temple's biggest success(it cost a big budget, over 1,5 million dollars) and also her fist colour, another Shirley's hits are:¨Poor little girl,The little rebel,The little colonel and Little Miss Marker¨among others. It's remade by a TV version(1987) by Carol Wiseman with Amelia Shankley and Nigel Havers and a superior version by Alfonso Cuaron with Sara incarnation from Liesel Mattews(Shirley Temple lookalike role),Eleanor Brown(eagle-eyed Mary Nash role)and Lian Cunningham(Ian Hunter lookalike). This is a masterpiece of kids' classic cinema and you will soon be caught up in its sympathetic and enjoyable world."
+      ],
+      "genres": [
+         "Comedy",
+         "Drama",
+         "Family",
+         "Musical"
+      ],
+      "productionCompanies": ["Twentieth Century Fox Film Corporation"],
+      "summaries": [
+         "When her father, Captain Crewe, goes off to fight in the Boer War, young Sara Crewe is placed into the care of Amanda Minchin, the head of an exclusive private school for girls. Sara lives a wonderful life of a privileged child and is quite happy in her surroundings. When her father is listed as missing in action however, her life goes from one of plenty to that of a poor house maid. Mrs. Minchin agrees to keep her on at the school, but in the absence of her tuition payments, she has to work for her keep. She is soon cleaning out the fireplace and scrubbing floors and is dubbed the little princess by her former schoolmates. She also refuses to accept that her father is dead and prowls the hospitals in the hope of locating him. Luck - and Royal intervention - assist her in her quest.",
+         "In Victorian England little Sara Crewe's widowed father is sent to the Boer War. When he is reported killed the evil head mistress at her boarding school turns Sara into a servant.",
+         "The story sets in the England ruled by Queen Victoria. Sara is a little girl who doesn't have anything in the world but her father, Captain Reginald Crew. War times run, and Captain Crew's sent to fight with the British army to Africa, to fight against in the Boer War. Sara's worried about her father and she's afraid of his security. The girl is registered in an exclusive seminary for girls, only for a period of time, until Captain Crew returns from Africa. Amanda Minchin is a strict woman who runs the seminary. Sara makes friends with a kindly young teacher, called Rose, and with the horse instructor Geoffrey. So, Sara's life at Minchin Seminary is very happy, but everything there has a monetary cost, even the birthday party and the presents that Miss Minchin sets up for the girl. When Sara finds out about Captain Crew's death, she's devastated but all the privileges will cease, because there's no money to pay for them. Miss Minchin tells Sara that she can stay, but in a dark and creepy attic and she'll have to work as a servant for all her friends. However she makes friends with a nice Indian servant from the house next door and with the other servant girl, Becky, at the seminary. But Sara, keeps hoping that her father is still alive.",
+         "A little girl is left by her father in an exclusive seminary for girls, due to her father having to go to Africa with the army."
+      ],
+      "budget": 0
+   },
+   "movielensId": 917,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1939-03-17",
+      "dvdReleaseDate": "2001-05-15",
+      "directors": ["Walter Lang"],
+      "runtime": 93,
+      "movieId": 917,
+      "title": "The Little Princess",
+      "mpaa": "G",
+      "actors": [
+         "Shirley Temple",
+         "Richard Greene",
+         "Anita Louise",
+         "Ian Hunter",
+         "Arthur Treacher",
+         "Mary Nash",
+         "Cesar Romero",
+         "Miles Mander",
+         "Marcia Mae Jones",
+         "Beryl Mercer",
+         "Deidre Gale",
+         "Ira Stevens",
+         "E.E. Clive",
+         "Eily Malyon",
+         "Clyde Cook",
+         "Keith Hitchcock",
+         "Will Stanton",
+         "Harry Allen",
+         "Holmes Herbert",
+         "Evan Thomas",
+         "Guy Bellis",
+         "Kenneth Hunter",
+         "Lionel Braham",
+         "Frank Baker",
+         "Sidney Bracey",
+         "Eve Conrad",
+         "Robert Cory",
+         "Herbert Evans",
+         "Olaf Hytten",
+         "Lilyan Irene",
+         "Charles Irwin",
+         "Patrick X. Kerry",
+         "Morton Lowry",
+         "Jean Manners",
+         "Vesey O'Davoren",
+         "Antonia Oland",
+         "Rita Page",
+         "Hilda Plowright",
+         "Gerald Rogers",
+         "Leslie Sketchley",
+         "Amzie Strickland",
+         "David Thursby",
+         "Clare Verdera"
+      ],
+      "imdbMovieId": "0031580",
+      "originalTitle": "The Little Princess",
+      "genres": [
+         "Drama",
+         "Comedy",
+         "Family"
+      ],
+      "youtubeTrailerIds": ["-pao-iEtwnY"],
+      "plotSummary": "The classic Shirley Temple film in which a little girl goes in search of her father who is reported missing by the military during World War I.",
+      "tmdbMovieId": 26531,
+      "avgRating": 3.61535,
+      "releaseYear": "1939",
+      "numRatings": 1205,
+      "posterPath": "/xr3TBVOYcBQlRBBt7XxaljIwTPa.jpg"
+   }
+}

@@ -1,0 +1,611 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "professor",
+            "id": 1992
+         },
+         {
+            "name": "friendship",
+            "id": 6054
+         },
+         {
+            "name": "unfaithfulness",
+            "id": 11510
+         },
+         {
+            "name": "bowling alley",
+            "id": 174916
+         },
+         {
+            "name": "alimony",
+            "id": 208125
+         }
+      ],
+      "imdb_id": "tt0107613",
+      "video": false,
+      "title": "Mr. Wonderful",
+      "recommendations": [
+         49969,
+         91440,
+         33766,
+         70011,
+         32330,
+         38982,
+         49314,
+         38554
+      ],
+      "backdrop_path": "/ryFVXPn95BESMqomIHElOyeyNzD.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 4,
+               "character": "Gus",
+               "gender": 2,
+               "credit_id": "52fe44a79251416c91018333",
+               "name": "Matt Dillon",
+               "profile_path": "/svj4JJmblkNUt9pSrchJEzx4VR3.jpg",
+               "id": 2876,
+               "order": 0
+            },
+            {
+               "cast_id": 5,
+               "character": "Leonora",
+               "gender": 1,
+               "credit_id": "52fe44a79251416c91018337",
+               "name": "Annabella Sciorra",
+               "profile_path": "/2rhrUQbnRLI5hS0nZSvtmFHCf2M.jpg",
+               "id": 18750,
+               "order": 1
+            },
+            {
+               "cast_id": 6,
+               "character": "Rita",
+               "gender": 1,
+               "credit_id": "52fe44a79251416c9101833b",
+               "name": "Mary-Louise Parker",
+               "profile_path": "/3e72qs1QuqMlpieIm2JZtX1WNg2.jpg",
+               "id": 18248,
+               "order": 2
+            },
+            {
+               "cast_id": 7,
+               "character": "Tom",
+               "gender": 2,
+               "credit_id": "52fe44a79251416c9101833f",
+               "name": "William Hurt",
+               "profile_path": "/zp6UOht6c1iyHDbpYn1hkX103lG.jpg",
+               "id": 227,
+               "order": 3
+            },
+            {
+               "cast_id": 42,
+               "character": "Dominic",
+               "gender": 2,
+               "credit_id": "5a44ee180e0a264f29063df0",
+               "name": "Vincent D'Onofrio",
+               "profile_path": "/lUEn7f7xCLuT1kRCHoxMTRnYKXW.jpg",
+               "id": 7132,
+               "order": 4
+            },
+            {
+               "cast_id": 43,
+               "character": "Harvey",
+               "gender": 2,
+               "credit_id": "5a44ee270e0a264fb906617e",
+               "name": "Dan Hedaya",
+               "profile_path": "/5E4SUVfLMUKNCiP0dMhyOv3XHVZ.jpg",
+               "id": 6486,
+               "order": 5
+            },
+            {
+               "cast_id": 44,
+               "character": "Juice",
+               "gender": 2,
+               "credit_id": "5a44ee420e0a264fb9066197",
+               "name": "Luis Guzmán",
+               "profile_path": "/e6mIeGBDkNFZwFDoskcetgkU5oH.jpg",
+               "id": 40481,
+               "order": 6
+            },
+            {
+               "cast_id": 45,
+               "character": "Funny Face",
+               "gender": 1,
+               "credit_id": "5a44ee4f9251411fd207ab0d",
+               "name": "Jessica Harper",
+               "profile_path": "/4W74yGyRKJJfMolXwCOlR4kUBBs.jpg",
+               "id": 69055,
+               "order": 7
+            },
+            {
+               "cast_id": 46,
+               "character": "Mike",
+               "gender": 2,
+               "credit_id": "5a44ee5d0e0a264f39067d0a",
+               "name": "James Gandolfini",
+               "profile_path": "/19r3knxqTAPUgfItOPXg3ouOcpI.jpg",
+               "id": 4691,
+               "order": 8
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe44a79251416c91018323",
+               "name": "Anthony Minghella",
+               "profile_path": "/uJirGbZdLlvIs3joWGVNpPWKzPz.jpg",
+               "id": 2239,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44a79251416c91018329",
+               "name": "Amy Schor",
+               "profile_path": null,
+               "id": 130699,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44a79251416c9101832f",
+               "name": "Vicki Polon",
+               "profile_path": null,
+               "id": 130700,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5671544d9251416374002565",
+               "name": "Marianne Moloney",
+               "profile_path": null,
+               "id": 982224,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5671545dc3a3680e7301164a",
+               "name": "Michael Gore",
+               "profile_path": null,
+               "id": 32398,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5671548192514143ad0062d7",
+               "name": "Geoffrey Simpson",
+               "profile_path": null,
+               "id": 52055,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56715497c3a36833b6014c83",
+               "name": "John Tintori",
+               "profile_path": null,
+               "id": 941820,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "567154abc3a3680e73011650",
+               "name": "David Rubin",
+               "profile_path": "/x22xlcu30x5s8jelEIkJVBeLHrn.jpg",
+               "id": 5490,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "567154d29251416ab40024e6",
+               "name": "Debra Zane",
+               "profile_path": null,
+               "id": 495,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "567154f6c3a3683f5601569c",
+               "name": "Doug Kraner",
+               "profile_path": null,
+               "id": 20214,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5671550d925141664f015a0c",
+               "name": "Steve Saklad",
+               "profile_path": "/1qdEIFNLdDQs3uqN5fLvi2U7a8p.jpg",
+               "id": 39038,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 1,
+               "credit_id": "567155229251416ab40024ec",
+               "name": "Alyssa Winter",
+               "profile_path": null,
+               "id": 65139,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 2,
+               "credit_id": "567155349251415ec501586e",
+               "name": "John Dunn",
+               "profile_path": null,
+               "id": 52163,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5671555d92514143ad0062e2",
+               "name": "Miriam Schapiro",
+               "profile_path": null,
+               "id": 1535947,
+               "department": "Art",
+               "job": "Art Department Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56715579c3a3680e7301165f",
+               "name": "Nick Miller",
+               "profile_path": null,
+               "id": 1347735,
+               "department": "Art",
+               "job": "Construction Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56715597c3a36833b6014c95",
+               "name": "Steven Kirshoff",
+               "profile_path": null,
+               "id": 15528,
+               "department": "Crew",
+               "job": "Special Effects Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "567155afc3a368535a018017",
+               "name": "Kathleen Gerlach",
+               "profile_path": null,
+               "id": 1549583,
+               "department": "Costume & Make-Up",
+               "job": "Assistant Costume Designer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "567155cbc3a3683f560156ab",
+               "name": "Clare C. Freeman",
+               "profile_path": null,
+               "id": 1549584,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "567155ebc3a3682647015b90",
+               "name": "Jolie Gorchov",
+               "profile_path": null,
+               "id": 1549585,
+               "department": "Editing",
+               "job": "First Assistant Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "567156109251416374002583",
+               "name": "Kate Sanford",
+               "profile_path": null,
+               "id": 68220,
+               "department": "Editing",
+               "job": "First Assistant Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5671564d925141664f015a26",
+               "name": "Dianne Dreyer",
+               "profile_path": "/aN6Upw31PFDhH3cVE6QUat29nHD.jpg",
+               "id": 958273,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "567156a2c3a3680e73011670",
+               "name": "Craig A. Dellinger",
+               "profile_path": null,
+               "id": 1549587,
+               "department": "Sound",
+               "job": "ADR & Dubbing"
+            },
+            {
+               "gender": 0,
+               "credit_id": "567156b89251416ab4002518",
+               "name": "Sue Fox",
+               "profile_path": null,
+               "id": 1413172,
+               "department": "Sound",
+               "job": "ADR & Dubbing"
+            },
+            {
+               "gender": 0,
+               "credit_id": "567156d69251416374002593",
+               "name": "Jennifer Myers",
+               "profile_path": null,
+               "id": 1549588,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "567156eac3a3682647015ba4",
+               "name": "Margie O'Malley",
+               "profile_path": null,
+               "id": 557528,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56715716c3a36836b4017920",
+               "name": "James Lebrecht",
+               "profile_path": null,
+               "id": 1436963,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56715752c3a36833b6014cb4",
+               "name": "David Parker",
+               "profile_path": null,
+               "id": 1406614,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56715774c3a3680e73011686",
+               "name": "Douglas Murray",
+               "profile_path": null,
+               "id": 1389134,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5671578e92514143ad00630a",
+               "name": "Aaron F. Quarles",
+               "profile_path": null,
+               "id": 1445469,
+               "department": "Costume & Make-Up",
+               "job": "Key Hair Stylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "567157a39251415ec5015896",
+               "name": "Bernadette Mazur",
+               "profile_path": null,
+               "id": 142152,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "567157e892514159a00029ee",
+               "name": "Ken Ferris",
+               "profile_path": null,
+               "id": 1549590,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "567157fcc3a36836b401792c",
+               "name": "Morris Flam",
+               "profile_path": null,
+               "id": 74985,
+               "department": "Lighting",
+               "job": "Gaffer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "567158169251415ec501589f",
+               "name": "Eric Swanek",
+               "profile_path": null,
+               "id": 1460569,
+               "department": "Camera",
+               "job": "First Assistant Camera"
+            },
+            {
+               "gender": 2,
+               "credit_id": "567158579251415ec50158a8",
+               "name": "John Clifford",
+               "profile_path": null,
+               "id": 1395682,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "567158a1c3a36834c1015515",
+               "name": "Robert Griffon Jr.",
+               "profile_path": null,
+               "id": 1414994,
+               "department": "Crew",
+               "job": "Property Master"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56800e99c3a3684be300daf9",
+               "name": "Jeff Carson",
+               "profile_path": null,
+               "id": 12945,
+               "department": "Sound",
+               "job": "Music Editor"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Romance",
+            "id": 10749
+         }
+      ],
+      "popularity": 4.192393,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 31911,
+      "vote_count": 12,
+      "budget": 0,
+      "overview": "Electrician Gus gets the chance to fulfill a childhood dream by buying an old bowling-alley with some of his friends.",
+      "similar": [
+         44564,
+         489,
+         40807,
+         50544,
+         41630,
+         862,
+         13,
+         86331,
+         72105,
+         19913,
+         8839,
+         277547,
+         290762,
+         888,
+         397422,
+         13523,
+         23168,
+         68718,
+         62211,
+         28178
+      ],
+      "original_title": "Mr. Wonderful",
+      "runtime": 98,
+      "poster_path": "/AtUjyMEXPR41JWZzGfHEzgmrrHq.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "The Samuel Goldwyn Company",
+            "id": 8888,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Night Life Inc.",
+            "id": 16827,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/6rFNo5taSC9i0Sxnl81nucQMsw9.png",
+            "name": "Warner Bros. Pictures",
+            "id": 174,
+            "origin_country": "US"
+         }
+      ],
+      "release_date": "1993-10-15",
+      "vote_average": 5.4,
+      "belongs_to_collection": null,
+      "tagline": "Sometimes love is a stranger. And sometimes it's someone you've known all your life.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Anthony Minghella"],
+      "runtime": 98,
+      "synopsis": null,
+      "writers": [
+         "Amy Schor Ferris",
+         "Vicki Polon"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0107613/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BNTE5MTc4MTU0MF5BMl5BanBnXkFtZTcwNjU0MTgxMQ@@._V1_SY317_CR1,0,214,317_AL_.jpg",
+      "actors": ["Stars: Matt Dillon, Annabella Sciorra, Mary-Louise Parker | See full cast and crew »"],
+      "reviews": [
+         "Perhaps I am a little late with my writeup of this, a favoured movie in my specially selected permanent collection. I have read the other reviews, however I cannot agree, because this is a BIG hearted not light hearted comedy drama, and there is PLENTY of chemistry between the stars Annabella Sciorra and Matt Dillon. She is just lovely to look at, beautiful and totally believable. Mary Louise Parker is also delicious, the acting is great, the storyline very likable, timeless, then and now. Mr Minghella became famous with the recent Breaking and Entering, The English Patient, The Talented Mr Ripley but I like this one very much. Others in the cast warmly supportive, include William Hurt and Dan Hedaya. James Gandolfini has a simple non violent role, Vincent D'Onofrio is absolutely wonderful in his adoring song to Ms Sciorra. His performance jumps out at you, Oh Vincent... your eyes will water. You have the price of the movie in that one scene. If you are into relationships, you will appreciate it... falling in love, being in love, two people living together, then drifting apart, you just want them to get back together again. It's a romantic fantasy for adults. Take my advice, rent it, buy it. Comment from Malcolm in Toronto 30th June 2007",
+         "Okay so this is not Oscar material, but it is a sweet film just the same. I count this as one of my favorite movies, although let me state I have about 1,000 favorites! Coming from an Italian family I feel like I know these characters so well- Matt Dillon is adorable and very believable as Gus, the guy who needs to stop paying alimony to his ex-wife Lee so he can go into a business opportunity with his friends. Gus realizes the only thing to do is find Lee a new husband...a Mr. Wonderful! This of course leads to some very funny situations- The supporting cast is also great with Vincent Dinofrio (Law & Order-Criminal Intent)in one of his early roles. A terrific romantic comedy!",
+         "I expected this movie to bore me within the first five minutes, but I had an afternoon to kill and there was a rerun of a home improvement show I could watch. I got a pleasant surprise and never did check into ways to repaint the kitchen. I found the plot to be original because of Dillon's machinations to get another guy the girl. He's not much of a matchmaker, but he seems to sincerely want hi ex-wife to be happy. The end was predictable, but Sciorra and Dillon are convincing as angry ex- spouses who have gone in different directions and the numerous character actors fill in the occasional boring spots, especially Dan Hedeya - I like anything he does though, so I am biased.",
+         "Wonderful comic acting, well-played....it perfectly meets the expectations you'd have of a pure entertainment romantic comedy. Matt Dillon is especially good and displays a depth to his acting that had yet to be seen when this was first released. A little gem that deserves to be seen.",
+         "New York electrician Matt Dillon (as Gus DeMarco) wants to buy a bowling alley in Brooklyn, with his buddies from work; but, he doesn't have the money. To get his share of the bucks, Mr. Dillon must either sell his beloved Corvette, or marry off his alimony-collecting wife. If Dillon can find \"Mr. Wonderful\" for ex-wife Annabella Sciorra (as Leonora \"Lee\" DeMarco), he can stop payments. Making her ex-husband's job more challenging, Ms. Sciorra has hooked up with married college Professor William Hurt (as Tom). Sciorra has returned to school, and is learning Latin. Meanwhile, Dillon is dating sexy nurse Mary-Louise Parker (as Rita). This Anthony Minghella film will be very disappointing if you're looking for anything approaching the caliber of \"The English Patient\" or \"The Talented Mr. Ripley\". As good as they are, director Minghella and his bickering leads, do simply nothing with this ordinary, predictable story. There are a few nice moments, like a young downs syndrome couple sneaking a kiss as NYC subway light flicker. But, It's difficult to believe Sciorra suddenly dating the series of men recommended by Dillon. And, it's hard to fathom Dillon giving up a woman as desirable and intelligent as the gainfully employed Nurse Parker (a part filmmakers should have considered making an \"airhead\"). Second-stringers, like Parker and Con Edison worker David Barry Gray (as Pope), are more interesting to watch than the stars. ***** Mr. Wonderful (10/15/93) Anthony Minghella ~ Matt Dillon, Annabella Sciorra, Mary-Louise Parker, William Hurt",
+         "I just watched this on TV and enjoyed it as much for the cast as well as the light hearted story. Seeing a thinner younger James Gandolfini with Annabelle Sciorra years prior to the Sopranos was a surprise as well as seeing Vincent D'Onofrio as a shy singing druggist instead of an intense detective or someone on the edge of sanity. The rest of the supporting players are a tribute to the talent pool available to producers who need to fill background roles with actors with as much talent as the leads. Luis Guzman does a great job as always along with Dan Hedaya, Bruce Kirby and William Hurt. There is even a too brief appearance by Saverio Guerra as the landscaper driving the truck. If you wondered where you saw him before it was as the laughable Bob character on Ted Danson's enjoyable series Becker.",
+         "This is a very pleasant romantic comedy with a good cast, lots of good performances. Look for James Gandolfini in an earlier role as a shy lover.. .The premise is very believable. Matt Dillon's character is divorced, has killer alimony payments, but would like to invest in a bowling alley with his buddies. He has a girlfriend with a child, but hasn't quite committed. He has minor quarrels with his ex-wife, and it truly looks like there is no love lost between them! The plan is to find her a husband, a Mr. Wonderful, so he won't have to pay alimony any more, but when she finds one, he discovers he wants her back, says the video jacket. Matt Dillon puts in a very convincing performance as a working man, \"fix-it\" kind of guy who doesn't understand his more intellectual ex-wife; Annabella Sciorra is wonderful as his ex-wife, going to college and working with plants; William Hurt puts in a great performance as her married professor and lover; and Vincent D'Onofrio is excellent as the pharmacist who remembers her from high school. But I didn't feel that the ending was convincing, unlike other great romantic comedies, like \"You've Got Mail\", \"While You Were Sleeping\", or \"Sleepless in Seattle\".",
+         "This movie is very cute and Matt Dillon is, of course, very good.He plays his role as an electrician very well. The role of his friend is also played very well and strangely enough the two love interests of his ex-wife's were very well acted( the professor and the pharmacist.)However, his girlfriend and his wife, in my opinion, were not well cast at all and neither one had much chemistry with Dillon. The girlfriend came off as whiny and the wife as a helpless sap at times. However, I enjoyed the film. It was clever and romantic.",
+         "\"Mr. Wonderful\", predictable and obvious like most films of this genre, tells of a NYC hard hat electrician (Dillon) who tries to marry off his exwife (Sciorra) so he can put his alimony money toward his stake in a bowling alley. The film received several good reviews and works on many levels where similar films fail. \"Mr. Wonderful\" has an excellent cast, doesn't get too sappy, is well crafted and reasonably smart, and has a fresh and fun kind of \"feel\" to it. An enjoyable watch for romantics in need a break from hardcore drama.",
+         "Matt Dillon is a divorced, working-class New Yorker who pines to chip in with his buddies and buy a bowling alley. The thing holding him back is that he is disgorging money to his ex-wife Annabella Sciorra. Dillon is also hooked up with a nurse, Mary Louise Parker, while Sciorra has bonded with her professor William Hurt, who, lamentably, is married. I ask you -- the experienced movie-goer -- is it necessary to spell out what happens at the end? Not if you've seen \"The Awful Truth\" or any of the innumerable others that wind up with the estranged couple realizing that they were really meant for each other all along. The only alternative, and it was fashionable for a while, was for the wounded wife to find empowerment in her singlehood, as in \"Unmarried Woman.\" The story was written by women and directed by a man, and so the perspective of both genders is rather neatly represented. The bits of symbolic interaction, the kind that women pick up and men blunder over, are nicely captured in the script. A little hackneyed here and there, as during Parker's dismissal of Dillon, but overall a nice job. The director adds an understanding of male companionship, of men stifled in their ability to express emotions other than lust and rage. And he knows how much men of Dillon's background treasure their Vettes. Here, the dialog is sometimes inept. A friend of Dillon's, Pope, is in love with a young woman named Marie. (The central figures are all Italian; the WASPS are on the periphery.) \"I doan know how I feel when I see Marie! I mean, she might be 50 feet away. Maybe she's just brushin' her hair or somethin'. I mean, I doan know. My stomach gets dis HOLLOW feelin'. I get all kinda JUMPY, if you know what I mean.\" Well, I may or may not know what he means, but I know that working-class men DOAN TALK DIS WAY. Here's how the dialog would go. Dillon: \"Hey, you still wit Marie or what?\" Pope: \"Yeah. I tink it's getting' deep.\" If you take that verbal clumsiness away from these guys, you might as well take their cojones while you're at it. It was all pretty familiar, if intermittently amusing. Here's the thing that surprised me. Mary-Louise Parker's performance as Dillon's sometime girl friend who finally realizes that she can do better with somebody who cares more for her than for his ex wife or his car. She's quite good -- and in a slurpy and uninspiring part, too. No one wants to sound like a sexist but I'm compelled to point out, speaking to you as your psychologist, that men's and women's brains are rather different. That's not even to mention their hormones. I won't get into detail, but this biological difference is reflected in their interactional styles. I refer you to any of Deborah Tannen's books on the subject, as much as I hate to. (She knows how to cut men off at the knees while retaining her deniability.) Anyway, I think women would enjoy this film more than men. The men will squeeze some enjoyment out of what is likely to have been the director's contribution. I wish Mary-Louise Parker had been on screen more often, here and elsewhere, and not stuck in the victim role so repeatedly."
+      ],
+      "genres": [
+         "Comedy",
+         "Romance"
+      ],
+      "productionCompanies": [
+         "Night Life Inc.",
+         "Samuel Goldwyn Company, The"
+      ],
+      "summaries": ["Electrician Gus gets the chance to fulfill a childhood dream by buying an old bowling-alley with some of his friends. Unfortunately, due to the alimony payments he has to make to his ex-wife Leonora, the bank refuses to loan him the down payment. Knowing that when she marries again she loses her alimony rights, Gus tries to speed things up by bringing Leonora together with all the potential husbands he can find. Although this approach isn't very successful, it awakens feelings in both of them they didn't know they still had."],
+      "budget": 13000000
+   },
+   "movielensId": 499,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1993-10-15",
+      "dvdReleaseDate": "1999-11-23",
+      "directors": ["Anthony Minghella"],
+      "runtime": 98,
+      "movieId": 499,
+      "title": "Mr. Wonderful",
+      "mpaa": "PG-13",
+      "actors": [
+         "Matt Dillon",
+         "Annabella Sciorra",
+         "Mary-Louise Parker",
+         "William Hurt",
+         "Vincent D'Onofrio",
+         "Dan Hedaya",
+         "Luis Guzmán",
+         "Jessica Harper",
+         "James Gandolfini"
+      ],
+      "imdbMovieId": "0107613",
+      "originalTitle": "Mr. Wonderful",
+      "genres": [
+         "Comedy",
+         "Romance"
+      ],
+      "youtubeTrailerIds": ["dD1VJZSZcF8"],
+      "plotSummary": "Electrician Gus gets the chance to fulfill a childhood dream by buying an old bowling-alley with some of his friends.",
+      "tmdbMovieId": 31911,
+      "avgRating": 2.76485,
+      "releaseYear": "1993",
+      "numRatings": 421,
+      "posterPath": "/AtUjyMEXPR41JWZzGfHEzgmrrHq.jpg"
+   }
+}

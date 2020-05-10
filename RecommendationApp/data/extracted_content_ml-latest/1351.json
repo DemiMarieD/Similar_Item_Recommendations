@@ -1,0 +1,761 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "robbery",
+            "id": 642
+         },
+         {
+            "name": "diamond",
+            "id": 1384
+         },
+         {
+            "name": "gun",
+            "id": 1419
+         },
+         {
+            "name": "fight",
+            "id": 1721
+         },
+         {
+            "name": "love",
+            "id": 9673
+         },
+         {
+            "name": "murder",
+            "id": 9826
+         },
+         {
+            "name": "heist",
+            "id": 10051
+         },
+         {
+            "name": "theft",
+            "id": 14604
+         },
+         {
+            "name": "neo-noir",
+            "id": 207268
+         }
+      ],
+      "imdb_id": "tt0115710",
+      "video": false,
+      "title": "Blood and Wine",
+      "recommendations": [
+         27224,
+         26798,
+         26686,
+         32669,
+         10410,
+         29973,
+         39472,
+         63938,
+         4988,
+         10551,
+         291964,
+         50116,
+         83489,
+         35888,
+         13818,
+         23570,
+         41971,
+         18495,
+         26337,
+         9700
+      ],
+      "backdrop_path": "/wMWjzV5RO9wS5ARfynbjaNJa902.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Alex Gates",
+               "gender": 2,
+               "credit_id": "52fe44919251416c910154f7",
+               "name": "Jack Nicholson",
+               "profile_path": "/z5kVLyn3sxj0wNRlFgVgT6deeRO.jpg",
+               "id": 514,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Jason",
+               "gender": 2,
+               "credit_id": "52fe44919251416c910154fb",
+               "name": "Stephen Dorff",
+               "profile_path": "/l9DEmM22RzJA331AOdg5cAXaOfm.jpg",
+               "id": 10822,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Gabriela 'Gabby'",
+               "gender": 1,
+               "credit_id": "52fe44919251416c910154ff",
+               "name": "Jennifer Lopez",
+               "profile_path": "/yOz9MwgY9IV4kV9QdJyMCrATHCw.jpg",
+               "id": 16866,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Suzanne",
+               "gender": 1,
+               "credit_id": "52fe44919251416c91015503",
+               "name": "Judy Davis",
+               "profile_path": "/xQMA72T6yz6ebJXv1pCuZC1fDJo.jpg",
+               "id": 351,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Victor 'Vic' Spansky",
+               "gender": 2,
+               "credit_id": "52fe44919251416c91015507",
+               "name": "Michael Caine",
+               "profile_path": "/vvj0JMSFpOajXCE46Hy4dyqSP2U.jpg",
+               "id": 3895,
+               "order": 4
+            },
+            {
+               "cast_id": 6,
+               "character": "Henry",
+               "gender": 2,
+               "credit_id": "52fe44919251416c9101550b",
+               "name": "Harold Perrineau",
+               "profile_path": "/dvvViqumTolGoCut6YiGow666z2.jpg",
+               "id": 6195,
+               "order": 5
+            },
+            {
+               "cast_id": 7,
+               "character": "Dina Reese",
+               "gender": 0,
+               "credit_id": "52fe44919251416c9101550f",
+               "name": "Robyn Peterson",
+               "profile_path": "/jvXrWRJ5UMctjeynRU0NKYpRScg.jpg",
+               "id": 129430,
+               "order": 6
+            },
+            {
+               "cast_id": 8,
+               "character": "Mike",
+               "gender": 2,
+               "credit_id": "52fe44919251416c91015513",
+               "name": "Mike Starr",
+               "profile_path": "/9JrAo8iPqaLk4SrxMNq1sKHeKaK.jpg",
+               "id": 5170,
+               "order": 7
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe44919251416c91015519",
+               "name": "Bob Rafelson",
+               "profile_path": "/6YJpKfdlyYUz2jOxYaZ5yvqueeC.jpg",
+               "id": 19450,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "532813c39251411a1b001dfe",
+               "name": "Steven Cohen",
+               "profile_path": null,
+               "id": 19452,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "532813d19251411a22001e36",
+               "name": "Dianne Crittenden",
+               "profile_path": null,
+               "id": 1221,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "532813de9251411a0d001f2f",
+               "name": "Richard Sylbert",
+               "profile_path": null,
+               "id": 12017,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "532813eb9251411a05001f01",
+               "name": "William Kemper Wright",
+               "profile_path": null,
+               "id": 1301918,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 1,
+               "credit_id": "532813f89251411a11001df3",
+               "name": "Lindy Hemming",
+               "profile_path": "/8DiTuVH0dysJ6j1psjXE0XQ4BKR.jpg",
+               "id": 10714,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "532814099251411a11001df5",
+               "name": "Chris Auty",
+               "profile_path": null,
+               "id": 58695,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5328146a9251411a05001f0f",
+               "name": "Jeremy Thomas",
+               "profile_path": "/pcXYU5j3MjBgLATJIeUFV199ryt.jpg",
+               "id": 3056,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5328147a9251411a17001c68",
+               "name": "Bernard Williams",
+               "profile_path": null,
+               "id": 2384,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5696c66e9251414acb0000b5",
+               "name": "Alison Cross",
+               "profile_path": null,
+               "id": 177942,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5696c75892514154d8000001",
+               "name": "Nick Villiers",
+               "profile_path": null,
+               "id": 111766,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5696c97fc3a3683aec000042",
+               "name": "Noah Golden",
+               "profile_path": null,
+               "id": 1301919,
+               "department": "Production",
+               "job": "Co-Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5696c98992514154d8000049",
+               "name": "Hercules Bellville",
+               "profile_path": null,
+               "id": 69561,
+               "department": "Production",
+               "job": "Co-Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5696c9e6c3a3683aec000050",
+               "name": "Peter J. Devlin",
+               "profile_path": null,
+               "id": 1552062,
+               "department": "Sound",
+               "job": "Sound mixer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "562eacc5c3a3681b5900b80a",
+               "name": "Newton Thomas Sigel",
+               "profile_path": "/mTauZZzOY0fhpNkNjeOeDHDk8xm.jpg",
+               "id": 9040,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5696c6d39251414ac80000c8",
+               "name": "Bob Rafelson",
+               "profile_path": "/6YJpKfdlyYUz2jOxYaZ5yvqueeC.jpg",
+               "id": 19450,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5696c75f92514154cc000003",
+               "name": "Nick Villiers",
+               "profile_path": null,
+               "id": 111766,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5696c7a792514154d2000009",
+               "name": "Michał Lorenc",
+               "profile_path": "/1Td7wmV2YnYm5QS8EYxeJkKY6DC.jpg",
+               "id": 6422,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5696c7bc92514154d500001d",
+               "name": "Linda Melazzo",
+               "profile_path": null,
+               "id": 86594,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5696c7e292514154c6000010",
+               "name": "Donna Battersby Greene",
+               "profile_path": null,
+               "id": 1523402,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5696c7edc3a3683af0000013",
+               "name": "Joy Zapata",
+               "profile_path": null,
+               "id": 1338670,
+               "department": "Costume & Make-Up",
+               "job": "Key Hair Stylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5696c81bc3a3683aea00001c",
+               "name": "Jay Cannistraci",
+               "profile_path": null,
+               "id": 74765,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5696c88fc3a3683af900001b",
+               "name": "Manlio Rocchetti",
+               "profile_path": null,
+               "id": 1318806,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5696c94d92514154cf00002c",
+               "name": "Kathleen M. Courtney",
+               "profile_path": null,
+               "id": 92301,
+               "department": "Production",
+               "job": "Production Supervisor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5696c965c3a3683aec00003f",
+               "name": "Kathleen M. Courtney",
+               "profile_path": null,
+               "id": 92301,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5696c9a8c3a3683af9000043",
+               "name": "Dug Rotstein",
+               "profile_path": null,
+               "id": 1340919,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5696c9c2c3a3683af000005d",
+               "name": "Gayle Simon",
+               "profile_path": null,
+               "id": 1423989,
+               "department": "Art",
+               "job": "Art Department Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5696caf092514154c600006e",
+               "name": "Glenn Watson",
+               "profile_path": null,
+               "id": 1460768,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5696cb02c3a3683af500005f",
+               "name": "Peter Mountain",
+               "profile_path": null,
+               "id": 1393883,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5696ccd392514154d50000e5",
+               "name": "Bud Davis",
+               "profile_path": "/21iRoOXunwnWPcWZCv2PmWNaDe9.jpg",
+               "id": 14049,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5696cd64c3a3683aec0000b5",
+               "name": "Terry Miller",
+               "profile_path": null,
+               "id": 57347,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5696cd95c3a3683af90000c0",
+               "name": "Michael McGowan",
+               "profile_path": null,
+               "id": 1535395,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5696ce7292514154db000104",
+               "name": "Scott Warren",
+               "profile_path": null,
+               "id": 1541714,
+               "department": "Sound",
+               "job": "Boom Operator"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5696ce9992514154d20000e9",
+               "name": "Maria Tortu",
+               "profile_path": null,
+               "id": 1463802,
+               "department": "Costume & Make-Up",
+               "job": "Assistant Costume Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5696cee1c3a3683aec0000de",
+               "name": "Susan Salzano",
+               "profile_path": null,
+               "id": 1562943,
+               "department": "Costume & Make-Up",
+               "job": "Set Costumer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5696ceeec3a3683aec0000e3",
+               "name": "Heather Holmes",
+               "profile_path": null,
+               "id": 1552355,
+               "department": "Costume & Make-Up",
+               "job": "Set Costumer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5696cf0b92514154cc000103",
+               "name": "Stephen P. Durante",
+               "profile_path": null,
+               "id": 1549418,
+               "department": "Art",
+               "job": "Leadman"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5696cf27c3a3683afd00013e",
+               "name": "Leslie Shatz",
+               "profile_path": null,
+               "id": 56765,
+               "department": "Sound",
+               "job": "Sound Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5696cf47c3a3683af00000e4",
+               "name": "Scot Scalise",
+               "profile_path": null,
+               "id": 1354797,
+               "department": "Editing",
+               "job": "First Assistant Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5696cf74c3a3683afd000145",
+               "name": "Michael J. Harker",
+               "profile_path": null,
+               "id": 1273347,
+               "department": "Crew",
+               "job": "Post Production Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5696cfdac3a3683b040000f9",
+               "name": "Sukey Fontelieu",
+               "profile_path": null,
+               "id": 1550072,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5696cfeec3a3683aea000117",
+               "name": "Douglas Murray",
+               "profile_path": null,
+               "id": 1389134,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5696d01292514154c60000fd",
+               "name": "Chuck Michael",
+               "profile_path": null,
+               "id": 113075,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5696d03392514154d800011f",
+               "name": "Karen Rester",
+               "profile_path": null,
+               "id": 1562944,
+               "department": "Sound",
+               "job": "First Assistant Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5696d072c3a3683af0000117",
+               "name": "Rick Hart",
+               "profile_path": null,
+               "id": 1558256,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5696d094c3a3683aea00012f",
+               "name": "Leslie Shatz",
+               "profile_path": null,
+               "id": 56765,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5696d0bbc3a3683aec000130",
+               "name": "Valerie Schields",
+               "profile_path": null,
+               "id": 1562946,
+               "department": "Production",
+               "job": "Location Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5696d0d492514154cc000142",
+               "name": "Elayne Schneiderman",
+               "profile_path": null,
+               "id": 1531491,
+               "department": "Production",
+               "job": "Production Coordinator"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Crime",
+            "id": 80
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         }
+      ],
+      "popularity": 6.744149,
+      "production_countries": [
+         {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+         },
+         {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+         }
+      ],
+      "id": 31640,
+      "vote_count": 39,
+      "budget": 26000000,
+      "overview": "A man who has failed as a father and husband commits a heist to make money for his fledging business, but things become complicated when his wife interferes.",
+      "similar": [
+         10651,
+         949,
+         4771,
+         11958,
+         59,
+         681,
+         59967,
+         320,
+         562,
+         395834,
+         868,
+         8067,
+         445954,
+         398175,
+         341006,
+         413992,
+         1266,
+         8292,
+         521,
+         49950
+      ],
+      "original_title": "Blood and Wine",
+      "runtime": 101,
+      "poster_path": "/q8vjqmz3CTRyFlG5zKQNER67BTI.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": "/4RgIPr55kBakgupWkzdDxqXJEqr.png",
+            "name": "Fox Searchlight Pictures",
+            "id": 43,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": null,
+            "name": "Marmont Productions",
+            "id": 20926,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Blood & Wine Productions",
+            "id": 20927,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Majestic Films International",
+            "id": 20928,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1996-10-03",
+      "vote_average": 5.5,
+      "belongs_to_collection": null,
+      "tagline": "There is no honour amongst thieves.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Bob Rafelson"],
+      "runtime": 101,
+      "synopsis": null,
+      "writers": [
+         "Nick Villiers",
+         "Bob Rafelson"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0115710/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMjE0ODA0NDYxMV5BMl5BanBnXkFtZTcwMjQwMDIzMQ@@._V1_SY317_CR4,0,214,317_AL_.jpg",
+      "actors": ["Stars: Jack Nicholson, Michael Caine, Stephen Dorff | See full cast and crew »"],
+      "reviews": [
+         "Jack Nicholson and Michael Caine are so good in this movie. The temptation to chew up the scenery must have been overwhelming, but neither did. Neither grandstanded, and each played their vastly unappealing characters right down to the last detail. Caine plays an aging and ill thief looking for that last big score on which he can retire. Nicholson plays a middle-class wine distributor locked into an unhappy marriage, failing business, and a young girlfriend to support. They unite to rob one of Nicholson's clients, an act they feel will solve all of their problems. Of course it doesn't and everything that can go wrong, does. And then things begin to turn ugly. Dark, noirish, this is not a feel-good caper flick. It's definitely not \"The Sting\". What it is is well acted, directed, and filmed. Highly recommended, I'm just puzzled why it was overlooked at the Academy Awards.",
+         "Michael Caine gives one of his greatest performances, and that really is saying something. How many times have you seen someone overshadow CJck Nicholson? Well it happens here. Caine's character is at times pathetic, at others funny, and at others deeply nasty, and always believable. Jennifer Lopez looks astonishing in this but her character is a cypher. The script is so-so, as is the direction, but it is worth watching once for the Caine masterclass.",
+         "Jack Nicholson is typically brilliant. Judy Davis is positively compelling. Michael Caine does what he does when given a great script: exceptional work. Stephen Dorff is a great young actor, and Jennifer Lopez is stunningly beautiful, if at times out of her league here. The script is good, the direction is excellent, and the film, in total, is a solid 8.5 on the 10 scale. Those who complain that the film is too violent shouldn't watch movies about crime. Crime is typically violent. (Despite the way it's depicted in most films.) See this movie. Ignore the idiots.",
+         "\"Five Easy Pieces\" is closed to one of the best movies ever made. I never finished watching \"The King of Marvin Gardens\" (It got too ponderous and uninteresting)and \"Blood and Wine\" is no improvement. Rafelson was much better off when he didn't get influenced from other directors and just stuck to what he did best like in F.E.P., which was about genuine characters facing genuine problems. The characters in Blood and Wine are not realistic. They're a cliche. They weren't interesting enough to be sympathied with, even Stephen Dorff, who is supposed to be portrayed as the film's hero. Charmless, humorless, and overall bleak movie lacking any style or substance.",
+         "Another twist on the heist gone wrong movie. Alex (Nicholson) and Victor (Caine) plan to rob jewels from a house safe. The robbery goes off fine but Alex's wife leaves him and flees the abusive relationship with her son Jason (Dorff) accidentally taking the jewels. Alex and Victor give chase leading to a double-crossing finale of greed and deception. This is not what it appears - to compare it to the many \"heist gone wrong\" movies around now is quite unfair. Rather, this is a character driven piece where the diamonds become the signpost to the characters' true form rather than the reason d'eitre for the whole film. Nicholson plays the main character who seems OK on the surface but is paranoid, greedy, abusive and frustrated underneath. Caine is more sleazy and obviously violent, while Lopez, Dorff and Davis all play supposed innocents sucked into the crime. However the truth is that the film reveals the greed inside each of them, only Judy Davis as Nicholson's wife comes off as anyway sympathetic, but even she has a drinking problem. Lopez and Dorff display their greed gradually and their characters develop during the film to be as unpleasant as Nicholson. All the main performances are strong and the monstrous sides of their nature are easily believable. Any redemptions are tarnished with lingering greed, greed turns to suspicion turns to deception turns to murder. Human nature is an ugly thing and this element of it is played out at every level here. As a crime thriller it doesn't work as well as it could have - it is often treated as a plot driver rather than the plot itself. However the characters and performances are all strong and it is this that drives the film. Depending on whether you want a crime thriller or a character piece with big names, you'll either be disappointed or pleasantly surprised.",
+         "The team of Bob Rafelson and Jack Nicholson made two of the strongest movies of the 1970s, 'Five Easy Pieces' and 'The King Of Marvin Gardens'. It would be unrealistic to hope that 'Blood And Wine' would be as memorable as those two, and of course it isn't. But it is an excellent piece of modern film noir, one of the most underrated Hollywood movies of recent years, and the best thing Rafelson has made since the early 1980s. Nicholson is perfectly cast as a dissatisfied and greedy wine merchant who hatches a plot to steal a client's valuable necklace. He is assisted by a slimy British crook (a superb turn from Michael Caine in his best acting role in years) and his sexy young girlfriend (Jennifer Lopez, who is surprisingly good). Things get very complicated very quickly when their plan goes belly up, and Nicholson's estranged wife (Judy Davis) and his stepson (Steven Dorff) get into the picture. This is a well acted, interesting and unpredictable thriller with some real depth among the plot twists. I thoroughly enjoyed it.",
+         "I'm not sure why I haven't seen Blood and Wine from start to finish up until today, but it has always been intriguing as that one Jack Nicholson movie I would see in bits and pieces on TV, with J-Lo in an early supporting role as the not-quite femme fatale, and Michael Caine as a guy with a very bad cough. Seeing it today I'm reminded of the classic work Bob Rafelson, director, and Nicholson did back in the 70s, even if they already reached their peak on their first film, Five Easy Pieces. But at the least Blood and Wine represents a return to form for Nicholson under the director he worked with most, either as actor or writer (he co-wrote Head), especially in the F.E.P. role of a SOB, which, of course, is usually as easy for Nicholson as raising up his eyebrows. His character, Alex, is a criminal, but not a very good one, as he isn't entirely able to balance out his goals as a jewel thief and as an adulterer with Lopez's Gabriella. It doesn't help that his wife (Judy Davis) has a son from a previous marriage (Stephen Dorff), who has it in for Alex big-time. Meanwhile, that jewel necklace is almost up in the air, and all his craggy partner, Vic (Michael Caine), can do is cough a lot and act more as a dumb muscle than as a consummate professional. So in these ingredients, Rafelson and his writers have a classic, cooked-up noir with enough style by its actors and locale to make up for what would be considered 'too violent' to show back in the forties (probably too sexy too, what with Lopez's 'assets'). Rafelson knows this material needs the best cast, and assembled is the best cast for the job, where desperation, greed, proper morality and just a moment of piece of mind get shifted around but are always the constants that all these characters. Nicholson is, well, Nicholson, cold to the bone but also a great liar, violent, passionate, but won't stop till he gets his way. He's not breaking new ground or setting up himself for the usual awards circuits, but it's still very cool to see him playing Alex as believable work of sleaze, almost in the tradition of Bogart (he actually does just as good, if not better, here than he did in Rafelson's 'Postman' remake). Dorff, meanwhile, could be considered the weakest link with a cast like this, but he holds his own fairly well within his character's basic lines, especially when considering the roles he'd have to take later on. Caine is a natural at playing against \"type\", which doesn't really exist for him, and disappears into this pragmatic but vicious parolee. And actresses like Davis and Lopez fit into their roles in the \"noir\" mood with equal levels of ease. I wish I could see Lopez in more roles like this where we might not believe totally her intentions for either of the men in her life, but is not necessarily cruel like the old femme fatales either. Released, as they say, under the radar back in 96, Blood and Wine uses its Miami and Florida locales like they're still lush and lustful and engaging, and the danger here isn't diminished from what's usually expected in the urban cities and dark alleys. Rafelson's got his A-game on here with an enjoyable story where we can guess pretty much where it will lead- the wills of men tested head-to-head- but it's a lot of harsh fun getting there.",
+         "You would think the tandem of the glorious Michael Caine, the always stunning Jack Nicholson and the adorable Judy Davis would set a movie's heels on fire but \"Blood and Wine\" falls far from expectations as the sparks never start on set. All these esteemed actors give a good showing in their own right but their characters are flat and lifeless. The script seems compelled only to move the action along and nothing else. Mr. Caine, Mr. Nicholson and Ms. Davis give punctuation and try their best to put a breath of life into this lifeless film with an all too obvious plot. Stephen Dorff gives a better performance than usual (no cheers for Blade or Cecil B. Demented) but his character is far from complex, and Jennifer Lopez can't keep her faux Cuban accent up throughout the course of the film. The plot is rather generic and the suspense that the movie is trying to portray is better invoked by the musical score than the cinematic or script climax. As a saving grace the location scouting is great, really espousing the feeling of the Floridian backdrop. But that doesn't save the movie. There are as well a couple of slightly memorable stunt scenes but is not an action film. Skip this one and watch Chinatown again. And if you haven't seen that see it twice.",
+         "In Miami, Alex Gates (Jack Nicholson) is a small trader of wines, married with Suzanne (Judy Davies). He does not have a good relationship with his wife and his stepson, Jason (Stephen Dorff). Alex has a Cuban mistress, Gabriela (Jennifer Lopez). One day, he decides to steal a jewel from a rich client, in the house where Gabriela works as a nanny. Alex associates to the tuberculous small-time crook Victor Spansky (Michael Caine). A series of mistakes jeopardize the heist and the selling of the necklace. This amoral and noir movie has a magnificent cast. However, something does not work well, being just an average movie about greed. My vote is six. Title (Brazil): \"Sangue e Vinho\" (\"Blood and Wine\")",
+         "'Blood and Wine' has a sort of film noire feel to it. It reminds one of the Humphrey Bogart and Alfred Hitchcock classics. Though it's not as stylish a film Rafelson does make good use of the Florida locations. Some of the dialogues are interesting too. The element of suspense is well maintained but what really works for 'Blood and Wine' is the unusual cast. Jack Nicholson is not very different from his other films but it suits Alex Gates. Michael Caine is a knockout as the murderer with a bad cold. He's quite the scene-stealer. Judy Davis is first rate. Stephen Dorff plays holds his own. Jennifer Lopez is stunning. What is most striking is her natural beauty combined with a natural performance. She more than holds her own and brings a certain humanness and courage to an otherwise fragile Gabriella. Overall, Rafelson's is an intriguing little thriller with a fantastic cast."
+      ],
+      "genres": [
+         "Crime",
+         "Drama",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "Recorded Picture Company (RPC)",
+         "Fox Searchlight Pictures",
+         "Marmont Productions"
+      ],
+      "summaries": [
+         "Bob Rafelson has stated that this is the final part of an informal trilogy he started with \"Five Easy Pieces\" and continued with \"The King Of Marvin Gardens\". In the three, Nicholson has now played son, brother and father. In this one, Nicholson is a wealthy wine dealer who has distanced himself from his wife with his philandering and from his son with his negligence. After he steals a diamond necklace with the help of a safecracker partner, Victor, things start coming apart. His wife sets out to interrupt what she thinks is another one of his weekend dalliances, but is really his trip to pawn the jewels.",
+         "A man who has failed as a father and husband commits a heist to make money for his fledging business, but things become complicated when his wife interferes."
+      ],
+      "budget": 22000000
+   },
+   "movielensId": 1351,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1996-10-03",
+      "dvdReleaseDate": "2006-02-07",
+      "directors": ["Bob Rafelson"],
+      "runtime": 101,
+      "movieId": 1351,
+      "title": "Blood and Wine",
+      "mpaa": "",
+      "actors": [
+         "Jack Nicholson",
+         "Stephen Dorff",
+         "Jennifer Lopez",
+         "Judy Davis",
+         "Michael Caine",
+         "Harold Perrineau",
+         "Robyn Peterson",
+         "Mike Starr"
+      ],
+      "imdbMovieId": "0115710",
+      "originalTitle": "Blood and Wine",
+      "genres": [
+         "Crime",
+         "Drama",
+         "Thriller"
+      ],
+      "youtubeTrailerIds": [
+         "bVfNwv-vBlk",
+         "4EYz-SCVgpQ"
+      ],
+      "plotSummary": "A man who has failed as a father and husband commits a heist to make money for his fledging business, but things become complicated when his wife interferes.",
+      "tmdbMovieId": 31640,
+      "avgRating": 3.02398,
+      "releaseYear": "1996",
+      "numRatings": 417,
+      "posterPath": "/q8vjqmz3CTRyFlG5zKQNER67BTI.jpg"
+   }
+}

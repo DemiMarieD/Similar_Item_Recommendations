@@ -1,0 +1,488 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "subway",
+            "id": 1552
+         },
+         {
+            "name": "lava",
+            "id": 2859
+         },
+         {
+            "name": "volcano",
+            "id": 3347
+         },
+         {
+            "name": "volcanologist",
+            "id": 7051
+         },
+         {
+            "name": "los angeles",
+            "id": 12670
+         }
+      ],
+      "imdb_id": "tt0120461",
+      "video": false,
+      "title": "Volcano",
+      "recommendations": [
+         9619,
+         11228,
+         664,
+         2320,
+         9208,
+         8656,
+         11808,
+         9884,
+         6950,
+         9350,
+         1639,
+         8845,
+         9268,
+         3595,
+         12123,
+         9349,
+         9772,
+         2636,
+         6623,
+         9946
+      ],
+      "backdrop_path": "/yYNfVE2GlIjFJRCIAgIsiaSUWnb.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 10,
+               "character": "Mike Roark",
+               "gender": 2,
+               "credit_id": "52fe435f9251416c7500de03",
+               "name": "Tommy Lee Jones",
+               "profile_path": "/gRXugLFvr1oHZ6alLUxmYDq8cgW.jpg",
+               "id": 2176,
+               "order": 0
+            },
+            {
+               "cast_id": 11,
+               "character": "Dr. Amy Barnes",
+               "gender": 1,
+               "credit_id": "52fe435f9251416c7500de07",
+               "name": "Anne Heche",
+               "profile_path": "/aXMySUgcAJ09dq0oD0qY1mcsr1c.jpg",
+               "id": 8256,
+               "order": 1
+            },
+            {
+               "cast_id": 12,
+               "character": "Kelly Roark",
+               "gender": 1,
+               "credit_id": "52fe435f9251416c7500de0b",
+               "name": "Gaby Hoffmann",
+               "profile_path": "/zg7FTMjtdWmyg8b4o5DXEZNC5uv.jpg",
+               "id": 12930,
+               "order": 2
+            },
+            {
+               "cast_id": 13,
+               "character": "Emmit Reese",
+               "gender": 2,
+               "credit_id": "52fe435f9251416c7500de0f",
+               "name": "Don Cheadle",
+               "profile_path": "/b1EVJWdFn7a75qVYJgwO87W2TJU.jpg",
+               "id": 1896,
+               "order": 3
+            },
+            {
+               "cast_id": 14,
+               "character": "Medic",
+               "gender": 0,
+               "credit_id": "52fe435f9251416c7500de13",
+               "name": "Joshua Fardon",
+               "profile_path": null,
+               "id": 197872,
+               "order": 4
+            },
+            {
+               "cast_id": 15,
+               "character": "Dr. Jaye Calder",
+               "gender": 1,
+               "credit_id": "52fe435f9251416c7500de17",
+               "name": "Jacqueline Kim",
+               "profile_path": "/3xvzDHNIKnkdK5YU6raXdkjqWBJ.jpg",
+               "id": 56485,
+               "order": 5
+            },
+            {
+               "cast_id": 16,
+               "character": "Police Lieutenant Ed Fox",
+               "gender": 2,
+               "credit_id": "52fe43609251416c7500de1b",
+               "name": "Keith David",
+               "profile_path": "/nwAC9TgwRkj0Ritq93O8GeublyL.jpg",
+               "id": 65827,
+               "order": 6
+            },
+            {
+               "cast_id": 17,
+               "character": "Norman Calder",
+               "gender": 2,
+               "credit_id": "52fe43609251416c7500de1f",
+               "name": "John Corbett",
+               "profile_path": "/r66d7CFycEOwzFnRlAgv5HX8r1R.jpg",
+               "id": 38405,
+               "order": 7
+            },
+            {
+               "cast_id": 18,
+               "character": "Gator Harris",
+               "gender": 2,
+               "credit_id": "52fe43609251416c7500de23",
+               "name": "Michael Rispoli",
+               "profile_path": "/mRS7DAXhuLu8Z7PAlicm6kP0EZz.jpg",
+               "id": 18313,
+               "order": 8
+            },
+            {
+               "cast_id": 19,
+               "character": "Stan Olber",
+               "gender": 2,
+               "credit_id": "52fe43609251416c7500de27",
+               "name": "John Carroll Lynch",
+               "profile_path": "/5eEGOANKnCCj7FLa3oV28gGYWkW.jpg",
+               "id": 3911,
+               "order": 9
+            },
+            {
+               "cast_id": 20,
+               "character": "Kevin",
+               "gender": 2,
+               "credit_id": "52fe43609251416c7500de2b",
+               "name": "Marcello Thedford",
+               "profile_path": "/bQ0SiPk133uSU4aYIkSYQldmqFU.jpg",
+               "id": 59300,
+               "order": 10
+            },
+            {
+               "cast_id": 21,
+               "character": "L.A. Fire Chief",
+               "gender": 2,
+               "credit_id": "52fe43609251416c7500de2f",
+               "name": "Bert Kramer",
+               "profile_path": null,
+               "id": 152339,
+               "order": 11
+            },
+            {
+               "cast_id": 22,
+               "character": "Bud McVie",
+               "gender": 2,
+               "credit_id": "52fe43609251416c7500de33",
+               "name": "Bo Eason",
+               "profile_path": null,
+               "id": 158012,
+               "order": 12
+            },
+            {
+               "cast_id": 23,
+               "character": "Terry Jasper",
+               "gender": 0,
+               "credit_id": "52fe43609251416c7500de37",
+               "name": "James MacDonald",
+               "profile_path": "/1Ktzfgvq7wdTbavMC594rKYvx7R.jpg",
+               "id": 1188456,
+               "order": 13
+            },
+            {
+               "cast_id": 24,
+               "character": "Roger Lapher",
+               "gender": 2,
+               "credit_id": "52fe43609251416c7500de3b",
+               "name": "Dayton Callie",
+               "profile_path": "/juvG2DUtPizorLbf1c6lbNZeT0u.jpg",
+               "id": 87108,
+               "order": 14
+            },
+            {
+               "cast_id": 25,
+               "character": "O.E.M. Staffer #5",
+               "gender": 0,
+               "credit_id": "53fc68430e0a267a6c00a79d",
+               "name": "Phil Nee",
+               "profile_path": "/pZGJkVIw1RFmZuNiUzRQGupqMzW.jpg",
+               "id": 1357100,
+               "order": 15
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe435f9251416c7500ddcf",
+               "name": "Mick Jackson",
+               "profile_path": "/eZKzRhgiX0fTNz6twzIOeaLMOJB.jpg",
+               "id": 8843,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe435f9251416c7500ddd5",
+               "name": "Jerome Armstrong",
+               "profile_path": null,
+               "id": 64893,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe435f9251416c7500dddb",
+               "name": "Billy Ray",
+               "profile_path": "/c607NMZCDpKlsJVuGUaD9wvglUk.jpg",
+               "id": 21807,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe435f9251416c7500dde1",
+               "name": "Andrew Z. Davis",
+               "profile_path": null,
+               "id": 57864,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe435f9251416c7500dde7",
+               "name": "Neal H. Moritz",
+               "profile_path": "/cNcsEYmoS4niCz3UkVAA09dUIob.jpg",
+               "id": 11874,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe435f9251416c7500dded",
+               "name": "Alan Silvestri",
+               "profile_path": "/chEsfnDEtRmv1bfOaNAoVEzhCc6.jpg",
+               "id": 37,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe435f9251416c7500ddf3",
+               "name": "Theo van de Sande",
+               "profile_path": null,
+               "id": 10815,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe435f9251416c7500ddf9",
+               "name": "Don Brochu",
+               "profile_path": null,
+               "id": 58208,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe435f9251416c7500ddff",
+               "name": "Michael Tronick",
+               "profile_path": null,
+               "id": 908,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5675e69092514179e10039a3",
+               "name": "Jack Keller",
+               "profile_path": null,
+               "id": 1551320,
+               "department": "Crew",
+               "job": "Sound Recordist"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Science Fiction",
+            "id": 878
+         },
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         }
+      ],
+      "popularity": 10.995942,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 10357,
+      "vote_count": 477,
+      "budget": 90000000,
+      "overview": "An earthquake shatters a peaceful Los Angeles morning and opens a fissure deep into the earth, causing lava to start bubbling up. As a volcano begins forming in the La Brea Tar Pits, the director of the city's emergency management service, Mike Roark, working with geologist Amy Barnes, must then use every resource in the city to try and stop the volcano from consuming Los Angeles.",
+      "similar": [
+         9619,
+         294562,
+         9654,
+         941,
+         9348,
+         10216,
+         96,
+         90,
+         27205,
+         1813,
+         605,
+         1018,
+         1089,
+         218,
+         534,
+         78,
+         667,
+         942,
+         949,
+         754
+      ],
+      "original_title": "Volcano",
+      "runtime": 104,
+      "poster_path": "/zFxrGOiOddg3iVfAhGrBsIzUp3M.jpg",
+      "spoken_languages": [
+         {
+            "name": "Deutsch",
+            "iso_639_1": "de"
+         },
+         {
+            "name": "Español",
+            "iso_639_1": "es"
+         },
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         }
+      ],
+      "production_companies": [{
+         "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+         "name": "20th Century Fox",
+         "id": 25,
+         "origin_country": "US"
+      }],
+      "release_date": "1997-04-25",
+      "vote_average": 5.3,
+      "belongs_to_collection": null,
+      "tagline": "The coast is toast",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Mick Jackson"],
+      "runtime": 104,
+      "synopsis": null,
+      "writers": [
+         "Jerome Armstrong",
+         "Jerome Armstrong"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0120461/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTc1ODAxMTk5NV5BMl5BanBnXkFtZTYwNjU2ODA5._V1_SY317_CR2,0,214,317_AL_.jpg",
+      "actors": ["Stars: Tommy Lee Jones, Anne Heche, Gaby Hoffmann | See full cast and crew »"],
+      "reviews": [
+         "As a Big Budget movie, I'm sure that \"Volcano\" took more than a few months to make. Too bad someone associated with the movie didn't take that time to wander into the local library (the children's section, perhaps), and check out a book on \"Volcanoes\". I've seen Saturday-morning cartoons that have a better understanding of lava. Instead we get many scenes of outright stupidity that would challenge even the densest of viewers. In one scene, Tommy Lee Jones and an assistant are standing near a volcanic vent, and their protective suits start to melt (of course skin is stronger than a protective suit, so they escape unharmed). But in numerous later scenes, people walk by lava like you might walk past a lake. Maybe this is because no one seems to know it's lava. I lost count of how many times a character said something like \"What is that stuff?\" or \"There's something really hot and glowing coming down the street, and things are melting into it. Wonder what it could be?\" In what has to be one of the worst scenes ever filmed, two characters load an injured man onto the outstretched ladder of a hook & ladder truck. Then they hang onto a dangling fire hose as the ladder is lifted above the lava. The heat is so intense that the fire hose SPONTANEOUSLY COMBUSTS, but our characters are unhurt (their boots smoke a little). I didn't know that fire hoses were so flammable... But \"Volcano\"is not just a dumb disaster flick with bad science. No! It's also a Socially-Important Commentary on our Society Movie! Throughout the film there are numerous \"social messages\". These are so corny and contrived that they could only have been written by people who have never actually experienced them. A racist cop tries to arrest a guy for assault (in the middle of a disaster scene!), but then the two team up to help save the day. Aww. Later, a little kid notes that \"everybody looks the same\" when covered by ash and soot. Aww. America's racial troubles could be ended, if only a giant volcano threatened us all. More? Oh sure, there's more! Tommy Lee Jones is the too-hard-working dad who comes to value his daughter. Said daughter is a selfish brat who learns some responsibility, and respect for her dad. There's a guy whose only role in the movie is to say obviously insulting things. This makes him the \"bad guy\". One can see the writers of this movie hammering his role out: \"We need someone who's rich and yuppie-like and snooty. Someone like us, only not as enlightened. Someone who wouldn't make a Socially-Important Commentary on our Society Movie like we are!\" Of course, bad things happen to him and all is right with the world. In the end, the mysterious, glowing, sometimes-hot substance we come to know as \"lava\" is channeled into the sea, and all of LA lives happily ever after in a just and fair world. A world, of course, with a big smoking volcano plopped down into the middle of it. Certainly that won't affect the real estate values? The lessons of this movie are quite clear. 1) lava is harmless if you don't touch it; 2) small children will inevitably wander into incredible harm (but emerge OK), and 3) only through the trauma of sudden volcanic activity will we come to appreciate the true Brotherhood of Man. Whoever thought up this movie should be thrown into a volcano...",
+         "Watching Mick Jackson's disaster flick, in which the eponymous natural disaster wreaks havoc throughout Los Angeles, is like watching a 3 a.m. infomercial. It's such silly, mindless fluff, yet there's just something about it that keeps your eyes glued to the screen. \"Volcano\" is admittedly well-cast and acted, despite a dreadful script and a plot whose summary could fit on a matchbook. Tommy Lee Jones, who would give 110% making a McDonald's commercial, stars as Mike Roark, the hard-boiled head of the Office of Emergency Management, where he is assisted by his sidekick Emmit (Don Cheadle). After initially pooh-poohing the thought of a volcano in L.A. from geologist Amy Barnes (Anne Heche, who constantly ends her lines with a four-letter word like a period after a sentence), it's only a matter of time before he is proved wrong before his very eyes. Other solid performances come from Jacqueline Kim (Dr. Calder), John Carroll Lynch (Stan, the oft-maligned subway boss), and Keith David, a great actor who is otherwise wasted here in a role as a police lieutenant who has no impact on any events in the film, which is halfway over before he even appears on screen for the first time. However, there's the small problem of having something resembling a good story to go with the awesome visuals, which are indeed spectacular. But forget the volcano; Jerome Armstrong's script poses the greatest threat to the characters. To put it mildly, it's the biggest piece of cliché-ridden muck to come along in awhile, laden with plot holes, smarmy sentimentality (the offender here being a dog rescue scene near the beginning) and heroics, forced we-are-all-brothers morals, and implausibilities. Yes, this film is rooted far from reality, but it should make a little sense along the way. Working at the OEM must be the cushiest job in the world, for all the employees do throughout the picture is holler at each other and stare blankly at computer monitors. (And why do they continuously show news broadcasts on their big screen? Is that where their disaster briefings come from?) Mike's sullen daughter (Gaby Hoffmann, in a thankless role in the tradition of \"True Lies\" and \"Face/Off\"), due to her own incompetence, is suddenly thrust into peril and is thus separated from her father, a subplot that helps build up what turns out to be one great big joke of an ending. Describing it here can't do it justice. (After being taken to the hospital in Dr. Calder's Land Rover to receive treatment for a second-degree burn on her right leg, she is seen some time later with a bloody scab on her left cheek as she talks to Mike on the phone. And you thought your HMO was rough.) Plus, I seriously doubt that someone who jumps right into a pool of hot lava would slowly melt like a snowman in Miami while he screams and tosses the body of a man nearly twice his size to safety from a burning subway train. Then there's the wonderful family-oriented scene of two firemen burned alive in their overturned truck. And, lest we forget that \"Volcano\" takes place in L.A., there's the obligatory racist-cop episode in which a black man asking the fire chief to help his neighborhood is suddenly handcuffed out of nowhere by an officer for \"harassing\" him, a tacky scene complete with (groan) references to Rodney King and Mark Fuhrman. (The whole time he's cuffed, the black man makes carefree wisecracks to the officers all while his 'hood is burning to cinders.) But, of course, everything's eventually resolved. \"You're a good man,\" the other cop praises his partner after the latter grudgingly dispatches fire trucks to the black man's neighborhood, as if he has performed some immense display of generosity. In another lovely homage to L.A., there's also a looting scene, where extras run incredibly slow while carrying empty boxes. And what in the world was with the constant barrage of news reporters? Did we really need someone reporting \"The house behind me has just exploded into flames...all hell is breaking loose!\" while people were running for their lives all around her? As the volcano explodes out of the La Brea Tar Pits and lava is running onto the street, it's from a reporter describing this sight from where we hear one of the worst lines in the film: \"It's as if the tar had caught fire, melted and somehow expanded.\" Hey, McFly, if tar is already a liquid to begin with, then how in the world can it melt? When an army of helicopters drops gallons of water on the lava blocked off on Wilshire, the reporters and camera crews, who are camped right up against the concrete barriers, manage to stay conveniently dry the entire time. Despite a high body count, scores of injured civilians and billions of dollars in damages, everybody's smiling as soon as a rainfall ensues, like those 7up commercials circa 1986. (\"Feels so good comin' down!\" Remember that?) Lots of questions are left unanswered: How will they clean up and repair everything? Will a future eruption occur soon? Will the Cubs win the World Series? Yet for all its pretentiousness and gaping flaws, I have to admit that \"Volcano\" was entertaining. It's a load of escapist camp that doesn't have a care in the world. And I do have to give credit where it's due; somehow the filmmakers managed to keep slow-moving lava exciting for 104 minutes. Plus, you can't help but get a kick out of a disaster film that includes the line \"This city's finally paying for its arrogance,\" and finds the time to include a Bible quotation. 7/10",
+         "Despite a history of major geological events in the area, nobody really suspects anything when a handful of pipe engineers die from intense burns while underground. Investigating the accident, OEM chief Mike Roark almost gets killed himself when an underground fissure throws up intense heat and flame. Expert Dr Amy Barnes believes that magma may be coming up to the surface of the earth and causing the events but, would you believe it, nobody buys it. Nobody that is, until the tar pits overflow and start to pour lava onto the streets, destroying everything in its path. With Roark convinced and Barnes wishing she had been wrong, the race is on to protect the city. Better known as 'that other volcano movie of 1997', this film gets out the disaster movie handbook and follows it step by step. So we have a manly and practical hero, an expert, children and pets in peril, human conflict, sacrifice, special effects, 'bad' politicians etc etc. So far so formula, and so it all continues. The basic set up does the usual things by setting up the most basic of characters for us to use as a focus before then just letting the lava go and relying on special effects to do the rest. The need to turn the drama into a specific story around Roark means that it occasionally forces him and his into unlikely dangerous positions that require them to be inches away from the action; this is not convincing and at times just feels like overkill, sucking any real tension out of the film. Without much real excitement the film just piles on the special effects and, unfortunately, these look dated with some poor back projection failing to really cut the mustard. The film soldiers on, unsure of how it can keep raising the stakes while remaining plausible (it doesn't!) and it will satisfy those just looking for a noisy disaster movie but no more than the clichés that those produce. The script has a few digs at LA (the news reporting, the pet obsession etc) but these don't amount to much but it works much better than the rather sickening attempts at racial commenting in the final few scenes ('everyone looks the same' \u0096 ugh!). The cast try hard to convince us that they are real people in real danger but even the talent involved cannot do much more than put on grim faces and soldier on. Jones is a good lead because he has a solid presence, but even he cannot make it exciting when he is placed within inches of anything falling/burning/exploding. Heche simply fits into the 'I hate it when I'm right' expert without really bringing more than competence to the role, while Hoffmann simply tries to find trouble to get into anytime the film dips. Cheadle is good support but minor subplots featuring the likes of David, Corbett and Rispoli only serve to highlight that the film cannot even manage to do the disaster movie stable of having each character have a background to make us care. Overall this is an average disaster movie at best and, as such, will only really play well to those that like that sort of thing. The script is weak and cannot wait until the lava flows but even then struggles to make it exciting, throwing specific near misses at us again and again to keep us interesting. The cast have nothing to work with and make little impression but viewers may find this has just enough going for it to make it watchable if totally forgettable.",
+         "*SPOILER ALERT* *SPOILER ALERT* The most important thing to know about \"Volcano\" is that there is no Volcano. Lava bubbles up from the La Brea Tar Pits and sludges through L.A. So a more apt title would have been \"Lava\". Or perhaps \"Lava Flow\". Or how about \"It's like Lava!\". Where oh where did my Volcano go? Oh where, oh where can it be? It must be stuck in a different movie. Anyway, \"Volcano\", (Lying title!), is a disaster flick. It's a very mainstream, cheese-o-rama, disaster flick. It's the kind of flick where people do noble things and your eyes are supposed to water up with emotion. Oh, they'll be watering up all right. You'll be laughing your head off so much that the tears will fall. One scene stands out: A guy tries to save the passengers on a subway train from the slowest moving lava in the world. So he jumps on board and starts taking people out. In his final act of selfless courage, he carries the last person out as he slowly melts into the lava! I don't know about you, but if lava was burning my legs to the bone, I think I'd be howling in agony. I sure wouldn't be able to keep a straight face like this guy, nor could I carry anything, let alone a person, to safety. The whole movie is like that. It's about people caring about other people. A preposterous disaster will unite us at last! Sniff, sniff. A little girl at the end of the movie notices everybody covered in black soot and remarks that they all look the same. Can't you see the message? We're all the same! Humans must help other humans! Especially when Hollywood concocts an asinine disaster flick! Save me!",
+         "BAD NEWS - Unlikeable female lead in Anne Hesch, who had too foul a mouth for me. Other irritating characters with stupid dialog. A predictable ending with the needlessly drawn out save-the-daughter scene trying for maximum suspense. GOOD NEWS - Some awesome disaster scenes. Hollywood's special-effects just keep getting more awesome as the years go on. A fast-moving story that was just about the right length. A likable lead character played by Tommy Lee Jones. Overall, a movie that keeps your attention but doesn't get your respect with the dumb dialog.",
+         "I'm not going to pretend that this movie is realistic. It isn't. But if you want to just sit down and watch a film with action, drama and entertaining characters, then this is the film for you. Most disaster films are unrealistic, have no science behind them and if you think about them too much just get worse and worse. This movie is no exception. However, it is still a brilliant film if you want to sit down and not think too hard, or if you want to put a movie on without having to give it your full concentration. Personally, I think this film is great. There are better films out there, including better disaster films, but there are so many films that are ten times worse yet get better reviews. That's probably because they have better actors or are more realistic - but the job of a movie is to entertain, and this film does that brilliantly.",
+         "'Volcano' is a B-movie at best, and at worst is more of a disaster that what it's supposed to be depicting. To be fair, you have to be prepared in any movie to suspend disbelief for one major concept. 'Volcano' asks you to suspend disbelief in science, human interaction, and common sense. Tommy Lee Jones gets to be the studly-yet-1990s-sensitive head honcho of the Office of Emergency Management, and he's fine when he's not stuck with the stupid dialogue the script provides. However, Anne Heche gives a howlingly bad performance as a smart-ass geologist who becomes Roark's love interest (while the city is burning down, natch). Gaby Hoffman goes from Field of Dreams and American President to a turn as a whimpering, needy, and victim-for-life daughter of Jones. Don Cheadle gets to sit in a really coooool office and take Jones's phone calls, doing the job that in reality Roark would and should be doing. Anyway, the movie really starts going downhill when Heche's geology partner gets sucked into a lava vent while they're breaking into the subway lines. It picks up speed when Jones starts suggesting that they use buses to dam the flow of the lava flowing down the street, Heche's geologist (who loves to lecture everyone about The Science Of Geology) being apparently oblivious to the fact that lava is hot and it melts metal, and rock, and a dead bus is unlikely to have much effect. It really starts to suck when the film introduces Rodney King-like racial tension between two bad actors dressed as cops and an angry black man who can't understand why the fire department is busy with this large river of flowing lava. But hey, in the end, the three of them will be working together to build a K-rail dam to stop the lava from eating up his neighborhood, even though the dam is built in the wrong direction and the material used wouldn't stop lava anyway. Besides, K-rails are hardly watertight, but I guess lava wouldn't think to poke its head through the gaps, not when Tommy Lee Jones is glaring at it. Don't even get me started on the stranded-subway-car subplot, where a tunnelful of hot lava is coming down but oddly enough, it's not too hot to attempt a rescue, it's not too smoky to see, and there aren't any poisonous gases so everyone can breathe. This must be LA Lava, or Lava Lite. You know, it eats cars but is eco-friendly. There are moments of sheer camp here that almost make you wonder if this was meant to be a comedy. For instance, the two security guards packing up Hieronymus Bosch paintings have a completely meaningless and farcical conversation about weight, and at the end, no sooner does the little boy Roark/Jones rescued note that everyone looks the same while covered in ash, than a rainstorm breaks out and cleans everyone up -- and then the sun comes out and Heche says something along the lines of, \"aw, shucks, Roark\". 'Volcano' almost achieves Battlefield Earth status, but except for Heche no one approaches Travolta-like badness and the technical aspects are handled pretty well. If you are from the LA area as I am, it's kind of funny to think of a lava flow wiping out Wilshire Boulevard. I gave it a three for the effects and the little amount of tension you get from this.",
+         "Although this movie (and I use the term loosely) was made in 1997, we just watched it tonight for the first time. My husband commented that a Tommy Lee Jones movie that we'd never heard of made him a little apprehensive. I blithely watched anyway, certain that if Jones was in the movie, it must at least be worth two hours of my time. After all, he has been one of our go-to actors for years. Although Heche isn't one of my favorite actresses, I was additionally reassured by seeing another well-known face. The list of accomplished actors/actresses continued to grow, so I endured more and more of this film, certain that if I pushed through enough clichés and trite social statements, I would arrive victorious on the other side of the plot. Alas, there was no plot. It appeared to be burned by the ever-oozing lava of doom. The characters were paper-thin. The plot was so chock full of holes that it literally distracted me from most of the special effects and acting in the movie. Was the fee for a brief consultation with an elementary science teacher too much for this film's budget? No acid rain...no toxic gasses (like sulfur or hydrochloride)...no deadly ash...no skin-searing heat just a few feet from the lava. Wow...it's the world's friendliest lava ever! The events were no better than the characters. Each incident was so contrived and far-fetched...it's like the writers said \"Okay, we need to get rid of the little girl NOW\"...and poof, she's splashed by a lava bomb which burns her enough that she has to be carried to safety (not from the lava, but from her own helpless stupor)...but just moments later in the car she is in no apparent pain and soon after is running effortlessly through the (groan!) building that (oh no!) is about to be blown up. After enduring all of this, your reward is the line from the little boy at the end (about all the people looking the same)...which has got to be one of the worst movie lines I have ever heard. Even if it wasn't so painfully scripted, it was ridiculous timing for all the characters involved. Kid and cop aside, as if the mother would still be in the area and just needs to be pointed out because she just isn't speaking up...what...she's hoping to slink off into the shadows and get away from the little brat once and for all? I don't think so. Obviously the child's mother would be missing or dead - or yelling her head off to find her toddler. The token black gangsta tough hoodlum with a secret soft spot versus the chip on his shoulder narrow minded cracker cop with a secret soft spot scene made my eyes bleed. Even if such pat characters existed, they wouldn't behave as the movie portrays them given the circumstances. Something about imminent fiery death and massive destruction tends to catch people off-guard, ya know? There are too many canned movie moments like these to mention...really, it's just an embarrassing movie to watch. Those poor writers...where are they now?",
+         "I find it's impossible to write a review of a Mick Jackson movie without pointing out that in 1984 he shocked the nation of Britain with his nuclear holocaust docu-drama THREADS . Anyone who saw that on its BBC broadcast will never forget the grim , bleak , depressing and powerful depiction of the end of humanity . Seeing as THREADS was set in the Yorkshire town of Sheffield and filmed on a budget of what appeared to be three dollars fifty cents you'd think he'd use some of his unquestionable talent and VOLCANO's $90 million budget to make a convincing scenario of a city devastated by events beyond its control But Jackson has been there , done that , bought the T-Shirt and written his name in broadcasting history with THREADS and the last thing he wants is to make another grim shocker where millions of city dwellers die . Picking the dumbest script imaginable Jackson has decided he's going to enjoy himself this time and filmed the complete opposite to his nuclear holocaust horror show . Remember in THREADS a myriad of scientific advisers were used ? It goes without saying that no scientific bodies were consulted in the making of VOLCANO . Mind you this may actually work in the context of the story since the characters are so dumb , there is a logic to having a bunch of underground workers being burned to death and no one saying \" Hey these men were killed by lava . If we don't evacuate the city millions of people are going to be burned alive by a volcanic eruption \" Remember in THREADS after the bomb drops its everyman for himself ? That was probably the most terrifying thing about the docu-drama , of having your throat cut for your meager supplies of food . But not here where the guardians of law and order are not only noble enforcers of justice throughout the movie but also make sure no one is discriminated on the grounds of race and culture . You've also got the feeling that if looters existed in this movie they wouldn't be shot but given a place on a counseling program There's also a similar aspect to the above . In THREADS people are left in the rubble to die since it's not practical to save them . Here the laws of physics have been changed so that if anyone is trapped under a burning truck a passer by can magically lift up the truck with one hand thereby rescuing the injured party . There's even a scene of self sacrifice that has to be seen to be believed , not that the scene was in any way believable to start with The English speaking world are obsessed with their pets and Jackson used this to harrowing effect in THREADS . We saw family pets suffocating in firestorms . If you didn't feel sorry for the human beings killed you'd feel sorry for the poor animals . In VOLCANO we're treated to several scenes of pets in peril being rescued . I'm not sure how many people die on screen but I'm certain not one single type of mammal dies on screen apart from homo sapiens I don't believe for one moment that Mick Jackson's contrast between this and THREADS is coincidental - It's done entirely on purpose with the only connection being a scene of irony . In THREADS this takes the form of characters standing in front of a billboard advertising life insurance while in VOLCANO a character reads a book on writing screenplays . You won't need life insurance when the bomb drops while VOLCANO shows being able to read a book on screenplays doesn't mean you're capable of writing one Unfortunately VOLCANO flopped at the box office and only made half its production costs in American cinemas which effectively ended Mick Jackson's successful Hollywood career which is shameful . I don't know about you but anyone who can direct two pieces of totally contrasting work is a literal genius in my opinion",
+         "Head of Los Angeles Emergency Operations Mike Roark (Tommy Lee Jones) and plucky seismologist Dr. Amy Barnes (Anne Heche) find themselves dealing with a crisis of monumental proportions when Los Angeles is suddenly threatened by an erupting volcano! While I have serious doubts with regards to the legitimacy of a lot of what's presented on screen, that's also true of most disaster films and make no mistake, that is what this is... a 1990s attempt at updating the classic 1970s style disaster B-movie. It has the usual disaster movie focus of looking at the crisis from the point of view of several key, barely fleshed out aside from our leads, characters. It is a little slow getting started but once the lava flows, I have to admit I just sat back, grabbed some popcorn and had fun watching this one. Where this movie best succeeds is in its portrayal of human courage in the face of impending doom and disaster, my favorite scenes being the hurried rescue aboard the stranded subway train, Roark running in front of a falling building in an effort to save his only daughter and Dr. Calder trying valiantly to save lives in the middle of a busy street. Where it falters is in its attempt to say something about race relations, those scenes proving absolutely groan inducing. Plus it offers very little truly new and surprising, very little we haven't seen in movies of this type before, but at the end of the night, I have to admit it held my interest as a fun, popcorn movie."
+      ],
+      "genres": [
+         "Action",
+         "Drama",
+         "Sci-Fi",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "Twentieth Century Fox Film Corporation",
+         "Donner/Shuler-Donner Productions",
+         "Moritz Original"
+      ],
+      "summaries": [
+         "Something unspeakably chilling is ultimately starting to heat up at The City of Los Angeles! Beneath the famed La Brea Tar Pits, a raging volcano has formed, raining a storm of deadly fire bombs and an endless tide of white-hot lava upon the stunned city!",
+         "In the city of Los Angeles, it is nice quiet and routine. Until an earthquake occurred. The director of the city's emergency management, Michael Roark believes that something is big is about to happen, so he finds a geologist named Amy Barnes to help him investigate. What they will realize that the earthquake is a sign of a volcano forming in the city. The volcano formed at the La Brea Tarpits. Now Roark has to use every resource in the city to stop the volcano from consuming Los Angeles.",
+         "After a seemingly minor earthquake one night in Los Angeles, a giant burst of lava is released from the La Brea Tar Pits, resulting in the birth of a new volcano under the city. City officials are reluctant to believe scientists who notice the early warning signs (the temperature of a lake rises 6 degrees in 12 hours) but they learn their lesson when lava begins to spill out into the streets and to destroy buildings and cars. Dedicated Emergency Management director Mike Roark rushes to the rescue, with help from a plucky seismologist.",
+         "A volcano erupts in downtown L.A., threatening to destroy the city."
+      ],
+      "budget": 90000000
+   },
+   "movielensId": 1515,
+   "movielens": {
+      "languages": [
+         "Deutsch",
+         "Español",
+         "English"
+      ],
+      "releaseDate": "1997-04-25",
+      "dvdReleaseDate": "1999-03-09",
+      "directors": ["Mick Jackson"],
+      "runtime": 104,
+      "movieId": 1515,
+      "title": "Volcano",
+      "mpaa": "PG-13",
+      "actors": [
+         "Tommy Lee Jones",
+         "Anne Heche",
+         "Gaby Hoffmann",
+         "Don Cheadle",
+         "Joshua Fardon",
+         "Jacqueline Kim",
+         "Keith David",
+         "John Corbett",
+         "Michael Rispoli",
+         "John Carroll Lynch",
+         "Marcello Thedford",
+         "Bert Kramer",
+         "Bo Eason",
+         "James MacDonald",
+         "Dayton Callie",
+         "Phil Nee"
+      ],
+      "imdbMovieId": "0120461",
+      "originalTitle": "Volcano",
+      "genres": [
+         "Science Fiction",
+         "Action",
+         "Drama",
+         "Thriller"
+      ],
+      "youtubeTrailerIds": [
+         "67oe0_s9EIw",
+         "HcT_Y5fmyuI",
+         "M320q7FEjQY"
+      ],
+      "plotSummary": "An earthquake shatters a peaceful Los Angeles morning and opens a fissure deep into the earth, causing lava to start bubbling up. As a volcano begins forming in the La Brea Tar Pits, the director of the city's emergency management service, Mike Roark, working with geologist Amy Barnes, must then use every resource in the city to try and stop the volcano from consuming Los Angeles.",
+      "tmdbMovieId": 10357,
+      "avgRating": 2.68986,
+      "releaseYear": "1997",
+      "numRatings": 4585,
+      "posterPath": "/zFxrGOiOddg3iVfAhGrBsIzUp3M.jpg"
+   }
+}

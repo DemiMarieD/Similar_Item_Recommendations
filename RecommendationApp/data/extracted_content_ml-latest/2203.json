@@ -1,0 +1,787 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "california",
+            "id": 387
+         },
+         {
+            "name": "detective",
+            "id": 703
+         },
+         {
+            "name": "bank",
+            "id": 974
+         },
+         {
+            "name": "telegram",
+            "id": 2285
+         },
+         {
+            "name": "suspect",
+            "id": 3879
+         },
+         {
+            "name": "widow",
+            "id": 4129
+         },
+         {
+            "name": "murder",
+            "id": 9826
+         },
+         {
+            "name": "murderer",
+            "id": 13112
+         },
+         {
+            "name": "visit",
+            "id": 33364
+         },
+         {
+            "name": "film noir",
+            "id": 195402
+         }
+      ],
+      "imdb_id": "tt0036342",
+      "video": false,
+      "title": "Shadow of a Doubt",
+      "recommendations": [
+         940,
+         845,
+         260,
+         1939,
+         31997,
+         574,
+         303,
+         93,
+         223,
+         573,
+         11462,
+         22527,
+         678,
+         910,
+         4174,
+         11219,
+         1480,
+         1580,
+         11898,
+         981
+      ],
+      "backdrop_path": "/tR1RXbnkSvZq0sgx0Gyh3GmgYoB.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Charlotte 'Charlie' Newton",
+               "gender": 1,
+               "credit_id": "52fe4424c3a368484e011f5d",
+               "name": "Teresa Wright",
+               "profile_path": "/1J7IOy7S8krsTK22agsFLm2dYXU.jpg",
+               "id": 7663,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Uncle Charlie Oakley",
+               "gender": 2,
+               "credit_id": "52fe4424c3a368484e011f61",
+               "name": "Joseph Cotten",
+               "profile_path": "/bTUTrTnzacCQV4F0rs1xH4QaETf.jpg",
+               "id": 7664,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Jack Graham",
+               "gender": 2,
+               "credit_id": "52fe4424c3a368484e011f65",
+               "name": "Macdonald Carey",
+               "profile_path": "/wjf0dpWlw6N9wVOvvkEJLUAWtY4.jpg",
+               "id": 7665,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Joseph Newton",
+               "gender": 2,
+               "credit_id": "52fe4424c3a368484e011f69",
+               "name": "Henry Travers",
+               "profile_path": "/sPXzaEdlwpF5bcLRPEbfY5b12fk.jpg",
+               "id": 7666,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Emma Newton",
+               "gender": 1,
+               "credit_id": "52fe4424c3a368484e011f6d",
+               "name": "Patricia Collinge",
+               "profile_path": "/2pvZNhW2qWhUgfQ7oiZDEFS4R7s.jpg",
+               "id": 7667,
+               "order": 4
+            },
+            {
+               "cast_id": 6,
+               "character": "Herbie Hawkins",
+               "gender": 2,
+               "credit_id": "52fe4424c3a368484e011f71",
+               "name": "Hume Cronyn",
+               "profile_path": "/zcEvBQlYHT8QzfTe7YIGHsjz0oY.jpg",
+               "id": 7668,
+               "order": 5
+            },
+            {
+               "cast_id": 7,
+               "character": "Fred Saunders",
+               "gender": 2,
+               "credit_id": "52fe4424c3a368484e011f75",
+               "name": "Wallace Ford",
+               "profile_path": "/nfXCJAU3ddSn2K6SjwxXt2h1yQU.jpg",
+               "id": 35849,
+               "order": 6
+            },
+            {
+               "cast_id": 8,
+               "character": "Ann Newton",
+               "gender": 0,
+               "credit_id": "52fe4424c3a368484e011f79",
+               "name": "Edna May Wonacott",
+               "profile_path": "/wNpdJ5G3v1z4cgkyVqnvXH5278h.jpg",
+               "id": 87823,
+               "order": 7
+            },
+            {
+               "cast_id": 9,
+               "character": "Roger Newton",
+               "gender": 2,
+               "credit_id": "52fe4424c3a368484e011f7d",
+               "name": "Charles Bates",
+               "profile_path": null,
+               "id": 87824,
+               "order": 8
+            },
+            {
+               "cast_id": 10,
+               "character": "Station Master",
+               "gender": 2,
+               "credit_id": "52fe4424c3a368484e011f81",
+               "name": "Irving Bacon",
+               "profile_path": "/oI6h1L5HvvXLacBIlKoHcXrHbhI.jpg",
+               "id": 30530,
+               "order": 9
+            },
+            {
+               "cast_id": 11,
+               "character": "Pullman Porter",
+               "gender": 2,
+               "credit_id": "52fe4424c3a368484e011f85",
+               "name": "Clarence Muse",
+               "profile_path": "/2An9XGreUaKKT7lNw2qEmx7NKPt.jpg",
+               "id": 87825,
+               "order": 10
+            },
+            {
+               "cast_id": 12,
+               "character": "Waitress Louise Finch",
+               "gender": 1,
+               "credit_id": "52fe4424c3a368484e011f89",
+               "name": "Janet Shaw",
+               "profile_path": "/crDWvsLUpmUFBVt9zZ0KVO7XTlJ.jpg",
+               "id": 87826,
+               "order": 11
+            },
+            {
+               "cast_id": 13,
+               "character": "Catherine",
+               "gender": 0,
+               "credit_id": "52fe4424c3a368484e011f8d",
+               "name": "Estelle Jewell",
+               "profile_path": null,
+               "id": 87827,
+               "order": 12
+            },
+            {
+               "cast_id": 29,
+               "character": "Mrs. Phillips (uncredited)",
+               "gender": 1,
+               "credit_id": "5600388ec3a3685f37000091",
+               "name": "Virginia Brissac",
+               "profile_path": "/At0bnWMBlJNqWKCg7uBe66nRdXL.jpg",
+               "id": 2780,
+               "order": 13
+            },
+            {
+               "cast_id": 30,
+               "character": "Mrs. Potter (uncredited)",
+               "gender": 1,
+               "credit_id": "560038b09251414e53000081",
+               "name": "Frances Carson",
+               "profile_path": null,
+               "id": 325881,
+               "order": 14
+            },
+            {
+               "cast_id": 31,
+               "character": "Mr. Norton - Traffic Cop (uncredited)",
+               "gender": 0,
+               "credit_id": "560038d29251414e50000097",
+               "name": "Earle S. Dewey",
+               "profile_path": null,
+               "id": 139610,
+               "order": 15
+            },
+            {
+               "cast_id": 32,
+               "character": "Doctor's Wife on Train (uncredited)",
+               "gender": 1,
+               "credit_id": "560038fc9251414e53000085",
+               "name": "Sarah Edwards",
+               "profile_path": "/rmSSO8YP31eEP9JYbmFRi7QsIon.jpg",
+               "id": 85957,
+               "order": 16
+            },
+            {
+               "cast_id": 33,
+               "character": "Doctor on Train (uncredited)",
+               "gender": 2,
+               "credit_id": "5600391d9251414e5900008a",
+               "name": "Edward Fielding",
+               "profile_path": null,
+               "id": 3370,
+               "order": 17
+            },
+            {
+               "cast_id": 34,
+               "character": "Dr. Phillips (uncredited)",
+               "gender": 0,
+               "credit_id": "56003954c3a3685f4500009c",
+               "name": "Vaughan Glaser",
+               "profile_path": "/mqfZhgBFkGe0FWboPSXwyX9ZW1l.jpg",
+               "id": 247639,
+               "order": 18
+            },
+            {
+               "cast_id": 35,
+               "character": "Man on Train Playing Cards (uncredited)",
+               "gender": 2,
+               "credit_id": "560039719251414e4600008c",
+               "name": "Alfred Hitchcock",
+               "profile_path": "/rKYyX58azJv1SZNXQWOJyNyvB9F.jpg",
+               "id": 2636,
+               "order": 19
+            },
+            {
+               "cast_id": 36,
+               "character": "Ballroom Dancer (uncredited)",
+               "gender": 0,
+               "credit_id": "560039949251414e500000a4",
+               "name": "Shep Houghton",
+               "profile_path": null,
+               "id": 1468755,
+               "order": 20
+            },
+            {
+               "cast_id": 37,
+               "character": "Mrs. MacCurdy (uncredited)",
+               "gender": 1,
+               "credit_id": "560039b79251414e440000bb",
+               "name": "Ruth Lee",
+               "profile_path": null,
+               "id": 179451,
+               "order": 21
+            },
+            {
+               "cast_id": 38,
+               "character": "Mrs. Cochran - Librarian (uncredited)",
+               "gender": 1,
+               "credit_id": "560039e8c3a3685f540000a3",
+               "name": "Eily Malyon",
+               "profile_path": "/nsmVbSUMZsrwbnD74Aef2BQGxEK.jpg",
+               "id": 95631,
+               "order": 22
+            },
+            {
+               "cast_id": 39,
+               "character": "Teen at Crosswalk (uncredited)",
+               "gender": 0,
+               "credit_id": "56003a26c3a3685f3a0000a9",
+               "name": "John McGuire",
+               "profile_path": "/oI1gaXnKYAj6ePEd78ceWT6ZSyR.jpg",
+               "id": 83621,
+               "order": 23
+            },
+            {
+               "cast_id": 40,
+               "character": "Shirley (uncredited)",
+               "gender": 1,
+               "credit_id": "56003a5ac3a3685f3f0000d3",
+               "name": "Shirley Mills",
+               "profile_path": null,
+               "id": 567800,
+               "order": 24
+            },
+            {
+               "cast_id": 41,
+               "character": "Mrs. Martin - Landlady (uncredited)",
+               "gender": 1,
+               "credit_id": "56003a7c9251414e4a0000ae",
+               "name": "Constance Purdy",
+               "profile_path": null,
+               "id": 1056412,
+               "order": 25
+            },
+            {
+               "cast_id": 42,
+               "character": "Margaret Green (uncredited)",
+               "gender": 0,
+               "credit_id": "56003aa6c3a3685f450000b9",
+               "name": "Isabel Randolph",
+               "profile_path": "/pOyhhidSEjWfCvG9c3AFtxNvCq4.jpg",
+               "id": 153505,
+               "order": 26
+            },
+            {
+               "cast_id": 43,
+               "character": "Rev. MacCurdy (uncredited)",
+               "gender": 0,
+               "credit_id": "56003ac7c3a3685f370000cf",
+               "name": "Grandon Rhodes",
+               "profile_path": "/llcaHJsyLM45W4gETYJri4a0qKW.jpg",
+               "id": 82749,
+               "order": 27
+            },
+            {
+               "cast_id": 44,
+               "character": "Detective (uncredited)",
+               "gender": 2,
+               "credit_id": "56003af29251414e440000d7",
+               "name": "Byron Shores",
+               "profile_path": null,
+               "id": 117037,
+               "order": 28
+            },
+            {
+               "cast_id": 45,
+               "character": "Mr. Green - Bank President (uncredited)",
+               "gender": 2,
+               "credit_id": "56003b12c3a3685f450000bf",
+               "name": "Edwin Stanley",
+               "profile_path": null,
+               "id": 33705,
+               "order": 29
+            },
+            {
+               "cast_id": 46,
+               "character": "Mrs. Henderson - Clerk at Telegraph Office (uncredited)",
+               "gender": 1,
+               "credit_id": "56003b319251414e530000cb",
+               "name": "Minerva Urecal",
+               "profile_path": "/gMG30MRyu03iSkUSEnL6BHVORQB.jpg",
+               "id": 102002,
+               "order": 30
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4424c3a368484e011f93",
+               "name": "Alfred Hitchcock",
+               "profile_path": "/rKYyX58azJv1SZNXQWOJyNyvB9F.jpg",
+               "id": 2636,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4424c3a368484e011f99",
+               "name": "Thornton Wilder",
+               "profile_path": null,
+               "id": 7661,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4425c3a368484e011f9f",
+               "name": "Sally Benson",
+               "profile_path": null,
+               "id": 7662,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4425c3a368484e011fa5",
+               "name": "Alma Reville",
+               "profile_path": null,
+               "id": 3681,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4425c3a368484e011fab",
+               "name": "Jack H. Skirball",
+               "profile_path": null,
+               "id": 7660,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4425c3a368484e011fb1",
+               "name": "Dimitri Tiomkin",
+               "profile_path": null,
+               "id": 4082,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4425c3a368484e011fb7",
+               "name": "Joseph A. Valentine",
+               "profile_path": null,
+               "id": 17669,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4425c3a368484e011fbd",
+               "name": "Milton Carruth",
+               "profile_path": null,
+               "id": 1552,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4425c3a368484e011fc9",
+               "name": "Russell A. Gausman",
+               "profile_path": null,
+               "id": 12348,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 2,
+               "credit_id": "570b74e2c3a3680fc2006fad",
+               "name": "John B. Goodman",
+               "profile_path": null,
+               "id": 16753,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 1,
+               "credit_id": "55feedf4c3a36877e70007c7",
+               "name": "Vera West",
+               "profile_path": "/1ExZCRonv0UX8MiiJ5Npem5PVp9.jpg",
+               "id": 13959,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "55feee20c3a3681762000624",
+               "name": "William Tummel",
+               "profile_path": null,
+               "id": 87829,
+               "department": "Crew",
+               "job": "Second Unit"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55feee6e9251411bd20006ef",
+               "name": "John P. Fulton",
+               "profile_path": null,
+               "id": 100762,
+               "department": "Visual Effects",
+               "job": "Visual Effects"
+            },
+            {
+               "gender": 2,
+               "credit_id": "55feeead92514152ae0036c1",
+               "name": "Charles Previn",
+               "profile_path": null,
+               "id": 13957,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55feef18c3a3687a820007d3",
+               "name": "Thornton Wilder",
+               "profile_path": null,
+               "id": 7661,
+               "department": "Crew",
+               "job": "Thanks"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56ecb1ccc3a36822600048dc",
+               "name": "Bernard B. Brown",
+               "profile_path": null,
+               "id": 13960,
+               "department": "Sound",
+               "job": "Sound Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "575c3803c3a3685e9d00054d",
+               "name": "Gordon McDonell",
+               "profile_path": null,
+               "id": 409198,
+               "department": "Writing",
+               "job": "Original Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "575c3887c3a3685dcb000572",
+               "name": "William Tummel",
+               "profile_path": null,
+               "id": 87829,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "575c38ab9251415a0a00124b",
+               "name": "Ralph Slosser",
+               "profile_path": null,
+               "id": 1623581,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "575c393e9251415a0a001261",
+               "name": "Robert F. Boyle",
+               "profile_path": null,
+               "id": 2657,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "575c3989c3a3685dcb0005a8",
+               "name": "Edward R. Robinson",
+               "profile_path": null,
+               "id": 25172,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "575c39d29251415a0a00128d",
+               "name": "Dorothea Holt",
+               "profile_path": null,
+               "id": 17908,
+               "department": "Art",
+               "job": "Other"
+            },
+            {
+               "gender": 0,
+               "credit_id": "575c3a2692514159d5001218",
+               "name": "Robert Pritchard",
+               "profile_path": null,
+               "id": 1567996,
+               "department": "Sound",
+               "job": "Sound"
+            },
+            {
+               "gender": 2,
+               "credit_id": "575c3a749251416499002476",
+               "name": "Adrian",
+               "profile_path": "/fnsEX7RnTRGuh32x8WmHrtz25D5.jpg",
+               "id": 9064,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "575c3ae8c3a3685d80000579",
+               "name": "Adele Cannon",
+               "profile_path": null,
+               "id": 1539483,
+               "department": "Crew",
+               "job": "Other"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Crime",
+            "id": 80
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         }
+      ],
+      "popularity": 9.156541,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 21734,
+      "vote_count": 270,
+      "budget": 0,
+      "overview": "A bored young woman, a teen living in Santa Rosa, California, Charlotte \"Charlie\" Newton (Wright), is frustrated because nothing seems to be happening in her life and that of her family. Then, she receives wonderful news: her uncle (for whom she was named), Charlie Oakley (Cotten), is arriving for a visit. But Uncle Charlie may not be the man he seems to be.",
+      "similar": [
+         1949,
+         4771,
+         984,
+         357096,
+         10651,
+         123109,
+         18587,
+         4639,
+         8090,
+         12150,
+         1586,
+         2832,
+         96,
+         948,
+         949,
+         807,
+         1538,
+         1572,
+         4638,
+         75780
+      ],
+      "original_title": "Shadow of a Doubt",
+      "runtime": 108,
+      "poster_path": "/kz2M4dTY3MCb8PIy0xDjZF5qBew.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+            "name": "Universal Pictures",
+            "id": 33,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": null,
+            "name": "Skirball Productions",
+            "id": 4005,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1943-01-16",
+      "vote_average": 7.6,
+      "belongs_to_collection": null,
+      "tagline": "A Blast of DRAMATIC Dynamite exploded right before your eyes!",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Black and White",
+      "budgetCurrency": null,
+      "directors": ["Alfred Hitchcock"],
+      "runtime": 108,
+      "synopsis": "Couples in costumes in a room with 1900 décor are dancing to the music of The Merry Widow waltz by Franz Lehar. A man dressed in a suit is lying on a bed, deep in thought. Money bills are on his dresser and tumbled on the floor. The landlady, Mrs Martin (Constance Purdy) knocks, opens the door and tells \"Mr. Spencer\" (Joseph Cotten) that two men were asking for him but she had followed his instructions, told them he was out. They are waiting outside at the corner. Spencer, whose real name is Oakley, gets off the bed, picks up the money, goes out past the men, who do not react, but begin to follow him at a distance. He walks quickly, turns corners, loses them as he goes up a building and watches them from the rooftop, making sure he has lost them. Oakley is at a pay phone, sending a telegram to Santa Rosa, California, telling his sister that he is coming for a visit and will arrive in a couple of days. He signs the telegram Uncle Charlie. In Santa Rosa, a teen living in a two story house is lying in bed. Charlotte \"Charlie\" Newton (Teresa Wright), is frustrated by boredom, complaining to her father, Joseph \"Joe\" Newton (Henry Travers) because nothing interesting ever happens in her life or that of her family. Charlotte decides to improve things by inviting her favorite Uncle Charlie to come for a visit. She not only shares a nickname with her mother's youngest brother, but a special bond. At times she feels the charming man is the only one who understands her need to be extraordinary, that there is more to her than her small town allows. At the telegraph office she learns that he has just announced by telegram that he is on his way. She hums a tune, over and over again. Her mother Emma \"Emmy\" Oakley-Norton (Patricia Collinge) is radiant with pleasure at the prospect of seeing her youngest brother. She picks up the humming of the tune. Neither she nor Charlotte are able to identify it. Oakley, on the train towards Santa Rosa, has kept out of sight behind Pullman curtains. As he gets off the train he walks looking downward and uses a cane as an old frail person might. The train clerk (Clarence Muse) offers to help him, as do a doctor (Edward Fielding) and his wife (Sarah Edwards) but Oakley pretends to be a grumpy person and rejects everybody's help. However, as he sees the family coming, his walk becomes completely normal and he is effusively greeted. Emmy is not there, but the father, young Charlie, and her siblings nerdy Ann (Edna May Wonacott) and Roger (Charles Bates) are there waiting for uncle Charlie. There is much joy as he arrives at the Newton house and gives presents all around. Charlotte gets a special ring with a large emerald. Young Charlie says that her mother is right when she says that she and uncle Charlie are so similar, like twins. She makes a comment that he always keeps a secret side of himself, and he tells her that she shouldn't guess everything about him. She notices some engraved initials inside the ring and asks her uncle about it, but Oakley claims no knowledge the initials were there, alleging that the jeweller lied to him, selling a second-hand ring instead of a brand new one. At dinner, Charlotte keeps humming her tune and asks around whether anyone recognizes it. Her father says it's clearly a waltz, Oakley says he thinks it's The Blue Danube, but when she starts to say the right title, The Merry Widow, uncle Charlie spills a glass of wine onto the mantel. [NOTE: The tune is The Merry Widow] Two men, Herbert \"Herbie\" Hawkins (Hume Cronyn) and Joe, young Charlie's father, discuss what they would do if one of them would desire to kill somebody. One says that he would do it disguising the murder as a suicide. Oakley picks up the newspaper and begins reading. He notices a story that has special significance, takes out the pages, and calls the younger kids, Ann and Roger, to see how he can fold the double sheet so it looks like a house, tearing out rectangular holes for a door and a window. They reassemble the paper without the pages used for the house, since the father hasn't seen the paper yet, and he hides the torn page in his coat pocket. Later, young Charlie notices the hidden newspaper pages. She tells him that now she will know what his secret is, as she believes that he appeared in the newspaper. He tells her that the worrying news story was not about him, but about somebody he used to know. Young Charlie steals the cut outs from her uncle's coat pocket. She unfolds them and starts looking for something significant, but uncle Charlie becomes a bit violent, tugging her arm. She gets scared, but uncle Charlie dismisses it alleging it was not a nice story about a friend of his. Soon after, Oakley learns that his sister has made an appointment with two men, one younger, one middle aged, who claim to be making a census type survey for an agency, claiming that the Newtons are a typical American family, and that they would be coming later to ask questions and take photographs. Emmy tells him with excitement about their upcoming fame. Emmy mentions the only existing photograph of uncle Charlie when he was much younger. She tells young Charlie how her uncle had to stay in bed for a long time when he was a child, and when he recovered he started to behave like a troublesome boy. Oakley has announced that he might stay a long while in Santa Rosa and goes to the bank where Mr. Newton works to make a deposit. At the bank his personality changes abruptly. He makes loud embarrassing jokes about embezzlements and crooked accounting. He deposits forty thousand dollars he is carrying in cash [enough to buy a nearly luxurious home in those days], still making aggressive unpleasant comments all around. The bank director, Mr Green, (Edwin Stanley) laughs it off, altogether with his wife, Mrs Margaret Green (Isabel Randolph) Oakley gets unusually upset at the prospect of being asked questions and even photographed, refusing to see the two visitors, calling his sister names for being so naïve as to believe them. The two visitors come anyway. They are the same two men who were thrown off his track by Oakley back at his apartment. They ask a few questions and take some pictures, but their focus is clearly Oakley, who avoids them, refuses to answer questions alleging privacy rights. When one of them takes a picture of Oakley by surprise, Oakley gets very angry and successfully insists that the negative roll be handed to him. The younger of the two young men, requests that young Charlie act as his guide around town later. She reluctantly agrees, only to please her mother. That evening he speaks to Charlotte away from the house, identifying himself as Detective Jack Graham (Macdonald Carey) and telling her that her uncle is one of two men who are suspected of being the serial killer known as the \"Merry Widow Murderer\" because his mode of operation is seducing wealthy widows and murdering them for their money later, by poison. The next day, young Charlie sleeps all day long. Ann tells her mother that she doesn't want to sit close to uncle Charlie anymore. The mother says that the children would take turns to sit alongside uncle Charlie, because they fought to sit close to him. Charlotte at first refuses to consider that her uncle could be a killer, but she cannot help remembering how strangely he acted on several occasions. She starts to suspect that the uncle she once idolized is not what he appears. Particularly chilling is a family dinner conversation during which Oakley reveals a total contempt for rich widows, comparing them to fat animals readied for slaughter. Herbert appears during dinner, and observes that the family is having dinner later and later each time. Young Charlie suffers a nervous breakdown when Herbert and Joe keep on talking on ways to kill each other. The niece's growing suspicion becomes apparent to her uncle. She runs away, and her uncle runs after her. The town police officer stops her. Oakley pushes her to a bar, where she comes across Louise Finch (Janet Shaw), an old school mate of her who was sacked from the town's department store. He confronts Young Charlie and admits that he is indeed sought by the police, but claims it is all a coincidence and he will be cleared once the other suspect is caught. Later, she tries to reconstruct the crumpled and torn pages of the newspaper that her uncle had hidden, but is unable to come to a conclusion. She rushes to the library, which has just closed, but convinces the librarian, Mrs. Cochran (Eily Malyon) to let her look at newspapers for just five minutes. She finds the paper and an article that describes the Merry Widow Murderer, and says one of the victims was once a famous entertainer, whose initials she recognizes as matching the inscription on the inside of the emerald ring her uncle gave her. When she shows the ring to her uncle, he begs her for help. She reluctantly agrees not to say anything, as long as he leaves soon, to avoid a horrible scandal in the town that would shock her family, especially her mother, who has always idolized her youngest brother. Jack Graham and Fred Saunders (Wallace Ford) ask Ann to tell young Charlie to talk to them. They are with a friend of the eldest daughter of the Nortons, Catherine (Estelle Jewell). Finally, they talk to Charlie, who will try to convince her uncle to leave town to avoid scandal. But soon... The detectives have sent Oakley's surprise picture back East. Their conversation reveals that the roll of negatives handed to Oakley had been a decoy. But while they are waiting for any conclusions from the evidence of the picture, news breaks that the second suspect was killed fleeing from the police, and is assumed to have been the guilty one. Jack Graham comes to tell Charlotte that their mission in Santa Rosa has ended. Jack then reveals that he is much attracted to Charlotte, would like to court her and maybe like to marry her someday. Oakley acts calm and satisfied at first, and takes up a normal routine, but evidently can't relax because his niece fully knows his secret. Soon, the young woman has a near fatal accident: As she is coming down the steep back entrance stairs, one of the steps breaks in two and she is lucky that she is just at the moment grasping the handrail firmly. Later she inspects the broken wood but is unable to find telltale signs of tampering. Oakley has agreed to give public lectures in Santa Rosa, and becomes something of a local celebrity. On the way to one such lecture, the family is preparing to go in their car plus a taxicab, and during the departure preparations young Charlie is trapped in a closed garage with a car spewing exhaust fumes. Oakley is playing music very loudly inside the house, and delaying a planned departure, but Charlotte is saved by chance that Herbie Hawkins hears her inside the garage. The moment young Charlie is proved to have survived that incident, Oakley announces that he is leaving by train the very next morning. Charlie and her siblings briefly get on board to look at his compartment. The train departs with Charlie still aboard, as Oakley physically prevents her timely descent from the train. Oakley struggles to control Charlie's screams as well as constrain her for a while, waiting for the train to pick up speed before he throws her onto tracks alongside. But because one hand is busy covering her mouth, her survival instinct is able to overcome his greater strength, and he trips and falls outside into the path of an oncoming train. There is a funeral for Uncle Charlie much attended by the people of Santa Rosa. Nothing has been said publicly about any connection to the Merry Widow Murders. Jack Graham has come back to be with Charlotte. She admits she had withheld from him information about her uncle which would have confirmed him as the murderer, but Jack already knows and accepts that she acted to protect her mother from unhappy shocking news. Together they resolve to keep Uncle Charlie's crimes a secret.",
+      "writers": [
+         "Thornton Wilder",
+         "Sally Benson"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0036342/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTYwNzk3MjcxMl5BMl5BanBnXkFtZTgwNzIzOTU0MjE@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Teresa Wright, Joseph Cotten, Macdonald Carey | See full cast and crew »"],
+      "reviews": [
+         "I own the Hitchcock collection (14 films in toto), and while this isn't my favourite of the bunch ('Psycho' is one of my favourite movies of all time, and 'Birds' never gets old), I like to watch it every now and again to remind myself what it means to make a \"suspense film\", and why Hitchcock was and always will be the master of this craft. To give away even the slightest story detail would ruin it for new viewers, because it is essential that everyone begin with the wrong impressions of the major characters. This allows Hitch to pull off his famous 'twists' throughout the course of the movie, hitting you every now and then with something you simply weren't expecting. One of my favourite elements in the movie is the ongoing dialogue between Henry Travers and Hume Cronyn, avid mystery readers who are constantly discussing the best ways to murder each other. Apart from being a bit of comic relief in an otherwise very dark film, it also demonstrates how lightly people think of murder and murderers...until they encounter them face-to-face. My advice then, if you want to see this movie, is not to learn anything about it beforehand. Going in with no knowledge will increase the movie's initial impact, and will help you to appreciate why Hitchcock was the 'Master of Suspense'. This is a taut thriller with no gratuitous violence, foul language, or mature situations. (Hitch considered it 'a family film'.) Enjoy!",
+         "Uncle Charlie did it for me. I mistrusted the uncle thing as a term of endearment ever since. Joseph Cotten is the perfect charming monster. Uncle Charlie's urbanity becomes his most frightening feature. So plausible. So real. Thornton Wilder was Hitchcock's partner in crime this time and it shows. The structure is Our Townish, the characters, deliciously rich. Patricia Collinge's performance is so spot on that you're longing for more. The scenes between Henry Travers and Hume Cronyn are how I imagine the story meetings between Thornton Wilder and Alfred Hitchcock. Teresa Wright's eyes tell the whole story from the audience's point of view, even if the audience is one step ahead of her. Brilliant, because in Joseph Cotten's eyes we find his need for redemption or are we falling in the trap of this master manipulator? We are torn, just like Teresa Wright. I've seen \"Shadow of a Doubt\" 3 or 4 times but every time you're forced to take the trip with the same amount of commitment. I've been toying with the thought of a remake, I've been doing this lately, although I hate the idea of remakes of great movies, this one is one of those that in the right hands could have a real impact. Using Thornton Wilder's original script as the Bible, Steven Sodebergh could do scrumptious remake for the new millennium. Tim Robbins as uncle Charlie, can you imagine? Natalie Portman as his niece. Joan Cusak and William H Macy as her parents. Wouldn't you go to see that?",
+         "It is well known that this film is Alfred Hitchcock's favourite of his own oeuvre, and it's a big favourite of mine also. It is also well documented that for this film, Hitchcock stated that he \"wants to bring violence back into the home, where it belongs\" and he has certainly succeeded at doing that. Hitchcock spends much of the early screen time building up the family at the centre of the tale, and then allowing the violence to come to them, which shows Hitchcock's mastery of the medium as showing the story develop in this way makes the tale much more frightening than if we hadn't got to know the family at the centre of the story first. Joseph Cotten stars as uncle Charlie; a man fleeing Philadelphia to escape the law after marrying and then murdering several rich widows. He goes to stay with his sister and her family, which includes a husband, two young children and the eldest daughter; his niece and namesake; also called 'Charlie'. Hitchcock puts the focus of the story on young Charlie and her relationship with her uncle. This gives the story a frightening angle as it follows the classic tale of the strange uncle. It's also well done as young Charlie is shown to be the sweetest of characters, and when the dark uncle Charlie enters the fray, her sweet world is infected by nightmares, which also gives way to elements of the classic 'coming of age' tale to enter the proceedings. As if that wasn't enough, Shadow of a Doubt also exposes the trust we put in our loved ones, and how any person is likely to try and shift the blame, or ignore it completely, if their loved one has done wrong. This is shown by the way that young Charlie still attempts to cover for her beloved uncle even when all the evidence is pointing to him being guilty. Hitchcock has turned this thriller, which could easily have been routine, into a complex study of a family that retains it's interest throughout due to the multiple themes on display. Joseph Cotten was the absolute perfect choice to play uncle Charlie. His portrayal is picture perfect; he carries with him an atmosphere of dread and morbidity throughout, even when he's not doing anything wrong. A role of this sort is difficult to get right, as it's all to easy to underplay it so it isn't effective, or to overstate it so it becomes ridiculous; but Cotten gets the performance spot on. Teresa Wright, who stars alongside Cotten in the role of the other Charlie also does well and delivers a mature and assured performance that fits her character brilliantly. Some of the supporting roles look a little suspect at times, but on the whole the acting from the support is good enough. The ending of the film comes somewhat against the run of play and is maybe a little bit too over the top after the rest of the film, which is largely down to earth. However, it does work and a big ending isn't something I am in the habit of complaining about. This is up there with Hitchcock's best work and therefore is highly recommended.",
+         "\"Shadow of a Doubt\" is one of Alfred Hitchcock's most brilliant and most carefully-constructed films, and is further notable as one of the very finest performances of Joseph Cotten, in his role as \"Uncle Charlie\". Both the movie and the central character are thought-provoking and rich in detail. The film has an intriguing form that Hitchcock used a number of times (for example, in \"Strangers on a Train\" and \"Frenzy\"), that of setting up carefully constructed contrasts between two main characters, contrasts that in turn reflect a further complex of themes in the movie's broader setting and story. Here, the central contrast comes from the relationship between Uncle Charlie and his niece \"young Charlie\" (Teresa Wright). Their unusually close relationship creates tension and intrigue that go beyond the basic concern of the main story-line (which is, namely, whether Uncle Charlie is the elusive serial killer sought by the police). The uncle-niece relationship also mirrors a great many other topics explored by the film: most obviously the contrast between the small-town atmosphere of Santa Rosa, where Uncle Charlie has come to hide out with his sister's family, but also the complicated nature of the other relationships that we see. A fine supporting cast led by Henry Travers, Patricia Collinge, and Hume Cronyn help us focus in on hidden aspects of small-town family and neighborhood life. \"Shadow of a Doubt\" is less known and celebrated than Hitchcock's 50's and early 60's work, and even than some of his 30's British films, most probably because it does not contain any of the director's famous set pieces, which were already a part of his pictures well before \"Shadow of a Doubt\" was made. After all, it is a movie about a suspected serial killer, and not only do we never see him kill anyone, he never even tries anything violent until much later in the film. But what \"Shadow of a Doubt\" lacks in the spectacular it makes up in tension and characterization, especially in Cotten's brilliant performance. He is by turns charming, calculating, suspicious, and menacing, a balance very difficult to maintain with credibility for an entire film. Cotten's skill and Hitchcock's direction make Uncle Charlie one of Hitchcock's most memorable characters. Though more slow-paced than most of the famous director's works, this is still one of his greatest, and should be very satisfying to any fan of Hitchcock, of Cotten, or of noirish/crime thrillers.",
+         "I sometimes think that people who don't like this film, don't like it because you aren't bonked over the head by fancy special effects or being shown a bloody knife stuck in someone's back. Psychological thrillers take place in the mind, not splashed across the screen so you don't have to think but sit in your seat and watch all the pretty colors flash by! The acting is superb. Theresa Wright is a gem, and holds her own quite nicely against veteran actor, Joseph Cotton. What you need to look for in this film are the subtle cues given that build until Charlie suspects her beloved uncle is a murderer, and eventually even tries to kill her, not once but several times. Made when the world was at war, I find it especially disturbing to realize that evil could and can be anywhere. Even sitting around your own dining room table.",
+         "\"Shadow of a Doubt\" may only be listed as #181 on IMDb's \"Top 250\" list, but in my opinion it far outweighs some of the films higher up on that list and is one of Hitch's very best films. Joseph Cotten plays Charlie, a crook on the run from the police. Left stranded and pursued, he decides to move in with his brother's family. His niece - who loves him and sees him as a sort of perfect role model - at first is excited that her Uncle Charlie is coming...but then things start to get strange. Charlie acts oddly and, at times, violent. She begins to become suspicious of her uncle as he becomes more suspicious of her own awareness. The ending of \"Shadow of a Doubt\" is classic Hitchcock and some of the best stuff he's done. The entire film is taut and suspenseful, well-filmed and realistic. It manages to focus on family ties and the struggles within the family itself while it also juggles the whole theme of an outcast family member. In the end, however, it's just a nail-biting thriller that - now over sixty years old - still reigns as one of the absolute best of its genre.",
+         "The ultimate master of suspense Alfred Hitchcock directed his fascinating masterpiece \"Shadow of a doubt\" at the age of 44 and it was a terrific improvement after the classic \"Saboteur\" which was definitely a great Hitch movie too, don't get me wrong here. Could it be more simple: this one just had a perfect story that really touched the audience and the whole wicked idea of finding out you have a killer uncle is most exciting when you think of it. It could happen to anybody, I'm sure. No wonder this was one of Hitchcock's own personal favorites. \"Shadow of a doubt\" may not be the finest Hitchcock-movie of the 40's, though. I admit I haven't seen all of them but I think \"Rope\" was ever better and \"Spellbound\" at least just as marvelous but it's safe to say this is one of the most stylish Hitchcock-movies of the decade. What a shame Joseph Cotten never became a bigger star because his powerful performance was one of the most memorable elements of the film.",
+         "Shadow of a Doubt is classified as a Film Noir thriller. While I can see elements of film noir and elements of the thriller genre in this film, I think this film is more of a character study. It's a story about what happens when a soul-mate turns out to be somebody unexpected. The cast is excellent, and the lead characters - played by Joseph Cotten and Teresa Wright - are very well imagined, written and portrayed. Both characters called for sweeping and dramatic personality changes which Wright and Cotten pulled off convincingly. Wright plays a very young woman (19-ish) living with her family and sort of depressed and aimless, while Cotten is her namesake and favorite uncle, Charlie. Uncle Charlie has come to visit and brought good cheer to the entire family, but shortly after his arrival, young Charlie begins to discover that Uncle Charlie has some sinister secrets. As the clues begin to add up to a coherent conclusion, Wright's character is forced to decide what to do about her growing, troublesome, understanding. In typical Hitchcockian fashion, the film toys with its audience for the first 3/4ths and does not reveal itself until its almost too late - playing on paranoia, misleading and ambiguous dialog, and terrific acting to create equivocation. However, as you will see, this is not the standard Hitchcock stuff - in the end it has more to do with the characters and what they do than the action and resolution of the ingenious plot. The Hitch' blows me away almost every time, and Shadow of a Doubt is one of his best. If you haven't seen it, you should. It's a very thoughtful and exquisitely executed character study about a very young and very bright woman, encountering the heavy side of life for the first time, and the choices she makes. Worth seeing for Wright's performance alone (easily Oscar-worthy), Shadow of a Doubt is a timeless piece of noir-esquire originality.",
+         "For the kind of thing Hitchcock does, this is one of his best films. Not really a whodunit, for the identity of the [serial] killer's revealed early on. It therefore becomes a challenge to maintain high interest thereafter. This is done through fine performances, direction, photography and production values. Cast against type, Joesph Cotton is wonderful--a perfect ironic Hitchcock villain: charming, sweet-talking, and suave. The kind unsuspecting, vulnerable widows might be drawn to. Cotton's own personality works magic in bringing out all the nuances of personality in this role. One of the most talented of actors, Teresa Wright, is cast in the lead role. Her enormous talent and thespian integrity are put to the test here, and they triumph in a great performance. Like Cathy O'Donnell, another sweet, girl-next-door type, Wright's persona ran out early in Hollywood, and she was prematurely pushed into matronly roles. A shame, for there was none finer than Wright. The script and production is clean, concise, sharp and economic, and \"Shadow of a Doubt\" remains one of Hitch's greatest cinematic achievements.",
+         "One thing that strikes many who come upon Shadow of a Doubt is the knowledge that it was Hitchcock's favorite among his own films- and many watch it with very high expectations, getting shot down as well, making it one of his more under-rated efforts. True, it doesn't go for the immense macabre that lay in Psycho, The Birds, and Torn Curtain, but it is very effective in telling its stories, and giving us character to either love, or love to hate. The whole concept to the story is very appealing- a (painfully) normal suburban family gets a calling from a relative- Uncle Charlie (Joseph Cotten)- who wants to come by for a little while. The oldest daughter, also named Charlie (Teresa Wright), almost feels like a kindred spirit to her uncle, happy as can be that he's come to visit. Things start to unravel, however, when two detectives on his trail come into town, bringing to young Charlie to light what could be going down, or what might not be, or what is as clear as psychopathic day. It's actually of interest to compare this film to Psycho, I think, in how it's a start contrast to how Hitchcock tells the story of the ordinary people of the world getting involved with a certifiable gentlemen. And, perhaps, one could argue (I might, up to a point) that Cotten's performance rivals that of a Norman Bates leading male in the subtleties of the suspense in the film. And it solidifies in my book that Cotten had a wonderful range in his work, when he could go from playing a Jed Leland in Citizen Kane, to this film, and then on to The Third Man's Holly Martins. Here, he digs into the character and you'll either find it un-convincing in the 40's sense, or a knock-out. As for Teresa Wright, she finds some good notes as well in playing off of Cotten, even in the earlier scenes. And those kids are just the right icing to the cake the film cooks up. It may take a couple of viewings to really warm up to this film, or you may like it right away. But Shadow of a Doubt contains not only fine acting, but also some trademark Hitchcock camera stylizing. My favorites included a particular shot closing in from medium close-up to extreme close-up on Uncle Charlie when he's in a memorable monologue at the dinner table. Another is the use of the dark value on the characters when they talk outside. And, of course, a climax that is genuine in theatricality. A+"
+      ],
+      "genres": ["Thriller"],
+      "productionCompanies": [
+         "Skirball Productions",
+         "Universal Pictures"
+      ],
+      "summaries": [
+         "Charlotte 'Charlie' Newton is bored with her quiet life at home with her parents and her younger sister. She wishes something exciting would happen and knows exactly what they need: a visit from her sophisticated and much traveled uncle Charlie Oakley, her mother's younger brother. Imagine her delight when, out of the blue, they receive a telegram from uncle Charlie announcing that he is coming to visit them for awhile. Charlie Oakley creates quite a stir and charms the ladies club as well as the bank president where his brother-in-law works. Young Charlie begins to notice some odd behavior on his part, such as cutting out a story in the local paper about a man who marries and then murders rich widows. When two strangers appear asking questions about him, she begins to imagine the worse about her dearly beloved uncle Charlie.",
+         "The Newton family lead a quiet life in the North California town of Santa Rosa. The Newton's eldest daughter, 'young Charlie', decides that things need brightening up and resolves to contact her Uncle Charlie (after whom she is named) and invite him to stay. On arrival at the telegraph office she discovers he is already on his way. However, Uncle Charlie is being pursued by a couple of detectives who suspect him of being \"The Merry Widow Murderer\", an evil strangler wanted in connection with the deaths of several rich East coast widows.",
+         "Young Charlie Newton not only shares a name with her favorite uncle, but a special bond. At times she feels the charming man is the only one who understands her need to be extordinary and that she is better than the tiny town she lives in. So, when life is too dull she calls on him to visit. However, upon the arrival of two detecitves, one of whom becomes very close to young Charlie, and a series of unusal clues concerning the mysterious 'Merry Widow Murderer', her Uncle Charlie's behavor begins to change. Young Charlie starts to suspect that the man she once idiolized is not what he seems and as her world shatters, she realizes that her life may be in danger.",
+         "A young woman discovers her visiting \"Uncle Charlie\" may not be the man he seems to be."
+      ],
+      "budget": 0
+   },
+   "movielensId": 2203,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1943-01-16",
+      "dvdReleaseDate": "2001-03-06",
+      "directors": ["Alfred Hitchcock"],
+      "runtime": 108,
+      "movieId": 2203,
+      "title": "Shadow of a Doubt",
+      "mpaa": "PG",
+      "actors": [
+         "Teresa Wright",
+         "Joseph Cotten",
+         "Macdonald Carey",
+         "Henry Travers",
+         "Patricia Collinge",
+         "Hume Cronyn",
+         "Wallace Ford",
+         "Edna May Wonacott",
+         "Charles Bates",
+         "Irving Bacon",
+         "Clarence Muse",
+         "Janet Shaw",
+         "Estelle Jewell",
+         "Virginia Brissac",
+         "Frances Carson",
+         "Earle S. Dewey",
+         "Sarah Edwards",
+         "Edward Fielding",
+         "Vaughan Glaser",
+         "Alfred Hitchcock",
+         "Shep Houghton",
+         "Ruth Lee",
+         "Eily Malyon",
+         "John McGuire",
+         "Shirley Mills",
+         "Constance Purdy",
+         "Isabel Randolph",
+         "Grandon Rhodes",
+         "Byron Shores",
+         "Edwin Stanley",
+         "Minerva Urecal"
+      ],
+      "imdbMovieId": "0036342",
+      "originalTitle": "Shadow of a Doubt",
+      "genres": [
+         "Crime",
+         "Drama",
+         "Thriller"
+      ],
+      "youtubeTrailerIds": ["1aVrUA8bO7o"],
+      "plotSummary": "A bored young woman, a teen living in Santa Rosa, California, Charlotte \"Charlie\" Newton (Wright), is frustrated because nothing seems to be happening in her life and that of her family. Then, she receives wonderful news: her uncle (for whom she was named), Charlie Oakley (Cotten), is arriving for a visit. But Uncle Charlie may not be the man he seems to be.",
+      "tmdbMovieId": 21734,
+      "avgRating": 4.13004,
+      "releaseYear": "1943",
+      "numRatings": 2507,
+      "posterPath": "/k2TMM0040HF3FS0gle3ZrK73pcX.jpg"
+   }
+}

@@ -1,0 +1,775 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "investigation",
+            "id": 5340
+         },
+         {
+            "name": "dark comedy",
+            "id": 10123
+         },
+         {
+            "name": "independent film",
+            "id": 10183
+         },
+         {
+            "name": "neighbor",
+            "id": 10226
+         },
+         {
+            "name": "man with glasses",
+            "id": 163335
+         },
+         {
+            "name": "woman with glasses",
+            "id": 167451
+         },
+         {
+            "name": "manhattan, new york city",
+            "id": 168346
+         }
+      ],
+      "imdb_id": "tt0107507",
+      "video": false,
+      "title": "Manhattan Murder Mystery",
+      "recommendations": [
+         11382,
+         28384,
+         10569,
+         12762,
+         2639,
+         11562,
+         9684,
+         11448,
+         11337,
+         30890,
+         11561,
+         19200,
+         2779,
+         15867,
+         9716,
+         22478,
+         10849,
+         22477,
+         11686,
+         5143
+      ],
+      "backdrop_path": "/uy3VIjpzrNNeVydXXqrGhVSEqxu.jpg",
+      "revenue": 11285588,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Larry Lipton",
+               "gender": 2,
+               "credit_id": "52fe43719251416c7501098f",
+               "name": "Woody Allen",
+               "profile_path": "/wpcOUlaszvJoVRf1yLbDtu7u4FI.jpg",
+               "id": 1243,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Carol Lipton",
+               "gender": 1,
+               "credit_id": "52fe43719251416c75010993",
+               "name": "Diane Keaton",
+               "profile_path": "/fzgUMnbOkxC6E3EFcYHWHFaiKyp.jpg",
+               "id": 3092,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Paul House",
+               "gender": 2,
+               "credit_id": "52fe43719251416c75010997",
+               "name": "Jerry Adler",
+               "profile_path": "/3oS2KYKYUxo40nNFv08asY9mNQA.jpg",
+               "id": 24292,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Ted",
+               "gender": 2,
+               "credit_id": "52fe43719251416c7501099b",
+               "name": "Alan Alda",
+               "profile_path": "/jzDIL5eaFQ3WorUtwOwoJ7AFX2C.jpg",
+               "id": 21278,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Marcia Fox",
+               "gender": 1,
+               "credit_id": "52fe43719251416c7501099f",
+               "name": "Anjelica Huston",
+               "profile_path": "/Aiyv68gYWcEe9OYhyCkOa09kjmy.jpg",
+               "id": 5657,
+               "order": 4
+            },
+            {
+               "cast_id": 14,
+               "character": "Lilian House",
+               "gender": 1,
+               "credit_id": "52fe43719251416c750109d3",
+               "name": "Lynn Cohen",
+               "profile_path": "/3YFzNPqr5CLw5oTovuKS43l4K6p.jpg",
+               "id": 8792,
+               "order": 5
+            },
+            {
+               "cast_id": 15,
+               "character": "Helen Moss",
+               "gender": 0,
+               "credit_id": "52fe43719251416c750109d7",
+               "name": "Melanie Norris",
+               "profile_path": null,
+               "id": 371587,
+               "order": 6
+            },
+            {
+               "cast_id": 16,
+               "character": "Nick Lipton",
+               "gender": 2,
+               "credit_id": "52fe43719251416c750109db",
+               "name": "Zach Braff",
+               "profile_path": "/9FlETKKU88h8coz1YJhB7GwJJRZ.jpg",
+               "id": 5367,
+               "order": 7
+            },
+            {
+               "cast_id": 20,
+               "character": "Marilyn",
+               "gender": 1,
+               "credit_id": "52fe43719251416c750109df",
+               "name": "Joy Behar",
+               "profile_path": "/uiST4ZJPBDFb19fcsNaNovhTDrS.jpg",
+               "id": 166772,
+               "order": 8
+            },
+            {
+               "cast_id": 30,
+               "character": "Sy",
+               "gender": 2,
+               "credit_id": "5692a383925141445300022d",
+               "name": "Ron Rifkin",
+               "profile_path": "/hukx9wydqjFEu3xXToQWln1PMxN.jpg",
+               "id": 12122,
+               "order": 9
+            },
+            {
+               "cast_id": 31,
+               "character": "Neighbor",
+               "gender": 0,
+               "credit_id": "5692a3cc92514115c20026cd",
+               "name": "John Doumanian",
+               "profile_path": "/a29DCpIYuwAC21ErdCMTTPFMsnG.jpg",
+               "id": 28006,
+               "order": 10
+            },
+            {
+               "cast_id": 32,
+               "character": "Neighbor",
+               "gender": 1,
+               "credit_id": "5692a40bc3a3684cff00293f",
+               "name": "Sylvia Kauders",
+               "profile_path": "/6gIprrLikBbbyhav8REa8OscbBO.jpg",
+               "id": 122239,
+               "order": 11
+            },
+            {
+               "cast_id": 33,
+               "character": "EMS Doctor",
+               "gender": 0,
+               "credit_id": "5692a444925141445300024b",
+               "name": "Ira Wheeler",
+               "profile_path": "/g48A2anrOKA1b7idTAG83yRkJYB.jpg",
+               "id": 28029,
+               "order": 12
+            },
+            {
+               "cast_id": 34,
+               "character": "Mrs. Gladys Dalton",
+               "gender": 1,
+               "credit_id": "5692a484c3a3684cfc002a50",
+               "name": "Marge Redmond",
+               "profile_path": "/pyYtZ89LflU4JVI4FeouN96Yuo8.jpg",
+               "id": 19783,
+               "order": 13
+            },
+            {
+               "cast_id": 35,
+               "character": "'21 Club' Staff",
+               "gender": 0,
+               "credit_id": "5692a4cc92514115c20026f2",
+               "name": "George J. Manos",
+               "profile_path": null,
+               "id": 1158427,
+               "order": 14
+            },
+            {
+               "cast_id": 36,
+               "character": "Hotel Day Clerk",
+               "gender": 0,
+               "credit_id": "5692a4e792514115c50028f5",
+               "name": "Aida Turturro",
+               "profile_path": "/hvQKy8ZdeWWVBgLbeczkm0kyAgU.jpg",
+               "id": 106791,
+               "order": 15
+            },
+            {
+               "cast_id": 37,
+               "character": "Policeman",
+               "gender": 2,
+               "credit_id": "5692a50e92514115c50028fb",
+               "name": "John Costelloe",
+               "profile_path": "/tTg6bPJPC9paNXD4wiYW8k3LTNd.jpg",
+               "id": 171747,
+               "order": 16
+            },
+            {
+               "cast_id": 39,
+               "character": "Policeman",
+               "gender": 0,
+               "credit_id": "5692a55f925141445300026f",
+               "name": "Philip Levy",
+               "profile_path": null,
+               "id": 28008,
+               "order": 18
+            },
+            {
+               "cast_id": 40,
+               "character": "Policeman",
+               "gender": 2,
+               "credit_id": "5692a57ec3a3684cf80028de",
+               "name": "Wendell Pierce",
+               "profile_path": "/uOsldo9Pkl0E79UbIXX5tZZmC8F.jpg",
+               "id": 17859,
+               "order": 19
+            },
+            {
+               "cast_id": 41,
+               "character": "Policeman",
+               "gender": 2,
+               "credit_id": "5692a5ad92514115bc0027c9",
+               "name": "Steven Randazzo",
+               "profile_path": "/ufifD3uO2pqNNsrLAwbAkbyzJ7i.jpg",
+               "id": 59281,
+               "order": 20
+            },
+            {
+               "cast_id": 42,
+               "character": "Hotel Maid",
+               "gender": 1,
+               "credit_id": "5692a5e7c3a3684d01002a34",
+               "name": "Gloria Irizarry",
+               "profile_path": null,
+               "id": 155544,
+               "order": 21
+            },
+            {
+               "cast_id": 43,
+               "character": "Waiter (uncredited)",
+               "gender": 0,
+               "credit_id": "5692a647925141540b000148",
+               "name": "John D. Bair",
+               "profile_path": null,
+               "id": 91043,
+               "order": 22
+            },
+            {
+               "cast_id": 44,
+               "character": "Man on Sidewalk (uncredited)",
+               "gender": 0,
+               "credit_id": "5692a669c3a3684d0b002778",
+               "name": "David Boston",
+               "profile_path": null,
+               "id": 1500999,
+               "order": 23
+            },
+            {
+               "cast_id": 63,
+               "character": "Policeman",
+               "gender": 2,
+               "credit_id": "5814a3f4c3a3687aa0031f36",
+               "name": "Frank Pellegrino",
+               "profile_path": "/3GiQU6gYC1DNy0PfknJovVdKopF.jpg",
+               "id": 1701137,
+               "order": 24
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe43719251416c750109a5",
+               "name": "Woody Allen",
+               "profile_path": "/wpcOUlaszvJoVRf1yLbDtu7u4FI.jpg",
+               "id": 1243,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43719251416c750109ab",
+               "name": "Woody Allen",
+               "profile_path": "/wpcOUlaszvJoVRf1yLbDtu7u4FI.jpg",
+               "id": 1243,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43719251416c750109b1",
+               "name": "Marshall Brickman",
+               "profile_path": "/kgFuTadgTSscJPIWuifG1pAZXf3.jpg",
+               "id": 10439,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43719251416c750109b7",
+               "name": "Robert Greenhut",
+               "profile_path": null,
+               "id": 3658,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43719251416c750109bd",
+               "name": "Charles H. Joffe",
+               "profile_path": null,
+               "id": 6993,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43719251416c750109c3",
+               "name": "Jack Rollins",
+               "profile_path": "/4zEeD2lPss6tFhgGzMIdoc68VDa.jpg",
+               "id": 6994,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43719251416c750109c9",
+               "name": "Carlo Di Palma",
+               "profile_path": "/i9bOfpLR2V68gGYv0yqJkjF6qiT.jpg",
+               "id": 15194,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe43719251416c750109cf",
+               "name": "Susan E. Morse",
+               "profile_path": null,
+               "id": 10440,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43719251416c750109e5",
+               "name": "Richard Wagner",
+               "profile_path": "/ftdajgiZwrOjWMPVUhrBCgLpOEl.jpg",
+               "id": 71473,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe43729251416c750109eb",
+               "name": "Cole Porter",
+               "profile_path": null,
+               "id": 69394,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe43729251416c750109f1",
+               "name": "Erroll Garner",
+               "profile_path": null,
+               "id": 341386,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43729251416c750109f7",
+               "name": "Santo Loquasto",
+               "profile_path": null,
+               "id": 23966,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe43729251416c750109fd",
+               "name": "Juliet Taylor",
+               "profile_path": null,
+               "id": 1046,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43729251416c75010a03",
+               "name": "Speed Hopkins",
+               "profile_path": null,
+               "id": 961164,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe43729251416c75010a09",
+               "name": "Susan Bode",
+               "profile_path": null,
+               "id": 17221,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43729251416c75010a0f",
+               "name": "Jeffrey Kurland",
+               "profile_path": null,
+               "id": 6348,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43729251416c75010a15",
+               "name": "Brian Hamill",
+               "profile_path": "/ipkdNt295kdCw1I32XGZX5rVQC3.jpg",
+               "id": 1194262,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5693e43dc3a368252f000090",
+               "name": "Aleen Keshishian",
+               "profile_path": null,
+               "id": 59702,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5692a709c3a3684cf8002925",
+               "name": "Helen Robin",
+               "profile_path": null,
+               "id": 6990,
+               "department": "Production",
+               "job": "Co-Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5692a737c3a3684cfc002ac3",
+               "name": "Joseph Hartwick",
+               "profile_path": null,
+               "id": 59970,
+               "department": "Production",
+               "job": "Co-Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5692a77cc3a3684cff0029bc",
+               "name": "Thomas A. Reilly",
+               "profile_path": null,
+               "id": 578324,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5692a7d6c3a3685c5400036f",
+               "name": "Fern Buchner",
+               "profile_path": null,
+               "id": 10443,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5692a7f492514142570003c9",
+               "name": "Romaine Greene",
+               "profile_path": null,
+               "id": 10444,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5692a827c3a3684d04002bc6",
+               "name": "Joseph Hartwick",
+               "profile_path": null,
+               "id": 59970,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5692a86892514142570003d5",
+               "name": "Thomas A. Reilly",
+               "profile_path": null,
+               "id": 578324,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5692aa9292514115c50029eb",
+               "name": "Richard Patrick",
+               "profile_path": null,
+               "id": 1561591,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5693e30a9251417b0600005b",
+               "name": "John Andrew Berton Jr.",
+               "profile_path": null,
+               "id": 1550188,
+               "department": "Visual Effects",
+               "job": "Visual Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5693e350c3a368251c00004f",
+               "name": "Greg Maloney",
+               "profile_path": null,
+               "id": 1386913,
+               "department": "Visual Effects",
+               "job": "Digital Compositors"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5693e3dc9251417b06000072",
+               "name": "Laura Rosenthal",
+               "profile_path": null,
+               "id": 15426,
+               "department": "Production",
+               "job": "Casting Associate"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5693e49c9251417b00000092",
+               "name": "Todd M. Thaler",
+               "profile_path": null,
+               "id": 999,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5693e4eb9251417b0c00008d",
+               "name": "Suzanne McCabe",
+               "profile_path": null,
+               "id": 28041,
+               "department": "Costume & Make-Up",
+               "job": "Assistant Costume Designer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5693e544c3a368251c0000a4",
+               "name": "Kent Blocher",
+               "profile_path": null,
+               "id": 1406756,
+               "department": "Editing",
+               "job": "Assistant Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5693e59c9251417b060000ad",
+               "name": "William Kruzykowski",
+               "profile_path": null,
+               "id": 1562119,
+               "department": "Editing",
+               "job": "Assistant Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5693e624c3a368252f0000c4",
+               "name": "Dale E. Grahn",
+               "profile_path": null,
+               "id": 1429549,
+               "department": "Editing",
+               "job": "Color Timer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5693e739c3a36825200000de",
+               "name": "Peter Tavis",
+               "profile_path": null,
+               "id": 1562121,
+               "department": "Crew",
+               "job": "Transportation Captain"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Mystery",
+            "id": 9648
+         }
+      ],
+      "popularity": 6.74836,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 10440,
+      "vote_count": 227,
+      "budget": 13500000,
+      "overview": "A middle-aged couple suspects foul play when their neighbor's wife suddenly drops dead.",
+      "similar": [
+         4771,
+         96,
+         8090,
+         10900,
+         1586,
+         807,
+         395834,
+         193893,
+         357096,
+         75780,
+         1939,
+         12521,
+         28355,
+         306,
+         11300,
+         1923,
+         25376,
+         21484,
+         984,
+         429733
+      ],
+      "original_title": "Manhattan Murder Mystery",
+      "runtime": 104,
+      "poster_path": "/6y04YdXDoSNxiJ5g0h92NBiatyv.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": "/rzgMLzPgJ2ZBYnlVwNi8ZDfOMwo.png",
+         "name": "TriStar Pictures",
+         "id": 559,
+         "origin_country": ""
+      }],
+      "release_date": "1993-08-18",
+      "vote_average": 7.2,
+      "belongs_to_collection": null,
+      "tagline": "Keaton & Allen reunited for fun flick!",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Woody Allen"],
+      "runtime": 104,
+      "synopsis": "Larry Lipton (Woody Allen) and his wife Carol (Diane Keaton), both in their late forties, come back from a hockey game to their apartment in Manhattan, and, in the elevator, they meet their next-door neighbors Paul (Jerry Adler) and Lilian (Lynn Cohen) House, who are both in their sixties, and whom they actually hardly know. Carol and Lilian discover they go to the same gym club, and Lilian invites Larry and Carol for a drink in her apartment. We learn that Larry work in the publishing business, and that Paul owns an old cinema, which is being redone. Carol doesn't work but she would like to open a restaurant. Even though they have been married twenty-eight years, Paul and Lilian don't have any children, but Larry and Carol have a son, who is away in college. The next night, Larry and Carol go to a movie theater with their friends Sy (Ron Rifkin) and Marilyn (Joy Behar), to watch Billy Wilder's «Double Indemnity». When they come back home, they find the Houses' door open and a crowd of neighbors gathered around the door. Lilian has just died from a heart attack. Larry and Carol are surprised by this death because Lilian seemed so healthy. A couple of days later, on their way to the Met, Larry and Carol meets Paul in the street and Carol finds Paul's cheerfulness slightly suspicious. Later in the evening, in a restaurant, she talks about it with their friends Ted (Alan Alda), Sy and Marilyn. Ted is just divorced, and Larry thinks he is in love with Carol. Carol explains that Lilian House didn't seem to have a heart condition. And Ted says that Paul could have killed her to run off with his «tootsie». But Larry is very doubtful about it, and just thinks that Paul is a strong guy, who tries to hide his true feelings. Knowing he likes sweet food, Carol makes floating islands for Paul and bring them to him. While Paul and Larry are talking in the living-room, Carol is making coffee in the kitchen and she finds a funerary urn hidden in a cupboard, seeming to refute Paul's claim that Lilian was buried. Carol becomes even more suspicious later in the night after hearing Paul leave his apartment at 1:00 a.m. She thinks that he left to dispose of the urn, but Larry tells Carol she's «inventing a mystery.» Knowing that Paul is away, Carol steals a spare key from Jack (William Addy), the super, and sneaks into Paul's apartment. The urn is missing, but she finds two plane tickets to Paris and a reservation for a Paris hotel for Paul and a woman named Helen Moss. From Paul's apartment, she calls Ted to tell him about it, but Paul unexpectedly returns, and Carol hides under the bed. She overhears a telephone conversation between Paul, calling himself Tom, and a woman whom she supposes to be Helen Moss. After Paul's departure, she leaves the apartment but realizes later that she left her eyeglasses in Paul's apartment. When she tells Larry what she's done, he is furious about it. Carol makes a chocolate mousse and brings it to Paul so that she can retrieve her glasses, but Paul finds them first, causing Larry and Carol to try awkwardly to explain why the eyeglasses were under his bed. Ted finds out where Helen Moss lives. He and Carol sit in his car outside her apartment and when she comes out, they follow her to the old cinema theatre that Paul owns. They hide inside the theatre and find out that Helen Moss (Melanie Norris) is a young, beautiful actress looking for a job. While eavesdropping on Paul and Helen, they hear the couple talking about the money they're going to get from selling the theater. Paul and Helen are interrupted by the arrival of Gladys Dalton (Marge Redmond), Paul's only assistant, who is a middle-aged woman walking with a cane. In the middle of the night, while Paul is away, Carol goes back in his apartment, taking a very frightened Larry along with her. She presses the «last number dialed» button on the telephone and someone named «Waldron» answers the phone. Larry inadvertently breaks a statuette in the bedroom, and picking up the debris, Carol finds a suspicious pair of gloves. Going out of the restaurant were they have been celebrating their son (Zack Braff) Nick's birthday, Larry and Carol meet Marcia Fox (Anjelica Huston), an author and a client of Larry. When Marcia is gone, Larry explains to Carol that he wants to «fix» Marcia with Ted, but Carol doubts it would work. Later, Carol meets Ted in a lounge for a wine-tasting party. Ted drinks a bit too much wine and confess to Carol he is in love with her. He goes away and Carol remains seated near the window, looking absently at the street, when, in a bus, she sees a woman that looks very much like the deceased Lilian House. When, back home, she tells Larry about it, Larry answers that she had certainly drunk too much wine. To please Carol, he even suggests that Lilian could have a twin. Next day, Carol goes back, with Ted, to the place where she saw the bus. Ted has been investigating and found that Lilian had a sister and a brother, but no twin. A bit further down on the street, they find a «Hotel Waldron», «Waldron» being the name Carol was given when she called the «Last Number Dialed» on Paul's telephone. Ted calls the hotel from a pay-phone, and finds there is no Mrs House and no Miss Moss staying at the hotel. Meanwhile, in a empty restaurant, Marcia is giving Larry a poker lesson. While playing, Larry tells Marcia about his feeling that Carol is having an affair with Ted. Marcia tells him he should try to involve himself in Carol's investigation despite having denounced it as foolishness. So Larry goes along with Carol to spy on the Waldron Hotel from their car and they see Lilian House entering the hotel. They question the hotel clerk (Aida Turturro) and find that Lilian is staying there under a false name. On the pretense of giving her a birthday present, they go to her room and find her dead on the floor. They rush out of the hotel and call the police, but when, a bit later, the police eventually search the room, they don't find anyone in the room, not even a dead body. Nevertheless, one of the policeman gives his business card to Larry. Much later in the evening, Larry and Carol come back to the street near the hotel and, from the street, they see a light in Lilian's room. Using the business card the police officer gave him, Larry pretends to be a policeman. The night clerk (Yanni Sfinias), who has never seen them before, let them go into Lilian's room, which they start searching for clues. And they find Lilian's wedding ring. While leaving the hotel, they get stuck in the elevator, triggering Larry's severe claustrophobia. Carol opens the emergency exit panel to escape and finds Lilian's body hidden on the roof of the elevator cabin. The lights go out, and the elevator rides down to the basement. When they exit in the back street behind the hotel, they see Paul putting a wrapped body in the trunk of his car. Carol and Larry follow him out of the city to a junk yard. Paul dumps Lilian's body on a pile of scrap metal, and it is dropped into a melting furnace with the metal. Larry and Carol are helpless and the evidence of murder is destroyed. They come back home, and as they reach their building, they see Paul coming out of it, walking slowly because he is accompanied by Gladys Dalton. He says they've been watching Madame Bovary and she confirms his alibi. Larry and Carol know that Ted is having diner with Marcia in a restaurant called Vincent's and they decide to meet them there. The four of them discuss the mystery and try to solve it. Larry remembers that, when they came home, the night of Lilian's death, the body was already covered with a sheet and they never actually saw it. Carol is also sure it was Paul they saw cremating his wife's body in the junk yard. Marcia thinks that Paul has committed the perfect murder. And she explains it : The night of the murder, they had a guest, who looked a bit like Lilian, and this guest had a heart attack. After her death, Lilian dressed her with her own clothes, and then hid somewhere in the apartment, while Paul was waiting for the doctor. When the doctor and the paramedics were gone with the body, Lilian went to the Waldron hotel under a false name. But Paul had been cheating on his wife with Helen Moss for a long time, and he decided to double-cross her and kill her, taking her share of the profits. Gladys Dalton is in love with Paul and she lied both to the police about Paul being working with her while he was killing his wife in the hotel, and to Larry and Carol about Paul watching Madame Bovary with her while he was cremating his wife in the junk yard. Carol gets a bit jealous of Marcia getting all the attention from both Larry and Ted, because of her brilliant explanation of the mystery, so acrimoniously she says Marcia has no proof about Paul being the murderer. But Marcia answers she has a plan to make Paul confess the murder. Ted owns a theater and Marcia, Larry, Carol, Ted, Sy and Marilyn use it to stage a fake audition, to which they ask Helen Moss to come. They tape-record the whole audition, and then Sy edits the tape, changing the sentences Helen said to fit in the fake dialogue they need to trap Paul. To be sure Helen won't be with Paul when they call him, Ted meets Helen in a bar to talk to her about the stage play he supposedly wants her to be part of. Meanwhile in Sy and Marilyn's apartment, Carol, Larry, Sy and Marilyn each have a small tape machine which they play in turn to give Paul, whom they are calling, the impression that he is actually getting a call from Helen. Helen's faked call suggests that «his neighbors» have his wife's body and that they want $200,000 for it. Either he pays them or he kills them. Marcia believes that Paul will try to kill them, and the police can then catch him in the attempt. After the call, Paul meets Gladys outside his office in the movie theatre. Seeing him worried, she tells him she is always available if he needs help, but he gets mad at her and tells her to stop interfering with his business. Meanwhile, in the street outside Sy and Marilyn's building, Carol is getting mad at Larry, whom she accuses of being in love with Marcia. She eventually tells him she feels like being alone for a while and she walks away. A bit later, as scheduled by Marcia, Larry calls Paul from a pay phone, telling him he has a «package» that is going to cost him $200,000. But what he doesn't know is that Paul has kidnapped Carol. And Paul answers that he also has a package for him, and, to prove it, he gets Carol on the phone. He then asks Paul to bring Lilian's body to the movie theater. Larry goes to the theater with a dummy in the trunk of his car. When he sees it, Paul gets mad and the two men start fighting on the parking lot of the theatre, but Larry breaks away from Paul and rushes into the theatre. He starts searching for Carol, but becomes disoriented by an array of mirrors behind the theater screen, mirrors which are reflecting the movie being played (Orson Welles's «The Lady from Shanghai»). Paul stalks him with his gun in hand, but he is shot by Gladys, who doesn't want Paul to drop her for Helen. Meanwhile, Larry rescues Carol and they call the police. They're both in love with each other again. Later, Marcia explains to Ted what exactly happened. The dead body in the apartment was Lilian's rich sister, who bore a strong resemblance with Lilian. The sister had a heart attack while having dinner with them, and the Houses took advantage of the situation. Lilian ran away from the apartment to hide at the hotel Waldron under a false name while Paul was showing the doctor his dead «wife». Pretending to be her sister, Lilian changed her sister's will naming Lilian and Paul as her sole beneficiaries. But Paul double-crossed her, killed her and cremated her, so he could run off with Helen. Gladys covered for him, because she was in love with him, but without knowing he actually was a murderer. Marcia and Ted are starting a romantic relation, and Larry and Carol are acting as a couple of young lovers !",
+      "writers": [
+         "Woody Allen",
+         "Marshall Brickman"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0107507/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTg0MzIyNjQ1NF5BMl5BanBnXkFtZTcwODU2MjYxMQ@@._V1_SY317_CR4,0,214,317_AL_.jpg",
+      "actors": ["Stars: Woody Allen, Diane Keaton, Jerry Adler | See full cast and crew »"],
+      "reviews": [
+         "This is the sort of movie I can watch over and over. In one word I would say it is clever. A combination of mystery, suspense, drama, and Allen's ingenious humor, Manhattan Murder Mystery is my favorite Woody Allen movie. Perhaps my favorite movie - period. The plot was fresh, and having such humor with suspense is just too good. Another quality I enjoy in this movie is how Allen avoids an \"over-polished\" look. For instance, the scene where a neighbor in the hallway asks Paul about a rent increase. The actor appears to stumble for the right word, but Allen let the scene go that way giving it a very natural look. The restaurant scenes also portray realism with multiple conversations at one time; a quality I love in all of his movies. This makes reviewing the movies interesting- you pick up something new each time you watch it! Woody Allen's style is definitely an intelligent humor.",
+         "No one took this film seriously when it came out earlier this decade. Most people thought it a fluffy, trifle of a film. And it is certainly light-hearted compared to some of Allen's weightier fare (see Husbands and Wives, his best movie of the past decade). But having watched this film again recently I think it is a stunning achievement in comedy. Allen and Keaton have great chemistry as a couple in a humdrum marriage who stumble on to what turns out to be a murder cover-up. Watching all the people in this film try to figure out how to be detectives based on stuff they've seen in movies and read in books is hilarious, not to mention smart. The latenight dinner conversation among Allen, Keaton, Alda, and Huston is some of the best, sharpest, funniest, fastest dialogue ever written (or ad libbed). One of the best comedies of the 90s. frink-3",
+         "This is my favorite Woody Allen movie and right up there with Annie Hall and Manhattan as one of his best. Woody is at his best when he has Diane Keaton by his side and this proves it. A lot of his more recent movies haven't been good, because he is pairing himself with much younger actresses who aren't as good at this type of comedy or who aren't good at all in the case of Helen Hunt. This movie is hilarious even if you are my age (20). I think it's refreshing to go the video store and rent a comedy that isn't either a stupid spoof, or a teen comedy that plays like a rated R sitcom. This is a comedy that actually has a story, and Woody has the best lines. If you don't like Woody's style though you won't like this, but if you have seen Annie Hall or any of his other movies and liked them then you should love this one. Zoopansick",
+         "Manhattan Murder Mystery is a terrific Woody Allen film whit a wonderful mix of murder, mystery and comedy. With an all star fantastic cast; Woody Allen, Diane Keaton, Alan Alda, Anjelica Huston and Jerry Adler. The reunion of Keaton and Allen together was such a delight, the chemistry between Allen and Keaton, is truly top-notch, remind me of Annie Hall.(Diane Keatons role where actually intended for Mia Farrow, but as most of you know Woody Allen was going through his off-screen scandal at the time..). Like the most of Allens films this also have a witty dialog and excellent character development. And the murder mystery is very intelligent, fun and stylish mystery-comedy. Whit Manhattan Murder Mystery Allen also reunites with writer Marshall Brickman, they wrote Annie Hall and Manhattan together, Like those films, this one contains some very funny one-liners. Manhattan Murder Mystery is one of Woody Allen's most wonderful movies. 9 out of 10.",
+         "This is a nice and light Woody Allen comedy about a death in a building that could be a murder. At least Diane Keaton's character thinks so, without really having a reason for that. She plays Carol Lipton, married to Larry Lipton (Woody Allen). They have just met their neighbors Paul (Jerry Adler) and Lillian House (Lynn Cohen) when Lillian dies. Because Paul is not that sad and is too ready to move on Carol becomes suspicious. When she is realizing certain strange events that has occurred her suspicion grows. Larry thinks it is pretty stupid but when a friend named Ted (Alan Alda) does believe her and helps her with the investigation he gets jealous and offers to help after all. Whether a real murder has committed is not the point, I guess. Allen gives us standard movie situations, ridicules them a little, and betters them then. There is a scene where Allen and Keaton go from an elevator into a basement when the lights fall out. It is completely dark, something we have seen more in thrillers, and for some reason Allen is able to make this cliché thriller scene suspenseful. There are more of these moments. Since this is an Allen film there are a lot of links to other famous movies (the script itself is a little like Hitchcock's 'Rear Window') and famous scenes, the ending in particular does a terrific job in reliving one of the most memorable scenes out there. (It has to with mirrors, I guess you know what movie I am talking about). This light Allen comedy is a terrific mystery story with brilliant touches that will be liked not only by Allen-fans, but by everyone who loves either comedy or mystery suspense.",
+         "Woody Allen and Diane Keaton reunite in this fine film, and both are in top form. Although it largely abandons the angst-filled themes of many of Allen's earlier films, it replaces it with a playfulness and sense of fun which elevates the film above your standard comedy or mystery. Alan Alda is notable for his fine performance, as well.",
+         "Manhattan Murder Mystery (1993) Dir: Woody Allen Supposedly Miss Keaton (never married by the way) only did this film as a favor to Mr. Allen who was enduring some rather unsavory press at the time concerning his breakup with actress Mia Farrow and his ensuing love affair with Miss Farrow's adopted teenage daughter. Because Allen needed a quick hit, he asked Keaton to help him out by starring in this murder mystery comedy. Luckily for Allen (and for that matter, Keaton) the movie was a hit. Allen and Keaton star as husband and wife in a New York City apartment who suspect that their neighbor killed his wife! Angelica Houston and Alan Alda provide additional comic relief as friends helping the couple solve the mystery. Although the film takes its structure from Rear Window, Allen chose to end it with an homage to Orson Wells's classic mirror sequence in Lady From Shanghai. It's a very funny movie allowing Keaton and Allen to showcase their by now perfected New York City type characters.",
+         "Couple Larry and Carol Lipton (Woody Allen and Diane Keaton) get involved with a complicated murder (they think) when their next door neighbor's wife dies suddenly. Her husband seems strangely calm about it and then Carol sees the dead wife alive and well on a bus... This was a return to comedies after Allen had made a string of dramatic movies. Most people believed he couldn't do comedies anymore. It turns out he hadn't lost his touch and turned out one of his best movies. Seeing Keaton and Allen playing a couple was great (they always worked so well off each other) and, for once, Allen isn't the neurotic one--Keaton is! It was fun seeing him play the strongest partner in a relationship. The dialogue is hilarious--one good line after another and the murder mystery itself is very intricate and interesting. Also there are a number of great old songs playing in the background that perfectly complement the movie--especially \"The Big Noise from Winnetka\" (for when they drive across the bridge at night). And I loved that homage to Orson Welles \"Lady from Shanghai\" at the end. The acting is almost all great. Allen and Keaton are just wonderful--right on target and acting (and speaking) like an old married couple. Alan Alda pops up as Keaton's best friend. I never really liked him but he's OK here. Anjelica Huston (looking incredible) also pops up and gives a very strong (and very funny) supporting role. Also look for Zack Braff (from the TV series \"Srubs\") in his very first role as Keaton and Allen's son (!!!) My only complaint--the jerky, hand held camera-work. It worked fine in Allen's dramas but is just out of place here--the camera should move fluidly in a comedy. That's a small quibble though. This is WELL worth seeing.",
+         "In Manhattan, Carol (Diane Keaton) and her husband Larry Lipton (Woody Allen) are coming home late night when they meet their next door neighbors Lillian (Lynn Cohen) and Paul House (Jerry Adler) in the elevator. Lillian and Paul invite their neighbors to drink coffee with them in their apartment and Lillian shows her treadmill to Carol and Paul shows his collection of stamps to Larry. While drinking coffee, the elderly couple tells that they have been married for twenty-eight years and they have a twin tomb in the cemetery. Lillian tells that she is in good shape and uses her treadmill everyday. On the next night, Carol and Larry go to see The Flying Dutchman in the theater and when they come back home, they learn that Lillian has died of heart attack. A couple of days later, Carol and Larry meet Paul on the street and Carol believes he is too perky for a widower that has just lost his beloved wife. When Carol accidentally finds an urn with Lillian's ashes in Paul's kitchen, she suspects that Paul has killed Lillian and comments with her friend Ted (Alan Alda). They decide to investigate her neighbor and Carol steals the keys of Paul's apartment from the super. She finds that Paul will travel to Paris and not to Caribbean as he had told to Larry and she, with a woman called Helen Moss. When Carol sees by chance Lillian alive in a bus, her curiosity increases and she decides to go further in her investigation. Yesterday I was setting in order and cleaning my films on the shelf, and I decided to see again the VHS \"Manhattan Murder Mystery\". Last time I saw this film was in the 90's and I did not recall the story in details. Woody Allen is one of my favorite directors and actor, and that is the reason why I do not dare to say that this film is one of his best films because I love practically all his filmography. \"Manhattan Murder Mystery\" has mystery, suspense and the refined and witty humor typical from Woody Allen. One of my favorite moments is when Larry compares the need to Carol returning to her shrink with a GM's recall. Another very funny moment is when the clumsy Larry plays the wrong tape during the phone conversation with Paul. If the reader wants to spend 104 minutes laughing, watch \"Manhattan Murder Mystery\" since this film is funny even for those that are not fans of Woody Allen. My vote is eight. Title (Brazil):\"Um Misterioso Assassinato em Manhattan\" (\"A Mysterious Murder in Manhattan\")",
+         "One of Woody Allen's winners from the 1990s (albeit on a minor scale) reunites him quite snugly with Diane Keaton. Allen and Keaton have such a lived-in rapport (with plenty of jabs but no fatigue) that the sight of them together again in a comedy is an automatic uplift. They portray the Liptons, a regular N.Y.C. couple who suspect foul play from the elderly man in their building whose wife has suddenly died. Smooth, smartly assembled nuttiness with sensational support from Alan Alda as a playwright (with a crush on Keaton) and Anjelica Huston, putting off terrific comedic heat as a novelist. Wrapped up wonderfully with an homage to Orson Welles' \"The Lady From Shanghai\". Great fun! *** from ****"
+      ],
+      "genres": [
+         "Comedy",
+         "Crime",
+         "Mystery",
+         "Thriller"
+      ],
+      "productionCompanies": ["TriStar Pictures"],
+      "summaries": [
+         "Larry and Carol are fairly normal New Yorkers who have sent their son off to college. They meet an elderly couple down the hall and later in the week find that the wife has suddenly died. Carol becomes suspicious of Paul who seems to be too cheerful and too ready to move on. She begins her investigation. Larry insists she is becoming too fixated on their neighbor as all of the irregularities seem to have simple non-homicidal explanations. Ted, a recently divorced friend helps her investigation and Larry begins to become jealous of their relationship and agrees to help her.",
+         "A middle-aged couple suspects foul play when their neighbor's wife suddenly drops dead."
+      ],
+      "budget": 13500000
+   },
+   "movielensId": 492,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1993-08-18",
+      "dvdReleaseDate": "1998-12-15",
+      "directors": ["Woody Allen"],
+      "runtime": 104,
+      "movieId": 492,
+      "title": "Manhattan Murder Mystery",
+      "mpaa": "PG",
+      "actors": [
+         "Woody Allen",
+         "Diane Keaton",
+         "Jerry Adler",
+         "Alan Alda",
+         "Anjelica Huston",
+         "Lynn Cohen",
+         "Melanie Norris",
+         "Zach Braff",
+         "Joy Behar",
+         "Ron Rifkin",
+         "John Doumanian",
+         "Sylvia Kauders",
+         "Ira Wheeler",
+         "Marge Redmond",
+         "George J. Manos",
+         "Aida Turturro",
+         "John Costelloe",
+         "Philip Levy",
+         "Wendell Pierce",
+         "Steven Randazzo",
+         "Gloria Irizarry",
+         "John D. Bair",
+         "David Boston",
+         "Frank Pellegrino"
+      ],
+      "imdbMovieId": "0107507",
+      "originalTitle": "Manhattan Murder Mystery",
+      "genres": [
+         "Comedy",
+         "Mystery"
+      ],
+      "youtubeTrailerIds": ["MZAXZ24bAS8"],
+      "plotSummary": "A middle-aged couple suspects foul play when their neighbor's wife suddenly drops dead.",
+      "tmdbMovieId": 10440,
+      "avgRating": 3.66215,
+      "releaseYear": "1993",
+      "numRatings": 3392,
+      "posterPath": "/6y04YdXDoSNxiJ5g0h92NBiatyv.jpg"
+   }
+}

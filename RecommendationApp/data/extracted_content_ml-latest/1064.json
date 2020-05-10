@@ -1,0 +1,746 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "musical",
+            "id": 4344
+         },
+         {
+            "name": "orient",
+            "id": 9392
+         },
+         {
+            "name": "genie",
+            "id": 190536
+         }
+      ],
+      "imdb_id": "tt0115491",
+      "video": false,
+      "title": "Aladdin and the King of Thieves",
+      "recommendations": [
+         15969,
+         10545,
+         13761,
+         9732,
+         10898,
+         10882,
+         11430,
+         10693,
+         10948,
+         16690,
+         10112,
+         12233,
+         10530,
+         10340,
+         3170,
+         12092,
+         11224,
+         14873,
+         11319,
+         10895
+      ],
+      "backdrop_path": "/4EX04WSbSuWOREHVzhXgnFeJbI9.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "Aladdin (voice)",
+               "gender": 2,
+               "credit_id": "52fe44179251416c7502895f",
+               "name": "Scott Weinger",
+               "profile_path": "/rlZpPoORiJzStzIuAyrPOlLhnaL.jpg",
+               "id": 15827,
+               "order": 0
+            },
+            {
+               "cast_id": 3,
+               "character": "Jasmine (voice)",
+               "gender": 1,
+               "credit_id": "52fe44179251416c75028963",
+               "name": "Linda Larkin",
+               "profile_path": "/8Usm5vMUvRlOndW5ENSFhEcc4C2.jpg",
+               "id": 15829,
+               "order": 1
+            },
+            {
+               "cast_id": 23,
+               "character": "Genie (voice)",
+               "gender": 2,
+               "credit_id": "5516af98c3a368348900131d",
+               "name": "Robin Williams",
+               "profile_path": "/5KebSMXT8uj2D0gkaMFJ8VEp53.jpg",
+               "id": 2157,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Cassim (voice)",
+               "gender": 2,
+               "credit_id": "52fe44179251416c75028967",
+               "name": "John Rhys-Davies",
+               "profile_path": "/dvT1NPY8CXIVQh0O1h6rpfYOgKz.jpg",
+               "id": 655,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Iago (voice)",
+               "gender": 2,
+               "credit_id": "52fe44179251416c7502896b",
+               "name": "Gilbert Gottfried",
+               "profile_path": "/cu15UEyL3wnUtTAF5KfuyxxjVzH.jpg",
+               "id": 15832,
+               "order": 4
+            },
+            {
+               "cast_id": 16,
+               "character": "Sa'luk (voice)",
+               "gender": 2,
+               "credit_id": "52fe44189251416c750289ab",
+               "name": "Jerry Orbach",
+               "profile_path": "/95n3bLxEv1kRCwyfpA30J1IEc7N.jpg",
+               "id": 725,
+               "order": 5
+            },
+            {
+               "cast_id": 17,
+               "character": "Sultan of Agrabah (voice)",
+               "gender": 2,
+               "credit_id": "52fe44189251416c750289af",
+               "name": "Val Bettin",
+               "profile_path": "/34jWjrlM4uCm8H9IV9tI5vsS3Xx.jpg",
+               "id": 61674,
+               "order": 6
+            },
+            {
+               "cast_id": 18,
+               "character": "Abu (voice)",
+               "gender": 2,
+               "credit_id": "52fe44189251416c750289b3",
+               "name": "Frank Welker",
+               "profile_path": "/b3gImArbw13mMKJIe9leFc9YYb7.jpg",
+               "id": 15831,
+               "order": 7
+            },
+            {
+               "cast_id": 19,
+               "character": "Razoul (voice)",
+               "gender": 2,
+               "credit_id": "52fe44189251416c750289b7",
+               "name": "Jim Cummings",
+               "profile_path": "/i9frXvIJsGtoFikBEFVqE7uN8Bq.jpg",
+               "id": 12077,
+               "order": 8
+            },
+            {
+               "cast_id": 20,
+               "character": "Oracle (voice)",
+               "gender": 1,
+               "credit_id": "52fe44189251416c750289bb",
+               "name": "CCH Pounder",
+               "profile_path": "/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg",
+               "id": 30485,
+               "order": 9
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "52fe44179251416c75028971",
+               "name": "Tad Stones",
+               "profile_path": null,
+               "id": 56852,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44179251416c75028977",
+               "name": "Mark McCorkle",
+               "profile_path": null,
+               "id": 68699,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44179251416c7502897d",
+               "name": "Bob Schooley",
+               "profile_path": null,
+               "id": 68700,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44179251416c75028983",
+               "name": "Tad Stones",
+               "profile_path": null,
+               "id": 56852,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44189251416c75028995",
+               "name": "Elen Orson",
+               "profile_path": null,
+               "id": 68702,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "584aafbdc3a368140e020535",
+               "name": "Carl Johnson",
+               "profile_path": null,
+               "id": 68701,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 0,
+               "credit_id": "584aafd692514157fa00d4c9",
+               "name": "Dominick Certo",
+               "profile_path": null,
+               "id": 1536029,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "584ab29492514159b000ccae",
+               "name": "Jerry Edemann",
+               "profile_path": null,
+               "id": 1451855,
+               "department": "Editing",
+               "job": "Assistant Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "584ab34c92514119bc01f353",
+               "name": "Ben Wilkins",
+               "profile_path": "/fugnh2KAIvHDx5ipaMomI9NBnAk.jpg",
+               "id": 1049456,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "584aae4592514119b601e87d",
+               "name": "Rich Chidlaw",
+               "profile_path": null,
+               "id": 1720161,
+               "department": "Writing",
+               "job": "Storyboard"
+            },
+            {
+               "gender": 2,
+               "credit_id": "584aafb3c3a368140801ad1b",
+               "name": "Mark Watters",
+               "profile_path": null,
+               "id": 30693,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 0,
+               "credit_id": "584aa8f292514119bf01ebba",
+               "name": "Jamie Thomason",
+               "profile_path": null,
+               "id": 937490,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "584aa90b92514119af01e6a5",
+               "name": "Jeannine Roussel",
+               "profile_path": null,
+               "id": 58830,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "584aa91d92514157fa00d187",
+               "name": "Dale Case",
+               "profile_path": null,
+               "id": 935753,
+               "department": "Visual Effects",
+               "job": "Animation Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "584aa92cc3a368140e020264",
+               "name": "Eddy Houchins",
+               "profile_path": null,
+               "id": 81590,
+               "department": "Visual Effects",
+               "job": "Animation Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "584aa93dc3a368141f01ec83",
+               "name": "John Kimball",
+               "profile_path": null,
+               "id": 1556807,
+               "department": "Visual Effects",
+               "job": "Animation Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "584aa94c92514119bc01eebe",
+               "name": "Marsh Lamore",
+               "profile_path": null,
+               "id": 176058,
+               "department": "Visual Effects",
+               "job": "Animation Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "584aa955c3a368142801ca04",
+               "name": "Rick Leon",
+               "profile_path": null,
+               "id": 1719750,
+               "department": "Visual Effects",
+               "job": "Animation Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "584aae1892514119b601e86c",
+               "name": "Ryan Anthony",
+               "profile_path": null,
+               "id": 1466212,
+               "department": "Writing",
+               "job": "Storyboard"
+            },
+            {
+               "gender": 0,
+               "credit_id": "584aae5192514157fa00d416",
+               "name": "Victor Cook",
+               "profile_path": "/zYLAri6Q45iYcOmgonJQENuvOXJ.jpg",
+               "id": 56851,
+               "department": "Writing",
+               "job": "Storyboard"
+            },
+            {
+               "gender": 0,
+               "credit_id": "584aae61c3a368141a0209ba",
+               "name": "Sharon Forward",
+               "profile_path": null,
+               "id": 1720162,
+               "department": "Writing",
+               "job": "Storyboard"
+            },
+            {
+               "gender": 0,
+               "credit_id": "584aae80c3a368141f01eeff",
+               "name": "Eddy Houchins",
+               "profile_path": null,
+               "id": 81590,
+               "department": "Writing",
+               "job": "Storyboard"
+            },
+            {
+               "gender": 0,
+               "credit_id": "584aae98c3a368140a02035e",
+               "name": "Denise Koyama",
+               "profile_path": null,
+               "id": 1577480,
+               "department": "Writing",
+               "job": "Storyboard"
+            },
+            {
+               "gender": 0,
+               "credit_id": "584aaea792514119bf01ee94",
+               "name": "Lonnie Lloyd",
+               "profile_path": null,
+               "id": 1719753,
+               "department": "Writing",
+               "job": "Storyboard"
+            },
+            {
+               "gender": 0,
+               "credit_id": "584aaeb292514157b500cf50",
+               "name": "Dave Prince",
+               "profile_path": null,
+               "id": 1719754,
+               "department": "Writing",
+               "job": "Storyboard"
+            },
+            {
+               "gender": 0,
+               "credit_id": "584aaec992514159b000cb42",
+               "name": "Debra Pugh",
+               "profile_path": null,
+               "id": 1720163,
+               "department": "Writing",
+               "job": "Storyboard"
+            },
+            {
+               "gender": 0,
+               "credit_id": "584aaed4c3a368140a02037f",
+               "name": "Chris Rutkowski",
+               "profile_path": null,
+               "id": 1466218,
+               "department": "Writing",
+               "job": "Storyboard"
+            },
+            {
+               "gender": 2,
+               "credit_id": "584aaee2c3a368140801acb9",
+               "name": "Robert Taylor",
+               "profile_path": null,
+               "id": 1180949,
+               "department": "Writing",
+               "job": "Storyboard"
+            },
+            {
+               "gender": 2,
+               "credit_id": "584aaeec92514159b000cb55",
+               "name": "Phil Weinstein",
+               "profile_path": null,
+               "id": 90638,
+               "department": "Writing",
+               "job": "Storyboard"
+            },
+            {
+               "gender": 0,
+               "credit_id": "584aaefac3a368141a020a09",
+               "name": "Dana Landsberg",
+               "profile_path": null,
+               "id": 1466219,
+               "department": "Writing",
+               "job": "Characters"
+            },
+            {
+               "gender": 0,
+               "credit_id": "584aaf0092514119bc01f16a",
+               "name": "Kenny Thompkins",
+               "profile_path": null,
+               "id": 1719756,
+               "department": "Writing",
+               "job": "Characters"
+            },
+            {
+               "gender": 0,
+               "credit_id": "584aaf9492514119bf01eefc",
+               "name": "Michelle Pappalardo-Robinson",
+               "profile_path": null,
+               "id": 1720168,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "584ab083c3a368140a020440",
+               "name": "Paul Hulme",
+               "profile_path": null,
+               "id": 1552050,
+               "department": "Sound",
+               "job": "Sound Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "584ab091c3a368142801ccc9",
+               "name": "James Twomey",
+               "profile_path": null,
+               "id": 1442219,
+               "department": "Sound",
+               "job": "Sound Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "584ab0d2c3a368141f01f020",
+               "name": "John Richards",
+               "profile_path": null,
+               "id": 1604463,
+               "department": "Sound",
+               "job": "Sound Mixer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "584ab23dc3a368140a0204fd",
+               "name": "Harry Hitner",
+               "profile_path": null,
+               "id": 56284,
+               "department": "Editing",
+               "job": "Supervising Film Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "584ab24dc3a368141f01f0da",
+               "name": "Robert Fisher Jr.",
+               "profile_path": null,
+               "id": 993265,
+               "department": "Editing",
+               "job": "Supervising Film Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "584ab2ec92514159b000ccd6",
+               "name": "Wendy J. Miller-Smith",
+               "profile_path": null,
+               "id": 1720171,
+               "department": "Crew",
+               "job": "Post Production Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "584ab30292514119bc01f32b",
+               "name": "Mark von der Heide",
+               "profile_path": null,
+               "id": 1720172,
+               "department": "Crew",
+               "job": "Post Production Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "584ab32192514119b301f4f2",
+               "name": "Stephen Hunter Flick",
+               "profile_path": "/83arZqrN59fhxybLLmo5KUp0FSc.jpg",
+               "id": 554887,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "584ab393c3a368141f01f177",
+               "name": "Warren Hamilton Jr.",
+               "profile_path": null,
+               "id": 1269306,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "584ab3a5c3a3681414020366",
+               "name": "Rick Freeman",
+               "profile_path": null,
+               "id": 1550201,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "584ab3b0c3a368141402036c",
+               "name": "Charles Maynes",
+               "profile_path": null,
+               "id": 554888,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "584ab3c9c3a368140801aec8",
+               "name": "Matthew C. Beville",
+               "profile_path": null,
+               "id": 1596321,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "584ab3d4c3a368140a0205a7",
+               "name": "Michael Geisler",
+               "profile_path": null,
+               "id": 1422064,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "584ab3e792514119bc01f38f",
+               "name": "Wayne Heitman",
+               "profile_path": null,
+               "id": 1342624,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "584ab3f192514157b500d15e",
+               "name": "Mel Metcalfe",
+               "profile_path": null,
+               "id": 74976,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "584ab3fa92514119bc01f398",
+               "name": "Rick Alexander",
+               "profile_path": null,
+               "id": 1052,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "584ab41992514157fa00d6c2",
+               "name": "Anita Lish",
+               "profile_path": null,
+               "id": 1719773,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Adventure",
+            "id": 12
+         },
+         {
+            "name": "Animation",
+            "id": 16
+         },
+         {
+            "name": "Family",
+            "id": 10751
+         }
+      ],
+      "popularity": 12.590008,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 11238,
+      "vote_count": 625,
+      "budget": 0,
+      "overview": "Legendary secrets are revealed as Aladdin and his friends\u2014Jasmine, Abu, Carpet and, of course, the always entertaining Genie\u2014face all sorts of terrifying threats and make some exciting last-minute escapes pursuing the King Of Thieves and his villainous crew.",
+      "similar": [
+         812,
+         11224,
+         872,
+         224141,
+         14128,
+         16119,
+         15121,
+         11970,
+         38757,
+         8587,
+         9325,
+         630,
+         10020,
+         9479,
+         15969,
+         3933,
+         46195,
+         196867,
+         134,
+         252
+      ],
+      "original_title": "Aladdin and the King of Thieves",
+      "runtime": 81,
+      "poster_path": "/f6cwFA76j6aaRu1KOQ8bBYfSlLx.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": "/jTPNzDEn7eHmp3nEXEEtkHm6jLg.png",
+         "name": "Walt Disney Television Animation",
+         "id": 3475,
+         "origin_country": "US"
+      }],
+      "release_date": "1996-05-20",
+      "vote_average": 6.1,
+      "belongs_to_collection": {
+         "backdrop_path": "/naeLgo2bt4WKfHF4BTrG6mkmjiY.jpg",
+         "name": "Aladdin Collection",
+         "id": 86027,
+         "poster_path": "/9jAbtLbAbebtuF5q1gZIPUCuegd.jpg"
+      },
+      "tagline": "The Spectacular Adventure Continues!",
+      "adult": false,
+      "homepage": "http://movies.disney.com/aladdin-and-the-king-of-thieves",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Tad Stones"],
+      "runtime": 80,
+      "synopsis": null,
+      "writers": [
+         "Mark McCorkle",
+         "Robert Schooley"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0115491/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTc0ODM0MjI2OV5BMl5BanBnXkFtZTcwMDAwNTcyMQ@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Scott Weinger, Robin Williams, John Rhys-Davies | See full cast and crew »"],
+      "reviews": [
+         "I know that a lot of people had preferred Aladdin and the King of Thieves over The Return of Jafar, but honestly I thought it was a notch lower. Don't get me wrong, I did enjoy this movie but it was just an alright story. One thing that I really did love about it though is that we do have the original cast back and the animation was really lovely. The problem I had though is that at this time we did have the Aladdin animated series, which was awesome to watch, but this felt like a story that they could have just done on the TV show. Aladdin finally gets to meet his father, but of course this wasn't exactly what he was expecting, maybe he was expecting a Ward Cleaver type of guy, but hey, this is Aladdin after all. Aladdin knows his future is being married to Jasmine but can't remember most of his past. But he remembers that his mother died when he was a child and he never knew his father. The oracle, however, reveals that his father is actually still alive. Aladdin chooses his question and asks about his father's whereabouts. The oracle reveals that his father is with the Forty Thieves, trapped in their world. Believing him to be their prisoner, Aladdin tracks them down and stows away into their hideout. He is shocked to find that his father is not their prisoner at all, but their leader: Cassim, the King of Thieves. But, family or not, Aladdin has trespassed in their lair and Sa'luk, Cassim's irate right-hand man is eager to have him punished for it. Cassim, however, suggests that Aladdin instead face \"the Challenge\" - an initiation ritual - where he must defeat another one of the Forty Thieves and take his place. Sa'luk volunteers to fight Aladdin. The two engage one another in a fierce battle which ends with Sa'luk falling into the ocean. Afterwards, this gains Aladdin a place among the Forty Thieves. Sa'luk however, has survived the fall, and makes his own plans for revenge against both Aladdin and Cassim. Aladdin and Cassim bond, and it is then that Aladdin learns the true motives behind the raid and his father's leave of absence from his family: he had discovered evidence of the existence of the Hand of Midas, a powerful artifact that can transform anything it touches into solid gold. Cassim believed that, with the Hand, he could return to his family and give them the life they deserved instead of one living out in the streets, and had instigated the raid so he could capture the oracle's staff so he might question the seer as to the precise whereabouts of the artifact. Only, Aladdin had stopped him. Aladdin convinces Cassim to come back with him to the Palace as his guest and, for a while, he is happy to spend quality time with his son. Cassim meets with Jasmine, Genie and the Sultan, and they immediately take a liking to Aladdin's father. But Cassim may still be up to his old tricks as Aladdin still tries to fill the relationship that he never had with his father. So is Aladdin and the King of Thieves worth the watch? Yeah, I did enjoy this movie over all, it's a lot of fun and it was cool to have Robin Williams bring life back into the genie. The animation was really great and I loved seeing the action sequences between Aladdin and his father. The effects that the animators put into this movie was great and very entertaining. Then on top of that, Aladdin and Jasmine are finally getting married! They invited you to come along as well! Well over all I do recommend that if you're looking for a cute family film, this is a good one, I just preferred Return of Jafar a little more, but it's all good, this was still a worthy sequel and a good finish to the story of Aladdin. 6/10",
+         "voices: Scott Weigner, Linda Larkin, Val Bettin, Frank Welker, John Rhys Davies, Gilbert Gottfried, CCH Pounder and Robin Williams. Unlike later made for video sequels, this one does not follow the plot line, \"Main character has a kid, who longs for what he/she can't have.\" This movie has a great plot, it's that Aladdin and Jasmine's wedding is crashed by the 40 thieves, the leader of the group is his long lost father. This also marks the return of Robin Williams as Genie, where the sequel and television show had Dan Castellaneta. Of course, since Robin returns he has a gag every ten seconds, but most of them land pretty well. The songs are quite good, and the characters are really quite fun. The animation is not that great, but it works well enough where you don't really notice it. I recommend this finale to the Alddin trilogy. My rating-*** out of ****. 81 mins. Rated G.",
+         "Now this was a sequel well done! Robin Williams is back from the first movie and just as funny! I think they let him go loose a bit more... Which works nice! The music is totally different from the original. The Return of jafar had music that sounded a bit like the original music, but this has a totally different approach. The result is a very, very decent soundtrack! Nice songs, though not impressive. Animation has some flaws, but all and all very well drawn, too! The new characters are fun, I just love Cassim!!! However, I don't like the characterdesign of Sa'Luk... But maybe that's just me... All things considered, this is a very good sequel!!!",
+         "I enjoyed this sequel to \"Aladdin\". Another of Disney's direct-to-video releases, the movie features decent animation, a good story, and music that is pretty good. In the story, Aladdin goes in search of his father. Upon discovering him, he finds that his dad is the leader of a gang of thieves. I enjoyed the movie and it was nice to see (or hear) Robin Williams providing the voice of Genie again. \"King Of Thieves\" is a great improvement over \"Return Of Jafar.\" In the original \"Aladdin\", the animation of the flying carpet was computer generated. Here, it is done with conventional animation. There did not appear to be any extensive computer animation in \"King Of Thieves.\" Still, I thought that was okay. This is a made-for-video picture, and obviously it would have been made on a much smaller budget. This was a movie that was meant to be seen on television screens. I relish that Disney has made some fine direct-to-video sequels. Most are pretty good. \"King Of Thieves\" is worthwhile. Disney's first made-for-video picture was \"The Return Of Jafar\" (the first \"Aladdin\" sequel). \"Lion King II - Simba's Pride\", and \"Pocahontas II - Journey To A New World\" are others. I recommend all of them. Give Disney some credit. These are great additions to my Disney Library.",
+         "All of the recent Disney sequels have a set formula that makes them generally the same movie. The main characters have a kid, the kids a rebel, and gets into trouble. Not so with this one. It effectively combines the Aladdin story with the legend of Midas - a touch that turned everything to gold. Again we get to see Robin Williams in character as the blue genie, and funny as always. Again, its a movie meant for the kids, but everyone can find some value in it.",
+         "This was one of the better sequels. The humour was not too cheesy, hardly surprising, seeing as the excellent Robin Willams was again voicing the Genie, and the voice of Cassim did a wonderful job. The animation wasn't great, but better then the Return of Jafar by a mile. The songs were a bit limp, but were upbeat and not that often. \"Welcome to the forty Thieves,\" was my personal favourite. The storyline was strong and we even got a touch of mythology in there! A good yarn to keep the kids quiet, and compulsive and entertaining enough for the adults. The best sequel out there..... Jasmine looked a little dodgy on some parts of the animation, while Cassim looked better then all of them. A few old gags and scenes from the first movie were woven in, but not to such a extent that it was major clinch overload. A enjoyable enough film, which I actually quite like.^^",
+         "The third Aladdin film is not as good as the first film, but better than the second. Animation is vastly improved over the last one, but still can't compare to the first. Hey it's a direct to video movie, so it won't get the big budget of a theatrical release. Robin Williams is back as the Genie and is as hilarious as ever. I don't care if he was over done or not, he was very funny and vital to the movie. The songs were much better than people make them out to be. This movie had a great story and was a fitting end to the Aladdin story. Thumbs way up on this one.",
+         "Robin Williams came back as Genie,fortunately,and most of his jokes are hilarious.ALADDIN AND THE KING OF THIEVES is one hundred percent better than THE RETURN OF JAFAR. But then,a root canal would be better than TROJ...anyway,the story is interesting and the voices are wonderful (John Rhys-Davies is brilliant as Cassim.) My only complaints are the rather limp songs and the animation of Jasmine,who looks like she's been deflated. Other than that,the characters are more like themselves than they were in TROJ,and Rasoul just rules. A fitting,imaginative conclusion.",
+         "This was not the best disney animated sequel of all. but in all Aladdin and the king of thieves does absolutely have a good story line. the story of aladdins father is very heartfelt, that is why i gave it a 6 rating. and why did Iago have to be in this one also. i mean he got to be in the first two and he was the 2nd main character in the return of jafar. alls well that ends well though. aladdin and jasmine finally get married. the song for this sequence is very sweet. i liked this one better than the second, since robin williams returning role as the Genie. I liked it when he was Mrs Doubtfire. this is a good movie to watch over again.",
+         "I never knew why Robin didn't do the second movie, now I do. It was due to an dispute with Disney over merchandising. But all that's over Robin Williams is back as Genie and God did I miss him. Not that Dan Castellaneta didn't do a good job filling in for him in THE RETURN OF JAFAR and the TV SERIES. But Robin is genie. Now the music and the plot works for the most part. The only thing I don't get is why they didn't arrest that one Guard who hates Aladdin and will do anything to see him dead. He worked for Jafar in the first movie, he should have been executed for treason after that. But when they find out the King Of Thieves is Aladdin's father they treat him like dirt. Forgetting this was the man who abandoned his family to search for wealth, and he never saw since he was a mere boy. Guilt by bloodline is just wrong. But it makes up for that in other ways and I give it 7 STARS."
+      ],
+      "genres": [
+         "Animation",
+         "Comedy",
+         "Family",
+         "Fantasy",
+         "Musical",
+         "Romance"
+      ],
+      "productionCompanies": ["Walt Disney Television Animation"],
+      "summaries": [
+         "At long last, Aladdin is about to marry the Princess Jasmine. Despite the presence and encouragement of his friends Genie, Carpet, and Abu, he is fearful and anxious. He is most worried as to what kind of father he will be, having never known his own. But when the 40 Thieves disrupt the wedding trying to steal a magical oracular talisman, Aladdin is drawn into a dangerous quest to stop the thieves...and find his long-lost father.",
+         "People near and far are heading for Agrabah as the royal wedding of the century is about to take place. But before Aladdin and Jasmine can say \"I do,\" the legendary Forty Thieves spoil everything in a desperate search for the powerful Hand of Midas - the ultimate treasure that turns all it touches into gold! When the dust settles, a mysterious, all-knowing oracle reveals that Aladdin's long-lost father is still alive, sparking a quest that leads directly to the dangerous, secret den of the King of Thieves! Will Aladdin ever find his father? Who will control the mighty Hand of Midas? Will Aladdin and Jasmine finally get married?"
+      ],
+      "budget": 0
+   },
+   "movielensId": 1064,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1996-05-20",
+      "dvdReleaseDate": "2005-01-18",
+      "directors": ["Tad Stones"],
+      "runtime": 81,
+      "movieId": 1064,
+      "title": "Aladdin and the King of Thieves",
+      "mpaa": "G",
+      "actors": [
+         "Scott Weinger",
+         "Linda Larkin",
+         "Robin Williams",
+         "John Rhys-Davies",
+         "Gilbert Gottfried",
+         "Jerry Orbach",
+         "Val Bettin",
+         "Frank Welker",
+         "Jim Cummings",
+         "CCH Pounder"
+      ],
+      "imdbMovieId": "0115491",
+      "originalTitle": "Aladdin and the King of Thieves",
+      "genres": [
+         "Adventure",
+         "Animation",
+         "Family"
+      ],
+      "youtubeTrailerIds": [
+         "zIJFDIV7SrI",
+         "eIobMaMQwVY"
+      ],
+      "plotSummary": "Legendary secrets are revealed as Aladdin and his friends\u2014Jasmine, Abu, Carpet and, of course, the always entertaining Genie\u2014face all sorts of terrifying threats and make some exciting last-minute escapes pursuing the King Of Thieves and his villainous crew.",
+      "tmdbMovieId": 11238,
+      "avgRating": 3.10541,
+      "releaseYear": "1996",
+      "numRatings": 3681,
+      "posterPath": "/f6cwFA76j6aaRu1KOQ8bBYfSlLx.jpg"
+   }
+}

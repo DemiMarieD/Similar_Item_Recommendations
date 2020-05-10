@@ -1,0 +1,880 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "california",
+            "id": 387
+         },
+         {
+            "name": "restaurant",
+            "id": 1946
+         },
+         {
+            "name": "drug dealer",
+            "id": 2231
+         },
+         {
+            "name": "shadowing",
+            "id": 4918
+         },
+         {
+            "name": "restaurant owner",
+            "id": 5167
+         },
+         {
+            "name": "cop",
+            "id": 8015
+         },
+         {
+            "name": "best friend",
+            "id": 12392
+         },
+         {
+            "name": "seaside town",
+            "id": 187224
+         }
+      ],
+      "imdb_id": "tt0096244",
+      "video": false,
+      "title": "Tequila Sunrise",
+      "recommendations": [
+         11856,
+         1727,
+         10859,
+         10551,
+         11595,
+         2142,
+         9292,
+         10326,
+         9395,
+         2990,
+         4954,
+         11074,
+         9057,
+         2669,
+         10990,
+         11873,
+         12395,
+         11066,
+         7007,
+         9085
+      ],
+      "backdrop_path": "/z4oUsUKZLVG4moG7bHYdOoY7DuM.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Dale \"Mac\" McKussic",
+               "gender": 2,
+               "credit_id": "52fe43669251416c7500eded",
+               "name": "Mel Gibson",
+               "profile_path": "/4IsmIFUgoJgUZjen8Ldxnw5YQvG.jpg",
+               "id": 2461,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Nick Frescia",
+               "gender": 2,
+               "credit_id": "52fe43669251416c7500edf1",
+               "name": "Kurt Russell",
+               "profile_path": "/rlnFuNkisPpuypARI7QaGCmOY6V.jpg",
+               "id": 6856,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Agent Hal McGuire",
+               "gender": 2,
+               "credit_id": "52fe43669251416c7500edf5",
+               "name": "J.T. Walsh",
+               "profile_path": "/39KZjhJSyDjvBhKGj0IbGVteFAm.jpg",
+               "id": 22131,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Jo Ann",
+               "gender": 1,
+               "credit_id": "52fe43669251416c7500edf9",
+               "name": "Michelle Pfeiffer",
+               "profile_path": "/vyoJV5QYwIGZohrPpKFdKc7EpSP.jpg",
+               "id": 1160,
+               "order": 3
+            },
+            {
+               "cast_id": 11,
+               "character": "Carlos / Comandante Xavier Escalante",
+               "gender": 2,
+               "credit_id": "52fe43669251416c7500ee21",
+               "name": "Raúl Juliá",
+               "profile_path": "/nh6jWnEubiTKp61EpEYcB2lFQH0.jpg",
+               "id": 27888,
+               "order": 4
+            },
+            {
+               "cast_id": 12,
+               "character": "Cody McKussic",
+               "gender": 2,
+               "credit_id": "52fe43669251416c7500ee25",
+               "name": "Gabriel Damon",
+               "profile_path": null,
+               "id": 44055,
+               "order": 5
+            },
+            {
+               "cast_id": 13,
+               "character": "Gregg Lindroff",
+               "gender": 2,
+               "credit_id": "52fe43669251416c7500ee29",
+               "name": "Arliss Howard",
+               "profile_path": "/zDBEVA7Skrje3A8bmR2VOJRwkZc.jpg",
+               "id": 3229,
+               "order": 6
+            },
+            {
+               "cast_id": 14,
+               "character": "Andy Leonard",
+               "gender": 2,
+               "credit_id": "52fe43669251416c7500ee2d",
+               "name": "Arye Gross",
+               "profile_path": "/ha4ziYlBSBBHs88ltnamOKLZ084.jpg",
+               "id": 72028,
+               "order": 7
+            },
+            {
+               "cast_id": 15,
+               "character": "Arturo, Bartender at Vallenari's",
+               "gender": 2,
+               "credit_id": "52fe43669251416c7500ee31",
+               "name": "Daniel Zacapa",
+               "profile_path": "/9QXMMpfb1iqmG6MoevtyKbhOWhO.jpg",
+               "id": 12054,
+               "order": 8
+            },
+            {
+               "cast_id": 16,
+               "character": "Vittorio Vallenari",
+               "gender": 0,
+               "credit_id": "52fe43669251416c7500ee35",
+               "name": "Eric Thiele",
+               "profile_path": null,
+               "id": 554617,
+               "order": 9
+            },
+            {
+               "cast_id": 17,
+               "character": "Leland",
+               "gender": 2,
+               "credit_id": "52fe43669251416c7500ee39",
+               "name": "Tom Nolan",
+               "profile_path": "/AtyP7vlyxsSWsXGmTHo6flEyPkG.jpg",
+               "id": 101658,
+               "order": 10
+            },
+            {
+               "cast_id": 18,
+               "character": "Sin Sister #1",
+               "gender": 0,
+               "credit_id": "52fe43669251416c7500ee3d",
+               "name": "Dawn Martel",
+               "profile_path": null,
+               "id": 554618,
+               "order": 11
+            },
+            {
+               "cast_id": 19,
+               "character": "Sin Sister #2",
+               "gender": 1,
+               "credit_id": "52fe43669251416c7500ee41",
+               "name": "Lala Sloatman",
+               "profile_path": "/2cz5bD1xlUiKkMIF5k2CgVEvAwN.jpg",
+               "id": 22072,
+               "order": 12
+            },
+            {
+               "cast_id": 20,
+               "character": "Judge Nizetitch",
+               "gender": 2,
+               "credit_id": "52fe43669251416c7500ee45",
+               "name": "Budd Boetticher",
+               "profile_path": "/tPlwIJ5AN9R7wwBxB0bimsCQD5J.jpg",
+               "id": 18574,
+               "order": 13
+            },
+            {
+               "cast_id": 21,
+               "character": "Shaleen McKussic",
+               "gender": 1,
+               "credit_id": "52fe43669251416c7500ee49",
+               "name": "Ann Magnuson",
+               "profile_path": "/ry9H1u1GFbwXiWWolYA63pjBctp.jpg",
+               "id": 37042,
+               "order": 14
+            },
+            {
+               "cast_id": 35,
+               "character": "Man in Party",
+               "gender": 0,
+               "credit_id": "5900adf8c3a368103a00c7a1",
+               "name": "David Rees",
+               "profile_path": "/mqiP2YOuPodhW14rDKGnwM3lziX.jpg",
+               "id": 1804166,
+               "order": 15
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe43669251416c7500edff",
+               "name": "Robert Towne",
+               "profile_path": "/hF5R8kmpreIZsv47mIYzDN5XX2Q.jpg",
+               "id": 11057,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43669251416c7500ee05",
+               "name": "Robert Towne",
+               "profile_path": "/hF5R8kmpreIZsv47mIYzDN5XX2Q.jpg",
+               "id": 11057,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43669251416c7500ee0b",
+               "name": "Thom Mount",
+               "profile_path": null,
+               "id": 4052,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe43669251416c7500ee11",
+               "name": "Conrad L. Hall",
+               "profile_path": "/fGWnmu9EAYqX974sP0ddkOjgVEy.jpg",
+               "id": 8217,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43669251416c7500ee17",
+               "name": "Dave Grusin",
+               "profile_path": "/h6EgxJIsRpObohHdvlUGEAu6EqK.jpg",
+               "id": 10771,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe43669251416c7500ee1d",
+               "name": "Claire Simpson",
+               "profile_path": null,
+               "id": 11880,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "532ac7f1c3a3681fe3001938",
+               "name": "Bonnie Timmermann",
+               "profile_path": "/jM8QANtq0v7Eqy8ZYtKot27nsfK.jpg",
+               "id": 897,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "532ac81ec3a3681ff7001944",
+               "name": "Julie Weiss",
+               "profile_path": null,
+               "id": 8222,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5644ada2c3a36870ec005995",
+               "name": "Richard Sylbert",
+               "profile_path": null,
+               "id": 12017,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5644adb29251410a53005c86",
+               "name": "Peter Landsdown Smith",
+               "profile_path": null,
+               "id": 2026,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5644adc49251410a47005de3",
+               "name": "Rick Simpson",
+               "profile_path": null,
+               "id": 906,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5644addd9251410a47005ded",
+               "name": "Roger Irvin",
+               "profile_path": null,
+               "id": 1534931,
+               "department": "Art",
+               "job": "Construction Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5644adff9251410a3f005bdd",
+               "name": "Ron Frazier",
+               "profile_path": null,
+               "id": 1534932,
+               "department": "Crew",
+               "job": "Carpenter"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5644ae15c3a36870ef005e60",
+               "name": "Judy Cammer",
+               "profile_path": null,
+               "id": 1534933,
+               "department": "Art",
+               "job": "Set Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5644ae3fc3a36870d6005e7d",
+               "name": "Ronald I. Caplan",
+               "profile_path": null,
+               "id": 1321695,
+               "department": "Costume & Make-Up",
+               "job": "Costume Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5644ae52c3a36870e300632b",
+               "name": "Peter V. Saldutti",
+               "profile_path": null,
+               "id": 1455393,
+               "department": "Costume & Make-Up",
+               "job": "Costume Supervisor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5644ae70c3a36870d6005e83",
+               "name": "Mary A. Kelly",
+               "profile_path": null,
+               "id": 1464541,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5644ae8a9251410a41005cb5",
+               "name": "Toni-Ann Walker",
+               "profile_path": null,
+               "id": 9337,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5644ae9b92514133ab005531",
+               "name": "Dorothy J. Pearl",
+               "profile_path": null,
+               "id": 10066,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a5b3977c3a368680201a069",
+               "name": "Jamie Anderson",
+               "profile_path": null,
+               "id": 13622,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a5b398d9251413f6201c948",
+               "name": "Lee Nakahara",
+               "profile_path": null,
+               "id": 1959727,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a5b39a99251413f7401ce74",
+               "name": "John Toll",
+               "profile_path": null,
+               "id": 2483,
+               "department": "Camera",
+               "job": "Second Unit Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a5b39c10e0a267fd301e1e1",
+               "name": "Randy Nolen",
+               "profile_path": null,
+               "id": 1391594,
+               "department": "Camera",
+               "job": "Steadicam Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a5b39d69251413f6501bded",
+               "name": "François Duhamel",
+               "profile_path": null,
+               "id": 1177850,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a5b39f80e0a267fe001e151",
+               "name": "Robert Seaman",
+               "profile_path": null,
+               "id": 60456,
+               "department": "Camera",
+               "job": "Second Unit Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a5b3a1b0e0a26570601aaeb",
+               "name": "Patrick Marshall",
+               "profile_path": null,
+               "id": 1634730,
+               "department": "Lighting",
+               "job": "Rigging Gaffer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a5b3a5a9251413f6501be4a",
+               "name": "Tom May",
+               "profile_path": null,
+               "id": 1910703,
+               "department": "Camera",
+               "job": "Key Grip"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a5b3a73c3a36867db01c81d",
+               "name": "Danny Jimenez",
+               "profile_path": null,
+               "id": 1959728,
+               "department": "Camera",
+               "job": "Dolly Grip"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5a5b3ac1c3a36867db01c878",
+               "name": "Sharmagne Leland-St. John",
+               "profile_path": null,
+               "id": 1497770,
+               "department": "Production",
+               "job": "Researcher"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a5b3b029251413f6801c27d",
+               "name": "Dan Perri",
+               "profile_path": null,
+               "id": 1648134,
+               "department": "Art",
+               "job": "Title Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a5b3c540e0a267fdd01e6ae",
+               "name": "James Simcik",
+               "profile_path": null,
+               "id": 1422061,
+               "department": "Sound",
+               "job": "ADR Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a5b3c6e0e0a267fe601de95",
+               "name": "Randall L. Johnson",
+               "profile_path": null,
+               "id": 1364411,
+               "department": "Sound",
+               "job": "Boom Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a5b3c7d9251413f7101cd19",
+               "name": "Ellen Heuer",
+               "profile_path": null,
+               "id": 9441,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a5b3c8e0e0a267fdd01e6e5",
+               "name": "John Roesch",
+               "profile_path": null,
+               "id": 1116937,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a5b3cbe0e0a267fd701df90",
+               "name": "Butch Wolf",
+               "profile_path": null,
+               "id": 1959729,
+               "department": "Sound",
+               "job": "Foley Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a5b3d040e0a267fd101e5c7",
+               "name": "Jack Schrader",
+               "profile_path": null,
+               "id": 1608350,
+               "department": "Sound",
+               "job": "Foley Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5a5b3d189251413f6501c128",
+               "name": "Solange S. Schwalbe",
+               "profile_path": null,
+               "id": 1415966,
+               "department": "Sound",
+               "job": "Foley Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a5b3d399251413f6501c145",
+               "name": "Robert J. Litt",
+               "profile_path": null,
+               "id": 1399996,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a5b3d4d0e0a267fd101e612",
+               "name": "Greg P. Russell",
+               "profile_path": null,
+               "id": 42034,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a5b3d779251413f6e01caee",
+               "name": "Gordon Davidson",
+               "profile_path": null,
+               "id": 1053,
+               "department": "Sound",
+               "job": "Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a5b3db09251413f7101ce54",
+               "name": "Richard Oswald",
+               "profile_path": null,
+               "id": 1959730,
+               "department": "Sound",
+               "job": "Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a5b3dca0e0a267fd101e6a5",
+               "name": "Victoria Rose Sampson",
+               "profile_path": null,
+               "id": 13168,
+               "department": "Sound",
+               "job": "Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a5b3ddc0e0a267fd101e6b8",
+               "name": "Chester Slomka",
+               "profile_path": null,
+               "id": 1511722,
+               "department": "Sound",
+               "job": "Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a5b3dec9251413f7701d681",
+               "name": "Jayme S. Parker",
+               "profile_path": null,
+               "id": 1392134,
+               "department": "Sound",
+               "job": "Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a5b3dfc9251413f7701d68e",
+               "name": "James J. Isaacs",
+               "profile_path": null,
+               "id": 1896604,
+               "department": "Sound",
+               "job": "Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a5b3e139251413f7401d2ea",
+               "name": "William C. Carruth",
+               "profile_path": null,
+               "id": 66167,
+               "department": "Sound",
+               "job": "Supervising ADR Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a5b3e310e0a267fdd01e890",
+               "name": "Kay Rose",
+               "profile_path": null,
+               "id": 118296,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a5b3e7fc3a36867d301df94",
+               "name": "Larry Gilhooly",
+               "profile_path": null,
+               "id": 1559397,
+               "department": "Lighting",
+               "job": "Chief Lighting Technician"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a5b3ec4c3a368680201a562",
+               "name": "James Flamberg",
+               "profile_path": null,
+               "id": 1372885,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a5b3edd9251413f7401d39c",
+               "name": "Danny Bramson",
+               "profile_path": null,
+               "id": 1449899,
+               "department": "Sound",
+               "job": "Music Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a5b3f049251413f6e01cc5f",
+               "name": "David S. Cass Sr.",
+               "profile_path": "/no0CLXsHzmz6u9BBw0xGA7GMA1V.jpg",
+               "id": 81693,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a5b3f18c3a36867e401e723",
+               "name": "Bobby Bass",
+               "profile_path": "/dhYgomMBGKdEoIuYqMP0XUNZi9q.jpg",
+               "id": 16659,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Adventure",
+            "id": 12
+         },
+         {
+            "name": "Crime",
+            "id": 80
+         },
+         {
+            "name": "Romance",
+            "id": 10749
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         }
+      ],
+      "popularity": 6.846759,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 10396,
+      "vote_count": 138,
+      "budget": 23000000,
+      "overview": "In a seaside California town, best friends Mac and Nick are on opposite sides of the law. Mac is a former drug dealer trying to clean up his act, while Nick is a high-profile detective trying to take down a Mexican drug lord named Carlos. Soon Nick's loyalties are put to the test when he begins an affair with restaurateur Jo Ann  -- a love interest of Mac's -- unwittingly leading his friend into a police-orchestrated trap.",
+      "similar": [
+         23168,
+         2034,
+         376867,
+         31046,
+         85435,
+         26114,
+         31047,
+         30347,
+         59238,
+         36536,
+         272099,
+         43263,
+         273817,
+         272061,
+         276615,
+         168454,
+         49129,
+         95046,
+         11629,
+         438659
+      ],
+      "original_title": "Tequila Sunrise",
+      "runtime": 115,
+      "poster_path": "/57M9kLofAmUaHaVth3nSFGi1eZ9.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Español",
+            "iso_639_1": "es"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Cinema City Films",
+            "id": 67709,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "The Mount Company",
+            "id": 1312,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/6rFNo5taSC9i0Sxnl81nucQMsw9.png",
+            "name": "Warner Bros. Pictures",
+            "id": 174,
+            "origin_country": "US"
+         }
+      ],
+      "release_date": "1988-12-02",
+      "vote_average": 6,
+      "belongs_to_collection": null,
+      "tagline": "A business on the line. A friendship on the edge. A woman caught in the middle.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Robert Towne"],
+      "runtime": 115,
+      "synopsis": null,
+      "writers": ["Robert Towne"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0096244/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMjE0MzAyNTc1M15BMl5BanBnXkFtZTcwMTQwMjkxMQ@@._V1_SY317_CR11,0,214,317_AL_.jpg",
+      "actors": ["Stars: Mel Gibson, Michelle Pfeiffer, Kurt Russell | See full cast and crew »"],
+      "reviews": [
+         "Many perceive Tequila sunrise to be a routine, formulaic cop thriller with some nice sets, pretty actors, some guns, some sex....etc. Cynics go on to say that Gibson has never acted worse, that the plot twists are predictable and the love triangle is overly cheesy. I, on the other hand, feel that the film profits greatly from expert cinematography, fluent storytelling and convincing(albeit rather undemanding)acting. Pitting Gibson (the now-retired drug dealer lured back for one last deal) and Russell (the reluctant sheriff assigned to bust him) as best of friends on opposite sides of the law was a strong premise, made even more compelling by the fact that the drug dealer (Gibson) is the sympathetic character and the cop (Russell) is the sly, manipulative sort. There is an apparent sense of irony and it goes a long way to making an otherwise average story, interesting and very watchable. Pfeiffer is the glamorous love interest whose character does a lot to intensify the rivalry between the two men. Much of the drama and strength however comes from the late J.T Walsh as Russell's superior, hell bent on bringing Gibson down and his Mexican drug counter-part who nobody has ever seen. A special sense of irony presents itself at the denouement for Walsh unknowlingly becomes a pawn in the drug ring that has now become the talk of the town thanks to his vendetta. The also late Raul Julia never disappoints as the charismatic yet enigmatic Mexican law enforcer. Julia and Walsh complement the film beautifully as side characters with dubious intentions. They are multi-faceted and like all the other people in this film are torn between what they should do and what they want to do, and in fact what they end up doing. Nothing is black and white in Tequila Sunrise; it's a very grey area. With every development we learn more about the people and how they are so far from being what we originally perceived. Hats off to to Robert Towne for his writing. Tequila Sunrise may lack the inventiveness, vision, and dynamism of Chinatown (Robert Towne wrote both scripts), but it should, by no means be discarded as a mediocre cop thriller.It is a very slick piece of cinema with fine acting, glamorous sets, and great dialogue. Furthermore, unlike some of it's predecessors it's a film that can be seen repeatedly without losing it's cutting edge. Under appreciated and underrated, Tequila Sunrise is an excellent film",
+         "Robert Towne, best known as the writer of Chinatown, directed this backstabbing corkscrew of a film from his own script after several notable directors didn't meet interpretation. A dark brooding piece, that is as meditative and murky as it is tightly written for suspense and twists, Tequila Sunrise focuses on the expectations that conventional mores place upon our freedom to interct and even love whomever our heart bids us. Gibson plays a drug dealer with, if not a conscience, at least a code of some sort of ethics. He is raising a son and wants to retire from illegal activities so that he may be a good role model. Russel plays a narcotics cop bucking for a promotion. In order to get his promotion he needs to bust the area's most notorious dealer... guess who. Problem: he and Gibson and childhood mates. Pfeiffer is a woman caught between them, each one wanting her for different reasons. Raul Julia and J.T. Walsh complete the central players in a fine ensemble on people with agendas that may be worth sacrificing the alliances they have made along the way. As the various subplots tie themselves into impossible-to-unravel knots, every character will be forced to question what it is he or she holds sacred. Tough and even regretted decisions are made. Friendships are made and dissolved, hearts are broken, revenges plotted... Gibson is at his best here, Pfeiffer brings great depth to what could easily have been little more than a trophy role. Walsh and Julia are so poker-faced that an audience member who succeeds in reading all the angles should account himself no more than a lucky guesser as they leave you very few clues to work with. Ironically, despite the desires of Gibson and Towne, the ending had to be altered to please test audiences. Later critics would harp severely on the final shot, the reviews keeping away significant audience. While the ending may be unsatisfying to the typically cynical noir fan, it does not change the fact that this a far-above-average genre flick with an excellent cast and a superb script. Worth a watch, worth several.",
+         "This film is all about what was great about the 80's, it has it's own style and all three main actors obviously enjoy there roles. I admit it's not one for challenging your intellect, but it is fun, honest and above all well acted. Great scenery, great story.",
+         "I remember this movie for one real thing, the soundtrack. I bought it on vinyl and played a few songs until they were scratched, the fabulous \"Do you believe in shame\" by Duran Duran was one of my favourites and remains so to this day. I like this film, I really do. Okay so it now looks dated, but the rest of the film is extremely good. Mel Gibson plays a big time Drug Dealer now trying to go straight but seemingly lined up for one final big deal, or so the Police think, and his old school friend who is now the Chief of Police in the same city, Kurt Russell. Russell rocks, he really does, and they play off each other so perfectly. Michelle Pfieffer is the female caught between them who falls for one, and then the other, each playing the reverse of what you think their character may be and each, in their own way, using her to gain information on the other. That plot device alone makes the movie work for me and I love watching the dynamics between all three characters. Although a couple of plot turns need a little twist of the imagination, it's still very well written and carried through to the screen with these actors giving good performances to take it there. I still have a soft spot for this movie.",
+         "All in all, I really like this movie. The chemistry is definitely there, and the cinematography is excellent (I love the scene where Mac and Nick are talking while sitting on the swings, in pure silhouette). Occasionally the dialog does seem stilted, like when Nick's character is telling Joanne how much he wants to see her that night. And you really wonder how Nick has his job, with all of the compromises he makes for relationships (as with Mac and Joanne). But, Mel Gibson's eyes when he tells Michelle Pfeiffer about his interest in her... swoon! And there's a literally steamy love scene involved that is one of my all-time favorites. All in all, the whole movie is a very interesting commentary on friendship and the ties that bind. 1) Friendship is the only choice you have in life (you can't choose your family...) vs 2) at some point friendship's obligations can go beyond the real life of the friendship itself. Raul Julia has a great speech about that in this movie. Seeing this made me miss him all over again!",
+         "Now after saying that, let me say this. I do not think it is his best movie. I realize he has made much better movies. This movie is flawed but if you look hard enough everything is flawed. The reason this is my favorite Mel Gibson movie is A: Mel's performance, it was very good. Probably not his best but he plays paranoid well. B: Raul Julia he was awesome in this. Same with Michelle Pfeiffer and Kurt Russell. Next is the story. A tale of a drug dealer trying to clean up his life to impress a restaurant owner, but is derailed by everyone else in his life. His brother is trying to set him up, his high school buddy is trying to stop but not bust him, and steal his would be girl. His other old friend who is supposedly the biggest dealer in Mexico is trying to get him back into dealing. His ex-wife wants his money, the DEA wants him in jail, his lawyer isn't really helping and all his kid wants is his attention. This is a character the has every reason to trust no one and still tries although he is usually right and shouldn't. To me this is a fun film with interesting characters doing what should be uninteresting things. True it all ends in true hollywierd fashion but seeing Michelle Pfeiffer looking great in some power woman suits and Kurt Russell looking like a 50's cigarette poster and trying to be slick is fun. Plus the performance by J.T Walsh (one of my favorite character actors) as the seedy DEA agent makes this worth the time.",
+         "Three views on three different occasions and ages and it finally worked on the third time. Sounds like the divisions of a play and acts but it was just how my perception over \"Tequila Sunrise\" has changed over the years, and now I find it a excellent film, with many positive aspects. The screenplay is smart, confusing at times, it has many terrific things and the actors made this story even more interesting, exciting. This is a film-noir, but not in the traditional almost melodramatic sense, so if you're looking for gunshots, action and chase sequences it's better pick another movie to watch. In Robert Towne's film everyone is divided between love (on someone or something) and friendship, and things isn't always what they appear. McKussic (Mel Gibson) and Nick Frescia (Kurt Russell) are long time pals who have opposite lines of work: Mac is a nice drug dealer who has a perfect ability of escape from problems, trying to retire himself from the \"job\"; while Nick is a cop investigating a huge drug shipment coming to the country and McKussic might be involved in it. But friendship worths more than anything in the world and one won't be after the other as long things don't turn into something illegal. In the middle of these two there's three things: Nick's FBI partner Maguire (J.T.Walsh) coordinating McKussic's investigation; Mac's friend the drug dealer Carlos (Raul Julia) coming from Mexico for a big drug operation; and the gorgeous Jo Ann Vallenari (Michelle Pfeiffer) owner of a successful restaurant where Mac is a regular costumer and both friends are interested in this woman who is divided between the love of both men. The audience must try to hold the pieces together and figure what happens next, who's telling the truth and who's lying in this intricate plot. If the plot itself sometimes wanders a little bit, at least the characters are so well constructed and the performances go in the right direction that the film doesn't suffer one bit, but I must say that attention is required to follow everyone and everything, otherwise you lost yourself with no chance of getting back to the story, and you'll probably hate it. My earlier problems with \"Tequila Sunrise\" on other views was exactly that; it was right in front of me, this is a picture made exclusively with dialogs and they matter a lot, it is all well written out. Now, this is a helluva film from the 1980's filled with elements all nostalgic fans from that decade love: Gibson in the peak of his career, Russell as well, Michelle beautiful as ever, Raul Julia stealing the show from everybody, Dave Grusin's jazzy music featuring David Sanborn sax solos with the love's theme, the spectacular cinematography from Conrad L.Hall (Oscar nominated for his work here) capturing fantastic sunny shots and the most beautiful sunsets ever captured on celluloid. There's a strange magnetism about \"Tequila Sunrise\" that even before the time I like it, there was something good about it, and I'm glad for it because it always made me want more of it, something makes me watch it every time I can (even though I still don't understand the title. Towne played the enigmatic again with the title, remember \"Chinatown\"?). Here's a story about the value of love and friendship among unusual friends with more unusual types of work. 10/10",
+         "I think this movie is overlooked as a great one. Great actors/actress and fantastic plot. It's one of my most favorite. The first three times I watched it I got new things out of it each time, so watch closely. Drug dealer gone straight, but no one believes him. His old friend from school is a cop now and he really doesn't believe him. Then there's the romance part with Michelle Pfiffer and she's so elegant in her part; like one of the great actresses of old. Then there's the drug and drug money problem that surfaces and the FBI get involved. It is quite involved and very interesting. Can't tell though, you must watch, you won't regret it. Watch it more than once.",
+         "This is one of those guilty pleasures. I still find myself watching it over and over some 14 years later. After a while, who even cares about Robert Towne's serpentine plot twists. The reason this movie still works is simple - it is great entertainment. This movie takes 3 stars at the peak of their physical beauty who were just beginning to realize their acting potential (admittedly, in the years since, only 2 of them realized that potential). Michelle Pfeiffer attained a perfect trifecta in 1988 with comedy (Married to the Mob), drama (Dangerous Liasons), and this melodramatic actioner. The movie takes itself too seriously, but we don't have to. It's a silly fantasy world with stunning beach sunsets, tequila and sports cars, good drug dealers and bad cops, etc. Like Miami Vice, this movie portrayed the late 80s, and for those of us who grew up during that flashy, fun decade, _Tequila Sunrise_ is a fun-filled nostalgic trip. It's about a beautiful people living angst filled lives. It's mindless and fun. So enjoy it for what it is.",
+         "\"Tequila Sunrise\" is sometimes quoted as an example of neo-noir, a genre of film which uses modern cinema techniques while trying to capture the spirit of the classic films noirs from the forties and fifties. Other examples include Polanski's \"Chinatown\", the Michael Winner remake of \"The Big Sleep\", Lawrence Kasdan's \"Body Heat\" and Curtis Hanson's more recent \"L.A. Confidential\". The title is derived from the well-known cocktail which has three ingredients, tequila, orange juice, and grenadine. Mel Gibson is seen drinking this cocktail on a couple of occasions, but the significance of the title may be that the film explores the triangular relationship between a \"cocktail\" of three main characters, Dale \"Mac\" McKussic, Nick Frescia and Jo Ann Vallinari. (The film was advertised in France under the slogan \"Un Cocktail Explosif\"). Mac is a former drug dealer who claims that he is now trying to go straight. Nick is not only the head of the Los Angeles narcotics squad for but also Mac's close friend. Jo Ann is a local restaurant owner with whom both Mac and Nick are in love. The two men's friendship is therefore under severe strain, and not only because of their feelings for Jo Ann. There are suspicions that Mac has slipped back into his old ways and may be trying to pull off one last deal with another old friend, a Mexican drug baron named Carlos. If these suspicions prove correct, Nick will be duty-bound to arrest him. Like many examples of both film noir and neo-noir, \"Tequila Sunrise\" has a complex plot, one where the motives of all the characters are suspect and where nobody knows whom they can trust. (The writer/director Robert Towne was also the scriptwriter for \"Chinatown\", a film with one of the most convoluted plots in cinema history). Nevertheless, I have never really regarded it as authentic neo-noir. There was always more to film noir than a crime-related theme and a complicated storyline. Atmosphere was equally important; in some cases (such as Howard Hawks' original \"The Big Sleep\") it was paramount. In the eighties it would have been virtually impossible to make a film using the moody black-and-white photography which characterised film noir, but neo-noir directors were often able to give their films an equivalent atmospheric look. \"Body Heat\", for example, has an atmosphere of extreme heat, of sweat, of physical lassitude, of moral decay and of sexual tension, something emphasised not only by John Barry's jazz score but also Kasdan's colour scheme dominated by blacks, reds and oranges. The film stars three of the up-and-coming stars of the eighties in Gibson, Kurt Russell and Michelle Pfeiffer. None of them really give their best performance here, although Pfeiffer is always very watchable. Although in the eighties Gibson was best known for his \"tough guy\" roles, especially in the \"Mad Max\" series, he does not bring much menace to the role of Mac or suggest his criminal background. Roger Ebert called him \"the nicest drug dealer you'd ever want to know\". In 1988 Towne was much more experienced as a screenwriter than as a director. He had worked on the scripts for more than a dozen films and several TV series, but had only directed one previous film, the very different \"Personal Best\". It is therefore perhaps not surprising that \"Tequila Sunrise\" comes across as more of a writer's film than a director's one. Towne inserts all the plot twists and turns that we have come to expect from noir and neo-noir, but there are none of the visual touches we associate with the genre. The film is surprisingly slow-moving and wordy for what is supposed to be a crime thriller, dominated more by talk than by physical action except during the (literally) explosive finale. Towne may have had ambitions to become an auteur director like Polanski, but \"Tequila Sunrise\", a run-of-the-mill crime drama, is not the work of an auteur. 5/10"
+      ],
+      "genres": [
+         "Crime",
+         "Drama",
+         "Romance",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "Cinema City Films",
+         "The Mount Company",
+         "Warner Bros."
+      ],
+      "summaries": ["Mac Mckussic is an unlikely drug dealer who wants to go straight. His old and best friend Nick Frescia is now a cop who is assigned to investigate and bring him to justice. Mac is very attracted to Jo Ann, the owner of a stylish restaurant. Nick gets close to Jo Ann attempting to know more about Mac's drug dealing plans and his connections with the Mexican dealer Carlos, who the police believe is coming to town to meet with him. Nick also falls for Jo Ann's charms and his friendship with Mac is in danger."],
+      "budget": 23000000
+   },
+   "movielensId": 2802,
+   "movielens": {
+      "languages": [
+         "English",
+         "Español"
+      ],
+      "releaseDate": "1988-12-02",
+      "dvdReleaseDate": "1997-10-28",
+      "directors": ["Robert Towne"],
+      "runtime": 115,
+      "movieId": 2802,
+      "title": "Tequila Sunrise",
+      "mpaa": "R",
+      "actors": [
+         "Mel Gibson",
+         "Kurt Russell",
+         "J.T. Walsh",
+         "Michelle Pfeiffer",
+         "Raúl Juliá",
+         "Gabriel Damon",
+         "Arliss Howard",
+         "Arye Gross",
+         "Daniel Zacapa",
+         "Eric Thiele",
+         "Tom Nolan",
+         "Dawn Martel",
+         "Lala Sloatman",
+         "Budd Boetticher",
+         "Ann Magnuson",
+         "David Rees"
+      ],
+      "imdbMovieId": "0096244",
+      "originalTitle": "Tequila Sunrise",
+      "genres": [
+         "Action",
+         "Adventure",
+         "Crime",
+         "Romance",
+         "Thriller"
+      ],
+      "youtubeTrailerIds": ["lHIC22yqrZE"],
+      "plotSummary": "In a seaside California town, best friends Mac and Nick are on opposite sides of the law. Mac is a former drug dealer trying to clean up his act, while Nick is a high-profile detective trying to take down a Mexican drug lord named Carlos. Soon Nick's loyalties are put to the test when he begins an affair with restaurateur Jo Ann  -- a love interest of Mac's -- unwittingly leading his friend into a police-orchestrated trap.",
+      "tmdbMovieId": 10396,
+      "avgRating": 3.01204,
+      "releaseYear": "1988",
+      "numRatings": 2159,
+      "posterPath": "/57M9kLofAmUaHaVth3nSFGi1eZ9.jpg"
+   }
+}

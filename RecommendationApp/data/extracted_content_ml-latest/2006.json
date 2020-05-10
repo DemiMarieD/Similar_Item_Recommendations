@@ -1,0 +1,622 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "california",
+            "id": 387
+         },
+         {
+            "name": "spy",
+            "id": 470
+         },
+         {
+            "name": "hero",
+            "id": 1701
+         },
+         {
+            "name": "horseback riding",
+            "id": 2284
+         },
+         {
+            "name": "sword fight",
+            "id": 9725
+         },
+         {
+            "name": "revenge",
+            "id": 9748
+         }
+      ],
+      "imdb_id": "tt0120746",
+      "video": false,
+      "title": "The Mask of Zorro",
+      "recommendations": [
+         1656,
+         8367,
+         9313,
+         8584,
+         9334,
+         1844,
+         8487,
+         4327,
+         9476,
+         9679,
+         6637,
+         888,
+         9480,
+         1734,
+         929,
+         664,
+         9327,
+         5175,
+         879,
+         1428
+      ],
+      "backdrop_path": "/734CjgMxoKZ0eTmE0R2WiMZQ5LL.jpg",
+      "revenue": 250288523,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 3,
+               "character": "Alejandro Murrieta / Zorro",
+               "gender": 2,
+               "credit_id": "52fe44eac3a36847f80b193d",
+               "name": "Antonio Banderas",
+               "profile_path": "/85197jARsr06xQ84NhP9YoBL3sR.jpg",
+               "id": 3131,
+               "order": 0
+            },
+            {
+               "cast_id": 4,
+               "character": "Don Diego de la Vega / Zorro",
+               "gender": 2,
+               "credit_id": "52fe44eac3a36847f80b1941",
+               "name": "Anthony Hopkins",
+               "profile_path": "/btweZvSRBiE6jaMME93BSXeTQN6.jpg",
+               "id": 4173,
+               "order": 1
+            },
+            {
+               "cast_id": 2,
+               "character": "Elena Montero / Elena Murrieta",
+               "gender": 1,
+               "credit_id": "52fe44eac3a36847f80b1939",
+               "name": "Catherine Zeta-Jones",
+               "profile_path": "/3qDN8It9ulUqpOqkxJgW0WnWFho.jpg",
+               "id": 1922,
+               "order": 2
+            },
+            {
+               "cast_id": 17,
+               "character": "Don Rafael Montero",
+               "gender": 2,
+               "credit_id": "52fe44eac3a36847f80b198d",
+               "name": "Stuart Wilson",
+               "profile_path": "/zHNgIIShvznjpg8xhHHuOuHieQB.jpg",
+               "id": 14344,
+               "order": 3
+            },
+            {
+               "cast_id": 1,
+               "character": "Young Joaquín Murrieta",
+               "gender": 0,
+               "credit_id": "52fe44eac3a36847f80b1935",
+               "name": "Diego Sieres",
+               "profile_path": null,
+               "id": 57374,
+               "order": 4
+            },
+            {
+               "cast_id": 18,
+               "character": "Young Alejandro Murrieta",
+               "gender": 0,
+               "credit_id": "52fe44eac3a36847f80b1991",
+               "name": "José María de Tavira",
+               "profile_path": null,
+               "id": 80494,
+               "order": 5
+            },
+            {
+               "cast_id": 19,
+               "character": "Boy Crying",
+               "gender": 0,
+               "credit_id": "52fe44eac3a36847f80b1995",
+               "name": "Emiliano Guerra",
+               "profile_path": null,
+               "id": 1077815,
+               "order": 6
+            },
+            {
+               "cast_id": 20,
+               "character": "Woman Crying",
+               "gender": 1,
+               "credit_id": "52fe44eac3a36847f80b1999",
+               "name": "Yolanda Orisaga",
+               "profile_path": null,
+               "id": 956973,
+               "order": 7
+            },
+            {
+               "cast_id": 21,
+               "character": "Undertaker",
+               "gender": 0,
+               "credit_id": "52fe44eac3a36847f80b199d",
+               "name": "Paco Morayta",
+               "profile_path": null,
+               "id": 83841,
+               "order": 8
+            },
+            {
+               "cast_id": 22,
+               "character": "Fray Felipe",
+               "gender": 2,
+               "credit_id": "52fe44eac3a36847f80b19a1",
+               "name": "William Marquez",
+               "profile_path": "/wg8dfUvpeLH7Pwrwsav6yWEUPH2.jpg",
+               "id": 58637,
+               "order": 9
+            },
+            {
+               "cast_id": 23,
+               "character": "Don Luiz",
+               "gender": 2,
+               "credit_id": "52fe44eac3a36847f80b19a5",
+               "name": "Tony Amendola",
+               "profile_path": "/wjft9mXp65SfSo2g3pnLxZUOEzG.jpg",
+               "id": 34842,
+               "order": 10
+            },
+            {
+               "cast_id": 24,
+               "character": "Squad Leader",
+               "gender": 2,
+               "credit_id": "52fe44eac3a36847f80b19a9",
+               "name": "Pedro Altamirano",
+               "profile_path": null,
+               "id": 941030,
+               "order": 11
+            },
+            {
+               "cast_id": 25,
+               "character": "Nanny",
+               "gender": 1,
+               "credit_id": "52fe44eac3a36847f80b19ad",
+               "name": "Luisa Huertas",
+               "profile_path": "/n66Fz03GCtEenUtbYUUpn8rgz6O.jpg",
+               "id": 224508,
+               "order": 12
+            },
+            {
+               "cast_id": 26,
+               "character": "Baby Elena de la Vega",
+               "gender": 0,
+               "credit_id": "52fe44eac3a36847f80b19b1",
+               "name": "María Fernández Cruz",
+               "profile_path": null,
+               "id": 1077816,
+               "order": 13
+            },
+            {
+               "cast_id": 28,
+               "character": "Esperanza de la Vega",
+               "gender": 1,
+               "credit_id": "52fe44eac3a36847f80b19b5",
+               "name": "Julieta Rosen",
+               "profile_path": "/eAhj3fojceJrhPBkefnUU5VBEsm.jpg",
+               "id": 974912,
+               "order": 14
+            },
+            {
+               "cast_id": 29,
+               "character": "Heavyset Lieutenant",
+               "gender": 0,
+               "credit_id": "52fe44eac3a36847f80b19b9",
+               "name": "Raúl Martínez",
+               "profile_path": null,
+               "id": 1077818,
+               "order": 15
+            },
+            {
+               "cast_id": 30,
+               "character": "Joaquín Murrieta",
+               "gender": 2,
+               "credit_id": "52fe44eac3a36847f80b19bd",
+               "name": "Victor Rivers",
+               "profile_path": "/fSFRSpUjfJpdeC3E6qX6e9o5xcx.jpg",
+               "id": 58648,
+               "order": 16
+            },
+            {
+               "cast_id": 31,
+               "character": "Three-Fingered Jack",
+               "gender": 2,
+               "credit_id": "52fe44eac3a36847f80b19c1",
+               "name": "L.Q. Jones",
+               "profile_path": "/jhPsFq7qYT2QKc4FO70fqxgfpXs.jpg",
+               "id": 8262,
+               "order": 17
+            },
+            {
+               "cast_id": 32,
+               "character": "Cpl. Armando Garcia",
+               "gender": 2,
+               "credit_id": "52fe44eac3a36847f80b19c5",
+               "name": "José Pérez",
+               "profile_path": "/rON9BAauB6ErVzKKtAln1dE82VZ.jpg",
+               "id": 109145,
+               "order": 18
+            },
+            {
+               "cast_id": 33,
+               "character": "Soldier Holding 'Wanted' Poster",
+               "gender": 2,
+               "credit_id": "52fe44eac3a36847f80b19c9",
+               "name": "Tony Cabral",
+               "profile_path": null,
+               "id": 1031693,
+               "order": 19
+            },
+            {
+               "cast_id": 34,
+               "character": "Watering Station Owner",
+               "gender": 2,
+               "credit_id": "52fe44eac3a36847f80b19cd",
+               "name": "Tony Genaro",
+               "profile_path": "/zicRnTUBHN5MBr8oQkPk2t1HAyG.jpg",
+               "id": 166606,
+               "order": 20
+            },
+            {
+               "cast_id": 35,
+               "character": "Small Boy at Watering Station",
+               "gender": 0,
+               "credit_id": "52fe44eac3a36847f80b19d1",
+               "name": "Iván Rafael",
+               "profile_path": null,
+               "id": 1077819,
+               "order": 21
+            },
+            {
+               "cast_id": 36,
+               "character": "Stupid Soldier",
+               "gender": 2,
+               "credit_id": "52fe44eac3a36847f80b19d5",
+               "name": "David Villalpando",
+               "profile_path": "/ACv7B0i41LAkniIHQ1iXgGdjiX.jpg",
+               "id": 146797,
+               "order": 22
+            },
+            {
+               "cast_id": 44,
+               "character": "Baby Elena de la Vega",
+               "gender": 0,
+               "credit_id": "53278f68c3a36831630011e0",
+               "name": "Mónica Fernández Cruz",
+               "profile_path": null,
+               "id": 1301749,
+               "order": 24
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe44eac3a36847f80b1947",
+               "name": "Martin Campbell",
+               "profile_path": "/qhx0AySf8yH3kiHrinWknUJbr1y.jpg",
+               "id": 10702,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44eac3a36847f80b1953",
+               "name": "John Eskow",
+               "profile_path": null,
+               "id": 57378,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44eac3a36847f80b1959",
+               "name": "Ted Elliott",
+               "profile_path": "/9OXGC59dpVDdfwSeEdHgxpoHXVu.jpg",
+               "id": 1705,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44eac3a36847f80b195f",
+               "name": "Doug Claybourne",
+               "profile_path": null,
+               "id": 2986,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44eac3a36847f80b1965",
+               "name": "David Foster",
+               "profile_path": "/5XcWMR9BEEqWgIhBopMvnHJWbsk.jpg",
+               "id": 11813,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe44eac3a36847f80b196b",
+               "name": "Laurie MacDonald",
+               "profile_path": null,
+               "id": 8701,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44eac3a36847f80b1971",
+               "name": "Walter F. Parkes",
+               "profile_path": null,
+               "id": 2212,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44eac3a36847f80b1977",
+               "name": "Steven Spielberg",
+               "profile_path": "/pOK15UNaw75Bzj7BQO1ulehbPPm.jpg",
+               "id": 488,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44eac3a36847f80b197d",
+               "name": "James Horner",
+               "profile_path": "/oLOtXxXsYk8X4qq0ud4xVypXudi.jpg",
+               "id": 1729,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44eac3a36847f80b1983",
+               "name": "Phil Meheux",
+               "profile_path": "/7dvzEurZ3sI5L2RYxvHjS4RLNl3.jpg",
+               "id": 10709,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44eac3a36847f80b1989",
+               "name": "Thom Noble",
+               "profile_path": "/pl35WClWJFiuBao1dTMoV4PaxOj.jpg",
+               "id": 17399,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "53278e2ec3a36831790012a7",
+               "name": "Johnston McCulley",
+               "profile_path": null,
+               "id": 18456,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 2,
+               "credit_id": "53278e81c3a36831580012c2",
+               "name": "Terry Rossio",
+               "profile_path": "/zvlhzykondhUf26gknMo8hLMuCn.jpg",
+               "id": 1706,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "53278ea1c3a3683152001232",
+               "name": "Ted Elliott",
+               "profile_path": "/9OXGC59dpVDdfwSeEdHgxpoHXVu.jpg",
+               "id": 1705,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "53278ebbc3a3683152001239",
+               "name": "Terry Rossio",
+               "profile_path": "/zvlhzykondhUf26gknMo8hLMuCn.jpg",
+               "id": 1706,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "53278ecdc3a36831630011b1",
+               "name": "Randall Jahnson",
+               "profile_path": "/ijL3uaKskVMZipUUtRzKiZhCfpW.jpg",
+               "id": 57377,
+               "department": "Writing",
+               "job": "Story"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Adventure",
+            "id": 12
+         }
+      ],
+      "popularity": 23.118931,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 9342,
+      "vote_count": 1552,
+      "budget": 95000000,
+      "overview": "It has been twenty years since Don Diego de la Vega fought Spanish oppression in Alta California as the legendary romantic hero, Zorro. Having escaped from prison he transforms troubled bandit Alejandro into his successor, in order to foil the plans of the tyrannical Don Rafael Montero who robbed him of his freedom, his wife and his precious daughter.",
+      "similar": [
+         281957,
+         1656,
+         9654,
+         27576,
+         156022,
+         681,
+         445954,
+         26789,
+         6312,
+         8292,
+         23587,
+         3134,
+         339692,
+         281,
+         979,
+         238636,
+         395834,
+         357096,
+         9093,
+         4141
+      ],
+      "original_title": "The Mask of Zorro",
+      "runtime": 136,
+      "poster_path": "/eh59q4ksXDQc97s52FUUQOkE8Th.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": "/rzgMLzPgJ2ZBYnlVwNi8ZDfOMwo.png",
+            "name": "TriStar Pictures",
+            "id": 559,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/mpGWkDeikYLeAR8LVNaixig0vwE.png",
+            "name": "Amblin Entertainment",
+            "id": 56,
+            "origin_country": "US"
+         }
+      ],
+      "release_date": "1998-07-16",
+      "vote_average": 6.3,
+      "belongs_to_collection": {
+         "backdrop_path": "/wZCWCe4jPJz04dvVGLQ8TtOq9Js.jpg",
+         "name": "Zorro Collection",
+         "id": 1657,
+         "poster_path": "/ziQDmVR3VE0hC0GDWgaQwz0H3Ff.jpg"
+      },
+      "tagline": "No one has seen his face... but everyone ... knows this mark.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Martin Campbell"],
+      "runtime": 136,
+      "synopsis": "In 1821, the Mexican Army is on the verge of liberating its country from Spanish colonial rule. In the area of Las Californias the ruthless Spanish Governor, Don Rafael Montero, is about to be overthrown. In a last ditch effort to trap his nemesis, the masked swordsman Zorro (Anthony Hopkins), Montero prepares to execute three innocent townspeople. With assistance from two orphan brothers, Joaquin and Alejandro Murrieta, Zorro releases the prisoners. Zorro rewards the Murrieta brothers with a special medallion he wears, and escapes on his horse, Toronado, after cutting a \"Z\" into Montero's neck as a parting gift and warning. The same night, however, Montero confronts Zorro at his home, having deduced that Zorro is really Don Diego de la Vega, a Spanish nobleman married to Esperanza, the woman Montero had always loved. Attempting to arrest Diego, a fight ensues, during which Esperanza is killed while trying to protect Diego. Diego's house is burned and his infant daughter, Elena, is taken to Spain by Montero to be raised as his own while Diego is taken to prison. Twenty years later, Montero secretly returns to California, looking for Diego in the old prison. Although de La Vega is there, Montero does not recognize him, while several prisoners claim to be Zorro (taken from the famous scene of Spartacus). Diego later escapes, intent on killing Montero the following day at a public ceremony for Montero's return. However, Diego restrains himself when he sees Eléna (Catherine Zeta-Jones), now a beautiful young lady. Elena is presented with a bouquet of flowers - Romagnas, native to California - the scent of which she recognizes, although she incorrectly believes she has never been to California before. Diego soon meets an adult Alejandro Murrieta (Antonio Banderas), whom he recognizes by the medal he awarded Joaquin. Now a drunken, clumsy bandit, Alejandro is bitter over the recent capture of his mentor, bandit Three-Fingered Jack (L. Q. Jones), and the murder of Joaquin by the sadistic Texian Army Captain Harrison Love, Montero's commander-in-chief. Diego recruits and trains Alejandro to become his successor. After some training, Alejandro dons a makeshift costume and clumsily steals a black stallion resembling Toronado, Diego's former steed. En route, Alejandro encounters Eléna. Escaping from Captain Love, Alejandro seeks refuge in a nearby church, with the assistance of the town priest and Zorro's old friend, Father Felipe. Alejandro hides in the confessional, where Eléna unwittingly reveals her infatuation with the mysterious \"bandit\" she had just met. Upon his return, Diego scolds Alejandro, claiming that Zorro was a servant of the people, not a thief and adventurer. Diego rebuffs a challenge by Alejandro, instructing him that to gain Montero's trust, Alejandro must convince Montero that he is \"a gentleman of stature.\" Posing as visiting nobleman Don Alejandro del Castillo y García, with Diego as his servant, Alejandro attends a party at Montero's hacienda, where he quickly gains Eléna's admiration and enough of Montero's trust for the latter to invite him to a secret meeting. There, Montero hints at a plan to retake all of California for the Dons by buying it from their hero, General Santa Anna, who is desperately in need of money to fund his ongoing war with the United States. The next day, Alejandro and the Dons are taken by Montero to a secret gold mine known as \"El Dorado\", where peasants and petty criminals are used as slave labor. Montero reveals that he plans to buy California from Santa Anna using gold mined from his own land. Three-Fingered Jack, now a slave, attacks the noblemen and is killed by Captain Love. Meanwhile, Diego uses this opportunity to become closer to Eléna, though he identifies himself as \"Bernardo\" the servant (a homage to the name of Zorro's mute sidekick from the original story), learning that Montero told Elena that her mother died in childbirth. Later, while walking in a local market, Eléna meets the woman who had been her nanny and used to hang romagnas on her crib. Diego later sends Alejandro, dressed as Zorro, to steal the map leading to the gold mine from Montero's hacienda. In the process, Zorro duels and fights off Montero, Captain Love, and their guards. As he escapes to the stable, he is confronted by Eléna, who attempts to retrieve the map belonging to her \"father.\" While Elena shows considerable skill with a sword, Zorro nonetheless manages to defeat her, then playfully cuts off her bodice, leaving her in nothing but her underwear and her long tresses. After a passionate kiss, Zorro flees the stable and shakes off his pursuers. Meanwhile, terrified of Santa Anna's retribution if he discovers that he is being paid with his own gold, Montero and Captain Love decide to destroy the mine with explosives and kill the workers, thereby leaving no evidence. Alejandro uses the stolen map to locate the mine in order to release the workers. Diego tells Alejandro to release them on his own, so that he can confront Montero and reclaim Elena as his daughter. Alejandro sets off to the mine, feeling betrayed by Diego's personal vendetta. Later that night, Diego corners Montero at the hacienda and reveals his true identity. After being summoned by her presumed \"father,\" Montero captures Diego after threatening to kill him in front of Elena. As he is escorted away by guards, Diego tells Elena the name of the flowers she recognized upon her arrival to California, convincing her that Diego is her true father. She later releases Diego from his cell, and they proceed to the mine. There, Zorro prevents Captain Love from loading gold onto a wagon to be taken from the mine, and engages him in a duel. Diego prevents Montero from shooting Zorro, and they also duel. After disarming Montero, Eléna appeals for him to spare Montero's life. Montero capitalizes by threatening Eléna, and then wounding Diego. Zorro ultimately defeats and mortally wounds Love in a protracted swordfight taking them through various points around the mine. Though mortally wounded, Diego also defeats Montero, by having a gold-laden wagon drag Montero off a cliff and crushing Love in the process. Eléna and Alejandro, now without his mask, free the captive workers before the explosives set by Love go off. Before dying in their arms, Diego makes peace with Alejandro, fully passes the mantle of Zorro to him, and gives his blessings for Alejandro's and Elena's prospective marriage. In the film's epilogue, Alejandro and Eléna are married and have a son named Joaquin, in honor of Alejandro's brother. As Elena puts Joaguin to sleep, Alejandro exits the room and as Zorro, draws his sword and makes his trademark 'Z' as the credits roll.",
+      "writers": [
+         "Johnston McCulley",
+         "Ted Elliott"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0120746/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BNjI3NzI2MjY2MF5BMl5BanBnXkFtZTYwMDM5ODU5._V1_SY317_CR7,0,214,317_AL_.jpg",
+      "actors": ["Stars: Antonio Banderas, Anthony Hopkins, Catherine Zeta-Jones | See full cast and crew »"],
+      "reviews": [
+         "Wonderful movie, visually rich and a nice blend of comedy, action and romance, well-written. Hopkins is great; so is Banderas as Zorro-in-training, and Zeta-Jones sparkles in her scenes with him. Very little gore or skin, what there is serves the plot instead of BEING the plot. The best movie I've seen in a long time. Note: previews make it look a lot less interesting than it actually is--you just see a lot of things being slashed and blown up, while the comic scenes between Hopkins and Banderas don't really appear (the best part of the film).",
+         "Zorro is one of my favorite heroes. He looks quite cool and not stupid, weird or childish like Batman, Superman, Spider-Man and all of their villains (except The Joker) and he has no superpowers like them, although sometimes it seems that gravity does not really apply to him. His weapon of choice guarantees some spectacular sword fighting scenes as well. With this hero all you need is a nice story and 'The Mask of Zorro' has a nice story. I will be short about it. Don Diego de la Vega (Anthony Hopkins) was Zorro but is too old now. He needs another one and Alejandro Murrieta (Antonia Banderas) is the chosen one. Their enemy is Don Rafael (Stuart Wilson). His daughter Elena (Catherine Zeta-Jones) is actually Diego's daughter. His wife was murdered and his daughter was taken by Rafael a long time ago. Rafael also made sure the brother of Alejandro was killed by his helper Capt. Love (Matt Letscher). And now he has an evil plan that will kill a lot of people. Time for the new Zorro. It sounds a little simple and may be it is, but for a movie like this it is a perfect story. Anthony Hopkins who is never bad does not disappoint us here, Banderas has the right charm to play Zorro, Zeta-Jones is absolutely stunning and Wilson and Letscher are very good as the villains. With some nice action sequences and a pretty good soundtrack this is a very entertaining movie.",
+         "This movie had just a couple of things I would have changed but the overwhelming minutes of this 137-minute movie were well done: a nice old- fashioned adventure story. Yes, it's hokey in spots, there is a needless irreverent scene in the confessional and the final action scene goes on too long, but all of that is almost standard fare in today's films. Anyway, the \"good\" in this film far outweighs the \"bad.\" Some of the \"good\" is beautiful cinematography featuring bold colors; good action scenes; very little profanity; interesting and somewhat likable lead characters (played by Anthony Hopkins, Antonio Bandaras and Catherine Zeta- Jones), a fun story and very good 5.1surround sound. Zeta-Jones was a brand new \"face\" with this movie and she's never looked better. Hopkins, as usual, is the best character as the older \"Zorro\" who teaches the young one (Bandaras). Some of the action scenes are almost cartoon-like in credibility (Bandaras doing flips while riding two horses at once!) but they are fun. The story is a familiar one that seems to always satisfy people: revenge.",
+         "Martin Campbell sure knows how to make entertaining movies. After making \"No Escape\" and \"GoldenEye\" he brings us yet another entertaining movie; \"The Mask of Zorro\". He actually used to be one of my favorite directors after seeing those movies I just named but unfortunately he hasn't made anything good lately. Let's hope this change after completing \"Zorro 2\" that is currently being made. \"The Mask of Zorro\" is just some good old fashioned fun with lot's of spectacular moments, good choreographed fight sequences, a love story and a good old fashioned stereotype villain. The story is told in a good way which I think is mainly thanks to Campbell's directing. The pace is high and the combination between the action, the characters and their relations, romance and some of the comical moments is done very well, unlike some other movies from the same genre. There is some nice cinematography that help to create a good atmosphere along with the musical score from James Horner. The end fight is good and it has a spectacular big explosion in it that'll make you go; Wow! Great entertainment for the whole family. 8/10 http://bobafett1138.blogspot.com/",
+         "Strikingly entertaining and first-rate in most all cinematic categories, \"The Mask of Zorro\" is a smart action film that works due to a convincing titled character (Antonio Banderas), the almost unreal beauty of Catherine Zeta-Jones and the professionalism of Anthony Hopkins. Anthony Hopkins starts out as Zorro, but is caught by the evil Stuart Wilson shortly after a wild rescue of three men in the village. Wilson leaves the country and takes Hopkins' baby daughter with him. Fast-forward 20 years and Hopkins has escaped and he begins to teach Banderas (also seeking revenge after the murder of his brother) the way to be a fighter for truth and justice. The baby has grown up to become Zeta-Jones and thinks that she is really Wilson's daughter. A great film that works well due to an adequate screenplay, good characterization and solid direction. A near-perfect success. 4.5 out of 5 stars.",
+         "The best thing about this movie is the casting.How ingenius,eh? Antonio Banderas as Zorro,eh?And Stuart Wilson as the central villain.This guy is one of the most unrecognised talents around.As a snidy British baddie,he could easily give your average Dennis Hopper a run for his money.Catherine Zeta Jones is also marvellous as the love interest. The action scenes and stunts are fantastic.Real hollywood at it's best.Martin Campbell keeps an efficent and steady pace to proceedings as director. If there's a problem here,it's that it's probably a tad overlong.But luckily,this unwantern time is'nt filled with unnecessary scenes but scenes as visually exciting as the last. It's also marvellous that it's a PG,because such past fare,like Bad Boys,is loud,action packed,exciting and brilliant,it's also rather flatulent and rude.This is just superb action entertainment which can be enjoyed by the whole family.",
+         "THE MASK OF ZORRO ****1/2 Stunning, visually rich, and highly acclaimed motion picture that retells the story of the Masked Swordsman (Anthony Hopkins) serving the people of California by saving them from the devious plans and conspiracies the Spanish empire and trained forces carry out. Hopkins trains a new Zorro (properly portrayed by Antonio Benderas) to take his place and save California from a tasteless fate. What subsequently takes place is nothing short of first-rate entertainment. The film has delightful humour and well choreographed sword-on-sword sequences. The musical score by James Horner provides additional supportive elements to capture all of the film's diverse moments. Excellent direction by Martin Campbell. A must-see.",
+         "I just finished watching The Mask Of Zorro, and it was a spectacular achievement. It all seemed cliched at first, and even though it isn't that original, it still pays off quit well. The cast is great. Anthony Hopkins seems to get away with an English accent in every movie he does,but his acting was solid as usual. Antonio Banderas is teriffic as the new Zorro and there's funny moments between Hopkins and Banderas as teacher and student respectively. Catherine Zeta-Jones is very appealing in her role also. The only real complaint I have is that the bad guys never seem like a real threat. The direction by Martin Campbell is very good and the editing was great. A very good movie.",
+         "This is a truly wonderful movie. In my opinion it belongs with the Classics. What is a classic anyway? Something with timeless quality. And this movie has it. Just saw this movie again for the 3rd or 4th time since it came out. I remembered almost every scene and still sat to watch it again. To see the great photography, to hear the inspirational music, to admire and have fun with the excellent performances of all actors, leading and supporting. This movie has it all. It revives one of the more influential characters of all time, with the most appropriate way. You get a dramatic, even tragic, plot, and simultaneously a fun script. Emotion and comedy at the same time. Great visuals and scenery and also good action. In my opinion this a highly underrated movie (6.7 for 2013 doesn't give it justice at all) and it belongs among the best. For the friend who gave a low rating a note: Not all the dramas have to be edgy and dark. Overall: Highly recommended",
+         "Antonio Banderas is appropriately magnificent along with gorgeous heroine Catherine Zeta-Jones.This superior Zorro with great swordplay is a lavish swashbuckler starred by Anthony Hopkins and Antonio Banderas as the dashing masked avengers . A young Banderas dons a black outfit and becomes the ideal Zorro riding in the hoofprints continuing in the wake of the old Zorro-Hopkins who passes his mantle of protector of hapless ad unfortunates. This is a zesty recounting of saga of legendary masked rider , though not as distinctive as previous classic entry starred by Tyrone Power. Here Zorro faces danger from governor Rafael Montero (Stuart Wilson) as well as corrupt villain captain Harrison (Matt Letscher). And Anthony Hopkins gives slickness and distinction as elegant veteran Zorro. After numerous setbacks the hero and his lovely heroine, a wonderful Catherine Zeta-Jones, help the good people of California thwart the greedy schemes of a meanie who stands in the way of statehood for the territory. The nimble actor Banderas runs and jumps all over the images of this movie, as he deals with the oppressor with a breathtaking finale and wreak havoc included. In this first Zorro starred by Antonio Banderas took a chance and jumped from comedy-action to costumed comedy-adventures; he steals the show as Murrieta/Zorro relishing his secret identity with cape and sword; executing bounds and leaps, twists and climbs and throughly enjoys himself. A great casting and an unstopped action keep this picture moving at a rapid clip. Banderas made the character of Zorro his own and quickly established himself as a Latin legend. Antonio Banderas is terrific as the Zorro, well accompanied by ideal heroine, a beautiful Zeta-Jones. Nice secondary cast, such as Stuart Wilson, overacting outrageously as the villain, and actors as Tony Amendola and Pedro Armendariz Jr , booth of whom will repeat acting in the following. Furthermore, overwhelming swordplay and horse action and displays too much of everything. Stirring musical score by James Horner and colorful cinematography by Phil Meheux. Other versions about this known character created by Johnston McCulley are the following : The mute classic adaptation ¨Mark of Zorro¨(1920, Fred Niblo, with Douglas Fairbanks), the classic ¨Mark of Zorro¨(1940, Robert Mamoulian with Tyrone Power, Basil Rathbone and Linda Darnell), and followed by ¨The legend of Zorro¨( 2005, Martin Campbell again with Banderas and Catherine Zeta Jones, Tony Amendola,Pedro Armendariz and Rufus Sewell) and European version ¨Zorro¨(1975, Duccio Tessari with Alain Delon, Octavia Piccolo and Stanley Baker) . Rating : 7,5, good, better than average. The motion picture will appeal to trio protagonist fans: Banderas, Hopkins and Zeta Jones. Well worth watching."
+      ],
+      "genres": [
+         "Action",
+         "Adventure",
+         "Comedy",
+         "Romance",
+         "Thriller",
+         "Western"
+      ],
+      "productionCompanies": [
+         "TriStar Pictures",
+         "Amblin Entertainment",
+         "David Foster Productions"
+      ],
+      "summaries": [
+         "The original Zorro, Don Diego de la Vega, is captured and imprisoned just as Spain concedes California to Santa Anna. 20 years go by and his mortal enemy, Don Rafael Montero, returns to California with a plan to become wealthy at the expense of the peasants. The original Zorro escapes from prison and trains a new Zorro to take his place. Much swashbuckling and derring-do ensues.",
+         "Don Diego de la Vega/Zorro returns from exile to avenge the death of his wife, who was killed by his enemy, Don Rafael Montero. Montero took de la Vega's daughter, Elena, and raised her as Elena Montero. The older Zorro takes it upon himself to train his successor, Alejandro Murrieta, who had once helped Zorro escape. Alejandro is cocky and comical, but shows some talent with sword play. What happens when the daughter and the protégé of Zorro meet? Sparks!",
+         "Zorro saves three men from the fleeing Spanish Governor but is followed to his home where his wife is killed and his infant daughter taken and is imprisoned. Twenty years later he escapes and finds his daughter has been raised as the governor's child. Vowing revenge he takes a young thief who is also seeking revenge as his apprentice, who will become the new wearer of the Mask of Zorro.",
+         "In early 19th century California the masked swordsman hero Zorro was a champion of the people against the tyranny of Spanish rule, represented by the ruthless Governor Montero. Unfortunately, on the eve of his greatest triumph, the liberation of California, Montero learns of Zorro's secret identity as Don Diego de la Vega and attacks the rebel in his home leaving him imprisoned, his wife dead and his daughter abducted to be claimed as the child of Montero. Twenty years pass, and Montero returns to California intent on a foul plan to bring it under his total control. Upon learning of his return, Don Diego escapes from his long imprisonment and prepares for his revenge. Part of it involves the training of an orphan who helped him as a boy to become his successor. Together, the two must prepare to do battle with Montero and his American henchman to save California and reunite with Diego's lost daughter. So once again, the enemies of freedom and justice in California must fear of the man who leaves the mark of the Z.",
+         "A young thief, seeking revenge over the death of his brother, is trained by the once great, but aged Zorro, who is also seeking a vengeance of his own."
+      ],
+      "budget": 65000000
+   },
+   "movielensId": 2006,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1998-07-16",
+      "dvdReleaseDate": "2005-10-18",
+      "directors": ["Martin Campbell"],
+      "runtime": 136,
+      "movieId": 2006,
+      "title": "The Mask of Zorro",
+      "mpaa": "PG-13",
+      "actors": [
+         "Antonio Banderas",
+         "Anthony Hopkins",
+         "Catherine Zeta-Jones",
+         "Stuart Wilson",
+         "Diego Sieres",
+         "José María de Tavira",
+         "Emiliano Guerra",
+         "Yolanda Orisaga",
+         "Paco Morayta",
+         "William Marquez",
+         "Tony Amendola",
+         "Pedro Altamirano",
+         "Luisa Huertas",
+         "María Fernández Cruz",
+         "Julieta Rosen",
+         "Raúl Martínez",
+         "Victor Rivers",
+         "L.Q. Jones",
+         "José Pérez",
+         "Tony Cabral",
+         "Tony Genaro",
+         "Iván Rafael",
+         "David Villalpando",
+         "Mónica Fernández Cruz"
+      ],
+      "imdbMovieId": "0120746",
+      "originalTitle": "The Mask of Zorro",
+      "genres": [
+         "Action",
+         "Adventure"
+      ],
+      "youtubeTrailerIds": ["s9ZaML_FeaU"],
+      "plotSummary": "It has been twenty years since Don Diego de la Vega fought Spanish oppression in Alta California as the legendary romantic hero, Zorro. Having escaped from prison he transforms troubled bandit Alejandro into his successor, in order to foil the plans of the tyrannical Don Rafael Montero who robbed him of his freedom, his wife and his precious daughter.",
+      "tmdbMovieId": 9342,
+      "avgRating": 3.27486,
+      "releaseYear": "1998",
+      "numRatings": 16674,
+      "posterPath": "/eh59q4ksXDQc97s52FUUQOkE8Th.jpg"
+   }
+}

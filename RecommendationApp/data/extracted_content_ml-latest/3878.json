@@ -1,0 +1,612 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "radiation",
+            "id": 1618
+         },
+         {
+            "name": "minister",
+            "id": 3065
+         },
+         {
+            "name": "black and white",
+            "id": 12999
+         }
+      ],
+      "imdb_id": "tt0049967",
+      "video": false,
+      "title": "X: The Unknown",
+      "recommendations": [
+         26278,
+         28752,
+         85611,
+         79052,
+         89751,
+         43033,
+         85602,
+         39044,
+         36521,
+         36522,
+         78265,
+         22602,
+         49640,
+         22612,
+         53622,
+         206630,
+         76964,
+         3104,
+         36089,
+         31280
+      ],
+      "backdrop_path": "/y7FF7zv8745LXYHhwXUzqzoY2sQ.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Dr. Adam Royston",
+               "gender": 0,
+               "credit_id": "52fe451dc3a368484e049669",
+               "name": "Dean Jagger",
+               "profile_path": "/ynPzyxE5xvkKDwr8xw18WoCsITN.jpg",
+               "id": 29313,
+               "order": 0
+            },
+            {
+               "cast_id": 3,
+               "character": "Inspector McGill",
+               "gender": 2,
+               "credit_id": "52fe451dc3a368484e049671",
+               "name": "Leo McKern",
+               "profile_path": "/qcO1TFO6SowLOQAwKRMKrqmrk6A.jpg",
+               "id": 7192,
+               "order": 1
+            },
+            {
+               "cast_id": 8,
+               "character": "Peter Elliott",
+               "gender": 2,
+               "credit_id": "53887d410e0a261453006468",
+               "name": "William Lucas",
+               "profile_path": "/7tsAi4tED9eMOIRIiRrw2grWbkL.jpg",
+               "id": 101720,
+               "order": 2
+            },
+            {
+               "cast_id": 2,
+               "character": "John Elliott",
+               "gender": 2,
+               "credit_id": "52fe451dc3a368484e04966d",
+               "name": "Edward Chapman",
+               "profile_path": "/560SL2ZjiLozbRyWGIMyBk2Aquy.jpg",
+               "id": 33267,
+               "order": 3
+            },
+            {
+               "cast_id": 26,
+               "character": "Maj. Cartwright",
+               "gender": 0,
+               "credit_id": "56b75e719251413c010059e5",
+               "name": "John Harvey",
+               "profile_path": "/2HDwZtlvwS9iSpgEFKqLSoj9nPb.jpg",
+               "id": 1573982,
+               "order": 4
+            },
+            {
+               "cast_id": 4,
+               "character": "LCpl. 'Spider' Webb",
+               "gender": 2,
+               "credit_id": "52fe451dc3a368484e049675",
+               "name": "Anthony Newley",
+               "profile_path": "/qgIIdT8QN7z6lJdOM7easJNyOX2.jpg",
+               "id": 81409,
+               "order": 5
+            },
+            {
+               "cast_id": 11,
+               "character": "Pvt. Haggis",
+               "gender": 2,
+               "credit_id": "53887d6e0e0a26145300646a",
+               "name": "Ian MacNaughton",
+               "profile_path": null,
+               "id": 57073,
+               "order": 6
+            },
+            {
+               "cast_id": 9,
+               "character": "Lt. Bannerman",
+               "gender": 2,
+               "credit_id": "53887d500e0a2614410062db",
+               "name": "Peter Hammond",
+               "profile_path": "/mpDDWJrC7QzMKtVb1V9vUhbd1ot.jpg",
+               "id": 135092,
+               "order": 7
+            },
+            {
+               "cast_id": 12,
+               "character": "Sgt. Harry Grimsdyke",
+               "gender": 2,
+               "credit_id": "53887d800e0a2614500062fb",
+               "name": "Michael Ripper",
+               "profile_path": "/oEFxIrp1uYlkYsbwtnKZu9SJK22.jpg",
+               "id": 24340,
+               "order": 8
+            },
+            {
+               "cast_id": 30,
+               "character": "Pvt. Lansing",
+               "gender": 2,
+               "credit_id": "58b4a56fc3a3685f2c0013a9",
+               "name": "Kenneth Cope",
+               "profile_path": "/oc2xpdiviqdguWamdctmd0O7a1y.jpg",
+               "id": 106992,
+               "order": 9
+            },
+            {
+               "cast_id": 31,
+               "character": "Willie Harding",
+               "gender": 2,
+               "credit_id": "58b4a5cec3a3685f1e001336",
+               "name": "Michael Brooke",
+               "profile_path": null,
+               "id": 137259,
+               "order": 10
+            },
+            {
+               "cast_id": 32,
+               "character": "Ian Osborn",
+               "gender": 0,
+               "credit_id": "58b4a5fac3a3685eb1001398",
+               "name": "Frazer Hines",
+               "profile_path": null,
+               "id": 1194742,
+               "order": 11
+            },
+            {
+               "cast_id": 42,
+               "character": "Russell",
+               "gender": 2,
+               "credit_id": "58b4f58cc3a3685edf0041b8",
+               "name": "Neil Wilson",
+               "profile_path": null,
+               "id": 189298,
+               "order": 12
+            },
+            {
+               "cast_id": 7,
+               "character": "Jack Harding",
+               "gender": 0,
+               "credit_id": "53887d320e0a26144d00628f",
+               "name": "Jameson Clark",
+               "profile_path": null,
+               "id": 229362,
+               "order": 13
+            },
+            {
+               "cast_id": 15,
+               "character": "Vi Harding",
+               "gender": 0,
+               "credit_id": "53888630c3a3681add004949",
+               "name": "Jane Aird",
+               "profile_path": null,
+               "id": 1296248,
+               "order": 14
+            },
+            {
+               "cast_id": 45,
+               "character": "Dr. Kelly",
+               "gender": 2,
+               "credit_id": "58b4f60f9251410a880045bd",
+               "name": "Robert Bruce",
+               "profile_path": null,
+               "id": 172920,
+               "order": 15
+            },
+            {
+               "cast_id": 43,
+               "character": "Gerry the Intern",
+               "gender": 2,
+               "credit_id": "58b4f5acc3a3685eef004a35",
+               "name": "John Stone",
+               "profile_path": null,
+               "id": 1225601,
+               "order": 16
+            },
+            {
+               "cast_id": 10,
+               "character": "Zena, the Nurse",
+               "gender": 0,
+               "credit_id": "53887d600e0a261444006361",
+               "name": "Marianne Brauns",
+               "profile_path": null,
+               "id": 140136,
+               "order": 17
+            },
+            {
+               "cast_id": 44,
+               "character": "The Vicar",
+               "gender": 0,
+               "credit_id": "58b4f5cec3a3685eb100448c",
+               "name": "Brown Derby",
+               "profile_path": null,
+               "id": 1227491,
+               "order": 18
+            },
+            {
+               "cast_id": 28,
+               "character": "Old Tom",
+               "gender": 0,
+               "credit_id": "58b4a4fec3a3685edf0012b8",
+               "name": "Norman Macowan",
+               "profile_path": null,
+               "id": 106152,
+               "order": 19
+            },
+            {
+               "cast_id": 27,
+               "character": "Soldier Burned on Back",
+               "gender": 2,
+               "credit_id": "5764cbe1925141681e0002ba",
+               "name": "Edwin Richfield",
+               "profile_path": null,
+               "id": 184981,
+               "order": 20
+            },
+            {
+               "cast_id": 29,
+               "character": "",
+               "gender": 2,
+               "credit_id": "58b4a54ac3a3685eef00151a",
+               "name": "Neil Hallett",
+               "profile_path": null,
+               "id": 153204,
+               "order": 21
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe451dc3a368484e04967b",
+               "name": "Leslie Norman",
+               "profile_path": null,
+               "id": 82334,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe451dc3a368484e049681",
+               "name": "Jimmy Sangster",
+               "profile_path": null,
+               "id": 30700,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "53888674c3a3681add004952",
+               "name": "Joseph Losey",
+               "profile_path": "/5OIfdtROzTqUxUCdzyOe5fM8GXl.jpg",
+               "id": 39009,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "53888697c3a3681af00048f2",
+               "name": "Jimmy Sangster",
+               "profile_path": null,
+               "id": 30700,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "538886a6c3a3681830000a49",
+               "name": "Anthony Hinds",
+               "profile_path": null,
+               "id": 30168,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "538886b4c3a3681af3004af6",
+               "name": "Michael Carreras",
+               "profile_path": null,
+               "id": 29664,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "538886bfc3a3681ad7004a71",
+               "name": "James Bernard",
+               "profile_path": null,
+               "id": 30137,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "538886ccc3a3681ae30047b8",
+               "name": "Gerald Gibbs",
+               "profile_path": null,
+               "id": 115057,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "538886d8c3a3681830000a50",
+               "name": "James Needs",
+               "profile_path": null,
+               "id": 30172,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "538886eac3a3682f7800095b",
+               "name": "Philip Leakey",
+               "profile_path": null,
+               "id": 30703,
+               "department": "Crew",
+               "job": "Makeup Effects"
+            },
+            {
+               "gender": 2,
+               "credit_id": "53888726c3a3681aea00458c",
+               "name": "Jimmy Sangster",
+               "profile_path": null,
+               "id": 30700,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58b4a64f9251410a940014ed",
+               "name": "John Hollingsworth",
+               "profile_path": null,
+               "id": 1555746,
+               "department": "Sound",
+               "job": "Music Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58b4a72fc3a3685f2c001480",
+               "name": "Jack Curtis",
+               "profile_path": null,
+               "id": 1766752,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58b4a752c3a3685f1e001421",
+               "name": "Philip Leakey",
+               "profile_path": null,
+               "id": 30703,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58b4a792c3a3685f1e00144b",
+               "name": "Jock May",
+               "profile_path": null,
+               "id": 1095444,
+               "department": "Sound",
+               "job": "Sound Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58b4a7b89251410a90001658",
+               "name": "Len Harris",
+               "profile_path": null,
+               "id": 578077,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58b4a7e4c3a3685f1e00147e",
+               "name": "Christopher Sutton",
+               "profile_path": null,
+               "id": 1627091,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58b4a833c3a3685f1e0014a9",
+               "name": "Alfred Cox",
+               "profile_path": null,
+               "id": 30702,
+               "department": "Sound",
+               "job": "Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58b4a899c3a3685f0b0016c5",
+               "name": "June Randall",
+               "profile_path": null,
+               "id": 1398136,
+               "department": "Directing",
+               "job": "Continuity"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58b4a8d6c3a3685edf001511",
+               "name": "Molly Arbuthnot",
+               "profile_path": null,
+               "id": 30178,
+               "department": "Costume & Make-Up",
+               "job": "Wardrobe Supervisor"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Horror",
+            "id": 27
+         },
+         {
+            "name": "Science Fiction",
+            "id": 878
+         },
+         {
+            "name": "Mystery",
+            "id": 9648
+         }
+      ],
+      "popularity": 1.87926,
+      "production_countries": [{
+         "iso_3166_1": "GB",
+         "name": "United Kingdom"
+      }],
+      "id": 26865,
+      "vote_count": 28,
+      "budget": 0,
+      "overview": "After a mysterious explosion leaves a large fissure in the ground, two young boys are confronted by an unknown phenomenon that inflicts severe radiation burns on one of them. There follows a spate of attacks at radiation establishments as the inexplicable life-form plunders radium stores. Dr Royston, an expert in atomic research, is brought in to explain and curtail the activities of this alien creature before it causes disaster.",
+      "similar": [
+         9738,
+         4011,
+         613,
+         2292,
+         227156,
+         3580,
+         154,
+         828,
+         988,
+         705,
+         62214,
+         9833,
+         121986,
+         193687,
+         10083,
+         2657,
+         363,
+         60672,
+         9298,
+         63849
+      ],
+      "original_title": "X: The Unknown",
+      "runtime": 81,
+      "poster_path": "/yr2qWWNwsTTKwAgfTFgdDHBfprB.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": "/pi7SHIi3CNAyDUCt6Jpr1q9UW3t.png",
+         "name": "Hammer Film Productions",
+         "id": 1314,
+         "origin_country": "US"
+      }],
+      "release_date": "1956-09-21",
+      "vote_average": 5.9,
+      "belongs_to_collection": null,
+      "tagline": "It rises from 2000 miles below the earth to melt everything in it's path!",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "UK",
+      "color": "Black and White",
+      "budgetCurrency": null,
+      "directors": [
+         "Joseph Losey",
+         "Leslie Norman"
+      ],
+      "runtime": 81,
+      "synopsis": "While going through some routine practice training inScotlandfor mine detection a group of soldiers detects a large radioactive signal just before the ground opens up in an explosive eruption. They summon plutonium scientist Dr. Adam Royston (Dean Jagger) for advice as to what to do. When Royston has his own lab destroyed he surmises that the culprit was un-human, and when two soldiers guarding the large crevasse where the ground erupted disappear he understands that there is some chemical force at work. The Army decides to block up the ground with concrete but Royston knows that the force will come out for more radioactive material and prepares for it. When it is revealed by Dr. Royston that the monster is actually a mass of energy he gets ample resistance form the voice of reason, the Army generals at hand who decide to bomb the thing back to the center of the earth where it came from. In a final showdown with the force taking a horrible new form Royston and the Army fight for their lives. ============================================================================= This is a more detailed synopsis. The movie opens with the credits and title over an open muddy field in Scotland. A soldier, in a radiation suit, holds a Geiger counter and walks searching for a buried sample. This is a military training exercise. The soldier, \"Spider\" Webb (Anthony Newley) finds the cylinder in a bit over a minute. As the soldiers are about to pack things in for the day, Lancing (Kenneth Cope) asks for a turn. Sgt. Grimsdyke (Michael Ripper) buries the sample. Haggis (Ian MacNaughton) and Webb gripe about the cold, the food and the delay. Lancing begins his search. Webb tries to help, but Landing has picked up a stronger radioactive source. Lt. Bannerman (Peter Hammond) takes the counter and tells Sgt. Grimsdyke to fetch Major Cartright. Major Cartright (John Harvey) pulls up in his Jeep and is escorted to the site of the strong radioactive reading. Lancing marks the location with a stick. Grimsdyke, Bannerman, and Cartright walk over to where the sample was buried. Lancing notices the water starting to bubble where he placed the stick. The ground begins to open and the surface water disappears. The other soldiers walk over to Lancing and are ordered back, but Lancing remains behind. The Sergeant orders a soldier (Edwin Richfield) to fetch Lancing. The earth splits open and a fireball shoots up. Lancing falls to the ground. In nearby Lochmouth, Scotland, an Atomic Energy Facility is processing nuclear materials--Cobalt. A Public Address announcement is made for Dr. Adam Royston. The director's son is working on cobalt sample readings. Peter Elliott (William Lucas) is substituting for Dr. Royston. Royston is down in his workshop some distance from the facility. The director, John Elliott (Edward Chapman) comes looking for Royston in person when Royston fails to respond to pages. Father and son have a philosophical difference as to the son's role at the facility. Dr. Adam Royston (Dean Jagger) tunes in a classical radio station behind a shield. He's conducting an experiment to use radio waves to rapidly counteract radioactive decay in certain chemical elements. Static on the radio indicates the chemical element is highly radioactive. A guard, Russell (Neil Wilson) comes to collect Royston. Royston walks back to the facility. The director makes it clear Royston is only to work on his assigned tasks, and not his own pet projects. He also reiterates that his son is to concentrate on administrative duties, not play scientist. He tells Royston the Army contacted them about \"a radiation reaction.\" He sends Royston to check it out, much to Royston's annoyance. Royston drives down to the War Department test site and takes Geiger readings. They are all negative. He tells the Major he wants to see the injured soldiers. Lancing is the most seriously burned. Royston immediately recognizes the type of burn. Next he examines the other soldier. His back is seriously blistered and the skin is peeling away. The unburned area corresponds to his rifle slung over his shoulder. These are radiation burns. That night the Army returns with equipment Royston requested, including lights. We learn Lancing has since died of his wounds. Royston requests the presence of the Major. He tells the Major, \"There's nothing more we can do out here. I suggest you leave a couple of men on guard.\" Royston and Peter drive back to the atomic facility and discuss the clues. Two boys out for the evening are planning a little frolic. One dares the other to go to an old keep or tower and see \"Old Tom.\" Willie Harding (Michael Brooke) sets off for the tower. He slowly and furtively creeps through the underbrush. He spots the tower and approaches. Then he sees something. His eyes widen in horror and he backs away then runs back to his friend, Ian Osborn (Frazer Hines). Willie was severely burned and is now in hospital. Royston is there with the doctor to examine the burns. Dr. Kelly (Robert Bruce) suspected radiation and explains that's why he called Royston. Kelly and Royston go talk to the parents. He asks Jack Harding (Jameson Clark) and his wife Vi (Jane Aird) the circumstances. They tell Royston to talk to the boy, Ian. Royston stops at the church after services to question Ian. Ian is reluctant at first to discuss their little adventure, but finally tells him exactly where it happened. Royston drives out to the tower. An old moonshiner occupies the place. Royston brings his Geiger counter. He notices a soot-like substance on the floor and a liquid dripping through the ceiling. He finds a still and Old Tom (Norman Macowan) sleeping. Royston spots a radioactive sample bottle on the shelf. It is from his workshop. He tests it and discovers it is now inert. Back at Royston's lab the place shows signs of a burglary. Glass is broken and equipment is damaged. There is a strange soot-like substance everywhere. Peter arrives to find Royston going through the damage. Royston explains the container contains tritium with a half-life of 28 years. Now the sample is inert. Inspector McGill (Leo McKern) meets with the director, John Elliott. Because a crime involves radiation, McGill is required to investigate. He meets with Royston in the cafeteria. McGill asks about the child who was burned. He already talked to Old Tom and confirmed the child never touched the container. McGill asks Royston to help him investigate. Willie Harding dies shortly after admission to hospital. Dr. Kelly pronounces and consoles the parents. Royston and McGill arrive and talk to Dr. Kelly. Jack Harding confronts Royston. He tells him, \"You meddle with things that kill, like they killed my boy in there. You should be locked up. You're not safe, you're a murderer.\" A lab technician, Harry Unwin (Neil Hallett) exits the radiation treatment room and calls a girl for a little assignation. He notices static on the phone line. Willie's body is removed from his room. The girl, Zena (Marianne Brauns) arrives and they kiss. Harry notices the equipment start on its own. A strong static sound alerts Harry that something is in the room. He retreats cowering against the wall. Zena, safe in another room, sees it through the glass shielding and screams. We zoom in on Harry's hand. His fingers are swelling and blistering. His face melts like wax revealing his teeth. The hospital director (Max Brimmell) shows Royston and McGill the lab. The storage vault is melted and covered in the same soot-like substance. Royston announces, \"Obviously the radium was the target.\" Royston concludes it can assume any shape. It can come under a door or through a ventilation grill. McGill tells Royston that the Major posted soldiers at the origin point--the fissure. Haggis and Webb are on guard at the fissure. Haggis hears something. He sees a glow out by the fissure. He ventures to have a look. He calls to Spider Webb then screams. Webb goes out to rescue his friend and finds his rifle covered with soot. He hears the buzzing or static sound and fires his machine gun at it. He screams and falls down. Royston, McGill, and the Major drive up and investigate. The major finds a torn cap. At the atomic facility, Royston calls a meeting to brainstorm. He proposes that the creature lives underground and is intelligent. About every fifty years a greater pull on the earth happens because of planetary alignment. To live it needs energy and fifty years ago there was nothing on the surface to eat. But now there is. In Royston's lab and the hospital there are radioactive isotopes. The director is not convinced. He calls the hypothesis \"absolute rubbish.\" McGill wants to see the thing at the fissure. The military makes all the arrangements and provides the equipment. Peter volunteers to go down into the fissure. On the way down he discovers the uniform and skeletal remains of one of the soldiers on a ledge. He continues down, but now his Geiger reacts. He sees it and demands to be pulled out fast. They get him to the car and McGill asks, \"Peter what did you see down there?\" Peter breathlessly replies, \"I don't know what it was. It is something out of a nightmare. It was horrible.\" The Major tells Royston his orders are to kill the thing, and then concrete over the fissure. They employ napalm then detonate explosives and cover it in concrete. Royston is back in his lab working. McGill stops in for a chat and tells him what the Army did. Royston is dubious that will stop the thing. He asks, \"How do you kill mud?\" McGill is leaving for London. Royston tells McGill of his pet project, namely, the ability to disintegrate atomic structure without the explosion. McGill leaves. At the fissure, the concrete cap explodes and a mud like substance flows out. The atomic pile at the facility is now inactive. They are removing the cobalt to be transported elsewhere. McGill calls headquarters and requests a delay in his return to London. The phone line is bad and he has trouble hearing his boss. As he leaves he hears a police report about, \"People Melting.\" He stops cold and takes the police report and rushes to the scene. A car is burned and has the same soot-like substance on it. McGill calls Royston at the facility and tells him four people were melted. Royston, the director, and Peter go to the director's office to consult a map of the area. Royston tells John and Peter the thing senses radiation and moves in a straight line. After noting the first two incidents on the chart, Royston plots a third line from the fissure to where they are--the Atomic Energy Establishment. \"It's on its way for the biggest meal of its life.\" McGill arrives at the facility as the cobalt is loaded onto a truck. The creature arrives at one of the guard posts and an alarm is sounded. The guard is melted. It rolls over a building and absorbs the cobalt. They suggest clearing its path when it returns to the fissure. McGill explains to the director they need to take action tonight. The next target is an even larger nuclear facility and to get there it must pass through Inverness. Royston and Peter are in his workshop working on his experiment. The Director and McGill arrive to see another test. The sample is bombarded with radio waves and we see the Geiger counter show less and less reading until it shows zero. But the container starts to glow and then it explodes. Royston is concerned it won't work. Everything they need is at the fissure to scale up this experiment and try it on the creature. Royston proposes to use a radioactive \"bait\" on a Jeep to lure the creature out of the fissure and between the radio transmitters. He coordinates synchronizing the transmitters. He calls for the Jeep to go to the fissure, but the driver is having trouble keeping the vehicle running. He is sick, so Peter takes over driving the Jeep. He pulls closer to the fissure, against orders, to lure it out. It chases the Jeep between the radio transmitters and begins to glow and writhe. It explodes into flames and disappears. Royston calls for Geiger counters for a reading. They approach the fissure to an even larger explosion that knocks everyone off their feet. We close with Royston walking up to and peering into the fissure.",
+      "writers": ["Jimmy Sangster"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0049967/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMjEzODQ1MjgwN15BMl5BanBnXkFtZTcwNzY1ODMyMQ@@._V1_SY317_CR4,0,214,317_AL_.jpg",
+      "actors": ["Stars: Dean Jagger, Edward Chapman, Leo McKern | See full cast and crew »"],
+      "reviews": [
+         "The plot: In the remote Scottish Highlands, a living radioactive mass seethes out of the depths of the earth and kills everyone in its path as it seeks fresh radioactive energy. Luckily an American scientist is about the place and kicks the 'thing' back down from whence it came. X the Unknown, while not having the innate intelligence of the Quatermass movies, is a good example of 1950's British pulp science-fiction cinema. While most of its American counterparts visited fantastic worlds inhabited by outlandish monsters and gorgeous 'space-babes', X the Unknown was a truly British effort: our monster was dollop of mud out of a hole in the ground doing a slow crawl around a dingy moor. It's effective though. It has the same austere, grim intensity which made the Quatermass movies so memorable. The film also benefits from moody, high-contrast black and white photography, a typically acerbic score from James Bernard, and a good cast; Leo Mckern turns in a very good, naturalistic performance, much like his turn in The Day The Earth Caught Fire. I first saw this movie when I was about six and the extraordinarily graphic scene depicting the monster 'devouring' a hospital doctor gave me a few... err....sleepless nights (there's a particularly ruthless zoom-in to the poor guys hand as it expands and melts!). Perhaps I should have stuck to Bugs Bunny. Overall, a decent chiller, well directed by Leslie Norman (late father of the superb British film critic Barry Norman). One last memory of a six year-old's first viewing of this picture: I remember sitting there stunned and horrified as the end credits rolled; I was not looking forward to a good nights sleep. The statutorily paternal BBC announcer came on and cracked the following nervous joke: \"Well, I'll never eat cheese on toast again\" (see the film and you'll know what he meant). I laughed with relief and my childhood was thus saved a terrible trauma! Thanks Uncle Beeb.",
+         "Hammer Films was known mostly for its horror outings like the Dracula, Frankenstein and Mummy films. It did, however, score well in the science fiction department with such hits as the Quatermass series, \"The Lost Continent\" and this movie. The film was originally pitches as a potential sequel in the Quatermass series until author Nigel Kneale objected. Thus, the scientist became Alan Royston (played by Dean Jagger of \"Twelve O'Clock High\" fame) who worked at a nuclear plant instead of a rocket base and the location was moved to Scotland to avoid comparisons to Quatermass. Ironically, the film still kept the same black & white photography, as well as the creepy string score. The story involves radioactive mud (sounds silly unless you actually stayed awake during physical science class) that makes it way up to the surface of the earth every so often looking for new energy. Previous trips found nothing but fossil fuel. Now, however, nuclear energy is abundant. The race is on to not just figure out what is turning people into crispy critters, but how to stop something made of pure energy. Dean Jagger as Royston is quite good and the exact opposite of Brian Donlevy's Quatermass. Leo McKern (of \"The Prisoner\") is on hand, as is the late British pop star and actor Anthony Newley as a soldier unfortunate enough to be on guard duty when X, the Unknown strikes. The special effects are adequate, although British films still couldn't show explosions that didn't look like match heads flaring. The visual effects are really creepy, from radiation burns on a boy's chest to a doctor's face melting like wax to a security guard's body literally deflating like a balloon. The ending features a surprise, as well, leaving the viewer with the feeling that, although man appears to have triumphed again, something may still be amiss. All in all, a good film, especially late on a Saturday night.",
+         "Sometimes these low-budget science fiction features are amusing for unintended reasons, but this one is enjoyable because it has an interesting story and because it is well-crafted for such a low-budget movie. Since its effectiveness comes mostly from the story and from the solid acting, even with a bigger budget it might not have been significantly better. The menace of \"X the Unknown\" is based on a far-fetched but interesting concept, and the story gets good mileage out of the premise, without pushing it too far. There are a couple of plot holes, but not so bad that they pull it down, and in general the story has the kind of internal logic that holds it together as long as you grant the premise for the sake of a good story. The cast does surprisingly well. The characters are not the kind of roles that are particularly difficult to play, but they are the kind of roles that are easy to overplay, and that often are overplayed. Here the actors make their characters lifelike without trying to grab the attention, and it works pretty well. Dean Jagger has good presence as Professor Royston, yet he avoids the kinds of stereotypes that sometimes make such characters annoying. Some of his little habits and mannerisms help to make the professor more human. Leo McKern also turns in a good performance. Edward Chapman's character is quite one-dimensional, yet he does a creditable job with it. It's also rather fun to see a very young-looking Anthony Newley in a small but entertaining role. All of the cast members do a good job with a script that is plain but workmanlike. The special effects are rudimentary in technique, but they are good enough, and it's certainly preferable to have plain-looking special effects and a good story than to have flashy visuals and a dreary, pointless story. As a whole, \"X the Unknown\" delivers good science fiction without frills or padding, and it's easily among the better of the 1950s low-budget sci-fi movies.",
+         "Often overlooked even by those who enjoy the sci-fi films of the fifties, \"X The Unknown\" is one of those sleepers that real afficionados will watch over and over. Starring Dean Jagger, the cast also features a very young Anthony Newly as a British Army corporal. There's not much that professional critics would find either amusing or compelling about this film, but when considered in its place as a landmark movie both for the sci-fi genre and for Hammer films, it shines somewhat brighter. As has aready been mentioned, this film occupies a prominent role among those that feature a \"blob\" monster. The special effects, incidentally, are not bad for the year (1956), and the concept of a radioactive blob is perhaps even more interesting than one that merely gobbles up people. I understand that this was one of the early films produced by Hammer, as a step toward making more sci-fi entries. I'm glad they took the chance. This film and those that followed it enriched the genre for all fans of 1950's and 1960's sci-fi films.",
+         "Dean Jagger battles radioactive goo from the center of the earth in this 1956 Hammer outing. Unlike \"The Blob\", released 2 years later, this creepy little horror story is played straight; no attempt at camp here! Dean Jagger, Leo McKern, and Anthony Newley play their parts with a subtlety and professionalism that's rarely matched in similar period pieces. While this film was overshadowed by it's American counterpart (see above), it remains one of Hammer's better efforts and should be judged on it's own. Yes, the premise is a bit hard to believe, but, once you get past that, everything else in this film works, from the direction to the score to the dialog, and of course the acting. In short, this is an underexposed, tight little chiller that has just the right amount of genuine suspense and believable characters. Don't miss it.",
+         "X the Unknown is an excellent sci fi movie from Hammer. It was made a year after The Quatermass Experiment. Drilling at a remote location in the Scottish Highlands attracts a strange force from below. It turns out to be a blob like creature that feeds on radiation, which gets bigger as a result. After several people are killed by it including a young boy, a scientist finds a way to kill it and succeeds at the end. This films stars American actor Dean Jagger and is joined by several familiar British stars: Leo McKern (The Day The Earth Caught Fire), Anthony Newly (Killers of Kilimanjaro), a young Frazer Hines (Dr Who, Emmerdale) and Hammer regular Michael Ripper (Curse of the Werewolf, The Mummy). The movie has a very creepy score and location photography, a lot of which was shot at night. This movie is a must if you are a fan of 1950's science fiction and Hammer. Rating: 4 stars out of 5.",
+         "First saw this excellent British Sci-Fi film when I was 10 or 11 at our local neighborhood theater. It seems like yesterday, since the invisible monster scared the Hell out of all of us. This was the first of many other Brit Sci-Fi movies we would scream our guts out at. They were far ahead of U.S. film makers in suspense and realism. The casts were also superior in their acting skills for this genre. I hope to locate many more movies like \"X The Unknown\" to see how I view them now as an adult. The initial impact may be less than it was originally.",
+         "This early offering from the studio that would go on to become the greatest force horror would ever see lacks the vibrant colours and pseudo-Gothic style that would go on to epitomise their later output, but it retains the British charm and wit that Hammer became famous for. The film also succeeds in being entertaining, and that's what Hammer Horror has always done best. X the Unknown is your classic 50's B-movie, and it follows a seemingly bottomless crack that has opened up in the Earth. This is not all, as adding to the Earth's woes is the creatures that have come out of this pit; which are made of mud and feed on energy. For the time it was made, the effects certainly aren't bad and this was an obvious blueprint for several b-movie 'classics', including most notably; The Blob. Seeing the huge mud creature fumble over telephone lines and rooftops is very fun to watch, and is a good early indicator of the sort of film that Hammer studios would go on to mass-produce. One thing that X the Unknown is notable for is the believability regarding the scientists researching the 'creature'. Too often in this sort of film, the scientists realise what is going on and everyone just accepts it, no matter how ridiculous it is; but here there's a bit of opposition and it's nice to see. The film remains interesting throughout thanks to the way that the plot is developed, and the fact that it doesn't go over the top with detail. It attacks the premise from lots of different angles, and seeing the army do it's best to thwart the creature is always amusing. The cast keeps the film afloat at all times, and the acting isn't bad at all; and certainly much better than I was expecting. Most of the cast are unknowns, but one standout is Hammer regular - Michael Ripper, who puts in a small appearance. X the Unknown isn't a brilliant film, and Hammer would go on to better this ten fold; but it's good for what it's worth, and I definitely recommend this movie to fans of classic 'B' cinema.",
+         "Back in the days when \"Prince Valiant\" still covered most of a page in the Sunday funnies, I first saw this wonderfully creepy SF sleeper. From the opening scenes of a stretch of the Scottish moors opening up under a British soldier's feet, I was hooked. I was very lucky that my parents didn't send me to bed then(although they did right in the middle of \"From Hell It Came\", but that's another story); I was resolved to catch it again just to get that creepy feeling! The ominous P.O.V. shots of the \"X\" monster shambling through the barren woods at night, the outrageous \"melting\" death by hard radiation of the medical tech in the X-ray room, Dean Jagger as Dr. Royston, describing his new invention that can (theoretically) speed up decay of radioactive materials without causing flare-ups(!) simply by leeching away its' energy, and the film's creepy, near-ambiguous ending (\"We did destroy it...didn't we?\") showed just what you could--and can!--still do with a small budget and respect for the material.",
+         "A really neat Sci-Fi/Horror item about a superheated blob creature that haunts the Scottish moors. Believably acted by a cast of veterans, and loaded with terrific suspense. Hammer Films once again demonstrates what can be done with a small budget and lots of imagination. Watch for this one!"
+      ],
+      "genres": [
+         "Sci-Fi",
+         "Mystery",
+         "Horror"
+      ],
+      "productionCompanies": ["Hammer Film Productions"],
+      "summaries": [
+         "British Army radiation drills at a remote Scottish base attract a subterranean, radioactive entity of unknown nature that vanishes, leaving two severely radiation-burned soldiers... and a \"bottomless\" crack in the earth. Others who meet the thing in the night suffer likewise, and with increasing severity; it seems to be able to \"absorb\" radiation from any source, growing bigger and bigger. What is it?? How do you destroy a thing that \"feeds\" on energy?",
+         "Radioactive mud-like creature terrorizes a Scottish village during the 1950's."
+      ],
+      "budget": 0
+   },
+   "movielensId": 3878,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1956-09-21",
+      "dvdReleaseDate": "2000-08-08",
+      "directors": [
+         "Leslie Norman",
+         "Joseph Losey"
+      ],
+      "runtime": 81,
+      "movieId": 3878,
+      "title": "X: The Unknown",
+      "mpaa": "",
+      "actors": [
+         "Dean Jagger",
+         "Leo McKern",
+         "William Lucas",
+         "Edward Chapman",
+         "John Harvey",
+         "Michael Ripper",
+         "Anthony Newley",
+         "Ian MacNaughton",
+         "Peter Hammond",
+         "Kenneth Cope",
+         "Michael Brooke",
+         "Frazer Hines",
+         "Neil Wilson",
+         "Jameson Clark",
+         "Jane Aird",
+         "Robert Bruce",
+         "John Stone",
+         "Marianne Brauns",
+         "Brown Derby",
+         "Edwin Richfield",
+         "Norman Macowan",
+         "Neil Hallett"
+      ],
+      "imdbMovieId": "0049967",
+      "originalTitle": "X: The Unknown",
+      "genres": [
+         "Horror",
+         "Science Fiction",
+         "Mystery"
+      ],
+      "youtubeTrailerIds": [
+         "krz8ym_TdSs",
+         "R8eyqSBQyKI"
+      ],
+      "plotSummary": "After a mysterious explosion leaves a large fissure in the ground, two young boys are confronted by an unknown phenomenon that inflicts severe radiation burns on one of them. There follows a spate of attacks at radiation establishments as the inexplicable life-form plunders radium stores. Dr Royston, an expert in atomic research, is brought in to explain and curtail the activities of this alien creature before it causes disaster.",
+      "tmdbMovieId": 26865,
+      "avgRating": 2.88889,
+      "releaseYear": "1956",
+      "numRatings": 72,
+      "posterPath": "/yr2qWWNwsTTKwAgfTFgdDHBfprB.jpg"
+   }
+}

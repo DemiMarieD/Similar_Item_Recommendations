@@ -1,0 +1,751 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "man vs machine",
+            "id": 312
+         },
+         {
+            "name": "alien planet",
+            "id": 10158
+         },
+         {
+            "name": "struggle for survival",
+            "id": 15354
+         }
+      ],
+      "imdb_id": "tt0114367",
+      "video": false,
+      "title": "Screamers",
+      "recommendations": [
+         14853,
+         9457,
+         9423,
+         10016,
+         9425,
+         10163,
+         4965,
+         10690,
+         14372,
+         4722,
+         11015,
+         9271,
+         8973,
+         9945,
+         6341,
+         10134,
+         12088,
+         4961,
+         9538,
+         25557
+      ],
+      "backdrop_path": "/A44eWjgfBnIQ9b49QveLt2svXL0.jpg",
+      "revenue": 5781885,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Colonel Hendricksson",
+               "gender": 2,
+               "credit_id": "52fe44dcc3a36847f80ae555",
+               "name": "Peter Weller",
+               "profile_path": "/qTdm4vdZPsplJpnTU4fSprp0CxJ.jpg",
+               "id": 27811,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Becker",
+               "gender": 2,
+               "credit_id": "52fe44dcc3a36847f80ae559",
+               "name": "Roy Dupuis",
+               "profile_path": "/yS7QOgqznIGFayy4ona7OWcRi55.jpg",
+               "id": 56977,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Jessica",
+               "gender": 1,
+               "credit_id": "52fe44dcc3a36847f80ae55d",
+               "name": "Jennifer Rubin",
+               "profile_path": "/xK5ubDqPfiWjXffMJzTvObFlXsV.jpg",
+               "id": 56978,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Ace Jefferson",
+               "gender": 2,
+               "credit_id": "52fe44dcc3a36847f80ae561",
+               "name": "Andrew Lauer",
+               "profile_path": "/hO1kHCOeh5Y3b451JjngSA5MYjM.jpg",
+               "id": 56979,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Landowska",
+               "gender": 1,
+               "credit_id": "52fe44dcc3a36847f80ae565",
+               "name": "Liliana Komorowska",
+               "profile_path": "/kSgBaqw40KmT1z4aiyBXnfghtc5.jpg",
+               "id": 25689,
+               "order": 4
+            },
+            {
+               "cast_id": 42,
+               "character": "David",
+               "gender": 0,
+               "credit_id": "5454b26d0e0a2648d2003dd3",
+               "name": "Michael Caloz",
+               "profile_path": null,
+               "id": 1229549,
+               "order": 6
+            },
+            {
+               "cast_id": 43,
+               "character": "Leone",
+               "gender": 2,
+               "credit_id": "5454b290c3a368148d003c36",
+               "name": "Jason Cavalier",
+               "profile_path": "/vziXaR1oew6TwRMqc8G1oNH2IxS.jpg",
+               "id": 30617,
+               "order": 7
+            },
+            {
+               "cast_id": 45,
+               "character": "Chuck Elbarak",
+               "gender": 2,
+               "credit_id": "5468f583eaeb816b5500145d",
+               "name": "Ron White",
+               "profile_path": "/wwct4MqN4iEMJQk27qeMj4qMoUR.jpg",
+               "id": 1242148,
+               "order": 9
+            },
+            {
+               "cast_id": 47,
+               "character": "Ross",
+               "gender": 0,
+               "credit_id": "57914561c3a368301400207f",
+               "name": "Charles Edwin Powell",
+               "profile_path": "/79UVj3yEcBA4dzRvkUuCg0a3UJA.jpg",
+               "id": 1445745,
+               "order": 10
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe44dcc3a36847f80ae56b",
+               "name": "Dan O'Bannon",
+               "profile_path": "/slLZWXZ1lmdF763166ATRRI200n.jpg",
+               "id": 5045,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44dcc3a36847f80ae571",
+               "name": "Miguel Tejada-Flores",
+               "profile_path": null,
+               "id": 56980,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44dcc3a36847f80ae577",
+               "name": "Franco Battista",
+               "profile_path": null,
+               "id": 56981,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44dcc3a36847f80ae57d",
+               "name": "Tom Berry",
+               "profile_path": null,
+               "id": 56982,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44dcc3a36847f80ae583",
+               "name": "Normand Corbeil",
+               "profile_path": null,
+               "id": 17212,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44dcc3a36847f80ae589",
+               "name": "Rodney Gibbons",
+               "profile_path": null,
+               "id": 56983,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44dcc3a36847f80ae58f",
+               "name": "Yves Langlois",
+               "profile_path": null,
+               "id": 52093,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44dcc3a36847f80ae59b",
+               "name": "Christian Duguay",
+               "profile_path": "/dz0da6lHPAzAFTZMR0LvsGUr8cd.jpg",
+               "id": 25735,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5454ad830e0a2648c2003c74",
+               "name": "Jean-Andre Carriere",
+               "profile_path": null,
+               "id": 1178908,
+               "department": "Art",
+               "job": "Set Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5454ad9bc3a3681473003aa6",
+               "name": "Raymond Larose",
+               "profile_path": null,
+               "id": 1380378,
+               "department": "Art",
+               "job": "Set Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5454adb30e0a2648d6003b8d",
+               "name": "Stuart Zsombor-Murray",
+               "profile_path": null,
+               "id": 1380380,
+               "department": "Art",
+               "job": "Set Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5454ae940e0a2648d6003ba9",
+               "name": "Gary Daprato",
+               "profile_path": null,
+               "id": 1380385,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 1,
+               "credit_id": "536deb0bc3a368121800c79d",
+               "name": "Karen Margiotta",
+               "profile_path": null,
+               "id": 60055,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "536deb22c3a368124100cdea",
+               "name": "Mary Margiotta",
+               "profile_path": null,
+               "id": 60056,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "536deb39c3a368121200c5f9",
+               "name": "Lucie Robitaille",
+               "profile_path": null,
+               "id": 6997,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "536deb51c3a368122600c5df",
+               "name": "Trixi Rittenhouse",
+               "profile_path": null,
+               "id": 1304747,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "536deb6cc3a36839c1002dcd",
+               "name": "Perri Gorrara",
+               "profile_path": null,
+               "id": 960077,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "536deb80c3a368122600c5ea",
+               "name": "Michael Devine",
+               "profile_path": null,
+               "id": 1318146,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "536deb9dc3a368121800c7aa",
+               "name": "David Jaquest",
+               "profile_path": null,
+               "id": 1318148,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5454add20e0a2635de0016f5",
+               "name": "David Gaucher",
+               "profile_path": null,
+               "id": 1380382,
+               "department": "Art",
+               "job": "Set Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5454adf1c3a368147c003af1",
+               "name": "Elise de Blois",
+               "profile_path": null,
+               "id": 1380383,
+               "department": "Crew",
+               "job": "Property Master"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5454ae810e0a263863001810",
+               "name": "Tim Archer",
+               "profile_path": null,
+               "id": 1380384,
+               "department": "Sound",
+               "job": "Sound Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5454aec30e0a2635de001721",
+               "name": "Anthony Lancett",
+               "profile_path": null,
+               "id": 1380386,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5454af37c3a3681478003bb7",
+               "name": "Clive Turner",
+               "profile_path": null,
+               "id": 1380387,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5454af66c3a368148d003bcf",
+               "name": "Ernest D. Farino",
+               "profile_path": null,
+               "id": 102339,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5454afa1c3a3681473003ae2",
+               "name": "Michael Scherer",
+               "profile_path": null,
+               "id": 90354,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5454b0210e0a2635de001758",
+               "name": "Christian Duguay",
+               "profile_path": "/dz0da6lHPAzAFTZMR0LvsGUr8cd.jpg",
+               "id": 25735,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5454b03e0e0a2648cf003de0",
+               "name": "Walter Klymkiw",
+               "profile_path": null,
+               "id": 92240,
+               "department": "Lighting",
+               "job": "Gaffer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5454b053c3a3682be9001571",
+               "name": "Abe Perlstein",
+               "profile_path": null,
+               "id": 1380390,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5454b08a0e0a2648d2003d8f",
+               "name": "Anne Tait",
+               "profile_path": null,
+               "id": 1126724,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5454b0d90e0a2648c5003dac",
+               "name": "Michel Proulx",
+               "profile_path": null,
+               "id": 1192793,
+               "department": "Editing",
+               "job": "Color Timer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5454b105c3a3682be9001589",
+               "name": "Alain Caporicci",
+               "profile_path": null,
+               "id": 1380391,
+               "department": "Crew",
+               "job": "Security"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5454b1490e0a2635de00177a",
+               "name": "Johanne Caporicci",
+               "profile_path": null,
+               "id": 1380392,
+               "department": "Production",
+               "job": "Location Manager"
+            },
+            {
+               "gender": 2,
+               "credit_id": "560c446892514171a000645b",
+               "name": "Philip K. Dick",
+               "profile_path": "/jDOKJN8SQ17QsJ7omv4yBNZi7XY.jpg",
+               "id": 584,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a6e2365925141076c01d84e",
+               "name": "François Guérin",
+               "profile_path": null,
+               "id": 1968536,
+               "department": "Sound",
+               "job": "Boom Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ac3ee06925141272003f0c4",
+               "name": "Hanna Yee",
+               "profile_path": null,
+               "id": 1850438,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ac3ee180e0a260c2a04339a",
+               "name": "Roxy D'Alonzo",
+               "profile_path": null,
+               "id": 1437798,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ac3eeae0e0a264a4e085082",
+               "name": "Bruno Philip",
+               "profile_path": null,
+               "id": 92203,
+               "department": "Camera",
+               "job": "Second Unit Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ac3eec00e0a260c0103b260",
+               "name": "Keith Young",
+               "profile_path": null,
+               "id": 1421741,
+               "department": "Camera",
+               "job": "Second Unit Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ac3eed4c3a3682d3303c642",
+               "name": "Bruno Gallant",
+               "profile_path": null,
+               "id": 2014879,
+               "department": "Camera",
+               "job": "Dolly Grip"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ac3eef3925141601507ab65",
+               "name": "Maral Hassib",
+               "profile_path": null,
+               "id": 1590110,
+               "department": "Lighting",
+               "job": "Electrician"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ac3ef0392514126b003bbc3",
+               "name": "François Lachance",
+               "profile_path": null,
+               "id": 2014882,
+               "department": "Lighting",
+               "job": "Electrician"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ac3ef180e0a260c4d041159",
+               "name": "Dean Lewis",
+               "profile_path": null,
+               "id": 2014883,
+               "department": "Lighting",
+               "job": "Electrician"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ac3ef2a0e0a260c0103b2d0",
+               "name": "Bruno Martel",
+               "profile_path": null,
+               "id": 92241,
+               "department": "Lighting",
+               "job": "Electrician"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ac3ef3ac3a368443f07ecba",
+               "name": "Sidney John Watkins",
+               "profile_path": null,
+               "id": 2014884,
+               "department": "Lighting",
+               "job": "Electrician"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ac3ef61925141601507ac20",
+               "name": "Mark Hoffman",
+               "profile_path": null,
+               "id": 2014887,
+               "department": "Camera",
+               "job": "First Assistant Camera"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ac3ef870e0a260c4a043164",
+               "name": "Emeric Grunebaum",
+               "profile_path": null,
+               "id": 2014889,
+               "department": "Camera",
+               "job": "Key Grip"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Horror",
+            "id": 27
+         },
+         {
+            "name": "Science Fiction",
+            "id": 878
+         }
+      ],
+      "popularity": 10.372312,
+      "production_countries": [
+         {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+         },
+         {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+         },
+         {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+         }
+      ],
+      "id": 9102,
+      "vote_count": 184,
+      "budget": 20000000,
+      "overview": "(SIRIUS 6B, Year 2078) On a distant mining planet ravaged by a decade of war, scientists have created the perfect weapon: a blade-wielding, self-replicating race of killing devices known as Screamers designed for one purpose only -- to hunt down and destroy all enemy life forms.",
+      "similar": [
+         603,
+         604,
+         605,
+         34851,
+         12244,
+         869,
+         2048,
+         19,
+         62,
+         19995,
+         296,
+         622,
+         339964,
+         9323,
+         14853,
+         16866,
+         830,
+         11082,
+         9980,
+         76600
+      ],
+      "original_title": "Screamers",
+      "runtime": 108,
+      "poster_path": "/aFEs7D7IQ2IehTsniRIojDkiDl6.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Fuji Eight Company Ltd.",
+            "id": 7958,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Allegro Films",
+            "id": 4899,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Fries Film Group",
+            "id": 23096,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "The Movie Network (TMN)",
+            "id": 3388,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Super Ecran",
+            "id": 23097,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Triumph Films",
+            "id": 23098,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1995-09-08",
+      "vote_average": 6,
+      "belongs_to_collection": {
+         "backdrop_path": null,
+         "name": "Screamers Collection",
+         "id": 122017,
+         "poster_path": "/vtCuIaQvK3IyLENmuc73RFm4TU7.jpg"
+      },
+      "tagline": "The last scream you hear will be your own.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Canada",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Christian Duguay"],
+      "runtime": 108,
+      "synopsis": null,
+      "writers": [
+         "Philip K. Dick",
+         "Dan O'Bannon"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0114367/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTgwMDI4MTIwMV5BMl5BanBnXkFtZTYwMDU4ODg4._V1_SY317_CR4,0,214,317_AL_.jpg",
+      "actors": ["Stars: Peter Weller, Roy Dupuis, Jennifer Rubin | See full cast and crew »"],
+      "reviews": [
+         "OK this film has virtually no budget for a sci-fi movie and no real stars to speak of other than Peter 'Robocop' Weller but that doesn't matter because what it does have is a good story well told. It's a shame that bigger budget sci-fi productions never seem to remember that sci-fi should be have an interesting premise and not just throw a few explosions at the screen every few minutes. What is on offer in Screamers is a solidly entertaining 1hr 40mins of sci fi fun, reasonable acting and a great story based on a Phillip K Dick short. The main idea of screamers is a very scary one a war that had been taken over by machines that fight on our behalf a war that can't be stopped. For sci-fi fans this is a must see, for everyone else it's still solidly entertaining 7/10",
+         "Screamers impressed the heck out of me. Reviews I'd read of it called it a \"slasher\" movie and said that it was highly derivative of other movies, such as Aliens and Blade Runner. In fact, I found it to be highly imaginative and original, very much in the spirit of the Philip K. Dick story that inspired it, pondering the ultimate meanings of humanity, war and technology. The scenery and story surrounding the film were both intriguing: despite the film's low budget, the director did an excellent job of constructing the devastated planet. Peter Weller and Jennifer Rubin turned in excellent performances, and the supporting cast was also quite good. Finally, every scene is shot with a real urgency to it; particularly well done are the nightmarish confrontation 2/3 of the way through the movie and the poignant and shattering ending. In short, this is a very very good movie and well worth renting. It will stay with you for quite a while. Before signing off, I should say something about construing one science fiction movie as a ripoff of others. Screamers had elements of its plot which can be found in other films (ie men and machines, monsters) but it blends them seamlessly into its own original story. The mere presence of identifiable elements from other films has given people ground to criticize this movie as unoriginal. By their standards, I don't think it would be possible at all to make new movies or novels or anything. These surface similarities will always be there. One can argue that the Matrix is merely an update of Socrates' cave allegory. In conclusion: ignore the critics and see Screamers!!",
+         "This movie aptly showed that you don't need a huge budget to make a good picture, even when that picture is a sci fi. It wasn't the best movie I've ever seen, but for crying out loud it was a heck of a lot smarter than Independence Day and that movie cost a mint. I had read Phillip K Dick's 'Second Variety', the short story upon which this movie is based, before I ever saw Screamers, and I didn't realize Screamers was even based on the story until I watched it. Being a big fan of the original story I was glad to see it brought to the screen, and more or less faithfully - I thought Peter Weller did a great job in this movie, the atmosphere was actually somewhat as I had imagined it reading the story (they updated it somewhat by placing it in a totally different location, since the original story's wasteland was a result of nuclear war between the U.S. and Russia; something which I'm sure seemed plausible at the time it was written but is a little dated now), and although I don't think they pulled off the sort of paranoia we saw in The Thing, there was some nice tension as the story unfolded, although it fell apart a bit at the end. Bottom line - if you're a sci fi fan sniffing around for some sci fi you haven't seen but don't want to sit through a total dog, it's not a bad renter.",
+         "In the future the mining planet Sirius 6B has become a war zone with two warring factions. The ground is patrolled by underground robots called Screamers who target anyone not wearing identifying marks. One side receives a plea for peace negotiations after 10 years of war and discover from a lost soldier that the war has been forgotten on earth. The two sides have been left to die on Sirius 6B while another way is started on another planet. Commander Hendricksson (Weller) sets out with the lost soldier Jefferson (Lauer) to contact the other side and declare peace. However what they find will spell the end of their war one way or another. This is based on a Phillip K. Dick story and has all the intelligence you would expect from a sci-fi from him - this is not a gory horror movie. This is an intelligent story about the creation of the Screamers and their \"evolution\". It also has a cynical edge lended by the way that the soldiers have been deserted by their leaders and continue to be tricked into fighting while the leaders get on with their business. Weller is excellent as the world weary commander who finds his life sold out from under him. The supporting cast are OK with their stereotyped characters but the real stars are the Screamers who start out by small things with saw-blades and gradually take other forms. The child versions of Screamers are particularly creepy and perhaps a little disturbing. However this is not as terrifying as it should be, nor is it as intelligent as it starts out being. The whole issue behind the different screamers is not explained and towards the end they just keep popping up without reason! It also has one of those \"watch out for the sequel\" style endings - although in fairness it isn't quite as bad as that. The special effects are a bit ropey but do the job - after all this is a very low budget movie. The whole thing is not as good as it could have been but is certainly head and shoulders above a lot of low budget sci-fi thrillers.",
+         "Screamers is a futuristic Sci-Fi Horror set on another planet, Sirius 6B. The film starts off very poorly with a narrative spoken in a robotic voice, indicating that Screamers will be no more than Z-grade garbage. Luckily, Screamers proves to be a respectable, suspense filled film that superbly displays the extremes of raw human emotions. Screamers always has the advantage that it was written by Philip K. Dick, the author whose stories lead to Blade Runner, Total Recall and Minority Report. Whilst Screamers is no way in the same league as these films, it is much more thought provoking and gripping than other Sci-Fi films on a similar budget. The pace at which the plot moves is extremely intense; it seizes the attention of the audience and leaves them waiting for the next scene. The relationships between each character are all very compelling; every character has their own little story which ensures Screamers does not become one dimensional. Peter Weller is excellent in his role as Hendrickson. I've only seen him in Robocop so it is good to know he is not simply good at playing a robot. His character is complex as he misses earth, yet has submitted to being stuck on Sirius 6B. His relationship with Jessica (Jennifer Rubin) develops wonderfully throughout the film and is a good contrast to the horror taking place. Jennifer Rubin also puts on a great performance as her character starts as a mystery and gradually opens up in to someone the audience really cares for. The \"Screamers\" are a tremendous idea as underground defence robots who adapt to produce a new, human looking batch of screamers. The sound they make is very chilling and really brings up the hairs on the back of your neck; this is greatly reflected in the characters reactions on hearing the screams. Sadly, poor stop motion effects mean it is a disappointment when it comes to seeing the screamers attack but it is not hard to overlook special effects for a good story. It is a shame Screamers wasn't given more budget as it had potential to be a truly great film. I don't care about special effects very much but I feel the films vision could have been realised more if there was more money in this area. Also some of the sets are poorly designed as there appears to be a lack of effort in some places. The outlook is supposed to be bleak but the director does little to emphasise this. Possibly the best thing about Screamers is the end. With paranoia levels reaching those in The Thing, the twist at the end is very surprising and tense. Weller and Rubin really shine in these scenes and do well to affect the audience's emotions. The script, which is good throughout, is also especially good in the final sequence. With more money behind it and better direction, Screamers would be a Sci-Fi classic, as it is, Screamers is an underrated, well acted, great story.",
+         "Based on a Phillip K. Dick story (the writer of \"Do Androids Dream of Electric Sheep,\" which was the background for \"Blade Runner\") this movie delivers, but suffers because of the apparently tight budget. Some scenes in here reminded me of the original \"Star Trek\" episodes, where the production crew had to become quite inventive to get effects on an almost non-existing budget. So movies low on money have to rely on their scripts and on good actors, and \"Screamers\" has them both. The story and its subplots could serve for three movies and especially Peter Weller showed a superb performance here. Generally there are some weaknesses, but they can be forgiven, if you allow yourself to get into the story. If you have enough of FX loaded movies that cover their thin plot with a multitude of explosions, then give it a try.",
+         "Obviously most people didn't think this movie to be much anything special, although I tend to disagree. I thought this movie was probably one of the best sci-fi films in years that I've seen. Peter Weller (best known as RoboCop) is also a very under-rated actor who deserves some good roles these days. The only problem with this movie was the very poorly done special fx. I'm sure if this movie would have been given a bigger budget it would have done better in theaters.",
+         "Under rated, scary, yes, even creepy. I LIKE IT! I rented the DVD years ago, and look to buy it for my collection... to put next to my soldier and starship troopers dvds, no less. Petter Weller carried the movie. No doubt about it. The whiny, phsycologically scarred soldier from the NEBs was far better tolerated than Mr \"Game over man!\" from Aliens (bill paxton at his unusual worst). This movie deserved a better budget, but was well made within what they had. Yes, I see the static back drops... a far cry from the dynamic CG animated ones we have grown used to in recent films. However, the \"Outer Limits\" style of cinematogrophy worked well for me. Okay, everyone just getting up and dusting themselves off after launching a mini-nuke into their kid-infested base was unrealistic and could have been portrayed better. The David screamer caught me off guard from the beginning, I didn't suspect anything until he was shot. And the chick? classic move. The teady bear at the end was UBER CREEPY... and begs for a WELL DONE sequel... with Peter Weller... or else don't even try. Mark this as one of my favorite unsung movies. A must see for the SCI-FI afficianado.",
+         "Another highly entertaining sci-fi film based on a Philip K. Dick short story which I have subsequently read; and I agree with other reviewers that the movie is true to the story for the most part. Have yet to view a movie based on a Dick story that wasn't enjoyable, e.g., Blade Runner, Minority Report. If you liked either of those movies,you will enjoy this movie for its intelligent entertainment. Weller's character Hendricksson is fairly straight forward as a disenchanted commander believing that his command has been abandoned and that their battles on this outpost planet have been made irrelevant by the higher authorities. Consequently, Hendricksson sets out to bring a truce proposal to the enemy forces. But technology gone awry rears its ugly head in the form of self-manufacturing killing devices known as the screamers named for their high pitched sound just before they slice and dice humans.",
+         "For the few who happen to be fans of Peter Weller, this is certainly one to hang onto. A great little film that is just as brutal and vicious as any movie by Paul Verhoeven. I was surprised Verhoeven didn't direct a film like this. A little cheesy, but often times interesting, Screamers is a little film I like quite a bit. The funny thing is, I liked this film, even though I had watched Twelve Monkeys just a couple hours earlier (I did a little theater hopping). A cool little film with a freaky ending."
+      ],
+      "genres": [
+         "Action",
+         "Adventure",
+         "Horror",
+         "Sci-Fi",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "Allegro Films",
+         "Fries Film Group",
+         "Fuji Eight Company Ltd."
+      ],
+      "summaries": ["(SIRIUS 6B, Year 2078) On a distant mining planet ravaged by a decade of war, scientists have created the perfect weapon: a blade-wielding, self-replicating race of killing devices known as Screamers designed for one purpose only -- to hunt down and destroy all enemy life forms But man's greatest weapon has continued to evolve without any human guidance, and now it has devised a new mission: to obliterate all life. Col. Hendricksson (Peter Weller) is commander of a handful of Alliance soldiers still alive on Sirius 6B. Betrayed by his own political leaders and disgusted by the atrocities of this never-ending war, Hendricksson decides he must negotiate a separate peace with the New Economic Bloc's decimated forces. But to do so, he will have to cross a treacherous wasteland where the deadliest threat comes from the very weapons he helped to create."],
+      "budget": 20000000
+   },
+   "movielensId": 76,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1995-09-08",
+      "dvdReleaseDate": "1998-07-29",
+      "directors": ["Christian Duguay"],
+      "runtime": 108,
+      "movieId": 76,
+      "title": "Screamers",
+      "mpaa": "R",
+      "actors": [
+         "Peter Weller",
+         "Roy Dupuis",
+         "Jennifer Rubin",
+         "Andrew Lauer",
+         "Liliana Komorowska",
+         "Michael Caloz",
+         "Jason Cavalier",
+         "Ron White",
+         "Charles Edwin Powell"
+      ],
+      "imdbMovieId": "0114367",
+      "originalTitle": "Screamers",
+      "genres": [
+         "Horror",
+         "Science Fiction"
+      ],
+      "youtubeTrailerIds": ["1AeAvE3FxQ8"],
+      "plotSummary": "(SIRIUS 6B, Year 2078) On a distant mining planet ravaged by a decade of war, scientists have created the perfect weapon: a blade-wielding, self-replicating race of killing devices known as Screamers designed for one purpose only -- to hunt down and destroy all enemy life forms.",
+      "tmdbMovieId": 9102,
+      "avgRating": 3.01724,
+      "releaseYear": "1995",
+      "numRatings": 3713,
+      "posterPath": "/aFEs7D7IQ2IehTsniRIojDkiDl6.jpg"
+   }
+}

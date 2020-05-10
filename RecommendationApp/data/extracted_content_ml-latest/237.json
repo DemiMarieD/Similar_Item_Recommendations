@@ -1,0 +1,636 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "paris",
+            "id": 90
+         },
+         {
+            "name": "dallas",
+            "id": 5720
+         },
+         {
+            "name": "basketball",
+            "id": 6496
+         },
+         {
+            "name": "crisis",
+            "id": 6711
+         },
+         {
+            "name": "falling in love",
+            "id": 13072
+         },
+         {
+            "name": "referee",
+            "id": 177216
+         }
+      ],
+      "imdb_id": "tt0113097",
+      "video": false,
+      "title": "Forget Paris",
+      "recommendations": [
+         49963,
+         116808,
+         24006,
+         16659,
+         35292,
+         2611,
+         24070,
+         46932,
+         22614,
+         47881,
+         77368,
+         77955,
+         14187,
+         158895,
+         43638,
+         13164,
+         1686,
+         125034,
+         4578,
+         124847
+      ],
+      "backdrop_path": "/9fxljwrE3gYiFaSNNXnubMa1fvb.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Mickey Gordon",
+               "gender": 2,
+               "credit_id": "52fe43809251416c75012ca9",
+               "name": "Billy Crystal",
+               "profile_path": "/22PBSROMN6GmD7uxHpTNb0Unftt.jpg",
+               "id": 7904,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Ellen Andrews Gordon",
+               "gender": 1,
+               "credit_id": "52fe43809251416c75012cad",
+               "name": "Debra Winger",
+               "profile_path": "/l1ISZ6yfV8ilaNmOHBVTheq6Mbq.jpg",
+               "id": 26513,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Andy",
+               "gender": 2,
+               "credit_id": "52fe43809251416c75012cb1",
+               "name": "Joe Mantegna",
+               "profile_path": "/vd83KyKwcNrxd6EDcezGv16xhsL.jpg",
+               "id": 3266,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Liz",
+               "gender": 1,
+               "credit_id": "52fe43809251416c75012cb5",
+               "name": "Cynthia Stevenson",
+               "profile_path": "/4EClZk1ZIKe3SwcfFr5FrK0xd84.jpg",
+               "id": 65528,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Craig",
+               "gender": 2,
+               "credit_id": "52fe43809251416c75012cb9",
+               "name": "Richard Masur",
+               "profile_path": "/w8qQdmxLRRSXNXkjHKHlY5vawXG.jpg",
+               "id": 15416,
+               "order": 4
+            },
+            {
+               "cast_id": 6,
+               "character": "Lucy",
+               "gender": 1,
+               "credit_id": "52fe43809251416c75012cbd",
+               "name": "Julie Kavner",
+               "profile_path": "/tVOau491aJlI8vNaksykiURPbDN.jpg",
+               "id": 199,
+               "order": 5
+            },
+            {
+               "cast_id": 16,
+               "character": "Jack",
+               "gender": 2,
+               "credit_id": "52fe43809251416c75012cf7",
+               "name": "John Spencer",
+               "profile_path": "/9sU5FEzlf921n6NxHmXgJB3994T.jpg",
+               "id": 34691,
+               "order": 6
+            },
+            {
+               "cast_id": 17,
+               "character": "Knicks City Dancer",
+               "gender": 1,
+               "credit_id": "52fe43809251416c75012cfb",
+               "name": "Mary Ann Hermansen",
+               "profile_path": "/ekYyQZZc9c9SwxIbSkgZPPhsLcm.jpg",
+               "id": 1028072,
+               "order": 7
+            },
+            {
+               "cast_id": 18,
+               "character": "Himself",
+               "gender": 0,
+               "credit_id": "536133210e0a2649b800002f",
+               "name": "Bill Laimbeer",
+               "profile_path": "/vmyMKvlmRmpVCTWhLTurdrZtiAt.jpg",
+               "id": 1312327,
+               "order": 8
+            },
+            {
+               "cast_id": 19,
+               "character": "Himself",
+               "gender": 0,
+               "credit_id": "536137860e0a2649ad00007a",
+               "name": "John Starks",
+               "profile_path": "/cXZcEUTnAfC3c8OF8bnAsFf2P3A.jpg",
+               "id": 1214271,
+               "order": 9
+            },
+            {
+               "cast_id": 39,
+               "character": "Himself",
+               "gender": 0,
+               "credit_id": "536174990e0a2649a90004c9",
+               "name": "Charles Barkley",
+               "profile_path": "/rCIACLwCRjNRe6SBjizNCi2wAuR.jpg",
+               "id": 1211812,
+               "order": 10
+            },
+            {
+               "cast_id": 21,
+               "character": "Himself",
+               "gender": 0,
+               "credit_id": "536138160e0a2649b10000a0",
+               "name": "David Robinson",
+               "profile_path": null,
+               "id": 1177940,
+               "order": 12
+            },
+            {
+               "cast_id": 22,
+               "character": "Himself",
+               "gender": 0,
+               "credit_id": "536138220e0a2649b40000a7",
+               "name": "Dan Majerle",
+               "profile_path": null,
+               "id": 1084971,
+               "order": 13
+            },
+            {
+               "cast_id": 23,
+               "character": "Himself",
+               "gender": 0,
+               "credit_id": "536138620e0a2649a6000093",
+               "name": "Kevin Johnson",
+               "profile_path": "/fKR26GFR96Ilu1KwMAA6ySMrWFH.jpg",
+               "id": 1315335,
+               "order": 14
+            },
+            {
+               "cast_id": 24,
+               "character": "Himself",
+               "gender": 0,
+               "credit_id": "536144d2c3a3683976000145",
+               "name": "Paul Westphal",
+               "profile_path": null,
+               "id": 1315402,
+               "order": 15
+            },
+            {
+               "cast_id": 25,
+               "character": "Himself",
+               "gender": 0,
+               "credit_id": "536144dfc3a368396500012b",
+               "name": "Sean Elliott",
+               "profile_path": null,
+               "id": 1242515,
+               "order": 16
+            },
+            {
+               "cast_id": 26,
+               "character": "Himself",
+               "gender": 0,
+               "credit_id": "536144ebc3a368394e000135",
+               "name": "Patrick Ewing",
+               "profile_path": "/aaXM8PuixEHNTLmvBQJLH8vV1SV.jpg",
+               "id": 1231141,
+               "order": 17
+            },
+            {
+               "cast_id": 27,
+               "character": "Himself",
+               "gender": 0,
+               "credit_id": "53614530c3a368394e000139",
+               "name": "Tim Hardaway",
+               "profile_path": null,
+               "id": 1232431,
+               "order": 18
+            },
+            {
+               "cast_id": 28,
+               "character": "Himself",
+               "gender": 2,
+               "credit_id": "5361453fc3a368394e00013b",
+               "name": "Kareem Abdul-Jabbar",
+               "profile_path": "/xUzZxzrAaAKZ1l2quIJRgmBwOGU.jpg",
+               "id": 14414,
+               "order": 19
+            },
+            {
+               "cast_id": 29,
+               "character": "Himself",
+               "gender": 0,
+               "credit_id": "53614550c3a368395600014a",
+               "name": "Reggie Miller",
+               "profile_path": null,
+               "id": 122447,
+               "order": 20
+            },
+            {
+               "cast_id": 30,
+               "character": "Himself",
+               "gender": 0,
+               "credit_id": "5361455cc3a368394e00013d",
+               "name": "Chris Mullin",
+               "profile_path": null,
+               "id": 196527,
+               "order": 21
+            },
+            {
+               "cast_id": 31,
+               "character": "Himself",
+               "gender": 0,
+               "credit_id": "53614567c3a368395600014e",
+               "name": "Charles Oakley",
+               "profile_path": "/l35FQsV529lOhDFvMGk8aJ82AV9.jpg",
+               "id": 1315403,
+               "order": 22
+            },
+            {
+               "cast_id": 32,
+               "character": "Himself",
+               "gender": 0,
+               "credit_id": "53614578c3a368396500013c",
+               "name": "Kurt Rambis",
+               "profile_path": null,
+               "id": 1212701,
+               "order": 23
+            },
+            {
+               "cast_id": 34,
+               "character": "Himself",
+               "gender": 2,
+               "credit_id": "536145a6c3a3683956000154",
+               "name": "Isiah Thomas",
+               "profile_path": "/u3ij42ibJOVn4jmDtWv5MYbj1AP.jpg",
+               "id": 1225387,
+               "order": 24
+            },
+            {
+               "cast_id": 35,
+               "character": "Himself",
+               "gender": 0,
+               "credit_id": "536145b4c3a368397e00014f",
+               "name": "Marques Johnson",
+               "profile_path": null,
+               "id": 1315404,
+               "order": 25
+            },
+            {
+               "cast_id": 36,
+               "character": "Himself",
+               "gender": 0,
+               "credit_id": "536145c4c3a368394e000144",
+               "name": "Rush Limbaugh",
+               "profile_path": null,
+               "id": 1213111,
+               "order": 26
+            },
+            {
+               "cast_id": 37,
+               "character": "Himself",
+               "gender": 2,
+               "credit_id": "536145ddc3a368397e00015e",
+               "name": "David Sanborn",
+               "profile_path": "/ncsTnYaI6p04VAOCyJdcJ1hhcNk.jpg",
+               "id": 14322,
+               "order": 27
+            },
+            {
+               "cast_id": 38,
+               "character": "Himself",
+               "gender": 0,
+               "credit_id": "53614673c3a3683976000168",
+               "name": "Spud Webb",
+               "profile_path": null,
+               "id": 1315405,
+               "order": 28
+            },
+            {
+               "cast_id": 40,
+               "character": "Angry Fan",
+               "gender": 2,
+               "credit_id": "56cba3f292514124640004be",
+               "name": "Jay Rasumny",
+               "profile_path": "/qWf0BugxTXNxvlqWp34gEBdqg1B.jpg",
+               "id": 160627,
+               "order": 29
+            },
+            {
+               "cast_id": 41,
+               "character": "Waiter",
+               "gender": 2,
+               "credit_id": "56cba46092514124640004ce",
+               "name": "Robert Costanzo",
+               "profile_path": "/vyUeNk56Yv7xyHztgVa8UBEIasu.jpg",
+               "id": 33492,
+               "order": 30
+            },
+            {
+               "cast_id": 42,
+               "character": "Woman in Porsche",
+               "gender": 1,
+               "credit_id": "56cba493c3a36865e1000557",
+               "name": "Emmy Smith",
+               "profile_path": "/cDFQkMl2v7Dpmw2g0zliAVZ6lAj.jpg",
+               "id": 98872,
+               "order": 31
+            },
+            {
+               "cast_id": 43,
+               "character": "Receptionist",
+               "gender": 1,
+               "credit_id": "56cba4a6c3a36865db000537",
+               "name": "Lisa Rieffel",
+               "profile_path": "/djhb770OnfuDil4ew2Sx6aXyB1n.jpg",
+               "id": 155897,
+               "order": 32
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe43809251416c75012cc3",
+               "name": "Billy Crystal",
+               "profile_path": "/22PBSROMN6GmD7uxHpTNb0Unftt.jpg",
+               "id": 7904,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43809251416c75012cc9",
+               "name": "Billy Crystal",
+               "profile_path": "/22PBSROMN6GmD7uxHpTNb0Unftt.jpg",
+               "id": 7904,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43809251416c75012ccf",
+               "name": "Lowell Ganz",
+               "profile_path": null,
+               "id": 27518,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43809251416c75012cd5",
+               "name": "Babaloo Mandel",
+               "profile_path": null,
+               "id": 27519,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43809251416c75012cdb",
+               "name": "Billy Crystal",
+               "profile_path": "/22PBSROMN6GmD7uxHpTNb0Unftt.jpg",
+               "id": 7904,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43809251416c75012ce1",
+               "name": "Peter Schindler",
+               "profile_path": null,
+               "id": 59979,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43809251416c75012ce7",
+               "name": "Marc Shaiman",
+               "profile_path": "/aesoPh8jPR5qDKjjt7o5uj9kS3W.jpg",
+               "id": 9251,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43809251416c75012ced",
+               "name": "Don Burgess",
+               "profile_path": "/fcgMxamFShyrfmzLZSg8gOjL1ij.jpg",
+               "id": 36,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43809251416c75012cf3",
+               "name": "Kent Beyda",
+               "profile_path": null,
+               "id": 13584,
+               "department": "Editing",
+               "job": "Editor"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Romance",
+            "id": 10749
+         }
+      ],
+      "popularity": 2.953452,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 10525,
+      "vote_count": 50,
+      "budget": 0,
+      "overview": "Mickey Gordon is a basketball referee who travels to France to bury his father. Ellen Andrews is an American living in Paris who works for the airline he flies on. They meet and fall in love, but their relationship goes through many difficult patches. The story is told in flashback by their friends at a restaurant waiting for them to arrive.",
+      "similar": [
+         2300,
+         82695,
+         707,
+         283227,
+         8195,
+         9293,
+         3989,
+         451945,
+         6935,
+         9280,
+         2926,
+         13260,
+         11227,
+         3482,
+         11540,
+         4909,
+         314402,
+         375867,
+         10401,
+         283330
+      ],
+      "original_title": "Forget Paris",
+      "runtime": 101,
+      "poster_path": "/l8lq77bNqJY94JCMPI731jwtDsE.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": "/7znWcbDd4PcJzJUlJxYqAlPPykp.png",
+            "name": "Castle Rock Entertainment",
+            "id": 97,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+            "name": "Columbia Pictures",
+            "id": 5,
+            "origin_country": "US"
+         }
+      ],
+      "release_date": "1995-05-19",
+      "vote_average": 6.1,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Billy Crystal"],
+      "runtime": 101,
+      "synopsis": null,
+      "writers": [
+         "Billy Crystal",
+         "Lowell Ganz"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0113097/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTQ4MjUyOTc2Ml5BMl5BanBnXkFtZTcwNzYzMDcxMQ@@._V1_SY317_CR6,0,214,317_AL_.jpg",
+      "actors": ["Stars: Billy Crystal, Debra Winger, Joe Mantegna | See full cast and crew »"],
+      "reviews": [
+         "For married couples of at least 10 years and/or over 40, this is an entertaining and intelligent movie. Billy Crystal captures the emotions and angst of a certain age and time in one's life, when looking back and forward is done with some trepidation, and the results are, if you're honest, mixed. Put the kids to bed, tell the teenagers you're busy and see this one with your spouse. Well worth the video rental.",
+         "Forget Paris is admittedly a film carried almost entirely by Billy Crystal, but with such witty delivery, he's perfect. Having said that, the whole cast look to be having a ball and it really comes across on-screen. Rose-tinted views of Paris, alongside near slapstick sketches in the States, makes for a fast-paced tale that you can just sit back and enjoy. Mickey (Crystal) travels to France to bury his father, only to find that the airline has accidentally sent the body to the wrong airport. Ellen (Winger) is the airline official sent to assure Mickey that everything possible is being done. Despite meeting under such an awkward situation, soon enough they are walking the streets of Paris together and romance blossoms. But with lives on different sides of the Atlantic, there are going to be a lot sacrifices... And if the movie ever begins to feel as though it might be getting bogged down in the romance, it steps out to the \"present day\" restaurant scene where friends are sharing the story, each telling a different part and eager to find out what happened in the end. An entertaining, funny and above all, charming story.",
+         "FORGET Paris is a sweet romantic comedy which Billy Crystal made after his best romantic comedy, WHEN HARRY MET SALLY. This time, though, it is Debra Winger rather than Meg Ryan who is opposite him. But Winger does nicely in the Ryan part and Crystal does nicely too. Crystal is a basketball referee who is accompanying his father's dead body to Normandy for burial. The airline sends the body to Switzerland accidentally, and Winger is the airline official who smooths Crystal's ruffled feathers. She even attends the funeral, and soon the two of them are exploring the sites of Paris together. They get on well, but Crystal has to return to the U.S. But he returns and proposes marriage. After an initial delay, Winger accepts the proposal, and we watch the resulting marriage. It is an intensely felt love affair, but it isn't smooth. She does not like losing her high paying job in Paris to return to the U.S., nor that he is going around the country most of the time as a referee at games. He tries to work at a different job, and finds her father (William Hickey) driving him batty with his senility (he keeps repeating the Toyota automobile slogan from the 1990s). And there are more serious problems about infertility, including a funny routine when Crystal is repeatedly delayed running to a fertility clinic. The story of their love affair and marriage is related by Joe Mantegna, Richard Masur, Julie Kavner, and John Spencer, at a dinner party in an Italian restaurant. The personalities and marriage situations of the friends of our hero and heroine get exposed too during the dinner. All of the friends give good performances as does Hickey and Robert Constanza as the world's most philosophically charming waiter. Listen to him describing various drinks. The film is a feel good movie, and does well as such.",
+         "This movie is interesting and unique, in the sense that it focuses on love AFTER marriage, and not before. Billy Crystal plays a basketball referee who travels to Paris in order to bury his recently-deceased father. However alone the way the casket is lost and he's stuck in Paris, where he meets another single woman (Debra Winger) who's under similarly unfortunate circumstances. They go out, have a fun time, and then resume their normal lives. Crystal goes back to basketball in the US but soon finds he can't concentrate and keeps thinking about his relationship. Eventually they reunite and get married but it's an uphill struggle. The movie kind of reminded me of \"GoodFellas\" (!) due to its structure and how it focused on the downfall of the marriage. Like Ray Liotta's marriage in \"GoodFellas\" it's not all peachy like most Hollywood films portray them as being. My favorite sequence is when Crystal is transporting his semen to a hospital and gets stopped by a traffic cop. Some very funny moments like this, as well as good chemistry between the stars and an interesting narrative structure, make it a worthwhile - if not particularly memorable - romantic comedy, better than many others in its genre. At least it's entertaining and believable.",
+         "Multi talented Billy Crystal directed and wrote the screen play with Lowell Ganz. This comedy has its sad moments but even in tragedy this movie can be very funny. The cast in superb. Mickey Gordon, played by Crystal is a referee (When Harry met Sally, The Princess Bride) who has to go to Paris because his father wanted to be buried in France. The airline mishandled the corpse of his father. By the way this is a Tort in the US he could have gotten a lot of money because of that. He then meets Ellen Andrews, Debra Winger (An Officer and a Gentlemen, Terms of Endearment) who works for the airline. The story is told in a very creative fashion using a group of friends which meets in a restaurant and each tells part of the story. It starts with one couple and more friends keep coming and they do not know whether Mickey and Elle will show up and whether they are still together. Nice story telling! Just look at the names: Joe Mantegna (Up Close & Personal) is Andy; Cynthia Stevenson is Liz, Richard Masur (none other than the director of SAG himself) is Craig; Julie Kavner (Jake's Women, This is my Life) is Lucy who is on diet; William Hickey (I) is Arthur; Robert Costanzo, is the witty waiter his very funny lines; John Spencer (I) is Jack; Tom Wright (I) is Tommy; Cathy Moriarty is Lois; Johnny Williams (I) is Lou. Then there are all the athletes one can come up with. The Lady who plays the organ is so stuffy and funny! She loves to live in Paris, but she has follow her husband who is always traveling. I have seem this happen to many people.They tried to compromise but it does not work at all. Her father comes to live with them and that created more tension. Funny lines: \" you asked for it, you got it Toyota!\". My favorite scenes: them driving around Paris; the bird glued to her face; when she shows up at the game and at the restaurant. I liked the movie. The music is nice. It made me laugh. I recommend it, it is an enjoyable movie.",
+         "I haven't read all of the comments, but none of the comments I have read give a very accurate impression of this film. It has some great comic scenes, however, I would never call this movie a Romantic Comedy. If you are expecting a real comedy, then you are likely to be disappointed, because it doesn't play strictly for laughs. To me this movie seems more like a lighthearted version of \"An Affair to Remember\" (or its superior predecessor, \"Love Affair\"). I watched it with my wife, and I held her hand and wanted to hold her in my arms while we watched the movie. During an argument scene, I remarked, \"This is real,\" and my wife readily agreed. Admittedly, we both laughed hysterically at the pigeon sequence! I confess that I am a romantic. I hoped that Mickey and Ellen would get together, but I was not certain they would. That lack of certainty was maintained until the end for me. Even so, I have nothing against predictable movies. In film, as in life, it is the journey that is important, not the arrival at your destination. This movie provides a journey that is creative in the device it uses to convey the story, as well as in the unexpected plot twists. Is the climactic scene a little fairy-tale like? Maybe, but so what? I liked it, especially when the basketball reunion scene is followed by the arrival of Mickey and Ellen at the restaurant. The final scene is funny, clever, poignant, and romantic. It brings this delightful tale to a well-deserved and equally delightful end.",
+         "There are those comedies that are a good watch once, and that's it. However, there are those few romantic comedies that capture your attention and the humor is able to stay with you for a long time. This is one of those films. Narrated by several of the characters in the film, it has a special quality one can never forget. From beginning to end, the narrators tell the love story of how the two leads meet, fall in love, and have troubles. Around four or five years is covered in the whole two hour piece. It's comedically written, but then, Crystal is the genius behind that, and it was well executed acting and directing wise. Anyone who enjoys beautiful cinematography and great lines in a film, you'll enjoy Billy Crystal's \"Forget Paris\".",
+         "Billy Crystal was his normal funny self, evoking a number of laughs in here BUT, lest you think this is a comedy, it's more of a drama....much more. I say that because much of this shows a courtship and a marriage. The courtship is romantic and cute, of course, but the marriage are not. Things don't work out between Crystal's \"Mickey Gordon-\" and Debra Winger's \"Ellen\" and many of the scenes with them arguing are not fun to watch. It fact, some are downright uncomfortable. I'm not a fan of Winger's low and raspy voice, nor seeing marriages crumble. Thus, my favorite parts of this film were all in the beginning, especially when \"Mickey\" was an NBA referee. A few basketball stars got a chance to act, too, showing they should stick with sports. Crystal is a big sports fan so I'm sure enjoyed that segment of the movie. Also commendable are the nice shots of Paris. I never get tired of looking at that city, no matter what film.",
+         "For starters, who casts Billy Crystal as a leading man in a romantic love story? Who can believe that any woman would be attracted to him enough to move from Paris to be with him? Another annoying thing is the story being told by a bunch of other barely believable characters. Except for occasional brilliant comedic one-liners, there is nothing redeeming about this film at all. All attempts at creating plot twists fall flat because there are no plot twists, only uninteresting turns that do not really make the movie any more interesting. Verdict? Stay away from this G*d awful movie. These are the 90 or so minutes you will never get back.",
+         "\"Forget Paris\" is a feel-good romantic comedy about the on again off again relationship between Mickey (Billy Crystal, who also directed, produced and was one of the writers), an NBA referee, and Ellen (Debra Winger), a customer relations trouble shooter for an airline. Friends of sports writer Andy (Joe Mantegna) are gathering at a restaurant to be introduced to Liz (Cynthia Stevenson) before their wedding. Liz comments that how she and Andy met must be the oddest ever (a fax had one digit off in the fax number and went to Andy by mistake). Andy says no, how Mickey met Ellen is the weirdest. They met because she helped him bury his father. That starts the friends telling the story of Mickey and Ellen. Some critics consider this way of telling the story and the plot stale and schmaltzy; but it is so well done that I could care less. The film genre is romantic comedy; this film's strength is the comedy part of that term. I could give examples but comedy is best when the punchline (or its visual equivalent) is unexpected. Let me just say that one of my favorite bits starts with the focus on an organist going through the motions of preparing to play serious music. Billy Crystal is known to be a serious basketball fan and in part the film is like a documentary about refereeing NBA games, with a huge number of basketball stars playing themselves. I was bemused at the end of the credits when the standard disclaimer came up saying that all the characters and names in the film were fictitious. Not hardly in this film. I should mention that Cynthia Stevenson's hysterically tearful performance as Liz listening to Mickey's and Ellen's highs and lows was great. I also loved the sound track. Ella Fitzgerald singing \"April in Paris\" is so great; also, Billy Holiday doing the opening \"Our Love Is Here To Stay.\" David Sanborn's saxophone version of the \"Star Spangled Banner\" is also particularly great. My one quibble is that I found Debra Winger's voice very sexy in 1982's \"Officer and a Gentleman\" and she didn't sound the same in 1995's \"Forget Paris.\" I probably don't sound the same as I did 13 years ago either."
+      ],
+      "genres": [
+         "Comedy",
+         "Romance"
+      ],
+      "productionCompanies": [
+         "Castle Rock Entertainment",
+         "Face Productions"
+      ],
+      "summaries": ["Mickey Gordon is a basketball referee who travels to France to bury his father. Ellen Andrews is an American living in Paris who works for the airline he flies on. They meet and fall in love, but their relationship goes through many difficult patches. The story is told in flashback by their friends at a restaurant waiting for them to arrive."],
+      "budget": 0
+   },
+   "movielensId": 237,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1995-05-19",
+      "dvdReleaseDate": "2000-01-18",
+      "directors": ["Billy Crystal"],
+      "runtime": 101,
+      "movieId": 237,
+      "title": "Forget Paris",
+      "mpaa": "PG-13",
+      "actors": [
+         "Billy Crystal",
+         "Debra Winger",
+         "Joe Mantegna",
+         "Cynthia Stevenson",
+         "Richard Masur",
+         "Julie Kavner",
+         "John Spencer",
+         "Mary Ann Hermansen",
+         "Bill Laimbeer",
+         "John Starks",
+         "Charles Barkley",
+         "David Robinson",
+         "Dan Majerle",
+         "Kevin Johnson",
+         "Paul Westphal",
+         "Sean Elliott",
+         "Patrick Ewing",
+         "Tim Hardaway",
+         "Kareem Abdul-Jabbar",
+         "Reggie Miller",
+         "Chris Mullin",
+         "Charles Oakley",
+         "Kurt Rambis",
+         "Isiah Thomas",
+         "Marques Johnson",
+         "Rush Limbaugh",
+         "David Sanborn",
+         "Spud Webb",
+         "Jay Rasumny",
+         "Robert Costanzo",
+         "Emmy Smith",
+         "Lisa Rieffel"
+      ],
+      "imdbMovieId": "0113097",
+      "originalTitle": "Forget Paris",
+      "genres": [
+         "Comedy",
+         "Drama",
+         "Romance"
+      ],
+      "youtubeTrailerIds": ["G8ZHyJoKYnM"],
+      "plotSummary": "Mickey Gordon is a basketball referee who travels to France to bury his father. Ellen Andrews is an American living in Paris who works for the airline he flies on. They meet and fall in love, but their relationship goes through many difficult patches. The story is told in flashback by their friends at a restaurant waiting for them to arrive.",
+      "tmdbMovieId": 10525,
+      "avgRating": 3.21885,
+      "releaseYear": "1995",
+      "numRatings": 6758,
+      "posterPath": "/l8lq77bNqJY94JCMPI731jwtDsE.jpg"
+   }
+}

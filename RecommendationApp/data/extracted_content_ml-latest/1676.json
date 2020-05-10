@@ -1,0 +1,896 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "moon",
+            "id": 305
+         },
+         {
+            "name": "asteroid",
+            "id": 1423
+         },
+         {
+            "name": "space marine",
+            "id": 1826
+         },
+         {
+            "name": "intelligence",
+            "id": 2051
+         },
+         {
+            "name": "buenos aires",
+            "id": 2900
+         },
+         {
+            "name": "space battle",
+            "id": 2902
+         },
+         {
+            "name": "dystopia",
+            "id": 4565
+         },
+         {
+            "name": "army",
+            "id": 6092
+         },
+         {
+            "name": "satire",
+            "id": 8201
+         },
+         {
+            "name": "spaceship",
+            "id": 9831
+         },
+         {
+            "name": "soldier",
+            "id": 13065
+         },
+         {
+            "name": "drill instructor",
+            "id": 161247
+         },
+         {
+            "name": "military",
+            "id": 162365
+         }
+      ],
+      "imdb_id": "tt0120201",
+      "video": false,
+      "title": "Starship Troopers",
+      "recommendations": [
+         861,
+         5548,
+         106,
+         36955,
+         865,
+         9739,
+         2756,
+         2164,
+         9802,
+         9804,
+         2787,
+         8413,
+         9482,
+         926,
+         1637,
+         2675,
+         1701,
+         686,
+         942,
+         8452
+      ],
+      "backdrop_path": "/cYWI1lnHEvoVKDdlrRt2b5et3Bj.jpg",
+      "revenue": 121214377,
+      "reviews": [{
+         "author": "Gimly",
+         "id": "59a548f2c3a3684037008959",
+         "content": "A rare example of when a bad adaptation of a book winds up making a good standalone movie. Near Kubrick-ian in its wartime satire, _Starship Troopers_ is, before it is anything else, fun.\r\n\r\n_Final rating:★★★★ - Very strong appeal. A personal favourite._",
+         "url": "https://www.themoviedb.org/review/59a548f2c3a3684037008959"
+      }],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 21,
+               "character": "Johnny Rico",
+               "gender": 2,
+               "credit_id": "52fe4253c3a36847f80155a5",
+               "name": "Casper Van Dien",
+               "profile_path": "/ktJIgsilxxQeOvA9I789veHnDnt.jpg",
+               "id": 27763,
+               "order": 0
+            },
+            {
+               "cast_id": 22,
+               "character": "Dizzy Flores",
+               "gender": 1,
+               "credit_id": "52fe4253c3a36847f80155a9",
+               "name": "Dina Meyer",
+               "profile_path": "/a208ijs7X3u8lPzKWHeXSp3PiMd.jpg",
+               "id": 2133,
+               "order": 1
+            },
+            {
+               "cast_id": 23,
+               "character": "Carmen Ibañez",
+               "gender": 1,
+               "credit_id": "52fe4253c3a36847f80155ad",
+               "name": "Denise Richards",
+               "profile_path": "/r273Tmck64anm3uuccE8zfJD8da.jpg",
+               "id": 9205,
+               "order": 2
+            },
+            {
+               "cast_id": 24,
+               "character": "Private Ace Levy",
+               "gender": 2,
+               "credit_id": "52fe4253c3a36847f80155b1",
+               "name": "Jake Busey",
+               "profile_path": "/mGbWKlwTTyr62h6IwL66otOQV15.jpg",
+               "id": 28410,
+               "order": 3
+            },
+            {
+               "cast_id": 25,
+               "character": "Colonel Carl Jenkins",
+               "gender": 2,
+               "credit_id": "52fe4253c3a36847f80155b5",
+               "name": "Neil Patrick Harris",
+               "profile_path": "/3GJBcsLf6Kfy0x5DeSXKsIqcctP.jpg",
+               "id": 41686,
+               "order": 4
+            },
+            {
+               "cast_id": 26,
+               "character": "Career Sergeant Zim",
+               "gender": 2,
+               "credit_id": "52fe4253c3a36847f80155b9",
+               "name": "Clancy Brown",
+               "profile_path": "/xBVifBW0riMSbedEQ27hObjPqVw.jpg",
+               "id": 6574,
+               "order": 5
+            },
+            {
+               "cast_id": 27,
+               "character": "Lieutenant Jean Rasczak",
+               "gender": 2,
+               "credit_id": "52fe4253c3a36847f80155bd",
+               "name": "Michael Ironside",
+               "profile_path": "/i3HkCGEnQGJeD0U8WDumO4VH5fU.jpg",
+               "id": 11086,
+               "order": 6
+            },
+            {
+               "cast_id": 28,
+               "character": "Zander Barcalow",
+               "gender": 2,
+               "credit_id": "52fe4253c3a36847f80155c1",
+               "name": "Patrick Muldoon",
+               "profile_path": "/bQXk6dGI2zjRY2rvfwmpdHpyh9F.jpg",
+               "id": 41687,
+               "order": 7
+            },
+            {
+               "cast_id": 29,
+               "character": "Private Sugar Watkins",
+               "gender": 2,
+               "credit_id": "52fe4253c3a36847f80155c5",
+               "name": "Seth Gilliam",
+               "profile_path": "/5XL7Nuzt58wXijlFbDJKDWYoLFQ.jpg",
+               "id": 41688,
+               "order": 8
+            },
+            {
+               "cast_id": 30,
+               "character": "Biology Teacher",
+               "gender": 1,
+               "credit_id": "52fe4253c3a36847f80155c9",
+               "name": "Rue McClanahan",
+               "profile_path": "/gYNGpRNqpnjDIUe7oaCFkPrYyZ2.jpg",
+               "id": 41689,
+               "order": 9
+            },
+            {
+               "cast_id": 31,
+               "character": "Katrina McIntire",
+               "gender": 1,
+               "credit_id": "52fe4253c3a36847f80155cd",
+               "name": "Blake Lindsley",
+               "profile_path": "/jW9esvFejQSyjyZZMqUg4xcbsww.jpg",
+               "id": 41690,
+               "order": 10
+            },
+            {
+               "cast_id": 32,
+               "character": "Lieutenant Willy",
+               "gender": 2,
+               "credit_id": "52fe4253c3a36847f80155d1",
+               "name": "Steven Ford",
+               "profile_path": "/iw8CUyekmYkGwmg0bp7foY4KvrH.jpg",
+               "id": 9258,
+               "order": 11
+            },
+            {
+               "cast_id": 33,
+               "character": "Corporal Birdie",
+               "gender": 1,
+               "credit_id": "52fe4253c3a36847f80155d5",
+               "name": "Ungela Brockman",
+               "profile_path": "/q66RPSSUYmtgbLNvkdKdeqAbOwc.jpg",
+               "id": 41691,
+               "order": 12
+            },
+            {
+               "cast_id": 34,
+               "character": "Sky Marshal Dienes",
+               "gender": 2,
+               "credit_id": "52fe4253c3a36847f80155d9",
+               "name": "Bruce Gray",
+               "profile_path": "/z0uEl3in5hsCD4TYTBqCtmqCdwo.jpg",
+               "id": 5945,
+               "order": 13
+            },
+            {
+               "cast_id": 35,
+               "character": "Sky Marshal Tehat Meru",
+               "gender": 1,
+               "credit_id": "52fe4253c3a36847f80155dd",
+               "name": "Denise Dowse",
+               "profile_path": "/tZyRCcBphvpg4AjIWD33j4hVBKy.jpg",
+               "id": 23970,
+               "order": 14
+            },
+            {
+               "cast_id": 36,
+               "character": "Cadet Lumbreiser",
+               "gender": 1,
+               "credit_id": "52fe4253c3a36847f80155e1",
+               "name": "Amy Smart",
+               "profile_path": "/yTWkJVYq1wtn2NrnPIwXshTWqby.jpg",
+               "id": 20189,
+               "order": 15
+            },
+            {
+               "cast_id": 37,
+               "character": "Djana'D",
+               "gender": 1,
+               "credit_id": "52fe4253c3a36847f80155e5",
+               "name": "Tami-Adrian George",
+               "profile_path": "/qR7qZTZOo9czpb1lrOirKOS6M9V.jpg",
+               "id": 153940,
+               "order": 16
+            },
+            {
+               "cast_id": 39,
+               "character": "Expert",
+               "gender": 1,
+               "credit_id": "54c91305c3a36870ba00218f",
+               "name": "Julianna McCarthy",
+               "profile_path": "/tJJJJUjXRlTgLxVZViQ2MPPs5ai.jpg",
+               "id": 101777,
+               "order": 17
+            },
+            {
+               "cast_id": 40,
+               "character": "General",
+               "gender": 2,
+               "credit_id": "54c9135d92514157cc0023a2",
+               "name": "Dale Dye",
+               "profile_path": "/vQfhfRjwOHYN3Egx1SB21ResBI2.jpg",
+               "id": 3211,
+               "order": 18
+            },
+            {
+               "cast_id": 42,
+               "character": "Commanding Officer",
+               "gender": 2,
+               "credit_id": "55b9375d92514123e70025c3",
+               "name": "Dean Norris",
+               "profile_path": "/owIr4b4VIlJu0m6Drofd3P0qDl5.jpg",
+               "id": 14329,
+               "order": 19
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4253c3a36847f801552f",
+               "name": "Paul Verhoeven",
+               "profile_path": "/mlIV2V9OYcnmudqv1iZw7QrdSSh.jpg",
+               "id": 10491,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4253c3a36847f801553b",
+               "name": "Edward Neumeier",
+               "profile_path": null,
+               "id": 7722,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4253c3a36847f8015541",
+               "name": "Jon Davison",
+               "profile_path": null,
+               "id": 7723,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4253c3a36847f8015547",
+               "name": "Frances Doel",
+               "profile_path": null,
+               "id": 7724,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4253c3a36847f801554d",
+               "name": "Stacy Lumbrezer",
+               "profile_path": null,
+               "id": 7725,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4253c3a36847f8015553",
+               "name": "Alan Marshall",
+               "profile_path": null,
+               "id": 7726,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4253c3a36847f8015559",
+               "name": "Edward Neumeier",
+               "profile_path": null,
+               "id": 7722,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4253c3a36847f8015565",
+               "name": "Basil Poledouris",
+               "profile_path": "/jEUcVOa9gppkDvr5MJOvSD5KVtj.jpg",
+               "id": 7728,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4253c3a36847f801556b",
+               "name": "Mark Goldblatt",
+               "profile_path": null,
+               "id": 898,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4253c3a36847f8015571",
+               "name": "Caroline Ross",
+               "profile_path": null,
+               "id": 7730,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4253c3a36847f8015577",
+               "name": "Elaine J. Huzzar",
+               "profile_path": null,
+               "id": 7731,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4253c3a36847f801557d",
+               "name": "Johanna Ray",
+               "profile_path": null,
+               "id": 3686,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4253c3a36847f8015583",
+               "name": "Allan Cameron",
+               "profile_path": null,
+               "id": 7732,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4253c3a36847f8015589",
+               "name": "Bruce Robert Hill",
+               "profile_path": null,
+               "id": 7733,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4253c3a36847f801558f",
+               "name": "Steven Wolff",
+               "profile_path": null,
+               "id": 7734,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4253c3a36847f8015595",
+               "name": "Robert Gould",
+               "profile_path": null,
+               "id": 6880,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4253c3a36847f801559b",
+               "name": "Ellen Mirojnick",
+               "profile_path": null,
+               "id": 7735,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4253c3a36847f80155a1",
+               "name": "Jost Vacano",
+               "profile_path": "/vOj78ettyi2P3ZvlGqOoi7WtHRV.jpg",
+               "id": 5241,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56982a3cc3a3687603000bda",
+               "name": "Robert A. Heinlein",
+               "profile_path": "/do3wtkyC1RWB2dPol2H2wp4EXuY.jpg",
+               "id": 7721,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 2,
+               "credit_id": "588fdaccc3a3680b910000af",
+               "name": "Phil Tippett",
+               "profile_path": "/2uQ0B7fN5cDQk17J1X3pxDSf9y.jpg",
+               "id": 7727,
+               "department": "Production",
+               "job": "Co-Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5374c628c3a3681528002abb",
+               "name": "Nick Scarano",
+               "profile_path": null,
+               "id": 1319825,
+               "department": "Costume & Make-Up",
+               "job": "Costume Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "553d5b0f925141585200159b",
+               "name": "Martin Meunier",
+               "profile_path": null,
+               "id": 1452917,
+               "department": "Visual Effects",
+               "job": "Modeling"
+            },
+            {
+               "gender": 2,
+               "credit_id": "569829979251412540000b63",
+               "name": "Robert Latham Brown",
+               "profile_path": null,
+               "id": 14654,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 1,
+               "credit_id": "569829b6925141253d000cec",
+               "name": "Haley McLane",
+               "profile_path": null,
+               "id": 1402170,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "569829ce925141253a000bc3",
+               "name": "Stephen Vaughan",
+               "profile_path": null,
+               "id": 1390535,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56982a099251412546000b89",
+               "name": "Gregory Manson",
+               "profile_path": null,
+               "id": 4698,
+               "department": "Production",
+               "job": "Production Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56982a559251412536000bd7",
+               "name": "Stephen St. John",
+               "profile_path": null,
+               "id": 41591,
+               "department": "Camera",
+               "job": "Steadicam Operator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56982a6ac3a368760b000cda",
+               "name": "Mark Emery Moore",
+               "profile_path": "/mhjX0FuAXv6SeSLLFHpaaiQbx6P.jpg",
+               "id": 74989,
+               "department": "Camera",
+               "job": "Steadicam Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56982aa19251412531000bb2",
+               "name": "Joseph Geisinger",
+               "profile_path": null,
+               "id": 1563428,
+               "department": "Sound",
+               "job": "Sound mixer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56982abcc3a3687608000b4b",
+               "name": "Kevin O'Connell",
+               "profile_path": null,
+               "id": 1378171,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56982ad0c3a36875fa000c19",
+               "name": "Greg P. Russell",
+               "profile_path": null,
+               "id": 42034,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56982adf925141253d000cfe",
+               "name": "Hugo Weng",
+               "profile_path": null,
+               "id": 1050930,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56982aef9251412534000e0c",
+               "name": "Michael J. Benavente",
+               "profile_path": null,
+               "id": 1413095,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56982b1ec3a3687605000bf8",
+               "name": "David Lewis Yewdall",
+               "profile_path": null,
+               "id": 1376514,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56982b2ec3a3687603000bf4",
+               "name": "Dean Beville",
+               "profile_path": null,
+               "id": 10630,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56982b39c3a36875fa000c21",
+               "name": "Ed Callahan",
+               "profile_path": null,
+               "id": 1400556,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56982b50c3a36875fe000d46",
+               "name": "Warren Hamilton Jr.",
+               "profile_path": null,
+               "id": 1269306,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56982b7ac3a3687605000c05",
+               "name": "Greg Hedgepath",
+               "profile_path": null,
+               "id": 1395022,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56982b87c3a36875fa000c2b",
+               "name": "Patricio A. Libenson",
+               "profile_path": null,
+               "id": 1341404,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56982b9b925141253a000bee",
+               "name": "Charles Maynes",
+               "profile_path": null,
+               "id": 554888,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56982bc0c3a3687605000c09",
+               "name": "Stephen Hunter Flick",
+               "profile_path": "/83arZqrN59fhxybLLmo5KUp0FSc.jpg",
+               "id": 554887,
+               "department": "Sound",
+               "job": "Sound Designer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56982bd8c3a3687603000c03",
+               "name": "Harry Cohen",
+               "profile_path": null,
+               "id": 3687,
+               "department": "Sound",
+               "job": "Sound Designer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56982bf6c3a3687603000c06",
+               "name": "Randy Thom",
+               "profile_path": "/gENCvbLHHHtxeZcPJIHcSq6Y4BW.jpg",
+               "id": 42267,
+               "department": "Sound",
+               "job": "Sound Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56982c03c3a36875fe000d5d",
+               "name": "John Pospisil",
+               "profile_path": null,
+               "id": 1440822,
+               "department": "Sound",
+               "job": "Sound Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56982c1cc3a36875fc000c11",
+               "name": "Raul A. Bruce",
+               "profile_path": null,
+               "id": 1563430,
+               "department": "Sound",
+               "job": "Boom Operator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "588fd90b9251412f3400004d",
+               "name": "Phil Tippett",
+               "profile_path": "/2uQ0B7fN5cDQk17J1X3pxDSf9y.jpg",
+               "id": 7727,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Adventure",
+            "id": 12
+         },
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         },
+         {
+            "name": "Science Fiction",
+            "id": 878
+         }
+      ],
+      "popularity": 18.751206,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 563,
+      "vote_count": 1899,
+      "budget": 105000000,
+      "overview": "Set in the future, the story follows a young soldier named Johnny Rico and his exploits in the Mobile Infantry. Rico's military career progresses from recruit to non-commissioned officer and finally to officer against the backdrop of an interstellar war between mankind and an arachnoid species known as \"the Bugs\".",
+      "similar": [
+         4421,
+         348,
+         19898,
+         1891,
+         1892,
+         817,
+         841,
+         869,
+         871,
+         534,
+         95,
+         646,
+         698,
+         16320,
+         8077,
+         61791,
+         137113,
+         157336,
+         330459,
+         17431
+      ],
+      "original_title": "Starship Troopers",
+      "runtime": 129,
+      "poster_path": "/zeCD9WkhABFJmPq3SlTozXJGEtr.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": "/ou5BUbtulr6tIt699q6xJiEQTR9.png",
+            "name": "Touchstone Pictures",
+            "id": 9195,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/rzgMLzPgJ2ZBYnlVwNi8ZDfOMwo.png",
+            "name": "TriStar Pictures",
+            "id": 559,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Big Bug Pictures",
+            "id": 23434,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1997-11-06",
+      "vote_average": 6.7,
+      "belongs_to_collection": {
+         "backdrop_path": "/hwZXCuY6GVw50o17nDGbSR8WMFJ.jpg",
+         "name": "Starship Troopers Collection",
+         "id": 10522,
+         "poster_path": "/uumu3Xj1ME1632SCsyVJwITgOKZ.jpg"
+      },
+      "tagline": "The only good bug is a dead bug.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Paul Verhoeven"],
+      "runtime": 129,
+      "synopsis": "In the distant future, several hundred years after a revolution by Galactic War Veterans overthrew the world's governments and imposed a militaristic regime titled 'The Global Federation of Earth', humanity is at tense diplomatic relations with an alien race whose homeworld is the planet Klendathu (one of many planets inhabited by these creatures located on the other side of the Milky Way Galaxy) who are named the Arachnids, or 'Bugs'. John 'Johnny' D. Rico (Casper Van Dien), his girlfriend Carmen (Denise Richards), and best friend Carl (Neil Patrick Harris), who possesses psychic abilities, graduate from high school in Buenos Aires. Carmen and Carl enlist in the military to become citizens. Wanting to follow his girlfriend and friend, Johnny goes against his parents' desires and also enlists. But he finds that his grades are too low to join Carmen in Flight School and is assigned to the Mobile Infantry while Carl joins Military Intelligence. Johnny and the rest of the new recruits are drilled by the brutal Career Sergeant Zim (Clancy Brown). Johnny shows himself to be an outstanding leader and is made squad leader. He also meets a former high school classmate, \"Dizzy\" Flores (Dina Meyer), who has requested transfer to Johnny's unit ostensibly because the unit is the toughest but mainly because she's infatuated with Johnny. Over the next few weeks in boot camp, Johnny learns that Carmen is happy with her training and is working with his high school rival, Zander (Patrick Muldoon). Her decision to make the Fleet her career dashes Johnny's dreams as well as the future of his romance with her. Following a training incident in which one of his squad members is killed, Johnny is demoted from squad leader and publicly flogged in accordance with military law. As Johnny is telling his parents via videophone that he is quitting the Infantry the transmission is interrupted. The 'Bugs' have directed an asteroid at Earth, destroying Buenos Aires, killing his parents and most of the population of that city. As a result of this sneak attack, Earth declares war on the 'Bugs' and Johnny stays with the Infantry. The Federation's forces mount a large-scale invasion of Klendathu, which becomes an unmitigated disaster due to underestimation of their foes combat abilities. 'Bug plasma' energy discharges from the surface by huge 'Tanker Bugs' thought to be flame-spewing battle tanks on the surface now turn out to be giant artillery pieces capable of surface-to-space barrages creating massive damage to the Fleet in space. With much of the Fleet in space destroyed or badly damaged, the Mobile Infantry on the surface now cut off from air support is overcome by swarms of thousands of 'Bug' warriors. Over 100,000 troops are killed before a retreat can be performed and several of Johnny's fellow recruits are killed, Johnny himself being severely wounded. Later at the Ticonderoga Battle Station, where the remains of the Fleet dock, Carmen looks up Johnny Rico's name on a computer screen, (it shows over 308,000 casualties from the one-day battle). Johnny's squad is almost wiped out and Carmen, due to an error in the casualty list, believes he is dead. Federation scientists are baffled by the Bugs' use of military tactics and postulate that there must be a caste of 'Brain Bugs' that serve as generals for the Arachnids. After a few days' rest, Johnny, Dizzy, and fellow squad member Ace Levy (Jake Busey) are re-assigned to the 'Roughnecks', a special unit of Mobile Infantry which is led by Johnny's old high-school teacher, Lieutenant Jean Rasczak (Michael Ironside), a veteran of the First Bug War several years earlier who has been brought out of retirement to lead the group. Back on Earth, a new Sky Marshal revises the campaign, using strikes on other planets in the Klendathu system to learn more about the Arachnids' tactics. After aerial napalm strikes against the planets, Lt. Rasczak's squad lands on Planet 'P' to mop up. Johnny's leadership and his skill in combat while destroying a tanker bug earn him a field promotion to Corporal. That night, Lt. Raszcak grants the unit rest and relaxation, during which Johnny and Dizzy wind up in bed. A few days later, the Roughnecks are assigned to investigate an outpost on Planet P; they find the garrison killed and learn that the Bugs have sucked out the brains of some of the dead. They find the cowardly Commanding Officer General Owen (Marshall Bell) still alive, rambling about the existence of some kind of leader bug responsible for the massacre. Suddenly, the outpost is ambushed by thousands of warrior bugs, with some tanker bugs in support. Most of the squad is killed, including General Owen, and Lt. Rasczak. Johnny takes command and requests an evacuation ship, which happens to be flown by Carmen and Zander. Dizzy is fatally stabbed by a warrior bug and dies in Johnny's arms. After Dizzy's funeral aboard a starship, Johnny and Carmen are joined by Carl, now a high-ranking colonel in military intelligence. Carl admits that the Roughnecks had been used as bait to test a theory, which enrages Johnny, but the theory has proven correct; the existence of 'Brain Bugs' that control much of the Arachnid behaviour. Carl assigns the Roughnecks to search for a 'brain bug'. Carl gives Johnny a promotion to Lieutenant and command of the Roughnecks. As the Roughnecks explore the surface of the planet, the Fleet in space is again fired upon by hundreds of planetary tanker bugs. During the attack the warship 'Rodger Young' on which Carmen is stationed as the pilot, is hit by Arachnid plasma energy fire. Cutting the ship in two, Carmen and Zander manage to evacuate in an escape pod that crashes deep inside a Bug nest several meters underground. Johnny learns of Carmen's situation and tells the rest of the squad to keep scouring the surface while he, Ace, and Sugar Watkins (Seth Gilliam) search for Carmen in the tunnels. Carl, who has telepathic powers, is able to provide Johnny some guidance through his mind. Eventually they discover Carmen and Zander just as Zander's brain is sucked out by the brain bug leader. Carmen saves herself by injuring the bug with a knife that Zander had handed to her earlier. Watkins, injured, sacrifices himself to wipe out the bug nest with a small nuclear warhead. Johnny, Ace and Carmen arrive on the surface and learn that the brain bug has been caught by the Mobile Infantry, led by former Sergeant Zim, who has been demoted to Private in order to take part in combat. As everyone celebrates, Carl joins Johnny and Carmen on the surface, explaining that they will be able to learn how the Bugs think and can turn the tide of the war. Concluding with another propaganda News Reel, it is shown that Johnny, Ace, and Carmen continue their service in the military as heroes. Prime examples to incoming recruits with Johnny as leader of the 'Roughnecks' and Carmen as Captain of her own ship as the war against the bugs continues.",
+      "writers": [
+         "Edward Neumeier",
+         "Robert A. Heinlein"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0120201/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BOTE3MDAyNTM4OF5BMl5BanBnXkFtZTcwMTcxNDI4OA@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Casper Van Dien, Denise Richards, Dina Meyer | See full cast and crew »"],
+      "reviews": [
+         "This movie never fails to generate strong reactions, both positive and negative. Much of the negative criticizes the wooden acting, soap-opera beautiful stars, and unreasonably military tactics that lead to an enormous human body count. But that misses the whole point. The actors and plotlines are supposed to be caricatures of themselves. We are presented with a seemingly utopian society, where everyone is beautiful, the world is united under a single government, and patriotism is rampant. The further the movie goes, the more the viewer realizes just how horrific this supposed utopia really is. Patriotism is exploited to trick young men and women into going off to a pointless war. The beautiful people are mercilessly chopped to pieces by their insectoid opponents. And the united world government uses its control of the media to brainwash the public into supporting this bloody war. Yes, the Nazi symbolism is a little heavy-handed. But that's the whole point -- the intertwining of this \"perfect\" society with such a deeply evil subtext is supposed to be disturbing. What's even more disturbing is how close to our recent (American) history this movie truly is. Yes, it's a caricature, but it's a caricature of a very real and frightening phenomenon. How different are the government propaganda ads in Starship Troopers from the \"Loose Lips Sink Ships\" campaign or the \"10% for War Bonds\" posters in 1940s U.S.? How dangerous is it to have a society where everyone looks the same, thinks the same, and acts the same, even to their own death? This is the message behind Starship Troopers, and it's a chilling one at that. And for me, it works.",
+         "Starship Troopers is a subtle and insidiously subversive movie that proved frighteningly prescient in the wake of post-9/11 uberpatriotism. Both Heinlein's book and Verhoeven's film are valid and interesting political statements at opposite ends of the spectrum. Heinlein's novel was criticized as fascist at the time of its publication, and for all his obvious talent as a writer I'm inclined to agree. The movie is as much a sendup of the original novel as it is a satire of jingoist American politics. It really is a shame that despite the squeaky-clean heroes plucked straight from the soaps, the Mormon extremists, the multiple-amputee mobile infantry retirees and the propaganda shorts masquerading as news, the vast majority still seems to regard Starship Troopers as a stupid action movie and, for some reason, absolutely refuse to consider that it might be something more. 10/10",
+         "_Starship Troopers_ is the greatest pro/anti-war film ever made. This is something that no one seems to recognize considering that, when it was first released, most critics seemed to have been somewhat disturbed by the fact that the `good guys' resembled Nazis and that was about as far as they went before blowing it off as just another shoot-em-up. No one has bothered to re-assess the film since. Why has Starship Troopers with its profound comments on war and human nature been relegated to the ranks of films like _Rambo_ and _Universal Soldier_? One reason is that the satire is extremely subtle and another is that people are prejudiced against action films. This is probably justified though since the vast majority of them are pure fluff. However, _Starship Troopers_ ruthlessly satirizes the genre while being one of the best of in its category, which is a feat that is quite brilliant. There is so much about this film to analyze and it might even take a book to cover it all, so I will stick to only one thing here: the alien bugs, which are the enemy in the film. The Earth is at war with these creatures. They're inhuman, vicious. This is graphically demonstrated through out the film but most notably via a propaganda website that the movie presents to us as a futuristic version of `Why We Fight'. At one point, a cow is lead into a pen holding one of these giant insects, which quickly cleaves the cow in two. We are horrified! These insects truly are barbaric, evil! Look what it did to that cow! They must be destroyed! (Yet how many of us had steak before seeing this movie?) Then the website narrator proudly states that people on Earth are doing their part in the war effort as we watch a woman and her children dump Earth bugs on the ground and stomp on them. These bugs are native to our planet. Like the American-Japanese in WWII, why are they getting picked on? How are the bug-stomping mother and her children any more humane and caring than the repulsive alien insects? The film is insanely violent. People are literally cut to pieces by the smaller creatures and slowly, painfully melted by a plasma the larger insects spray. However, the alien bugs fair no better. The people and cows getting hacked up relentlessly in this film horrify us but we cheer as machine rifles and grenades blow the giant insects apart. The body count is high on both sides. It is all literally and purposely utter, senseless violence. But then at one point a psychic uses his powers to read one of the alien's emotions. He triumphantly yells, `It's afraid!' and a legion of human warriors jubilantly cheer at this pronouncement. Who's barbaric here? What is humanity? These bugs are clearly not `human' yet they are intelligent, advanced, and most importantly they have feelings. If they can be afraid, can they not also be sad, happy, in love? These are questions the writer has left to us to ask with out leading us by the hand through what could have been a much more preachy film. Considering the fact that, in his book _Stranger in a Strange Land_, Robert A. Heinlein--who wrote the novel upon which Starship Troopers was based--pointed out that there were millions of people already in America before the Europeans came and ruthlessly slaughtered these `subhumans' on their new property, it is safe to say that there is a lot more going on in this film than a simple slug-fest. The dazzling special effects and heart pounding action are all just a distraction--like all the noise in real life--from the more important things said here. Even the trailer and commercials for this movie were purposely misleading with Blur's delightfully mindless `Song #3' blaring and the singer yelling `Whoo-hoo!' as a stream of soldiers pour out of ships to go to battle. Every aspect of the film was one gigantic, satirical slap in the face of humanity and no one noticed. Some may suggest that the satire was not intended but that would be incredibly insulting to screenwriter Edward Neumeier because that's what he excels at. If you didn't catch the not so subtle satire in his earlier screenplay for _Robocop_ then you're under the age of ten. Despite being so financially successful, _Starship Troopers_ is one of the most important, yet overlooked, movies of the 1990s from an intellectual point of view.",
+         "One of my favourite films, this one. I love the way Verhoeven approached the idea of Man v Beast. Our \"heros\" are beautiful, white-teethed Americans, firm of body and morals; our villains are decapitating stick insects, cockroaches, and giant maggots. Yet who are the real heroes ? The white-teethed Americans are vacuous, shallow thugs. They are thrust into a war with the Bugs, whose planets, we are told, have been invaded by the Americans. The Bugs are justifiably annoyed. I couldn't help but laugh at some of the \"Nazi\" parallels drawn by other reviewers. What Verhoeven is putting across in this film is not a polemic against Nazi ideology, but an attack upon American Imperialism in the latter part of the last century. He is satirising American crusades against other countries, whose inhabitants are portrayed in the American press as no better than Bugs. Had Verhoeven wished to attack Nazism, he could have given the good guys German accents; he didn't, he gave them American accents. The \"Nazi\" symbolism as commented upon by other reviewers is not Nazi symbolism at all - it is totalitarian symbolism, full stop. It is right-wing, \"bomb them back to the stone age\" American totalitarianism. Why do I believe this ? Check out the scene where American kids are encouraged to stamp on cockroaches by an overly excited parent. Check out the high fives. Verhoeven has done a mighty job here. He has made a film which has great action, great cinematography, very cute women (and boys) and yet the film still manages to take the mickey out of the New Order in a very funny and effective manner. 10/10",
+         "Based on the famous Robert A. Heinlein novel, Starship Troopers is set in a world of the future where militarism is the norm, largely because we've discovered alien civilizations of huge insect-like creatures and we're at war with them. The film follows a quartet of high school friends as they make their varied ways through the military. Starship Troopers is both a tongue-in-cheek satire of society and an intense sci-fi/action/war film filled with horror-like insect monsters and a healthy dose of graphic gore. That's a genre combination that will not please all viewers, especially if the tongue-in-cheek humor goes over their heads. For those more in tune with the genre melding, Starship Troopers promises a quick, edge-of-your-seat ride from the first moments to the last. The film can be looked at in three sections, with slight crossovers from one section to another. The first is focused on the social satire. The cultural differences of the future are given in mostly indirectly, and occasionally, the point is what hasn't changed, or perhaps what is currently (per the film's setting) in vogue as a retro element. The second and third sections could be seen as a sci-fi Platoon (1986), with the second section focused on military basic training and the third focused on wartime. Like Platoon, the basic training scenes show order and a clear sense of purpose, while the wartime scenes show comparative chaos. That the film could be compared to something like Platoon shows that although director Paul Verhoeven and screenwriter Edward Neumeier are aware that the material could easily be seen as absurd, they have the chops to make it believable and suspenseful at the same time. This is not to say that Starship Troopers is a rip-off of any other movie. The film-making here is highly original, and we could almost see the entire film as a computer-based CNN-styled collection of wartime newsreels of the future. It remains quick, witty and intense throughout. My only regret is that they didn't incorporate Yes' song Starship Troopers in the score somehow.",
+         "The truth is that this is a brilliant film that, like Verhoeven's earlier \"Robocop\", is an insightful satire and critique of fascism and at the same time succeeds as a sci-fi thriller. It can be enjoyed at both levels, though obviously it is much richer when the viewer comprehends the satirical and critical level as well. It's not as if the satire is so subtle it's hard to get. If anything, it hits you over the head with it. But at the same time, it is very disciplined and consistent in not tipping its hand and giving the game away, which to me makes it much more successful and enjoyable than if the satire and social critique were blatantly broadcast. That's the strange and wonderful thing about \"Starship Troopers\" and \"Robocop\" -- one viewer might totally not get it, while to another, the critical/satirical level is totally in your face and is what the film is really all about. I don't know if I'm describing it well, but watch it with the film-makers' commentary turned on (on the DVD version), and director Paul Verhoeven and writer Ed Neumeier lay it all out very clearly: the film is about how war makes fascists of us all. Very timely today (2004) with US imperialism wreaking havoc in Iraq & Afghanistan. On a technical level, the film is excellent. The bug special effects are top notch and the whole bug society and hierarchy is deeply thought through, as is the future Earth society's politics and technology. The acting is excellent, and the balance between the characters' interpersonal story line, the bug war story line, and the underlying political satire and critique, is perfectly handled. A truly exceptional film, Verhoeven's best so far, topping even \"Robocop\" in my opinion, and fully deserving a 10 out of 10 score, which I rarely give.",
+         "Again the same story of: \"go to watch a movie after read many reviews telling you how bad it's the movie just to find something incredible\" and really it was. I remember wait to see and action film about great space heroes, and even when I found heroes and action, I found a awesome and satirical story about the evolution of the human race and how the path of war falls in a road to hell. More than that, Starship troopers it's that kind of science fiction films with great a big special effects but at the same time a terrific script. A shocking story, more realistic and cruel than many movies about real conflicts, where you can feel the havoc and the pain of any battle. The acting it's good, the soundtrack it's one of the best works of Basil Poleoduris. After this you can read the book of Robert Heinlein founding how far goes Paul Verhoeven in every scene and every character creating. But the best of all is how everything has a reason, there's no word or scene without a meaning, even the promise of the beginning remain intact making clear some disturbing things about some character(s). An movie to watch more than two times.",
+         "On one level this is a pure action flick at its best. Amazing effects, mindless violence by the tanker-load and the good-guy gets the girl. Nothing more to say, really. However, this isn't a pure sci-fi action film; this is military sci-fi in all its fascist glory. Guns, warriors, alien scum and pretty explosions rendered in a disciplined manner. I wouldn't call it tongue-in-cheek, its too hardened for that. I wouldn't call the satire in your face or subtle; its more... subliminal. Sublety by another name perhaps. I don't read so far into films as others do; maybe I'm right for it, maybe I'm not. You just cant get it so wrong. Certainly people spend less time actually reviewing films. Uncharacterized enemies, a one sided view the situation, rampant jingoism, those are the trademarks of militarism. This film catches them well in a futuristic setting. A little slow to start but still enjoyable, with just the right sense of innocence and its loss, replaced with the hardened edge that invariably lies within success. When the action finally gets going, it really gets going. The effects are stunning for 1996 when they were made, and even 10 years on they'll still be impressive. I thought Casper van Dien was more impressive than the film really shows; certainly the screen test on the DVD seemed to show a greater depth IMO. Denise Richards was a little too wide smile for the film, but Dina Meyer pulled off the 'chick with a gun' more convincingly than any other woman I've seen on film (they always seem uncomfortable with it, but Meyer carried herself naturally). Her character was pretty good too ;-) . Clancy Brown clearly enjoyed himself, hamming up the stereotypical drill-instructor pleasingly, and Michael Ironside was wonderful as the hard-nosed and competent Leiutenant. The cheesiness beloved of action films was there but it never became too cheesy to detract from the work (unlike say 2004's King Arthur). Another thing that takes this to the level of military sci-fi. Basically, brilliant. As clever as the others here say, depending on the level you watch it, but maybe not subtle in the way some like to think. If you want a working definition of the military sci-fi I've been harping on about, this the one i refer you too. I just wish there were more examples like this.",
+         "While some of the characters and lines in the movie were a little underdeveloped, the overriding story of the evolution of our society into an aggressive, militarist regime cannot be ignored. The action scenes were great, with flawless computer animation (how Titanic beat it for SFX I will never know) and enhancement supported by what can only be described as gore-laden prosthetics. I thought they could have left the love story out, but that's Hollywood. Very watchable, and a nice change from the Alien movies - this is WAR, not some isolated pit-fight! I love the Alien movies, but Startship troopers just has a lot o' lead, heads, and bodies flying left, right and centre! I thought the Mobile Infantry could have used better weaponry (apparently in the novel that it's based on, the MI has powered armour with assault cannon and missile launchers etc.) to battle such a foe, but I'm just being technical. If you want a nice beer & pretzels movie to yell and scream at, then this is it. 10 out of 10",
+         "This is by far one of the best space epics I've ever seen. The characters are compelling and interesting, the story truly epic. I know this film has been criticized for its apology of violence, but those who say that, don't understand Verhoeven sense of humor. Dark, very dark. In the same manner displayed in Robocop (Ed Neumeyer was also the writer of that one, if I'm not mistaken). We do feel we are watching a true universe, which by the way is amazing. Look at the starships (massive), the battles (awesome), the bugs....man I do love this movie!!!! The music by maestro Poledouris is magnificent as always. Just hearing Klendathu's drop makes me shiver!!!! And finally kudos for Paul Verhoeven. Man you are a genius."
+      ],
+      "genres": [
+         "Action",
+         "Sci-Fi"
+      ],
+      "productionCompanies": [
+         "TriStar Pictures",
+         "Touchstone Pictures",
+         "Big Bug Pictures"
+      ],
+      "summaries": [
+         "In the distant future high school kids are encouraged to become citizens by joining the military. What they don't know is that they'll soon be engaged in a full scale war against a planet of alien insects. The fight is on to ensure the safety of humanity.",
+         "The time is the future. Johnny Rico joins the military after graduation to become a citizen and for the love of his high school sweetheart. In the war against the bug aliens of Klendathu, the military is a very dangerous place to be. Johnny works his way through several battles and with the help of his friends and comrades, helps turn the tide of the war, and save the human race.",
+         "Set on the future earth, Johnny rico is a young student dating a girl named Carmen. When Carmen decides to join the military in order to become a class citizen (citizenship is only achieved through serving your country), Johnny follows and joins as well. He soon realizes that he joined for the wrong reasons but just as he is about to quit, an asteroid that originated from the orbit of planet \"klendathu\" hits Buenos Aires (his home town) and kills his family. Johnny and his fellow troopers set out to destroy the planet's inhabitants: a type of deadly and very large scaled space bugs. Through a seemingly ordinary action flick, director paul verhoeven creates a subtle anti-war theme, that shows us a fascist and military world far more frightening than WW2's Germany, Italy or Russia, the kind of world that is actually functioning.",
+         "Earth is united under militaristic organization called \"Federation\". Even in 4school students like Johnny Rico are thought about importance of serving to the Federation. On the surface atmosphere looks pretty relaxed, Johnny is dating beautiful Carmen, he has successful high school football career, loyal friends and rich parents. In the background Federation is in war with highly intelligent insectoid population that has colonized many worlds and are now trying to exterminate humans. Carmen decides to go to a school for a pilot in hope of commanding her own space ship one day and Johnny follows her not wanting to separate, but they eventually get separated in the line of duty when Johnny ends up in the Infantry and Carmen in the Fleet. When tragedy obliterates their home city of Buenos Aires, Johnny gets determined more than ever to put an end to the insectoid aggressor. Driven by hatred of the insectoids, and jealousy for Carmen's new boyfriend, Johnny strives to become one of the best soldiers Federation has ever seen... But \"bugs\" prove to be smarter and more resilient than he originally thought...",
+         "Humans in a fascistic, militaristic future do battle with giant alien bugs in a fight for survival."
+      ],
+      "budget": 100000000
+   },
+   "movielensId": 1676,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1997-11-06",
+      "dvdReleaseDate": "1998-05-20",
+      "directors": ["Paul Verhoeven"],
+      "runtime": 129,
+      "movieId": 1676,
+      "title": "Starship Troopers",
+      "mpaa": "R",
+      "actors": [
+         "Casper Van Dien",
+         "Dina Meyer",
+         "Denise Richards",
+         "Jake Busey",
+         "Neil Patrick Harris",
+         "Clancy Brown",
+         "Michael Ironside",
+         "Patrick Muldoon",
+         "Seth Gilliam",
+         "Rue McClanahan",
+         "Blake Lindsley",
+         "Steven Ford",
+         "Ungela Brockman",
+         "Bruce Gray",
+         "Denise Dowse",
+         "Amy Smart",
+         "Tami-Adrian George",
+         "Julianna McCarthy",
+         "Dale Dye",
+         "Dean Norris"
+      ],
+      "imdbMovieId": "0120201",
+      "originalTitle": "Starship Troopers",
+      "genres": [
+         "Adventure",
+         "Action",
+         "Thriller",
+         "Science Fiction"
+      ],
+      "youtubeTrailerIds": [
+         "Y07I_KER5fE",
+         "8INy93p2xGU"
+      ],
+      "plotSummary": "Set in the future, the story follows a young soldier named Johnny Rico and his exploits in the Mobile Infantry. Rico's military career progresses from recruit to non-commissioned officer and finally to officer against the backdrop of an interstellar war between mankind and an arachnoid species known as \"the Bugs\".",
+      "tmdbMovieId": 563,
+      "avgRating": 3.25521,
+      "releaseYear": "1997",
+      "numRatings": 18939,
+      "posterPath": "/zeCD9WkhABFJmPq3SlTozXJGEtr.jpg"
+   }
+}

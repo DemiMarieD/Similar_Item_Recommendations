@@ -1,0 +1,910 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "usa",
+            "id": 279
+         },
+         {
+            "name": "southern usa",
+            "id": 531
+         },
+         {
+            "name": "waitress",
+            "id": 828
+         },
+         {
+            "name": "self-defense",
+            "id": 2801
+         },
+         {
+            "name": "highway",
+            "id": 3306
+         },
+         {
+            "name": "arkansas",
+            "id": 5521
+         },
+         {
+            "name": "grand canyon",
+            "id": 5522
+         },
+         {
+            "name": "road trip",
+            "id": 7312
+         }
+      ],
+      "imdb_id": "tt0103074",
+      "video": false,
+      "title": "Thelma & Louise",
+      "recommendations": [
+         10998,
+         687,
+         2604,
+         6069,
+         9576,
+         9281,
+         1598,
+         402,
+         820,
+         293,
+         10731,
+         819,
+         9944,
+         623,
+         12102,
+         4105,
+         10537,
+         5924,
+         9386,
+         10303
+      ],
+      "backdrop_path": "/zfP8YjI0ODMX8v0ZHHIFxCTJBCm.jpg",
+      "revenue": 45361000,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Louise Elizabeth Sawyer",
+               "gender": 1,
+               "credit_id": "52fe42fbc3a36847f8031a61",
+               "name": "Susan Sarandon",
+               "profile_path": "/sT6zE3Bpa2HR5lAS44tB6rWDEtP.jpg",
+               "id": 4038,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Thelma Yvonne Dickinson",
+               "gender": 1,
+               "credit_id": "52fe42fbc3a36847f8031a65",
+               "name": "Geena Davis",
+               "profile_path": "/6b8cRJOItz7yNpYuLCPkl5kv4m2.jpg",
+               "id": 16935,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Investigator Hal Slocumb",
+               "gender": 2,
+               "credit_id": "52fe42fbc3a36847f8031a69",
+               "name": "Harvey Keitel",
+               "profile_path": "/4IcHhp1SCKijRxb7kqnxZNJuKdn.jpg",
+               "id": 1037,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "J.D.",
+               "gender": 2,
+               "credit_id": "52fe42fbc3a36847f8031a6d",
+               "name": "Brad Pitt",
+               "profile_path": "/kU3B75TyRiCgE270EyZnHjfivoq.jpg",
+               "id": 287,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Jimmy Lennox",
+               "gender": 2,
+               "credit_id": "52fe42fbc3a36847f8031a71",
+               "name": "Michael Madsen",
+               "profile_path": "/azCognW0p1hl2bJFH31ZNtcTJ3R.jpg",
+               "id": 147,
+               "order": 4
+            },
+            {
+               "cast_id": 6,
+               "character": "Darryl Dickinson",
+               "gender": 2,
+               "credit_id": "52fe42fbc3a36847f8031a75",
+               "name": "Christopher McDonald",
+               "profile_path": "/wrmn93czsOTrX8KtQuIAEh9PZpR.jpg",
+               "id": 4443,
+               "order": 5
+            },
+            {
+               "cast_id": 7,
+               "character": "Max",
+               "gender": 2,
+               "credit_id": "52fe42fbc3a36847f8031a79",
+               "name": "Stephen Tobolowsky",
+               "profile_path": "/fUodC7wMUZLAXnm4ONCxF5haCtC.jpg",
+               "id": 537,
+               "order": 6
+            },
+            {
+               "cast_id": 8,
+               "character": "Harlan",
+               "gender": 2,
+               "credit_id": "52fe42fbc3a36847f8031a7d",
+               "name": "Timothy Carhart",
+               "profile_path": "/1UEUs6UJdxjSbGakZflWuN4TS7T.jpg",
+               "id": 17396,
+               "order": 7
+            },
+            {
+               "cast_id": 22,
+               "character": "Lena, the Waitress",
+               "gender": 1,
+               "credit_id": "54a3a0999251414e2800c002",
+               "name": "Lucinda Jenney",
+               "profile_path": "/nhKWN1oWThSgz0AnUDOcQTubh3r.jpg",
+               "id": 5148,
+               "order": 8
+            },
+            {
+               "cast_id": 23,
+               "character": "State Trooper",
+               "gender": 2,
+               "credit_id": "54a3a0ab9251411d5300ba65",
+               "name": "Jason Beghe",
+               "profile_path": "/40zZ4qMshTN1yroHjj508RrmuSZ.jpg",
+               "id": 37203,
+               "order": 9
+            },
+            {
+               "cast_id": 24,
+               "character": "Albert",
+               "gender": 2,
+               "credit_id": "54a3a0bbc3a3682f1e010e95",
+               "name": "Sonny Carl Davis",
+               "profile_path": "/bdpZH2zUh9WSRfxViA3oyvizNl0.jpg",
+               "id": 63214,
+               "order": 10
+            },
+            {
+               "cast_id": 25,
+               "character": "Major",
+               "gender": 2,
+               "credit_id": "54a3a0c992514117dd003baf",
+               "name": "Ken Swofford",
+               "profile_path": "/7l4GppNqzi2lvs2R1nbTfxwiKcW.jpg",
+               "id": 45308,
+               "order": 11
+            },
+            {
+               "cast_id": 38,
+               "character": "Waitress",
+               "gender": 1,
+               "credit_id": "56c5c675c3a3680d49002d55",
+               "name": "Carol Mansell",
+               "profile_path": "/6QBbxSmshDFrW6dVwJhQDC3DFod.jpg",
+               "id": 172271,
+               "order": 12
+            },
+            {
+               "cast_id": 41,
+               "character": "East Indian Motel Clerk",
+               "gender": 2,
+               "credit_id": "599d4227c3a368285e01880f",
+               "name": "Shelly Desai",
+               "profile_path": "/l4MHXxDbrxSCwcL8i2Jq1SUgkDu.jpg",
+               "id": 174906,
+               "order": 13
+            },
+            {
+               "cast_id": 42,
+               "character": "Surveilance Man",
+               "gender": 2,
+               "credit_id": "599d42709251411ef3017f0d",
+               "name": "Stephen Polk",
+               "profile_path": null,
+               "id": 616377,
+               "order": 14
+            },
+            {
+               "cast_id": 43,
+               "character": "Plainclothes Cop",
+               "gender": 2,
+               "credit_id": "599d430c9251411ef801855f",
+               "name": "Rob Roy Fitzgerald",
+               "profile_path": "/llz7mOKLrBi1cgH3g2nRgaMUYeL.jpg",
+               "id": 941194,
+               "order": 15
+            },
+            {
+               "cast_id": 44,
+               "character": "I.D. Tech",
+               "gender": 2,
+               "credit_id": "599d4349c3a36828480190d1",
+               "name": "Jack Lindine",
+               "profile_path": null,
+               "id": 1875001,
+               "order": 16
+            },
+            {
+               "cast_id": 45,
+               "character": "Mountain Bike Rider",
+               "gender": 0,
+               "credit_id": "599d43f09251411f4a018508",
+               "name": "Noel L. Walcott III",
+               "profile_path": null,
+               "id": 1875002,
+               "order": 17
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe42fbc3a36847f8031a83",
+               "name": "Ridley Scott",
+               "profile_path": "/oTAL0z0vsjipCruxXUsDUIieuhk.jpg",
+               "id": 578,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe42fbc3a36847f8031a89",
+               "name": "Callie Khouri",
+               "profile_path": "/3BNF9XrijgK2HlS7Dgx1kgPZzJz.jpg",
+               "id": 17397,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe42fbc3a36847f8031a8f",
+               "name": "Ridley Scott",
+               "profile_path": "/oTAL0z0vsjipCruxXUsDUIieuhk.jpg",
+               "id": 578,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe42fbc3a36847f8031a95",
+               "name": "Mimi Polk Gitlin",
+               "profile_path": null,
+               "id": 17398,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe42fbc3a36847f8031a9b",
+               "name": "Hans Zimmer",
+               "profile_path": "/7IjJpvGtCfY0DsritmfCh2iX9I4.jpg",
+               "id": 947,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe42fbc3a36847f8031aa1",
+               "name": "Adrian Biddle",
+               "profile_path": null,
+               "id": 7783,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe42fbc3a36847f8031aa7",
+               "name": "Thom Noble",
+               "profile_path": "/pl35WClWJFiuBao1dTMoV4PaxOj.jpg",
+               "id": 17399,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe42fbc3a36847f8031aad",
+               "name": "Louis DiGiaimo",
+               "profile_path": null,
+               "id": 949,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe42fbc3a36847f8031ab3",
+               "name": "Norris Spencer",
+               "profile_path": null,
+               "id": 17400,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe42fbc3a36847f8031ab9",
+               "name": "Lisa Dean",
+               "profile_path": null,
+               "id": 7849,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe42fcc3a36847f8031abf",
+               "name": "Elizabeth McBride",
+               "profile_path": null,
+               "id": 5710,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe42fcc3a36847f8031ac5",
+               "name": "Anne H. Ahrens",
+               "profile_path": null,
+               "id": 13677,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "564479fe9251410a41005551",
+               "name": "Roland Neveu",
+               "profile_path": null,
+               "id": 1272269,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56447a3cc3a36870e80054ba",
+               "name": "Kathy Nelson",
+               "profile_path": null,
+               "id": 1530166,
+               "department": "Sound",
+               "job": "Music Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56447a4c92514133ab004d46",
+               "name": "Laura Perlman",
+               "profile_path": null,
+               "id": 5712,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56447a6a92514133ab004d4c",
+               "name": "Luca Kouimelis",
+               "profile_path": null,
+               "id": 1262129,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56447aa2c3a36870dd005945",
+               "name": "Bobby Bass",
+               "profile_path": "/dhYgomMBGKdEoIuYqMP0XUNZi9q.jpg",
+               "id": 16659,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56447aba9251410a440058d3",
+               "name": "Leslie Ann Anderson",
+               "profile_path": null,
+               "id": 74968,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56447f5dc3a36870e800558f",
+               "name": "Richard Arrington",
+               "profile_path": null,
+               "id": 74969,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56447f8ec3a36870db0059c4",
+               "name": "Bonita DeHaven",
+               "profile_path": null,
+               "id": 1531899,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56447fa69251410a3f00552a",
+               "name": "Karl Wesson",
+               "profile_path": null,
+               "id": 548413,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56447fbdc3a36870db0059ca",
+               "name": "Anthony Cortino",
+               "profile_path": null,
+               "id": 90194,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56447ffbc3a36870e3005ba7",
+               "name": "Dean O'Brien",
+               "profile_path": null,
+               "id": 1434780,
+               "department": "Production",
+               "job": "Co-Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5644801dc3a36870e80055ad",
+               "name": "Callie Khouri",
+               "profile_path": "/3BNF9XrijgK2HlS7Dgx1kgPZzJz.jpg",
+               "id": 17397,
+               "department": "Production",
+               "job": "Co-Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "575ca3b89251415dd20000bc",
+               "name": "Mel Dellar",
+               "profile_path": null,
+               "id": 76160,
+               "department": "Production",
+               "job": "Unit Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "575ca3c09251412ab00005bb",
+               "name": "Dean O'Brien",
+               "profile_path": null,
+               "id": 1434780,
+               "department": "Production",
+               "job": "Unit Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "599d44a09251411f0c01819b",
+               "name": "Steve Danton",
+               "profile_path": null,
+               "id": 55600,
+               "department": "Directing",
+               "job": "First Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "599d44c69251411f4a01869c",
+               "name": "Richard J. Bayard",
+               "profile_path": null,
+               "id": 1875004,
+               "department": "Art",
+               "job": "Construction Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "599d4570c3a36827f0018731",
+               "name": "Gary Clark",
+               "profile_path": null,
+               "id": 1565941,
+               "department": "Art",
+               "job": "Painter"
+            },
+            {
+               "gender": 0,
+               "credit_id": "599d45fdc3a3682872018062",
+               "name": "Roger M. Janson",
+               "profile_path": null,
+               "id": 1875007,
+               "department": "Art",
+               "job": "Construction Foreman"
+            },
+            {
+               "gender": 0,
+               "credit_id": "599d464d9251411ef8018b7a",
+               "name": "Alan S. Kaye",
+               "profile_path": null,
+               "id": 1805997,
+               "department": "Art",
+               "job": "Set Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "599d46bc9251411f4a018a40",
+               "name": "Jim Olson",
+               "profile_path": null,
+               "id": 1875009,
+               "department": "Art",
+               "job": "Construction Foreman"
+            },
+            {
+               "gender": 0,
+               "credit_id": "599d46f2c3a36827f0018a03",
+               "name": "Vic Petrotta Jr.",
+               "profile_path": null,
+               "id": 1389589,
+               "department": "Art",
+               "job": "Property Master"
+            },
+            {
+               "gender": 0,
+               "credit_id": "599d47869251411ef8018daf",
+               "name": "Robert Butch Samarzich",
+               "profile_path": null,
+               "id": 1875012,
+               "department": "Art",
+               "job": "Greensman"
+            },
+            {
+               "gender": 0,
+               "credit_id": "599d4818c3a36828a0016721",
+               "name": "Scott Snyder",
+               "profile_path": null,
+               "id": 1875014,
+               "department": "Art",
+               "job": "Construction Foreman"
+            },
+            {
+               "gender": 0,
+               "credit_id": "599d48619251411f2e01895f",
+               "name": "Kenneth Turek",
+               "profile_path": null,
+               "id": 1425908,
+               "department": "Art",
+               "job": "Leadman"
+            },
+            {
+               "gender": 0,
+               "credit_id": "599d4882c3a36828a00167c2",
+               "name": "Mark Vitale",
+               "profile_path": null,
+               "id": 1875015,
+               "department": "Art",
+               "job": "Construction Foreman"
+            },
+            {
+               "gender": 0,
+               "credit_id": "599d48d5c3a36828a001683b",
+               "name": "John Poyner",
+               "profile_path": null,
+               "id": 14459,
+               "department": "Sound",
+               "job": "ADR Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "599d48fbc3a3682848019bd0",
+               "name": "Bob Risk",
+               "profile_path": null,
+               "id": 1621243,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "599d491bc3a368285e019516",
+               "name": "Timothy P. Salmon",
+               "profile_path": null,
+               "id": 1574659,
+               "department": "Sound",
+               "job": "Boom Operator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "599d4941c3a3682892018463",
+               "name": "Jim Shields",
+               "profile_path": null,
+               "id": 9854,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "599d49bac3a3682892018523",
+               "name": "Stan Parks",
+               "profile_path": null,
+               "id": 1403399,
+               "department": "Crew",
+               "job": "Special Effects Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "599d4a3a9251411f2e018d25",
+               "name": "Paul Amorelli",
+               "profile_path": null,
+               "id": 1875016,
+               "department": "Lighting",
+               "job": "Best Boy Electrician"
+            },
+            {
+               "gender": 0,
+               "credit_id": "599d4ac19251411f2e018dfa",
+               "name": "R. Scott Judge",
+               "profile_path": null,
+               "id": 1875017,
+               "department": "Camera",
+               "job": "Dolly Grip"
+            },
+            {
+               "gender": 2,
+               "credit_id": "599d4b28c3a368289201879d",
+               "name": "David B. Nowell",
+               "profile_path": null,
+               "id": 1403415,
+               "department": "Camera",
+               "job": "Aerial Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "599d4b51c3a36827f0019276",
+               "name": "Brad Rea",
+               "profile_path": null,
+               "id": 1760567,
+               "department": "Camera",
+               "job": "Dolly Grip"
+            },
+            {
+               "gender": 0,
+               "credit_id": "599d4b7f9251411f5101994a",
+               "name": "Bob Rose",
+               "profile_path": null,
+               "id": 557873,
+               "department": "Camera",
+               "job": "Key Grip"
+            },
+            {
+               "gender": 2,
+               "credit_id": "599d4c58c3a36828920189ee",
+               "name": "Alexander Witt",
+               "profile_path": "/3hegIe4CixeZCFls7g5TpauQL9K.jpg",
+               "id": 17649,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "599d4cc8c3a3682892018ac3",
+               "name": "Taneia Lednicky",
+               "profile_path": null,
+               "id": 1380704,
+               "department": "Costume & Make-Up",
+               "job": "Key Costumer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "599d699c9251411f2e01bc35",
+               "name": "Christine Baer",
+               "profile_path": null,
+               "id": 1875075,
+               "department": "Production",
+               "job": "Production Coordinator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "599d6a45c3a36827f001c23e",
+               "name": "Anthony Goldschmidt",
+               "profile_path": null,
+               "id": 1806132,
+               "department": "Art",
+               "job": "Title Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "599d6b01c3a36827f001c311",
+               "name": "Don Hildebrand",
+               "profile_path": null,
+               "id": 1875076,
+               "department": "Crew",
+               "job": "Pilot"
+            },
+            {
+               "gender": 0,
+               "credit_id": "599d6b3bc3a368284801d46e",
+               "name": "Tim Monich",
+               "profile_path": null,
+               "id": 13050,
+               "department": "Crew",
+               "job": "Dialect Coach"
+            },
+            {
+               "gender": 2,
+               "credit_id": "599d6b919251411f2e01be89",
+               "name": "Robert 'Bobby Z' Zajonc",
+               "profile_path": "/yeK916uQBf9galMQBytSfLkeMR7.jpg",
+               "id": 1278542,
+               "department": "Crew",
+               "job": "Aerial Coordinator"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         },
+         {
+            "name": "Crime",
+            "id": 80
+         },
+         {
+            "name": "Adventure",
+            "id": 12
+         }
+      ],
+      "popularity": 12.288255,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 1541,
+      "vote_count": 990,
+      "budget": 16000000,
+      "overview": "Whilst on a short weekend getaway, Louise shoots a man who had tried to rape Thelma. Due to the incriminating circumstances, they make a run for it and thus a cross country chase ensues for the two fugitives. Along the way, both women rediscover the strength of their friendship and surprising aspects of their personalities and self-strengths in the trying times.",
+      "similar": [
+         773,
+         1957,
+         9584,
+         2898,
+         296099,
+         340485,
+         83770,
+         11153,
+         1696,
+         20312,
+         546,
+         22074,
+         1989,
+         9542,
+         1365,
+         19621,
+         10758,
+         309242,
+         24405,
+         16153
+      ],
+      "original_title": "Thelma & Louise",
+      "runtime": 130,
+      "poster_path": "/pnzuLoE52EiTfjfqRex2uTkH7LB.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Star Partners III Ltd.",
+            "id": 21854,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/wINnSd4I6udJvHRKSWtrvdP3FjB.png",
+            "name": "Pathé Entertainment",
+            "id": 841,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/zcxym93i5BTqqjhVvAhV5HPwYTR.png",
+            "name": "Metro-Goldwyn-Mayer",
+            "id": 21,
+            "origin_country": "US"
+         }
+      ],
+      "release_date": "1991-05-24",
+      "vote_average": 7.3,
+      "belongs_to_collection": null,
+      "tagline": "Somebody said get a life... so they did",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Ridley Scott"],
+      "runtime": 130,
+      "synopsis": "As the film opens, we meet Louise (Susan Sarandon), a waitress in a diner-style restaurant. She phones her friend Thelma (Geena Davis) and makes reference to a vacation they are about to take together where they will retreat to a friend's rural cabin for the weekend. Thelma is married to a moronic hothead named Darryl (Christopher McDonald), and she is too timid to even tell Darryl that she is going away for the weekend. Instead, she waits until Darryl leaves for work and then writes a note. Louise is unmarried, although she does have a boyfriend named Jimmy (Michael Madsen). Her relationship is not the type that she has to explain anything to Jimmy; it is clear that Louise is an independent and headstrong woman, while Thelma is passive and naive. Perhaps out of fear of being in the woods with no man around, Thelma brings along Darryl's handgun. Together, the two friends set out in Louise's 1966 Thunderbird convertible. Before they have reached their destination, Thelma wants to stop at a roadhouse and have a few drinks. Although Louise does not want to do this, she warily agrees, seeing as it is Thelma's vacation, too. While there, the two women meet a man named Harlan (Timothy Carhart), who takes an interest in Thelma and flirts with her all evening. After Thelma has had too much to drink, Harlan sneaks her away from Louise and takes her out to the dark parking lot, where he attempts to have sex with her. When Thelma protests, Harlan becomes violent and attempts to rape her. He is interrupted by Louise, who appears brandishing the gun. Harlan tries to explain that they were just having fun, Louise warns him that when a woman protests a man's sexual advances, \"she isn't having any fun.\" Although she is able to get Thelma safely away from Harlan, he claims that he wishes he had raped Thelma after all, and Louise immediately shoots him dead. Horrified, Thelma ushers Louise into the car and they drive away. Harlan's body is soon discovered, and it does not take the authorities long to connect Harlan to Thelma and Louise, since many people in the bar saw them together. The waitress who served them says she doesn't think they were the type to commit murder. A state police investigator named Hal Slocumb (Harvey Keitel) is assigned to the case and immediately seems sympathetic to Thelma and Louise; something about the incident does not add up, and he seems to suspect already why Harlan was shot. Thelma and Louise check into a motel and regroup, still in shock over the incident. Thelma feels that what happened was not their fault, and she wants to go to the police, but Louise is convinced that nobody will believe her side of the story and will charge her with homicide, particularly since Harlan wasn't threatening them any longer when she shot him. She is also cynical about how Thelma's story of attempted rape would be received; she knows they were seen drinking and dancing with Harlan, and she feels this would make others feel that Thelma led Harlan on. Unwilling to cooperate with authorities, Louise decides instead to contact Jimmy. She tells him she's in trouble and she needs money; she asks Jimmy for a loan that matches her life savings, to be repaid later, and Jimmy agrees. She asks him to wire the money to her in Oklahoma City. Although she doesn't tell Jimmy any details, she plans to stay on the run and cross the border into Mexico. Thelma is confused when Louise tells her that she doesn't want to go through Texas to get to Mexico, but Louise becomes furious about it and insists that Thelma find another route. At a gas station, Louise asks Thelma to call Darryl, and when she does he refuses to even listen to her; he orders her to return home immediately, at which point Thelma curses him and hangs up. Before leaving the station, Thelma strikes up a conversation with a handsome hitchhiker. Thelma is especially interested in him, and eventually she convinces Louise to offer him a ride. His name is JD (Brad Pitt), and he immediately charms Thelma. Louise is wary of him from the very beginning, at first refusing to give him a lift but then relenting when they happen upon him again by chance. Along the way to Oklahoma, Louise narrowly avoids being spotted by state police, alerting JD to the fact that something is going on with them. They stop at another motel, where Louise has arranged to pick up Jimmy's wire transfer. Instead she finds Jimmy himself waiting for her; her strange behavior has made him anxious to see her in person. Jimmy rents a separate room for Thelma, and Louise entrusts her to guard the cash, which is in a large envelope. After Louise leaves for her own room, JD reappears and Thelma invites him in. The two of them make love, and JD reveals to her that he is a semi-professional thief who makes his living holding up small convenience stores. He delights Thelma by running through the speech that he uses to hold up his victims, and Thelma remarks how polite he is about the whole thing. Meanwhile, Louise and Jimmy have a soul-baring conversation about their relationship. Jimmy is infuriated when Louise refuses to tell him what is going on, and he awkwardly proposes to her. Louise is conflicted; although she is touched at Jimmy's interest in marrying her, she knows that her circumstances prevent it, and she isn't even sure she wants to marry Jimmy. The matter remains unresolved; in the morning, she sees Jimmy off from the hotel's coffee shop, both of them knowing that it may be the last time they see one another. Immediately after Jimmy leaves, Thelma appears, noticeably giddy and dazed. Louise is amused that Thelma has enjoyed a night of sex with JD, until Thelma reveals that she has left him alone in the hotel room with the money. They rush back upstairs to find both JD and their money gone. Louise is devastated, since now it seems as if she will have no choice but to surrender. Without money, she and Thelma have no other options. Thelma, however, seems galvanized by the experience. She takes charge and orders Louise to get her belongings together and they leave the hotel. Meanwhile, Hal Slocumb has visited Louise's apartment, and since he feels the women may have left the state, the FBI is called in. Hal and several FBI agents stake out Darryl's house, tapping the phone in anticipation of Thelma eventually calling home. JD is picked up and brought to Hal for questioning, and Hal speaks privately with him. Even though he knows Thelma and Louise are fugitives, he is furious with JD for interfering with their security by taking their money, and JD apparently cracks and tells him everything he knows. JD has a brief confrontation with Darryl, who is also at the police station, and is furious with him for sleeping with Thelma. Slocumb and the others are amused by Darryl's ridiculous antics. Shortly after leaving the hotel, the women pull up alongside a small gas station with a convenience market. Louise is still so shaken up over their latest setback that she can hardly speak; Thelma borrows her sunglasses and goes inside. After only a few minutes, she comes running out of the station, screaming for Louise to start the car, and the two of them speed off; Thelma has robbed the gas station, making off with an undetermined amount of money. Louise is shocked, and wonders how Thelma did it. Immediately we cut to Darryl's house, where Darryl, Hal, and the other FBI agents watch the security camera video of Thelma robbing the market; they are stunned at how cool and professional she seems, unaware that she is reciting JD's robbery speech almost verbatim. Louise decides they need to find out if the authorities are onto them, so she tells Thelma to call Darryl. \"Hang up if it seems like he knows anything,\" she tells her. When Darryl greets her with a cheery \"Hello\", Thelma immediately hangs up, saying \"He knows.\" Louise thinks for a moment and then dials the number again; when Darryl answers, she asks to speak to whoever is in charge, and Hal talks to her. She speaks bluntly to him, which Hal seems to admire. Hal informs them that they're not wanted for murder, only for questioning, although Thelma is now wanted in Oklahoma for armed robbery. Louise hangs up before the call can be traced. While driving away, Thelma recalls the incident with Harlan and asks Louise again about Texas; Thelma is sure Louise was raped there. But Louise is adamant, and icily tells Thelma that she won't talk about it, and to never ask her about it again. Later, Louise is pulled over for speeding by a state policeman. When the cop takes her into his car and tries to call in Louise's registration on his radio, Thelma appears and puts the gun to his head. She tells Louise to take his gun and shoot out his radio, then they lock him in the trunk of his cruiser and speed off. After leaving the state, Louise calls Slocumb again at Darryl's house. She tells him that the whole thing was an accident, and Hal believes her, but since she is unwilling to return for questioning, he informs her that they will be charged with murder. He also makes a shocking statement to Louise: he knows what happened to her in Texas. Thelma hangs up the phone, worried that Louise has been on too long. Sure enough, the FBI has traced the call, and they try and head off without Hal to bring the women in. Hal convinces them to bring him along anyway, feeling some sort of connection to the incident, especially to Louise. Thelma has a moment where she embraces her new life; she worries that Louise will make a deal with Slocumb in order to return to her old life and possibly reconnect with Jimmy. Thelma herself feels that she can never go back to the way she used to live, not now that she has tasted freedom. Louise vows that she is not considering any deals, and that the two of them will stay together. Throughout the film, the women have encountered an obnoxious male trucker while on the road. The man has made obscene gestures at them and lewdly tried to suggest some kind of sexual activity with them. At this point, they see him again and decide to take care of him once and for all. They tell him to pull over for some fun, then they confront him about his behavior and demand that he apologize. When the man becomes indignant, they fire on his rig's gas tank, blowing his truck and trailer sky high in a huge explosion. The man calls them \"bitches from Hell\" and collapses in disbelief. With the burned out rig as a very noticeable indicator of their presence, the women are soon spotted by highway patrol and pursued by many cars. After a high speed chase, Louise manages to briefly shake the entire brigade by driving under a very low pipeline overpass. The Thunderbird barely makes it, but the police cars are trapped behind the pipeline. Momentarily alone, Louise and Thelma seem to realize that they cannot escape from the police, and they find that their only path leads them upwards into a mountainous region. They find themselves trapped when they reach the top, which offers no escape; they are on the brink of an enormous canyon. The state police and the FBI are right behind them; a large helicopter appears in front of them, one of the passengers being Hal Slocumb himself. The police dig in behind the Thunderbird, forming an impassable barrier. All of the troopers and FBI agents draw their weapons and train them on the Thunderbird. Hal is upset, understanding that this much firepower is unnecessary to confront these two women. Inside the Thunderbird, Thelma and Louise have a discussion. Louise says that she refuses to surrender, and Thelma once again realizes that she will now lose the freedom that she so briefly experienced. She tearfully suggests to Louise that they \"keep going\", gesturing at the canyon. Louise realizes that Thelma is suggesting that they die together, and she seems to agree. Overcome with emotion, she embraces Thelma and kisses her in friendship, and she slams on the gas pedal, driving full speed ahead. Hal realizes what they are doing and runs after them, but he is too late. As Louise and Thelma hold hands in defiance, the car flies off the edge of the cliff. The frame freezes as the car flies through the air, then fades to a white screen. As the credits start to roll, various scenes of Thelma and Louise's past few days \"flash before our eyes.\"",
+      "writers": ["Callie Khouri"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0103074/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMjIxNDgzMDE2MF5BMl5BanBnXkFtZTcwNzY5NTk1NA@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Susan Sarandon, Geena Davis, Harvey Keitel | See full cast and crew »"],
+      "reviews": [
+         "I loved this movie from the first time I saw it, but it wasn't until I sat through it the third time that I figured out why. It is clever, exciting, and funny and is shot in the middle of the breathtaking scenery of the American Southwest. However, the thing that makes it special is its illustration of pure friendship. It may be difficult for some men to cross the gender boundary and connect with Thelma and Louise, yet doing so is critical to appreciating the film. If you can make the connection then you can get its message -- we all need a friendship like the one Thelma and Louise had. This movie will strike a deep emotional chord.....if you aren't afraid to let it. And if you happen to be too emotionally closed off to appreciate what I think the movie says about friendship I think that you will still enjoy the characters, acting, action, and humor. It is a ten out of ten.",
+         "This is an important commercial film aimed at blue collar women who feel victimized by both society and the men in their lives. Directed by Ridley Scott, who directed the science fiction classics, Alien (1979) and Blade Runner (1982), Thelma and Louise is an on-the-lam chick flick (with chase scenes), a kind of femme Butch Cassidy and the Sundance Kid (1969), somewhat akin to Wild at Heart (1990) and Natural Born Killers (1994) but without the gratuitous violence of those films. Ridley Scott walks the razor edge between femme-exploitation and serious social commentary. Incidentally, the script is by Callie Khouri who wrote Something to Talk About (1995) and Divine Secrets of the Ya-Ya Sisterhood (2002) which should give you an idea of how men are depicted here. Susan Sarandon is Louise, a thirty-something Arkansas waitress with an attitude and some emotional baggage, and Geena Davis is Thelma, a cloistered ingenue housewife with a yearning to breath free. Both do an outstanding job and carry the film from beginning to end. The characters they play are well-rounded and fully developed and sympathetic, in contrast to the men in the film who are for the most part merely clichés, or in the case of Darryl (Christopher McDonald), Thelma's boorish husband, or the troll-like truck driver, burlesques. I have never seen Geena Davis better. Her unique style is melded very well into a naive woman who never had a chance to express herself, but goes hog wild and seems a natural at it when the time comes. Sarandon is also at the top of her game and plays the crusty, worldly wise, vulnerable Louise with tenderness and understanding. Note, by the way, her pinned up in back hair-style, directly lifted from TV's Polly Holliday (\"Kiss my grits!\") who appeared as a waitress in the seventies sitcoms \"Alice\" and \"Flo.\" Harvey Keitel plays the almost sympathetic cop, Hal Slocumb, and Brad Pitt appears as J. D., a sweet-talking twenty-something who gives Thelma the script for robbing 7-11s as he steals more than her libido. This movie works because it is funny and sad by turns and expresses the yearning we all have to be free of the restraints of society and its institutions (symbolized in the wide-open spaces of the American Southwest) while representing the on again, off again incompatibility of the male and female heart. The male-bashing is done with a touch of humor and the targets are richly deserving of what they get. The ending is perhaps too theatrical and frankly unrealistic, but opinions may differ. Best and most telling quick scene is when Thelma phones Darryl to see if he has found out about their escapades. Weasel-like, he is trying to help the cops locate them, but he is so transparent to her that all she has to do is hear his voice. \"He knows,\" she says to Louise and hangs up. Best visual is when the black police helicopter appears suddenly, menacingly like a giant fly beneath the horizon of the Grand Canyon. Also excellent were the all those squad cars lined up like armored battalions aimed at the girls on the run. I also liked the scenes at the motel with J.D. and Louise's boyfriend. They were beautifully directed and cut, and very well conveyed by Sarandon and Davis, depicting two contrasting stages in male-female relationships. See this for Geena Davis because she was brilliant, vividly alive and never looked better.",
+         "\"Thelma and Louise\" made a huge splash when it was released and has since become a part of the pop culture lexicon. In it, a mistreated housewife and harried waitress stumble into an out-of-control - but totally liberating - crime spree. As bold and relevant as ever, it remains a vastly entertaining must-see. Callie Khouri's screenplay is a feeling, funny classic and director Ridley Scott lends this road movie epic scope, seeking out the beauty in open spaces. Both leads - Geena Davis as Thelma and Susan Sarandon as Louise - give fine performances. Thelma and Louise become fully realized human beings who share a powerful and authentic friendship. Their transformation into two outlaws is also made entirely believable by the actresses. And what about the men? Harvey Keitel is charming as the sympathetic lawman, Hal, and Michael Madsen's turn as Louise's boyfriend Jimmy is wonderfully nuanced. Brad Pitt also leaves a strong impression as the winsome blonde thief J.D. It's easy to see why this film made Pitt a star. \"Thelma and Louise\" is a film of rare cultural resonance, to be sure. Yet while undoubtedly provocative, this movie is also alot of fun.",
+         "For many years now, women have taken power into their own hands. So I am sure the women that campaigned for freedom and liberty, would have loved the movie, 'Thelma and Louise'. The tradition of the American road trip is shown in such a refreshing way in this movie, with its two lead characters people who are fed up with life, and no longer take any crap from the men that they live with or that they meet. Thelma and Louise is a film that will make you feel warm, but also leave a some what 'bitter-sweet' taste in your mouth. Thelma and Louise are best friends on a desperate flight across the American Southwest after a tragic incident at a roadside bar. With determined detective Hal on their trail, a sweet-talking hitchhiker called 'J.D.' in their path and a string of crimes in their wake, their journey alternates between a hilarious, high-octane joy ride and an empowering personal odyssey... even as the law closes in. 'Thelma and Louise' are exceptionally well written characters for the big-screen. Callie Khouri wrote a fascinating script, capturing the 'female power' beautifully. But it is in her characters that I like the most. While, I had feelings for both Thelma and Louise, I also wanted the pair to get caught, and part of me also loved what made the pair the individuals that they were. This is all from the great work of Khouri, who is an intelligent screenwriter. I have watched this film a couple of weeks after viewing another of Callie's movies, 'Something to talk about', another movie from the female point of view that both sexes can enjoy. Yet Callie's screenplay would have been a waste, if the actors did not play their part properly. The main stars here are Thelma (Geena Davis) and Louise (Susan Sarandon), who are some what fed up with the life that they are living, and plan a trip to get away from everything. Things soon start to get out of hand for the women, and when trouble causes them have shoot and kill somebody, the fun really starts. In fact from the time that this incident begins and concludes, the movie to the very end was for me, one great joy ride. Davis and Sarandon share a great bond on the film. Thelma and Louise are great friends, but completely different characters in their own right. Davis plays a ditsy sort of character, who is naïve, but becomes an individual once again, after the men in her life have been nothing but tragedy after tragedy. Then with Sarandon, I got the feeling that she was the one that had the 'balls' out of the two, making her best friend realise that they should stand for no crap anymore. It was a shame that neither actress won an academy award for their role, but of course they were up against a great performer in another 1991 movie, that being Jodie Foster in 'Silence of the Lambs'. If foster was not there, I am certain that one of these two would have walked away with an academy award. Yet there are other cast members that need to be highlighted from 'Thelma and Louise'. I enjoyed what DJ (Brad Pitt) brought to the film. He was a character that I trusted, but like the girls, I was scorned after working out how bad he was. Then there is Louise's love interest, Jimmy (Michael Madison), who shows his girlfriend glimpses of what she is trying to escape, and that being married to him would be a mistake. Then to round the cast of this film is Police detective Hal (played by Hollywood legend, Harvey Keitel). Hal is genuinely interested in working out the situation with the girls, but realises that these are extraordinary women, in an extraordinary situation. 'Thelma and Louise' is well directed by Oscar winning director, Ridley Scott. I feel that he brought out the road trip of the girls well, making it really interesting for the viewer, as we want to know what is going to happen as the girls go from one situation to another. Scott also helps to define what makes the girls tick as individuals, and to why they are such great friends. He also makes it easy for his audience to understand what theses girls are doing is necessary to their freedom and survival. I also like the locations that were chosen and shot for this movie, showing off much of America that we rarely get the chance to see. The American west, which is where the majority of the film takes place, looks partly like a fun place to live, but also a place that holds great danger for the girls. Thelma also emphasises that going through 'Texas' is completely out of the picture. Then when the girls are really on the run we get the chance to see some of the great cannons that America has to offer. The camera work by cinematographer Adrian Biddle is exceptional, and makes wonder what it would be like to visit such a part of the world. There is a lot to like about this movie. Things like its style, story, lingo, characters and conclusion, which are all captivating. I feel that the audience of this movie is on an intoxicating sort of ride here, by the sort adventure that 'Thelma and Louise' allows us to experience. We are affected by what affects this pair. Well I know I was anyway. This movie also proves, by creating more problems, you do not make the situation you are in better, but much worse. Nevertheless, it looks like fun to be on the run! CMRS gives 'Thelma and Louise': 4.5 (Very Good - Brilliant Film)",
+         "A lot of people have dubbed this as a \"chick flick\" but I do not really like that term as it implies that men cannot enjoy watching it. Alien had a female lead and had parts that were sad but nobody would call that a chick flick. Also is every movie about male characters a guy flick? I thought this was a great drama and the acting was superb. No one can deny that this movie is a classic and has influenced the English language. I would also like to mention that I am a man. In response to people who bash the movie saying that it is anti-male; I would like to say that Thelma and Louise is simply a movie about situations that happen to women all too often. Women are raped everyday and women are abused everyday; this movie brings that into the light and says that it is not good enough. I do not believe that shooting the rapist was justified but at least he did not get away with it. The movie shows that by running away from your problems things only get worse. People have also commented that there are no men that are not portrayed negatively. Both the sympathetic police officer and Jimmy are likable characters. The purpose of this film was not to celebrate masculinity but to show two women breaking free from oppression. Not all women are raped or abused but it is something that is very common and it is relevant enough to be a theme of a movie. I was very moved by the movie and I gave it a 9/10",
+         "Thelma and Louise is a rarity. It is a buddy movie about two women, and it is one of the best road movies to ever grace the screen. Louise (Susan Sarandon) and Thelma (Gina Davis) are two friends who plan a road trip into the mountains for the weekend. Neither one of their lives seems exciting at the moment. Louise waits tables at the local diner and is also waiting on boyfriend Jimmy (Michael Madsen)who is always traveling and seems destined to never settle down. Thelma is a sexually repressed housewife who lives at home with a self-important husband (Christopher McDonald) who doesn't seem to care much for her at all except when she is not fulfilling her house-wife duties like having diner made and the house cleaned. It is no wonder these two decide to take a trip for the weekend to the mountains to get away for awhile and have fun. Of course there is an event that happens not long after they have started their journey, and right after said event, things quickly spiral out of control as the two girls find themselves racing for Mexico with the law quickly on their heels. This movie could've been just another boring road picture, but both Geena Davis and Susan Sarandon along with a fine script and clever pacing by director Ridley Scott, make it much better. Davis and Sarandon have great chemistry together, and the script is loaded with offbeat humor to go along with its clever story. The movie is never boring because Ridley Scott makes it so by slowing the pace down at the right moments, and then picking it back up when necessary. I enjoyed all the characters, including the minor ones which included a cameo by Brad Pitt as the young hitchhiker JD who Thelma quickly falls in lust with. Some people may see this as the ultimate female picture, but I think it is more than that. Harvey Keitel is the inspector on the case who believes that these girls really aren't as bad as some may think, and his character is interesting as well because he seems to understand why everything involving the girls has lead up to this series of unfortunate events. Michael Madsen, as Louise's boyfriend Jimmy, also adds depth to his role as a man who though upset with what Louise is going to do understands and loves her still. These two characters add something more to the story which makes it less of a feminist picture without once taking away from the two leads. If that was even possible. My only gripe with the movie would be the ending. Not the way it ended but how quickly it rushed to the end credits. I for one, like Roger Ebert who stated the same thing in his review of the movie, believe that the ending should of lasted a little longer before fading out. That's my only problem, and it's the only reason why the movie doesn't get a perfect score from me.",
+         "Through his career, Ridley Scott was an eclectic film-maker because he broached (with success) several cinema styles: science-fiction with \"Alien\", historical film with \"1492: Christopher Colombus\". Here, he succeeded very well his way to the road-movie and this one is listed among the best road-movies ever made. At first look, the story looks simple and without too many claims: two young women, Thelma and Louise are going out for the week-end with the firm intention of having a ball. But what they don't know is that this drive will soon become a descent into hell... The movie is worth seeing for its two main actresses: Susan Sarandon and Geena Davis, both outstanding and what interests Ridley Scott, is their temperament and their evolution during the movie. At the beginning, a sensitive and fragile Thelma is next to a energetic and realistic Louise but in the second part of the movie, more precisely, after Thelma burglarized a shop (probably the best sequence in the whole movie) in order to grab money, roles are reversed. This is an occasion to make out Louise's wounds and weaknesses. So, don't rely too much on appearances... \"Thelma and Louise\" is also a movie where Scott takes a lucid look on the hidden side of the American society and especially on men. Scott introduces them to us with their worst faults: either they're macho (Darryl), obscene (the truck driver), perverse (the rapist) or coward (the cop). The only one saved is Harvey Keitel who never falls into the caricature of the American cop usually described to us as merciless or obsequious. Here, he shows understanding and even compassion towards the two runaways, notably Louise because he knows that she hides a terrible secret. A dynamic and panting movie where laugh and sorrow are skillfully married.",
+         "The road movie is traditionally a male genre, relying on the sense of freedom and independence that having one's own transport provides and which has usually been the privilege of men\u0085 What is innovatory about \"Thelma & Louise\" is the way it reequips the genre for women\u0085 Thelma (Geena Davis) is a housewife trapped in a meaningless marriage, Louise (Susan Sarandon) is a waitress in a not very significant relationship\u0085 They decide to give themselves a little space by taking off for a weekend\u0085 But when Louise shoots a man who is trying to rape Thelma, they are precipitated into a far more radical break with their past lives\u0085 The setting of action in the American southwest and the acts of outlawry the women are obliged to commit in order to keep on the run give the film some of the feel of a Western\u0085 What makes it nevertheless a women's film is that the relationship between the two principals is at the center of the story\u0085 The various men they encounter, both the ones they leave behind and those they meet on the road have less importance for Thelma and Louise than the two women do for each other\u0085 Predictably, the film met with hostility from some male viewers, on the grounds that the men were caricatured and that the film encouraged violence\u0085",
+         "You have to give it up for a movie that casts Michael Madsen as pretty much the only sane guy in existence. Thelma (Geena Davis) and Louise (Susan Sarandon) go off from their banal existences to a trip that heads up poop creek really REALLY fast. After shooting dead a would-be rapist, they both head for the hills where the law, personal freedom and, yes, Brad Pitt await! I hadn't seen this in quite a number of years, and it was great to come back to. I remembered a lot of it, but I noticed particularly this time the strong performances of not only of Davis and Sarandon, but of Harvey Keitel, Madsen (who is actually amazing), Pitt, and quite underplayingly, Christopher Mcdonald. Ridley Scott puts these elements all together in one explosive package.",
+         "THELMA & LOUISE has to be regarded as a pure 90s classic that brought up a considerable amount of risk in creating a first-person feminist formula into a mainstream movie, which is often missing. It pulls off fantastically true in form, with the exceptional Southern character talents of the two lady fugitives on the run, Geena Davis and Susan Sarandon, who may stand out as memorable on the silver screen. Let's not forget that silly truck driver they pass quite often, and of course, cowboy Brad Pitt as a young student. While not needed to be fully reliant on action substances like gunshooting, there is good chemistry within its grasp. Every single minute should not be wasteful, as plenty of refreshing outbursts of enjoyment outweighs the familiar old plot of evading the police. The ending is a definite eye catcher, and also the riskiest ever filmed! Beware of this rip-off called GOOD GIRLS DON'T, another poor B-movie with no redeeming quality. Satisfyingly original, and highly recommended!"
+      ],
+      "genres": [
+         "Adventure",
+         "Crime",
+         "Drama",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "Pathé Entertainment",
+         "Percy Main",
+         "Star Partners III Ltd."
+      ],
+      "summaries": [
+         "Louise is working in a diner as a waitress and has some problems with her boyfriend Jimmy, who, as a musician, is always on the road. Thelma is married to Darryl who likes his wife to stay quiet in the kitchen so that he can watch football on TV. One day they decide to break out of their normal life and jump in the car and hit the road. Their journey, however, turns into a flight when Louise kills a man who threatens to rape Thelma. They decide to go to Mexico, but soon they are hunted by American police.",
+         "Whilst on a short weekend getaway, Louise shoots a man who had tried to rape Thelma. Due to the incriminating circumstances, they make a run for it but are soon followed closely by the authorities including a local policeman who is sympathetic to their plight. The federal authorities, however, have less compassion and thus a cross country chase ensues for the two fugitives. Along the way, both women rediscover the strength of their friendship and suprising aspects of their personalities and self-strengths in the trying times.",
+         "An Arkansas waitress and a housewife shoot a rapist and take off in a '66 Thunderbird."
+      ],
+      "budget": 16500000
+   },
+   "movielensId": 3418,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1991-05-24",
+      "dvdReleaseDate": "2003-02-04",
+      "directors": ["Ridley Scott"],
+      "runtime": 130,
+      "movieId": 3418,
+      "title": "Thelma & Louise",
+      "mpaa": "R",
+      "actors": [
+         "Susan Sarandon",
+         "Geena Davis",
+         "Harvey Keitel",
+         "Brad Pitt",
+         "Michael Madsen",
+         "Christopher McDonald",
+         "Stephen Tobolowsky",
+         "Timothy Carhart",
+         "Lucinda Jenney",
+         "Jason Beghe",
+         "Sonny Carl Davis",
+         "Ken Swofford",
+         "Carol Mansell",
+         "Shelly Desai",
+         "Stephen Polk",
+         "Rob Roy Fitzgerald",
+         "Jack Lindine",
+         "Noel L. Walcott III"
+      ],
+      "imdbMovieId": "0103074",
+      "originalTitle": "Thelma & Louise",
+      "genres": [
+         "Drama",
+         "Thriller",
+         "Crime",
+         "Adventure"
+      ],
+      "youtubeTrailerIds": ["PRr0HY9MPZ0"],
+      "plotSummary": "Whilst on a short weekend getaway, Louise shoots a man who had tried to rape Thelma. Due to the incriminating circumstances, they make a run for it and thus a cross country chase ensues for the two fugitives. Along the way, both women rediscover the strength of their friendship and surprising aspects of their personalities and self-strengths in the trying times.",
+      "tmdbMovieId": 1541,
+      "avgRating": 3.58711,
+      "releaseYear": "1991",
+      "numRatings": 14034,
+      "posterPath": "/pnzuLoE52EiTfjfqRex2uTkH7LB.jpg"
+   }
+}

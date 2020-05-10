@@ -1,0 +1,444 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "independent film",
+            "id": 10183
+         },
+         {
+            "name": "woman director",
+            "id": 187056
+         }
+      ],
+      "imdb_id": "tt0118113",
+      "video": false,
+      "title": "Walking and Talking",
+      "recommendations": [
+         145091,
+         125034,
+         261818,
+         158895,
+         159153,
+         104043,
+         46509,
+         13164,
+         350362,
+         84278,
+         36331,
+         257249,
+         84317,
+         192393,
+         48345,
+         223042,
+         308423,
+         32625,
+         60994,
+         204761
+      ],
+      "backdrop_path": "/qyUcA9yqly33P0shcexLmVwhBPS.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 3,
+               "character": "Amelia",
+               "gender": 1,
+               "credit_id": "52fe47b2c3a36847f8143639",
+               "name": "Catherine Keener",
+               "profile_path": "/tEBdqBUduF3dBcJcBeY5ffZ9MMu.jpg",
+               "id": 2229,
+               "order": 0
+            },
+            {
+               "cast_id": 4,
+               "character": "Laura",
+               "gender": 1,
+               "credit_id": "52fe47b2c3a36847f814363d",
+               "name": "Anne Heche",
+               "profile_path": "/aXMySUgcAJ09dq0oD0qY1mcsr1c.jpg",
+               "id": 8256,
+               "order": 1
+            },
+            {
+               "cast_id": 20,
+               "character": "Andrew",
+               "gender": 2,
+               "credit_id": "55551be9c3a368776c0006a4",
+               "name": "Liev Schreiber",
+               "profile_path": "/qFn3npmqd1qaYOk6yohmi3FbPhc.jpg",
+               "id": 23626,
+               "order": 2
+            },
+            {
+               "cast_id": 5,
+               "character": "Peter",
+               "gender": 2,
+               "credit_id": "52fe47b2c3a36847f8143641",
+               "name": "Randall Batinkoff",
+               "profile_path": "/aXj1Q2pr70lMPJPRuNB6EIYCujr.jpg",
+               "id": 36631,
+               "order": 3
+            },
+            {
+               "cast_id": 1,
+               "character": "Young Amelia",
+               "gender": 0,
+               "credit_id": "52fe47b2c3a36847f8143631",
+               "name": "Amy Braverman",
+               "profile_path": null,
+               "id": 143150,
+               "order": 4
+            },
+            {
+               "cast_id": 2,
+               "character": "Young Laura",
+               "gender": 0,
+               "credit_id": "52fe47b2c3a36847f8143635",
+               "name": "Miranda Rhyne",
+               "profile_path": null,
+               "id": 143151,
+               "order": 5
+            },
+            {
+               "cast_id": 8,
+               "character": "Betsy",
+               "gender": 1,
+               "credit_id": "53938f70c3a3686415001bf1",
+               "name": "Alice Drummond",
+               "profile_path": "/f1O8suDhVloKdPvhyltj017SPTo.jpg",
+               "id": 17488,
+               "order": 6
+            },
+            {
+               "cast_id": 21,
+               "character": "Frank",
+               "gender": 2,
+               "credit_id": "55551c0b9251411e4f000694",
+               "name": "Todd Field",
+               "profile_path": "/34lDArSwBjHFXIfYnLQZWKTTab3.jpg",
+               "id": 5010,
+               "order": 7
+            },
+            {
+               "cast_id": 22,
+               "character": "Bill",
+               "gender": 2,
+               "credit_id": "55551c29c3a3687774000734",
+               "name": "Kevin Corrigan",
+               "profile_path": "/trRjEABsF2BCqn6pib3bYhYIxNH.jpg",
+               "id": 18472,
+               "order": 8
+            },
+            {
+               "cast_id": 23,
+               "character": "Andrew's Mom",
+               "gender": 1,
+               "credit_id": "55551c53c3a368776f00082e",
+               "name": "Lynn Cohen",
+               "profile_path": "/3YFzNPqr5CLw5oTovuKS43l4K6p.jpg",
+               "id": 8792,
+               "order": 9
+            }
+         ],
+         "crew": [
+            {
+               "gender": 1,
+               "credit_id": "52fe47b2c3a36847f8143647",
+               "name": "Nicole Holofcener",
+               "profile_path": "/6u86XfYTkAaGfj1C3bT8arWVw4D.jpg",
+               "id": 56539,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe47b2c3a36847f814364d",
+               "name": "Nicole Holofcener",
+               "profile_path": "/6u86XfYTkAaGfj1C3bT8arWVw4D.jpg",
+               "id": 56539,
+               "department": "Writing",
+               "job": "Author"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5555190ec3a368778200074b",
+               "name": "Ted Hope",
+               "profile_path": null,
+               "id": 5952,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "555519389251411e5400066a",
+               "name": "James Schamus",
+               "profile_path": "/9E0gGd0rhOZyMnBAeIqFfCAPqzn.jpg",
+               "id": 1617,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "55551a89c3a368777200074b",
+               "name": "Alisa Lepselter",
+               "profile_path": null,
+               "id": 1252,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "55551a9cc3a3687772000753",
+               "name": "Avy Kaufman",
+               "profile_path": "/yQPGktsmkKkhkOQAUlmYlxHJOiJ.jpg",
+               "id": 2952,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55551aafc3a368777200075b",
+               "name": "Anne Stuhler",
+               "profile_path": null,
+               "id": 1467186,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55551ac1c3a368776c000687",
+               "name": "Roswell Hamrick",
+               "profile_path": null,
+               "id": 1467187,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 1,
+               "credit_id": "55551ad3c3a368777e000709",
+               "name": "Edi Giguere",
+               "profile_path": null,
+               "id": 1457392,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "55551b599251411e62000706",
+               "name": "Sheila Waldron",
+               "profile_path": null,
+               "id": 1400540,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55551bb5c3a36877820007a9",
+               "name": "Alex Panagakis",
+               "profile_path": null,
+               "id": 1407222,
+               "department": "Crew",
+               "job": "Unit Publicist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "57f2d07a9251410c31002d73",
+               "name": "Michael Spiller",
+               "profile_path": null,
+               "id": 65506,
+               "department": "Camera",
+               "job": "Director of Photography"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Romance",
+            "id": 10749
+         }
+      ],
+      "popularity": 1.156133,
+      "production_countries": [
+         {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+         },
+         {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+         },
+         {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+         }
+      ],
+      "id": 49963,
+      "vote_count": 9,
+      "budget": 0,
+      "overview": "Things have been tough lately for Amelia. Her best friend moved out of the apartment, her cat got cancer, and now her best friend, Laura, is getting married. She copes with things, from the help of Andrew, Frank, Laura, and a brief romance with Bill \"The Ugly Guy\".",
+      "similar": [
+         10818,
+         370663,
+         258480,
+         52371,
+         11421,
+         112160,
+         376867,
+         401898,
+         43923,
+         10735,
+         376660,
+         12793,
+         84892,
+         11216,
+         398818,
+         449176,
+         437557,
+         14,
+         391713,
+         242224
+      ],
+      "original_title": "Walking and Talking",
+      "runtime": 86,
+      "poster_path": "/wUMMnbcqrNP1jIf64kDcJ6NtDJj.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Zenith Entertainment",
+            "id": 3644,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Channel Four Films",
+            "id": 181,
+            "origin_country": "GB"
+         },
+         {
+            "logo_path": null,
+            "name": "Pandora Filmproduktion",
+            "id": 254,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Good Machine",
+            "id": 10565,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Mikado Film",
+            "id": 11912,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Electric",
+            "id": 53407,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "TEAM Communications Group",
+            "id": 53408,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1996-07-17",
+      "vote_average": 6.7,
+      "belongs_to_collection": null,
+      "tagline": "A movie for everyone who wants to get married and stay single at the same time.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "UK",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Nicole Holofcener"],
+      "runtime": 86,
+      "synopsis": null,
+      "writers": ["Nicole Holofcener"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0118113/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMzMyMzY0MzAyMl5BMl5BanBnXkFtZTcwMDc4MTYyMQ@@._V1_SY317_CR1,0,214,317_AL_.jpg",
+      "actors": ["Stars: Catherine Keener, Anne Heche, Amy Braverman | See full cast and crew »"],
+      "reviews": [
+         "I have seen Walking and Talking several times, and am continually impressed with Nicole Holofcener's writing and directing. These characters really act as if they are best friends. One great accomplishment of this film is that it is about everyday events which are transformed into having importance because we see the characters giving them importance, without it being heavy-handed. Another is the dialogue: these people are comfortable being cynical with each other, without being mean spirited. This is a small film with a big heart.",
+         "Some relationships between childhood friends endure the passage of time, as it's the case with Laura and Amelia, who as the film opens are seen as young girls. After some years they have met again as adults and their friendship has a different kind of meaning to both, if anything it is stronger than before. Whereas Amelia has found love and is graduating for a professional career as a therapist, Laura, on the oder hand, has found a job in a newspaper, but her love life leaves a lot to be desired. Nicole Holofcener, the director, takes us to meet these two women as they go through their lives in present day Manhattan. Having seen this film when it made its commercial debut, we decided to take another look after almost ten years of being released and we can report the film is still fresh and quirky as when we first saw it. The director, whose \"Lovely and Amazing\" was also a worthy successor, treats her subjects with a light touch and the result is a film that gives the viewer a good insight about human relations in a cinematic form. The best thing going for the film is lovely Catherine Keener, who is an asset no matter what she is playing. Ms. Keener seems to be a natural for the movies. The camera loves this actress who has a style of her own and who, in comedies such as this, makes perfect sense as her directors clearly capitalize on her uncanny sense of how to play the quirky characters in which she has excelled. Anne Heche, on the other hand, makes a perfect Amelia come true. Ms. Heche is a good actress that always brings something to the roles she plays. Amelia, the young woman in this film, is at a point in her life where she has to make decisions about her relationship with Frank, who clearly adores her, and her own career as a therapist. The supporting roles are basically the men in the two friends' lives. There is Frank, who is living with Amelia. He wants her to commit and marry him, but she has doubts before she says yes. Todd Field makes a good impression as Frank. Bill, the video store clerk likes Laura, but feels betrayed when he hears a message Amelia has left on the answering machine where she calls him ugly; he takes offense and decides to drop Laura. Kevin Corrigan is perfect playing this man. Finally there is Andrew, an old flame of Laura's who has broken up with her some time ago, but has remained friends. Liev Schreiber is good in this part. \"Walking and Talking\" shows a talented Nicole Holofcener at her best. The film shows us a director who knows a lot about the complicated balance of the relationship between two caring friends.",
+         "\"Walking and Talking\" is a slice of life flick which focuses on two thirtyish female best friends (Heche & Keener). A dialogue-intensive plotless situational relationship light comedy, \"W&T\" offers good performances, a lively script, and a variety of situations with which thirtyish guys and gals will be able to identify. An enjoyable way to wile away 1.5 hours.",
+         "A lovely little movie, with fine performances, a real feel-good indie movie. Catherine Keener (so vastly different in \"Being John Malkovich\"!) is wonderful, playing the insecurities of her character to great effect (the scene where she stalks the video store clerk is fabulous, as is her reluctance to put her cat down). Anne Heche is - as always - on great form; and Liev S is very good too. A lovely little movie, often a little too low-key for its own good. It never demands too much from the viewer and as a result reaps all the awards. Recommended viewing. Enjoy!",
+         "this is what audiences need to see more of. Good characterization, realistic dialog (no slap-stick cheap tricks, farce etc.) and capable actors. I have seen \"Friends With Money\" which was a disappointment compared to this and \"Lovely and Amazing\". This film succeeds because we care about the characters, Anne Heche as the therapist, trying to control her wedding, Catherine Keener as confused and disappointed single again friend. Andrew and Laura (Schreiber and Keener), Frank and Amelia,(Ann Heche and Todd Field) two couples just trying to make things work. They have to find humor in minor things. Kevin Corrigan adds humor as Keener's sometime date, who finds out he is referred to as the \"ugly guy\". Liev Schreiber adds a good element to the film. Keener's former boyfriend, he is there for her, even as she pursues Corrigan who works at a video store:...\"Jeez look at him...I thought I could relax for once\"... Keener says as she wonders why he has rejected her. This has been compared to \"Sex and the City\", but there really is no comparison. A one hour TV show vs. film; this film has resonance; we will remember and want to see these characters again, they are not cardboard cut-out characterizations. TV has to be more polarized, due to the medium and time limits, hence the characters are more superficial and obvious.(Could we picture Kim Catrall in this film, I don't think so). I am surprised Nicole Holfcener has not surmised this, and realized the casting mistake in \"Friends with Money\"; if someone has a too-TV persona, they do not necessarily translate to film. That was one of the problems with FWM. Also the performances in this film were not preceded by the personalities. Heche is believable, amusing and sympathetic. Catherine Keener is quirky, interesting and multi-layered. Liev Schreiber is funny, a good friend and we want to see more of him. Please, Ms. Holofcener, for your next film use film actors, not people who had a high \"TV Q\" or were married to a film celebrity for a brief period. It makes a great deal of difference, and the finished product proves this to be so. 9/10",
+         "Hip, witty, likable precursor to Sex and the City. The film has a Woody Allen feel, but with a 90s feminist slant. Set in New York City, the camera follows the romantic trials and tribulations of its two lead females (in two exquisite performances from Keener and Heche). The dialog is bristling with insight and vigor unlike many films of that era that Hollywood mass produced as so -called romantic comedies. Yet this film is much more than a romantic comedy. Inspired by Woody Allen's more intimate and small-scale New York films, it adds its own voice to that tradition. This is definitely on of the better indie comedies of the 1990s, and stands the test of time even after the demise of Sex and the City.",
+         "Amelia (Catherine Keener) is a very needy person. Therefore, losing her childhood friend Laura (Anne Heche) as a roommate has been tough. Laura has moved in with her boyfriend and is on the verge of becoming engaged. That hurts, as Amelia has not had good luck with men. She is forever phoning her best friend, nevertheless, for advice and for support in coping with life's problems, from a sick cat to a former boyfriend/pornography addict (Liev Schreiber). Laura, a counselor, does her best to be available for Amelia, but wedding plans and minor tifts with her intended leave her with less free time than ever. Will Amelia learn to just stand on her own two feet, for goodness sake? This is a quietly thoughtful film about friendship and its boundaries. Keener is wonderful as the friend who relies on others to help her through life's ups and downs. Even the most cherished friendships need room to breathe and Amelia has to learn this the hard way. Heche is likewise very fine as the beautiful lady who appears to have it all but may, in fact, have some flaws, too. Todd Field is great as Laura's fiancé and Schrieber gives a nice turn as a commitment phobic, sexually obsessive addict. All of the production necessities, from costumes to sets to direction, are quite nice. Then, too, the script is quirky, funny and original as well. No, this is not a thrill-a-minute adventure, so those who eschew slower paced, dialogue-driven films will want to skip over this one. Yet, if you adore romantic dramas brimming with life, humor, and important statements, here is the film you've been looking for. Walk to the nearest video outlet and peruse the shelves until you grasp this little gem in your hands.",
+         "While an observation of New York neuroses hardly breaks new ground, the characters as drawn by writer/director Nicole Holofcener are interesting enough to keep us engrossed in this charming, sometimes moving comedy. A New York drama critic faulted Catherine Keener in a stage performance for not acting, but for being just herself. Keener is perhaps not the most versatile performer, but she's always compelling on screen and even just \"being herself\" is more than enough. Holofcener has a way with actors coaxing credible and funny performances from all. It's a very talky affair with not enough meat on it to make a lasting impression. But her talent is crystal clear. She's way above most other independent directors with an assured feel for dialog and formidable directing skills.",
+         "Terrific acting from a terrific cast, hilarious and clever dialog within a top script. Never a dull moment. The film avoids sliding from comedy into tedious sentimentality, and this is due to the fact that it's an independent film and not one of those Hollywood formula comedies that run out of jokes halfway, then hide behind clichéd boo-hoo-hoo crap. Only the last few minutes get a little schmaltzy, but not in any sort of irritating way. The film is more down-to-Earth than some other films of this kind; it avoids pretentiousness creeping into the dialog - the script's aim being to be humorous and not preachy. The only pity is that the film is rather short. Many funny scenes, a lot of which stem from a very original approach to humour; the biopsied-mole-gift \"incident\", Corrigan laughing about a cat having cancer, a patient who lies about his problems just to be interesting to Heche, Keener renting out pornos for her ex-boyfriend, Keener refusing to \"finance\" her ex-boyfriend's high long-distance sex-on-the-phone phone bills, Keener getting upset at Schreiber after he honestly answers her question about why they split up, Heche complaining to her fiancée that their sex-life is getting predictable (+ a detailed description of why it's so), Keener refusing to even consider the idea of an \"execution of my cat\" (very funny wording), or - one of my favourite moments - Heche's fiancé referring to hers and Keener's music as \"vagina music\" (i.e. the sort of 90s American-generation-X-girl-on-guitar, acoustic plinka-plonka, trite, oh-so \"deep\", and utterly uninspired and dull radio crap, practiced by such \"talents\" as Heather Nova, Lisa Loeb, Jewel, and the like).",
+         "There's not an unusual amount of walking in this flick, but it has all the talking you'd care for. So if movies that are in the 'thirtysomething' mold aren't to your liking, don't stop here. (The star, Catherine Keener, even looks like she'd fit in perfectly on that TV show.) On the other hand, if you like nothing better than a film that revolves around characters and their relationships, I don't think you'll go wrong giving this one a try. How you feel about the film will of course be determined by how much you care for the characters, and I found them likeable enough to give it a positive rating. Amelia (Keener) is the confused one here, who doesn't want any more than a platonic relationship with her longtime male friend, and can't figure out why she can't get a worthwhile relationship going with any other man. Her best friend from childhood is Laura (Anne Heche) who seems to have everything that either of them wants as far as a relationship goes. Laura is soon to be married, which doesn't help Amelia's frustration any. The movie doesn't ever get overly serious about things and stays enjoyable throughout. Keener is fine in her role and Heche seems to do well in every film she's in. This is a strong first-time effort by the writer/director, Nicole Holocener. I think she made the film she set out to do. It will be interesting to see if in the future she has anything more or different to say."
+      ],
+      "genres": [
+         "Drama",
+         "Comedy",
+         "Romance"
+      ],
+      "productionCompanies": [
+         "Channel Four Films",
+         "Electric",
+         "Good Machine"
+      ],
+      "summaries": ["Things have been tough lately for Amelia. Her best friend moved out of the apartment, her cat got cancer, and now her best friend, Laura, is getting married. She copes with things, from the help of Andrew, Frank, Laura, and a brief romance with Bill \"The Ugly Guy\""],
+      "budget": 1000000
+   },
+   "movielensId": 803,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1996-07-17",
+      "dvdReleaseDate": "2002-05-21",
+      "directors": ["Nicole Holofcener"],
+      "runtime": 86,
+      "movieId": 803,
+      "title": "Walking and Talking",
+      "mpaa": "R",
+      "actors": [
+         "Catherine Keener",
+         "Anne Heche",
+         "Liev Schreiber",
+         "Randall Batinkoff",
+         "Amy Braverman",
+         "Miranda Rhyne",
+         "Alice Drummond",
+         "Todd Field",
+         "Kevin Corrigan",
+         "Lynn Cohen"
+      ],
+      "imdbMovieId": "0118113",
+      "originalTitle": "Walking and Talking",
+      "genres": [
+         "Comedy",
+         "Drama",
+         "Romance"
+      ],
+      "youtubeTrailerIds": [],
+      "plotSummary": "Things have been tough lately for Amelia. Her best friend moved out of the apartment, her cat got cancer, and now her best friend, Laura, is getting married. She copes with things, from the help of Andrew, Frank, Laura, and a brief romance with Bill \"The Ugly Guy\".",
+      "tmdbMovieId": 49963,
+      "avgRating": 3.56601,
+      "releaseYear": "1996",
+      "numRatings": 606,
+      "posterPath": "/wUMMnbcqrNP1jIf64kDcJ6NtDJj.jpg"
+   }
+}

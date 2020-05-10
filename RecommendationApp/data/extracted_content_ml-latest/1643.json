@@ -1,0 +1,845 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "england",
+            "id": 392
+         },
+         {
+            "name": "assassination",
+            "id": 441
+         },
+         {
+            "name": "queen",
+            "id": 2011
+         },
+         {
+            "name": "prince",
+            "id": 3071
+         },
+         {
+            "name": "widow",
+            "id": 4129
+         },
+         {
+            "name": "victorian england",
+            "id": 8250
+         },
+         {
+            "name": "royalty",
+            "id": 9920
+         },
+         {
+            "name": "independent film",
+            "id": 10183
+         }
+      ],
+      "imdb_id": "tt0119280",
+      "video": false,
+      "title": "Mrs Brown",
+      "recommendations": [
+         11318,
+         11889,
+         38291,
+         10705,
+         24137,
+         18203,
+         46992,
+         15271,
+         48823,
+         12578,
+         49798,
+         480,
+         63848,
+         40214,
+         22256,
+         1404,
+         5332,
+         14066,
+         46435,
+         28571
+      ],
+      "backdrop_path": "/ik6eTGNyyeT6g4wkbikOMZOkckX.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Queen Victoria",
+               "gender": 1,
+               "credit_id": "52fe47359251416c7509159d",
+               "name": "Judi Dench",
+               "profile_path": "/2is9RvJ3BQAku2EtCmyk5EZoxzT.jpg",
+               "id": 5309,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "John Brown",
+               "gender": 0,
+               "credit_id": "52fe47359251416c750915a1",
+               "name": "Billy Connolly",
+               "profile_path": "/7e1rVdJah2r0DaMpovrhbR2dHPS.jpg",
+               "id": 9188,
+               "order": 1
+            },
+            {
+               "cast_id": 5,
+               "character": "Henry Ponsonby",
+               "gender": 2,
+               "credit_id": "52fe47359251416c750915b1",
+               "name": "Geoffrey Palmer",
+               "profile_path": "/6ouSoFGy8Rd9viyHmWHoEJfknFa.jpg",
+               "id": 10746,
+               "order": 2
+            },
+            {
+               "cast_id": 6,
+               "character": "Prime Minister Benjamin Disraeli",
+               "gender": 2,
+               "credit_id": "52fe47359251416c750915b5",
+               "name": "Antony Sher",
+               "profile_path": "/iUwfcgYzLK3HvF6UZkhWR4Q7MCF.jpg",
+               "id": 77637,
+               "order": 3
+            },
+            {
+               "cast_id": 7,
+               "character": "Archie Brown",
+               "gender": 2,
+               "credit_id": "52fe47359251416c750915b9",
+               "name": "Gerard Butler",
+               "profile_path": "/i54XoxYieuff2w6MwyfwVUBvmR0.jpg",
+               "id": 17276,
+               "order": 4
+            },
+            {
+               "cast_id": 8,
+               "character": "Doctor Jenner",
+               "gender": 2,
+               "credit_id": "52fe47359251416c750915bd",
+               "name": "Richard Pasco",
+               "profile_path": "/ztGPCGOzowLv23fA4r1HNSABZNP.jpg",
+               "id": 85628,
+               "order": 5
+            },
+            {
+               "cast_id": 9,
+               "character": "Prince of Wales (Bertie)",
+               "gender": 0,
+               "credit_id": "52fe47359251416c750915c1",
+               "name": "David Westhead",
+               "profile_path": null,
+               "id": 85629,
+               "order": 6
+            },
+            {
+               "cast_id": 10,
+               "character": "Lady Churchill",
+               "gender": 1,
+               "credit_id": "588fbcaec3a36860ac00c759",
+               "name": "Georgie Glen",
+               "profile_path": "/r2CVV42Lrv2N1n9ElP70ccQWTvO.jpg",
+               "id": 191752,
+               "order": 7
+            },
+            {
+               "cast_id": 11,
+               "character": "Princess Alexandra",
+               "gender": 1,
+               "credit_id": "588fbcbcc3a36860c400b8d9",
+               "name": "Sara Stewart",
+               "profile_path": "/mvaa151bfar3OnmnLfksHVEnbib.jpg",
+               "id": 3902,
+               "order": 8
+            },
+            {
+               "cast_id": 12,
+               "character": "Princess Helena",
+               "gender": 0,
+               "credit_id": "588fbcca92514101ad00cb2c",
+               "name": "Finty Williams",
+               "profile_path": null,
+               "id": 1231232,
+               "order": 9
+            },
+            {
+               "cast_id": 13,
+               "character": "Dean of Windsor",
+               "gender": 2,
+               "credit_id": "588fbcdf92514101a300cc75",
+               "name": "Oliver Ford Davies",
+               "profile_path": "/7fpNxQYZ85oRdnKWxPzQfURFkFT.jpg",
+               "id": 31923,
+               "order": 10
+            },
+            {
+               "cast_id": 14,
+               "character": "Society Lady",
+               "gender": 0,
+               "credit_id": "588fbced92514101a600d828",
+               "name": "Delia Lindsay",
+               "profile_path": null,
+               "id": 112468,
+               "order": 11
+            },
+            {
+               "cast_id": 15,
+               "character": "Lady Ely",
+               "gender": 0,
+               "credit_id": "5a03df86c3a3680fa7006f1b",
+               "name": "Bridget McConnell",
+               "profile_path": null,
+               "id": 1800611,
+               "order": 12
+            },
+            {
+               "cast_id": 16,
+               "character": "Princess Louise",
+               "gender": 0,
+               "credit_id": "5a03dfe8c3a3680f6c007a2c",
+               "name": "Claire Nicolson",
+               "profile_path": null,
+               "id": 1920175,
+               "order": 13
+            },
+            {
+               "cast_id": 17,
+               "character": "Princess Alice",
+               "gender": 0,
+               "credit_id": "5a03e02ac3a3680fa7007004",
+               "name": "Hattie Ladbury",
+               "profile_path": "/iijr3mgk4Tz6fxDrksmJwy2ndsC.jpg",
+               "id": 1805066,
+               "order": 14
+            },
+            {
+               "cast_id": 18,
+               "character": "Prince Alfred",
+               "gender": 0,
+               "credit_id": "5a03e052c3a3680f450070c5",
+               "name": "Oliver Kent",
+               "profile_path": null,
+               "id": 1221774,
+               "order": 15
+            },
+            {
+               "cast_id": 19,
+               "character": "Prince Arthur",
+               "gender": 0,
+               "credit_id": "5a03e09ec3a3680f4500712c",
+               "name": "Alex Menzies",
+               "profile_path": null,
+               "id": 1920176,
+               "order": 16
+            },
+            {
+               "cast_id": 20,
+               "character": "Prince Leopold",
+               "gender": 0,
+               "credit_id": "5a03e0c99251412e2300740c",
+               "name": "Simon McKerrell",
+               "profile_path": null,
+               "id": 1920178,
+               "order": 17
+            },
+            {
+               "cast_id": 21,
+               "character": "Mr. Grant",
+               "gender": 2,
+               "credit_id": "5a03e13bc3a3680f94006ea7",
+               "name": "Jimmy Chisholm",
+               "profile_path": "/bFisOc0SWt2LQyDMo6yrbrs8YTc.jpg",
+               "id": 1231412,
+               "order": 18
+            },
+            {
+               "cast_id": 22,
+               "character": "Mrs. Grant",
+               "gender": 0,
+               "credit_id": "5a03e1dcc3a3680f6c007da6",
+               "name": "Elaine Collins",
+               "profile_path": null,
+               "id": 1391065,
+               "order": 19
+            },
+            {
+               "cast_id": 23,
+               "character": "Lord Stanley",
+               "gender": 2,
+               "credit_id": "5a03e202c3a3680fc1006e69",
+               "name": "Jason Morell",
+               "profile_path": null,
+               "id": 1093409,
+               "order": 20
+            },
+            {
+               "cast_id": 24,
+               "character": "Mary Ann Disraeli",
+               "gender": 1,
+               "credit_id": "5a03e2739251412e23007745",
+               "name": "Cherith Mellor",
+               "profile_path": null,
+               "id": 1562466,
+               "order": 21
+            },
+            {
+               "cast_id": 25,
+               "character": "Sir Charles Dilke",
+               "gender": 0,
+               "credit_id": "5a03e3819251412e0d007a45",
+               "name": "James Vaughan",
+               "profile_path": null,
+               "id": 29073,
+               "order": 22
+            },
+            {
+               "cast_id": 26,
+               "character": "Barney",
+               "gender": 0,
+               "credit_id": "5a03e3af9251412dc1007ab6",
+               "name": "Brendan O'Hea",
+               "profile_path": "/8Hs59nNaEPP2a23eWsgS9rfheLJ.jpg",
+               "id": 1529894,
+               "order": 23
+            },
+            {
+               "cast_id": 27,
+               "character": "Lady-in-Waiting",
+               "gender": 0,
+               "credit_id": "5a03e3d59251412e28007753",
+               "name": "Catherine O'Donnell",
+               "profile_path": null,
+               "id": 1920182,
+               "order": 24
+            },
+            {
+               "cast_id": 28,
+               "character": "Bertie's Valet",
+               "gender": 0,
+               "credit_id": "5a03e420c3a3680f7d0085bd",
+               "name": "Rupert Farley",
+               "profile_path": "/afFyfVpobXSGAJ6g3F21PyawuEZ.jpg",
+               "id": 1214452,
+               "order": 25
+            },
+            {
+               "cast_id": 29,
+               "character": "Assistant Dresser",
+               "gender": 0,
+               "credit_id": "5a03e47bc3a3680f6c0082a2",
+               "name": "Rebecca Charles",
+               "profile_path": null,
+               "id": 1920184,
+               "order": 26
+            },
+            {
+               "cast_id": 30,
+               "character": "Speaker of the House",
+               "gender": 2,
+               "credit_id": "5a03e4dbc3a3680fc1007393",
+               "name": "George Hall",
+               "profile_path": null,
+               "id": 1219442,
+               "order": 27
+            },
+            {
+               "cast_id": 31,
+               "character": "Commons Counter",
+               "gender": 0,
+               "credit_id": "5a03e556c3a3680fa7007928",
+               "name": "Robin Marchal",
+               "profile_path": null,
+               "id": 1920195,
+               "order": 28
+            },
+            {
+               "cast_id": 32,
+               "character": "Footman",
+               "gender": 0,
+               "credit_id": "5a03e59ec3a3680fa70079d4",
+               "name": "Theo Fraser Steele",
+               "profile_path": null,
+               "id": 1920196,
+               "order": 29
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "52fe47359251416c750915a7",
+               "name": "John Madden",
+               "profile_path": "/8HPERxuUmp44PJcwbweQfICo149.jpg",
+               "id": 18844,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47359251416c750915ad",
+               "name": "Jeremy Brock",
+               "profile_path": null,
+               "id": 35005,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5a03e5d49251412de2006fb3",
+               "name": "Sarah Curtis",
+               "profile_path": null,
+               "id": 53358,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a03e5fbc3a3680fa7007a9a",
+               "name": "Stephen Warbeck",
+               "profile_path": null,
+               "id": 469,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a03e6259251412df8007d24",
+               "name": "Richard Greatrex",
+               "profile_path": null,
+               "id": 20065,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a03e650c3a3680fd4007530",
+               "name": "Robin Sales",
+               "profile_path": null,
+               "id": 17254,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5a03e6729251412dc100808c",
+               "name": "Michelle Guish",
+               "profile_path": null,
+               "id": 5489,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a03e69fc3a3680fd40075e8",
+               "name": "Martin Childs",
+               "profile_path": null,
+               "id": 11456,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5a03e707c3a3680fd40076af",
+               "name": "Charlotte Watts",
+               "profile_path": null,
+               "id": 1024844,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5a03e74b9251412dc5008466",
+               "name": "Deirdre Clancy",
+               "profile_path": null,
+               "id": 63603,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a03e7ad9251412e28007fa0",
+               "name": "Beverley Binda",
+               "profile_path": null,
+               "id": 1403576,
+               "department": "Costume & Make-Up",
+               "job": "Key Hair Stylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a03e7d19251412e23008298",
+               "name": "Veronica McAleer",
+               "profile_path": null,
+               "id": 29233,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a03e807c3a3680f7d008e00",
+               "name": "Lisa Westcott",
+               "profile_path": null,
+               "id": 999556,
+               "department": "Costume & Make-Up",
+               "job": "Hair Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a03e8279251412e2800807c",
+               "name": "Lisa Westcott",
+               "profile_path": null,
+               "id": 999556,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a03e84cc3a3680f94007c0a",
+               "name": "Hilary Benson",
+               "profile_path": null,
+               "id": 1240523,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a03e86dc3a3680fa7007fd1",
+               "name": "Deborah Saban",
+               "profile_path": null,
+               "id": 1746698,
+               "department": "Directing",
+               "job": "First Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a03e89ec3a3680f4500807c",
+               "name": "Raymond Perry",
+               "profile_path": null,
+               "id": 1336517,
+               "department": "Art",
+               "job": "Property Master"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a03e96cc3a3680f450081eb",
+               "name": "John Downer",
+               "profile_path": null,
+               "id": 1592343,
+               "department": "Sound",
+               "job": "Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a03e97c9251412e23008554",
+               "name": "Sarah Morton",
+               "profile_path": null,
+               "id": 1920208,
+               "department": "Sound",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a03e9b7c3a3680f6c008e8d",
+               "name": "Tony Harding",
+               "profile_path": null,
+               "id": 999570,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a03e9d9c3a3680fc1007d99",
+               "name": "Tony Haslam",
+               "profile_path": null,
+               "id": 1920210,
+               "department": "Lighting",
+               "job": "Gaffer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a03ea0dc3a3680fa70082c0",
+               "name": "Alastair Rae",
+               "profile_path": null,
+               "id": 1413035,
+               "department": "Camera",
+               "job": "Steadicam Operator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a03ea3ec3a3680f6c008fb5",
+               "name": "Mark Tillie",
+               "profile_path": null,
+               "id": 1567673,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a03ea639251412e0d008769",
+               "name": "Ros Ward",
+               "profile_path": null,
+               "id": 1920215,
+               "department": "Costume & Make-Up",
+               "job": "Wardrobe Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a03ea829251412df800850d",
+               "name": "Lee Clayton",
+               "profile_path": null,
+               "id": 1738171,
+               "department": "Costume & Make-Up",
+               "job": "Tailor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a03eadc9251412dc5008b15",
+               "name": "Jonathan Sales",
+               "profile_path": null,
+               "id": 1920217,
+               "department": "Editing",
+               "job": "Assistant Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a03eb019251412e0d008879",
+               "name": "Roland Caine",
+               "profile_path": null,
+               "id": 1920218,
+               "department": "Production",
+               "job": "Location Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a03eb7e9251412e0d00895b",
+               "name": "Claire Tovey",
+               "profile_path": null,
+               "id": 1404870,
+               "department": "Production",
+               "job": "Location Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a03ebb8c3a3680fd4007eeb",
+               "name": "Nick Ingman",
+               "profile_path": null,
+               "id": 1740563,
+               "department": "Sound",
+               "job": "Conductor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a03ebe69251412dc5008cd1",
+               "name": "Kim Armitage",
+               "profile_path": null,
+               "id": 1421663,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a03ec27c3a3680fe7008413",
+               "name": "Penny Madden",
+               "profile_path": null,
+               "id": 1920220,
+               "department": "Art",
+               "job": "Title Designer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "History",
+            "id": 36
+         },
+         {
+            "name": "Romance",
+            "id": 10749
+         }
+      ],
+      "popularity": 8.478927,
+      "production_countries": [
+         {
+            "iso_3166_1": "IE",
+            "name": "Ireland"
+         },
+         {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+         },
+         {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+         }
+      ],
+      "id": 17589,
+      "vote_count": 57,
+      "budget": 0,
+      "overview": "Queen Victoria is deeply depressed after the death of her husband, disappearing from public. Her servant Brown, who adores her, through caress and admiration brings her back to life, but that relationship creates scandalous situation and is likely to lead to monarchy crisis.",
+      "similar": [
+         150689,
+         2270,
+         10882,
+         186,
+         691,
+         77949,
+         10144,
+         298312,
+         646,
+         657,
+         667,
+         708,
+         809,
+         810,
+         2142,
+         11370,
+         12184,
+         3134,
+         20036,
+         267935
+      ],
+      "original_title": "Mrs Brown",
+      "runtime": 105,
+      "poster_path": "/3XeSsWhorN1KncOKnWThGx4nyV3.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": "/sNhxHhbyJ0xo52nr9xI2cJKkWFO.png",
+            "name": "Miramax Films",
+            "id": 14,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "WGBH",
+            "id": 3449,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "BBC Scotland",
+            "id": 3712,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Mobile Masterpiece Theatre",
+            "id": 3713,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1997-07-18",
+      "vote_average": 6.7,
+      "belongs_to_collection": null,
+      "tagline": "Loyalty without question. Friendship without equal.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "UK",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["John Madden"],
+      "runtime": 105,
+      "synopsis": null,
+      "writers": ["Jeremy Brock"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0119280/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTYxMzkwMDc5M15BMl5BanBnXkFtZTcwNzM3NDkxMQ@@._V1_SY317_CR4,0,214,317_AL_.jpg",
+      "actors": ["Stars: Judi Dench, Billy Connolly, Geoffrey Palmer | See full cast and crew »"],
+      "reviews": [
+         "This is a phenomenal movie, but I am rather peeved at the way it has been marketed. When I rented the movie, the blurb on the box luridly touted the \"forbidden passion between a rugged Scotsman and the most powerful woman in the world.\" Other marketing of the film is similar. That's not what the movie is about at all!! It is a very sad commentary on our society if a moving drama about terrible grief being assuaged through loyal friendship cannot be accepted for what it is. Is the American public really that shallow? I don't know whether to blame movie execs for dumbing down the presentation of their product to titillate the lowest common denominator, or the American public for maybe actually being that way. Diatribes aside, Dench and Connolly are phenomenal. Victoria and Brown are complex characters with conflicting emotions, and one almost feels able to look upon their souls in this portrayal. Antony Sher was delightful as the orator/politician Benjamin Disraeli, at the same time both wise and gently pompous. The makeup job was so good that I actually recognized him as Disraeli before his name was mentioned. If you are disappointed because this is not a puerile romance, shame on you. These are real people with real emotions. This moving story of grief and friendship is definitely one of the best of the year.",
+         "This film is a fantastic love story. You'll note that I didn't say \"sex story,\" because there is absolutely no sex in this film. And yet most people equate \"love story\" with sex, or at least a beautifully shot kiss at the end, complete with a cheesy song penned by Brian Adams. This, my friends, is a love story with a difference. It is the story of a servant's love for his queen; it is the story of a woman's love for the man who has given her life meaning; it is a story of two best friends, who ignore social circumstances and care deeply for one another. The story is nearly flawless, combining the historical situation and circumstances with intense and riveting emotion. The acting is outstanding. Both of the central actors convey exactly what their character is feeling, even if no words are spoken. Billy Connolly lets John Brown's humanity shine through his rough exterior, and he has a naturalness that is quite inspired. And Dame Judi Dench gives a masterful performance, worthy of the Oscar (like that's never been said before). Her portrayal of a queen tortured by her feelings and her position in society is the best of the year by any actor, male or female. Hands down the best British film of the year. 9/10.",
+         "Undoubtedly this film appeals to so very many because of the fine acting, the tenderness of a story about how a man comforts a great human being in her grief, the wit, and the careful re-creation of a period of history. For me personally, however, there was another appealing element - the highlighting of the differences between English and Scottish culture. This seems so often to be brought out very wittily by Sher's Disraeli - in his references to his suffering because of the weather and Scottish food, to this land of Calvin and Knox, and in his barbed comments to English churchmen that Her Majesty is actually becoming interested in Low Church Presbyterianism. It is because I can identify with such traits of character and belief from an Ulster Scot ancestry and because I often see others' failure to understand or appreciate those traits that the film has a degree of personal resonance.",
+         "Absolutely brilliant film. No question, we all seem to agree that Dench deserved the Oscar (ok, Hunt was cute in AGAIG but a long way from 'Best'), Connolly is surprisingly good in this very dramatic role (I'm not exactly a huge fan of his comedic work), and Sher was very clever as Disraeli. All in all, a sterling performance by a wonderful cast. But this movie is just a little bit more that just great acting, it is also a moving story of the burdens of office, the mores of Victorian society, the anguish of the death of a loved one, and the blessing of true friendship. This is a very good movie. Don't expect sex, violence or swearing, but if you're looking for a quality film, this could be for you. 8/10",
+         "This movie is a treasure. Judi Dench deserved an Oscar for her work. If I ever see her on the street, I will apologize for the stupidity of the Academy. Billy Connolly was terrific also and deserved his own nomination. This movie is magnificent; one of the best I've seen in a long time. Even if you think this kind of thing is too Masterpiece Theatre, I think you would enjoy this.",
+         "MRS. BROWN as written by Jeremy Brock and directed by John Madden (Proof, Shakespeare in Love, Captain Corelli's Mandolin) is a sprightly, entertaining and engrossing study of a moment in the life of enigmatic Queen Victoria. Selecting an outstanding production crew and a fine cast this film succeeds on every level and once again proves to us that Judi Dench is one of the finest actresses on the stage or screen today. The story revolves around the time when Queen Victoria's beloved husband Prince Albert dies resulting in a clinical depression in the queen. She leaves London with her entourage to grieve at Balmoral Castle. There her Scottish Highlander servant John Brown (Billy Connolly) nurses her back to normalcy but in the meanwhile sets up the appearance of an affair that scandalized the British Isles. Disraeli (Antony Sher) visits in an attempt to right the situation but it is Brown's strong personality - an equal match for the wise and wily Victoria - that alters the course of events that returns Queen Victoria to her proper station. Dench and Connolly play so well off each other that their relationship has a wealth of charm, tenderness, bite, wit, and solidity. The supporting cast includes a fine turn by Gerard Butler as Archie Brown, John's supportive and playful brother. The costumes are superb and the cinematography by Richard Greatrex captures the atmosphere of the cloying indoor spaces as well as the freedom of the vast coastline vistas. Stephen Warbeck is responsible for the well-integrated musical score. Highly recommended. Grady Harp",
+         "Mrs Brown is a good movie with a good storyline ,excellent performances by Bill Conolly ,Judi Dench and Antony Sher. Antony Sher(Prime Minister Benjamin Disraeli)adds some humor to the the movie .It was a delight visiting the beautiful Scottish Highlands thanks to some marvelous photography and a very good recreation of the Victorian age. The real show stealer I felt was Bill Conolly(John Brown).He is portrayed as a loyal,charismatic,fun loving Scottish highlander who can dare to defy the Queen's orders .The scenes involving Victoria and Brown are electrifying.It surprises me that a talented actor like Bill Connoly Does not get many good roles.I would definitely love to see more of this talented actor.",
+         "\"Mrs. Brown\" tells the story of the grieving widow Queen Victoria (Dench) and her relationship with a common Scottish horse groomsman (Connolly) whose audacity and devotion won him a position as the queen's closest consort and her everlasting affection. A wonderfully executed period piece (circa 1860's), \"Mrs. Brown\" leans toward fact and avoids sensationalism as it tenders its biographically correct drama about a grieving queen who finds an unspoken love and renewed commitment to life in a most unlikely man. Anyone into British period flicks should enjoy this film's sterling performances, excellent costuming, beautiful locations, etc. (B+)",
+         "Mrs Brown is an enthralling piece of work wonderfully crafted by Judy Dench and Billy Connolly. The story is about queen Victoria and the relationship with Mr Brown after the death of her husband. Connolly is superb and maybe should think about sticking to straight acting more often instead of comedy. Although the film tends to tail of a little in the last half hour it is still worth seeing. 7 out of 10",
+         "This is not, as one might think, a romantic film about a queen who falls in love with a subject -- although that's technically its story, and although it seems to aspire to the category of romantic, bittersweet drama. For that it's too harsh and cold, and my experience is that women in particular will be disappointed that at no point in the film will the central characters \"succumb to their yearnings\". True, this is an epic, sweeping, costume drama, but it's one that stays so true in its wish to portray history and reality correctly, that the grand love scenes are ruled out by its no-compromise attitude. Beyond that (it's by no means a criticism), Mrs. Brown is a touching, very entertaining, extremely well acted drama. Unlike many other films set in this era, the sets aren't overdone, and the people are portrayed (as I imagine it) realistically. Despite its focus on realism, it comes off as an extremely emotional (much thanks to Billy Connolly's performance) story about personal and political conflicts. Finally, I believe the political angle of the film will confuse some people who won't understand the issues at stake (this is how my girlfriend reacted -- she couldn't follow much of the narrative in the last hour or so); but those who do will be thrilled."
+      ],
+      "genres": [
+         "Biography",
+         "Drama",
+         "History",
+         "Romance"
+      ],
+      "productionCompanies": [
+         "BBC Scotland",
+         "Ecosse Films",
+         "Irish Screen"
+      ],
+      "summaries": [
+         "Queen Victoria is deeply depressed after the death of her husband, disappearing from public. Her servant Brown, who adores her, through caress and admiration brings her back to life, but that relationship creates scandalous situation and is likely to lead to monarchy crisis.",
+         "While on an extended stay at Balmoral Castle and still in mourning over the death of her beloved Prince Albert, Queen Victoria meets Mr. Brown, a member of her household staff who thinks the time has come for her to start living a normal life. He soon gains the Queen's favor and friendship and his authority and status in the household are soon on the rise. This creates concerns among the Queen's many advisers who see their own influence diminishing and the Queen's reputation being tarnished. As a result, they move to ensure Mr. Brown's future influence in the household is kept in check."
+      ],
+      "budget": 0
+   },
+   "movielensId": 1643,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1997-07-18",
+      "dvdReleaseDate": "1999-06-15",
+      "directors": ["John Madden"],
+      "runtime": 105,
+      "movieId": 1643,
+      "title": "Mrs Brown",
+      "mpaa": "",
+      "actors": [
+         "Judi Dench",
+         "Billy Connolly",
+         "Geoffrey Palmer",
+         "Antony Sher",
+         "Gerard Butler",
+         "Richard Pasco",
+         "David Westhead",
+         "Georgie Glen",
+         "Sara Stewart",
+         "Finty Williams",
+         "Oliver Ford Davies",
+         "Delia Lindsay",
+         "Bridget McConnell",
+         "Claire Nicolson",
+         "Hattie Ladbury",
+         "Oliver Kent",
+         "Alex Menzies",
+         "Simon McKerrell",
+         "Jimmy Chisholm",
+         "Elaine Collins",
+         "Jason Morell",
+         "Cherith Mellor",
+         "James Vaughan",
+         "Brendan O'Hea",
+         "Catherine O'Donnell",
+         "Rupert Farley",
+         "Rebecca Charles",
+         "George Hall",
+         "Robin Marchal",
+         "Theo Fraser Steele"
+      ],
+      "imdbMovieId": "0119280",
+      "originalTitle": "Mrs Brown",
+      "genres": [
+         "Drama",
+         "History",
+         "Romance"
+      ],
+      "youtubeTrailerIds": ["DsnOyuU2o6A"],
+      "plotSummary": "Queen Victoria is deeply depressed after the death of her husband, disappearing from public. Her servant Brown, who adores her, through caress and admiration brings her back to life, but that relationship creates scandalous situation and is likely to lead to monarchy crisis.",
+      "tmdbMovieId": 17589,
+      "avgRating": 3.85969,
+      "releaseYear": "1997",
+      "numRatings": 2883,
+      "posterPath": "/3XeSsWhorN1KncOKnWThGx4nyV3.jpg"
+   }
+}

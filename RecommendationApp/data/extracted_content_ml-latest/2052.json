@@ -1,0 +1,700 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "witch",
+            "id": 616
+         },
+         {
+            "name": "halloween",
+            "id": 3335
+         },
+         {
+            "name": "salem",
+            "id": 33795
+         },
+         {
+            "name": "trick or treating",
+            "id": 180193
+         },
+         {
+            "name": "spellcasting",
+            "id": 180194
+         }
+      ],
+      "imdb_id": "tt0107120",
+      "video": false,
+      "title": "Hocus Pocus",
+      "recommendations": [
+         10166,
+         2758,
+         11395,
+         2907,
+         10402,
+         6435,
+         10603,
+         11852,
+         9100,
+         10756,
+         10830,
+         11674,
+         11003,
+         10330,
+         11359,
+         9678,
+         6878,
+         2925,
+         9354,
+         9820
+      ],
+      "backdrop_path": "/tFNHw6u2UQ3jW1xuciD0mQmcLZn.jpg",
+      "revenue": 39514713,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Winifred 'Winnie' Sanderson",
+               "gender": 1,
+               "credit_id": "52fe43719251416c75010891",
+               "name": "Bette Midler",
+               "profile_path": "/ylGKhmHKUa1fBvvbA0kvdn3eFNn.jpg",
+               "id": 73931,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Sarah Sanderson",
+               "gender": 1,
+               "credit_id": "52fe43719251416c75010895",
+               "name": "Sarah Jessica Parker",
+               "profile_path": "/chjO3dDzkT7UzAZk1AGjXdbezyg.jpg",
+               "id": 520,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Mary Sanderson",
+               "gender": 1,
+               "credit_id": "52fe43719251416c75010899",
+               "name": "Kathy Najimy",
+               "profile_path": "/eFFh5QU9ErNKls7WfyG8VHEc2MY.jpg",
+               "id": 11074,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Max Dennison",
+               "gender": 2,
+               "credit_id": "52fe43719251416c7501089d",
+               "name": "Omri Katz",
+               "profile_path": "/3Bci7H4Lmz4pCSeilKj8kZsSN3O.jpg",
+               "id": 65309,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Dani",
+               "gender": 1,
+               "credit_id": "52fe43719251416c750108a1",
+               "name": "Thora Birch",
+               "profile_path": "/jxtp9prkQgFmj0ZRvi1kcnnqaWb.jpg",
+               "id": 2155,
+               "order": 4
+            },
+            {
+               "cast_id": 16,
+               "character": "Allison",
+               "gender": 1,
+               "credit_id": "52fe43719251416c750108e1",
+               "name": "Vinessa Shaw",
+               "profile_path": "/jMEm0tSVH3ZSqj5iXrHUhz9oLpu.jpg",
+               "id": 5025,
+               "order": 5
+            },
+            {
+               "cast_id": 17,
+               "character": "Emily Binx",
+               "gender": 0,
+               "credit_id": "52fe43719251416c750108e5",
+               "name": "Jodie Rivera",
+               "profile_path": null,
+               "id": 1106749,
+               "order": 6
+            },
+            {
+               "cast_id": 46,
+               "character": "Thackery Binx (voice)",
+               "gender": 2,
+               "credit_id": "5452fae2c3a368147300020d",
+               "name": "Jason Marsden",
+               "profile_path": "/qlZvyg48eUGth7pzU5UDi3CfdDR.jpg",
+               "id": 61983,
+               "order": 7
+            },
+            {
+               "cast_id": 18,
+               "character": "Ernie / 'Ice'",
+               "gender": 2,
+               "credit_id": "52fe43719251416c750108e9",
+               "name": "Larry Bagby",
+               "profile_path": "/zBXOdQkskwkYCK34RnVKTVaI8DR.jpg",
+               "id": 426,
+               "order": 8
+            },
+            {
+               "cast_id": 19,
+               "character": "Jay",
+               "gender": 2,
+               "credit_id": "52fe43719251416c750108ed",
+               "name": "Tobias Jelinek",
+               "profile_path": "/43Aq5kqJ3whJC5vfeWswHjFEgcn.jpg",
+               "id": 951643,
+               "order": 9
+            },
+            {
+               "cast_id": 20,
+               "character": "Jenny Dennison",
+               "gender": 1,
+               "credit_id": "52fe43719251416c750108f1",
+               "name": "Stephanie Faracy",
+               "profile_path": "/72mufI3ssuM1h1Cm7pX3kGapzXo.jpg",
+               "id": 14105,
+               "order": 10
+            },
+            {
+               "cast_id": 21,
+               "character": "Dave Dennison",
+               "gender": 2,
+               "credit_id": "52fe43719251416c750108f5",
+               "name": "Charles Rocket",
+               "profile_path": "/9UJTYqaPaYNPuVTjGd0Cr4XVNqe.jpg",
+               "id": 7867,
+               "order": 11
+            },
+            {
+               "cast_id": 22,
+               "character": "Billy Butcherson",
+               "gender": 2,
+               "credit_id": "52fe43719251416c750108f9",
+               "name": "Doug Jones",
+               "profile_path": "/rpvvWATYWHGjedJea0G97XufOwU.jpg",
+               "id": 17005,
+               "order": 12
+            },
+            {
+               "cast_id": 41,
+               "character": "Headless Billy Butcherson",
+               "gender": 0,
+               "credit_id": "52fe43719251416c75010949",
+               "name": "Karyn Malchus",
+               "profile_path": null,
+               "id": 1210516,
+               "order": 13
+            },
+            {
+               "cast_id": 45,
+               "character": "Thackery",
+               "gender": 2,
+               "credit_id": "52fe43719251416c75010955",
+               "name": "Sean Murray",
+               "profile_path": "/nRkJoWGHTDp45vbJ61yJdOwGH7u.jpg",
+               "id": 1230381,
+               "order": 14
+            },
+            {
+               "cast_id": 42,
+               "character": "Elijah",
+               "gender": 0,
+               "credit_id": "52fe43719251416c7501094d",
+               "name": "Steve Voboril",
+               "profile_path": null,
+               "id": 1210517,
+               "order": 15
+            },
+            {
+               "cast_id": 23,
+               "character": "Thackery's Father",
+               "gender": 2,
+               "credit_id": "52fe43719251416c750108fd",
+               "name": "Norbert Weisser",
+               "profile_path": "/peOhXratQ7tp716MfQNjqUTruzr.jpg",
+               "id": 6701,
+               "order": 16
+            },
+            {
+               "cast_id": 26,
+               "character": "Miss Olin",
+               "gender": 1,
+               "credit_id": "52fe43719251416c7501090d",
+               "name": "Kathleen Freeman",
+               "profile_path": "/wdNFoCWk58bgTRxoqPV8uN9UoGO.jpg",
+               "id": 7210,
+               "order": 17
+            },
+            {
+               "cast_id": 27,
+               "character": "Fireman #1",
+               "gender": 0,
+               "credit_id": "52fe43719251416c75010911",
+               "name": "D.A. Pauley",
+               "profile_path": null,
+               "id": 4211,
+               "order": 18
+            },
+            {
+               "cast_id": 28,
+               "character": "Fireman #2",
+               "gender": 0,
+               "credit_id": "52fe43719251416c75010915",
+               "name": "Ezra Sutton",
+               "profile_path": null,
+               "id": 1210503,
+               "order": 19
+            },
+            {
+               "cast_id": 29,
+               "character": "Bus Driver",
+               "gender": 2,
+               "credit_id": "52fe43719251416c75010919",
+               "name": "Don Yesso",
+               "profile_path": "/fDlrRMBZbqIRzUgQWboZTbqNDux.jpg",
+               "id": 172734,
+               "order": 20
+            },
+            {
+               "cast_id": 44,
+               "character": "Cop",
+               "gender": 2,
+               "credit_id": "52fe43719251416c75010951",
+               "name": "Michael McGrady",
+               "profile_path": "/s8P82DWDBLyg1iMedzWdWHfD20v.jpg",
+               "id": 157015,
+               "order": 21
+            },
+            {
+               "cast_id": 30,
+               "character": "Cop's Girlfriend",
+               "gender": 0,
+               "credit_id": "52fe43719251416c7501091d",
+               "name": "Leigh Hamilton",
+               "profile_path": null,
+               "id": 167379,
+               "order": 22
+            },
+            {
+               "cast_id": 31,
+               "character": "Little Girl 'Neat Broom'",
+               "gender": 0,
+               "credit_id": "52fe43719251416c75010921",
+               "name": "Devon Reeves",
+               "profile_path": null,
+               "id": 156960,
+               "order": 23
+            },
+            {
+               "cast_id": 32,
+               "character": "Singer",
+               "gender": 2,
+               "credit_id": "52fe43719251416c75010925",
+               "name": "Joseph Malone",
+               "profile_path": null,
+               "id": 170211,
+               "order": 24
+            },
+            {
+               "cast_id": 33,
+               "character": "Little Angel",
+               "gender": 0,
+               "credit_id": "52fe43719251416c75010929",
+               "name": "Jordan Redmond",
+               "profile_path": null,
+               "id": 1210513,
+               "order": 25
+            },
+            {
+               "cast_id": 34,
+               "character": "Lobster Man",
+               "gender": 0,
+               "credit_id": "52fe43719251416c7501092d",
+               "name": "Frank Del Boccio",
+               "profile_path": null,
+               "id": 1210514,
+               "order": 26
+            },
+            {
+               "cast_id": 35,
+               "character": "Boy in Class",
+               "gender": 0,
+               "credit_id": "52fe43719251416c75010931",
+               "name": "Jeff Neubauer",
+               "profile_path": null,
+               "id": 1210515,
+               "order": 27
+            },
+            {
+               "cast_id": 36,
+               "character": "Calamity Jane",
+               "gender": 0,
+               "credit_id": "52fe43719251416c75010935",
+               "name": "Teda Bracci",
+               "profile_path": null,
+               "id": 89569,
+               "order": 28
+            },
+            {
+               "cast_id": 37,
+               "character": "Dancer",
+               "gender": 1,
+               "credit_id": "52fe43719251416c75010939",
+               "name": "Peggy Holmes",
+               "profile_path": null,
+               "id": 80672,
+               "order": 29
+            },
+            {
+               "cast_id": 39,
+               "character": "Devil (Husband) (uncredited)",
+               "gender": 2,
+               "credit_id": "52fe43719251416c75010941",
+               "name": "Garry Marshall",
+               "profile_path": "/kx77E8p5rnEmKxIhFT0qWCEMEik.jpg",
+               "id": 1201,
+               "order": 31
+            },
+            {
+               "cast_id": 40,
+               "character": "The Master's Wife (uncredited)",
+               "gender": 1,
+               "credit_id": "52fe43719251416c75010945",
+               "name": "Penny Marshall",
+               "profile_path": "/uNL3L08uZWuRJF542IAUR0VNXfz.jpg",
+               "id": 14911,
+               "order": 32
+            },
+            {
+               "cast_id": 48,
+               "character": "Additional Dialogue Replacement (voice)",
+               "gender": 1,
+               "credit_id": "59f54b0e9251414d57025445",
+               "name": "Sherry Lynn",
+               "profile_path": "/kQDSC2z7sb6S5HcpOH6cmeJokKE.jpg",
+               "id": 214701,
+               "order": 33
+            },
+            {
+               "cast_id": 49,
+               "character": "Additional Dialogue Replacement (voice)",
+               "gender": 0,
+               "credit_id": "5aaf53de92514116c3030524",
+               "name": "Mickie McGowan",
+               "profile_path": "/k7TjJBfINsg8vLQxJwos6XObAD6.jpg",
+               "id": 84493,
+               "order": 34
+            },
+            {
+               "cast_id": 50,
+               "character": "Additional Dialogue Replacement (voice)",
+               "gender": 1,
+               "credit_id": "5ab86636c3a36817cf004c58",
+               "name": "Debi Derryberry",
+               "profile_path": "/mfmF3MjoL7sV76BSElFkVgDgA30.jpg",
+               "id": 73016,
+               "order": 35
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe43719251416c750108a7",
+               "name": "Kenny Ortega",
+               "profile_path": "/cZrsOBr1tp1nNPJ5xj3uao2XQbJ.jpg",
+               "id": 65310,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43719251416c750108ad",
+               "name": "Mick Garris",
+               "profile_path": "/g7NQv3FBJaQaXTVHDydqaDADir6.jpg",
+               "id": 61824,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43719251416c750108b3",
+               "name": "Neil Cuthbert",
+               "profile_path": null,
+               "id": 59648,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43719251416c750108b9",
+               "name": "Steven Haft",
+               "profile_path": null,
+               "id": 2706,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43719251416c750108bf",
+               "name": "David Kirschner",
+               "profile_path": null,
+               "id": 13596,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe43719251416c750108c5",
+               "name": "Ralph Winter",
+               "profile_path": "/gNkcdQLpzV8C27bAc2vlLAiaeKx.jpg",
+               "id": 2095,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43719251416c750108cb",
+               "name": "John Debney",
+               "profile_path": "/hTrlvZlDXQk49nfc2BM9sjKfJv.jpg",
+               "id": 4500,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43719251416c750108d1",
+               "name": "Hiro Narita",
+               "profile_path": null,
+               "id": 2116,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43719251416c750108d7",
+               "name": "Peter E. Berger",
+               "profile_path": null,
+               "id": 2033,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe43719251416c750108dd",
+               "name": "Nancy Patton",
+               "profile_path": null,
+               "id": 13587,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43719251416c75010903",
+               "name": "David Kirschner",
+               "profile_path": null,
+               "id": 13596,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43719251416c75010909",
+               "name": "Mick Garris",
+               "profile_path": "/g7NQv3FBJaQaXTVHDydqaDADir6.jpg",
+               "id": 61824,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56a2d2eb9251417214000ffa",
+               "name": "Ray Fisher",
+               "profile_path": null,
+               "id": 1393558,
+               "department": "Art",
+               "job": "Set Decoration"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Family",
+            "id": 10751
+         },
+         {
+            "name": "Fantasy",
+            "id": 14
+         }
+      ],
+      "popularity": 7.829352,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 10439,
+      "vote_count": 650,
+      "budget": 28000000,
+      "overview": "After 300 years of slumber, three sister witches are accidentally resurrected in Salem on Halloween night, and it us up to three kids and their newfound feline friend to put an end to the witches' reign of terror once and for all.",
+      "similar": [
+         671,
+         60304,
+         767,
+         16859,
+         672,
+         675,
+         4935,
+         9479,
+         58,
+         522,
+         411,
+         27022,
+         37430,
+         587,
+         492,
+         2270,
+         5,
+         76492,
+         274854,
+         159824
+      ],
+      "original_title": "Hocus Pocus",
+      "runtime": 96,
+      "poster_path": "/4boIuVTbEYv9pynSj99jK5EezfA.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": "/4MbjW4f9bu6LvlDmyIvfyuT3boj.png",
+         "name": "Walt Disney Pictures",
+         "id": 2,
+         "origin_country": "US"
+      }],
+      "release_date": "1993-07-16",
+      "vote_average": 6.5,
+      "belongs_to_collection": null,
+      "tagline": "It's just a bunch of Hocus Pocus.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Kenny Ortega"],
+      "runtime": 96,
+      "synopsis": "Hocus Pocus begins in a small town in 1693, were a teenager named Thackery Binx realises his little sister, Emily, has fled into the woods, under the control of a witch. Thackery urges his friend Elijah to hurry back to the village and alert the elders. He then rushes after Emily, and eventually finds a pilgrim-style mill house where Emily has been captured. Inside the house, three aging evil witches known as the Sanderson sisters-- Winifred, Mary, and Sarah (Midler, Najimy and Parker)-- are brewing a potion in a cauldron. Winifred, the eldest sister, highlights that the potion, when drank by a child, has the ability to rejuvenate them and restore their youth. Before the witches can force the potion into Emily, Thackery stops them and engages in a brawl with Winnie, and is soon stripped of his energy. The sisters then suck the life-force from little Emily and their youth is restored, then cast a spell on helpless Thackery that he take the form of a black cat for eternity. Immediately after, the angry villagers, wielding torches, capture the sisters and prepare to hang the trio from a branch of a tree. Thackery's father demands that Winifred divulge his son's whereabouts, but she refuses to say. Winnie's spellbook reveals a prophecy that on All Hallows Eve, a virgin shall light the black flame candle and resurrect them. The sisters are then hanged and Thackery remains a feline, unable to reassure his parents that he is okay. He rubs against his father's leg, but the father, not recognizing him, pushes him away, thinking a black cat to be a bad omen.. 300 years later, in Salem, a teacher tutors her class about the Sanderson sisters, since Halloween is approaching. Max Dennison, a new student after arriving from Los Angeles, isn't gullible towards the tale and befriends fellow classmate Alison as the school closes for Halloween break. While cycling home, Max cuts through a cemetery and runs into two rebellious teens named Ice and Jay who tease him, later stealing his trainers. When an irritated Max returns home, unhappy about his new location, he finds solace in his room and daydreams about Alison. Dani then frightens him and demands that he take her trick or treating later into the night, at first he refuses, but is later forced to take his little sister into the neighbourhood to collect candy. After an embarrassing confrontation with Ice and Jay, Dani storms off on Max and he goes to reconcile with her. The two then find a mansion run by Alison's family and they engage in a conversation about the Sanderson sisters, planning to break into the abandoned museum dedicated to them. Dani is anxious about their Halloween prank, and when they break into the mill house, now a museum, Max foolishly lights the black flame candle after Dani tries to dissuade him from doing so. Odd occurances begin to haunt the Sanderson house and the floorboards rattle, presenting the Sanderson sisters returning back home. The three kids hide while the sisters comicly settle back into domesticity after a centuries-long stay in hell. Dani soon shows her face, claiming that she was the one who lit the candle. To protect his sister, Max and Alison distract them and engage in a brawl. Max fools the Sandersons by setting off the modern sprinkler system, making them think it is a terrible magic that will destroy them, in order to distract the witches from following him. He then steals the spellbook and is introduced to Thackery, a now 300-year-old feline with the ability to speak. After escaping the Sanderson sisters, Max, Alison and Dani follow Thackery 'Binx' into a cemetery where he shows them Billy Butcherson's grave and his sister's headstone, they soon realise he is Thackery Binx, and that the legends are true. The sisters discover they have been tricked and devise a plan, since the candle only brings them back for one Halloween night, they plot to suck the lives out of children before sunrise, so that they can stay alive and youthful forever, but need to find Max since he has stolen the book. The witches set out into a more modern world, and are constantly confused as to the ways of the world in the early 90's. They track down Max and the gang to the cemetery, unable to set foot on hallowed ground, and taking flight on their broomsticks (Mary's broomstick is actually a vacuum cleaner). Winnie resurrects Billy Butcherson, now a decaying zombie, to find the trio after losing them. The kids take rescue in a sewer and make their way through the underground while the witches board a bus and seduce the driver. Binx finds a sewer hole that they can escape from Billy and makes his way out into the streets, and is then run over by the bus the sisters have boarded. Binx returns to normal health, since he is immortal, and the witches depart the bus in Halloween-themed suburbia. Max, Alison, Dani and Binx soon enter city hall, crowded with people attending the Halloween party so that they can find their parents. The witches encounter an elderly man in a devil-costume and believe he is really Satan himself, and soon learn what All Hallows Eve has become in modern times. When the witches enter city hall to find the children, Max's parents do not believe them and he is forced to tell the party-attendants on stage that the witches have come back to life. Everyone laughs until Max points at the Sandersons. The spotlight soon switches to Winnie and her sisters, and everyone stares. But Winifred quickly turns the tables on Max, wow'ing and dazzling the partygoers with a fabulous song and dance number (as only the Divine 'Miss M' can). The song contains an insidious spell by which the Sandersons compel the partygoers to all dance and party until they die of exhaustion. Max and the gang flee the city hall party, and hide from the sisters behind a restaurant alley. Alison soon has an idea and they go to their high school. The witches enter the school, since Mary has caught the scent of children. Thinking it is a prison for children, the witches search the halls and follow a voice, actually played by tape recorder and step into a furnace, Alison and Dani then close the hatch and turn the heat full blast, defeating the witches forever. In celebration, Max and Dani head home with Alison, deciding to raise Binx as their own cat. They fall asleep, certain that the witches are gone forever. But Winnie, Mary and Sarah soon emerge from the furnace and take their normal form after being burnt alive, but are desperate since the children have the book and they can't remember the spell for eternal youth. Along the way, returning home, the witches run into Ice and Jay and hold them hostage in cages at their home. Winnie breaks down, certain that they are doomed. At the Dennison household, Alison and Max wake up, both feeling sympathy for Binx in his feline-form. They open the spellbook to see if they can reverse his spell, and the book emits a signal that Max, Alison and Dani cannot see, but the Sanderson sisters see the signal from across town. Winnie soon takes flight along with Mary and Sarah and they head into the suburbs on broomsticks to retrieve the book. Max and Alison try to reverse the hex on Binx, but he stops them, angrily warning them that the book can only be used for ill, never for good. Alison has an eerie feeling that something isn't right. Acting on her uncertainty, she and Max fetch some salt from the kitchen, as a defence mechanism if the witches do return. Max and Alison's moment of romance is interrupted by odd noises from upstairs, and they go to see what happened. Alison learns the book is gone, and pulls back the covers of Dani's bed to reveal Sarah. Mary and Winifred enter from the closet holding Dani hostage and having retrieved the book. To defend herself, Alison pours salt round the room and the trio of witches take to the skies with Dani. As Max and Alison are in need of a miracle to get Dani back, Sarah sings a gentle spell from the skies to summon all the children of Salem to the Sanderson house. Sarah returns home, and Winnie is fixing up the potion in their cauldron while Dani is tied to a chair. Max enters the Sanderson house in time to save Dani from consuming the potion, and the sun begins to rise. The sisters fall to floor, but are tricked for a third time as the ray of light turns out to be the frontal beam of Max's car. The sisters have the opportunity to suck the lives of the children that are approaching their house, but Winnie is determined to have Dani's soul since she called her 'ugly'. However, there is just enough of the potion left for one child, so they take flight on their broomsticks. After losing the witches, Max, Alison, Dani and Binx return to the cemetery since the witches can't set foot on hallowed ground. Dani protected by a ring of salt as Billy, the zombie, joins them since he also has a hatred for Winnie. The sisters find them in the cemetery and swoop at them from all angles. Winnie knocks Billy's head off, and Dani carelessly leaves the safety of the salt ring to retrieve it and give it back to him. Winnie captures Dani and is about to force her to drink the potion when Binx rushes up a tree and leaps, knocking the potion from her hand, Max catches the potion and threatens to smash it unless Winnie releases his sister. But Winnie threatens instead to kill Dani if Max does this. The standoff is resolved when Max suddenly drinks the potion, forcing Winnie to take him instead. Winifred frees Dani, claiming that Max is a fool to give up his life for Dani. Winnie then attempts to suck the life out of Max, as Alison and Billy prevent Mary from helping Winnie. Alison, Dani and Billy catch hold of the extension cord dangling from the vacuum cleaner Mary is using as a broomstick, Sarah tries to help Mary, and a tug-of-war ensues, ending when Alison, Dani and Billy release the cord, causing Mary and Sarah to fly off helplessly into the sky. Winnie is knocked off her broom while struggling with Max, and lands on the cemetery's hallowed ground, taking hold of him and sucking his life-force. The sun begins to rise from the horizon of the cemetery, Winnie is then fixated between the sun and the hallowed ground, slowly turning to stone. The Sanderson sisters then disintigrate from the sunrise and Binx takes his final breath, the curse on him broken. Dani and Max are reunited, and she is touched that he would give up his own life for her. Dani then realises that Binx is dead and begins to weep over him. But suddenly Thackery's spirit appears to console her, showing her that the curse is lifted and he is free. He thanks her, and Max and Alison, for their heroic fight against the Sanderson sisters. Emily's spirit suddenly appears and Thackery is finally reunited with his sister. The film ends with Max, Dani and Alison victorious after the defeat of the Sanderson sisters, and Dani smiling as Thackery and Emily finally cross over through the cemetery gates into heaven. Premise: After the end credits, Max and Dani's parents exit city hall with the other partygoers, exhausted from hours of dancing, then cuts to Ice and Jay still hanging from the cages at the Sanderson home, singing 'Row row row your boat'. As the credits approach, the spellbook opens its eye.",
+      "writers": [
+         "David Kirschner",
+         "Mick Garris"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0107120/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTI3MDI2NDc3Ml5BMl5BanBnXkFtZTcwNDQ2MzQyMQ@@._V1_SY317_CR3,0,214,317_AL_.jpg",
+      "actors": ["Stars: Bette Midler, Sarah Jessica Parker, Kathy Najimy | See full cast and crew »"],
+      "reviews": [
+         "While I've been enjoying this film for years, I only recently decided to read some reviews for it, and am shocked! The truth is, this film is a wonderfully comical and charming tale of three Salem witches that are resurrected by a teenage boy, who, with the help of his little sister and love interest, must try to stop them from stealing the souls of children. This movie really sparkles in the representations of the witches, who are all cast perfectly. Bette Midler provides for a hilarious and almost frightening Winifred (the leader), Sarah Jessica Parker shines as the sexy, dim-witted Sarah, and Kathy Najimy is marvelous as the funny, perky Mary. What makes the film even better is that there are two stunning musical numbers--Midler's delightful \"I Put a Spell on You\" and Parker's hypnotic \"Come, Little Children.\" Ignore the critics, \"Hocus Pocus\" is perfect not only for Halloween, but for any time of the year!",
+         "I don't what the critics were talking about, but I found Hocus Pocus to be extreme fun, from start to finish. The use of color and the sets is all magical, giving the movie a strange fairy-tale feel. I also found it to be very funny with great special-effects. The movie's just plain fun. The three witches, thankfully, aren't flat and dull. This movie is scary without being profane (ala Mighty Joe Young) or super duper frightening. A great film that's much better than most Disney live-action films today.",
+         "I prepared my self when I sat down to watch this movie, expecting a boring Disney film not for my generation. But this movie was hilarious! Bette Midler, Kathy Najimy and Sarah Jessica Parker were fantastic in their roles as the witches, especially Midler in her role as Winifred. Unfortunately there is no soundtrack to this film, which is a shame but not a tragedy. Overall a fantastic film that the whole family should enjoy.",
+         "A traditional \"Halloween Ghost Story\" turns into a real life adventure for 3 kids who break the spell of the Sanderson Sisters. The story is an engaging one and will have even grown-ups pay close attention. The Sanderson Sisters (wonderfully played by Bette Midler, Sarah Jessica Parker and Kathy Najimy), convicted of witchcraft in Colonial Salem, Massachusetts and put to death some 300 years ago, are brought back to life when \"a virgin lights the black candle\". It's up to two teenagers and an 8 year old to stop the wicked witches from succeeding with their sinister plan: to lure the town's children to their witch house and \"drink\" their life-force away from them. Bette Midler steals the show when the sisters crash a Halloween party, singing \"I Put A Spell On You\". There are many \"time jokes\" as well, having the 17th century sisters \"confused\" when they experience 20th century life: Blinded by a truck's head lights, they are convinced the sun is rising; they frantically avoid stepping on a blacktop driveway when they are told that it is \"a black lake of death\"; unable to find a broomstick, one of the sisters heads for the sky on a Hoover vacuum cleaner. The jokes are pretty good, and I was entertained throughout the film. I have watched \"Hocus Pocus\" several times already, and will watch it again and again. This is another example of a movie made for kids, but enjoyed by grown-ups as well. Recommended!",
+         "First of all, anyone watching this film has to remember that it is aimed towards children. You cannot have the expectations that there is some deep meaning connected with this film, or that it is going to be another Bette Midler comedy with R-rated humor. If that is what you are looking for, watch \"Ruthless People\". This film is funny and cute. That is all. If I was a 10 year old child, I would love this movie. It is a family film and nobody should expect anything more. Secondly, it has Bette Midler and a wonderfully funny Kathy Najimy and dim-witted Sarah Jessica Parker......so, ENJOY!",
+         "This movie is funny, scary, but warm and human all at once. It emphasizes the value of families working together to help each other and does not create confusing messages about good and evil. It's a fast-paced comedy that does not trivialize the characters. Bette Midler's rendition of \"I've Put a Spell on You\" shows the depth of her talent as a singer/stage performer. The divine Ms. Bette has great chemistry with both Kathy Naijimy (how does she get her mouth to do that?), and Sarah Jessica Parker (amok, amok, amok). While the scary factor with corpses and death may not be appropriate for very small children, the movie is lots of fun for the whole family.",
+         "This is the story of three nefarious practitioners of Darkly-aligned Magick and the mark they left on the town which sentenced them to death. Disney is known to openly endorse and promote the use of the Old Ways. Whether a good Witch (Bedknobs and Broomsticks) or a bad Witch (Snow White and the Seven Dwarfs), Disney loves Magick and those who use it. These Witches, however, are the worst kind of rabble, and while we attempt to defeat them, character development occurs. This movie is quite entertaining, however it is too dark and scary for younger audiences, and may be considered too juvenile for adults, but the older children and tweens seem to love it. It rates an 8.7/10 from... the Fiend :.",
+         "This movie came out when i was 5 years old, I had seen the trailers for it and I couldn't wait for it to come out. Back then it was my favourite movie of all time. I would watch it every day, sometimes twice a day... (I know, sad, right?} Now i am 18 and it is still among the best movies EVER!!! I wish that they would do a sequel with the original cast! That would be so cool! Something like... They come back to get revenge on Danny and her new boyfriend or son or something. I don't think they will though! I would love to be in it! ! ! It is such an amazing mix of history, drama, comedy, supernatural and playfulness. I read that this was originally going to be a TV movie for the Disney channel and not have Sarah, Bette and Kathy in it at all. Boy are we lucky they were. I know that it sounds like I am babbling on a bit and not making much sense but they won't let me post this message if it is less than 10 lines! How ridiculous is that? It would be better if I could just write what I want to say and not have to fill the ten lines with nonsense just so I can post a comment!",
+         "I thought this movie was a good movie for the whole family. There is something for everyone in this movie.... singing,comedy,some action,very good music and thrills (for the younger audience). The director spiced the movie up with musical numbers by Sarah Jessica Parker and Bette Midler. There were also some good stars in the movie; Sarah Jessica Parker, Bette Midler, and a young Thora Birch (she was so cute in this movie).It's terrible that the only score for this movie was a promo CD (which is very hard to find and very expensive if you do find it)... and not a soundtrack. I really hope that Disney or some company re-releases the DVD version of this great movie.",
+         "Hocus Pocus is one of those movies that I have enjoyed greatly for many years, even if it is a seasonal/holiday based film. This movie is just so fascinating to me for those fun aspects and qualities it contains that I could enjoy it on any watch. It has the right amount of funny that kept my eyes on the TV the whole time and my mouth wide open with laughter, and it seems many people forget that sometimes that's all we need from a movie to truly love and enjoy it. With Bette Midler and Sarah Jessica Parker being some of my favorite actresses, I decided that this was going to be a great Halloween flick to begin with, and it certainly turned out to be, for all the three witches put smiles on my faces, and even though this movie had some humorous features without the main three women casted in the film, they really were the most enjoyable and lovable of the film and most of the reason it is as enjoyable and lovable as it is, honestly. After watching this movie, Kathy Najimy actually turned out to be my favorite character though, because she was just plain out hilarious as her ditsy self, like when she flew on a vacuum. All the Sanderson Sisters turned out to be funny and special in their own way, and like I said, Midler, Parker and Najimy's portrayal of them is really what makes this film for me, even though the story and other characters are just as entertaining and fun. Hocus Pocus is one of the movies that people just have to see at least once if they haven't, because after they see it they will want to watch it again and again, because it really is one of my favorite movies in general, and I hope more people will discover it and view it as greatly as I do. This movie is a magnificent, entertaining, really great and laughable adventure that will leave you in awe. I recommend it to everyone."
+      ],
+      "genres": [
+         "Comedy",
+         "Family",
+         "Fantasy",
+         "Horror"
+      ],
+      "productionCompanies": ["Walt Disney Pictures"],
+      "summaries": [
+         "300 years have passed since the Sanderson sisters were executed for practicing dark witchcraft. Returning to life thanks to a combination of a spell spoken before their demise and the accidental actions of Max, the new-kid-in-town, the sisters have but one night to secure their continuing existence...",
+         "More than 300 years ago, 3 witches were sentenced to die in Salem, Massachusetts and a boy was turned into a cat (a black cat, naturally). Now it's Halloween, and the witches (who fly on [I kid you not] vacuum cleaners) are back. This time, they've got their eyes on immortal life and have turned their wrath on trick-or-treaters and it's up to the 300-year-old cat to save the day.",
+         "300 years ago, the Sanderson sisters had bewitched people. Now it's Halloween 1993 and Max Dennison has lit the candle that would bring the witches back to life! Now Max, Allison, and Dani must save all the kids in Salem from the witches including leader Winifred, goofy Sarah, and high-strung Mary who will steal the lives of children!",
+         "In the year 1693, sisters, Winifred, Mary and Sarah were executed for their unforgiveble witchecraft. They captured and sucked the life out of children. Just before their execution, Winifred made a curse - a curse that when a virgin lights the black flame candle on Halloween light, in their house, they shall return ... 1993, 300 years later, Max decides to light the candle in order to scare his irritating sister Dani and his wannabe girlfriend Alison. Now, the three Witches are back ready for a night of fun, magic and horror in the now modern area of Salem.",
+         "In the year 1693, 3 sisters, Winifred, Mary and Sarah were executed for their unforgivable witchcraft. One fateful Halloween night, that unpleasant honor went to adorable little Emily Binx, sister of teenage Thackery, who immediately ran to his sibling's aid when he heard she'd been lured by Sarah Sanderson to the witches' home in the woods. This was not a well thought out plan though, and the cost was not only the life of his sister Emily, but his own humanity as well. Emily's lifeforce was drained from her body by the three Sanderson witches, and big brother Thackery Binx was transformed into an immortal black cat, cursed to live forever with the guilt of his failure to save his sister! Luckily for the rest of the children of Salem, the Sanderson sisters were captured that night and hung for their crimes, but not before their living book of spells revealed to them a curse to bring the three back from the dead on All Hallow's Eve when a virgin lights the black flame candle. 300 years later, teenager Max Dennison is a newcomer to Salem, struggling to adjust after growing up in a California lifestyle. It isn't going well for Max. Bullies are stealing his sneakers right off his feet, the girl of his dreams snubs him due to his lack of interest in Halloween, and his little sister, Dani, is ever the pest. Now, he must spend the evening escorting her door to door for trick or treating while their parents enjoy the town Halloween dance. Things are about to go from bad to worse for Max, however. Just when he believes things are looking up after he and Dani convince dream-girl Allison to take them to the old Sanderson house, Max's efforts to impress the girl lead him to light the black-flame candle himself, bringing Sarah, Mary, and Winifred Sanderson back from the dead! From there on out, it's a non-stop, fun-filled chase as the witches pursue the children, determined to make sassy-mouthed Dani the subject of their next youth spell, which must be performed before dawn or else the witches will be gone forever! With the immortal, talking black cat Binx guiding them along, Max, Dani, and Allison work together to outrun, outwit, and outlast the evil trio and their magical arsenal, with the fate of all the children of Salem hanging in the balance!",
+         "After three centuries, three witch sisters are resurrected in Salem Massachusetts on Halloween night, and it is up to two teen-agers, a young girl, and an immortal cat to put an end to the witches' reign of terror once and for all."
+      ],
+      "budget": 28000000
+   },
+   "movielensId": 2052,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1993-07-16",
+      "dvdReleaseDate": "2002-06-04",
+      "directors": ["Kenny Ortega"],
+      "runtime": 96,
+      "movieId": 2052,
+      "title": "Hocus Pocus",
+      "mpaa": "PG",
+      "actors": [
+         "Bette Midler",
+         "Sarah Jessica Parker",
+         "Kathy Najimy",
+         "Omri Katz",
+         "Thora Birch",
+         "Vinessa Shaw",
+         "Jodie Rivera",
+         "Jason Marsden",
+         "Larry Bagby",
+         "Tobias Jelinek",
+         "Stephanie Faracy",
+         "Charles Rocket",
+         "Doug Jones",
+         "Karyn Malchus",
+         "Sean Murray",
+         "Steve Voboril",
+         "Norbert Weisser",
+         "Kathleen Freeman",
+         "D.A. Pauley",
+         "Ezra Sutton",
+         "Don Yesso",
+         "Michael McGrady",
+         "Leigh Hamilton",
+         "Devon Reeves",
+         "Joseph Malone",
+         "Jordan Redmond",
+         "Frank Del Boccio",
+         "Jeff Neubauer",
+         "Teda Bracci",
+         "Peggy Holmes",
+         "Garry Marshall",
+         "Penny Marshall",
+         "Sherry Lynn"
+      ],
+      "imdbMovieId": "0107120",
+      "originalTitle": "Hocus Pocus",
+      "genres": [
+         "Comedy",
+         "Family",
+         "Fantasy"
+      ],
+      "youtubeTrailerIds": [
+         "Oryofd_T-ng",
+         "OFm_2RyxXjQ"
+      ],
+      "plotSummary": "After 300 years of slumber, three sister witches are accidentally resurrected in Salem on Halloween night, and it us up to three kids and their newfound feline friend to put an end to the witches' reign of terror once and for all.",
+      "tmdbMovieId": 10439,
+      "avgRating": 3.05456,
+      "releaseYear": "1993",
+      "numRatings": 2960,
+      "posterPath": "/4boIuVTbEYv9pynSj99jK5EezfA.jpg"
+   }
+}

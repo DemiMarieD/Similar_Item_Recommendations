@@ -1,0 +1,906 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "competition",
+            "id": 271
+         },
+         {
+            "name": "lightning",
+            "id": 952
+         },
+         {
+            "name": "golf",
+            "id": 2702
+         },
+         {
+            "name": "underwear",
+            "id": 3508
+         },
+         {
+            "name": "sport",
+            "id": 6075
+         },
+         {
+            "name": "coming of age",
+            "id": 10683
+         },
+         {
+            "name": "class differences",
+            "id": 14514
+         },
+         {
+            "name": "explosion",
+            "id": 14601
+         },
+         {
+            "name": "golf course",
+            "id": 15228
+         },
+         {
+            "name": "country club",
+            "id": 172466
+         },
+         {
+            "name": "gopher",
+            "id": 177993
+         }
+      ],
+      "imdb_id": "tt0080487",
+      "video": false,
+      "title": "Caddyshack",
+      "recommendations": [
+         10890,
+         11153,
+         9749,
+         2617,
+         11418,
+         9080,
+         8388,
+         10276,
+         6471,
+         1406,
+         13342,
+         14628,
+         11543,
+         2616,
+         11064,
+         8469,
+         1648,
+         10141,
+         15596,
+         11814
+      ],
+      "backdrop_path": "/kdL7CWq5msNd2CzE11fNkY0k4m7.jpg",
+      "revenue": 39846344,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 10,
+               "character": "Ty Webb",
+               "gender": 2,
+               "credit_id": "52fe44ae9251416c7503d481",
+               "name": "Chevy Chase",
+               "profile_path": "/svjpyYtPwtjvRxX9IZnOmOkhDOt.jpg",
+               "id": 54812,
+               "order": 0
+            },
+            {
+               "cast_id": 11,
+               "character": "Al Czervik",
+               "gender": 2,
+               "credit_id": "52fe44ae9251416c7503d485",
+               "name": "Rodney Dangerfield",
+               "profile_path": "/bbuVnFU4j19wN5gtUwHU3xzODGH.jpg",
+               "id": 3198,
+               "order": 1
+            },
+            {
+               "cast_id": 12,
+               "character": "Richter Elihu Smails",
+               "gender": 2,
+               "credit_id": "52fe44ae9251416c7503d489",
+               "name": "Ted Knight",
+               "profile_path": "/32OrUdfeRgxmtkbnYbxYDvGoAJs.jpg",
+               "id": 71146,
+               "order": 2
+            },
+            {
+               "cast_id": 13,
+               "character": "Danny Noonan",
+               "gender": 2,
+               "credit_id": "52fe44ae9251416c7503d48d",
+               "name": "Michael O'Keefe",
+               "profile_path": "/w6ssYHZER9wrZ1fWen6iUEQWYan.jpg",
+               "id": 38085,
+               "order": 3
+            },
+            {
+               "cast_id": 14,
+               "character": "Carl Spackler",
+               "gender": 2,
+               "credit_id": "52fe44ae9251416c7503d491",
+               "name": "Bill Murray",
+               "profile_path": "/7BOoOAIA1CnSzFSVSJP7saniQaB.jpg",
+               "id": 1532,
+               "order": 4
+            },
+            {
+               "cast_id": 17,
+               "character": "Maggie O'Hooligan",
+               "gender": 0,
+               "credit_id": "52fe44ae9251416c7503d4a1",
+               "name": "Sarah Holcomb",
+               "profile_path": "/oVSunXJfBsDCW2GUX6eCYukjJJ9.jpg",
+               "id": 55203,
+               "order": 5
+            },
+            {
+               "cast_id": 18,
+               "character": "Tony D'Annunzio",
+               "gender": 2,
+               "credit_id": "52fe44ae9251416c7503d4a5",
+               "name": "Scott Colomby",
+               "profile_path": "/c0MjR5up8PL9QQeV7kiCCsgql8v.jpg",
+               "id": 167367,
+               "order": 6
+            },
+            {
+               "cast_id": 19,
+               "character": "Lacey Underall",
+               "gender": 0,
+               "credit_id": "52fe44ae9251416c7503d4a9",
+               "name": "Cindy Morgan",
+               "profile_path": "/s32OPPwn3p3mvJ0ot61a4smz6aj.jpg",
+               "id": 2548,
+               "order": 7
+            },
+            {
+               "cast_id": 21,
+               "character": "Dr. Beeper",
+               "gender": 0,
+               "credit_id": "56c25e06c3a36826e6000076",
+               "name": "Dan Resin",
+               "profile_path": "/fGpxL5bB9TjbnaeOIiUFgjj5LqW.jpg",
+               "id": 940742,
+               "order": 8
+            },
+            {
+               "cast_id": 22,
+               "character": "The Bishop",
+               "gender": 2,
+               "credit_id": "56c25f6cc3a36825fb000973",
+               "name": "Henry Wilcoxon",
+               "profile_path": "/3qJEMJDvOy2WVP45oo5GqmMrwed.jpg",
+               "id": 51310,
+               "order": 9
+            },
+            {
+               "cast_id": 23,
+               "character": "Mrs. Noonan",
+               "gender": 1,
+               "credit_id": "56c261d1c3a3682601000a42",
+               "name": "Elaine Aiken",
+               "profile_path": "/pQA5pSdFnHATg38Es91ZCrjLXGA.jpg",
+               "id": 1578223,
+               "order": 10
+            },
+            {
+               "cast_id": 24,
+               "character": "Mr. Noonan",
+               "gender": 2,
+               "credit_id": "56c2625b9251414a8f0009c5",
+               "name": "Albert Salmi",
+               "profile_path": "/z7dpRaZTt3ETMx48cvMBgcQAN97.jpg",
+               "id": 12692,
+               "order": 11
+            },
+            {
+               "cast_id": 67,
+               "character": "Grace",
+               "gender": 1,
+               "credit_id": "56fe5ef3c3a36821a4002332",
+               "name": "Ann Ryerson",
+               "profile_path": "/A1PlH6dw01Eb5xkbqjtv4Wc6e7x.jpg",
+               "id": 156587,
+               "order": 12
+            },
+            {
+               "cast_id": 20,
+               "character": "Lou Loomis",
+               "gender": 2,
+               "credit_id": "52fe44ae9251416c7503d4ad",
+               "name": "Brian Doyle-Murray",
+               "profile_path": "/fRLFXdb8UQvJs4euZ2sE6CpjbXn.jpg",
+               "id": 1535,
+               "order": 13
+            },
+            {
+               "cast_id": 26,
+               "character": "Motormouth",
+               "gender": 0,
+               "credit_id": "56c2664cc3a36825f90009b0",
+               "name": "Hamilton Mitchell",
+               "profile_path": "/33hUUVrXJpDyF7xnywJ4Vqhy3Le.jpg",
+               "id": 30864,
+               "order": 14
+            },
+            {
+               "cast_id": 27,
+               "character": "Angie D'Annunzio",
+               "gender": 0,
+               "credit_id": "56c266d6c3a36825f70009b8",
+               "name": "Peter Berkrot",
+               "profile_path": "/pRYxBGNkr75IFlZKFdoYuqLuSoX.jpg",
+               "id": 948264,
+               "order": 15
+            },
+            {
+               "cast_id": 28,
+               "character": "Spaulding Smails",
+               "gender": 0,
+               "credit_id": "56c269889251412e68000254",
+               "name": "John F. Barmon Jr.",
+               "profile_path": "/izsvQrwZyPtFRblK0lzmGztJNeY.jpg",
+               "id": 1578232,
+               "order": 16
+            },
+            {
+               "cast_id": 29,
+               "character": "Mrs. Smails",
+               "gender": 0,
+               "credit_id": "56c26a1e9251414a86000b42",
+               "name": "Lois Kibbee",
+               "profile_path": "/xsJliXdYTzdDo1q8HgCfIHe0t0b.jpg",
+               "id": 1238616,
+               "order": 17
+            },
+            {
+               "cast_id": 30,
+               "character": "Drew Scott",
+               "gender": 0,
+               "credit_id": "56c26d0bc3a368260b000c62",
+               "name": "Brian McConnachie",
+               "profile_path": "/bC6gAfDcjtLOy1eyPzcxjViue6a.jpg",
+               "id": 28023,
+               "order": 18
+            },
+            {
+               "cast_id": 31,
+               "character": "Gatsby",
+               "gender": 0,
+               "credit_id": "56c2731bc3a3682606000f03",
+               "name": "Scott Powell",
+               "profile_path": "/lApokxVorC5gyai9HifeI3K6iRk.jpg",
+               "id": 1578253,
+               "order": 19
+            },
+            {
+               "cast_id": 32,
+               "character": "Suki",
+               "gender": 0,
+               "credit_id": "56c273fd9251412e680004e9",
+               "name": "Ann Crilley",
+               "profile_path": "/pZMOwPG3E1oeG04S86ldyyDzt4U.jpg",
+               "id": 1578258,
+               "order": 20
+            },
+            {
+               "cast_id": 33,
+               "character": "Wally",
+               "gender": 1,
+               "credit_id": "56c2764fc3a368260b000eeb",
+               "name": "Cordis Heard",
+               "profile_path": "/dQPfidlcSRhsdUWf9A8fObYeck3.jpg",
+               "id": 90531,
+               "order": 21
+            },
+            {
+               "cast_id": 34,
+               "character": "Richard Richards",
+               "gender": 0,
+               "credit_id": "56c27a34c3a36825f9000f0e",
+               "name": "Scott Sudden",
+               "profile_path": "/hg9MVTGuK0ZDSbvw8SHsicsIdzL.jpg",
+               "id": 1578276,
+               "order": 22
+            },
+            {
+               "cast_id": 35,
+               "character": "Smoke Porterhouse",
+               "gender": 0,
+               "credit_id": "56c27c1a9251414a86001009",
+               "name": "Jackie Davis",
+               "profile_path": "/gJm5480DIjfHWEeykMtgr9o02L5.jpg",
+               "id": 1578280,
+               "order": 23
+            },
+            {
+               "cast_id": 36,
+               "character": "Sandy McFiddish",
+               "gender": 0,
+               "credit_id": "56c27c8dc3a36845fe0003ef",
+               "name": "Thomas A. Carlin",
+               "profile_path": "/mr84yCSFCoiwGfIDgBDdoitREEo.jpg",
+               "id": 170957,
+               "order": 24
+            },
+            {
+               "cast_id": 37,
+               "character": "Joey D'Annunzio",
+               "gender": 0,
+               "credit_id": "56c27e109251412e680007cf",
+               "name": "Minerva Scelza",
+               "profile_path": "/AudlMy5s28iS8U9beCGmzdkVlAH.jpg",
+               "id": 1157197,
+               "order": 25
+            },
+            {
+               "cast_id": 38,
+               "character": "Mr. Havercamp",
+               "gender": 0,
+               "credit_id": "56c280649251414b850003ce",
+               "name": "Kenneth Burritt",
+               "profile_path": "/z2HHtrovi91RZCjvKUpWL7mJMnN.jpg",
+               "id": 1578292,
+               "order": 26
+            },
+            {
+               "cast_id": 39,
+               "character": "Mrs. Havercamp",
+               "gender": 0,
+               "credit_id": "56c280bcc3a368260b0011bc",
+               "name": "Rebecca Burritt",
+               "profile_path": "/cdd4xuEhLZWoSq7tMMemBfXShHw.jpg",
+               "id": 1578293,
+               "order": 27
+            },
+            {
+               "cast_id": 40,
+               "character": "Noble Noyes",
+               "gender": 1,
+               "credit_id": "56c281f79251414a8600115a",
+               "name": "Barbara Keegan",
+               "profile_path": "/6xauxDcmSI3LIXqSIb1BBXmasmc.jpg",
+               "id": 1578294,
+               "order": 28
+            },
+            {
+               "cast_id": 41,
+               "character": "Chuck Schick",
+               "gender": 0,
+               "credit_id": "56c2852fc3a36845fe0005bc",
+               "name": "Scott Jackson",
+               "profile_path": "/eVRcq62wTqkdNb6rQZ53Qqwgiaf.jpg",
+               "id": 1578297,
+               "order": 29
+            },
+            {
+               "cast_id": 42,
+               "character": "Pat Noonan",
+               "gender": 0,
+               "credit_id": "56c2879ac3a3682606001420",
+               "name": "Ron Frank",
+               "profile_path": "/3WFrTEa5sT4YQVgmOOegi7eXrJl.jpg",
+               "id": 1578298,
+               "order": 30
+            },
+            {
+               "cast_id": 43,
+               "character": "Nancy Noonan",
+               "gender": 0,
+               "credit_id": "56c3a6a7c3a3684d2c000a07",
+               "name": "Patricia Wilcox",
+               "profile_path": "/t2VYP71gd8c5vlTz8UaJvAQZSet.jpg",
+               "id": 1578628,
+               "order": 31
+            },
+            {
+               "cast_id": 44,
+               "character": "Kathleen Noonan",
+               "gender": 0,
+               "credit_id": "56c3a884c3a3684d27000ab4",
+               "name": "Debi Frank",
+               "profile_path": "/ldtTx0QZtaes67iXefGrgZu9oNd.jpg",
+               "id": 1578630,
+               "order": 32
+            },
+            {
+               "cast_id": 45,
+               "character": "Ray (Old Caddy)",
+               "gender": 0,
+               "credit_id": "56c3ac68c3a3684d2a000a6a",
+               "name": "Tony Gulliver",
+               "profile_path": "/1qExANdxLB3p4YaZ0YaM6gHPinx.jpg",
+               "id": 1578636,
+               "order": 33
+            },
+            {
+               "cast_id": 46,
+               "character": "Pre-deb",
+               "gender": 0,
+               "credit_id": "56c3b2ccc3a368720a000056",
+               "name": "Kim Bordeaux",
+               "profile_path": "/iXow4jh6sqrGQ1h1bsKqXg8At9W.jpg",
+               "id": 1578654,
+               "order": 34
+            },
+            {
+               "cast_id": 47,
+               "character": "Pre-deb",
+               "gender": 0,
+               "credit_id": "56c3b306c3a36871fa00006c",
+               "name": "Lori Lowe",
+               "profile_path": "/ts8FzGdOrHD6GzEBYp40DV3oNXC.jpg",
+               "id": 1578656,
+               "order": 35
+            },
+            {
+               "cast_id": 48,
+               "character": "Lifeguard",
+               "gender": 0,
+               "credit_id": "56c3ba7fc3a36871fd0001ce",
+               "name": "Marcus Breece",
+               "profile_path": "/827clxNeAj6T0fPTRQHKVK2V81j.jpg",
+               "id": 1578672,
+               "order": 36
+            },
+            {
+               "cast_id": 49,
+               "character": "Terry the Hippie",
+               "gender": 0,
+               "credit_id": "56c3bf2c9251416bae000324",
+               "name": "Mark Chiriboga",
+               "profile_path": "/6JODc7fXpzvdSF6MIpctWEey0B0.jpg",
+               "id": 1578687,
+               "order": 37
+            },
+            {
+               "cast_id": 50,
+               "character": "Angry Husband",
+               "gender": 0,
+               "credit_id": "56c3c3859251416ba700049d",
+               "name": "Fred Buch",
+               "profile_path": "/1rpiFNTd0MCKVcb9lJnV7xUQIHA.jpg",
+               "id": 564316,
+               "order": 38
+            },
+            {
+               "cast_id": 51,
+               "character": "Charlie the Cook",
+               "gender": 0,
+               "credit_id": "56c3c4c8c3a36871fd000466",
+               "name": "Frank Schuller",
+               "profile_path": "/o1RvIh70OwLiqwSx8RO9GldY1zl.jpg",
+               "id": 124822,
+               "order": 39
+            },
+            {
+               "cast_id": 52,
+               "character": "Butler",
+               "gender": 2,
+               "credit_id": "56c3cc539251416bb3000634",
+               "name": "Mel Pape",
+               "profile_path": "/axXb6OTxJ0WL9wKBhwEFIs3M79N.jpg",
+               "id": 1578701,
+               "order": 40
+            },
+            {
+               "cast_id": 53,
+               "character": "Lady on Boat",
+               "gender": 0,
+               "credit_id": "56c3ce0bc3a36871f4000706",
+               "name": "Marge McKenna",
+               "profile_path": null,
+               "id": 1578704,
+               "order": 41
+            },
+            {
+               "cast_id": 54,
+               "character": "Old Crony",
+               "gender": 0,
+               "credit_id": "56c3cf3e9251416bae0007d1",
+               "name": "Bruce McLaughlin",
+               "profile_path": "/oHQZNM79iC73weT6RPhqgZGqLCh.jpg",
+               "id": 53553,
+               "order": 42
+            },
+            {
+               "cast_id": 55,
+               "character": "Dennis Noonan",
+               "gender": 0,
+               "credit_id": "56c3cfa2c3a36871fa000794",
+               "name": "Dennis McCormack",
+               "profile_path": "/suLUXGpLPCV8NSboLWpvI89uKWN.jpg",
+               "id": 1578705,
+               "order": 43
+            },
+            {
+               "cast_id": 56,
+               "character": "Noonan Child",
+               "gender": 0,
+               "credit_id": "56c3d022c3a36871f70007d2",
+               "name": "Violet Ramis",
+               "profile_path": "/78uahovSL2KNzkkfSdd7SatZ3fg.jpg",
+               "id": 1578708,
+               "order": 44
+            },
+            {
+               "cast_id": 57,
+               "character": "Beeper's Girlfriend",
+               "gender": 0,
+               "credit_id": "56c3d0759251416ba70008a3",
+               "name": "Judy Arman",
+               "profile_path": "/HqeOP4NfDH7zTpeTRMk1mE59zZ.jpg",
+               "id": 1578709,
+               "order": 45
+            },
+            {
+               "cast_id": 58,
+               "character": "Mr. Wang",
+               "gender": 0,
+               "credit_id": "56c3d0e8c3a36871f40007e2",
+               "name": "Dr. Dow",
+               "profile_path": "/wDs43hfLpbx0pGuftf8Wwr27nDo.jpg",
+               "id": 1578712,
+               "order": 46
+            },
+            {
+               "cast_id": 59,
+               "character": "Little Girl at Pool",
+               "gender": 0,
+               "credit_id": "56c3d1369251416bb10007f2",
+               "name": "Paige Coffman",
+               "profile_path": "/ytjD2OR40Mlp4UBvLSPh4IHWrZy.jpg",
+               "id": 1578714,
+               "order": 47
+            },
+            {
+               "cast_id": 60,
+               "character": "Woman at Pool",
+               "gender": 0,
+               "credit_id": "56c3d1859251416bb30007d0",
+               "name": "Donna M. Wiggin",
+               "profile_path": "/tme3rWoN7Z2zYHnKIkU9gBo4YiQ.jpg",
+               "id": 1578716,
+               "order": 48
+            },
+            {
+               "cast_id": 61,
+               "character": "Old Crony",
+               "gender": 0,
+               "credit_id": "56c3d1c8c3a368720a000844",
+               "name": "James Hotchkiss",
+               "profile_path": "/zaZhG54FsU7Dg12URPGP7UxLGYQ.jpg",
+               "id": 1578719,
+               "order": 49
+            },
+            {
+               "cast_id": 62,
+               "character": "Bathing Suit Girl (uncredited)",
+               "gender": 0,
+               "credit_id": "56c3d229c3a36871fa000856",
+               "name": "Debbie Howard",
+               "profile_path": "/5qQlQMdjv5v5MQ3JIY5jRgbo6O7.jpg",
+               "id": 1578722,
+               "order": 50
+            },
+            {
+               "cast_id": 63,
+               "character": "Al Czervik's Dinner Guest (uncredited)",
+               "gender": 0,
+               "credit_id": "56c3d269c3a36871f4000866",
+               "name": "Douglas Kenney",
+               "profile_path": "/hs4j2iDOtfq7iLdxOEWipmCGYbE.jpg",
+               "id": 55199,
+               "order": 51
+            },
+            {
+               "cast_id": 64,
+               "character": "Caddy (uncredited)",
+               "gender": 0,
+               "credit_id": "56c3d307c3a36871f7000896",
+               "name": "John Murray",
+               "profile_path": "/liuwD6f7cRlAIL4MDSDWcJyzRA7.jpg",
+               "id": 66107,
+               "order": 52
+            },
+            {
+               "cast_id": 65,
+               "character": "Golf Pro (uncredited)",
+               "gender": 0,
+               "credit_id": "56c3d375c3a36871f40008a2",
+               "name": "Ted Swanson",
+               "profile_path": "/6lBGKKwdNHqnwMB3SNLcZuS5ofm.jpg",
+               "id": 955581,
+               "order": 53
+            },
+            {
+               "cast_id": 66,
+               "character": "Blonde Bombshell (uncredited)",
+               "gender": 0,
+               "credit_id": "56c3d3f8c3a36872030008f0",
+               "name": "Anna Upstrom",
+               "profile_path": "/lXDFy8NbRoX42bne6uFQvVuyQAS.jpg",
+               "id": 1578726,
+               "order": 54
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe44ae9251416c7503d459",
+               "name": "Johnny Mandel",
+               "profile_path": null,
+               "id": 9796,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44ae9251416c7503d45f",
+               "name": "Stevan Larner",
+               "profile_path": null,
+               "id": 33057,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44ae9251416c7503d465",
+               "name": "William C. Carruth",
+               "profile_path": null,
+               "id": 66167,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44ae9251416c7503d46b",
+               "name": "Douglas Kenney",
+               "profile_path": "/hs4j2iDOtfq7iLdxOEWipmCGYbE.jpg",
+               "id": 55199,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44ae9251416c7503d471",
+               "name": "Brian Doyle-Murray",
+               "profile_path": "/fRLFXdb8UQvJs4euZ2sE6CpjbXn.jpg",
+               "id": 1535,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44ae9251416c7503d477",
+               "name": "Douglas Kenney",
+               "profile_path": "/hs4j2iDOtfq7iLdxOEWipmCGYbE.jpg",
+               "id": 55199,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44ae9251416c7503d47d",
+               "name": "Jon Peters",
+               "profile_path": "/g7QUavX05hDboodZulsFF65AVjN.jpg",
+               "id": 3805,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44ae9251416c7503d497",
+               "name": "Harold Ramis",
+               "profile_path": "/dFERLL9HGBw9xGMwDQRuhUgAneI.jpg",
+               "id": 1524,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44ae9251416c7503d49d",
+               "name": "Harold Ramis",
+               "profile_path": "/dFERLL9HGBw9xGMwDQRuhUgAneI.jpg",
+               "id": 1524,
+               "department": "Writing",
+               "job": "Screenplay"
+            }
+         ]
+      },
+      "genres": [{
+         "name": "Comedy",
+         "id": 35
+      }],
+      "popularity": 12.61328,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 11977,
+      "vote_count": 447,
+      "budget": 6000000,
+      "overview": "At an exclusive country club, an ambitious young caddy, Danny Noonan, eagerly pursues a caddy scholarship in hopes of attending college and, in turn, avoiding a job at the lumber yard. In order to succeed, he must first win the favour of the elitist Judge Smails, and then the caddy golf tournament which Smails sponsors.",
+      "similar": [
+         9955,
+         9614,
+         9472,
+         9291,
+         86130,
+         2395,
+         11287,
+         10637,
+         22881,
+         101299,
+         43959,
+         323677,
+         26602,
+         319888,
+         9053,
+         9767,
+         9563,
+         13680,
+         10393,
+         2323
+      ],
+      "original_title": "Caddyshack",
+      "runtime": 98,
+      "poster_path": "/21nhVVqGsOrKvkncsB5GbRxpSZh.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": "/wOMD2jDmY6wU2oScXOEgq9hqeNN.png",
+            "name": "Orion Pictures",
+            "id": 41,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/6rFNo5taSC9i0Sxnl81nucQMsw9.png",
+            "name": "Warner Bros. Pictures",
+            "id": 174,
+            "origin_country": "US"
+         }
+      ],
+      "release_date": "1980-07-25",
+      "vote_average": 6.6,
+      "belongs_to_collection": {
+         "backdrop_path": "/nt3U4uU8GJz2zg2oTXSUFbFhI6j.jpg",
+         "name": "Caddyshack Collection",
+         "id": 104847,
+         "poster_path": "/yMNHFk8vcWSnzDduz7OZyPhCUrQ.jpg"
+      },
+      "tagline": "The snobs against the slobs!",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Harold Ramis"],
+      "runtime": 98,
+      "synopsis": "It's the Slobs vs. the Snobs at exclusive, blue-blood Bushwood Country Club. Judge Smails (Ted Knight) tries desperately to maintain the dignity of the institution, even as boorish outsiders like real estate developer Al Czervik (Rodney Dangerfield) intrude on the serenity of the place. The working-class caddies, such as Danny Noonan (Michael O'Keefe), try to earn a little money and the slightest crumb of respect from the wealthy patrons who golf there. Noonan tries desperately to ontain the Bushwood (college) scholarship, though his efforts to kiss up to the Judge Smails prove futile. After a series of misadventures, and a climactic final gold tournament, Czervik shows the Judge who's really the best golfer at Bushwood.",
+      "writers": [
+         "Brian Doyle-Murray",
+         "Harold Ramis"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0080487/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BNzk2OTE2NjYxNF5BMl5BanBnXkFtZTYwMjYwNDQ5._V1_SY317_CR9,0,214,317_AL_.jpg",
+      "actors": ["Stars: Chevy Chase, Rodney Dangerfield, Bill Murray | See full cast and crew »"],
+      "reviews": [
+         "`National Lampoon's Animal House' may have been one of the first comedies to evolve from the `Saturday Night Live' generation, but it could be argued that `Caddyshack,' directed by Harold Ramis-- and which features two SNL alumni, Chevy Chase and Bill Murray-- actually spawned the entire `SNL genre,' of films, because this is the one that seemed to lock in that formulaic irreverence toward all things, of which they are so indicative. The story here revolves around a young man named Danny Noonan (Michael O'Keefe), a caddy at the upscale Bushwood Country Club, who is bucking for a caddy scholarship to get him into college. Danny figures that the best shot he has at it is to volunteer for the assignment none of the other caddies want-- to caddy for the up-tight Judge Smails (Ted Knight), one of the executive directors of Bushwood, and `kiss up' a bit. Smails responds by letting Danny mow his lawn and attend a christening ceremony for his new yacht. But Danny is not one to be deterred, even when the good Judge tells him `The world needs ditch diggers, too.' He just goes on, keeping his eyes and his options open. And it isn't long before Danny gets involved with Ty Webb (Chase), an independently wealthy goof-ball with a Zen/Chaplin philosophy of life, whose father was one of Judge Smails' partners in Bushwood. So Danny takes some advice from Ty while caddying for him; advice which just may ultimately have an effect on whether or not he gets his scholarship. Or maybe not. Words of wisdom like `Be the Ball,' and `A donut with no hole is a danish,' may not be what he needs to put him on the fast track to success. But then again, you never know; it's that kind of movie. And there's no getting around it, this is funny stuff. The humor in this movie runs the gamut from broad to subtle, with at least two sight gags thrown in that identify it as belonging to the genre it helped create. At the time of it's theatrical release, in 1980, it was fairly on the cutting edge of comedy; by today's standards, though, it doesn't seem nearly as irreverent, especially given the digressive trend in the genre lately, which has spewed forth such fare as `Freddy Got Fingered,' and `Road Trip.' Then again, this one had Harold Ramis behind the camera, and Ramis has an acute sense of comedic timing, he knows what works, and he made the most of the basic screenplay (by Ramis, Brian Doyle-Murray and Douglas Kenney) and the terrific cast of comedians with which he had to work, all of whom fit so well into the pattern and fabric of this particular picture. Rarely does a comedy (or any film for that matter) have so many actors who fit their characters so perfectly as in this film, beginning with Chevy Chase, who embodies the slightly skewed and off-center Ty Webb so well it's almost frightening. Webb is a guy who veritably floats through life in a perpetual Zen-like state of distraction, and it makes you realize that there probably really are characters like this walking around in the real world. But if the existence of a Ty Webb type is only highly probable, there's no doubt whatsoever about the fact that there are guys like Al Czervik amongst us. Rodney Dangerfield plays Czervik, the obnoxious, fun-loving, high-rolling land developer with a specially made golf club and an eye on Bushwood. In Czervik, Dangerfield creates a character who is outrageous, droll, lacks any taste whatsoever, and is entirely hilarious. It is, without question, the best character and performance of Dangerfield's cinematic career, and -- like Chase-- it's almost scary the way he fits into the character so naturally and completely. The real heart of this movie, however, is Bill Murray, who turns in what just may be the definitive Murray performance with his character, Carl Spackler, the Assistant Greenskeeper at Bushwood. Murray brings Carl, the socially and intellectually challenged man-with-a-plan, to life with subtle nuance and a flare of comedic genius. A lot of what he did in this film was improvised, including much of his two most memorable and hilarious scenes, one in which he's describing his encounter with the Dalai Lama, and the other being his soliloquy of the `Cinderella Boy' on the course at Atlanta. This is truly inspired, funny stuff, and it proves what can be done without resorting to banal vulgarity or crudeness (not that this film is entirely devoid of it, but at least it's tempered here somewhat-- not so overt and in-your-face like you'll often find in some of the more recent offerings of the genre). And there's a harmless shiftiness about Carl, who is about as deep as a pan pizza, and Murray plays it all beautifully. O'Keefe gives a solid performance, as well, but he's basically the straight man here, the set-up guy for one funny situation after another. And he does it quite nicely. Also giving memorable performances are Ted Knight, as the rigid, conservative Judge, and Brian Doyle-Murray as Lou Loomis, who oversees the caddies at Bushwood. The supporting cast includes Sarah Holcomb (Maggie), Scott Colomby (Tony), Cindy Morgan (Lacey Underall), Dan Resin (Dr. Beeper), Henry Wilcoxon (The Bishop), Albert Salmi (Mr. Noonan), John F. Barmon Jr. (Spaulding Smails) and Lois Kibbee (Mrs. Smails). With this film, Ramis and company honed the formula for comedy that incorporated pop culture and contemporary sensibilities into it like never before. And `Caddyshack' is an example of it in it's purest form; you'll have to look long and hard to find anything out of this same mold today that can come close to the prototype. It's one of those movies that gets even better with age-- and funnier, too. It's the magic of the movies. I rate this one 10/10.",
+         "Crudeness doesn't come much more, well, crude, than 1980's sublime \"Caddyshack\". In fact, this crazy quilt takes the slob groundwork laid by \"National Lampoon's Animal House\" and one-ups that collegiate comedy classic by having a carelessly mean, anarchic spirit a mile wide and a foot deep. It's little surprise that writer/director Harold Ramis and co-writer Douglas Kenney were also scribes on that 1978 John Belushi hit. As \"Caddyshack\" shows, the classic us-versus-them scat-humor template is alive and well. But this is not just a crass comedy, it's a HAPPILY crass comedy, that does just about whatever it wants as it casually wanders through it's 90-odd minutes. The DNA of \"Caddyshack\" resides somewhere in the cinematic in-between world of the aforementioned \"Animal House\" and a Three Stooges or W.C. Fields picture. There's a giddiness to its nose-thumbing, and a general pleasure in its coarse eagerness to offend. The screenplay forms a functional spine for what actually amounts to a comedy collision course of witty asides, broad physical comedy, dirty jokes, varied comedic styles and big explosions. But is there really a screenplay here? The film has such a loose and free-wheeling timbre to it that it would be hard not to fault the viewer in thinking that the film was largely improvised, or at least rewritten by committee on set, scene by scene. This film was widely *rumoured* to be \"under the influence\" during shooting, but whatever the cast and crew were \"using\" seemed to work very much in favor of movie, as the flick turned out to be editorially messy and open-structured, yet well-paced and coherent enough to embrace the variety of comedic opinions squeezed into the picture. This is what you get - a smörgåsbord of laughs. You get a Chevy Chase doing his ironic bit, you have one Bill Murray essaying a bizarre-o mental case, good old Ted Knight going into slow-burn histrionics every scene, and Rodney Dangerfield stealing every scene with large chunks of his stand-up act. This shouldn't work, this mix - but it does. Very well. Again, the looseness of the pace and tone of the film forgive some of the storytelling framework featuring young go-getter Michael O'Keefe's attempt to get a college scholarship during one crazy summer caddying for Bushwood Country Club's weirdest members. Instead, Ramis, Kenney and (Bill's brother) Brian Doyle Murray set each of these comedians up with sketch-like scenarios for some of their finest and funniest work. The movie is mean in all the right places - It's the snobs against the slobs, as the advertising says. \"Caddyshack\" takes barbed pot-shots at the class system, at sex, at religion, at bodily functions. No joke is too risqué, no candy bar too gross to eat from the bottom of a empty pool. It has lots of swearing, nudity for nudity's sake, and insults for the pompous and pathetic. Even through its R-rated mean-spiritedness, it's hard to truly be turned off of the film's antagonistic spirit - it earns it's laughs because it's breathlessly paced and damned funny. This is the thematic mold that the Farrellys and Adam Sandler rarely get right. \"Caddyshack\" is endlessly quotable, and surely if you sat around with a few friends anytime in the last 25 years, you could probably spend a good hour reciting lines and scenes that still hold all their glorious funny these many years later. The movie's best scene? My award goes to the \"Night Putting\" sequence where Chevy Chase's Ty Webb and Bill Murray Carl the Greenskeeper finally meet up when Chase fires a Titleist through the window of Murray's lean-to shed-slash-residence. This never fails to get big laughs, and it's a real meeting of the minds. A great sequence for the Comedy Hall of Fame, I'd say. Kenny Loggins' catchy songs (\"I'm Alright\" anyone?) and the jazzy Johnny Mandel (!) orchestral score add a unexpectedly lovely sheen that spit-shines the crudity of subject and filmmaker's style. They're nice touches. You can put \"Caddyshack\" next to \"Casablanca\" or \"Citizen Kane\" - not just in the \"C\" section of your local video store, but as in \"Classic\". Comedies don't come much funnier than this. BTW - skip \"Caddyshack II\". Everything that this one is, that one isn't.",
+         "Old enough to be considered a classic. This is how the National Lampoon/SNL movies should work but rarely have. Snapshot of a few days at exclusive country club follows several divergent story lines leading to climatic golf match. Chevy's flaky Ty Webb and Murray's degenerate groundskeeper are unforgettable characters among a bevy of memorable parts. Followed eight years later by a sequel as utterly bad as this is good. 10/10",
+         "Yes, this one does hold up, perhaps because the action centers on the almost surreal (for a comedy) subject of golf, a topic that had not perhaps been so successfully spoofed since Eddie Cantor starred in \"Kid Boots\" (am I getting that one right?). In the comedy contest between Murray, Chase, and Dangerfield, let me just say that Chase does not win. Dangerfield is at his best, delivering his classic lines (\"this meat's so tough you can see where the jockey was riding it\") with ultimate panache and actually playing his crazy character (reminiscent of Peter Sellars in \"The Party\") to the hilt. Murray is really the show-stopper, though, muttering his lines to give them emphasis (?) and racing around the course with what appears to be real mania. A lot of the jokes fall flat, but when this movie is on, it's so on, that you can't help but call it a classic.",
+         "So now you've got that going for you, which is nice. Inspired by Brian Doyle-Murray's experiences as a caddy in his youth, this wild, anarchic film is about more than just golf. Without a doubt, it's my favorite comedy, and might even be one of the greatest movies of all time. There is not a single scene without comedic chaos. Director Harold Ramis is barely able to contain the insanity. There is honestly so much in Caddyshack, there's enough for ten movies, hardly surprising since the first draft of the screenplay was 199 pages long while the first cut of the film run for 310 minutes. I imagine that there's enough cut out to make whole new Caddyshack movies. There are about five different plots developing at once throughout the movie, the funniest of which is Carl Spackler's (having been licensed to kill by the 'Government of the United Nations') attempts to assassinate a rogue gopher tearing up the golf course. Each and every actor battles with each other, and it's hard to nail down exactly who runs away with the movie, but if I absolutely HAD to choose, I'd say that Rodney Dangerfield's sleazy, slobbish, overly-friendly, and gratuitously tipping character is the most wonderful thing about it. He is the perfect foil for Judge Smails (an utterly perfectly-cast Ted Knight), a pompous, bad-tempered, self-important hypocrite who wants to reserve the pretentious Bushwood Country Club for snobs and gentlemen (despite being far from a gentleman himself). If you like comedy quotes, Caddyshack is a goldmine. There are hundreds, literally hundreds, of lines worthy of repeating in real life. You could literally get by, from cradle to the grave, just quoting Caddyshack, and it would bring you nothing but pure happiness and good fortune.",
+         "CADDYSHACK is one of the Top 5 funniest movies of all time. The show-stealer is obviously Rodney Dangerfield, who also happens to be the coolest old dude ever. His outrageous lines such as \"Did somebody step on a duck?\" are all knee-slappers. Another standout is Carl Spackler, played perfectly by Bill Murray. Carl is a goofy groundskeeper that is obsessed with killing a mischevious gopher. Some of the funniest parts in this movie are Murray's ad-libs. Unfortunately, the plotline of the caddies is overlooked by the outstanding performances by comedic stars such as Dangerfield, Murray, Chevy Chase, and Ted Knight. While CADDYSHACK is an absolute classic, CADDYSHACK 2 is a bomb and fails to live up to the hilarity of this one.",
+         "Caddyshack is one of the great all time classics of it's time. For any golf enthusiast this is a must see. Also, If you just like plain comedy this is a must see. I have seen this movie over 100 times and I still laugh to this day. Bill Murray plays one of the funniest roles that ever hit the big screen. After you see this movie you start repeating sayings that you hear in the movie. The late Ted Knight and Rodney Dangerfield are hilarious. If you are a Chevy Chase fan you must see him in this role. The role of Ty is the one that opened the door for Chase in such movies as Vacation, Fletch, Spies like us, Three Maiga's and Funny Farm. This movie is one that everyone should have in their DVD collection. You can watch it over and over again and laugh out loud every time. This movie rates on par with Animal House. These two classics will go down as two great movies in their era. For all the young people that have not seen this movie I recommend it highly. This movie is one for the ages. If you have not seen this movie go rent or buy it and I guarantees a laugh filled t",
+         "There are five movies Chevy Chase has done that were really good: Seems Like Old Times, Foul Play, National Lampoons Vacation, Fletch, and this icon of film comedy, Caddyshack. The plot is very simple and has often been imitated and the tone of the movie is said in its tagline: the snobs against the slobs. Who are the snobs? The men of Bushwood country club, the snobby Bishop, Dr. Beeper, who never seems to be at his office and the obnoxious leader of the pack Judge Smails, played by Ted Knight. Who are the slobs? There is Ty Webb, a wealthy man who plays without keeping score. Carl Spackler is a groundskeeper that smokes a little too much. And of course the biggest snob of them all, developer Al Czervik, outspoken, obnoxious and completely out of place in a country club. Rodney Dangerfield plays him, Ty Webb is played by Chevy Chase and Bill Murray plays Carl Spackler. These characters rub together uncomfortably in various forms to create all-time great comedy moments. What makes this movie so good is there is no star that dominates the movie. Everyone dominates the stage equally. They all have great lines and they work very well together. This comedy is extremely dirty and raunchy even by today's standards. The raunchiness has worn off with time and some of the take-offs are not so obvious to future generations but some of these lines have become well known jokes among some. Part of the reason this movie works so well is the jokes are rapid fire. They just hit you with one line after another. One thing I noticed watching this movie is that these characters pop out at you. These people are incredible snobs, incredible sluts, extremely insulting, or just weird. There are no really neutral characters. Every character in this movie does something that makes them stand out if not for a few seconds. This can be accredited to the great writing and directing by Harold Ramis one of the great comedians of our day despite the fact he is very underrated and is mostly these days behind the cameras. Another thing about these characters is that they seem so real. Today a lot of characters in comedy films are cardboard characters. All of the characters here are written so nicely and believably and this is something very rare in modern comedy. And there are so many classic scenes in this movie. Among my favorites is the boating scene, the swimming pool scene, and when we see Rodney Dangerfield's golf bag phone. And there are many great small parts by people like Albert Salmi, who plays Danny Noonan's father, Brian Doyle-Murray, who plays Lou Loomis, Scott Colomby who plays a troublemaking Caddy named Tony D'Annunzio, and Sarah Holcombe plays Maggie O'Hooligan, Noonan's girlfriend, Cindy Morgan plays the niece of Judge Smails, Lacey Underall, Henry Wilcoxon plays a rather bigoted Bishop Fred Pickering, Dan Resin plays a rather uncaring Dr. Beeper and there are many other great small parts. All of these small parts are very good. But one thing to notice is all of the ironic names like Lacey Underall, Maggie O'Hooligan, Dr. Beeper and plenty of other funny names. The movie is a bit dated. Everyones hair is very long, the segway music seems heavily disco influenced, there are a lot more people wearing plaid, and there are jokes about people like Dick Cavett when so few people today know who he is. I love some of the more pointed humor in this movie, but I like the effect of the age of the movie. The movie makes some rich people look like callous uncaring bigoted fools and has some not too king rich people talk very bluntly (such as Smails' nephew say he knows some drugs are good because he got it from a Negro) Be forewarned this could be an offensive movie to some. My hat is off to the two leads, Rodney Dangerfield and Chevy Chase. Bill Murray is funny too but his part is very small and this is not the best showcase of his talents. But Chase is goofy to no end. In this part he always manages to say the most off the wall comments that are hysterical. Dangerfield uses his patented rich obnoxious out-spoken character and make it fit this movie so perfectly. His insults are classic. Unfortunately after this movie Chevy Chase made few quality movies. These days he prefers to do mostly family oriented movies that are mostly not funny. It is sad he has chosen to do so few straight comedies. He has essentially been a comedy legend based on some raunchy movies like this one and Vacation but chooses not to star in these kinds of movies anymore. It is sad. He is one of the funniest people in my generation and he probably could have been even funnier. And I love the soundtrack. The song by Kenny Loggins, I'm Alright is great and more songs by Eddie Cochran and Earth Wind and fire are great as well. And who could forget that little gopher? He was actually created by George Lucas. Some of the funniest scenes in the movie involve that little gopher. Overall this is a funny movie that has withstood the test of time and will probably be funny to future generations as well.",
+         "What is the point of a movie about teenage caddies running around, chasing women, smoking grass, and causing all sorts of shenanigans? Only to create one of the greatest comedies of this or any time period. If you are looking for a movie that will keep you laughing from start to finish, look no further my friends. Caddyshack captures the youthful spirit of teens and the country club life to perfection. Every character in this film has something about them that makes them uniquely hilarious. Judge Smails, played by Ted Knight, contributes to the comedy with his gut busting mannerisms and his contagious laugh. Ty Webb, played by Chevy Chase, is a wise cracking man who loves to stick it to the man. Then we have Danny Noonan (Michael O'Keefe) who is the lovable, yet rambunctious, caddy who is just trying to find his way in the world. Quite possibly the funniest character in any sports movie is Carl Spackler (Bill Murray). This character is the glue of the film. His idiotic manner and constant abuse of alcohol makes for a performance that will be remembered for generations. Last but certainly not least is Al Czervik (Rodney Dangerfield). While at times he is very juvenile, his antics fit right in at Bushwood Country Club. There are three S's that make a successful comedy movie, sex, silliness, and soundtrack. With the very sexy Lacey Underall (Cindy Morgan), all of the characters previously mentioned, and a gopher dancing to \"I'm Alright\" by Kenny Logins, this film is more than a success, it is a masterpiece.",
+         "Yet another excellent 1980s comedy has entered my top 20, this is number 5! Chevy Chase, Bill Murray, Rodney Dangerfield, Golf, and Dancing Gophers! What more could you want? This movie delivers with non stop beginning to end laughs that will keep you in stitches, I had trouble breathing it was too funny! The plot line is highly original and extremely creative, and will keep you interested for the whole flick! The dual sided story each feature amazing jokes and hilarious clashes, with every single scene delivering! I must say, this is one film I can not resist watching over and over and over and over and over! Now and forever, praise for Caddyshack and it's endless reign of hilarity! Cause I'm Alright, Don't Nobody Worry Bout ME! Highly Suggested to any fan of comedy! The 1980s Were the Best For Movies!"
+      ],
+      "genres": [
+         "Comedy",
+         "Sport"
+      ],
+      "productionCompanies": ["Orion Pictures"],
+      "summaries": [
+         "Comical goings on at an exclusive golf club. All the members are wealthy and eccentric, and all the staff are poor and slightly less eccentric. The main character is 'Danny'; he's a caddy who will do almost anything to raise money to go to college. There are many subplots, including the assistant green keeper's pursuit of a cute (obviously stuffed) gopher.",
+         "Danny Noonan is a young caddy at Bushwood Country Club who has no idea about where his future will lead. His best chance at getting his life on track is to earn a caddy scholarship from Judge Elihu Smails, the owner of the Country Club. Al Czervik is a rude, and overly eccentric millionaire who has interests in purchasing Bushwood. Judge Smails shows a quick disliking towards Al and soon there is a conflict between the Judge and Al, the Judge and Danny, and even between the Judge and Ty Webb the charming golfer who is slowly helping Danny figure out his real goals. On the outside of this is Carl Spackler the Golf Course Grounds keeper, who's goal is eliminate a rampaging gopher who is chewing up holes throughout the golf course.",
+         "A millionaire wants to turn a golf course into a new property development, but the president of the golf club doesn't like the idea. This is the basic 'plot' which hides behind the many antics of the employees and players on the golf course.",
+         "An exclusive golf course has to deal with a brash new member and a destructive dancing gopher."
+      ],
+      "budget": 6000000
+   },
+   "movielensId": 3552,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1980-07-25",
+      "dvdReleaseDate": "1997-06-24",
+      "directors": ["Harold Ramis"],
+      "runtime": 98,
+      "movieId": 3552,
+      "title": "Caddyshack",
+      "mpaa": "R",
+      "actors": [
+         "Chevy Chase",
+         "Rodney Dangerfield",
+         "Ted Knight",
+         "Michael O'Keefe",
+         "Bill Murray",
+         "Sarah Holcomb",
+         "Scott Colomby",
+         "Cindy Morgan",
+         "Dan Resin",
+         "Henry Wilcoxon",
+         "Elaine Aiken",
+         "Albert Salmi",
+         "Ann Ryerson",
+         "Brian Doyle-Murray",
+         "Hamilton Mitchell",
+         "Peter Berkrot",
+         "John F. Barmon Jr.",
+         "Lois Kibbee",
+         "Brian McConnachie",
+         "Scott Powell",
+         "Ann Crilley",
+         "Cordis Heard",
+         "Scott Sudden",
+         "Jackie Davis",
+         "Thomas A. Carlin",
+         "Minerva Scelza",
+         "Kenneth Burritt",
+         "Rebecca Burritt",
+         "Barbara Keegan",
+         "Scott Jackson",
+         "Ron Frank",
+         "Patricia Wilcox",
+         "Debi Frank",
+         "Tony Gulliver",
+         "Kim Bordeaux",
+         "Lori Lowe",
+         "Marcus Breece",
+         "Mark Chiriboga",
+         "Fred Buch",
+         "Frank Schuller",
+         "Mel Pape",
+         "Marge McKenna",
+         "Bruce McLaughlin",
+         "Dennis McCormack",
+         "Violet Ramis",
+         "Judy Arman",
+         "Dr. Dow",
+         "Paige Coffman",
+         "Donna M. Wiggin",
+         "James Hotchkiss",
+         "Debbie Howard",
+         "Douglas Kenney",
+         "John Murray",
+         "Ted Swanson",
+         "Anna Upstrom"
+      ],
+      "imdbMovieId": "0080487",
+      "originalTitle": "Caddyshack",
+      "genres": ["Comedy"],
+      "youtubeTrailerIds": [
+         "zrTqenN1SqQ",
+         "HHXFnSOvvBg",
+         "BZZJA1uc-VU"
+      ],
+      "plotSummary": "At an exclusive country club, an ambitious young caddy, Danny Noonan, eagerly pursues a caddy scholarship in hopes of attending college and, in turn, avoiding a job at the lumber yard. In order to succeed, he must first win the favour of the elitist Judge Smails, and then the caddy golf tournament which Smails sponsors.",
+      "tmdbMovieId": 11977,
+      "avgRating": 3.66997,
+      "releaseYear": "1980",
+      "numRatings": 10499,
+      "posterPath": "/21nhVVqGsOrKvkncsB5GbRxpSZh.jpg"
+   }
+}

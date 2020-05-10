@@ -1,0 +1,444 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "tennis",
+            "id": 1488
+         },
+         {
+            "name": "investigation",
+            "id": 5340
+         },
+         {
+            "name": "coach",
+            "id": 8338
+         },
+         {
+            "name": "murder",
+            "id": 9826
+         },
+         {
+            "name": "los angeles",
+            "id": 12670
+         },
+         {
+            "name": "drugs",
+            "id": 14964
+         },
+         {
+            "name": "neo-noir",
+            "id": 207268
+         }
+      ],
+      "imdb_id": "tt0087722",
+      "video": false,
+      "title": "Mike's Murder",
+      "recommendations": [
+         48280,
+         88075,
+         26283,
+         1815,
+         44940,
+         35954
+      ],
+      "backdrop_path": "/lw31N59AlJfAI3S9Nd8MchfSdDx.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 3,
+               "character": "Betty Parrish",
+               "gender": 1,
+               "credit_id": "52fe44599251416c9100d86f",
+               "name": "Debra Winger",
+               "profile_path": "/l1ISZ6yfV8ilaNmOHBVTheq6Mbq.jpg",
+               "id": 26513,
+               "order": 0
+            },
+            {
+               "cast_id": 4,
+               "character": "Mike",
+               "gender": 2,
+               "credit_id": "52fe44599251416c9100d873",
+               "name": "Mark Keyloun",
+               "profile_path": null,
+               "id": 548089,
+               "order": 1
+            },
+            {
+               "cast_id": 5,
+               "character": "Pete",
+               "gender": 2,
+               "credit_id": "52fe44599251416c9100d877",
+               "name": "Darrell Larson",
+               "profile_path": "/rgGlOQAVeeFtrdAtlyghhuFqquI.jpg",
+               "id": 51188,
+               "order": 2
+            },
+            {
+               "cast_id": 6,
+               "character": "Patty",
+               "gender": 1,
+               "credit_id": "52fe44599251416c9100d87b",
+               "name": "Brooke Alderson",
+               "profile_path": "/oaQvpAcfTVuYpa8xd5HJpeBpkgl.jpg",
+               "id": 182574,
+               "order": 3
+            },
+            {
+               "cast_id": 7,
+               "character": "Phillip",
+               "gender": 2,
+               "credit_id": "52fe44599251416c9100d87f",
+               "name": "Paul Winfield",
+               "profile_path": "/6FuLfJh70aDUxggFuPC2oID5Mjg.jpg",
+               "id": 1818,
+               "order": 4
+            },
+            {
+               "cast_id": 8,
+               "character": "Sam",
+               "gender": 0,
+               "credit_id": "538f18e6c3a36832c00014b7",
+               "name": "Robert Crosson",
+               "profile_path": null,
+               "id": 1327485,
+               "order": 5
+            },
+            {
+               "cast_id": 9,
+               "character": "Richard (as Daniel Shor)",
+               "gender": 2,
+               "credit_id": "538f18fec3a36832d700136b",
+               "name": "Dan Shor",
+               "profile_path": "/aIs4IgAlAaXE1RAdFrVUR4uZKiW.jpg",
+               "id": 2550,
+               "order": 6
+            },
+            {
+               "cast_id": 10,
+               "character": "Beautiful Girl #1",
+               "gender": 1,
+               "credit_id": "56872cd2c3a36836280090f1",
+               "name": "Kym Malin",
+               "profile_path": "/dxSlkPMnjaCHH5z6wNTW4NCYuW7.jpg",
+               "id": 548663,
+               "order": 7
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe44599251416c9100d865",
+               "name": "James Bridges",
+               "profile_path": "/nljVYzyIh6aB7el8rM3LJFVh3dZ.jpg",
+               "id": 14838,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44599251416c9100d86b",
+               "name": "James Bridges",
+               "profile_path": "/nljVYzyIh6aB7el8rM3LJFVh3dZ.jpg",
+               "id": 14838,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5795a3e99251413d03002675",
+               "name": "James Bridges",
+               "profile_path": "/nljVYzyIh6aB7el8rM3LJFVh3dZ.jpg",
+               "id": 14838,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5795a3f19251413d5e00271a",
+               "name": "Kim Kurumada",
+               "profile_path": null,
+               "id": 1535816,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5795a3fac3a368673c002980",
+               "name": "Jack Larson",
+               "profile_path": "/11UOpxJnhX2JZ7dAjy7G735pUbo.jpg",
+               "id": 193763,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5795a4159251413d5e00272e",
+               "name": "John Barry",
+               "profile_path": "/9NyieJO78xbwKIBZ1589WfdRPV8.jpg",
+               "id": 2289,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5795a41c9251413d5e002732",
+               "name": "Reynaldo Villalobos",
+               "profile_path": null,
+               "id": 17948,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5795a423c3a3681f310086a8",
+               "name": "Dede Allen",
+               "profile_path": "/20uUxDktTl18s4Y20oPipmWHRJD.jpg",
+               "id": 6453,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5795a429c3a368673c002997",
+               "name": "Jeff Gourson",
+               "profile_path": null,
+               "id": 12865,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5795a4309251417254000bd6",
+               "name": "Wallis Nicita",
+               "profile_path": null,
+               "id": 12847,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5795a4389251410ea9003b73",
+               "name": "Peter Jamison",
+               "profile_path": null,
+               "id": 15014,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5795a43f9251414239008fef",
+               "name": "Hub Braden",
+               "profile_path": null,
+               "id": 1621401,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5795a4469251410ea9003b83",
+               "name": "R. Chris Westlund",
+               "profile_path": null,
+               "id": 74967,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5795a44c9251417254000bea",
+               "name": "April Ferry",
+               "profile_path": null,
+               "id": 7238,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5795a4539251412c1f005efc",
+               "name": "Lynda Gurasich",
+               "profile_path": null,
+               "id": 83118,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5795a45ac3a36829230059f6",
+               "name": "Mark Reedall",
+               "profile_path": null,
+               "id": 1455397,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5795a462c3a368673c0029c1",
+               "name": "Kim Kurumada",
+               "profile_path": null,
+               "id": 1535816,
+               "department": "Production",
+               "job": "Unit Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "579a3c8092514113280038c8",
+               "name": "Joe Jackson",
+               "profile_path": "/rhxDhz5mwK89zuExZTz8YFLfa9y.jpg",
+               "id": 42462,
+               "department": "Sound",
+               "job": "Music"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Mystery",
+            "id": 9648
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         }
+      ],
+      "popularity": 1.365524,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 31043,
+      "vote_count": 6,
+      "budget": 0,
+      "overview": "Betty has a crush on her tennis coach Mike. He keeps promising to call her for a date, but never does \u2013 she doesn\u2019t know he sells drugs on the side. After a failed deal on someone else\u2019s turf, Mike has to disappear for three months. He contacts Betty \u2013 he\u2019s killed before they can meet. Betty tries to find out what happened, asking around among Mike's friends. This leads her straight into the hornet's nest of vice, a place where everything's for sell and no one can't be bought.",
+      "similar": [
+         15069,
+         4771,
+         984,
+         357096,
+         1266,
+         18587,
+         10651,
+         26390,
+         8090,
+         20676,
+         12150,
+         4997,
+         949,
+         979,
+         320,
+         281,
+         75780,
+         807,
+         445954,
+         21484
+      ],
+      "original_title": "Mike's Murder",
+      "runtime": 109,
+      "poster_path": "/yX9n7XHMR6prb2GlaEfDoSFjhZA.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "The Ladd Company",
+            "id": 7965,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Skyewiay",
+            "id": 14222,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/6rFNo5taSC9i0Sxnl81nucQMsw9.png",
+            "name": "Warner Bros. Pictures",
+            "id": 174,
+            "origin_country": "US"
+         }
+      ],
+      "release_date": "1984-03-09",
+      "vote_average": 5.8,
+      "belongs_to_collection": null,
+      "tagline": "The mystery that led her into a world of incredible danger.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["James Bridges"],
+      "runtime": 109,
+      "synopsis": null,
+      "writers": ["James Bridges"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0087722/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMjEwMjUxNjcwOV5BMl5BanBnXkFtZTcwMjI0MjMzMQ@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Debra Winger, Mark Keyloun, Darrell Larson | See full cast and crew »"],
+      "reviews": [
+         "There's a lot of good things to say about this obscure mystery from the 80s. The best thing is Debra Winger, who never looked better. She is beautiful and sexy, earthy and smoldering, yet she possesses an approachable, naive quality. The story is good, with a different kind of look at the drug underworld in Los Angeles. This is not about cops, gangsters and car chases. It's about an innocent woman who accidentally becomes involved in a drug-related murder. It's really all about Winger's character, although Paul Winfield stands out in a small role as a gay music producer. The mood is low-key and dreamlike with a subtle erotic undertone. It also has a nice score that stays with you. Give it a chance.",
+         "For some inexplicable reason, critics find this film hard to follow. Actually, it's very coherent and surprisingly powerful. Debra Winger plays a bank employee who falls for her tennis coach, a young stud named Mike. When Mike is brutally murdered by drug dealers, Winger's character, Betty, is drawn into the L.A. underworld in her quest to find out why he was killed. What makes this film so great is its quiet realism. Most latter day noirs suffer from over-the-top plotting, mega-violence, and cartoonish effects. Moving by indirection and inference, MIKE'S MURDER skirts a hellish world rather than diving in, a narrative strategy that makes it eerily believable and deeply disturbing. Check it out.",
+         "My experience with this film differs from some of those who seem to be objecting to both the plot and the cast. I thought the idea of a 20's something woman who immerses herself in a quasi-relationship with a person on the fringe of society to be interesting. Winger turns in a terrific performance. Part of the human experience or journey is that one encounters difficult moments in one's life - including anticipating relationships one wants desperately to work out. Betty is in the unfortunate position of having to view Mike from afar as the latter is caught in a nightmarish world of drugs and deceit. I found Mike's drug partner in crime very compelling. One had a real sense of dread and doom as he tried to \"make-up\" for an irredeemable mistake. Paul Winfield is spot on as the record producer who has also suffered a loss. All in all, what we have here is a subtle film which is compelling and which a typical focus group would probably pass over. One good example of why film producers and directors should stay away from them and let their artistic visions guide their actions.",
+         "This movie is compelling because the character of Betty is so innocent about what is going on in this murky tennis coach. It makes it easy to see how a normal person could find themselves in way over their heads without knowing it. The kitchen scene with the pal of Mike's who manages to get away from the bad guys is gut wrenching. Debra Winger has never gotten the breaks that she richly is due. I feel that it is compelling that the late Bette Davis stated that of the new actresses that Ms Winger was the most like her and I don't think that she was merely referring to their bad press.",
+         "This is one of the most harrowing pictures I have ever seen. It is a very good and very underrated film. All of the actors do a great job in their roles and Darrell Larson gives an outstanding portrayal of a young man who inadvertently signed his own death warrant. I only wish that this film was nominated for an Academy Award for best picture, best actress and best supporting actor.!! If you have not seen this film, be sure and check it out--nerve wracking, nail-biting, and an edge of your seat film--you don't know what to expect from minute to minute. One of the best films of any year!!",
+         "Last night, Debra Winger spoke about this film at UCLA. The campus theatre that shows films to the general public was renamed the James Bridges Theatre in honor of the writer and director of Mike's Murder. Debra said that Bridges was an actor's director. The scene in the film where Debra's character checks her phone messages and we hear a voice say it's mom-that was Debra's real life mother Ruth-Debra didn't know she would hear that voice until the moment the scene was shot! That example really highlights the strength of the film, the acting. All of the performances are first-rate. I was touched by Debra's quiet strength in the face of some sad and even bizarre discoveries by her character about her dead lover. A very underrated film!",
+         "Seems like many films fall into this category- especially when they were not blockbusters, had an interesting plot, and do not conform to the formulaic Hollywood trend. Debra Winger is very good in this film as a 20-something girl, living on her own, who soon gets in over her head. Mark Keyloun plays Mike, her tennis coach, with whom she develops an interest. The backdrops of LA are interesting and mood inspired, as was the score- if it wasn't I wouldn't be remembering it right now. Brooke Alderson (\"Urban Cowboy\") also has a brief part as Winger's friend- who tells her to get out- get out of the relationship. Apparently Mike has ties to the drug world- and Winger's character is embroiled in the plot. There are also some interesting scenes with Paul Winfield as a corrupt record producer. Watch this film. The story is film-noir, set in L.A. Debra Winger is excellent, as always. You will not be disappointed.",
+         "Who the hell is anybody kidding? Some people say that this movie stinks? Get the hell out of here! Without a doubt, this movie was one of the best films Hollywood ever put out. From the first scene of intrigue, to the last moments of hell-raising ice-chilling fear, no sane person can say that this movie didn't scare the hell out of them! When watching this movie, you don't know \"what the hell\" will happen next. Debra Winger's subject is someone you just can't help but feel sorry for. She's kept totally in the dark about her love interest's real profession, and past times. And when you finally see, and feel, what truly kind of low-life bastards that really do infest the drug trade, a world that I unfortunately do know something about, you'll see for yourself that this film is very realistic and an absolute heart-stopper! You will not be disappointed!",
+         "...anything but - Smart industry personnel be they script, directors, producers, actor/actresses, set-property, agents, scribes - know the reality of the myth of ease per Los Angeles. The weather is the primer for the pump that has made the myth fact. LA is a very dangerous place for that very reason and this film does a great service in depicting what the naive step into to their own peril in assuming anything but that. Paul Winfield sympathy is so evident here for Debra Winger. The only real mystery is why she would be pulled to Mike to begin with - our boy Mike is a real fool who hangs with others because of the choices he's made already - got make some more scratch and I don't want to work hard for it. Great movie as noted the draw isn't so much 'Who dun it' as 'Don't be a fool, you've no idea who you are messing with!'",
+         "Debra Winger in one word in this movie: WOW! She looks amazing. 80s hair and that beautiful smile make this worth watching in itself. The story is a good one (a drug dealing \"boyfriend\" that the bad guys kill and Betty getting dragged into the whole mess) and the acting is well-done (wait till you see Paul Winfield!). Decent mid-80s-type soundtrack with those kinds of tunes you heard once and forgot. And Debra Winger looking great! If you can't catch it on the cable movie channels, rent it. An inexpensive flash-back with no side effects."
+      ],
+      "genres": [
+         "Drama",
+         "Mystery",
+         "Thriller"
+      ],
+      "productionCompanies": ["Skyewiay"],
+      "summaries": ["Betty has a crush on her tennis coach Mike. He keeps on promising to call, but never does - she doesn't know that he's a little dealer. After a failed deal in someone else's district he has to disappear for three months. He contacts Betty again, but she waits in vain - he's killed before they meet. Now she tries to find out what happened, asks around among his friends. This leads her right into the drug scenery."],
+      "budget": 0
+   },
+   "movielensId": 2945,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1984-03-09",
+      "dvdReleaseDate": "2009-11-11",
+      "directors": ["James Bridges"],
+      "runtime": 109,
+      "movieId": 2945,
+      "title": "Mike's Murder",
+      "mpaa": "",
+      "actors": [
+         "Debra Winger",
+         "Mark Keyloun",
+         "Darrell Larson",
+         "Brooke Alderson",
+         "Paul Winfield",
+         "Robert Crosson",
+         "Dan Shor",
+         "Kym Malin"
+      ],
+      "imdbMovieId": "0087722",
+      "originalTitle": "Mike's Murder",
+      "genres": [
+         "Drama",
+         "Mystery",
+         "Thriller"
+      ],
+      "youtubeTrailerIds": ["hNZuTSbR1XI"],
+      "plotSummary": "Betty has a crush on her tennis coach Mike. He keeps on promising to call, but never does \u2013 she doesn\u2019t know that he\u2019s a little dealer. After a failed deal in someone else\u2019s district he has to disappear for three months. He contacts Betty again, but she waits in vain \u2013 he\u2019s killed before they meet. Now she tries to find out what happened, asks around among his friends. This leads her right into the drug scenery.",
+      "tmdbMovieId": 31043,
+      "avgRating": 2.7953,
+      "releaseYear": "1984",
+      "numRatings": 149,
+      "posterPath": "/yX9n7XHMR6prb2GlaEfDoSFjhZA.jpg"
+   }
+}

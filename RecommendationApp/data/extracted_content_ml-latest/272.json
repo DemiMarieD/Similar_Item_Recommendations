@@ -1,0 +1,505 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "queen",
+            "id": 2011
+         },
+         {
+            "name": "kingdom",
+            "id": 4152
+         },
+         {
+            "name": "biography",
+            "id": 5565
+         },
+         {
+            "name": "psychopath",
+            "id": 6259
+         },
+         {
+            "name": "victorian england",
+            "id": 8250
+         }
+      ],
+      "imdb_id": "tt0110428",
+      "video": false,
+      "title": "The Madness of King George",
+      "recommendations": [
+         36912,
+         26516,
+         22013,
+         10608,
+         2321,
+         10631,
+         14320,
+         8293,
+         10337,
+         965,
+         10178,
+         13681,
+         14554,
+         5179,
+         2895,
+         502,
+         35227,
+         18129,
+         27362,
+         43832
+      ],
+      "backdrop_path": "/6FisebQRMyxGuIgq3VFfLCFBX4g.jpg",
+      "revenue": 15238994,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "George III",
+               "gender": 0,
+               "credit_id": "52fe44249251416c7502a4cf",
+               "name": "Nigel Hawthorne",
+               "profile_path": "/jKG3trCa3RGE6h5yzjMOramfoed.jpg",
+               "id": 15788,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Queen Charlotte",
+               "gender": 1,
+               "credit_id": "52fe44249251416c7502a4d3",
+               "name": "Helen Mirren",
+               "profile_path": "/4EGgBJPUBz68ZrnFuLVo01r0uND.jpg",
+               "id": 15735,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Dr. Willis",
+               "gender": 2,
+               "credit_id": "52fe44249251416c7502a4d7",
+               "name": "Ian Holm",
+               "profile_path": "/27SAk1v043GdOeAxT5pPoMUYhGg.jpg",
+               "id": 65,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Greville",
+               "gender": 2,
+               "credit_id": "52fe44249251416c7502a4db",
+               "name": "Rupert Graves",
+               "profile_path": "/erhJMyO6Cuh95TmSTAfQHNfCAi9.jpg",
+               "id": 11278,
+               "order": 3
+            },
+            {
+               "cast_id": 12,
+               "character": "Lady Elizabeth Pembroke",
+               "gender": 1,
+               "credit_id": "52fe44249251416c7502a509",
+               "name": "Amanda Donohoe",
+               "profile_path": "/nmTpcbQVNmKjSHsPCOjoQa7jEuX.jpg",
+               "id": 18191,
+               "order": 4
+            },
+            {
+               "cast_id": 14,
+               "character": "Prince of Wales",
+               "gender": 2,
+               "credit_id": "52fe44249251416c7502a511",
+               "name": "Rupert Everett",
+               "profile_path": "/jGTaV5htTRo2T0aeM2eoHZcpLG4.jpg",
+               "id": 4757,
+               "order": 5
+            },
+            {
+               "cast_id": 13,
+               "character": "Frederick, Duke of York",
+               "gender": 2,
+               "credit_id": "52fe44249251416c7502a50d",
+               "name": "Julian Rhind-Tutt",
+               "profile_path": "/pceSvV5ms0cCozVymblUUmIxb2S.jpg",
+               "id": 7031,
+               "order": 6
+            },
+            {
+               "cast_id": 15,
+               "character": "William Pitt Jr.",
+               "gender": 2,
+               "credit_id": "52fe44249251416c7502a515",
+               "name": "Julian Wadham",
+               "profile_path": "/mOncV8nKgN0sb6GsvBq2YrraEft.jpg",
+               "id": 5473,
+               "order": 7
+            },
+            {
+               "cast_id": 16,
+               "character": "Charles James Fox",
+               "gender": 2,
+               "credit_id": "52fe44249251416c7502a519",
+               "name": "Jim Carter",
+               "profile_path": "/ycS14B6YHA2k4IlEPNgh0eQOv7u.jpg",
+               "id": 20070,
+               "order": 8
+            },
+            {
+               "cast_id": 17,
+               "character": "Warren",
+               "gender": 2,
+               "credit_id": "52fe44249251416c7502a51d",
+               "name": "Geoffrey Palmer",
+               "profile_path": "/6ouSoFGy8Rd9viyHmWHoEJfknFa.jpg",
+               "id": 10746,
+               "order": 9
+            },
+            {
+               "cast_id": 18,
+               "character": "Fortnum",
+               "gender": 2,
+               "credit_id": "52fe44249251416c7502a521",
+               "name": "Adrian Scarborough",
+               "profile_path": "/i4oo8zApNAbKQKI4yKc0T571dBI.jpg",
+               "id": 40311,
+               "order": 10
+            },
+            {
+               "cast_id": 19,
+               "character": "Fitzroy",
+               "gender": 0,
+               "credit_id": "56945eadc3a3680ea6000a1e",
+               "name": "Anthony Calf",
+               "profile_path": "/qBjAMr9skdGVYeSNmjw7OG2f4zu.jpg",
+               "id": 192846,
+               "order": 11
+            },
+            {
+               "cast_id": 20,
+               "character": "2nd MP",
+               "gender": 2,
+               "credit_id": "56945f079251414b780009a2",
+               "name": "Alan Bennett",
+               "profile_path": "/ueTgrhepWRiIrDmAEfwcSE5riM0.jpg",
+               "id": 55477,
+               "order": 12
+            },
+            {
+               "cast_id": 21,
+               "character": "Thurlow",
+               "gender": 2,
+               "credit_id": "58979063c3a368089801d1ca",
+               "name": "John Wood",
+               "profile_path": "/bWt4JT9eGxFtu3q0iCAKFtNv5XK.jpg",
+               "id": 8937,
+               "order": 13
+            },
+            {
+               "cast_id": 22,
+               "character": "Black Rod",
+               "gender": 0,
+               "credit_id": "589790709251415aaa017afa",
+               "name": "Jeremy Child",
+               "profile_path": "/kdd6OfSGCkEIkyTNBmIVraz2W4t.jpg",
+               "id": 158293,
+               "order": 14
+            },
+            {
+               "cast_id": 23,
+               "character": "Dundas",
+               "gender": 2,
+               "credit_id": "58979083c3a36808ab01cd3e",
+               "name": "Struan Rodger",
+               "profile_path": "/qDE0jrAyMzChwwP9x0YlBIvAGrq.jpg",
+               "id": 137927,
+               "order": 15
+            },
+            {
+               "cast_id": 24,
+               "character": "Mrs. Fitzherbert",
+               "gender": 1,
+               "credit_id": "58979091c3a368089801d1f6",
+               "name": "Caroline Harker",
+               "profile_path": null,
+               "id": 182062,
+               "order": 16
+            },
+            {
+               "cast_id": 25,
+               "character": "Baker",
+               "gender": 2,
+               "credit_id": "589790a5c3a368627c018d9c",
+               "name": "Roger Hammond",
+               "profile_path": "/p81yHkWRbxDoKcwBKZoduEoSl9c.jpg",
+               "id": 27660,
+               "order": 17
+            },
+            {
+               "cast_id": 26,
+               "character": "Willis' Attendants",
+               "gender": 0,
+               "credit_id": "589790bd9251412e1901c9d4",
+               "name": "Clive Brunt",
+               "profile_path": "/jQ6rtpcmqVcic1ew172LePqFz1B.jpg",
+               "id": 1538418,
+               "order": 18
+            },
+            {
+               "cast_id": 27,
+               "character": "Mrs. Cordwell",
+               "gender": 1,
+               "credit_id": "589790c89251415aaa017b3d",
+               "name": "Selina Cadell",
+               "profile_path": "/uBWVnwS6bGyyGDRY98gsIO4P1p.jpg",
+               "id": 4573,
+               "order": 19
+            },
+            {
+               "cast_id": 28,
+               "character": "MPs",
+               "gender": 2,
+               "credit_id": "589790d7c3a3686222018169",
+               "name": "Roger Ashton-Griffiths",
+               "profile_path": "/3lvWs4Kz0aATpcSY7PyPhkKgH6W.jpg",
+               "id": 20243,
+               "order": 20
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe44249251416c7502a4e1",
+               "name": "David Parfitt",
+               "profile_path": null,
+               "id": 20062,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44249251416c7502a4e7",
+               "name": "Nicholas Hytner",
+               "profile_path": "/f0wcakkpI4KKNvQjVj8rOnwSYT1.jpg",
+               "id": 55476,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44249251416c7502a4ed",
+               "name": "George Fenton",
+               "profile_path": "/23V03rGdkvNgeiBwLodJzNKdhJC.jpg",
+               "id": 1528,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44249251416c7502a4f9",
+               "name": "Alan Bennett",
+               "profile_path": "/ueTgrhepWRiIrDmAEfwcSE5riM0.jpg",
+               "id": 55477,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44249251416c7502a4ff",
+               "name": "Tariq Anwar",
+               "profile_path": null,
+               "id": 8219,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44249251416c7502a505",
+               "name": "Andrew Dunn",
+               "profile_path": "/vguhffdvBgtxb5Hl08PKZl160en.jpg",
+               "id": 8846,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a6e0cbd925141075a01b86e",
+               "name": "Ken Adam",
+               "profile_path": null,
+               "id": 9869,
+               "department": "Art",
+               "job": "Production Design"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "History",
+            "id": 36
+         }
+      ],
+      "popularity": 5.135304,
+      "production_countries": [{
+         "iso_3166_1": "GB",
+         "name": "United Kingdom"
+      }],
+      "id": 11318,
+      "vote_count": 78,
+      "budget": 0,
+      "overview": "King George III's erratic behaviour leads to a plot in Parliament to have him declared insane and removed from the throne.",
+      "similar": [
+         769,
+         810,
+         5915,
+         462,
+         11202,
+         640,
+         371638,
+         318846,
+         324786,
+         389015,
+         407445,
+         363676,
+         396371,
+         323677,
+         228970,
+         274479,
+         152532,
+         329829,
+         300671,
+         276907
+      ],
+      "original_title": "The Madness of King George",
+      "runtime": 107,
+      "poster_path": "/Apgj4j73aUyMkNaPoSuQ7DJbt1M.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Samuel Goldwyn Company",
+            "id": 798,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Close Call Films",
+            "id": 23022,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Channel Four Films",
+            "id": 181,
+            "origin_country": "GB"
+         }
+      ],
+      "release_date": "1994-12-28",
+      "vote_average": 6.8,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "UK",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Nicholas Hytner"],
+      "runtime": 107,
+      "synopsis": null,
+      "writers": [
+         "Alan Bennett",
+         "Alan Bennett"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0110428/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMjExMzk0ODQyNV5BMl5BanBnXkFtZTcwODk0ODE1NA@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Nigel Hawthorne, Helen Mirren, Rupert Graves | See full cast and crew »"],
+      "reviews": [
+         "He was our last King, and the one we are raised to hate the memory of. And he was actually a hard working monarch, wrong headed at times, who had the longest reign (for any monarch - until Queen Victoria) in English history. He was George III (reigned 1760 - 1820 - the last nine years incapacitated by insanity and blindness). It was while he was ruling Great Britain that the American Revolution occurred, the French Revolution occurred, Napoleon rose and fell, and the industrial revolution hit Western Europe and the Americas. His is a key reign of modern history. We are taught he was a tyrant. Actually he was a conscientious supporter of the British Constitution, but he believed the colonists were disobedient children who should have been punished for their own good. Once it was obvious that they had won on the battlefield, George offered to abdicate. He was talked out of it, and eventually faced up to accepting the papers of the new Minister from the United States, Mr. John Adams. But he never really fully accepted it, and in his last decade the two countries fought a second war (the War of 1812). George III was a good, but strict family man. He and his wife Charlotte had seven sons and six daughters. But his sons were disappointments (the best one, Frederick, Duke of York, was a second-rate army commander who got involved in a scandal when his mistress, Mrs. Clarke, sold army commissions \"in the name of the Duke of York\" to undeserving men). The German Georges had a tradition of hatred between the Kings and their sons and heirs. George I was hated by George II because the former had imprisoned his wife (George II's mother) for life for infidelity (see SARABAND FOR DEAD LOVERS). George II was hated by his son, Frederick, Prince of Wales, and kicked the son out of the royal palace. Frederick died prematurely in 1758, so his son George III succeeded in 1760. His son, known as Florizel or \"Prinny\", had a long standing relationship with Mrs. Fitzherbert, a popular actress who happened to be Catholic. It was actually known by King George III that Prinny had an illegal marriage with Mrs. Fitzherbert. As head of the Church of England, George III resented this act. He also disliked Prinny's support of Whig politicians Charles James Fox and Richard Sheridan (and sometimes Edmund Burke). The King was a good Tory - he never realized that Prinny's politics were a way of annoying him, and Prinny was even more reactionary than the King was. Prinny's gambling and drinking debts also annoyed the King. George was able to support the wise government (to 1789 anyway) of William Pitt the Younger. So supportive was he, that Pitt would reciprocate. For one day, in 1788, King George got out of his carriage in a forest, walked over to a tree, and had a long conversation with it. The tree, you see, was not a tree, but actually the now dead King Frederick the Great of Prussia. George III was showing signs of dementia. He was the first really certifiable monarch since Henry VI back in the 15th Century. George's son Prinny was ready to back a bill to remove his father and lock him away. Pitt saw Fox ready to replace him, and fought a long delaying action on the Regency bill. It worked, as Dr. Wills managed to bring the dementia under control. It would only be in 1811, when Pitt was dead for five years (and Fox for four) that a Tory Government passed a Regency bill, but by then Prinny was openly anti-Whig. It was politically allowable for the Percival Ministry to chance Prinny as Regent by then. After George III died he would become George IV and reign until 1830. This film has followed the tragic illness that incapacity (and eventually) destroyed George III, but only to the conclusion of it's first appearance in 1789. Nigel Hawthorne had performed the role to international acclaim on stage. He repeats it here, showing a thoughtful monarch (witness why he is upset about the errant colonies gaining independence - the valuable natural resources are lost, and he is aware of this). He is puritanical when normal, but with a son like Prinny who could blame him for being sorely disappointed. From the start you find yourself rooting for Hawthorne's monarch, who was not the evil tyrant that Thomas Paine and Thomas Jefferson painted. Rupert Everett shows the callousness of the Prince of Wales, who is so selfish that at one point (when safely alone) Pitt and Fox wonder if their American cousins were right about abolishing the monarchy. Ian Holm, as Dr. Wills, is properly a mixture of early pioneer of psychology and tyrant. A wonderful film of how a national crisis was met and overcome peacefully. And timely too. Within weeks of the recovery of George III in 1789 the Bastille fell in Paris.",
+         "A great performance from Nigel Hawthorne makes this movie very enjoyable. His portrayal of the 'Mad King' is in turns entertaining, poignant, sharp, and commanding. The rest of the cast back him up well. The conversion from stage play to screen works well here... the production design is excellent, and the direction is dynamic enough to ensure that the movie never drags. Best of all though is Alan Bennett's script which is full of wonderfully comic and intelligent soundbites. This is a sumptuous period drama which is never too intense, but at the same time never too pithy, and it makes for very pleasant viewing. The film never takes itself too seriously or gets bogged down - after all, what other 18th century costume drama can boast such lengthy discourse regarding the constitution of a British monarch's fetid stools?",
+         "Already upset by the loss of America to independence, King George III of England's position is made more difficult by the onset of an illness that causes him to act wildly and babble uncontrollably. While the Prime Minister places him in the hands of Dr Willis to keep him in power, The Prince of Wales and the leader of the opposition both plan to replace the king with the prince by way of a parliamentary bill. Based on the great little play that is historically based, this film went down very well with the awards season since it is very English and well acted. The plot is well written, I'm not sure if it is totally accurate but it is surely based on facts even if it has been coloured for artistic and entertainment reasons. The film embraces both the internal workings of the royal family and the politics of parliament really well; again, it may not be totally true but it is colourful, dissenting and enjoyably. The film is involving but yet still manages to be enjoyable and funny. It is a great story and it is lavishly brought to the big screen in this great production. The sets and costumes are really good and establish the period and setting of the story very well, but it is the performances that really make it work. Hawthorne is wonderfully cast and delivers a great performance in the lead - both as the cruel monarch or the madman. He is totally believable all the way and never lets his performance become comical or silly even when it is amusing in delivery. Mirren and Donohoe both have less to do but make impacts in their scenes. Everett, Holm, Wadham and Graves support the film to great effect, their performances are colourful, impacting and very enjoyable. Overall, historical films will quite often be viewed as lifeless, dull and overlong. Here this film goes against all those old clichés and is lively, colourful and enjoyable. The rich sets and costumes add value to some great performances in an engaging story that is very enjoyable.",
+         "Watched this again yesterday & once more was enraged at the injustice of Nigel Hawthorne missing out on the Oscar to Tom Hank's Forrest Gump that year. An absolutely masterful performance from Hawthorne, matched by Ian Holm's doctor. The scene where the two of them meet for the first time is one of my favourites of all I have ever seen & always moves me. The film never takes itself too seriously, and the cast is a veritable who's who of great British actors that Hollywood largely ignored. If you haven't seen this film, then I'd urge you to do so. Not many of you will fail to be impressed.......",
+         "THE MADNESS OF GEORGE III (called MADNESS OF KING GEORGE in the States because of reported studio concern, probably not apocryphal, that most Americans would wonder why they missed MADNESS I and II) begins with an act of lese majesty, a look behind the scenes as the family and ministers of George III prepare for the ceremony to open Parliament in 1788. We see the confusion of an equerry who has no idea of what his duties are, a royal attendant hurriedly spit on and cuff-polish a jewel on the kingly crown, the boredom of the king's eldest sons who would rather be just about anywhere else than waiting for their father in the chilly anteroom. (\"Colder in here than a greyhound's nostril,\" mutters the Lord Chancellor.) It's a theme that will carry through the entire film. Kingship and royalty are shams, it seems - magic acts that require faith on the part of the audience. A peek behind the curtain of noblesse oblige and it's all likely to fall to pieces. The story remains fairly true to the facts. Late in 1788, George III is taken by a mysterious illness (lately surmised to be porphyria) that strongly resembles the then-popular conception of madness. Chaos ensues, mainly in the desperate efforts of the Government (headed by William Pitt - Julian Wadham) to hush the whole matter up lest the forces of the Whig Opposition (led by Charles James Fox - Jim Carter) use the power vacuum to place the king's eldest son, the Prince of Wales, at the head of a regency sympathetic to their political cause. But Alan Bennett, who originally wrote the script for the theatre, is wise enough to treat the potentially tragic story as essentially comic even while raising the question of the basic insanity behind all pretensions to royalty. (\"Some of my lunatics fancy themselves kings,\" notes the \"mad doctor\" who undertakes the case. \"But he IS the king. Where shall his fancy take refuge?\") The power of the film radiates from neither history nor comedy but from performances, and Nigel Hawthorne, who sharpened his characterization of George III over months of playing it on stage, dominates a roster of top-notch actors. Whether brow-beating his older children with admonitions of \"Do not be fat, Sir! Fight it! Fight it!\" or, freed from his self-imposed strictures of kingship by illness, slipping the reins and pawing under the stays of Lady Pembroke (Amanda Donahoe), Hawthorne is both maddeningly and appealingly autocratic. Perhaps his Farmer George, England's prime example of husbandry both in his knowledge of horticulture and in his brood of 15 children, is more sympathetic than the historical personage, but in the end that matters little. It's a superbly nuanced performance. And he's given able support by Helen Mirren as his faithful Queen Charlotte, who's devoted her life to supporting the man who rescued her from the obscurity of a small Germanic kingdom and married her despite her rather spectacular lack of good looks. Mirren's accent is variable; her etching of Charlotte's desperate groping at every straw in order to see her husband cured is not. The rest of the cast is impeccable as well. Ian Holm is all steely religious conviction turned to medical practice as Dr. Willis, who undertakes to treat the king. Rupert Everett, despite the double handicap of an obviously false stomach and the silliest wig in the film, does a creditable turn as the Prince of Wales, though the script treats Prinny unfairly, mainly for the comic potential of doing so. Ministers of state and Parliamentarians Wadham, Carter and John Wood handle their lines with a panache and wit that would do credit to any authentic 18th-century gentleman. Some of the best lines go to Wood, who as usual gives his unsurpassable style and timing, as when he growls out in church, \"I'm praying, goddammit!\" The costumes are both faithful and sumptuous, the cinematography is luminous and the sets, borrowed at low cost from various castles and colleges, are lovingly handled. Of special note is the music of Handel, adapted so cleverly by George Fenton that one would swear the old boy in the knee breeches wrote the score himself for every scene.",
+         "I'm writing these comments about \"The Madness of King George\" because of the singular outstanding performance by Nigel Hawthorne. This is one of the most versatile roles in films in decades. It surely ranks among the very best of all time. As King George, Hawthorne covers a range of emotions, personalities and temperaments not often found in film roles. His character is a study in transition from the serious to the serene to the silly. It's a role of drama, of hilarity, of ego and stuffiness, of pathos, of sorrow and regret, and of gentleness and kindness. What an exceptional acting job. Most often I watch a movie for the whole experience, taking in the plot, characters, acting, scenes and scenery, location, action, intrigue, comedy, tragedy, as a blend of the whole product. All of these weigh in and affect how much I enjoy the film. But half way through this film, I became aware that I was more engrossed in the lead character himself, and the great diversity and excellence of acting on display. Others have commented that Hawthorne should have won the Best Actor Academy Award for his role in 1994. While I like Tom Hanks as an actor, I agree that his role in Forrest Gump wasn't anything exceptional. Certainly not on the order of \"Mr. King\" in \"The Madness of King George.\" Indeed, Hawthorne must have had to work on his role -- even as a consummate actor, if not for the variations of mood and portrayals, at least for the vast amount of lines he had to speak in the film. By comparison, the Forrest Gump role had a very small amount of lines, and those were far less taxing to an actor. Hanks' was a role that seemed more fun and easygoing than a challenge or demand. I'm not one to complain about Hollywood (except for the low quality and volume of attempts at humor in the past 20 years), but once in a while I think that many others who make the same observation are right on. Hollywood flops big time in its Oscar choice of an actor, actress or film once in a while. It seems to me that the California-based Academy at times doesn't look as objectively and honestly at films produced outside the U.S. Nothing else produced in 1994 even came close to the outstanding acting by Hawthorne in this first rate film.",
+         "The late Nigel Hawthorne received his only Oscar nomination for his outstanding role of King George III of England who developed a mental disorder that created chaos for the the nation's leader in the 1700s. His wife (Helen Mirren in an Oscar-nominated role) cannot cope and it turns out that no one can really help the king as the medical profession just lacked the modernism necessary to assist. Ian Holm is a genuine scene-stealer as the physician who uses some unorthodox methods to try and cure the titled character. Nigel Hawthorne, who sadly passed away recently, was one of the truly great actors of his time and this was his finest role. 4 stars out of 5.",
+         "According to the history books, George III of England went hopelessly mad by 1811. This film, which appears largely historical to this non-Brit, begins in 1788, and King George (Nigel Hawthorne) is still indignant over losing the \"colonies\", now known as The United States. He has already begun to display unbalanced behavior, and his oldest son, Prince of Wales (Rupert Everett)is plotting, along with his cronies, to have a bill passed which makes him Regent, basically acting as king without being king. The tagline at the end of the film asserts that George III was suffering from a particular illness, as evidenced by references to blue urine in the script. In the film, a doctor who has established some reknown as a healer of \"mad\" people is retained, and forceably takes the King to his compound. There, every time the King acts unseemly, he is bound to a chair and gagged. Eventually, right before the bill is to be passed, he returns to his subjects, and exhibits normal behavior. He begins adding \"what-what\" to the end of his sentences, as he had done before he became incapacitated. I wonder if that is where it came from for the movie, \"Chicken Run?\" A very good movie, done in good style with appropriate humor. Nigel Hawthorne and Rupert Everett are both great in their roles.",
+         "I positively loved Hawthorne in this movie, thanks to him King's madness is quite palpable, emotional rather then clinical. Ian Holm charms as always - this time as a rather driven/bordering on sadism \"doctor\", whose elaborate system of punishment was impressed on King George by sadistic and yet so well meaning party of the King. Nice thing about this movie is the absense of the clear-cut villains - even the Prince ain't that bad. It's rather a story of one's power slipping away from everywhere but the very surface, a fable of the King in no more than the name, driven to the edge of misery by intrusive politicians and abusive doctors. As such it has it's depressing moments - don't expect a Hollywoodish romp of the Iron Mask or Musketeers.",
+         "I've recently revisited the third Blackadder series. Nigel Hawthorne doesn't play his George III quite as spoony as that of the Curtis/Elton BBC series who wants his son to marry a pot plant, but it's close. The film works because of three things. First - always first - is Alan Bennett's screenplay which is succinct and hilariously funny. It is also unbearably sad at choice moments. The actors - the second success story of the project - throw themselves at the pathos as furiously as at the comedy. There's camp and potty humour (literally) juxtaposed with the bare quoting of King Lear and it all works. Thirdly, there is an attention to the detail which goes beyond costume and design. Hytner has got his cast to play out humans inside 18th century character roles - there's no false reverence or mannered acting. Nigel Hawthorne is brilliant, playing out a human despite the vastly inflated ego he has to inhabit either side of sanity. All others aspire to this lead, with only Ian Holm (naturally, as his temporarily domineering doctor) matching it. 7/10"
+      ],
+      "genres": [
+         "Biography",
+         "Comedy",
+         "Drama",
+         "History"
+      ],
+      "productionCompanies": [
+         "Samuel Goldwyn Company, The",
+         "Channel Four Films",
+         "Close Call Films"
+      ],
+      "summaries": [
+         "A meditation on power and the metaphor of the body of state, based on the real episode of dementia experienced by George III [now suspected a victim of porphyria, a blood disorder]. As he loses his senses, he becomes both more alive and more politically marginalized; neither effect desirable to his lieutenants, who jimmy the rules to avoid a challenge to regal authority, raising the question of who is really in charge.",
+         "The story of King George III of England's slide into insanity, and the political and royal back stabbing which results from his incapacitation. Despite being very amusing at times, this is a sad tale of medical practices in the later 1700s as well as an insight into life inside and around the royaly of the time."
+      ],
+      "budget": 0
+   },
+   "movielensId": 272,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1994-12-28",
+      "dvdReleaseDate": "2001-06-05",
+      "directors": ["Nicholas Hytner"],
+      "runtime": 107,
+      "movieId": 272,
+      "title": "The Madness of King George",
+      "mpaa": "PG-13",
+      "actors": [
+         "Nigel Hawthorne",
+         "Helen Mirren",
+         "Ian Holm",
+         "Rupert Graves",
+         "Amanda Donohoe",
+         "Rupert Everett",
+         "Julian Rhind-Tutt",
+         "Julian Wadham",
+         "Jim Carter",
+         "Geoffrey Palmer",
+         "Adrian Scarborough",
+         "Anthony Calf",
+         "Alan Bennett",
+         "John Wood",
+         "Jeremy Child",
+         "Struan Rodger",
+         "Caroline Harker",
+         "Roger Hammond",
+         "Clive Brunt",
+         "Selina Cadell",
+         "Roger Ashton-Griffiths"
+      ],
+      "imdbMovieId": "0110428",
+      "originalTitle": "The Madness of King George",
+      "genres": [
+         "Comedy",
+         "Drama",
+         "History"
+      ],
+      "youtubeTrailerIds": ["BHNSAK8d3qc"],
+      "plotSummary": "King George III's erratic behaviour leads to a plot in Parliament to have him declared insane and removed from the throne.",
+      "tmdbMovieId": 11318,
+      "avgRating": 3.73727,
+      "releaseYear": "1994",
+      "numRatings": 8387,
+      "posterPath": "/Apgj4j73aUyMkNaPoSuQ7DJbt1M.jpg"
+   }
+}

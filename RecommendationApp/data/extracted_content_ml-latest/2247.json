@@ -1,0 +1,829 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "italian american",
+            "id": 700
+         },
+         {
+            "name": "fbi",
+            "id": 1812
+         },
+         {
+            "name": "romantic comedy",
+            "id": 9799
+         },
+         {
+            "name": "mobster",
+            "id": 11578
+         },
+         {
+            "name": "starting over",
+            "id": 208476
+         }
+      ],
+      "imdb_id": "tt0095593",
+      "video": false,
+      "title": "Married to the Mob",
+      "recommendations": [
+         2075,
+         10859,
+         31052,
+         32261,
+         10765,
+         10631,
+         2107,
+         9941,
+         12772,
+         40820,
+         13665,
+         10551,
+         31618,
+         31924,
+         16814,
+         26044,
+         12518,
+         60792,
+         10013,
+         10168
+      ],
+      "backdrop_path": "/9JF3ScksjwwPMK9aoySrnTg0pYW.jpg",
+      "revenue": 21486757,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Angela de Marco",
+               "gender": 1,
+               "credit_id": "52fe434ec3a36847f804a2f1",
+               "name": "Michelle Pfeiffer",
+               "profile_path": "/vyoJV5QYwIGZohrPpKFdKc7EpSP.jpg",
+               "id": 1160,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Mike Downey",
+               "gender": 2,
+               "credit_id": "52fe434ec3a36847f804a2f5",
+               "name": "Matthew Modine",
+               "profile_path": "/tEQG1Us5IuoKYtufZe6waWtxfeg.jpg",
+               "id": 8654,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Ed Benitez",
+               "gender": 2,
+               "credit_id": "52fe434ec3a36847f804a2f9",
+               "name": "Oliver Platt",
+               "profile_path": "/an9n3aUKFAN50GDsbqwIkvWlcus.jpg",
+               "id": 17485,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Frank de Marco",
+               "gender": 2,
+               "credit_id": "52fe434ec3a36847f804a2fd",
+               "name": "Alec Baldwin",
+               "profile_path": "/zFtp13AZyPbqbj6yHujPWHO5ioh.jpg",
+               "id": 7447,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Tony Russo",
+               "gender": 2,
+               "credit_id": "52fe434ec3a36847f804a301",
+               "name": "Dean Stockwell",
+               "profile_path": "/gooE10UOH6t4geqsEbji9NiQalP.jpg",
+               "id": 923,
+               "order": 4
+            },
+            {
+               "cast_id": 43,
+               "character": "Connie Russo",
+               "gender": 1,
+               "credit_id": "52fe434ec3a36847f804a3e3",
+               "name": "Mercedes Ruehl",
+               "profile_path": "/dGyZ3s7TdC88JgDMQaQqUOwFul0.jpg",
+               "id": 2167,
+               "order": 5
+            },
+            {
+               "cast_id": 44,
+               "character": "Rose",
+               "gender": 1,
+               "credit_id": "52fe434ec3a36847f804a3e7",
+               "name": "Joan Cusack",
+               "profile_path": "/3jcrXcFYoSKEUvokzqrQ2UJGtw.jpg",
+               "id": 3234,
+               "order": 6
+            },
+            {
+               "cast_id": 48,
+               "character": "Homicide Detective",
+               "gender": 2,
+               "credit_id": "52fe434ec3a36847f804a3f5",
+               "name": "Colin Quinn",
+               "profile_path": "/i1bEo7q7XJX6mYHA52Z7hhLyDg6.jpg",
+               "id": 1219901,
+               "order": 7
+            },
+            {
+               "cast_id": 46,
+               "character": "Theresa",
+               "gender": 1,
+               "credit_id": "52fe434ec3a36847f804a3eb",
+               "name": "Ellen Foley",
+               "profile_path": "/80OuOOR0WjvhnDcz96R8XH2BPmy.jpg",
+               "id": 157459,
+               "order": 8
+            },
+            {
+               "cast_id": 49,
+               "character": "Phyllis",
+               "gender": 1,
+               "credit_id": "532acc1fc3a3681fea001954",
+               "name": "O-Lan Jones",
+               "profile_path": "/qJDpHGPn95DNiVt0hVSPjO7mFkR.jpg",
+               "id": 1912,
+               "order": 9
+            },
+            {
+               "cast_id": 50,
+               "character": "Karen Lutnick",
+               "gender": 1,
+               "credit_id": "532acc40c3a3681fea001959",
+               "name": "Nancy Travis",
+               "profile_path": "/5galk3XJxxlIEmrnAQBuJsY1AaD.jpg",
+               "id": 18331,
+               "order": 10
+            },
+            {
+               "cast_id": 51,
+               "character": "Leonard 'Tiptoes' Mazzilli",
+               "gender": 2,
+               "credit_id": "532acc7bc3a3681ff00018da",
+               "name": "Joe Spinell",
+               "profile_path": "/wzZZO8xXn9OgljCmrGGR4L6wBdg.jpg",
+               "id": 16525,
+               "order": 11
+            },
+            {
+               "cast_id": 52,
+               "character": "Angela's Hairdresser",
+               "gender": 2,
+               "credit_id": "532acc97c3a3681ff70019c7",
+               "name": "Charles Napier",
+               "profile_path": "/90flwc0xLUDvS4pSUimZzyme2PD.jpg",
+               "id": 16119,
+               "order": 12
+            },
+            {
+               "cast_id": 53,
+               "character": "The Guy at the Piano",
+               "gender": 2,
+               "credit_id": "532accadc3a3681ffd0018fb",
+               "name": "Gary Goetzman",
+               "profile_path": "/7uD9essxoWX745IbAbBvNidJeM7.jpg",
+               "id": 27098,
+               "order": 13
+            },
+            {
+               "cast_id": 54,
+               "character": "The Zany Reporter",
+               "gender": 2,
+               "credit_id": "532acccbc3a3681ffd001909",
+               "name": "Todd Solondz",
+               "profile_path": "/9qRwwtUTviJLA1td24BMhWxfCbn.jpg",
+               "id": 66605,
+               "order": 14
+            },
+            {
+               "cast_id": 55,
+               "character": "Tommy Boyle",
+               "gender": 2,
+               "credit_id": "532acdcf925141083f001274",
+               "name": "Paul Lazar",
+               "profile_path": "/tYql2muBX2aJpUtteoRmPSLcJTl.jpg",
+               "id": 138988,
+               "order": 15
+            },
+            {
+               "cast_id": 56,
+               "character": "Joe Russo",
+               "gender": 2,
+               "credit_id": "532c6d4b92514160bc00020d",
+               "name": "Al Lewis",
+               "profile_path": "/4gm2p5AkJVrYU6wLHPpu3ehOFEP.jpg",
+               "id": 99825,
+               "order": 16
+            },
+            {
+               "cast_id": 57,
+               "character": "Vinnie 'The Slug'",
+               "gender": 2,
+               "credit_id": "53b9eef90e0a2676c700aafa",
+               "name": "Frank Ferrara",
+               "profile_path": "/4p3T0p1cYxxKPGDWgOVdN63gxQ3.jpg",
+               "id": 142159,
+               "order": 17
+            },
+            {
+               "cast_id": 58,
+               "character": "Regional Director Franklin",
+               "gender": 2,
+               "credit_id": "53b9ef360e0a2676cf00a792",
+               "name": "Trey Wilson",
+               "profile_path": "/lT3Ia2j6BpNflu3duzK0bU2t83m.jpg",
+               "id": 4039,
+               "order": 18
+            },
+            {
+               "cast_id": 60,
+               "character": "'The Priest'",
+               "gender": 2,
+               "credit_id": "53b9f097c3a3685eb10064bd",
+               "name": "David Johansen",
+               "profile_path": "/hQq0pmBBcmapA8YPxsgnDuZnEAa.jpg",
+               "id": 57116,
+               "order": 20
+            },
+            {
+               "cast_id": 61,
+               "character": "Mr. Chicken Lickin'",
+               "gender": 2,
+               "credit_id": "53b9f104c3a3685eba006396",
+               "name": "Tracey Walter",
+               "profile_path": "/pMeImyAZ8fpQ32QyPO8g6W8gs13.jpg",
+               "id": 3801,
+               "order": 21
+            },
+            {
+               "cast_id": 62,
+               "character": "'The Clown'",
+               "gender": 2,
+               "credit_id": "53b9f136c3a368072e00364c",
+               "name": "Chris Isaak",
+               "profile_path": "/7NdLnxpXoUhQRQOkAbXfpqCIYdr.jpg",
+               "id": 6591,
+               "order": 22
+            },
+            {
+               "cast_id": 63,
+               "character": "Sourpuss F.B.I. Man",
+               "gender": 2,
+               "credit_id": "53b9f173c3a3685ea8006269",
+               "name": "Kenneth Utt",
+               "profile_path": "/8zXlrOU5Yjq0EHOjE5LDUOYH3Rs.jpg",
+               "id": 16298,
+               "order": 23
+            },
+            {
+               "cast_id": 64,
+               "character": "Angie's First Customer!",
+               "gender": 1,
+               "credit_id": "53b9f1a9c3a3685ebd006372",
+               "name": "Roma Maffia",
+               "profile_path": "/tfscWeBOGA9aysLbYoOduimpTOk.jpg",
+               "id": 21366,
+               "order": 24
+            },
+            {
+               "cast_id": 68,
+               "character": "Mrs. 'Fat Man'",
+               "gender": 1,
+               "credit_id": "57ef95bf9251415a020023e2",
+               "name": "Marlene Willoughby",
+               "profile_path": "/nXK4m7DqzJtDZpJqmzYdBZkiH6g.jpg",
+               "id": 98374,
+               "order": 25
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe434ec3a36847f804a307",
+               "name": "Jonathan Demme",
+               "profile_path": "/17dEjoWccPf9NDm43XP44vhSTEd.jpg",
+               "id": 16294,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe434ec3a36847f804a30d",
+               "name": "Barry Strugatz",
+               "profile_path": null,
+               "id": 68376,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe434ec3a36847f804a313",
+               "name": "Mark R. Burns",
+               "profile_path": null,
+               "id": 68377,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe434ec3a36847f804a319",
+               "name": "Ronald M. Bozman",
+               "profile_path": null,
+               "id": 16296,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe434ec3a36847f804a31f",
+               "name": "Edward Saxon",
+               "profile_path": null,
+               "id": 16297,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe434ec3a36847f804a325",
+               "name": "Joel Simon",
+               "profile_path": null,
+               "id": 10999,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe434ec3a36847f804a32b",
+               "name": "Bill Todman Jr.",
+               "profile_path": null,
+               "id": 11000,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe434ec3a36847f804a331",
+               "name": "Kenneth Utt",
+               "profile_path": "/8zXlrOU5Yjq0EHOjE5LDUOYH3Rs.jpg",
+               "id": 16298,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe434ec3a36847f804a337",
+               "name": "David Byrne",
+               "profile_path": "/tf4MWnQiv2Yqfxq8I2tBXCdAcKi.jpg",
+               "id": 3078,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe434ec3a36847f804a343",
+               "name": "Craig McKay",
+               "profile_path": null,
+               "id": 4869,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe434ec3a36847f804a349",
+               "name": "Howard Feuer",
+               "profile_path": null,
+               "id": 1530,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe434ec3a36847f804a34f",
+               "name": "Kristi Zea",
+               "profile_path": "/ztX9n1RfiJnfhpQKZshM0HYyzb3.jpg",
+               "id": 9178,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe434ec3a36847f804a355",
+               "name": "Maher Ahmad",
+               "profile_path": null,
+               "id": 11475,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe434ec3a36847f804a35b",
+               "name": "Nina Ramsey",
+               "profile_path": null,
+               "id": 142151,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe434ec3a36847f804a361",
+               "name": "Alan D'Angerio",
+               "profile_path": null,
+               "id": 32490,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe434ec3a36847f804a367",
+               "name": "Bernadette Mazur",
+               "profile_path": null,
+               "id": 142152,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe434ec3a36847f804a373",
+               "name": "Arthur Bloom",
+               "profile_path": null,
+               "id": 142154,
+               "department": "Crew",
+               "job": "Sound Recordist"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe434ec3a36847f804a379",
+               "name": "Laura Civiello",
+               "profile_path": null,
+               "id": 142155,
+               "department": "Sound",
+               "job": "Sound Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe434ec3a36847f804a37f",
+               "name": "Marko A. Costanzo",
+               "profile_path": null,
+               "id": 92376,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe434ec3a36847f804a385",
+               "name": "John Fundus",
+               "profile_path": null,
+               "id": 142156,
+               "department": "Sound",
+               "job": "Boom Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe434ec3a36847f804a391",
+               "name": "Doug Coleman",
+               "profile_path": null,
+               "id": 142157,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe434ec3a36847f804a397",
+               "name": "Len DeVirgilio",
+               "profile_path": null,
+               "id": 142158,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe434ec3a36847f804a39d",
+               "name": "Frank Ferrara",
+               "profile_path": "/4p3T0p1cYxxKPGDWgOVdN63gxQ3.jpg",
+               "id": 142159,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe434ec3a36847f804a3a3",
+               "name": "Don Picard",
+               "profile_path": null,
+               "id": 142160,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe434ec3a36847f804a3a9",
+               "name": "John Robotham",
+               "profile_path": null,
+               "id": 142161,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe434ec3a36847f804a3af",
+               "name": "Michael Russo",
+               "profile_path": "/p9zxNz3Rk86LzwYzgd3Zo4XsF1v.jpg",
+               "id": 142162,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe434ec3a36847f804a3b5",
+               "name": "Thomas Ford",
+               "profile_path": null,
+               "id": 91105,
+               "department": "Lighting",
+               "job": "Electrician"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe434ec3a36847f804a3bb",
+               "name": "Kenneth Fundus",
+               "profile_path": null,
+               "id": 142163,
+               "department": "Camera",
+               "job": "Grip"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe434ec3a36847f804a3c1",
+               "name": "Charles Meere",
+               "profile_path": null,
+               "id": 142164,
+               "department": "Lighting",
+               "job": "Gaffer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe434ec3a36847f804a3c7",
+               "name": "Suzana Peric",
+               "profile_path": null,
+               "id": 142165,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe434ec3a36847f804a3cd",
+               "name": "Andy Waterman",
+               "profile_path": null,
+               "id": 142166,
+               "department": "Sound",
+               "job": "Scoring Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe434ec3a36847f804a3d3",
+               "name": "Mark Wolfson",
+               "profile_path": null,
+               "id": 142167,
+               "department": "Sound",
+               "job": "Scoring Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe434ec3a36847f804a3d9",
+               "name": "John Leonidas",
+               "profile_path": null,
+               "id": 142168,
+               "department": "Crew",
+               "job": "Transportation Captain"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe434ec3a36847f804a3df",
+               "name": "Joyce M. Lark",
+               "profile_path": null,
+               "id": 142169,
+               "department": "Crew",
+               "job": "Transportation Captain"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe434ec3a36847f804a3f1",
+               "name": "Colleen Atwood",
+               "profile_path": "/4hbAdhvoCkENdoFDLKdXck1ESIl.jpg",
+               "id": 557,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5625fe5fc3a3680e0e016071",
+               "name": "Michael Barry",
+               "profile_path": null,
+               "id": 1337461,
+               "department": "Sound",
+               "job": "ADR & Dubbing"
+            },
+            {
+               "gender": 2,
+               "credit_id": "569d5320c3a36858d2003ded",
+               "name": "Chris Newman",
+               "profile_path": null,
+               "id": 3104,
+               "department": "Sound",
+               "job": "Sound mixer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "552e326b92514138380017aa",
+               "name": "Tak Fujimoto",
+               "profile_path": "/stUrxvmoFNrNLskc2oPhrOOeinB.jpg",
+               "id": 16300,
+               "department": "Camera",
+               "job": "Director of Photography"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Crime",
+            "id": 80
+         },
+         {
+            "name": "Romance",
+            "id": 10749
+         }
+      ],
+      "popularity": 6.984217,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 2321,
+      "vote_count": 79,
+      "budget": 10000000,
+      "overview": "Angela de Marco is fed up with her gangster husband's line of work and wants no part of the crime world. When her husband is killed for having an affair with the mistress of mob boss Tony \"The Tiger\" Russo, Angela and her son depart for New York City to make a fresh start. Unfortunately, Tony has set his sights upon Angela -- and so has an undercover FBI agent looking to use her to bust Tony.",
+      "similar": [
+         1422,
+         9366,
+         64689,
+         2252,
+         12153,
+         1538,
+         7516,
+         156022,
+         168672,
+         154400,
+         241554,
+         238,
+         240,
+         1089,
+         754,
+         273481,
+         8838,
+         10431,
+         38322,
+         9802
+      ],
+      "original_title": "Married to the Mob",
+      "runtime": 104,
+      "poster_path": "/wQAJv7qukZSd7grUWmXf6vt4OXC.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": "/wOMD2jDmY6wU2oScXOEgq9hqeNN.png",
+            "name": "Orion Pictures",
+            "id": 41,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Orion Pictures Corporation",
+            "id": 14150,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Mysterious Arts",
+            "id": 1072,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1988-08-19",
+      "vote_average": 5.8,
+      "belongs_to_collection": null,
+      "tagline": "They're her family... Whether she likes it or not.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Jonathan Demme"],
+      "runtime": 92,
+      "synopsis": null,
+      "writers": [
+         "Barry Strugatz",
+         "Mark R. Burns"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0095593/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTc4MDY4NDc2NV5BMl5BanBnXkFtZTcwMjc2ODE1NA@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Michelle Pfeiffer, Alec Baldwin, Paul Lazar | See full cast and crew »"],
+      "reviews": [
+         "This is a consistently funny story with some serious action scenes thrown in here and there. That combination of mob movie and comedy makes this a fun film to watch.l The characters in this movie are just that: characters. Everyone is a little off, actually a little too wacky for any believability. It's just a outrageous story played for laughs with few things making sense or being realistic. Michelle Pfeiffer and Matthew Modine are the stars but Mercedes Ruehl steals the show, in my opinion, as the jealous wife. Dean Stockwell is great as the smooth mob man. Even with all the makeup to make her look cheap, Pfeiffer (\"Angela de Marco\") still can't hide that fabulous face. The costumes in here are great, too. This is not family fare with a deserved R-rating for language, violence and some nudity but it's not really a rough movie. It has its charms, that's for sure. Modine plays the nice guy \"Mike Downey.\" Note: stay with the ending credits, because there is a lot of footage of scenes that never made it to the movie but were very interesting.",
+         "I had to write this review because the only user comments on file don't begin to do this film justice. For one thing, Michelle Pfeiffer is TERRIFIC in this role -- she demonstrates a marvelous comedic style we don't often get to see. (Maybe the other reviewer prefers her serious work, but I dispute the comment that Pfeiffer has \"matured\" beyond this role. It's a comedy, for goodness' sake!) And yes, Alec Baldwin is quite good, but it's Matthew Modine who steals the picture! (He also has much more screen time.) Mercedes Ruehl and Dean Stockwell (as Tony 'The Tiger' Russo) are absolutely delicious. The plot is delightful, and sometimes manages to touch on some more somber issues, as all great comedies do. In short, I've seen this hilarious film two or three times over the years, and thinking about it now makes me eager to watch it all over again!",
+         "Michelle Pfeiffer and Matthew Modine are a joy to watch in this screwball comedy. Alec Baldwin, who was an up and coming star when the film was made, is a hoot. Dean Stockwell, in a sendup of John Gotti, is hysterical. But Mercedes Ruehl, as the paranoid and over the top Connie steals the movie. Jonathan Demme, previously known for wacky comedies like \"Something Wild\" and \"Melvin and Howard\"-proves once again that he is a genius. I was not surprised at all when he went on to win the Oscar for directing \"Silence of The Lambs.\" The performances he evokes from his actors in \"Married\" are inspired, and the audience is taken along for a wild and wooly ride. One of the cutest, most endearing films of the 80's, it stands head and shoulders above many of the satires of its era.",
+         "Time does extraordinary things. It's the ultimate judge. Time has granted \"Married To The Mob\" an extra doses of freshness. There aren't any dead moments or cheap shots. It's more of a delight now than it ever was. Michelle Pfeiffer creates a mafia widow that it's as far away from a caricature as anything she's ever done. A true original creation touching or hinting at the stereotype just to guide us through but her Angela is quite unique. The legendary Dean Stockwell presents us with a a mafia boss that it's just as menacingly real as he is hilarious. And Matthew Modine? Why did I think back then that he didn't have any chemistry with Pfeiffer? I was wrong. They are wonderful together. They reminded me, this time, to the Barbara Stanwyck, Fred MacMurray of \"Remember The Night\" I'm writing this comment now to entice you to visit or revisit this Jonathan Demme gem.",
+         "This is a fun movie with subtle intention. Its off-beat comedy is hilarious to me, unfunny to my friends. The soundtrack is perfect. I own this on VHS and I have watched it many, many times, because it's simply a fun and funny love story with great performances by all the principals (though using Joan Cusack solely as a perch for big hair was a waste of her talent. I know, I know, she was still young...). On a sad note, I decided to check out the DVD last night (instead of watching my VHS tape), and was SHOCKED to find many crucial scenes cut. And on the copy I watched, there was no special feature of deleted scenes: it was as if the deleted scenes never existed!! I am so glad I bought the used VHS at a flea market. It is clear there was a great deal of choreography in this, which is another reason I love it so much. It takes great skill, talent, and genius to move around the scenes like Mercedes Ruehl, Dean Stockwell, and Matthew Modine do from scene to scene (Note the scene when the grocery carts converge, the rolling on the floor during the shoot-out in Miami, the Chicken Lickin' debacle, the foot massage, the salon hair-washing.) There is a very \"theatrical\" feel to this film, which may be the turn-off for so many whose poor reviews follow: I know some viewers who don't quite understand this style mistake the exaggerations and over-the-top performances for poor acting and worse direction. Not so. Jonathan Demme does a great job bringing to life the entire company and their respective roles. The opening credits and first scene rank among my all-time favorites, as well (another favorite opening credits/first scene: Fly Away Home). Too bad Matthew Modine so ardently skipped out of the public eye; I really like him, and found his casting PERFECT in the role of Mike Smith. Actually, this film is well-cast from soup to nuts: everyone is believable and true to his role. As for the question of expecting audience to accept Pfeiffer and Stockwell as Italians - why not? I thought they pulled it off perfectly well. Charming, fun, exciting... what is there not to like? If you want a little fun, watch this quirky, colorful adventure-mob-love story. If you are looking to learn more about organized crime and families, tune to HBO's The Sopranos.",
+         "This is a romantic comedy, so it's really a fairy tale, but an unconventional one. Cinderella, rather than living in the ashes, lives in an overdecorated castle in the suburbs with a good looking husband who's no prince. She does find her prince, but he's not that handsome. Instead of a castle, at least initially, she gets a tiny walk-up in Manhattan. Pfeifer, Stockwell and Ruehl lead a cast of fully realized, if a little over-the-top, characters. Demme reaches the highest level of movie-making in my mind. He creates a world I want to move into - a Manhattan neighborhood and street life teeming with life and community. I wish IMDb linked to reviewers' other comments. I'd like to know what other movies the people who panned this one hate. I am always looking for a lot of laughs and for nice places in which to \"live\" at least for an hour or so.",
+         "The mobster 'Cucumber' Frank de Marco (Alec Baldwin) is married with the housewife Angela de Marco (Michelle Pfeiffer) and she in unhappy with their marriage and wants the divorce. Frank is having a love affair with Karen Lutnick (Nancy Travis), who is the mistress of his boss Tony 'The Tiger' Russo (Dean Stockwell). When Tony discovers their love affair, he kills them in a party. Tony is under surveillance of the FBI agents Mike Downey (Matthew Modine) and Ed Benitez (Oliver Platt) and during the wake, Tony kisses Angela. The agents and Tony's wife Connie Russo (Mercedes Ruehl) believe that the widow Angela is having an affair with Tony. Angela takes the opportunity to move from the suburbs to a small apartment in New York with her son. Meanwhile Mike bugs her apartment and soon they fall in love with each other. But Tony discovers her new address and courts her. Soon the FBI Senior Management blackmails Angela to force her to get close to Tony to help the FBI to arrest him and she discovers that Mike is an agent. Will Angela give a second chance to Mike? \"Married to the Mob\" is another great film from the 80's, directed by Jonathan Demme and with a story with comedy, romance and action. The chemistry between Michelle Pfeiffer and Matthew Modine is impressive but Mercedes Ruehl steals the show. There is cameo participation of famous people and this movie is still attractive and has not aged after being watched many times along almost thirty years. My vote is seven. Title (Brazil): \"De Caso com a Máfia\" (\"In an Affair with the Mafia\")",
+         "This has to be one of Michelle Pfeiffer's best performances, she totally nailed the part! Dean Stockwell couldn't be more perfect for the role. There was a moment when the FBI arrived at the Honeymoon suite, and he turned and snapped his fingers, his response was so immediate, so realized that it became supreme entertainment. One of the other great moments are when the FBI brothers go \"B-i-n-g-o\" wth each other, and it's because Jonathan Demme adds these touches is what makes him so great. Mercedes Ruel is dynamite too. Pfeiffer's boyfriend acted a little too awkward but was still very right for the part. The more stale and formulated plot is what abled this movie's story to be so clear and over the top. When deleted scenes were cut into credit sequences in the end it felt beautiful and brilliantly cheerful. Great movie, great performances, great director.",
+         "I just wanted to write a quick response to all those people who give this film a bad review because they think it isn't funny or that it's boring. Here's the trick --- the film is not meant to be just a comedy. It's got some depth to it. Like many Demme films it deals with people living in some of the odd corners of our society who are trying to work out how to put together a fulfilling life for themselves. Unfortunately, the movie and home video industries don't deal well with subtlety and drop this in the \"COMEDY\" bin. It IS funny, but a lot of the humor is off-beat. However, the heart of the movie is not about the humor but about the people in it. It may not be one of the greatest films in the world but it is solid and entertaining. And the cast is one of those that shows why casting is an art unto itself. Michelle Pfieffer is great and this may be the film that showed she had some acting chops to add to her beauty. Mercedes Ruehl is a big hoot and gets to chew the scenery in the way only she can, in a role which requires it. Throw in Oliver Platt, Joan Cusack in smaller roles and the talented Dean Stockwell ... and even Chris Isaak and you've got a great cast throughout which here, as usual, makes a great difference. Matthew Modine is fun, but more important, he's a major hottie in this movie. Hot, cute and sexy. Sit back, expect the unexpected and let the movie take you where it wants to go and you should have a great time.",
+         "Michelle Pfeiffer is ideally cast as the frustrated mob widow in this colourful black comedy. Matthew Modine plays a clumsy FBI agent who has taken a fancy to her. Dean Stockwell steals the show as the big shot who keeps on pestering Pfeiffer; Mercedes Ruehl is dynamic as his jealous wife. It's all very eighties, but that just adds to the fun. A nice little flick, though not for every taste."
+      ],
+      "genres": [
+         "Comedy",
+         "Crime",
+         "Romance"
+      ],
+      "productionCompanies": [
+         "Orion Pictures",
+         "Mysterious Arts"
+      ],
+      "summaries": [
+         "Angela deMarco is unhappily married to high Mafia member Frank deMarco. When Frank is killed, Angela takes the opportunity to break free of the Mafia world entirely and start a new life. But Frank's boss, Tony Russo, begins to court the unresponsive Angela. The FBI begins surveillance on her, thinking her to be his new mistress. FBI agent Mike Downey goes undercover as Angela's neighbor, but soon finds himself attracted to Angela himself.",
+         "In suburban New York, 'Cucumber' Frank de Marco works for mobster Tony 'The Tiger' Russo. This mob family does everything together, with each member surviving completely from what they get from each other, which does not sit well with Frank's wife, Angela de Marco, who wants a divorce and out of the mob life but which she knows deep in her heart will and can never happen. Tony kills Frank and waitress Karen Lutnick after Tony catches Frank and Karen, his squeeze, having an affair. Neither Angela or Tony's wife, the controlling and jealous Connie Russo who is the only person Tony is truly afraid of, knows about the affairs. When Tony starts making moves on Angela, which does not sit well either with Angela or Connie, Angela decides to chuck in everything and move with her seven year old son Joey de Marco to the city, effectively running away from the mob and the only life she knows. Despite the difficulties having no money and no job, Angela wants them to lead a clean life. FBI agent Mike Downey, who along with his partner Ed Benitez have been tailing Tony and his gang, believes Tony killed Frank and Karen, which if he could get evidence of such could place Tony behind bars for the rest of his life. Mike believes Angela could be the key to nabbing Tony, as he also believes Angela's move to the city is to set up a love nest for her and Tony. Complications ensue when Tony does find Angela in the city, when Connie finds that Tony has found Angela, as Tony gets into a violent mob war, and as Mike gets closer to Angela than he expected, each falling for the other in the process without her knowing he is FBI.",
+         "The mobster 'Cucumber' Frank de Marco is married with the housewife Angela de Marco and she in unhappy with their marriage and wants the divorce. Frank is having a love affair with Karen Lutnick, who is the mistress of his boss Tony 'The Tiger' Russo. When Tony discovers their love affair, he kills them in a party. Tony is under surveillance of the FBI agents Mike Downey and Ed Benitez and during the wake, Tony kisses Angela. The agents and Tony's wife Connie Russo believe that the widow Angela is having an affair with Tony. Angela takes the opportunity to move from the suburbs to a small apartment in New York with her son. Meanwhile Mike bugs her apartment and soon they fall in love with each other. But Tony discovers her new address and courts her. Soon the FBI Senior Management blackmails Angela to force her to get close to Tony to help the FBI to arrest him and she discovers that Mike is an agent. Will Angela give a second chance to Mike?",
+         "An undercover FBI agent falls in love with a recently widowed mafia wife seeking to start her life over after her husband's murder and who is also pursued by a libidinous mafia kingpin seeking to claim her for himself.",
+         "An undercover FBI agent falls in love with a recently widowed mafia wife seeking to start her life over after her husband's murder and who is also pursued by a libidinous mafia kingpin seeking to claim her for himself."
+      ],
+      "budget": 10000000
+   },
+   "movielensId": 2247,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1988-08-19",
+      "dvdReleaseDate": "2000-06-13",
+      "directors": ["Jonathan Demme"],
+      "runtime": 104,
+      "movieId": 2247,
+      "title": "Married to the Mob",
+      "mpaa": "R",
+      "actors": [
+         "Michelle Pfeiffer",
+         "Matthew Modine",
+         "Oliver Platt",
+         "Alec Baldwin",
+         "Dean Stockwell",
+         "Mercedes Ruehl",
+         "Joan Cusack",
+         "Colin Quinn",
+         "Ellen Foley",
+         "O-Lan Jones",
+         "Nancy Travis",
+         "Joe Spinell",
+         "Charles Napier",
+         "Gary Goetzman",
+         "Todd Solondz",
+         "Paul Lazar",
+         "Al Lewis",
+         "Frank Ferrara",
+         "Trey Wilson",
+         "David Johansen",
+         "Tracey Walter",
+         "Chris Isaak",
+         "Kenneth Utt",
+         "Roma Maffia",
+         "Marlene Willoughby"
+      ],
+      "imdbMovieId": "0095593",
+      "originalTitle": "Married to the Mob",
+      "genres": [
+         "Comedy",
+         "Crime",
+         "Romance"
+      ],
+      "youtubeTrailerIds": ["1xTC6UYgGSs"],
+      "plotSummary": "Angela de Marco is fed up with her gangster husband's line of work and wants no part of the crime world. When her husband is killed for having an affair with the mistress of mob boss Tony \"The Tiger\" Russo, Angela and her son depart for New York City to make a fresh start. Unfortunately, Tony has set his sights upon Angela -- and so has an undercover FBI agent looking to use her to bust Tony.",
+      "tmdbMovieId": 2321,
+      "avgRating": 3.09733,
+      "releaseYear": "1988",
+      "numRatings": 2245,
+      "posterPath": "/wQAJv7qukZSd7grUWmXf6vt4OXC.jpg"
+   }
+}

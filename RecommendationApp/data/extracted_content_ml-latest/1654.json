@@ -1,0 +1,524 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "fairy",
+            "id": 2710
+         },
+         {
+            "name": "fairy tale",
+            "id": 3205
+         }
+      ],
+      "imdb_id": "tt0119095",
+      "video": false,
+      "title": "FairyTale: A True Story",
+      "recommendations": [
+         111584,
+         36859,
+         92968,
+         43079,
+         210599,
+         234516,
+         60823,
+         55699,
+         71456,
+         61536,
+         14822,
+         112449,
+         69666,
+         69646,
+         99581,
+         49345,
+         59995,
+         24826,
+         12714,
+         14241
+      ],
+      "backdrop_path": "/d38vktlxlhQ9obhJCTpDPZvIEDc.jpg",
+      "revenue": 14000000,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 35,
+               "character": "Elsie Wright",
+               "gender": 1,
+               "credit_id": "5a5014400e0a2671f70004f1",
+               "name": "Florence Hoath",
+               "profile_path": "/dBm7EM7kwNJ69snZW8JASwr7SIo.jpg",
+               "id": 105351,
+               "order": 0
+            },
+            {
+               "cast_id": 22,
+               "character": "Frances Griffiths",
+               "gender": 0,
+               "credit_id": "5a5011fa0e0a2671f40002a8",
+               "name": "Elizabeth Earl",
+               "profile_path": null,
+               "id": 1214692,
+               "order": 1
+            },
+            {
+               "cast_id": 20,
+               "character": "Arthur Wright",
+               "gender": 2,
+               "credit_id": "5a5011d5c3a36862bb000252",
+               "name": "Paul McGann",
+               "profile_path": "/vtp1wTbuxO9JfKP52xo0pjCOkh9.jpg",
+               "id": 47654,
+               "order": 2
+            },
+            {
+               "cast_id": 2,
+               "character": "Sir Arthur Conan Doyle",
+               "gender": 2,
+               "credit_id": "52fe4603c3a368484e07bd83",
+               "name": "Peter O'Toole",
+               "profile_path": "/7esSG4iZHueb5Nh8RBBhtRZLpom.jpg",
+               "id": 11390,
+               "order": 3
+            },
+            {
+               "cast_id": 8,
+               "character": "Harry Houdini",
+               "gender": 2,
+               "credit_id": "52fe4603c3a368484e07bd9b",
+               "name": "Harvey Keitel",
+               "profile_path": "/4IcHhp1SCKijRxb7kqnxZNJuKdn.jpg",
+               "id": 1037,
+               "order": 4
+            },
+            {
+               "cast_id": 21,
+               "character": "Polly Wright",
+               "gender": 1,
+               "credit_id": "5a5011e70e0a2671f400029a",
+               "name": "Phoebe Nicholls",
+               "profile_path": "/7DbtgVQOefeCD4DEcUvfMYfsMM2.jpg",
+               "id": 3930,
+               "order": 5
+            },
+            {
+               "cast_id": 15,
+               "character": "Edward Gardner",
+               "gender": 2,
+               "credit_id": "52fe4603c3a368484e07bdc3",
+               "name": "Bill Nighy",
+               "profile_path": "/imAkeJi8C8ZHpPPB8RP92AD3kYW.jpg",
+               "id": 2440,
+               "order": 6
+            },
+            {
+               "cast_id": 25,
+               "character": "John Ferret, a Reporter",
+               "gender": 2,
+               "credit_id": "5a5012bcc3a36862bb00031c",
+               "name": "Tim McInnerny",
+               "profile_path": "/wxO1c0e5N1WHn2wLHmEbvrfqnnX.jpg",
+               "id": 41043,
+               "order": 7
+            },
+            {
+               "cast_id": 3,
+               "character": "Houdini's Assistant",
+               "gender": 2,
+               "credit_id": "52fe4603c3a368484e07bd87",
+               "name": "Joseph May",
+               "profile_path": "/qd3OQaoXMtGf1Ev9xXgAyYEHrG9.jpg",
+               "id": 72100,
+               "order": 8
+            },
+            {
+               "cast_id": 16,
+               "character": "Sergeant Farmer",
+               "gender": 2,
+               "credit_id": "52fe4603c3a368484e07bdc7",
+               "name": "Peter Mullan",
+               "profile_path": "/g344UcfsoYtz3Lt148mDtuQ9CQ0.jpg",
+               "id": 3064,
+               "order": 9
+            },
+            {
+               "cast_id": 7,
+               "character": "Peter Pan",
+               "gender": 1,
+               "credit_id": "52fe4603c3a368484e07bd97",
+               "name": "Anna Chancellor",
+               "profile_path": "/iKfSkQNhajOMPZoDHHTFUad99e5.jpg",
+               "id": 10731,
+               "order": 10
+            },
+            {
+               "cast_id": 4,
+               "character": "Jean Doyle",
+               "gender": 0,
+               "credit_id": "52fe4603c3a368484e07bd8b",
+               "name": "Lara Morgan",
+               "profile_path": null,
+               "id": 105229,
+               "order": 11
+            },
+            {
+               "cast_id": 5,
+               "character": "Adrian Doyle",
+               "gender": 0,
+               "credit_id": "52fe4603c3a368484e07bd8f",
+               "name": "Adam Franks",
+               "profile_path": null,
+               "id": 105230,
+               "order": 12
+            },
+            {
+               "cast_id": 6,
+               "character": "Denis Doyle",
+               "gender": 0,
+               "credit_id": "52fe4603c3a368484e07bd93",
+               "name": "Guy Witcher",
+               "profile_path": null,
+               "id": 75778,
+               "order": 13
+            },
+            {
+               "cast_id": 19,
+               "character": "Newspaper Editor",
+               "gender": 2,
+               "credit_id": "5a04bfcbc3a36833a0005e6b",
+               "name": "Peter Wight",
+               "profile_path": "/cjERr21Oo197GJGhPC9HHHhxqdd.jpg",
+               "id": 17476,
+               "order": 14
+            },
+            {
+               "cast_id": 23,
+               "character": "Wounded Corporal",
+               "gender": 2,
+               "credit_id": "5a50129b0e0a2671e800039f",
+               "name": "Anton Lesser",
+               "profile_path": "/rKDn8ZHuIxl4Z3LLbUxvHdCOk0U.jpg",
+               "id": 27397,
+               "order": 15
+            },
+            {
+               "cast_id": 24,
+               "character": "Mrs. Thornton, the Teacher",
+               "gender": 1,
+               "credit_id": "5a5012ac0e0a2671f700033a",
+               "name": "Lynn Farleigh",
+               "profile_path": "/jgNFfyUz3a45vTSFvphJcz066hC.jpg",
+               "id": 1220072,
+               "order": 16
+            },
+            {
+               "cast_id": 26,
+               "character": "Harold Snelling",
+               "gender": 2,
+               "credit_id": "5a5012d09251410410000377",
+               "name": "David Calder",
+               "profile_path": "/ixaxa85cJRQuyVihWjr27Dyh9Bf.jpg",
+               "id": 10779,
+               "order": 17
+            },
+            {
+               "cast_id": 28,
+               "character": "Geoffrey Hodson",
+               "gender": 0,
+               "credit_id": "5a5012eec3a3686298000376",
+               "name": "Anthony Calf",
+               "profile_path": "/qBjAMr9skdGVYeSNmjw7OG2f4zu.jpg",
+               "id": 192846,
+               "order": 18
+            },
+            {
+               "cast_id": 29,
+               "character": "Mr. Binley",
+               "gender": 2,
+               "credit_id": "5a5012fa925141042900038f",
+               "name": "Benjamin Whitrow",
+               "profile_path": "/etHniAfcrMBSlLW7s8xWxcCFtuY.jpg",
+               "id": 84927,
+               "order": 19
+            },
+            {
+               "cast_id": 31,
+               "character": "City Woman",
+               "gender": 1,
+               "credit_id": "5a5013130e0a2671f10003e4",
+               "name": "Barbara Hicks",
+               "profile_path": null,
+               "id": 97167,
+               "order": 20
+            },
+            {
+               "cast_id": 32,
+               "character": "Second Soldier",
+               "gender": 0,
+               "credit_id": "5a50133a92514104220003e0",
+               "name": "Paul Popplewell",
+               "profile_path": "/dEPmzjjbwnGTz5PhSFFfwLs8Oi8.jpg",
+               "id": 311811,
+               "order": 21
+            },
+            {
+               "cast_id": 33,
+               "character": "Lady Calling to Fairies",
+               "gender": 0,
+               "credit_id": "5a50134f0e0a2671f70003f9",
+               "name": "Ina Clough",
+               "profile_path": null,
+               "id": 1743317,
+               "order": 22
+            },
+            {
+               "cast_id": 34,
+               "character": "Hab, a Fairy",
+               "gender": 2,
+               "credit_id": "5a5013649251410410000444",
+               "name": "Tom Sturridge",
+               "profile_path": "/eumtc8zGNC6wZ5cw4WyX7TzorsN.jpg",
+               "id": 90451,
+               "order": 23
+            },
+            {
+               "cast_id": 18,
+               "character": "Frances' Father (uncredited)",
+               "gender": 2,
+               "credit_id": "58bc73a0c3a368666b03b63b",
+               "name": "Mel Gibson",
+               "profile_path": "/4IsmIFUgoJgUZjen8Ldxnw5YQvG.jpg",
+               "id": 2461,
+               "order": 24
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4603c3a368484e07bda1",
+               "name": "Charles Sturridge",
+               "profile_path": "/imwyBgA311nFHE73tDvi8bTB6to.jpg",
+               "id": 77104,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4603c3a368484e07bda7",
+               "name": "Bruce Davey",
+               "profile_path": null,
+               "id": 2487,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4603c3a368484e07bdad",
+               "name": "Wendy Finerman",
+               "profile_path": null,
+               "id": 28,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4603c3a368484e07bdb3",
+               "name": "Albert Ash",
+               "profile_path": null,
+               "id": 556841,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4603c3a368484e07bdbf",
+               "name": "Ernie Contreras",
+               "profile_path": null,
+               "id": 556846,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54624bb10e0a267bfe00008d",
+               "name": "Tom McLoughlin",
+               "profile_path": null,
+               "id": 63550,
+               "department": "Writing",
+               "job": "Writer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Fantasy",
+            "id": 14
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Mystery",
+            "id": 9648
+         },
+         {
+            "name": "Family",
+            "id": 10751
+         }
+      ],
+      "popularity": 3.57925,
+      "production_countries": [
+         {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+         },
+         {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+         }
+      ],
+      "id": 29911,
+      "vote_count": 33,
+      "budget": 0,
+      "overview": "Two children in 1917 take a photograph, believed by some to be the first scientific evidence of the existence of fairies. Based on a true story",
+      "similar": [
+         10882,
+         11224,
+         14128,
+         16119,
+         14442,
+         5393,
+         808,
+         809,
+         150689,
+         1417,
+         58595,
+         224141,
+         44683,
+         8703,
+         290595,
+         38757,
+         812,
+         34584,
+         62764,
+         10020
+      ],
+      "original_title": "FairyTale: A True Story",
+      "runtime": 99,
+      "poster_path": "/mB0KF5T2s6raTjiV676Umd8ciE0.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": null,
+         "name": "Icon Productions",
+         "id": 152,
+         "origin_country": ""
+      }],
+      "release_date": "1997-10-24",
+      "vote_average": 6.1,
+      "belongs_to_collection": null,
+      "tagline": "Believe.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "UK",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Charles Sturridge"],
+      "runtime": 99,
+      "synopsis": null,
+      "writers": [
+         "Albert Ash",
+         "Tom McLoughlin"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0119095/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTc3MDc4NTM2OV5BMl5BanBnXkFtZTcwMTg1NjIyMQ@@._V1_SY317_CR4,0,214,317_AL_.jpg",
+      "actors": ["Stars: Paul McGann, Florence Hoath, Elizabeth Earl | See full cast and crew »"],
+      "reviews": [
+         "Based on a famous \"Cottingley fairies\" hoax perpetrated by two English girls during World War I in 1917, \"FairyTale: A True Story\" presents alternate views of reality to suggest that, like the view of Aborigines, dreams are as real as conscious reality. If you take the special effects fairies too literally in this film, you will miss the point. The film plays a trick on you, just as the original incident played a trick on Sir Arthur Conan Doyle in 1917. Houdini, as played by Harvey Keitel, gets the point. Although he's one to debunk mystics who defraud the gullible, he too trades on people's need to believe in magic. The girls' deception is also a sort of benign fraud. As any magician, they should never reveal their \"secret.\" The film invites comparisons to the famous French classic, \"Forbidden Games\" in which children construct an elaborate fantasy world as a way of coping with the reality of war. Here too, the girls use fairies to fill the void in their lives left by their father, who has gone \"missing\" on the front in France. \"I know what they mean by 'missing,'\" says one of the sisters, conscious of reality but hoping to \"believe\" in the unlikely event of his return. This is not a kiddie film, but a langorous period piece on the nature of belief and faith in the face of empirical skepticism. The film reinforces its theme with beautiful details, as at the end when the father says he smells the perfume which isn't there, or in the ghostly intrusion of a dead brother that changes the mind of a skeptical reporter. Even the final sequence, involving fairies, is so charming it steers clear of cynical manipulation. Although there are moments when the plot seems to become arbitrary or plodding, it's all tied up neatly and beautifully in a magical finale. I'd hesitate to call this a classic, but it is a worthwhile \"sleeper.\" Just bring an open mind and heart.",
+         "The kind of movie that could almost persuade you that fairies were real. The story is that of the Cottingley Fairy photographs of the 1920s (taken by two Yorkshire girls who later revealed they were fakes) \u0096 those fooled included celebrated writer Arthur Conan Doyle (played here effectively by Peter O'Toole) while cynics included magician Harry Houdini (a charming role for Harvey Keitel, who manages not to swear and keep his clothes on for once). The supporting cast are excellent \u0096 Paul McGann as the girls' dad/uncle; Tim McInnerny and Bill Nighy as journalist snoops; and Phoebe Nicholls as the girls' mother/aunt. The girls themselves are played with ease by Florence Hoath and Elizabeth Earl. Mel Gibson has a tiny cameo at the end (I don't want to spoil it by saying as what). A thumbs-up, too, for the special effects achieved in this movie. The movie certainly is sentimental and does seem to come down on the side of the unknown and imply that the girls' claims were true, but it is a terrific family film I wouldn't hesitate to recommend.",
+         "This venture was beautiful, whimsical, and inspired. This work felt as though it were real, although that is only partially true. I really don't care. The (movie) magick to be found here is awe inspiring and will have you watching your bird feeder much more closely. Backed up by big names, beautiful photography, a solid screenplay, and natural dialog, this production is almost timeless. As it was a \"period\" piece (1917), it bears the virtue of not showing its wear. It was filmed as \"old\" when it was new. The two girls' performances were nothing short of exemplary. They came off as being honest and true to their roles. That having been said, there was not a single poor performance to be found. While there are some slow spots, as character development and the story are set up for the duration of the work, they are few and do not interrupt the flow of the production enough to break the wonderful spell. It rates an 8.8/10 from... the Fiend :.",
+         "...\"I see only joy here.\" No truer words can be evoked to describe the purpose and effect of this beautiful film. Charles Sturridge ('Brideshead Revisited' and 'A Handful of Dust') has assembled a cast that would be the envy of many other top flight producers and directors embarking upon a \"serious\" film. That is not to say this isn't a serious film, it is. It is marketed for children, naturally, but it has deeper levels that challenge the adult mind far beyond what one normally encounters in films directed towards adult audiences. The quality of this script attracted such great actors as Peter O'Toole (Sir Arthur Conan Doyle), Harvey Keitel (Harry Houdini), Bill Nighy, Phoebe Nicholls, Paul McGann and a slew of other well-known British actors. You might also take note of Mel Gibson in an uncredited cameo at the very end. Sturridge and his team of writers has come up with something beguilingly profound, flowing quietly beneath the simple story of two little girls who have managed to photograph fairies at the bottom of the garden. This is based on the famous \"scandal\" of the early 20th century when a similar event took place, only in the film the photographs are pronounce authentic whereas in the actual event in England the \"experts\" proved the photographs to be false. But the film does not pretend to represent the actual events but moves beyond them to a more fundamental issue of out times. There is nothing \"twee\" about this movie either and it could have easily become mawkish and sugar-sweet in less committed hands. I am left, after viewing this film, with Shakespeare's words ringing in my head... \"there is far more in heaven and earth than meets [our] little philosophy.\" In this blighted age of science and money-worship it is good to be reminded that we limit ourselves through our cynical prejudices and need to have everything proved scientifically, usually for profit. When the condition of our lives and society has got you all blocked up, watch this little gem and weep for everything that has been lost to us. You will feel better afterward. I will stop this commentary abruptly now by recommending 'Fairy Tale' to one and all. And get out the Kleenex box before you begin.",
+         "Maybe on account of the fact that being 2/3 through my alotted span and with a terrible awareness of what this world is really like and having also managed to really never grow up, I found this film to be the most touching and magical experience of my life. I am more than happy to tell you that the last ten minutes of the film brought tears to my eyes as I witnessed what every young child wants to see....and CAN if only they can put aside life's pitiful and distracting reality. Released the same time as the excellent PHOTOGRAPHING FAIRIES, both films dwell on the factual events of 1917 when childhood friends Elsie Wright and Florence Griffiths took what they professed to be real photographs of fairies in their immediate neighborhood. The incredible photographs were declared non-hoaxes and even incurred the attention of such as Arthur Conan Doyle and Harry Houdini who visited the girls and examined the phenomenon. Peter O'Toole especially, as Conan Doyle is just superb in his characterisation (why am I NOT surprised?) Absolutely sumptuous cinematography, a most literate of scripts and some grade A acting, especially from the two girls. The film had a larger budget than PHOTOGRAPHING FAIRIES and it shows. The highlight of course and that which the younger viewers must wait patiently for, is the quite staggering appearance of the fairies at the end. As brilliant a series of special effects as I have ever seen. Several people don't appear to have seen Mel Gibson - you weren't looking to closely!! The truth or otherwise about the photographs has since been made public although few appear to know. I have no comment to add. If you WANT to know more, contact me.",
+         "When I first saw the title and the packaging, I thought this film would be for younger viewers and that I'd probably be bored by it. I was totally wrong!!! What a completely enchanting film this turned out to be!!!! The story was wonderful and I wasn't bored for a minute. The two little girls who played the main characters were perfect for their parts. Part of the plot suggests that the girls' fairy photographs were a hoax, but then there are a few twists and turns that leave you thinking, maybe they do exist? Some visual effects were not overly done at all and they helped by enhancing the atmosphere and mood of the film. I could feel the fairy dust coming through the screen!! I *loved* this film and would watch it again and again!! A truly heartwarming, magical film!!",
+         "When I saw the average for this film was 6.2 I was uncertain whether I would watch it or not - I am so glad I DID! It was simply delightful and the acting superb, convincing and absolutely fun. I recommend this to anyone who wants to be entertained with a purity and simplicity rarely seen in today's films. It should be rated G and not PG since there was nothing offensive in it and I can't wait to watch it again with my grandson! Peter O'Toole, Harvey Keitel and the little girls made it all so believable. The English scenery, the attention to detail to the time period around 1917 and the entire storyline was wonderful. I recommend this movie to anyone who just wants to believe that there really are fairies. Enjoy!",
+         "Few films affect me as immediately as Fairy Tale: A True Story. It is visually stunning, excellently acted with star turns by Peter O'Toole and Harvey Keitel. The story is engrossing and you can decide for yourself whether it is about a hoax or not, but that is not important here. It captures the period of the early 1900s magnificently. Special effects are unbelievably realistic. Apparently Academy members never saw this film or it would have gathered a handful of Oscars. The cinematography should have garnered an Oscar as should the moving and glorious music score. I plan to purchase the CD. Despite the title, this film is more for adults and older children. It would not hold the attention of the younger ones.",
+         "After watching this film I realize that it is not so much about whether it \"was really\" true or untrue...the essence of the film, made amply clear is the Belief of the two girls in fairies that made them see them in the first place. On a metaphysical level the film says that if you really believe in something, however odd or outlandish, it will come true or be true. There's no sense in being contentious about the basis of this film because that is very much valid as I have pointed out above. To do so, as I see some people have done over here, is to not only misunderstand the message of the film but to downplay its other qualities. The acting of Florence Hoath as Elsie and Elizabeth Earl as Frances is really impressive. Both have done complete justice to their characters. The rest of the cast, Paul McGann as Elsie's father, Peter O'Toole as Arthur Conan Doyle and Harvey Keitel as Houdini are also really good. I also absolutely agree with most of the reviewers here that the early 20th century has been evoked very well. But of course, the best thing about the film is the cinematography. It's gorgeous! The woods where the girls encounter the fairies are evoked beautifully, they're appropriately dreamy and realistic. Praise must definitely be due to the set decorators who have done a brilliant job with the house that the Wrights live in and especially the room which Elsie and Frances share. It's a dream garret room! The music is also quite good. I thoroughly recommend this film, certainly for those who believe in Believing things and also for those who like to watch a really well made period film.",
+         "The story is true about the girls and the photos. The story is true about the photos and how they tricked people. But the fairies flying around and bathing with fins and dodging cigarettes while carrying suitcases is not true. The ghost of a child blocking a doubting reporter from framing these girls after breaking into their room is also not true. This movie should not have \"A True Story\" at the end. It would be like \"Titanic: A True Story\", simply because the ship sinking is true. This is a good movie at times, has a lot of charm and the magic shines through. Harvey Keitel seems more like a downtown New York thug than a famous magician. The two leads who play the girls are charming, sweet, and talented. But my problem goes back to the \"truth\"; if they are going to show fairies they should have only showed them when the girls were present, so then it would be assumed that they might be only in the girl's imagination... or not. Showing the fairies flying around without the girls turns this \"true story\" into a \"fairy tale\", as in... it ruins the entire mystique that the pictures raised in the first place. The movie should center more on the hoax, on how the girls did what they did to trick scholars, famous writers and basically an entire continent. That would be interesting. Instead we get a fairy tale within a fairy tale with a false premise of the entire thing being true, that is, a movie that is telling us that fairies actually exist by tagging this \"a true story\". It's not true, it's merely based on truth. Just like \"The Titanic\", which didn't have \"A True Story\" added to the title; this movie should only be called \"FairyTale\", or better yet, \"The Cottingley Hoax\", or something based on actual history, not manipulation."
+      ],
+      "genres": [
+         "Drama",
+         "Family",
+         "Fantasy",
+         "Mystery"
+      ],
+      "productionCompanies": [
+         "Icon Entertainment International",
+         "Wendy Finerman Productions"
+      ],
+      "summaries": [
+         "Based on factual accounts, this is the story of two young girls that, somehow, have the ability to take pictures of winged beings... which certainly causes quite a stir throughout England during the time of the first World War. Everyone, except the girls who think it's quite normal, are excited about this \"photographic proof\" that fairies exist... even the great Sir Arthur Conan Doyle and Harry Houdini pay the girls a visit.",
+         "Two children in 1917 take a photograph, believed by some to be the first scientific evidence of the existence of fairies. Based on a true story."
+      ],
+      "budget": 0
+   },
+   "movielensId": 1654,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1997-10-24",
+      "dvdReleaseDate": "2003-11-11",
+      "directors": ["Charles Sturridge"],
+      "runtime": 99,
+      "movieId": 1654,
+      "title": "FairyTale: A True Story",
+      "mpaa": "PG",
+      "actors": [
+         "Florence Hoath",
+         "Elizabeth Earl",
+         "Paul McGann",
+         "Peter O'Toole",
+         "Harvey Keitel",
+         "Phoebe Nicholls",
+         "Bill Nighy",
+         "Tim McInnerny",
+         "Joseph May",
+         "Peter Mullan",
+         "Anna Chancellor",
+         "Lara Morgan",
+         "Adam Franks",
+         "Guy Witcher",
+         "Peter Wight",
+         "Anton Lesser",
+         "Lynn Farleigh",
+         "David Calder",
+         "Anthony Calf",
+         "Benjamin Whitrow",
+         "Barbara Hicks",
+         "Paul Popplewell",
+         "Ina Clough",
+         "Tom Sturridge",
+         "Mel Gibson"
+      ],
+      "imdbMovieId": "0119095",
+      "originalTitle": "FairyTale: A True Story",
+      "genres": [
+         "Fantasy",
+         "Drama",
+         "Mystery",
+         "Family"
+      ],
+      "youtubeTrailerIds": ["dffHCbioUlk"],
+      "plotSummary": "Two children in 1917 take a photograph, believed by some to be the first scientific evidence of the existence of fairies. Based on a true story",
+      "tmdbMovieId": 29911,
+      "avgRating": 3.26974,
+      "releaseYear": "1997",
+      "numRatings": 684,
+      "posterPath": "/mB0KF5T2s6raTjiV676Umd8ciE0.jpg"
+   }
+}

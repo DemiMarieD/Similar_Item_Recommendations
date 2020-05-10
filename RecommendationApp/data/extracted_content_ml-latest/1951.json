@@ -1,0 +1,627 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "pickpocket",
+            "id": 3430
+         },
+         {
+            "name": "musical",
+            "id": 4344
+         },
+         {
+            "name": "victorian england",
+            "id": 8250
+         },
+         {
+            "name": "remake",
+            "id": 9714
+         },
+         {
+            "name": "orphan",
+            "id": 13014
+         }
+      ],
+      "imdb_id": "tt0063385",
+      "video": false,
+      "title": "Oliver!",
+      "recommendations": [
+         27367,
+         11708,
+         5769,
+         20424,
+         2897,
+         11533,
+         17281,
+         5065,
+         41521,
+         30892,
+         39894,
+         43228,
+         38531,
+         41800,
+         102182,
+         235813,
+         57814,
+         33667,
+         41278,
+         17278
+      ],
+      "backdrop_path": "/lfD3hi4AVk05sTngDvybbuLVzqR.jpg",
+      "revenue": 37402877,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "Fagin",
+               "gender": 2,
+               "credit_id": "52fe47529251416c750953ed",
+               "name": "Ron Moody",
+               "profile_path": "/21sEsEm1yRmDO9UxrG1WNDVfwPl.jpg",
+               "id": 41236,
+               "order": 0
+            },
+            {
+               "cast_id": 3,
+               "character": "Nancy",
+               "gender": 1,
+               "credit_id": "52fe47529251416c750953f1",
+               "name": "Shani Wallis",
+               "profile_path": "/cGDZ8oiOwRUnf8m5b5wAQVWrmA6.jpg",
+               "id": 129437,
+               "order": 1
+            },
+            {
+               "cast_id": 4,
+               "character": "Bill Sikes",
+               "gender": 2,
+               "credit_id": "52fe47529251416c750953f5",
+               "name": "Oliver Reed",
+               "profile_path": "/we10IusqRV1NHRtA68ftyck2N33.jpg",
+               "id": 936,
+               "order": 2
+            },
+            {
+               "cast_id": 8,
+               "character": "Bumble",
+               "gender": 2,
+               "credit_id": "52fe47529251416c75095409",
+               "name": "Harry Secombe",
+               "profile_path": "/9oNXrtoLX3OVrzvRMaetLN9Fieo.jpg",
+               "id": 125459,
+               "order": 3
+            },
+            {
+               "cast_id": 9,
+               "character": "Oliver",
+               "gender": 2,
+               "credit_id": "52fe47529251416c7509540d",
+               "name": "Mark Lester",
+               "profile_path": "/wIVXDIioSTuf1JE0pBF5k7Kltwo.jpg",
+               "id": 25638,
+               "order": 4
+            },
+            {
+               "cast_id": 7,
+               "character": "The Artful Dodger",
+               "gender": 0,
+               "credit_id": "52fe47529251416c75095405",
+               "name": "Jack Wild",
+               "profile_path": "/7gXNk0oMlyvqkx8eoRL8gB8rcM7.jpg",
+               "id": 140029,
+               "order": 5
+            },
+            {
+               "cast_id": 10,
+               "character": "Magistrate",
+               "gender": 2,
+               "credit_id": "52fe47529251416c75095411",
+               "name": "Hugh Griffith",
+               "profile_path": "/qIFbwovMcEd9dMGCRB0x2RRr3m7.jpg",
+               "id": 10021,
+               "order": 6
+            },
+            {
+               "cast_id": 11,
+               "character": "Mr. Brownlow",
+               "gender": 2,
+               "credit_id": "52fe47529251416c75095415",
+               "name": "Joseph O'Conor",
+               "profile_path": "/xdfiiYtYABddyJnZiSllIB8o3yB.jpg",
+               "id": 88894,
+               "order": 7
+            },
+            {
+               "cast_id": 12,
+               "character": "Mrs. Bumble",
+               "gender": 1,
+               "credit_id": "52fe47529251416c75095419",
+               "name": "Peggy Mount",
+               "profile_path": "/zunhQKUXhOuMwGo6421j9H2ei3n.jpg",
+               "id": 43798,
+               "order": 8
+            },
+            {
+               "cast_id": 13,
+               "character": "Sowerberry",
+               "gender": 2,
+               "credit_id": "52fe47529251416c7509541d",
+               "name": "Leonard Rossiter",
+               "profile_path": "/wrnVw2YGa7Kk5Lva0yZbLaPKcXp.jpg",
+               "id": 249,
+               "order": 9
+            },
+            {
+               "cast_id": 14,
+               "character": "Mrs. Sowerberry",
+               "gender": 1,
+               "credit_id": "52fe47529251416c75095421",
+               "name": "Hylda Baker",
+               "profile_path": "/wf4uZFx8cS8740ssAuhXOEltGOw.jpg",
+               "id": 200323,
+               "order": 10
+            },
+            {
+               "cast_id": 15,
+               "character": "Noah Claypole",
+               "gender": 2,
+               "credit_id": "52fe47529251416c75095425",
+               "name": "Kenneth Cranham",
+               "profile_path": "/AbtqNZRiacTCjINwGNxAOKhOOKr.jpg",
+               "id": 26258,
+               "order": 11
+            },
+            {
+               "cast_id": 16,
+               "character": "Mrs. Bedwin",
+               "gender": 1,
+               "credit_id": "52fe47529251416c75095429",
+               "name": "Megs Jenkins",
+               "profile_path": "/nGx7nFSU93haAq2AU2e6G5ZdRIY.jpg",
+               "id": 47398,
+               "order": 12
+            },
+            {
+               "cast_id": 21,
+               "character": "Bet",
+               "gender": 1,
+               "credit_id": "59cf8634c3a3681ddf019444",
+               "name": "Sheila White",
+               "profile_path": "/exBHwAMWCmXVaTOdejFLP7WLI9C.jpg",
+               "id": 110456,
+               "order": 13
+            },
+            {
+               "cast_id": 22,
+               "character": "Dr. Grimwig",
+               "gender": 2,
+               "credit_id": "59cf86bc9251412f0e01c886",
+               "name": "Wensley Pithey",
+               "profile_path": null,
+               "id": 115607,
+               "order": 14
+            },
+            {
+               "cast_id": 23,
+               "character": "Mr. Jessop",
+               "gender": 2,
+               "credit_id": "59cf87669251412f2501c049",
+               "name": "James Hayter",
+               "profile_path": "/b3aczw5adgqvNv6uC4NHYWGDCGL.jpg",
+               "id": 30769,
+               "order": 15
+            },
+            {
+               "cast_id": 24,
+               "character": "Charlotte",
+               "gender": 1,
+               "credit_id": "59cf87acc3a3681e1701b893",
+               "name": "Elizabeth Knight",
+               "profile_path": "/j5xuNrOmFWJoyA7acK7sZoYSLMC.jpg",
+               "id": 106094,
+               "order": 16
+            },
+            {
+               "cast_id": 25,
+               "character": "Chairman - Workhouse",
+               "gender": 2,
+               "credit_id": "59cf87e39251412f1f01bbd7",
+               "name": "Fred Emney",
+               "profile_path": "/m626se3A5gEFXlwpNMrJYBHTKgr.jpg",
+               "id": 980345,
+               "order": 17
+            },
+            {
+               "cast_id": 26,
+               "character": "Arresting Policeman",
+               "gender": 2,
+               "credit_id": "59cf883e9251412edb01c187",
+               "name": "Norman Mitchell",
+               "profile_path": null,
+               "id": 30582,
+               "order": 18
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe47529251416c750953e9",
+               "name": "Carol Reed",
+               "profile_path": "/ceyGZzQ7brCI3j9WuXD4vGIFS17.jpg",
+               "id": 15378,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe47529251416c75095401",
+               "name": "Lionel Bart",
+               "profile_path": null,
+               "id": 9903,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe47529251416c75095435",
+               "name": "John Woolf",
+               "profile_path": null,
+               "id": 6601,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "575cfcafc3a3684aee000259",
+               "name": "Charles Dickens",
+               "profile_path": "/doxkq5losIrz2UyBm6ijmw5biYI.jpg",
+               "id": 3557,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 2,
+               "credit_id": "537c52c70e0a262a94000d15",
+               "name": "Oswald Morris",
+               "profile_path": null,
+               "id": 10339,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59cf88cfc3a3681e3701c839",
+               "name": "Ralph Kemplen",
+               "profile_path": null,
+               "id": 6604,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "59cf895b9251412ef301cbf2",
+               "name": "Jenia Reissar",
+               "profile_path": null,
+               "id": 1072700,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59cf89e9c3a3681eb101b9d7",
+               "name": "John Box",
+               "profile_path": null,
+               "id": 13321,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59cf8a769251412f2501c55a",
+               "name": "Terence Marsh",
+               "profile_path": "/m7xEy228uqk14ragNaXAHqaNlPv.jpg",
+               "id": 6584,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 1,
+               "credit_id": "59cf8ac9c3a3681ddf019b06",
+               "name": "Phyllis Dalton",
+               "profile_path": null,
+               "id": 14007,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59cf8b20c3a3681e3701cc06",
+               "name": "George Frost",
+               "profile_path": null,
+               "id": 14748,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59cf8b5ec3a3681ddf019bc1",
+               "name": "Bobbie Smith",
+               "profile_path": null,
+               "id": 1590923,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59cf8baf9251412f3f01bf3e",
+               "name": "Colin M. Brewer",
+               "profile_path": null,
+               "id": 1044184,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59cf8c4d9251412edb01c837",
+               "name": "Vernon Dixon",
+               "profile_path": null,
+               "id": 10498,
+               "department": "Art",
+               "job": "Set Dresser"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59cf8cae9251412f3701c9e1",
+               "name": "Ken Muggleston",
+               "profile_path": null,
+               "id": 1325276,
+               "department": "Art",
+               "job": "Set Dresser"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59cf8d189251412f2501c98b",
+               "name": "Buster Ambler",
+               "profile_path": null,
+               "id": 13322,
+               "department": "Sound",
+               "job": "Sound Recordist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59cf8ddac3a3681e2801cfd6",
+               "name": "Jim Groom",
+               "profile_path": null,
+               "id": 1581335,
+               "department": "Sound",
+               "job": "Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59cf8ec49251412ef301d50c",
+               "name": "Alan Bryce",
+               "profile_path": null,
+               "id": 1206210,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59cf8f3c9251412f2501ccec",
+               "name": "Freddie Cooper",
+               "profile_path": null,
+               "id": 24675,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59cf8fccc3a3681e0801cbeb",
+               "name": "John Wilson-Apperson",
+               "profile_path": null,
+               "id": 1331435,
+               "department": "Costume & Make-Up",
+               "job": "Wardrobe Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59cf90389251412ef301d758",
+               "name": "Marcel Durham",
+               "profile_path": null,
+               "id": 1897470,
+               "department": "Editing",
+               "job": "Assistant Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59cf90c29251412f1f01c9fa",
+               "name": "Ken Runyon",
+               "profile_path": null,
+               "id": 1338837,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "59cf91499251412f0e01da15",
+               "name": "Onna White",
+               "profile_path": null,
+               "id": 1897471,
+               "department": "Crew",
+               "job": "Choreographer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Family",
+            "id": 10751
+         },
+         {
+            "name": "Music",
+            "id": 10402
+         }
+      ],
+      "popularity": 10.938264,
+      "production_countries": [{
+         "iso_3166_1": "GB",
+         "name": "United Kingdom"
+      }],
+      "id": 17917,
+      "vote_count": 134,
+      "budget": 10000000,
+      "overview": "Musical adaptation of Charles Dickens' Oliver Twist, a classic tale of an orphan who runs away from the workhouse and joins up with a group of boys headed by the Artful Dodger and trained to be pickpockets by master thief Fagin.",
+      "similar": [
+         11224,
+         407655,
+         872,
+         10545,
+         196867,
+         342473,
+         150689,
+         9325,
+         15157,
+         224141,
+         14128,
+         16119,
+         824,
+         10674,
+         3933,
+         3131,
+         10882,
+         10719,
+         12405,
+         18947
+      ],
+      "original_title": "Oliver!",
+      "runtime": 153,
+      "poster_path": "/t44XtV1pNAKYrb5jIRFpcBo0XSe.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Warwick Film Productions",
+            "id": 1807,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Romulus Films",
+            "id": 3632,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+            "name": "Columbia Pictures",
+            "id": 5,
+            "origin_country": "US"
+         }
+      ],
+      "release_date": "1968-09-26",
+      "vote_average": 7,
+      "belongs_to_collection": null,
+      "tagline": "Much Much More Than a Musical!",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "UK",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Carol Reed"],
+      "runtime": 153,
+      "synopsis": "The film opens sometime around the 'New Poor Law' of 1837. Thin, young, barefooted boys are in a workhouse. The governors of the workhouse, including Mr Bumble ( Harry Secombe) enter. Mrs Bumble( Peggy Mount) rings a bell, summoning the boys to mealtime. They are served a small bowl of gruel, while singing about how they wished they had more food (Food, Glorious Food!). Afterwards, some of the boys draw straws, with a small boy drawing the longest. He walks to the front, with the glaring look of Mr and Mrs Bumble towering over him and utters 'Please Sir, I want some more.' Mr Bumble is outraged and sings of the boy (Oliver!), named Oliver Twist ( Mark Lester) . He takes Oliver to the governors, and they order him to be thrown out. Mr Bumble and Oliver, dressed in dirty rags wander the streets searching for someone to buy the boy (Boy For Sale). They meet an undertaker, Mr Sowerberry ( Leonard Rossiter) who buys Oliver and sets him to work as a coffin follower. After a few days, Oliver attacks Noah, a fellow apprentice of the undertaker after he insults Oliver's biological mother and is thrown in the cellar as punishment. After singing of his mother's love (Where Is Love?) he escapes from the cellar and after climbing onto a passing carriage, makes his way to London. Oliver makes it to London, and meets a boy who introduces himself as Jack Dawkins, better known as the 'Artful Dodger' ( Jack Wild). He tells Oliver he knows of an old gentleman who can give him lodgings for nothing (Consider Yourself) and takes Oliver to him. Fagin ( Ron Moody) tells him of what they do, which is pickpocket rich gentlemen of their kerchiefs and wallets (You've Got To Pick A Pocket Or Two). That night, while the boys are sleeping, Fagin makes his way to the local bar, where he meets Bill Sikes ( Oliver Reed) to exchange valuables that Sikes 'acquired'. Nancy ( Shani Wallis), Sikes' lover who works at the bar sings of her life and her love for Sikes (It's A Fine Life).",
+      "writers": [
+         "Lionel Bart",
+         "Vernon Harris"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0063385/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTYzMDI2NjQ1Ml5BMl5BanBnXkFtZTcwNzg2ODgxMQ@@._V1._CR2,2,267,430_SX214_AL_.jpg",
+      "actors": ["Stars: Mark Lester, Ron Moody, Shani Wallis | See full cast and crew »"],
+      "reviews": [
+         "Its strange that the film that won the best picture Oscar at the 1968 Academy Awards was a film made in England, but if ever a movie deserved that honor, I think it is Oliver. This movie is a true classic that should be on every best picture list and given a place of honor at The American Film Institute. Movie musicals died out a long time ago and it is a shame because this is the best movie musical I have ever seen. Usually movie musicals are slipshod with some great numbers mixed in with some poor ones. Oliver does the impossible, because every number and every dance in this film hits the bullseye! From \"Food Glorious Food\" to \"Consider Yourself\" to \"Who Will Buy This Wonderful Morning\". Ron Moody, Shani Wallace (as Nancy) and Mark Lester as Oliver all give outstanding performances. Mark Lester was at one time the most famous child actor in the entire world. He was the Ricky Schroder of his day or the MacAuley Culkin of his day (I'll bet he wishes he could have made the kind of money they did!). Mark Lester is now a doctor in England and I wrote him a couple e-mails and he talked about Oliver and what a fine experience it was making the film. Shani Wallace was a fine English actress who never got the credit she deserved. She was so good as the sweet, loving Nancy who took a shine to little Oliver and gave her life saving him (her murder scene still makes me shiver, even Charles Dickens said that bothered him when he wrote it!). Doctor Lester wrote me that Shani Wallace was like a big sister to him and it shows on the screen. Ron Moody is delightfully hammy as Fagin. He sort of reminds me of Charles Laughton the way he carries the part to its ludicrous extreme but you savor it along with him. Charles Dickens was so good at portraying the poverty and horrible living conditions of his time and this film shows that especially in the workhouse. Children really lived under those conditions and it is horrifying. The scene that got me is where they are being served horrible gruel and are walking by the dining room where Mister Bumble and his henchmen are dining like kings! That really made me angry. Anyhow, Oliver is a wonderful film that would stand up to any film today and is a good viewing experience for the whole family. It will leave you with a happy heart and a lump in your throat and what more could you ask for?",
+         "\"Oliver!\" is a vast improvement over the marvelous Broadway stage version, opening up the scenes with the ability to expand the range of the material and still remain faithful to the Dickens story. Brimming with unforgettable songs and dances (that choreography by Onna White is timeless), it is so well cast--down to the smallest roles--and so faithful to the spirit of Dickens' work that you can no longer imagine that classic without the songs. Fagin is played to perfection by Ron Moody. His \"You Gotta Pick A Pocket Or Two\" is just one of the highlights incorporating clever lyrics and great choreography. The boys who kidnap Oliver are a rowdy lot, looking every bit the ruffians they're supposed to be. The best of the lot is Jack Wild's Artful Dodger, leading the gang in \"Consider Yourself\". But not all is light and cheery. The darker aspects of the story are sometimes a little too graphic for my taste, although all of the performances are extremely well played, including Oliver Reed as Bill Sykes. The scenes involving his demise are so melodramatic they seem to belong to another film. Whatever the faults may be, including a rather extended running time, there is scarcely a dull moment. With songs like \"Who Will Buy?\" and \"Where Is Love?\" -- not to mention \"Food, Glorious Food\" -- you will find yourself falling under the spell of this great musical. Highly recommended and fully deserving of its Best Picture Oscar.",
+         "I was lucky to see \"Oliver!\" in 1968 on a big cinema screen in Boston when I was a young teenager. Later, during the summer of 1969, I was pleased to see this film was still playing at a prominent cinema in Leicester Square, London, after it had won the Academy Award for Best Picture of the previous year. Th success of \"Oliver!\" on both the stage and screen reminded me that not all talent begins on Broadway and ends in Hollywood. This legendary story by Charles Dickens, which is part of the literary heritage of all English-speaking people, was admirably brought to the London stage by Lionel Bart of Great Britain. His charming musical then became a hit in New York and throughout the world. The film adaptation was made in England during the summer of 1967 and then released in 1968. The sets and musical numbers are mind boggling. The song \"Who Will Buy?\" required hundreds of actors and the British film director truly deserved his Oscar for putting it all together in a seamless manner. Some Canadian and American talent is also part of this wonderful production, but mostly it is a tribute to the fine craftsmanship of the British film studios, such as Shepperton. Good show! Other film studios at Elstree, Boreham Wood, Bray, Denham, and Ealing have also given the world many films to treasure over the years.",
+         "This film introduced me to musicals at the age of 5 or 6, starting a trend which has lasted for over two decades since - it remains my favourite for a lot of reasons - the great treatment of Dickens' admittedly complicated book; memorable characters who do not sing, alongside those who do (stellar performances from everyone); fun and frolics, and a few heartbreaking moments; and Lionel Bart's tremendous score. The 'Who Will Buy' sequence is one of the best ever. One to watch and cherish and remember just how good musical films used to be.",
+         "\"Oliver!\" brings to the screen a worthy adaption of Lionel Bart's Broadway musical of the sixties. The combination of a superb cast, wonderful music and breathtaking choreography mean that the film loses nothing in its translation from the stage. To this day it remains one of the stand-out musical adaptions in a dwindling field. Although the conservative Dickens fanatics may thumb their noses at various liberties taken on the original plot of \"Oliver Twist\", they should observe that \"Oliver!\" has recreated most of the spirit intended by Dickens. While primarily a musical comedy, \"Oliver!\" certainly has a dark undercurrent, thanks to the skillful direction of Carol Reed and the sinister acting of Oliver Reed (playing Bill Sikes). Dickens was essentially a talented satirist, who constructed his characters to convey a moralistic view on Victorian society. \"Oliver!\" conveys much of the sadness and desperation of the original novel. For anyone not acquainted with the famous storyline, the film treats of a young orphan, Oliver Twist, and follows his journey from a paupers' workhouse to the rough-and-tumble city life of London. He is spotted and introduced into a gang of thieves, led by the crafty and cunning Fagin. What follows for Oliver is an introduction to the art of picking pockets; the methods of justice dispened by Mr Fang the magistrate; the cruelty of Bill Sikes the notorious thief, and the compassion of Nancy, Bill's mate; the kindness of Mr and Mrs Brownlow. Such an adventure for such a small boy! It is difficult to pinpoint the exact reason why this Oscar-winning film is such a success. On one hand there is the incredible performances of a gifted cast - Ron Moody being nominated for an Academy Award for his portrayal of Fagin, and young Jack Wild's mature performance as the Artful Dodger. Mark Lester plays Oliver, and depicts all the elements of innocence and vulnerability as could be imagined in the young boy. Harry Secombe backs up the cast as the beadle, Mr Bumble. Perhaps the best aspect of the film though is the music itself. Lionel Bart has done a masterful job in writing the original score, and you may expect to find yourself singing the songs for weeks after watching \"Oliver!\". Here are the evergreens, \"Reviewing the Situation\", \"You've Got to Pick a Pocket Or Two\", \"Who Will Buy\", and the beautiful and touching \"Where is Love?\". The list of classic tunes goes on and on, and if nothing else, young people today should watch the film purely for its educational value - to be introduced to the sweet music of yesteryear, and to see that a film's qualities extend beyond the realms of special effects. \"Oliver!\" will rightfully go down as a classic film of its time, and with any luck will keep its place as a family favourite, for years to come. Its warmth and familiar music make it a must-see.",
+         "I took part in a little mini production of this when I was a bout 8 at school and my mum bought the video for me. I've loved it ever since!! When I was younger, it was the songs and spectacular dance sequences that I enjoyed but since I've watched it when I got older, I appreciate more the fantastic acting and character portrayal. Oliver Reed and Ron Moody were brilliant. I can't imagine anyone else playing Bill Sykes or Fagin. Shani Wallis' Nancy if the best character for me. She put up with so much for those boys, I think she's such a strong character and her final scene when... Well, you know... Always makes me cry! Best musical in my opinion of all time. It's lasted all this time, it will live on for many more years to come! 11/10!!",
+         "Before watching the movie I read the original novel, and I was not disappointed at all about the adaptation. The movie is really faithful to the spirit of Dickens narrative, but adds a new dimension to it by means of great music and songs.",
+         "Oliver! the musical is a favorite of mine. The music, the characters, the story. It all just seems perfect. In this rendition of the timeless classic novel turned stage musical, director Carol Reed brings the Broadway hit to life on the movie screen. The transition from musical to movie musical is not an easy one. You have to have the right voices, the right set, the right script, and the right play. All signs point to yes for this play. It almost appears that it was written for the screen! Our story takes place in jolly old England where a boy named Oliver manages to work his way out of the orphanage. He winds his way through the country to London where he meets up with a group of juvenile delinquents, headed by Dodger, the smart talking, quick handed pick-pocket. The leader of this gang is named Fagin, an older fellow who sells all the stolen goods. But all is not well in London town when Bill Sykes played by Oliver Reed and his loving girlfriend Nancy get tangled up with Oliver, Fagin and his young troops, and the law. What ensues is a marvelous tale of love, affection, and great musical numbers. Whether or not you like musicals or not, one listen to these tunes and you will be humming them all day long. Oliver! is a triumph on and off the stage and is a timeless work of art.",
+         "A high-spirited, lively version of the well-known story, the film manages to fit in songs and dances without subtracting from the deeper issues in Dickens' novel. The times are depicted vividly well, with excellent sets and costumes, and the film works as both surface entertainment for the young generation, and as a drama with deeper ideas behind it for the more adult viewer. As a musical, the story is not as potent as otherwise - if you compare it to David Lean's version for example - but yet the film explains parts of the story better than Lean's version did. It is not a perfect film as such, with some dances routines seeming pointless and a length that does become a tad annoying, but it is such a brilliant realisation of Dickens, and it is so well done, that it is hard not to think highly of the film. Ron Moody especially is very good: perfect as Fagin in an Oscar nominated role.",
+         "As a lifelong fan of Dickens, I have invariably been disappointed by adaptations of his novels. Although his works presented an extremely accurate re-telling of human life at every level in Victorian Britain, throughout them all was a pervasive thread of humour that could be both playful or sarcastic as the narrative dictated. In a way, he was a literary caricaturist and cartoonist. He could be serious and hilarious in the same sentence. He pricked pride, lampooned arrogance, celebrated modesty, and empathised with loneliness and poverty. It may be a cliché, but he was a people's writer. And it is the comedy that is so often missing from his interpretations. At the time of writing, Oliver Twist is being dramatised in serial form on BBC television. All of the misery and cruelty is their, but non of the humour, irony, and savage lampoonery. The result is just a dark, dismal experience: the story penned by a journalist rather than a novelist. It's not really Dickens at all. 'Oliver!', on the other hand, is much closer to the mark. The mockery of officialdom is perfectly interpreted, from the blustering beadle to the drunken magistrate. The classic stand-off between the beadle and Mr Brownlow, in which the law is described as 'a ass, a idiot' couldn't have been better done. Harry Secombe is an ideal choice. But the blinding cruelty is also there, the callous indifference of the state, the cold, hunger, poverty and loneliness are all presented just as surely as The Master would have wished. And then there is crime. Ron Moody is a treasure as the sleazy Jewish fence, whilst Oliver Reid has Bill Sykes to perfection. Perhaps not surprisingly, Lionel Bart - himself a Jew from London's east-end - takes a liberty with Fagin by re-interpreting him as a much more benign fellow than was Dicken's original. In the novel, he was utterly ruthless, sending some of his own boys to the gallows in order to protect himself (though he was also caught and hanged). Whereas in the movie, he is presented as something of a wayward father-figure, a sort of charitable thief rather than a corrupter of children, the latter being a long-standing anti-semitic sentiment. Otherwise, very few liberties are taken with Dickens's original. All of the most memorable elements are included. Just enough menace and violence is retained to ensure narrative fidelity whilst at the same time allowing for children' sensibilities. Nancy is still beaten to death, Bullseye narrowly escapes drowning, and Bill Sykes gets a faithfully graphic come-uppance. Every song is excellent, though they do incline towards schmaltz. Mark Lester mimes his wonderfully. Both his and my favourite scene is the one in which the world comes alive to 'who will buy'. It's schmaltzy, but it's Dickens through and through. I could go on. I could commend the wonderful set-pieces, the contrast of the rich and poor. There is top-quality acting from more British regulars than you could shake a stick at. I ought to give it 10 points, but I'm feeling more like Scrooge today. Soak it up with your Christmas dinner. No original has been better realised."
+      ],
+      "genres": [
+         "Drama",
+         "Family",
+         "Musical"
+      ],
+      "productionCompanies": [
+         "Romulus Films",
+         "Warwick Film Productions"
+      ],
+      "summaries": [
+         "Musical adaptation of Charles Dickens's classic tale of an orphan who runs away from the orphanage and hooks up with a group of boys trained to be pickpockets by an elderly mentor.",
+         "In Victorian England, Oliver Twist is the name given by a workhouse warden to a boy born in the workhouse orphanage, Oliver's mother who died in childbirth and whose identity is unknown. Now an adolescent, Oliver, who has never felt loved or accepted, manages to escape from both the harsh workhouse and his equally harsh placements \"for sale\". Managing to make his way to London, Oliver, feeling accepted for the first time in his life, is welcomed into a group of other young boys, headed by the Artful Dodger, who \"make wallets\" under the direction of Fagin. What Oliver is initially unaware of is that they are really a band of pickpockets, Fagin who hides away whatever riches he is able to obtain for his own personal benefit. One of Fagin's associates is the violent Bill Sikes, whose girlfriend, Nancy, is devoted to him despite his abuse of her. Oliver looks to Nancy as his one true friend, especially needed when he discovers what Fagin and the boys actually do. Oliver also comes to the attention of the wealthy Mr. Brownlow. Out of circumstance, Bill sees Oliver as both an asset and a liability, but one that needs to be kept enslaved under his direction. Nancy has to decide whether to be loyal to Bill to help him keep Oliver, or do what is best for Oliver by helping him escape, especially as she knows that Brownlow is looking for Oliver when he learns of Oliver's true heritage.",
+         "Oliver Twist is sold to a Dunstable undertaker after asking for more dinner at the orphanage. Escaping to London he is taken in by Fagin to join his gang of child pickpockets. Wrongly accused of a theft he meets a more kindly gentleman who takes him in, to the concern of one of Fagin's old pupils, the violent Bill Sykes. In the middle is Nancy, Sykes' girl whom Oliver has come to trust.",
+         "Musical adaptation about an orphan who runs away from an orphanage and hooks up with a group of boys trained to be pickpockets by an elderly mentor."
+      ],
+      "budget": 10000000
+   },
+   "movielensId": 1951,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1968-09-26",
+      "dvdReleaseDate": "1998-08-11",
+      "directors": ["Carol Reed"],
+      "runtime": 153,
+      "movieId": 1951,
+      "title": "Oliver!",
+      "mpaa": "G",
+      "actors": [
+         "Ron Moody",
+         "Shani Wallis",
+         "Oliver Reed",
+         "Harry Secombe",
+         "Mark Lester",
+         "Jack Wild",
+         "Hugh Griffith",
+         "Joseph O'Conor",
+         "Peggy Mount",
+         "Leonard Rossiter",
+         "Hylda Baker",
+         "Kenneth Cranham",
+         "Megs Jenkins",
+         "Sheila White",
+         "Wensley Pithey",
+         "James Hayter",
+         "Elizabeth Knight",
+         "Fred Emney",
+         "Norman Mitchell"
+      ],
+      "imdbMovieId": "0063385",
+      "originalTitle": "Oliver!",
+      "genres": [
+         "Drama",
+         "Family",
+         "Music"
+      ],
+      "youtubeTrailerIds": ["MJoCL6npA14"],
+      "plotSummary": "Musical adaptation of Charles Dickens' Oliver Twist, a classic tale of an orphan who runs away from the workhouse and joins up with a group of boys headed by the Artful Dodger and trained to be pickpockets by master thief Fagin.",
+      "tmdbMovieId": 17917,
+      "avgRating": 3.64242,
+      "releaseYear": "1968",
+      "numRatings": 2468,
+      "posterPath": "/t44XtV1pNAKYrb5jIRFpcBo0XSe.jpg"
+   }
+}

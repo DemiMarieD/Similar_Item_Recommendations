@@ -1,0 +1,490 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "puppet",
+            "id": 6300
+         },
+         {
+            "name": "murder",
+            "id": 9826
+         }
+      ],
+      "imdb_id": "tt0098143",
+      "video": false,
+      "title": "Puppet Master",
+      "recommendations": [
+         26954,
+         26956,
+         26957,
+         26958,
+         26959,
+         26962,
+         26961,
+         32595,
+         26960,
+         40649,
+         34312,
+         20701,
+         19287,
+         37530,
+         24929,
+         10127,
+         16288,
+         19286,
+         34311,
+         52017
+      ],
+      "backdrop_path": "/j1ShcGvA4Sex6DkqpAUbWCsMjzN.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 4,
+               "character": "Alex Whitaker",
+               "gender": 2,
+               "credit_id": "52fe4523c3a368484e04aa35",
+               "name": "Paul Le Mat",
+               "profile_path": "/zdXz9llyKWBRojikxjvtCs3Jt3W.jpg",
+               "id": 12406,
+               "order": 0
+            },
+            {
+               "cast_id": 5,
+               "character": "Andre Toulon",
+               "gender": 2,
+               "credit_id": "52fe4523c3a368484e04aa39",
+               "name": "William Hickey",
+               "profile_path": "/zr7UJxP5MdEksn6ZaxeHbwr6o5Z.jpg",
+               "id": 21282,
+               "order": 1
+            },
+            {
+               "cast_id": 6,
+               "character": "Dana Hadley",
+               "gender": 1,
+               "credit_id": "52fe4523c3a368484e04aa3d",
+               "name": "Irene Miracle",
+               "profile_path": "/3EImLyVuzaRGV0tEytXAbwNVMBT.jpg",
+               "id": 69011,
+               "order": 2
+            },
+            {
+               "cast_id": 7,
+               "character": "Neil Gallagher",
+               "gender": 0,
+               "credit_id": "52fe4523c3a368484e04aa41",
+               "name": "Jimmie F. Skaggs",
+               "profile_path": null,
+               "id": 133771,
+               "order": 3
+            },
+            {
+               "cast_id": 8,
+               "character": "Megan Gallagher",
+               "gender": 1,
+               "credit_id": "52fe4523c3a368484e04aa45",
+               "name": "Robin Frates",
+               "profile_path": null,
+               "id": 133772,
+               "order": 4
+            },
+            {
+               "cast_id": 9,
+               "character": "Frank Forrester",
+               "gender": 2,
+               "credit_id": "52fe4523c3a368484e04aa49",
+               "name": "Matt Roe",
+               "profile_path": "/cSWSqd8jhOMTW013fO5At8XsquZ.jpg",
+               "id": 13423,
+               "order": 5
+            },
+            {
+               "cast_id": 10,
+               "character": "Carlissa Stamford",
+               "gender": 1,
+               "credit_id": "52fe4523c3a368484e04aa4d",
+               "name": "Kathryn O'Reilly",
+               "profile_path": null,
+               "id": 133773,
+               "order": 6
+            },
+            {
+               "cast_id": 11,
+               "character": "Theresa",
+               "gender": 1,
+               "credit_id": "52fe4523c3a368484e04aa51",
+               "name": "Mews Small",
+               "profile_path": null,
+               "id": 133774,
+               "order": 7
+            },
+            {
+               "cast_id": 12,
+               "character": "Woman at Carnival",
+               "gender": 1,
+               "credit_id": "52fe4523c3a368484e04aa55",
+               "name": "Barbara Crampton",
+               "profile_path": "/5bQhuSrBSMyXP70SNOFim1Pf8Ta.jpg",
+               "id": 27995,
+               "order": 8
+            },
+            {
+               "cast_id": 31,
+               "character": "Man at Carnival",
+               "gender": 2,
+               "credit_id": "5690fd75925141456d002278",
+               "name": "David Boyd",
+               "profile_path": null,
+               "id": 1482447,
+               "order": 9
+            },
+            {
+               "cast_id": 14,
+               "character": "Assassin #1",
+               "gender": 0,
+               "credit_id": "52fe4523c3a368484e04aa5d",
+               "name": "Peter Frankland",
+               "profile_path": null,
+               "id": 109954,
+               "order": 10
+            },
+            {
+               "cast_id": 15,
+               "character": "Assassin #2",
+               "gender": 0,
+               "credit_id": "52fe4523c3a368484e04aa61",
+               "name": "Andrew Kimbrough",
+               "profile_path": null,
+               "id": 133775,
+               "order": 11
+            },
+            {
+               "cast_id": 16,
+               "character": "Pinhead (voice)",
+               "gender": 0,
+               "credit_id": "52fe4523c3a368484e04aa65",
+               "name": "Ed Cookie Jarvis",
+               "profile_path": null,
+               "id": 110818,
+               "order": 12
+            },
+            {
+               "cast_id": 17,
+               "character": "Leech Woman (voice)",
+               "gender": 0,
+               "credit_id": "52fe4523c3a368484e04aa69",
+               "name": "Linda O. Cook",
+               "profile_path": null,
+               "id": 133776,
+               "order": 13
+            },
+            {
+               "cast_id": 18,
+               "character": "Tunneler (voice)",
+               "gender": 0,
+               "credit_id": "52fe4523c3a368484e04aa6d",
+               "name": "Tim Dornberg",
+               "profile_path": null,
+               "id": 133777,
+               "order": 14
+            },
+            {
+               "cast_id": 19,
+               "character": "Blade (voice)",
+               "gender": 2,
+               "credit_id": "52fe4523c3a368484e04aa71",
+               "name": "Bert Rosario",
+               "profile_path": null,
+               "id": 21248,
+               "order": 15
+            },
+            {
+               "cast_id": 20,
+               "character": "Jester (voice)",
+               "gender": 0,
+               "credit_id": "52fe4523c3a368484e04aa75",
+               "name": "Michael Laide",
+               "profile_path": null,
+               "id": 133778,
+               "order": 16
+            },
+            {
+               "cast_id": 21,
+               "character": "(uncredited)",
+               "gender": 0,
+               "credit_id": "52fe4523c3a368484e04aa79",
+               "name": "Andrea Henry",
+               "profile_path": null,
+               "id": 133779,
+               "order": 17
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4523c3a368484e04aa25",
+               "name": "David Schmoeller",
+               "profile_path": "/qXfp7TR5E0nFpKBpoL41rOOP3MK.jpg",
+               "id": 52268,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4523c3a368484e04aa2b",
+               "name": "Charles Band",
+               "profile_path": "/ulNdloEQNPhKrFOloAwW2R3m6DU.jpg",
+               "id": 19707,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4523c3a368484e04aa31",
+               "name": "David Schmoeller",
+               "profile_path": "/qXfp7TR5E0nFpKBpoL41rOOP3MK.jpg",
+               "id": 52268,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4523c3a368484e04aa7f",
+               "name": "Hope Perello",
+               "profile_path": null,
+               "id": 1016403,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4523c3a368484e04aa85",
+               "name": "Charles Band",
+               "profile_path": "/ulNdloEQNPhKrFOloAwW2R3m6DU.jpg",
+               "id": 19707,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4523c3a368484e04aa8b",
+               "name": "Richard Band",
+               "profile_path": null,
+               "id": 19711,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4523c3a368484e04aa91",
+               "name": "Thomas Meshelski",
+               "profile_path": null,
+               "id": 91307,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4523c3a368484e04aa97",
+               "name": "Vivian Levy",
+               "profile_path": null,
+               "id": 1174321,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4523c3a368484e04aa9d",
+               "name": "John Myhre",
+               "profile_path": null,
+               "id": 11002,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4523c3a368484e04aaa3",
+               "name": "Kenneth J. Hall",
+               "profile_path": null,
+               "id": 97860,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53638e0bc3a3681586002069",
+               "name": "Robin Lewis-West",
+               "profile_path": null,
+               "id": 30482,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5536c11fc3a36842ae001b8d",
+               "name": "Justin Kohn",
+               "profile_path": null,
+               "id": 1353148,
+               "department": "Visual Effects",
+               "job": "Animation"
+            }
+         ]
+      },
+      "genres": [{
+         "name": "Horror",
+         "id": 27
+      }],
+      "popularity": 5.930064,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 26953,
+      "vote_count": 88,
+      "budget": 0,
+      "overview": "Toulon, a puppet maker, discovers an ancient Egyptian potion and uses it to bring his creations to life. His puppets become murderous little demons and escape. Distraught, the master takes his life. Years later, psychics tune into the existence of the monstrous marionettes and set off to stop them.",
+      "similar": [
+         357096,
+         15069,
+         948,
+         21484,
+         10781,
+         123109,
+         984,
+         15762,
+         369300,
+         10285,
+         588,
+         238636,
+         3597,
+         12619,
+         3600,
+         10692,
+         11423,
+         4771,
+         96,
+         979
+      ],
+      "original_title": "Puppet Master",
+      "runtime": 85,
+      "poster_path": "/3gMXTOSlpNDfiZ659w19HW8roZ7.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Full Moon Entertainment",
+            "id": 4867,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Empire Pictures",
+            "id": 1212,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1989-10-12",
+      "vote_average": 5.5,
+      "belongs_to_collection": {
+         "backdrop_path": "/crDZjaOpoUCIOoiQ9nLIAt8ZBul.jpg",
+         "name": "Puppet Master Collection",
+         "id": 107949,
+         "poster_path": "/wuLaEcy10wqgiVi4nCjdPXvcCyw.jpg"
+      },
+      "tagline": "Evil comes in all sizes!",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["David Schmoeller"],
+      "runtime": 90,
+      "synopsis": null,
+      "writers": [
+         "Charles Band",
+         "Kenneth J. Hall"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0098143/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTQ1ODM1MDg3OV5BMl5BanBnXkFtZTcwNTE0NTYzNQ@@._V1_SY317_CR0,0,214,317_AL_.jpg",
+      "actors": ["Stars: Paul Le Mat, William Hickey, Irene Miracle | See full cast and crew »"],
+      "reviews": [
+         "I thought this would be very low-grade horror and dumb with poor special- effects, but I was surprised: it was good.....very entertaining. It inspired me to see the sequels, too, and they - most notably the third one - were good, too. It's a little slow to start with, but once the puppets begin their attack story gets interesting, concluding with a gruesome ending. William Hickey gets decent billing in here but he's only in the film for a short time in the beginning. After that, it's just Paul LeMat and a bunch of unknown actors. In all, not super but more-than-decent entertainment for an hour-and-a-half.",
+         "You'd figure the thirtieth or fortieth movie about dolls that \"live\" would get stale, but \"Puppet Master\" has yet more to show you. They're not dolls in this movie, but rather five special puppets, crafted with love to be the companions of an old, lonely man. Jester, the quiet puppet, and last to be created, who sits back and watches is by far the most interesting. It's cool to watch his head spin around (it's made up of three distinct sections) when he changes his facial expressions. These puppets have been \"lost\" for nearly fifty years when the story begins, and a bunch of psychics come to investigate the hotel. The death scenes in this movie are unique -- no one can commit gruesome murder quite like tiny little people. But even though they're rampaging the hotel, these toys aren't evil. They set a standard followed in \"Puppet Master II\" (a movie that, while tolerable, is no where near as good as the original) in that the puppets have no choice but to follow their master, who will eventually reap what he sows. It's a fabulous movie, from the scenery of the old bed and breakfast at the Bodega Bay house, to the almost sweet-looking puppets (who just happen to like to murder people), and all told, I think I would have to give this movie an eight out of ten. Sure, there's simulated sex, but it's not all that bad. The movie itself is pretty tame -- there's language, humor, gratuitous (and fairly strange) sex, and violence, but it's not marked by extreme gore (well, there's a questionable part right at the very end that is a little disgusting). One of the best reasons for watching this movie is the cast, particularly Paul LeMat as Alex Whitaker. He's excellent as the peace-keeper in the movie, as well as the first of the psychics to have a really good clue what is going on in the household. Unfortunately, even he, in the end, jumps to the wrong conclusion. Viewers who enjoy this movie will enjoy \"Child's Play\", \"Dolls\", \"Demonic Toys\", and \"Dolly Dearest\", among other horror films. Although \"Puppet Master\" isn't quite as demonic as the others mentioned, and has no aspects of Satan-worship, voodoo, or demonic culture, it's still another of those \"inanimate objects come to life\" movies. A definite hit!",
+         "Being a fan of b-flicks and cultmovies, I was aware of this movie's reputation. So, why not give it a chance? Was I appointed? No, not really ... but was I excited?! Neither! This movie has an original storyline, is shot on a nice location and the special effects are OK (they look sometimes a bit silly, but in movies like this, there's one golden rule: how sillier, how much more fun!) But, in general, this is a rather slow and boring movie. It has some great (and sick) scenes ... but that doesn't cover up for the rest of the movie. This movie constantly repeats itself. I really had the feeling that the director had problems to fill his 90 minutes. So ... is it a waste of time?! No, you'll have fun with it. Just don't expect too much of this 'cultclassic' PS: Just like Child's Play, this movie is about dolls and puppets ... but that doesn't mean it's suitable for young children. A wise advice to all you babysitters out there!",
+         "This is one great horror movie. The special effects are great. The acting is good. If you have never seen this movie you should run straight to the nearest video store and pick it up. Or just go ahead and buy it!!! The dvd is great. It is about 4 psychics investigating rumors that the secret of life has been discovered by master puppeteer Andre Toulon. But the psychics quickly discover Toulons secret of death in the form of 5 killer puppets. You have to see this movie to believe it. I give it 3 1/2 stars out of 4.",
+         "Charles Band and his company, Full Moon Pictures, are often labeled as makers of the worst b-movies in the history of the horror genre, however, few seem to remember they kept the genre alive and kicking with their inventive and original brand of low-budget horror during the late 80s and early 90s. \"Puppet Master\" was the first and arguably the best example of Full Moon's 90s style, a style that included a heavy use of puppetry and stop-motion animation that showed the progression of an idea that he started in his 1987' production \"Dolls\" (directed by Stuart Gordon). During World War II, a secret group of Nazis were sent to Bodega Bay, California, to capture puppet maker Andre Toulon (William Hickey), a mysterious old man who had the secret of giving life to inanimate objects. He commits suicide before being caught and so his secret goes with him to the grave. Until nearly 50 years later, a group of psychics lead by Alex Whitaker (Paul Le Mat) are contacted by Neil Gallagher (Jimmie F. Skaggs), a former colleague who apparently made a big discovery in Bodega Bay before committing suicide under mysterious circumstances. Directed by the tragically underrated David Schmoeller, \"Puppet Master\" is a very different films that its sequels. Schmoeller plays with the suspense and atmosphere of classic goth films, and successfully mixes those elements with the more graphic shock and gore that was the rule for horror films of its time. With a great eye for the visuals Schmoeller makes great use of his Gothic locations and the terrific camera-work enhances the carefully crafted suspense. The special effects wizards create very good looking effects for the budget and together create what could be called a \"gothic slasher\". Schmoeller gives life to Band's story and this mix of fantasy and horror ends up as one of the best screenplays developed at Full Moon. Each puppet has a personality of its own and that is what gives the movie life; the human characters are also very well-defined and for the most part well-acted. Despite the silly premise of a killer toy (already explored in \"Child's Play\" and \"Dolls\"), Scmoeller and Band make the work and craft set-pieces of haunting atmospheres. Richard Band's eerie score perfectly showcase the mix of horror and fantasy of the film and it's probably his most famous work. It quickly became the trademark of the series. As written above, the acting is for the most part good for a movie like this, and while no one really stands out, they all make an efficient job. Paul Le Mat is quite good as the lead character, although the rest of the team soon prove to be more interesting characters. Despite his limited screen time, William Hickey makes a small but charming job as Toulon, and look out for a Barbara Crampton small cameo. As a side-note, it was refreshing to watch a movie where the main characters are middle-aged adults instead of young teenagers. The movie's main problem (and one that marked the series since its conception) is that the puppets quickly became the focus of everything. This lessen the importance not only of the final villain, but also of the heroes of the movie. While this problem didn't affect that much this movie, it became more notorious as the series started to grow and eventually, the puppets would become the main characters of the movies. \"Puppet Master\" may not be everyone's cup of tea, as its premise and the mix of fantasy with horror may turn off some movie goers. However, it is a quality film that proves the talents of both Band and Schmoeller, in a film that has become a cult-classic. 8/10",
+         "Bad acting, awful hair, horrible plot, cheesy action, hokey characters. Still reading? Good. My brother picked this movie up for me on DVD, because he knows of my love of horror movies. My first thoughts as I inserted the disc was that it'd be a cheesy, laughable pile of 80's horror rubbish. So I was in for a pleasant surprise. If you can get past the initial presentation of the movie (it feels every bit as low-budget as it is), you'll find it to be creepy, intriguing, and above all, great fun. The puppets themselves could have been a whole lot worse. The effects are hardly Lord Of The Rings, but through a strange combination of live-action and extremely well-animated stop-motion, the puppets don't make you cringe every time they show up on screen. They're probably better actors than some of the live actors even, it's difficult to tell who's more wooden. But it's hardly a character-driven story. It's an unusual story nontheless, and it definitely interested me enough to watch it right through - and then pick up the first sequel! If you ever saw the movie Child's Play, with which comparisons are inevitable, you'll know already whether you can suspend your disbelief enough to enjoy a movie about killer puppets. If you can, and don't mind horrific 80's haircuts, I'd strongly suggest giving this one a rental, you could do a lot worse.",
+         "Wow. This movie has fascinating stop-motion effects that put major studios to shame. The little guys have such personality in their movements. A thoroughly recommended watch.",
+         "\"Puppet Master\" is a wonderful, good-hearted slice of old-fashioned horror nonsense from the imagination of Charles Band. Whilst short on plot, it features a variety of pretty unusual characters, some fiendishly good stop-motion and stunt puppets and a few excellent set-pieces with just enough of the red stuff thrown in for good measure. There are some fun performances from the cast which includes the rather sexy Irene Miracle (\"Inferno\") and an appearance from William Hickey (\"National Lampoon's Christmas Vacation\", \"Prizzi's Honour\", etc.). It's one of those few feel-good horror movies, ideal for Christmas viewing!",
+         "Puppet Master spawned at least 6 sequels. None of these are as good as this first outing, although part 2 deserves note for it's flamethrower toting Torch puppet. When I initially saw Puppet Master I was fairly new to the Horror genre and thought it was fantastic. Three years on and with the benefit of hindsight and perspective, Puppet Master is okay, but isn't going to set your world alight. So long as you don't lose sight of the fact that this is Straight-To-Video trash in it's purest form, you'll never have any trouble fully enjoying what Puppet Master has to offer. The bad acting, cheesy music and noisy splatter effects are all part and parcel of what you should expect from American B-Movie horror, but there's a great charm and knowing sense of fun about the movie lacking from a lot of movies with more money thrown at them. Most of this is the result of the painstaking work put into bringing the puppets to life. The puppets are a mix of animatronics, pure animation and some improvised techniques, and as a result have a life all of their own, making them far more watchable than the cast. Although Irene Miracle and Paul LeMat put in fairly decent turns, the rest of the cast are shocking (and not in the good way you normally associate with horror) and hopefully people you've never seen in anything else, meaning you will spend the movie rooting for the puppets. All in all, for a movie so utterly riddled with problems, Puppet Master is still a fun ride. I certainly have no qualms recommending it for a quick rental or a rainy day, but I'll warn you one last time, it is cheesy, gory and trashy so it won't be for everyone.",
+         "PUPPET MASTER is perhaps one of FULL MOON ENTERTAINMENTS best movies! The film was a huge hit on video shelves & also allowed FULL MOON the chance (for a few brief years in the 90's at least) to expand into the reigning king of successful & recognizable B movie film companies on the thriving direct to video market & allowed the company to get not only bigger budgets for future projects, but begin to sell soundtrack tapes in major chain outlets, T-Shirts, posters, comics, cards & more...Some have called PUPPET MASTER a \"CHILD'S PLAY rip-off\" however I disagree with this statement. FULL MOON founder CHARLES BAND had been making mini killer doll & monster movies long before that film. PUPPET MASTER was just another film in his mini diminutive killer cannon. It's certainly understandable as to why fans would think the film was merely trying to cash on CHILD'S PLAY success, since the film emerged onto video store shelves a year after that films release date & although PUPPET MASTER isn't as good as that film (arguably) it still has many moments to help elevate it to be just as worthy & because of it's attempts to scare audiences, it remains thus far the flag ship of FULL MOON. The stop motion effects by the late great David Allen are very well done. PUPPET MASTER also gives hot blooded horror fans what they want, namely a few nice bloody kills, creepy puppet POV shots, suspense, tension, atmosphere & nudity & many creepy moments, such as a headless puppet looking for it's head, crawling out of a coffin & another effective scene where it is tossed down the stairs by it's intended victim, who escapes in an elevator, only to find it waiting for her on the floor she has selected to land on. The puppets themselves are a creepy bunch. RICHARD BANDS Carnivaleque horror movie theme, gives the film a really creepy edge to it. Another thing I liked about PUPPET MASTER besides director David Schmoeller's excellent direction, is it's fresh story, rather than a simple recycled CHILD'S PLAY'S plot & that's why I think in large part, the film has continued to thrive as long as it has. The puppets themselves are also presented in a different light. Unlike a lot of killer dolls, these puppets are not evil, but only do the will of the maker who has given them life, be he/she good or evil. Director Schmoeller also cleverly plays on a few mind twists, you're not really sure if some of the scenes in the film are real, or a dream at times. Unlike the latter sequels, PUPPET MASTER is a pure horror film, it's a mercilessly effective horror item that works on it's own intended level, it's a very scary horror film, unlike the latter sequels & to be truthful that's all that really matters in the long run. The puppets really don't serve the plot much at all, but their presence is certainly felt throughout the films running time. Their merely a window dressing for the films actual plot, which in itself is a very interesting. Using the puppets sparingly allows the film-makers to create a sense of dread throughout the films running time. The characters on the other hand are a rather bland bunch. Their so bland in fact that the puppets actually give better performances! Only PAUL LeMAT as a Yale University teacher, stands out as the only psychic that doesn't appear to have sex on his mind because the other three psychics (& in a flashback Gallager) are obsessed with it. Heck even the puppets are revealed to have a sleazy side to them, as they peek through a key hole, as a couple has sex!. The pacing also tends to drag on in a lot of area's. The back story on Toulon is also disappointing, we never do learn how he came upon the secrets of eternal life, nor why the Nazi's wanted with him (this would be later answered in th sequels) & another problem I had was with Gallagher's explanation for dispatching the puppets, to murder his friends & why he killed himself, which is to live forever, but when he finally does get killed, he dies just like a normal human being would if being murdered, he feels pain & bleeds (though a green liquid instead of blood) so how would this serum make him immortal if he can be killed like a normal human being? Despite being two of the top billed WILLIAM HICKEY & BARBARA CRAMPTON (RE-ANIMATOR) only have five minute cameo's. Co-written by CHARLES BAND & KENNETH J. HALL & director Schmoeller (who went under a pseudonym JOSPEH G. COLLODI (a spoof on the last name of the guy who penned 1888's PINNOCHIO). Prequeled by RETRO PUPPET MASTER/ PUPPET MASTER III: TOULON'S REVENGE/PUPPET MASTER: AXIS OF EVIL (Who's own opening takes place after the opening of this film) PUPPET MASTER: AXIS RISING & several sequels (According to PUPPET MASTER: LEGACY it's followed \"story wise\" by PUPPET MASTER 4 & 5). It's first sequel: PUPPET MASTER II **** stars PROLOX TRIVIA: In the original draft of the script, ANDRE TOULON was captured by the Nazi's & taken into their car. What the Nazi's didn't know was that Toulon was armed with a bomb, which he detonates killing them all to keep his secrets of eternal life exactly that, a \"secret\" so the Nazi's couldn't get hold of them & use them to resurrect their dead soldiers to help them win the war. Many years later, a cult of crazed witches went looking for a missing member, at a mysterious inn, where they had psychic contact with him, only to discover the girlfriend who is left seemingly confused over what happened to him, said script was to also have included SIX SHOOTER (Who turned up in Part 3) & the missing cult member was behind it all, having killed & then re-animated himself."
+      ],
+      "genres": [
+         "Fantasy",
+         "Horror",
+         "Sci-Fi",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "Empire Pictures",
+         "Full Moon Entertainment"
+      ],
+      "summaries": [
+         "Neil Gallagher found the secret to Toulon's puppets who come to life and then killed himself. Alex and his psychic friends come to investigate and are stalked by Toulon's puppets who have a variety of strange traits including a drill for a head and the ability to spit up leeches.",
+         "André Toulon is a puppet maker and the best of the kind. One day he happens upon an old Egyptian formula able to create life, so he decides to give life to his puppets. The Nazis seek to use this knowledge to their advantage and in desperation, Toulon commits suicide. Some years later four psychics get on the trail of a former colleague who suddenly commits suicide, and they decide to investigate the mansion he killed himself in. Along with his widow, they uncover the secrets of the Puppet Master.",
+         "Puppet maker Andre Toulon shoots himself at the Bodega Bay Inn before his Secret of Life can be stolen by the Nazis. 50 years later in 1989 the secret is discovered by Neil Gallagher. Soon he sends messages to his psychic friends Alex Whitaker, Dana Hadley, Frank Forrester and Carissa Stamford who arrive to find his wife Megan who claims Neil to be dead. As the night goes by, the murderous puppets are awakend and unleased on the group, only for them to discover that evil comes in all sizes."
+      ],
+      "budget": 0
+   },
+   "movielensId": 3660,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1989-10-12",
+      "dvdReleaseDate": "2000-06-27",
+      "directors": ["David Schmoeller"],
+      "runtime": 85,
+      "movieId": 3660,
+      "title": "Puppet Master",
+      "mpaa": "R",
+      "actors": [
+         "Paul Le Mat",
+         "William Hickey",
+         "Irene Miracle",
+         "Jimmie F. Skaggs",
+         "Robin Frates",
+         "Matt Roe",
+         "Kathryn O'Reilly",
+         "Mews Small",
+         "Barbara Crampton",
+         "David Boyd",
+         "Peter Frankland",
+         "Andrew Kimbrough",
+         "Ed Cookie Jarvis",
+         "Linda O. Cook",
+         "Tim Dornberg",
+         "Bert Rosario",
+         "Michael Laide",
+         "Andrea Henry"
+      ],
+      "imdbMovieId": "0098143",
+      "originalTitle": "Puppet Master",
+      "genres": ["Horror"],
+      "youtubeTrailerIds": ["Sf5d44T-RNc"],
+      "plotSummary": "Toulon, a puppet maker, discovers an ancient Egyptian potion and uses it to bring his creations to life. His puppets become murderous little demons and escape. Distraught, the master takes his life. Years later, psychics tune into the existence of the monstrous marionettes and set off to stop them.",
+      "tmdbMovieId": 26953,
+      "avgRating": 2.74131,
+      "releaseYear": "1989",
+      "numRatings": 719,
+      "posterPath": "/3gMXTOSlpNDfiZ659w19HW8roZ7.jpg"
+   }
+}

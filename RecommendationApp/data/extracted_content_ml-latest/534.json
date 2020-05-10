@@ -1,0 +1,603 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "bachelor",
+            "id": 1338
+         },
+         {
+            "name": "stroke of fate",
+            "id": 4327
+         },
+         {
+            "name": "brother",
+            "id": 5301
+         },
+         {
+            "name": "oxford",
+            "id": 8095
+         },
+         {
+            "name": "author",
+            "id": 10818
+         },
+         {
+            "name": "falling in love",
+            "id": 13072
+         }
+      ],
+      "imdb_id": "tt0108101",
+      "video": false,
+      "title": "Shadowlands",
+      "recommendations": [
+         18988,
+         40156,
+         106143,
+         31052,
+         49792,
+         874,
+         46270,
+         3033,
+         11889,
+         42222,
+         42013,
+         45219,
+         147747,
+         53741,
+         27224,
+         418956,
+         35944,
+         41971,
+         38724,
+         66775
+      ],
+      "backdrop_path": "/9xaeMUQCrtUJ42IHd6MJHF12dKQ.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "C. S. 'Jack' Lewis",
+               "gender": 2,
+               "credit_id": "52fe43729251416c75010bdd",
+               "name": "Anthony Hopkins",
+               "profile_path": "/btweZvSRBiE6jaMME93BSXeTQN6.jpg",
+               "id": 4173,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Joy Gresham",
+               "gender": 1,
+               "credit_id": "52fe43729251416c75010be1",
+               "name": "Debra Winger",
+               "profile_path": "/l1ISZ6yfV8ilaNmOHBVTheq6Mbq.jpg",
+               "id": 26513,
+               "order": 1
+            },
+            {
+               "cast_id": 14,
+               "character": "Christopher Riley",
+               "gender": 2,
+               "credit_id": "52fe43729251416c75010c1f",
+               "name": "John Wood",
+               "profile_path": "/bWt4JT9eGxFtu3q0iCAKFtNv5XK.jpg",
+               "id": 8937,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Desmond Arding",
+               "gender": 2,
+               "credit_id": "52fe43729251416c75010be5",
+               "name": "Julian Fellowes",
+               "profile_path": "/kf38Wij4DyNyVFFL9HokomrQNkc.jpg",
+               "id": 10747,
+               "order": 3
+            },
+            {
+               "cast_id": 15,
+               "character": "Arnold Dopliss",
+               "gender": 0,
+               "credit_id": "533099ccc3a3685c59000024",
+               "name": "Roddy Maude-Roxby",
+               "profile_path": null,
+               "id": 127264,
+               "order": 4
+            },
+            {
+               "cast_id": 16,
+               "character": "Harry Harrington",
+               "gender": 2,
+               "credit_id": "533099d7c3a3685c54000025",
+               "name": "Michael Denison",
+               "profile_path": "/yycOuH3Lp9LVLtOsbnIMmNhcrN7.jpg",
+               "id": 85934,
+               "order": 5
+            },
+            {
+               "cast_id": 17,
+               "character": "Nick Farrell",
+               "gender": 2,
+               "credit_id": "533099e3c3a3685c59000027",
+               "name": "Tim McMullan",
+               "profile_path": "/8se9JhmD9LE6tiibkGiV51M8rdD.jpg",
+               "id": 15740,
+               "order": 6
+            },
+            {
+               "cast_id": 18,
+               "character": "Warnie Lewis",
+               "gender": 2,
+               "credit_id": "533099f1c3a3685c67000023",
+               "name": "Edward Hardwicke",
+               "profile_path": "/21PRsSZBTaTrqq2wPwDUjRLSUjG.jpg",
+               "id": 3545,
+               "order": 7
+            },
+            {
+               "cast_id": 19,
+               "character": "Peter Whistler",
+               "gender": 2,
+               "credit_id": "533099fbc3a3685c4d000020",
+               "name": "James Frain",
+               "profile_path": "/tQLuwlPodwk8CWd3ly067s1x1dh.jpg",
+               "id": 22063,
+               "order": 8
+            },
+            {
+               "cast_id": 20,
+               "character": "Claude Bird",
+               "gender": 2,
+               "credit_id": "53309a03c3a3685c45000038",
+               "name": "Robert Flemyng",
+               "profile_path": "/op5oO4MHBO56aDozThTlbo4dLvG.jpg",
+               "id": 41958,
+               "order": 9
+            },
+            {
+               "cast_id": 21,
+               "character": "Dr. Eddie Monk",
+               "gender": 2,
+               "credit_id": "53309a1ec3a3685c5900002d",
+               "name": "Roger Ashton-Griffiths",
+               "profile_path": "/3lvWs4Kz0aATpcSY7PyPhkKgH6W.jpg",
+               "id": 20243,
+               "order": 10
+            },
+            {
+               "cast_id": 22,
+               "character": "Douglas Gresham",
+               "gender": 2,
+               "credit_id": "53309a27c3a3685c5900002f",
+               "name": "Joseph Mazzello",
+               "profile_path": "/zsBGvymDqB737PerJTqhS9dPuBd.jpg",
+               "id": 4787,
+               "order": 11
+            },
+            {
+               "cast_id": 23,
+               "character": "Dr. Craig",
+               "gender": 2,
+               "credit_id": "53309a31c3a3685c6700002b",
+               "name": "Peter Firth",
+               "profile_path": "/o7zbRKlhY8v9mhxyBvAwou7l200.jpg",
+               "id": 22109,
+               "order": 12
+            },
+            {
+               "cast_id": 41,
+               "character": "Committee Chairwoman",
+               "gender": 1,
+               "credit_id": "5952db7b9251412b3102afa5",
+               "name": "Pauline Melville",
+               "profile_path": "/qrlY1cKhJpM51n43LxHVwM7bqOC.jpg",
+               "id": 31951,
+               "order": 13
+            },
+            {
+               "cast_id": 42,
+               "character": "Tea Room Waiter",
+               "gender": 2,
+               "credit_id": "5a725d57925141059700062e",
+               "name": "Howard Lew Lewis",
+               "profile_path": "/diG8wWjR7CZbYPuWISHziBFbmfe.jpg",
+               "id": 157785,
+               "order": 14
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe43729251416c75010beb",
+               "name": "Richard Attenborough",
+               "profile_path": "/Abo8fAcdruACs344ut6PNSKH7N4.jpg",
+               "id": 4786,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43729251416c75010bf1",
+               "name": "William Nicholson",
+               "profile_path": "/kfAuyOIK4vBpwCRg7kVrV6cOX3f.jpg",
+               "id": 933,
+               "department": "Writing",
+               "job": "Theatre Play"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43729251416c75010bf7",
+               "name": "William Nicholson",
+               "profile_path": "/kfAuyOIK4vBpwCRg7kVrV6cOX3f.jpg",
+               "id": 933,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43729251416c75010bfd",
+               "name": "Richard Attenborough",
+               "profile_path": "/Abo8fAcdruACs344ut6PNSKH7N4.jpg",
+               "id": 4786,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43729251416c75010c03",
+               "name": "Terence A. Clegg",
+               "profile_path": null,
+               "id": 63913,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43729251416c75010c09",
+               "name": "Brian Eastman",
+               "profile_path": null,
+               "id": 65329,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43729251416c75010c0f",
+               "name": "George Fenton",
+               "profile_path": "/23V03rGdkvNgeiBwLodJzNKdhJC.jpg",
+               "id": 1528,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43729251416c75010c15",
+               "name": "Roger Pratt",
+               "profile_path": "/5a4fQyqEo5Mqq1QROrBxTy7urv1.jpg",
+               "id": 293,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe43729251416c75010c1b",
+               "name": "Lesley Walker",
+               "profile_path": null,
+               "id": 11072,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5949b2b99251414593000c77",
+               "name": "Keith Hamshere",
+               "profile_path": null,
+               "id": 1425502,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5949b30192514145a8000d9b",
+               "name": "Bruce Bigg",
+               "profile_path": null,
+               "id": 1428473,
+               "department": "Art",
+               "job": "Property Master"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5949b31992514145bf000dcb",
+               "name": "Stuart Craig",
+               "profile_path": "/iI9F5WDkTrkxMHlAdq9XVXkfP3i.jpg",
+               "id": 5491,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5949b346925141456a000d0d",
+               "name": "Michael Lamont",
+               "profile_path": null,
+               "id": 8380,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5949b352c3a368617e000c31",
+               "name": "Penny Rose",
+               "profile_path": null,
+               "id": 4034,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5949b35b92514145af000e10",
+               "name": "Stephenie McMillan",
+               "profile_path": null,
+               "id": 1542808,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5949b38dc3a36861cb000f64",
+               "name": "Nikki Clapp",
+               "profile_path": null,
+               "id": 1462919,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5949b3d292514145bf000e62",
+               "name": "Kevin Lane",
+               "profile_path": null,
+               "id": 1691298,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5949b3f7c3a36861cb000fd0",
+               "name": "Dean Humphreys",
+               "profile_path": null,
+               "id": 1404840,
+               "department": "Sound",
+               "job": "Sound Mixer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5949b46992514145af000f1a",
+               "name": "Kate Carin",
+               "profile_path": null,
+               "id": 29694,
+               "department": "Costume & Make-Up",
+               "job": "Assistant Costume Designer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5949b50a925141459b000e89",
+               "name": "Chuck Finch",
+               "profile_path": null,
+               "id": 1373728,
+               "department": "Lighting",
+               "job": "Gaffer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5949b55092514145bf000f78",
+               "name": "Gerry Humphreys",
+               "profile_path": null,
+               "id": 24680,
+               "department": "Sound",
+               "job": "Sound"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5949b56b925141456a000e88",
+               "name": "Simon Kaye",
+               "profile_path": null,
+               "id": 24681,
+               "department": "Sound",
+               "job": "Sound"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5949b596925141459b000eed",
+               "name": "Jonathan Bates",
+               "profile_path": null,
+               "id": 8941,
+               "department": "Sound",
+               "job": "Sound"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5949b6c0925141459b000fa4",
+               "name": "Tommy Staples",
+               "profile_path": null,
+               "id": 1836628,
+               "department": "Sound",
+               "job": "Boom Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5949b6da92514145af0010a2",
+               "name": "Lucy Boulting",
+               "profile_path": null,
+               "id": 16336,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5949b726c3a368619b000f4d",
+               "name": "Leila Kirkpatrick",
+               "profile_path": null,
+               "id": 1235306,
+               "department": "Production",
+               "job": "Production Coordinator"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Romance",
+            "id": 10749
+         }
+      ],
+      "popularity": 5.668953,
+      "production_countries": [{
+         "iso_3166_1": "GB",
+         "name": "United Kingdom"
+      }],
+      "id": 10445,
+      "vote_count": 73,
+      "budget": 22000000,
+      "overview": "C.S. Lewis, a world-renowned writer and professor, leads a passionless life until he meets spirited poet Joy Gresham",
+      "similar": [
+         866,
+         4347,
+         209247,
+         4170,
+         11675,
+         8272,
+         41446,
+         2977,
+         5951,
+         8922,
+         10349,
+         1421,
+         27361,
+         1944,
+         11399,
+         2891,
+         380121,
+         101271,
+         80534,
+         52841
+      ],
+      "original_title": "Shadowlands",
+      "runtime": 131,
+      "poster_path": "/bWFQadzdVWsHZOlGcJzILvdGZbQ.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Savoy Pictures",
+            "id": 11308,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Shadowlands Productions",
+            "id": 5553,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1993-12-25",
+      "vote_average": 6.8,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "UK",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Richard Attenborough"],
+      "runtime": 131,
+      "synopsis": "C. S. \"Jack\" Lewis (Sir Anthony Hopkins) is a serious professor of literature at Cambridge University. He also write some famous books for children and young teenagers entitled The Chronicles of Narnia. He is also a renown conference speaker and supports his Christian views strongly. He still shares a house with his brother, also a bachelor. One day, he receives a letter from a person who seems to know and understand him, the American poet Joy Gresham (Debra Winger). She is travelling around the UK in search of an editor for her poems and her son Doug (Joseph Mazzello) would very much meet him. The meeting happens in an old-fashioned pub. Jack has gone there accompanied by his brother Warnie, (Edward Hardwicke) who is also a Cambridge university professor. First, they greet an English-looking lady (Carol Passmore) and Joy looks incredibly modern and different to all the rest of the parisioners, old, male... when she enters the place and shouts aloud if any of them is C. S. Lewis. They invite her to a visit to their home. There, Doug shows to be vivacious and is especially interested in the penthouse, where there is an old wardrobe, the same which opens the way to the magic land of Narnia into Lewis's first novel. Warnie shows it, they unlatch it, and to Doug's disappointment, there are only common coats and jackets. Doug says he had always known it was going to be a normal wardrobe. Joy and Doug come back to the USA. Jack goes on living as usual: a predictable boring life in which he only talks to other professors, -whom he has philosophical discussions with- and keeps on giving his lectures. In one of these Joy re-appears. She has just come back to the UK after her divorce with her always-unfaithful husband and wants to settle down in London. They meet again, and Jack introduces her to his fellow professors, so everybody thinks they are having an affair. Joy doesn't let cynic Desmond Arding (Julian Fellowes) -and Arnold Dopliss (Roddy Maude-Roxby)- humilliate her, and replies back, which the professor must accept, as he was left speechless. Jack starts also noticing the motions of student Peter Whistler (James Frain). He is kind of rebellious in his own way although he is also a bright student. One day, he falls sleep during one of Lewis's lessons. Also, Jack sees him stealing a book from a book shop and visits him in his home to offer him some money. Peter rejects it, as it is not a matter of having the means to buy it or not. Peter will leave his studies soon afterwards, and also it isn't lack of money, it is that he considers it useless to finish his studies and move onto teaching at university. Jack will find Peter some years afterwards. Peter has become a school teacher, the same as his late father, and seems contented with his chosen path of life. This makes Jack even more thoughtful about his life, and he has the temptation of wondering about the futility of it all. Joy and Doug spend Christmas Day at the Lewis'. Joy wouldn't let Doug phone his father, because she knows he's such a careless father. Some little time after, Joy is finding it hard to be a published author. She asks Jack to marry her so that she can stay in the UK. Jack agrees, and Warnie watches all these motions surprised, although he doesn't oppose it openly. Jack and Joy get married by a judge in a civil wedding, as they don't intend to live together as husband and wife. Joy can now settle down in London with Doug, although she and Jack become the best of friends. One day, Jack phones Joy. She stops doing whatever she's doing and steps into the corridor in order to answer the phone. Suddenly, she breaks her leg. This is not an accident, because she didn't fall the stairs, of stumbled down, or anything. It just happens like that. It's so painful for her that she can't even crawl to pick the phone up. When at hospital, Jack and Warnie go to see her. It's cancer, and it's very advanced. It's attacked her bones, and that's why her leg bone broke like glass. She has surgery. While his mother is at hospital, Doug goes to live with the siblings. This makes Jack ponder about his life once again. He changes his Christian speech a little bit, talking about Joy's pain. He proposes to her, as he has realised he's in love. They have a religious wedding, the only one which Jack believes in. Joy and Doug move to the Lewis' for ever as soon as Joy is discharged. Doctors say that her cancer is very advanced, so that it'll probalby reappear. Meanwhile, Joy stays at her new home, and asks to travel around the UK in her honeymoon. First, she moves in a wheelchair, then she uses clutches. Jack and her have many happy moments. However, she will fall sick again. Doug watches how she gets worst and worst. She will finally die. His brother and his fellow professors can't sadly offer Jack any consolation. Doug becomes sadder and lonelier as well, and it's not clear if he really approves of her mother having married a different man to his natural father. Although he's never said clearly that his mother is going to die, he knows that it's going to happen. He and Jack have the opportunity of saying goodbye to Joy before she finally dies at her home, not in hospital. Doug keeps on living with Jack as his father. The last scene shows Jack walking down the same countryside path he had walked by when Joy was sick but still alive. Doug and a dog run down a green hill while flying a kite.",
+      "writers": [
+         "William Nicholson",
+         "William Nicholson"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0108101/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTI4NjgwMDMyMl5BMl5BanBnXkFtZTcwNTM4MDMzMQ@@._V1_SY317_CR5,0,214,317_AL_.jpg",
+      "actors": ["Stars: Anthony Hopkins, Debra Winger, Julian Fellowes | See full cast and crew »"],
+      "reviews": [
+         "This film, based on the love story of C.S. Lewis, noted author, scholar and religious apologist, and Joy Gresham, American poet, is so very haunting and beautiful. Those familiar with Lewis will know the tragic outcome of this love story for the ages and will appreciate the realistic adaptation to the screen. Sir Richard Attenborough could have been tempted to cast glamorous actors in the leads but instead he chose Anthony Hopkins and Debra Winger whose characterizations more closely resembled the true life couple. Hopkins, who should have been nominated for the Academy Award for this role, plays Lewis to a T.....rumpled, vague and totally naive in the ways of the world and certainly where love is concerned. Winger, looking frumpy, is appropriately brash and out of place in the world of Oxford academia. She approaches Hopkins' character with a refreshing honesty that is sometimes hurtful but always straight to the heart of the matter. In the end, it helps him to cope. She captures his soul and therein begins the short but wonderful love story that forever changes their lives. The intensity of their relationship and the inevitable ending will make you weep and a box of Kleenex is recommended. Heavy breathing and graphic loves scenes are not what this is about.....it's about love that transcends the physical and it will steal your heart away. You will weep and rejoice at this film....see it!",
+         "I probably watch this film every two years, yet like fine wine, it grows even better after time. This picture is a beautiful, thought provoking, and highly effective meditation on how love, death, god, joy, and pain all coexist in the strange universe that is life. With subject matter as complex as this, the viewer can see where one could easily become lost in C.S. Lewis's story, but \"Shadowlands\" never falters. The film remains quiet, simple, and highly effective through Attenborough's understated direction, and its cast's uniformly excellent performances. However, what sits at the very core of \"Shadowlands\" beauty is its ultimate truth. There are moments in this film so full of genuine, unflynching emotion that its power practically hits the audience member in the gut. Yes, the film's magnificently depicted scenes of death and grieving never fail to jerk tears from my eyes, but Lewis's closing lines regarding the choices he made as a boy and a man make me sob. \"Shadowlands\" is undoubtedly representative of filmaking at its very best. I recommend this film without reservation to anyone!",
+         "Many people seeing this film who are familiar with CS Lewis' writings will be tempted to be disappointed. They should not be. In defense of this film and the method used to get the results, I have two things to say. The first, and by far the most important, is that spiritual films are very difficult to make -- especially if one is speaking about something above one's head. That's why the life of Jesus is such a difficult subject and has met with so little success, at least from an artistic point of view. Even Mel Gibson's Passion suffers from this to some extent. I would say his representation of the Passion reflect more of our times and what we consider to be important than on the ministry of Jesus. I may be wrong; I am not a believer so my opinion may not matter. But what is true is that no matter what your belief, spiritual man (Jesus, Mohammed, Buddha and others) are very hard to make biographies of. In my opinion what they represented survived not because we have understanding, but because our instincts tell us they are what we should be. It is not a mind thing at all. AND FILMS REQUIRE OUR MINDS, at least to make them. It would take a soul equal to that of Christ to make a film about Christ. To a far lesser extent, that is true of CS Lewis. His was a very complex theology dressed in wonderful parables. He had a great understanding of the parables and used the same technique. It does little good to discuss his theology in a film that is about 2 hours long. In fact, the viewer is sort of expected to know something about his writings and theology. Which brings me to my second point. Perhaps it is because I am over 60 and not been brought up on Romances that I find this one so appealing. Here was a man that had lived his entire life one way, mostly in his mind, when he was confronted with feelings that demanded he reinterpret everything he believed. How many of us at his age could do what CS Lewis did? Here was a man that thought one way and was forced to live another. What the mind is a very poor substitute for what our emotions understand. CS Lewis was very quick, I think, to recognize this and embraced it completely once he found it out. Douglas Davidman Gresham (Joy Gresham's son), has said that the film is perhaps not completely factually correct, but the emotion representation is \"spot on\". For me, no truer words could be spoken. What does it matter what details are missing, or changed because we have only 2 hours to tell a story? What matters is that we see the humanity of the man and his wonderful ability to embrace openly his new found emotions are what matters. And to put this into his spiritual structure was even more remarkable. It's a good film. Enjoy it and pay attention. It requires an open heart and an open mind. Give it both.",
+         "C. S. Lewis is making a bit of a comeback with the \"Chronicles Of Narnia\" movie of late, but here's a film portrait of him made in 1993 starring the great British actor Anthony Hopkins. To Christians, Lewis has always been a familiar name: one of the greatest and most well-known Christian apologists theologians (\"Merre Christianity,\" \"The Screwtape Letters,\"etc.) and fiction (the Narnia series) writers of all time. But this film - no surprise - doesn't really deal with that: it's mainly a love story, the love he had toward his American wife, played by Debra Winger. Being a Brit, the film takes place in England and features some wonderful landscapes of that great country. Hopkins exudes warmth in the role of Lewis and Winger is okay, New York City accent and all, as the American. I would have chosen someone else for the role, but Winger gets by. Not to be forgotten is the fine job Edward Hardwicke did as \"Warnie,\" Lewis' brother. Joseph Mazzello, one of the top child actors of the early '90s, is the Lewis' young boy. When father and son cry together at the end, it is one of the most touching scenes I've ever viewed on film. It's a touching story, period, and if it doesn't get your eyes moistened at least once, check your pulse. The dialog in here is excellent, too. I particularly enjoyed the by-play of dry wit between the professors and Winger's various comments to her husband. Nice films like this are unusual and should be treasured, as Lewis and his works are by so many people, Christian or non-Christian.",
+         "Get a box of Kleenex, and be prepared to go through the whole box when you sit down to watch this movie. Shadowlands is one of the most moving films ever to be made - an affecting tale of love, loss, and the price of safety. Shadowlands is the story of C. S. Lewis (Anthony Hopkins), and his relationship with American Joy Gresham (Debra Winger). When the movie starts, we find Lewis, known as Jack to his associates, teaching at Oxford, writing, lecturing, and living as a bachelor on the family farm with his bachelor brother Warnie (Edward Hardwicke). It's a comfortable, if somewhat empty existence. Jack receives a letter from an American woman asking if she can meet him. They agree to have tea, and strike up a friendship, as Jack is impressed with the brash, yet very intelligent Joy. She tells him that her son loves his Narnia chronicles and asks if the boy can meet him. Jack agrees, and Joy brings her son, Douglas (Joseph Mazello) to Jack's home. Jack and Joy maintain a correspondence, and at Christmas, Joy writes that she is coming to England for the holidays, and would like to visit. Jack invites her to stay at his home. While there, Joy tells Jack that her marriage is ending. Several months later, Jack runs into Joy after a lecture he has given. She tells him that she has moved to England, and invites him to her house for dinner. While he's there, she asks him to marry her so she can stay in the country. He agrees, and they have a platonic marriage until Joy becomes gravely ill, forcing Jack to reevaluate his feelings for her and the state of their marriage. Visually, this is a beautiful film, set mostly in the lovely English countryside. The period is well depicted, and you feel that you have stepped back slightly in time. And the wardrobe in Jack's attic is a particularly good touch. The script is brilliant. Emotional issues are handled with great intelligence, and comic touches help to lighten what is sometimes a very dark story. Jack's emotional fragility is presented in such a way that the viewer discovers it with him at about the time he realizes that this aspect of his personality must change. Joy's brashness balances very well with her emotional intelligence, and she gets the best lines in the film, both comic (her response to the baiting of one of Jack's colleagues \"Are you trying to be offensive, or merely stupid?\"), and poignant (\"The pain then is part of the happiness now,\" as she tries to prepare Jack for her imminent death). Her scenes with Jack are lovely, and the growth in the course of their relationship is beautifully depicted. Warnie is also a nicely developed character, a loyal and caring brother who takes on the responsibility of caring for Joy's son with warmth and kindness. Nothing is wasted, as every scene helps to propel the story forward to its conclusion. The acting is excellent. Hopkins' portrayal of Jack is sensitive without being weak. Winger hits all the right notes in her portrayal of Joy, brash and bold, yet with a better understanding of emotion than the more sensitive Jack. Edward Hardwicke does a nice job with Warnie, giving us a performance that makes us wish we knew more about him. And Joseph Mazello gives a great performance as Douglas, a little boy who finds himself orphaned in a strange land with few people to turn to. The scene where Douglas and Jack finally comfort each other over their common loss is among the most touching in the movie. A movie that stays with you long after it ends, and makes you long to sit through it again and again. Just make sure you have those Kleenex handy...",
+         "Anthony Hopkins and Debra Winger are perfectly cast in this beautiful film that contains what maybe the best and most haunting scenes in the history of motion pictures. I didn't realize that there was almost no music until the third time I watched it. Hopkins delivers a career-best performance and Joseph Mazzello (as Winger's son) is terribly underbilled (his performance is superb), and I have no idea why Shadowlands didn't even land a Best Picture Academy Award nomination, it's certainly worth the price of the rental. + (GOOD THINGS) 1.) Death scene 2.) Chemistry between Hopkins and Winger 3.) Richard Attenborough's direction 4.) Hopkin's performance 5.) William Nicholson's script 6.) Winger's performance 7.) Joseph Mazzello's performance - (BAD THINGS) 1.) Winger's accent Total: 9.5/10",
+         "A few years ago, I had the pleasure to correspond with Douglas Gresham. (FYI, Douglas is Joy's son -- thus C.S. Lewis step-son -- played by Joseph Mazzello in this film.) I had recently seen Shadowlands, and so I asked Douglas how \"true to life\" the picture was. He told me that some details (dates, places) had been changed slightly for obvious dramatic/story-telling reasons, but that the \"spirit\" and \"feeling\" of all the emotions portrayed in the movie were perfectly accurate. That's exactly what it all felt like, he said. I own the movie (and the soundtrack), and have seen it a dozen times... and I still get teary-eyed at the scene where Douglas and Jack cry in each other's arms... this movie rates a perfect 10 from me; I can't find any fault with it at all.",
+         "This film is Richard Attenborough's best directed film. Unlike Gandhi, it had no ambitions of being a grand scale historical epic. It actually played to Attenborough's strengths as a director, which are story and character development. Of course some fantastic performances from some great actors helped him out immensely. Debra Winger was nominated for an Oscar, and she was great, but we already saw her play the same disease in Terms of Endearment. Anthony Hopkins should have received an Oscar nomination for his incredible multi-layered turn as C. S. Lewis. His lifelong bachelor that falls in love and then questions his own theological beliefs when he grieves is the polar opposite of his most famous role, Hannibal Lechter, and yet he is just as convincing. With Hopkins in the lead, and Attenborough's attention to detail, this movie is one of the most overlooked films on every top 100 list, or in the case of this site, top 250 list. If you like movies that have stories, characters, and atmosphere, this is for you. 8 of 10.",
+         "The movie Shadowlands was definitely my cup of tea. But before I get into that I will give you a brief overview of this true story. This movie was directed by Richard Attenborough and it was based on the original stage play by William Nicholson. It featured Anthony Hopkins who plays C.S. Lewis, the famous author of the Narnia books. He is a teacher and writer who resides in England with his brother. He also spends his time giving lectures, and eventually gains quite a following. A divorced American woman named Joy Gresham, played by Debra Winger, writes him an admiring letter and soon after they begin a correspondence. After a while she comes to visit with her son. She eventually moves there, the two become romantically entangled and ultimately the unlikely couple falls in love. Neither of them was looking for it. He is used to his life as a bachelor and she is concerned with the well being of her son. After time progresses Lewis finally discovers he can't imagine his life without her in it. When all seems to be going well Joy contracts cancer. Lewis is there for her through all of her pain, and they must together face the fact that they soon must part. The story of their love was refreshing. It was not based on physical desire, but for their mind, sole, and heart. At the beginning it seemed as though Lewis did not have the ability to love another human being other than himself. Yet, when he finally does find the courage to love it is a more exciting adventure than any of his books. Gresham too is not prepared for love, but found it with Lewis beginning as early as their initial writings. And when all is going well, their love is tested. I truly believe this couple did share true and eternal love. What this movie lacked in action and adventure it possessed in depth. It was unlike the usual movie love story. The range of emotions felt by the characters can almost be felt while watching the movie. I recommend it to anyone who has loved or suffered a great loss.",
+         "Two different, yet complimentary people meet and discover they have something in common: the conviction that life is a gift. C. S. Lewis, an Englishman, an Oxford don who lives the interior life, is confronted by an American writer-poet who shows him how to become a part of the world in a way that makes the imagery of his works become manifest. Then, she dies. What does this do to his faith? The casting is perfect. \"Shadowlands\" contains the most powerful deathbed scene ever recorded on film."
+      ],
+      "genres": [
+         "Biography",
+         "Drama",
+         "Romance"
+      ],
+      "productionCompanies": [
+         "Price Entertainment",
+         "Spelling Films International",
+         "Shadowlands Productions"
+      ],
+      "summaries": [
+         "CS Lewis is the author of the Narnia books - The Lion, The Witch, and the Wardrobe. Known as Jack, he teaches at an Oxford College, during the 1930's. An American fan, Joy Gresham, arrives to meet him for tea in Oxford. It is the beginning of a love affair. Tragically Joy becomes terminally unwell and their lives become complicated.",
+         "In 1952 American poet Joy Gresham travels to England with her young son Douglas to meet with Oxford University professor C.S. Lewis, author of the Narnia books. They hit it off quite well and become good friends even though they are a contrast of opposites: Jack quiet and studious and Joy being talkative and never hesitating to speak her mind. After Joy gets a divorce from her husband and returns to England Lewis, known to his friends as Jack, even agrees to marry her to allow her to stay in England. Jack is a religious man and doesn't consider their civil ceremony to a true marriage. After Joy falls seriously ill however, he begins to realize just how much he does love her and in 1956, they are married before God. Joy's illness is serious however and while they get to spend a few years together, that time is all too short.",
+         "C.S. Lewis, a world-renowned Christian theologian, writer and professor, leads a passionless life until he meets a spirited poet from the U.S."
+      ],
+      "budget": 22000000
+   },
+   "movielensId": 534,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1993-12-25",
+      "dvdReleaseDate": "1999-04-13",
+      "directors": ["Richard Attenborough"],
+      "runtime": 131,
+      "movieId": 534,
+      "title": "Shadowlands",
+      "mpaa": "",
+      "actors": [
+         "Anthony Hopkins",
+         "Debra Winger",
+         "John Wood",
+         "Julian Fellowes",
+         "Roddy Maude-Roxby",
+         "Michael Denison",
+         "Tim McMullan",
+         "Edward Hardwicke",
+         "James Frain",
+         "Robert Flemyng",
+         "Roger Ashton-Griffiths",
+         "Joseph Mazzello",
+         "Peter Firth",
+         "Pauline Melville",
+         "Howard Lew Lewis"
+      ],
+      "imdbMovieId": "0108101",
+      "originalTitle": "Shadowlands",
+      "genres": [
+         "Drama",
+         "Romance"
+      ],
+      "youtubeTrailerIds": ["F34z_Oqkdvw"],
+      "plotSummary": "C.S. Lewis, a world-renowned writer and professor, leads a passionless life until he meets spirited poet Joy Gresham",
+      "tmdbMovieId": 10445,
+      "avgRating": 3.88894,
+      "releaseYear": "1993",
+      "numRatings": 5074,
+      "posterPath": "/bWFQadzdVWsHZOlGcJzILvdGZbQ.jpg"
+   }
+}

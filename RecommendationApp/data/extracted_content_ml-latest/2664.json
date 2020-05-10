@@ -1,0 +1,694 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "based on novel",
+            "id": 818
+         },
+         {
+            "name": "small town",
+            "id": 1415
+         },
+         {
+            "name": "alien",
+            "id": 9951
+         },
+         {
+            "name": "doctor",
+            "id": 13005
+         },
+         {
+            "name": "patient",
+            "id": 14781
+         },
+         {
+            "name": "alien invasion",
+            "id": 14909
+         },
+         {
+            "name": "psychiatrist",
+            "id": 15106
+         },
+         {
+            "name": "alien infection",
+            "id": 15250
+         },
+         {
+            "name": "angry mob",
+            "id": 160274
+         },
+         {
+            "name": "doppelgänger",
+            "id": 161891
+         },
+         {
+            "name": "mystery writer",
+            "id": 190621
+         },
+         {
+            "name": "emotionless",
+            "id": 200054
+         },
+         {
+            "name": "paranoid",
+            "id": 201456
+         },
+         {
+            "name": "abandoned mine",
+            "id": 215861
+         },
+         {
+            "name": "personality change",
+            "id": 240429
+         }
+      ],
+      "imdb_id": "tt0049366",
+      "video": false,
+      "title": "Invasion of the Body Snatchers",
+      "recommendations": [
+         16307,
+         10785,
+         229,
+         11850,
+         828,
+         11167,
+         25508,
+         830,
+         1939,
+         10787,
+         31682,
+         3035,
+         11772,
+         138,
+         11773,
+         982,
+         678,
+         13666,
+         976,
+         31417
+      ],
+      "backdrop_path": "/eTxgy8eROB5Ly7ZXKLukQoF6tKl.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 19,
+               "character": "Dr. Miles J. Bennell",
+               "gender": 2,
+               "credit_id": "52fe44579251416c75031611",
+               "name": "Kevin McCarthy",
+               "profile_path": "/kNEsGIBVMsKXB8qN6W2pFt4Wh8S.jpg",
+               "id": 34597,
+               "order": 0
+            },
+            {
+               "cast_id": 1,
+               "character": "Becky Driscoll",
+               "gender": 1,
+               "credit_id": "52fe44579251416c750315bf",
+               "name": "Dana Wynter",
+               "profile_path": "/qih3QKH1nJ29vXsO7CQOOHY4vGx.jpg",
+               "id": 69810,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Jack Belicec",
+               "gender": 2,
+               "credit_id": "52fe44579251416c750315c7",
+               "name": "King Donovan",
+               "profile_path": "/mREKj50gHPnaoBgJ3e0m4mFbLGF.jpg",
+               "id": 69811,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Theodora 'Teddy' Belicec",
+               "gender": 0,
+               "credit_id": "52fe44579251416c750315cb",
+               "name": "Carolyn Jones",
+               "profile_path": "/2MiUzB4xpwjFQhAq3aF5VNxsNA.jpg",
+               "id": 19109,
+               "order": 3
+            },
+            {
+               "cast_id": 2,
+               "character": "Dr. Dan 'Danny' Kauffman",
+               "gender": 2,
+               "credit_id": "52fe44579251416c750315c3",
+               "name": "Larry Gates",
+               "profile_path": "/gfEgzWPQX1PeLBITN4LRo4jQn2V.jpg",
+               "id": 3640,
+               "order": 4
+            },
+            {
+               "cast_id": 13,
+               "character": "Nurse Sally Withers",
+               "gender": 1,
+               "credit_id": "52fe44579251416c750315f9",
+               "name": "Jean Willes",
+               "profile_path": "/tf8Mdg3ULobhiTK1pqikikyS9WB.jpg",
+               "id": 101479,
+               "order": 5
+            },
+            {
+               "cast_id": 14,
+               "character": "Police Chief Nick Grivett",
+               "gender": 2,
+               "credit_id": "52fe44579251416c750315fd",
+               "name": "Ralph Dumke",
+               "profile_path": null,
+               "id": 83801,
+               "order": 6
+            },
+            {
+               "cast_id": 15,
+               "character": "Wilma Lentz",
+               "gender": 1,
+               "credit_id": "52fe44579251416c75031601",
+               "name": "Virginia Christine",
+               "profile_path": "/qVpNBAgaT0fc7WN7UrHp3pd4BJa.jpg",
+               "id": 101481,
+               "order": 7
+            },
+            {
+               "cast_id": 17,
+               "character": "Stanley Driscoll",
+               "gender": 2,
+               "credit_id": "52fe44579251416c75031609",
+               "name": "Kenneth Patterson",
+               "profile_path": null,
+               "id": 101483,
+               "order": 8
+            },
+            {
+               "cast_id": 18,
+               "character": "Officer Sam Janzek",
+               "gender": 2,
+               "credit_id": "52fe44579251416c7503160d",
+               "name": "Guy Way",
+               "profile_path": null,
+               "id": 101484,
+               "order": 9
+            },
+            {
+               "cast_id": 22,
+               "character": "Jimmy Grimaldi",
+               "gender": 2,
+               "credit_id": "52fe44579251416c7503161f",
+               "name": "Bobby Clark",
+               "profile_path": null,
+               "id": 170573,
+               "order": 10
+            },
+            {
+               "cast_id": 21,
+               "character": "Anne Grimaldi",
+               "gender": 0,
+               "credit_id": "52fe44579251416c7503161b",
+               "name": "Eileen Stevens",
+               "profile_path": null,
+               "id": 1137031,
+               "order": 11
+            },
+            {
+               "cast_id": 29,
+               "character": "Grandma Grimaldi",
+               "gender": 0,
+               "credit_id": "576fac019251411903004627",
+               "name": "Beatrice Maude",
+               "profile_path": null,
+               "id": 1489284,
+               "order": 12
+            },
+            {
+               "cast_id": 23,
+               "character": "Emergency Room Psychiatrist",
+               "gender": 2,
+               "credit_id": "52fe44579251416c75031623",
+               "name": "Whit Bissell",
+               "profile_path": "/aOe39nPJuZpGYGR3WuRo5PiYGwK.jpg",
+               "id": 13786,
+               "order": 13
+            },
+            {
+               "cast_id": 24,
+               "character": "Emergency Room Doctor",
+               "gender": 2,
+               "credit_id": "52fe44579251416c75031627",
+               "name": "Richard Deacon",
+               "profile_path": "/ikKk1FGXFDl9GJoyI3I2EBfexEY.jpg",
+               "id": 80206,
+               "order": 14
+            },
+            {
+               "cast_id": 47,
+               "character": "Ambulance Attendant",
+               "gender": 2,
+               "credit_id": "58be046c925141126a03726c",
+               "name": "Robert Osterloh",
+               "profile_path": "/l2elfMcrqdgutCVaBLJbwdmng8L.jpg",
+               "id": 89661,
+               "order": 15
+            },
+            {
+               "cast_id": 30,
+               "character": "Eleda Lentz",
+               "gender": 0,
+               "credit_id": "576fac399251417936005316",
+               "name": "Jean Andren",
+               "profile_path": null,
+               "id": 1045645,
+               "order": 16
+            },
+            {
+               "cast_id": 16,
+               "character": "Uncle Ira Lentz",
+               "gender": 0,
+               "credit_id": "52fe44579251416c75031605",
+               "name": "Tom Fadden",
+               "profile_path": "/5fZfgiaVkVfYrt4dG44CngwFGM.jpg",
+               "id": 83623,
+               "order": 17
+            },
+            {
+               "cast_id": 31,
+               "character": "Dr. Ed Pursey",
+               "gender": 2,
+               "credit_id": "576face0c3a3680bda004c7e",
+               "name": "Everett Glass",
+               "profile_path": null,
+               "id": 179352,
+               "order": 18
+            },
+            {
+               "cast_id": 25,
+               "character": "Mack Lomax",
+               "gender": 2,
+               "credit_id": "52fe44579251416c7503162b",
+               "name": "Dabbs Greer",
+               "profile_path": "/fYqPZcEkaStHTqDlIqxITnr5iJM.jpg",
+               "id": 6805,
+               "order": 19
+            },
+            {
+               "cast_id": 34,
+               "character": "Martha Lomax",
+               "gender": 0,
+               "credit_id": "576fad7cc3a3680bdd004b54",
+               "name": "Marie Selland",
+               "profile_path": null,
+               "id": 1391051,
+               "order": 20
+            },
+            {
+               "cast_id": 33,
+               "character": "Restaurant Owner",
+               "gender": 2,
+               "credit_id": "576fad51925141285500700f",
+               "name": "Guy Rennie",
+               "profile_path": null,
+               "id": 184619,
+               "order": 21
+            },
+            {
+               "cast_id": 26,
+               "character": "Charlie the Meter Reader",
+               "gender": 0,
+               "credit_id": "52fe44589251416c7503162f",
+               "name": "Sam Peckinpah",
+               "profile_path": "/lZyAbQbUUumxC2L4YSG9T7q8Let.jpg",
+               "id": 7767,
+               "order": 22
+            },
+            {
+               "cast_id": 35,
+               "character": "Man carrying pods in Mile's office (extra)",
+               "gender": 0,
+               "credit_id": "576fadcc9251412855007055",
+               "name": "Harry J. Vejar",
+               "profile_path": null,
+               "id": 1469574,
+               "order": 23
+            },
+            {
+               "cast_id": 46,
+               "character": "Railroad Baggage Handler (extra)",
+               "gender": 2,
+               "credit_id": "58be040f925141609b053290",
+               "name": "J. Pat O'Malley",
+               "profile_path": "/if8jAnsuARxFUy3k7PhaFqzHd9N.jpg",
+               "id": 22602,
+               "order": 24
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe44579251416c750315d1",
+               "name": "Don Siegel",
+               "profile_path": "/vylrJ53CsYbxECA8c2CDEqkYKge.jpg",
+               "id": 14773,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44579251416c750315d7",
+               "name": "Daniel Mainwaring",
+               "profile_path": null,
+               "id": 10147,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44579251416c750315dd",
+               "name": "Richard Collins",
+               "profile_path": null,
+               "id": 69812,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44579251416c750315e9",
+               "name": "Carmen Dragon",
+               "profile_path": "/5SsauwZzohUVQc1gyulFbU5I9b9.jpg",
+               "id": 69813,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44579251416c750315ef",
+               "name": "Ellsworth Fredericks",
+               "profile_path": null,
+               "id": 69814,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44579251416c750315f5",
+               "name": "Robert S. Eisen",
+               "profile_path": null,
+               "id": 69815,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44579251416c75031617",
+               "name": "Jack Finney",
+               "profile_path": "/f1wr5V2soZAientHmhrocWTOW2P.jpg",
+               "id": 29716,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54e65b1ec3a3685af7000170",
+               "name": "Ted Haworth",
+               "profile_path": null,
+               "id": 12495,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54e65b2dc3a3685af9000162",
+               "name": "Joseph Kish",
+               "profile_path": null,
+               "id": 29280,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "576faee99251411961004769",
+               "name": "Allen K. Wood",
+               "profile_path": null,
+               "id": 4106,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "576faf2092514176d300000c",
+               "name": "Richard Maybery",
+               "profile_path": null,
+               "id": 1543598,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "576fafa3925141190f004a6a",
+               "name": "William Beaudine Jr.",
+               "profile_path": null,
+               "id": 1250687,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "576fafda925141767b000090",
+               "name": "Ralph Butler",
+               "profile_path": null,
+               "id": 1641566,
+               "department": "Sound",
+               "job": "Sound"
+            },
+            {
+               "gender": 0,
+               "credit_id": "576fb01892514176e6000088",
+               "name": "Del Harris",
+               "profile_path": null,
+               "id": 1551974,
+               "department": "Sound",
+               "job": "Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "576fb03192514176e600008e",
+               "name": "Jerry Irvin",
+               "profile_path": null,
+               "id": 1641568,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "576fb062c3a3682dc50000bf",
+               "name": "Milt Rice",
+               "profile_path": null,
+               "id": 4107,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "576fb196c3a36809d6004d45",
+               "name": "Irva Mae Ross",
+               "profile_path": null,
+               "id": 1639186,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "576fb200c3a3680a79004cf7",
+               "name": "Emile LaVigne",
+               "profile_path": null,
+               "id": 14056,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "576fb211925141767b0001de",
+               "name": "Mary Westmoreland",
+               "profile_path": null,
+               "id": 1539032,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58be06c792514132a200756d",
+               "name": "Walter Wanger",
+               "profile_path": "/3FDfLCfCygfTw33lUGTj1KeiGMz.jpg",
+               "id": 7646,
+               "department": "Production",
+               "job": "Producer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Horror",
+            "id": 27
+         },
+         {
+            "name": "Science Fiction",
+            "id": 878
+         }
+      ],
+      "popularity": 8.723191,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 11549,
+      "vote_count": 327,
+      "budget": 417000,
+      "overview": "A small-town doctor learns that the population of his community is being replaced by emotionless alien duplicates.",
+      "similar": [
+         602,
+         49849,
+         299687,
+         228161,
+         7453,
+         167,
+         4858,
+         9982,
+         10200,
+         9016,
+         2675,
+         49529,
+         348,
+         644,
+         126889,
+         137113,
+         47933,
+         286217,
+         336843,
+         346364
+      ],
+      "original_title": "Invasion of the Body Snatchers",
+      "runtime": 80,
+      "poster_path": "/4oj0G2Zr6tQKBDOzKaLuefdeBsG.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Allied Artists Pictures",
+            "id": 4928,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Walter Wanger Productions",
+            "id": 10096,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1956-02-05",
+      "vote_average": 7.4,
+      "belongs_to_collection": null,
+      "tagline": "... there was nothing to hold onto - except each other.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Black and White",
+      "budgetCurrency": "$",
+      "directors": ["Don Siegel"],
+      "runtime": 80,
+      "synopsis": "An apparently delusional and paranoid Dr. Miles Bennell (Kevin McCarthy) has been arrested on a California highway and taken to a local hospital's psychiatric ward. There he tells a psychiatrist, Dr. Hill (Whit Bissell), and the attending physician, Dr. Bassett (Richard Deacon) his fantastic story. Several days earlier, Miles had been called home to Santa Mira from a medical convention. His nurse, Sally Withers (Jean Willes) told him that several patients had come in frantically insisting that their relatives and friends were not who they seemed to be. On the way to the office, Miles and Sally nearly ran over young Jimmy Grimaldi (Bobby Clark) who was fleeing from his mother (Eileen Stevens). Mrs. Grimaldi says Jimmy simply didn't want to go to school. Miles was sad to see that the Grimaldis had shut down their vegetable stand because it was too much work. Later, at his office, Miles learned that many of the patients begging for his return claimed they no longer needed his services. A former girlfriend, Becky Driscoll (Dana Wynter) stopped by. She told him that her cousin, Wilma (Virginia Christine), insisted that her father, Ira (Tom Fadden), wasn't who he seemed to be. Miles agreed to visit Wilma later. Miles and Becky chatted, revealing that they both had recently divorced. After lunch, Jimmy Grimaldi was brought to Miles's office by his grandmother. He insisted that his mother was not really his mother. Suspicious, Miles gave the boy a sedative and told his grandmother to keep the boy at her house that night. Miles and Becky visited Ira and Wilma. Miles admitted his examination of Ira led him to conclude that it was indeed Ira. Wilma insisted that although nothing physically or mentally seemed different about him, his emotional connection to her was wrong. Wilma agreed to see a psychiatrist to discuss her concerns. That night, Becky and Miles went to dinner and encountered the town psychiatrist, Dan Kauffman (Larry Gates), in the parking lot. He mentioned that he too had seen many perplexing cases of people claiming that loved ones had somehow changed. Before they could eat, Miles and Becky were called to the house of Jack and Teddy Belicec (King Donovan and Carolyn Jones). They had found an inert, featureless humanoid creature in their poolroom. Teddy was disturbed by it, and the creature seemed to be taking on Jack's features. It even bled from a hand as Jack did when he cut it on a piece of glass. Miles took Becky home to her father's house. Her father (Kenneth Patterson) seemed normal but Miles was disturbed by something. Returning to the Driscoll house later that night, he broke into the basement and found another humanoid transforming itself into Becky. He snuck upstairs and rescued Becky. Miles and Jack called Dan Kauffman to see the bodies at the Belicecs' and Driscolls'. Both were missing. Dan suggested that they found a real dead human in Jack's poolroom and that its cause of death had been too small for Miles to notice in his examination. He also suggested that Miles saw Becky's double because he had been so unsettled by the mysterious body at the Belicecs'. Becky's father had called the police when he heard Dan, Jack and Miles in his basement. When Police Chief Grivett (Ralph Dumke) arrived, he informed them that a burning body matching the description of what the Belicecs found had been discovered burning outside of town. In town the next day, Miles encountered Wilma who told him she felt better about Ira and didn't need to see Dan. Based on Miles's demeanor she realized he knew something, and told Becky's father, who was hiding in her antique store. At his office, Miles saw Jimmy smiling next to his mother in the waiting room, apparently unconcerned about her anymore. That night, Miles, Becky and the Belicecs planned to barbeque. But Miles found enormous seed pods in his greenhouse. The pods opened up and inert bodies fell out. They quickly began to take the form of Miles and his guests. Miles tried to call the FBI in Los Angeles, Sacramento and Washington D.C. but was told by the operator that the lines are dead. Miles destroyed the creatures, then he and Becky and the Belicecs split up, hoping to get out of town. Miles and Becky stopped for gas. When Miles went to a phone booth to try to reach the FBI again, the gas station attendant placed two pods in the trunk of his car. Miles realized this and destroyed the pods later. He drove to Sally's house. Sneaking up to a window, he saw that she too had been transformed into a pod person and coolly planned to place a seed pod in the crib of her newborn. Miles was discovered by another police officer. Miles and Becky escaped, pursued by the police and other pod people. Miles and Becky hid out in Miles's office. Realizing that the pods were most effective at replacing people when they were asleep, they took amphetamines to stay awake. The next morning, they saw police officers detain people just arriving to town, and watched as transformed citizens accepted pods to take to their relatives in nearby cities. Jack, Dan and Chief Grivett arrived. Miles and Becky were horrified to learn they'd all been transformed. Jack and Dan explained that the pods had arrived from outer space and that the transformation was painless. Soon everyone would be reborn into a better way of life, evolved beyond human emotions like hate and love. Jack and Dan brought pods into Miles's waiting room and locked Miles and Becky in the office. Miles filled three syringes with a sedative, then created a diversion that brought Dan and Jack back into the office. Miles struggled with them but drugged them, with Becky taking care of Grivett. Hoping to pretend to have been transformed by appearing emotionless, Becky and Miles made their way out of the office and into the street. But Becky saw a truck nearly hit a dog and called out in fear. Alerted, the pod people chased Becky and Miles into the hills around Santa Mira. They hid in an abandoned mine. Miles left Becky to try to find help. When he returned, he found Becky asleep. He tried to carry her to safety but learned when he kissed her that she had been transformed too. With other pod people in pursuit, Miles ran to the highway. He pleaded with motorists to stop but they considered him crazy. He saw a truck full of pods headed to Los Angeles. Miles wandered the highway, telling people that \"They're already here! You're next!\" Drs. Hill and Basset consider Miles insane and plan his treatment. Then an ambulance brings in a truck driver who had been in an accident. His truck was full of unusual pods, and had been on the road from Santa Mira. Realizing Miles is telling the truth, Dr. Hill immediately calls the police and the FBI.",
+      "writers": [
+         "Daniel Mainwaring",
+         "Jack Finney"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0049366/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BNzA0MzI4NDI1N15BMl5BanBnXkFtZTcwNDQxMDc3Nw@@._V1_SY317_CR5,0,214,317_AL_.jpg",
+      "actors": ["Stars: Kevin McCarthy, Dana Wynter, Larry Gates | See full cast and crew »"],
+      "reviews": [
+         "Allied Artists stunning INVASION OF THE BODY SNATCHERS is arguably the finest Sci-Fi movie ever made. Produced in 1956 by Walter Wanger it was perfectly written for the screen by Daniel Mainwaring (who also wrote \"Out Of The Past\") which derived originally from the Colliers magazine story and then a novel by Jack Finney. Beautifully photographed in black & white and in the short lived widescreen process Superscope by Ellsworth Fredericks the picture is a triumph on all fronts with bracing cinematic nous and expertise from all departments thanks to the committed and adroit direction by Don Siegel. This movie came from early in the great director's career. He had started off at Warner Bros. doing special effects on such things as \"Casablanca\"(1942) and \"Edge of Darkness\" (1943) before he started directing. His first feature to direct was the Sidney Greenstreet classic \"The Verdict\" in 1946 and then garnered great praise in 1954 when he directed Walter Wanger's tough and gritty prison drama \"Riot In Cell Block 11\". Latterly Siegel is better known for his association with Clint Eastwood for whom he directed some of the actor's most memorable films. In 1976 he directed John Wayne in his final film \"The Shootist\" and Siegel's own final film was the best forgotten Bette Midler vehicle \"Jinxed\" in 1983. Don Siegel died in 1991 but of all his films he will probably be best remembered for Wanger's two classics \"Riot In Cell Block 11\" and INVASION OF THE BODY SNATCHERS. On his return home after attending a medical conference in the city a young small town doctor (Kevin McCarthy) finds some of his patients acting somewhat strangely. It is not too long before he discovers much to his horror that their very bodies have been taken over by an alien life form. Further investigation establishes the strange life form germinated in giant seed pods that were placed near their victims as they slept. Without any noticeable difference in their physical appearance the aliens perfectly replicated the human form with one exception the \"new\" beings have no human feelings or emotions. Soon everyone in the town is affected including the police and all of the doctor's friends. Now, together with his girlfriend (Dana Wynter), he must endeavour to escape from the town - get to the capital and warn the authorities. But in order to survive and make the journey they not only have to evade the now alien townspeople who are pursuing them en masse but ensure at all costs that they don't fall asleep. Although the cast is made up mostly of minor players the performances throughout are uniformly excellent. Kevin McCarthy - he of the chiseled-jaw - a fine character actor in anything he did is good here as the main protagonist imbuing his role with just about the right degree of fear and trepidation. The lovely Dana Wynter - she of the cute little upturned nose - is as attractive as ever in what must be her most memorable role. Also interesting are well measured portrayals from such minor actors as King Donovan, Carolyn Jones (in one of her early films), Virginia Christine, Larry Gates and Ralph Dumke as the police chief. And watch out for the unknown Sam Peckinpah in a tiny part as a meter reading gas-man and later towards the end - when an exhausted McCarthy finally reaches the busy freeway - Pechinpah leading the pursuers shouts \"Let him go......they'll never believe him\". There are also some lovely moments of pure film noir! Ellsworth Frederick's monochrome camera makes ingenious use of light and shadow, up and down narrow office corridors, McCarthy and Wynter hiding from the police in an office closet and particularly brilliant is the clip when the pair are silhouetted against the dimly lit wet streets and alleyways at night as they race hand in hand to escape their incredible nightmare. And holding the whole thing together is the splendid score - if perhaps a tad over emphatic - from composer conductor Carmen Dragon. INVASION OF THE BODY SNATCHERS is not only a superb Sci-Fi adventure but more significantly it is an imaginative, intense and suspenseful thriller of a motion picture. The brilliance with which it steadfastly maintains to this day.",
+         "Dr. Miles J. Bennell (Kevin McCarthy) is called back to his small California home early from a conference because a number of his patients have been frantically asking to see him. But oddly, when he returns home, most forget about their unspecified needs. At the same time, it seems that a mass hysteria is building where residents believe that friends and loved ones are \"not themselves\", literally. Just what is going on? As of this writing, it has been more than twenty years since I have seen the 1978 remake of this film, so I can't compare the two at the moment. However, it would have to be flawless to top this, the original Invasion of the Body Snatchers. The sole factor that caused me to give the film less than a ten was the pacing during portions of the first half hour or so. While it's not bad, exactly, director Don Siegel does not build atmosphere and tension as effectively as he might have while the viewer is being filled in on the necessary exposition. Admittedly, this section is directed in a standard way for its era, but \"standard\" here is enough to subtract a point. However, once we reach Miles' friend Jack Belicec (King Donovan) discovering a body on his billiard table, the suspense and tension gradually increase, and the remainder of the film is a very solid ten. The literal \"weapon\" of the film's horror could have easily come across as cheesy, but it doesn't. Don Post and Milt Rice's special make-up effects and props are threateningly eerie. The transformation sequences involving the props are beautifully shot and edited--showing just enough to make them effective, but not so much that the mystery is gone. It was ingenious to create a story where a whole town gradually turns into a villain, and even natural, unavoidable biological functions threaten our heroes' destruction. In conjunction, it all creates an intense sense of claustrophobia and paranoia for the audience. McCarthy and Dana Wynter, as Miles' girlfriend Becky Driscoll, expertly convey a gradual transformation from common citizens to panic-stricken, desperate victims on the run. The film is also notable for slightly ahead-of-its time portrayals of relationships and divorce. Much has been said about the parallels between Invasion of the Body Snatchers and the \"communist paranoia\" in the United States in the late 1940s and early 1950s, especially as it was directed against Hollywood by the House of Un-American Activities Committee. (And how ironic that the star of Invasion of the Body Snatchers is named McCarthy?) However, there is another very interesting subtext present that isn't so often mentioned. The film can also be looked at as a philosophical exploration of personal identity. Just what does it take for people to be themselves? Is it how they look, act, the things they say? Is it not the case that people are constantly transformed into something they weren't just hours ago, or even moments ago? Among the many ways that these kinds of ideas are worked into the script is that sleep is a metaphor for unconscious physical change over time. It would be easy to analyze each scene in the film in this manner, going into detail about the various implications each plot development has on the matter of personal identity. Despite the slight pacing/atmosphere flaw in the beginning, this is a gem of a film, not just for sci-fi and horror fans, and not just for its era. It's worth seeing by anyone with a serious interest in film, and can be enjoyed either on its suspenseful surface level, or more in-depth by those who want to look at the film as more metaphorical material for societal and philosophical concerns.",
+         "'Invasion Of The Body Snatcher's is my favourite 1950s science fiction movie alongside 'Forbidden Planet'. Both are very different movies. 'Forbidden Planet' is arguably the first SF blockbuster, an intergalactic adventure, in colour, with a large budget and impressive special effects. 'Invasion Of The Body Snatcher's is a smaller movie, a low budget black and white paranoid thriller that is a classic of its type. Many subsequent movies have been influenced by this one, and there have been at least two remakes (Philip Kaufman, Abel Ferrara), but it still takes some beating! Director Don Siegel is best known for tough guy crime dramas like 'The Killers' and 'Dirty Harry', but shows his versatility with this extremely effective and disturbing horror story. The legendary Sam Peckinpah had an uncredited hand in the script, and (keep an eye open for) a small cameo as a meter reader. Kevin McCarthy is terrific as the small town doctor turned hero. His performance is excellent, and made him a legend to SF and horror fans everywhere (he reprises it briefly in Kaufman's excellent 1970s remake by the way). The lovely Dana Wynter leads a strong supporting cast, and buffs will get a particular kick out of seeing Carolyn Jones (a.k.a. Morticia Addams) and Whit Bissell. ('I Was A Teenage Werewolf', 'Creature From The Black Lagoon' and too many others to mention!) This movie has aged very well, much better than say, 'The Thing From Another World', and still stands as THE 1950s paranoid SF/horror movie. An absolute classic that I guarantee still packs a punch! Highly recommended!",
+         "A chilling motion picture, well directed by Don Sigel, with a script co-written by Daniel Mainwaring and (uncredited) Sam Peckinpah, based on the novel \"The Body Snatchers\" (aka \"Sleep No More\") by Jack Finney. The excellent musical score is by Carmen Dragon. Kevin McCarthy and Dana Wynter head the cast of this four-star classic in which the inhabitants of a small California town are being replaced by alien look-alikes. The aliens come to Earth in the form of \"seed pods\" that burst open and spew out a foam which grows into human duplicates, complete with all the memories of the original. The best scene in the film takes place in a greenhouse where several alien pods burst open and disgorge the half-formed copies of the horrified humans. A prologue, a new ending, and a voice over-narration were added after the film's initial release, to help the audience follow the strange plot. In the added scenes, the story opens with Kevin McCarthy being brought into a hospital, raving about alien invaders. Two doctors (Whit Bissell and Richard Deacon) listen to McCarthy's strange story, which the audience sees as a flashback. At the end of he movie the doctors are understandably skeptical about McCarthy's weird yarn, but an unexpected event lends credence to his story. Many film reviewers criticize these added scenes as unnecessary, an unwise attempt to conclude the story with a happier ending. But these scenes serve a valuable purpose, increasing the viewers sympathy for McCarthy and his efforts to convince someone that mankind is in danger. The alleged \"happier ending\" does not establish that mankind will win the battle against the aliens. It simply implies a Chapter Two in this epic struggle. Mankind will have a fighting chance in the war, but the outcome is definitely open to debate.",
+         "Invasion of the Body Snatchers is the quintessential sci-fi film of the 50s, praying on the particular fears and paranoias of the time as well as more basic, instinctual phobias within each of us. The story is simple enough about a benevolent, intellectual doctor returning from vacation only to find that some weird, unexplainable feelings have been generated in the small town of Santa Mira. Some people say that relatives are not who they seem to be, despite being exact duplicates physically and mentally. This leads to one discovery to another for the good doctor, his girl, and two friends, and what we have through each discovery is one more piece to the puzzle that an alien presence is at work. What makes this film so successful is the pace and frantic mood it creates. We are caught up in Dr. Bennel's work, his fears and anxieties, his discoveries, and his uncovering of the truth. We feel confined, betrayed, and even suspicious of everything he encounters. Credit for this certainly must go to director Don Siegel and his outstanding ability to create this almost claustrophobic atmosphere, as well as to Kevin McCarthy who does an outstanding job playing the doctor. There are scenes in this film that live on long after viewing it...and the last one in particular has forever been etched into my mind. For a good fright, see Invasion of the Body Snatchers...They're here! They're here!",
+         "This is one of the great movie allegories. Yes, it is an allegory on the McCarthy era. Yes, it is an allegory on conformist America. But it is also an allegory on the evils of communism and fascism. Yes, it is a plea for sanity and individualism, for creativity and artistic freedom. And again yes it is a great directorial achievement for Don Siegel. All that aside it is also an entertaining film that does what any great movie should do, it moves. The dialog is not stilted or full of clichés. It is original and insightful without becoming preachy. Was Kevin McCarthy chosen because his name was McCarthy and the film runs counter to McCarthism? I think he was chosen because he was one of the gifted actors of the 1950's whose talents were not fully realized by the film industry. His fellow actors and actresses in the movie shared the same fate. The movie is also a top notch thriller, as good as any Hitchcock. When you're talking about the films of the 1950's that help define the period only a few come to mind: \"The Wild One,\" \"Rebel Without A Cause,\" and \"Bad Day at Black Rock\" are often cited. But \"The Invasion of the Body Snatchers\" is the one to study. It epitomizes the American outlook and cold war hysteria of the era as no other film from the decade does.",
+         "What must be considered one of the most original of all the science fiction films emanating from the '50s is INVASION OF THE BODY SNATCHERS, a low-budget sci-fi film about a sleepy Southern California town infested with a bunch of pods that are replicating the town's humans in physical form hatched from alien pods and taking over mind and body. It doesn't waste any time in getting to the core of the horror element, with McCarthy as a doctor invited to a friend's house where he sees the first evidence of a sleeping pod form taking on the shape and identity of another. He and his sweetheart (the beautiful DANA WYNTER) are soon aware of the situation enveloping the small town residents and make an effort to alert the authorities, but find that no one can be trusted to be whom they claim to be--and are soon on the run themselves. It easily remains one of the most gripping of these films with an excellent score by Carmen Dragon. KEVIN McCARTHY, DANA WYNTER, VIRGINIA CHRISTINE, WHIT BISSELL, KING DONOVAN and CAROLYN JONES all deliver fine performances and director Don Siegel keeps the suspense taut until the final scene. Summing up: Alien invaders have always been a big part of sci-fi stories but never quite as creepily as depicted here. Terrific suspense.",
+         "When I first watched this movie I was a teenager. I knew nothing about the Mcarthey era. I didn't live through the early post cold war paranoia. There were no outside influences aside from my love of movies. I have seen the film over 2 dozen times and believe it to be the best of the 50's generation, and one of the top 3 or 4 science fiction films of all time. With or without the prologue and epilogue. All things are not what they seem. What if you woke up from a nightmare to find that you are still in it, and can't get out. The message is clear. A home, a car, and a career are all great to strive for in one's life. But love, compassion and emotion are the true gifts to keep living in the first place. Imagine a home without love or any emotion what so ever. None. Good or bad. One by one, Kevin Mcarthy and Dana Wynter are confronted by the loss of neighbors, associates, and friends. The horror of the loss of everything they new. Early on, when a boy thinks his mother isn't his mother, and a friend doubt's her uncle is who he says he is. Doctor Miles is confused and doesn't know what to believe. So he goes with common sense. His eyes see there is no problem. But The evidence piles slowly and precisely. Soon it is not only what to believe, but who to trust. Kevin Mcarthy is outstanding. Dana Wynter is absolutely gorgeous and the chemistry between the two seems real. The film will keep you glued from beginning 'til end. Simply one of the best!",
+         "This was the first part of a double bill with Phil Kaufman's remake as the follow-up. I'll say that Siegel is ten times the action director that Kaufman could ever dream of being, that the original Body Snatchers has a cool, thoughtful tone that makes the shock scenes even better. The remake, even though in color and with a bigger budget, is so nervous, so lacking in pace and mood, that your impulse is often to laugh instead of sinking deeper into your seat. Take just one scene: Kevin McCarthy and Dana Wynter are barricaded in his office, trying to stay awake. Morning comes, and the weirdness begins; people shuffle towards the square to pick up their packages, the leaders calling out the districts. Now in daylight the suspense is made more potent, the threat to humans seems greater. Kaufman does this scene at night, losing the mundane horror that Siegel evokes so well. The studio imposed the flashback structure, having McCarthy brought in to talk to a therapist at the beginning and end of the picture. That's the only weakness in the story.",
+         "A doctor comes to a hospital on a late night call to hear a man whom everybody else deems insane. The doctor persuades the man to be patient and tell his story. The man then tells the doctor about how a small California town has been invaded by some sort of alien seeds that grow into human clones... Coming straight from the McCarthy era and general Cold War paranoia this is one scary movie. There is not a gun fired, not a drop of gore shed but the final effect of the film will stay with you for a good while. More contemporary film viewers might recognize the concept from John Carpenter's \"The Thing\" which itself was an update of the 1951 film. However, the themes of paranoia and tension are just as nail-biting and intense here. There is a lack of visual punch that so many people are used to today, but just think of the historical context and the implications, basically use your mind! Then you'll see why the film scared studio executives so much that they forced Don Siegel to add an intro and outro to help soften the overall effect. It wasn't the best play in the book, but the film remains a great classic chiller. --- 9/10 Not Rated. It would most likely receive a PG from the MPAA, there are several tense moments, though no violence."
+      ],
+      "genres": [
+         "Horror",
+         "Sci-Fi"
+      ],
+      "productionCompanies": ["Walter Wanger Productions"],
+      "summaries": [
+         "Dr Miles Bennell returns his small town practice to find several of his patients suffering the paranoid delusion that their friends or relatives are impostors. He is initially skeptical, especially when the alleged dopplegängers are able to answer detailed questions about their victim's lives, but he is eventually persuaded that something odd has happened and determines to find out what is causing this phenomenon. This film can be seen as a paranoid 1950s warning against those Damn Commies or, conversely, as a metaphor for the tyranny of McCarthyism (or the totalitarian system of Your Choice) and has a pro- and epilogue that was forced upon Siegel by the studio to lighten the tone.",
+         "Held by the police as a raving lunatic, Dr. Miles Bennell recounts to a psychiatrist the events that have turned his life upside down. He returned to his small town the previous Thursday, having been called back from a medical conference by his nurse, who was being flooded with patients. He arrives to find that most have canceled their appointments, but the few cases he does have all have the same story: someone close to them is acting strangely as if they had been replaced. Consulting some of his colleagues, he finds that these types of reports have been coming in all week and they conclude it must be some type of mass hysteria. However, when his friends Jack and Teddy Belicec show him a partly formed body they have uncovered in their home, he begins to realize that there may be some truth to the wild stories he has been hearing.",
+         "A small-town doctor learns that the population of his community is being replaced by emotionless alien duplicates."
+      ],
+      "budget": 417000
+   },
+   "movielensId": 2664,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1956-02-05",
+      "dvdReleaseDate": "1998-06-26",
+      "directors": ["Don Siegel"],
+      "runtime": 80,
+      "movieId": 2664,
+      "title": "Invasion of the Body Snatchers",
+      "mpaa": "",
+      "actors": [
+         "Kevin McCarthy",
+         "Dana Wynter",
+         "King Donovan",
+         "Carolyn Jones",
+         "Larry Gates",
+         "Jean Willes",
+         "Ralph Dumke",
+         "Virginia Christine",
+         "Kenneth Patterson",
+         "Guy Way",
+         "Bobby Clark",
+         "Eileen Stevens",
+         "Beatrice Maude",
+         "Whit Bissell",
+         "Richard Deacon",
+         "Robert Osterloh",
+         "Jean Andren",
+         "Tom Fadden",
+         "Everett Glass",
+         "Dabbs Greer",
+         "Marie Selland",
+         "Guy Rennie",
+         "Sam Peckinpah",
+         "Harry J. Vejar",
+         "J. Pat O'Malley"
+      ],
+      "imdbMovieId": "0049366",
+      "originalTitle": "Invasion of the Body Snatchers",
+      "genres": [
+         "Horror",
+         "Science Fiction"
+      ],
+      "youtubeTrailerIds": [
+         "Ie1iJpS5qn4",
+         "0LD3Bz_L0Rk",
+         "9SqN8wHry2M"
+      ],
+      "plotSummary": "A small-town doctor learns that the population of his community is being replaced by emotionless alien duplicates.",
+      "tmdbMovieId": 11549,
+      "avgRating": 3.7533,
+      "releaseYear": "1956",
+      "numRatings": 5152,
+      "posterPath": "/4oj0G2Zr6tQKBDOzKaLuefdeBsG.jpg"
+   }
+}

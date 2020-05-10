@@ -1,0 +1,783 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "investigation",
+            "id": 5340
+         },
+         {
+            "name": "urban legend",
+            "id": 9955
+         },
+         {
+            "name": "urban",
+            "id": 10616
+         },
+         {
+            "name": "student",
+            "id": 12105
+         },
+         {
+            "name": "university",
+            "id": 13160
+         },
+         {
+            "name": "mirror",
+            "id": 46951
+         },
+         {
+            "name": "candyman",
+            "id": 161707
+         },
+         {
+            "name": "hook for a hand",
+            "id": 161712
+         },
+         {
+            "name": "housing project",
+            "id": 161722
+         },
+         {
+            "name": "urban decay",
+            "id": 161728
+         },
+         {
+            "name": "belief",
+            "id": 187343
+         }
+      ],
+      "imdb_id": "tt0103919",
+      "video": false,
+      "title": "Candyman",
+      "recommendations": [
+         9003,
+         11298,
+         9064,
+         1694,
+         10823,
+         8913,
+         11797,
+         11503,
+         9638,
+         13122,
+         9035,
+         16281,
+         4961,
+         10824,
+         2291,
+         794,
+         8973,
+         11547,
+         15516,
+         19185
+      ],
+      "backdrop_path": "/ytzqiDJ1mixWxBhFr1Lmp0VZjtT.jpg",
+      "revenue": 25792310,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Helen Lyle",
+               "gender": 1,
+               "credit_id": "52fe4504c3a36847f80b78c1",
+               "name": "Virginia Madsen",
+               "profile_path": "/opdvsRunQgmw5AuGGpyAnQCz0q8.jpg",
+               "id": 12519,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "The Candyman / Daniel Robitaille",
+               "gender": 2,
+               "credit_id": "52fe4504c3a36847f80b78c5",
+               "name": "Tony Todd",
+               "profile_path": "/zSg4mRssihYe0msd8KIE2rNKulh.jpg",
+               "id": 19384,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Trevor Lyle",
+               "gender": 2,
+               "credit_id": "52fe4504c3a36847f80b78c9",
+               "name": "Xander Berkeley",
+               "profile_path": "/vlZ9FDMk2Xd1WHixPKxnheZoXgR.jpg",
+               "id": 3982,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Bernadette 'Bernie' Walsh",
+               "gender": 1,
+               "credit_id": "52fe4504c3a36847f80b78cd",
+               "name": "Kasi Lemmons",
+               "profile_path": "/dO8h85dpcoVFkKwa8MMOacRro4F.jpg",
+               "id": 51864,
+               "order": 3
+            },
+            {
+               "cast_id": 16,
+               "character": "Anne-Marie McCoy",
+               "gender": 1,
+               "credit_id": "52fe4505c3a36847f80b7901",
+               "name": "Vanessa Williams",
+               "profile_path": "/gZv46vwlyWK6Nx13uXmndg1Qkhu.jpg",
+               "id": 543193,
+               "order": 4
+            },
+            {
+               "cast_id": 20,
+               "character": "Jake",
+               "gender": 2,
+               "credit_id": "52fe4505c3a36847f80b7917",
+               "name": "DeJuan Guy",
+               "profile_path": null,
+               "id": 154095,
+               "order": 5
+            },
+            {
+               "cast_id": 21,
+               "character": "Clara",
+               "gender": 1,
+               "credit_id": "52fe4505c3a36847f80b791b",
+               "name": "Marianna Elliott",
+               "profile_path": null,
+               "id": 980863,
+               "order": 6
+            },
+            {
+               "cast_id": 22,
+               "character": "Billy",
+               "gender": 2,
+               "credit_id": "52fe4505c3a36847f80b791f",
+               "name": "Ted Raimi",
+               "profile_path": "/qwul2LI7FzzfypJvo7zth2vvwuR.jpg",
+               "id": 11769,
+               "order": 7
+            },
+            {
+               "cast_id": 23,
+               "character": "Monica",
+               "gender": 1,
+               "credit_id": "52fe4505c3a36847f80b7923",
+               "name": "Ria Pavia",
+               "profile_path": null,
+               "id": 170662,
+               "order": 8
+            },
+            {
+               "cast_id": 27,
+               "character": "Harold",
+               "gender": 0,
+               "credit_id": "53abe3d9c3a3684bc20014d2",
+               "name": "Eric Edwards",
+               "profile_path": "/cQx8WFY1Uzsz22MtLGriftLZ5Cn.jpg",
+               "id": 115786,
+               "order": 9
+            },
+            {
+               "cast_id": 28,
+               "character": "Stacey",
+               "gender": 0,
+               "credit_id": "53abe4700e0a26761f0017dc",
+               "name": "Carolyn Lowery",
+               "profile_path": null,
+               "id": 101286,
+               "order": 10
+            },
+            {
+               "cast_id": 29,
+               "character": "Professor Philip Purcell",
+               "gender": 2,
+               "credit_id": "53abe4d70e0a267622001850",
+               "name": "Michael Culkin",
+               "profile_path": "/ROLw9EhtO44DPwdRrmX6RyFPZN.jpg",
+               "id": 8445,
+               "order": 11
+            },
+            {
+               "cast_id": 30,
+               "character": "Archie Walsh",
+               "gender": 2,
+               "credit_id": "53abe58dc3a3684bb9001538",
+               "name": "Bernard Rose",
+               "profile_path": "/pq8tgkUyoW36YoczEemKmCgwrYc.jpg",
+               "id": 57851,
+               "order": 12
+            },
+            {
+               "cast_id": 31,
+               "character": "Policewoman",
+               "gender": 1,
+               "credit_id": "53abe5c7c3a3684bc5001587",
+               "name": "Rusty Schwimmer",
+               "profile_path": "/5syOxoKZboIDq5r5cQCfOpDyaoQ.jpg",
+               "id": 34407,
+               "order": 13
+            },
+            {
+               "cast_id": 32,
+               "character": "T.V. Reporter",
+               "gender": 1,
+               "credit_id": "54a76816c3a3680c25000b20",
+               "name": "Mika Quintard",
+               "profile_path": null,
+               "id": 1408064,
+               "order": 14
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4504c3a36847f80b78d3",
+               "name": "Bernard Rose",
+               "profile_path": "/pq8tgkUyoW36YoczEemKmCgwrYc.jpg",
+               "id": 57851,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4504c3a36847f80b78d9",
+               "name": "Clive Barker",
+               "profile_path": "/1Hlv4fojc9ogiWfqREB0iP47yVI.jpg",
+               "id": 31211,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4505c3a36847f80b78df",
+               "name": "Steve Golin",
+               "profile_path": null,
+               "id": 322,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4505c3a36847f80b78e5",
+               "name": "Philip Glass",
+               "profile_path": "/5xhnji5hjwJHbWer6nwjFdM9GAB.jpg",
+               "id": 1551,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4505c3a36847f80b78eb",
+               "name": "Anthony B. Richmond",
+               "profile_path": null,
+               "id": 14139,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4505c3a36847f80b78f1",
+               "name": "Bernard Rose",
+               "profile_path": "/pq8tgkUyoW36YoczEemKmCgwrYc.jpg",
+               "id": 57851,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4505c3a36847f80b78f7",
+               "name": "Clive Barker",
+               "profile_path": "/1Hlv4fojc9ogiWfqREB0iP47yVI.jpg",
+               "id": 31211,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4505c3a36847f80b78fd",
+               "name": "Bernard Rose",
+               "profile_path": "/pq8tgkUyoW36YoczEemKmCgwrYc.jpg",
+               "id": 57851,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4505c3a36847f80b7907",
+               "name": "Jane Alderman",
+               "profile_path": "/vGDhNQkSmFotNLFREW4AiJUx1oS.jpg",
+               "id": 5630,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4505c3a36847f80b790d",
+               "name": "Jason La Padura",
+               "profile_path": null,
+               "id": 38700,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4505c3a36847f80b7913",
+               "name": "Leonard Pollack",
+               "profile_path": "/y6eEf8EALAtZeiOGuGyZ030FFBC.jpg",
+               "id": 937528,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "53abe28bc3a3684bb90014f2",
+               "name": "Jane Ann Stewart",
+               "profile_path": null,
+               "id": 35512,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "53abe2aac3a3684bc800143b",
+               "name": "Kathryn Peters",
+               "profile_path": null,
+               "id": 9774,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 2,
+               "credit_id": "53abe2e1c3a3684bc20014b5",
+               "name": "Will Blount",
+               "profile_path": null,
+               "id": 1334400,
+               "department": "Crew",
+               "job": "Property Master"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a7f448c3a3680c30001c3b",
+               "name": "Steve F.B. Smith",
+               "profile_path": null,
+               "id": 1395361,
+               "department": "Sound",
+               "job": "Dolby Consultant"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a7f2489251414d70001936",
+               "name": "Erma Kent",
+               "profile_path": null,
+               "id": 1408278,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a7f26ac3a3680c2b0019d9",
+               "name": "Michelle Bühler",
+               "profile_path": null,
+               "id": 143893,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a7f2a49251414d7000194d",
+               "name": "Douglas Morton",
+               "profile_path": null,
+               "id": 1408279,
+               "department": "Art",
+               "job": "Art Department Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a7f2c09251414d60001b15",
+               "name": "Maria C. Connors",
+               "profile_path": null,
+               "id": 1408280,
+               "department": "Art",
+               "job": "Assistant Art Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a7f2da9251414d6a001a1c",
+               "name": "Chris Anthony Miller",
+               "profile_path": null,
+               "id": 22120,
+               "department": "Art",
+               "job": "Assistant Art Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a7f2fec3a3680c2b0019e7",
+               "name": "Andy Werderitsch",
+               "profile_path": null,
+               "id": 1408282,
+               "department": "Art",
+               "job": "Assistant Art Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a7f327c3a3680c33001837",
+               "name": "Max Jones",
+               "profile_path": null,
+               "id": 1408283,
+               "department": "Art",
+               "job": "Assistant Art Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a7f37ec3a3680c2b0019f5",
+               "name": "Greg Steele",
+               "profile_path": null,
+               "id": 1404901,
+               "department": "Crew",
+               "job": "Sound Recordist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a7f3c99251414d6a001a36",
+               "name": "Nigel Holland",
+               "profile_path": null,
+               "id": 969465,
+               "department": "Sound",
+               "job": "Sound Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a7f3eb9251414d60001b45",
+               "name": "Peter S. Carlstedt",
+               "profile_path": null,
+               "id": 1309883,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54a7f4139251414d5b001b50",
+               "name": "Michael Barry",
+               "profile_path": null,
+               "id": 1337461,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54a7f42ac3a3680c2b001a0a",
+               "name": "Ken S. Polk",
+               "profile_path": null,
+               "id": 1408284,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a7f45d9251414d60001b51",
+               "name": "Ellen Heuer",
+               "profile_path": null,
+               "id": 9441,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a7f46f9251414d6a001a45",
+               "name": "Joan Rowe",
+               "profile_path": null,
+               "id": 91094,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54a7f482c3a3680c30001c41",
+               "name": "Sean Rowe",
+               "profile_path": null,
+               "id": 91095,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54a7f4a89251414d63001b65",
+               "name": "William Cruse",
+               "profile_path": null,
+               "id": 10629,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a7f4bec3a3680c33001859",
+               "name": "Joshua Culp",
+               "profile_path": null,
+               "id": 577618,
+               "department": "Crew",
+               "job": "Visual Effects Art Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54a7f5029251414d5d001b64",
+               "name": "Walter Scott",
+               "profile_path": "/l8uXZW6xypNY7e4wd7a0HqzP6iA.jpg",
+               "id": 16474,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a7f53b9251414d70001983",
+               "name": "Randy Nolen",
+               "profile_path": null,
+               "id": 1391594,
+               "department": "Camera",
+               "job": "Steadicam Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a7f54fc3a3680c29001c04",
+               "name": "Kirk R. Gardner",
+               "profile_path": null,
+               "id": 1408192,
+               "department": "Camera",
+               "job": "Steadicam Operator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54a7f57a9251414d63001b73",
+               "name": "Mark Fellman",
+               "profile_path": null,
+               "id": 1401806,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a7f5aa9251414d60001b69",
+               "name": "Russ Lyster",
+               "profile_path": null,
+               "id": 51387,
+               "department": "Lighting",
+               "job": "Gaffer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a7f5c29251414d670019b4",
+               "name": "Huston Beaumont",
+               "profile_path": null,
+               "id": 1408285,
+               "department": "Lighting",
+               "job": "Best Boy Electric"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a7f5ecc3a3680c3300186f",
+               "name": "Michelle Pazer",
+               "profile_path": null,
+               "id": 1401631,
+               "department": "Editing",
+               "job": "First Assistant Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a7f600c3a3680c1e001ae5",
+               "name": "Richard Deangelo",
+               "profile_path": null,
+               "id": 1408286,
+               "department": "Crew",
+               "job": "Transportation Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a7f63bc3a3680c21001d46",
+               "name": "Rachel Atkinson",
+               "profile_path": null,
+               "id": 1408287,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d4e5819251413fd60147d1",
+               "name": "Michael Ferris",
+               "profile_path": null,
+               "id": 1423865,
+               "department": "Camera",
+               "job": "Additional Camera"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Horror",
+            "id": 27
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         }
+      ],
+      "popularity": 12.087799,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 9529,
+      "vote_count": 377,
+      "budget": 6000000,
+      "overview": "The Candyman, a murderous soul with a hook for a hand, is accidentally summoned to reality by a skeptic grad student researching the monster's myth.",
+      "similar": [
+         77949,
+         21484,
+         22302,
+         9424,
+         75780,
+         395834,
+         1939,
+         437375,
+         193893,
+         52449,
+         9276,
+         27066,
+         1923,
+         25376,
+         10824,
+         167,
+         10092,
+         9769,
+         357096,
+         49950
+      ],
+      "original_title": "Candyman",
+      "runtime": 99,
+      "poster_path": "/w5YQqrwzreHfa7RmXCB7rpLLxbe.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": "/rzgMLzPgJ2ZBYnlVwNi8ZDfOMwo.png",
+            "name": "TriStar Pictures",
+            "id": 559,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Propaganda Films",
+            "id": 278,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/sOg7LGESPH5vCTOIdbMhLuypoLL.png",
+            "name": "PolyGram Filmed Entertainment",
+            "id": 1382,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1992-10-16",
+      "vote_average": 6.2,
+      "belongs_to_collection": {
+         "backdrop_path": "/hJjCx4njVdHJobhvr84e5J6MgTw.jpg",
+         "name": "Candyman Collection",
+         "id": 98580,
+         "poster_path": "/7yGuKyI0YOBZcOcfwP90WkAbwgD.jpg"
+      },
+      "tagline": "You don't have to believe... just beware.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Bernard Rose"],
+      "runtime": 99,
+      "synopsis": "Helen Lyle (Virginia Masden) is an affluent young woman who is working with her good friend Bernadette \"Bernie\" Walsh (Kasi Lemmons), on a master's thesis involving modern folklore. Her husband, Trevor Lyle (Xander Berkeley), is a university professor, of whom she suspects infidelity with one of his younger students, and we suspect her home life isn't quite satisfying, despite the fact that she seems to be very much in love with Trevor. Helen and Bernie have been interviewing numerous people about various 'urban legend' type stories. One young woman tells them a story about \"Candyman\", a mythical being who has a hook instead of a right hand. The legend goes that Candyman will appear behind you if you say his name five times while looking in a mirror. Clara (Marianna Elliott) dares rebel other-boyfriend Billy (Ted Raimi) to repeat Candyman's name five times in front of the mirror while she's babysitting the Johnson family's baby. Billy only repeats it four times but when she is left alone in the bathroom, getting ready to lose her virginity to Billy and not Michael, her \"too good\" boyfriend, Clara repeats the name a fifth time. Then, she turns off the light and right behind her, Candyman's appears and kills her with her hooked arm. As Helen reviews the recorded conversation in an empty classroom one night at the university, a cleaning woman overhears the story about Candyman and pays special attention to it. Henrietta Mosely (Barbara Alston) calls in another cleaning woman, Kitty Calver (Sarina C. Grant), who tells Helen about the murders that have taken place in Cabrini-Green, Chicago, the low income housing project where she lives. The people of Cabrini-Green have attributed the deaths to Candyman, as the victims have been butchered with a weapon determined to be a hook. The mention of the murders leads Helen to research it in archived newspapers, and she finds out the names of the victims. Even more intriguing to her is the fact that her own apartment building was designed exactly like Cabrini-Green; she learns that it was intended as another housing development, but eventually the idea was scrapped when the developers realized that the location was too desirable; Helen and Bernie theorize that the white developers relocated the housing project to a more forbidding area that would keep the ghetto separated from the rest of the city. Helen is aware that the units in her building are connected to one another through the medicine chests in the bathrooms; when removed, they reveal a small space that links the apartments together. Helen knows that Cabrini-Green's apartments must be the same, and that the stories of Candyman coming out of the medicine chest could indicate a human assailant who had also made this discovery. With Bernadette in tow, she visits Cabrini-Green and finds the apartment of one of the murder victims; on the other side of the medicine chest is a strange lair, with holes in the wall and elaborate graffiti-style artwork depicting a large man's head with a hole in the wall for a mouth. Helen is fascinated by it, as well as the fact that an altar appears to have been constructed there as well, with candy left behind as an offering. Helen and Bernie meet Anne-Marie McCoy (Vanessa Williams), the neighbor of the deceased victim. Anne-Marie is initially hostile to them, as she feels the presence of white people in the all-black housing development indicates nothing but trouble (Bernie herself is black, but Helen is white, and the tenants they meet on the way inside mistake them for police officers). But eventually Anne-Marie softens and invites them into her apartment. Helen is taken by Anne-Marie's baby boy, Anthony (Lanesha Martin & Latesha Martin) admitting she would like to have a child of her own one day. Anne-Marie says that she is determined to make a better life for her son, one that does not involve Cabrini-Green or the drug-dealing youths that loiter on its grounds. While at dinner one night with Bernie, Trevor, and a few of Trevor's colleagues, Helen makes the mistake of baiting Philip Purcell (Michael Culkin), a snobbish folklore expert, by mentioning her thesis project. Philip attempts to belittle Helen by telling her that he's already written an essay about Candyman. Philip shares with her Candyman's strange back story, revealing that he was the son of a slave who had come into a great deal of wealth due to an invention that became hugely successful. Candyman grew up well-schooled and comfortable, and was a prodigious artist who was in high demand among the wealthy to paint their portraits. Eventually Candyman had an affair with the daughters of one of his wealthy white clients, and when she became pregnant the man exacted a horrible revenge on Candyman. He sent hired goons to attack Candyman, cutting off his right hand, stripping him nude, and smearing him with the honeycomb of a hive of angry bees. He was killed by the numerous bee stings. Philip claims that it all took place on the site where Cabrini-Green now stands. Even more intrigued, Helen returns to the building on her own. When she finds Anne-Marie is not home, she meets a young boy named Jake (DeJuan Guy) who gives her more information. Another death in the project was attributed to Candyman, the brutal castration of a young boy (Kenneth A. Brown) who entered a filthy public men's room only to meet an attacker who cut off his genitals, resulting in his death. When Jake takes Helen to the site, she goes inside and starts taking photographs, but a group of young toughs enters after her. One man (Terrence Riggins) approaches her and announces that he is Candyman, and his is carrying a large hook, which he uses to beat Helen's face, knocking her unconscious. Later in a police lineup, she identifies her assailant, much to the satisfaction of Detective Frank Valento (Gilbert Lewis), who informs Helen that the young man who beat her was suspected of the previous murders. He had been using the legend of Candyman to frighten the residents of Cabrini-Green into silence, and Helen's testimony will help to put him away. Helen meets Jake there at the police station, and she thanks him for his help, explaining that her attacker was human and that Candyman is not real. Jake almost seems disappointed. Some time later, Helen and Bernie have a discussion where Helen reveals that she is unsettled by the fact that the two murders, both of which featured black victims, went practically unnoticed, while her own mere assault caused a lockdown of Cabrini-Green, presumably because she was a white victim. Bernie surprises her with slides from her camera, which Helen had assumed was a complete write-off after the attack in the men's room. On the way back to her car, Helen looks at the slides, when suddenly she is confronted by a strange figure, a tall black man wearing a long coat and speaking in an unearthly voice. She realizes this is Candyman, although she can barely comprehend how it is possible. Candyman urges Helen to become his victim, almost as if he were speaking to a lover. He tells Helen that because she has exposed the real killer at Cabrini-Green, she has caused a sudden rift in his world; the belief in him by hundreds of people is what allows him to go on living. Helen's incident has caused this belief to drop, and now he is in danger of ceasing to exist entirely. Candyman intends to kill Helen, which would then give rebirth to his legend and cause belief to surge once more. Helen swoons and loses consciousness. When she awakens, she is disoriented, and realizes that she is somehow in Anne-Marie's apartment. She is covered in blood, and Anne-Marie is screaming hysterically in another room. A meat cleaver is lying next to Helen, and she picks it up, terrified at what she may find going on in the other room. She finds Anne-Marie's dog, decapitated, its blood everywhere. Anne-Marie is screaming over the empty crib of her son, who is now missing. When she sees Helen approaching her with a cleaver, she immediately thinks Helen is responsible, and she rushes at her, attacking her. When it seems as if Anne-Marie may kill her, Helen strikes her with the cleaver, wounding her shoulder, just as police break though the door of the apartment and surround Helen. At the precinct, Helen is subjected to a strip search in a humiliating way by a rude policewoman (Rusty Schwimmer) who would not even get close to her, only bluntly asking her to take off all her clothes. Later, Detective Valento appears, this time speaking furiously to Helen. It is clear that everybody thinks she is responsible for the attack and kidnapping of Anne-Marie's child. She makes a phone call to Trevor, only to discover that Trevor is somehow not home, even though it is 3am. The next day he comes for Helen and takes her home, helping her though a throng of reporters and news cameras. Her lawyer (John Rensenhouse) tells Helen that the prosecutors seem to have released her because they think the child's body will turn up and they will then charge Helen with murder 1, which he thinks is unlikely to stick. Helen is somewhat comforted, but she still cannot comprehend what has happened to her. She questions Trevor about where he was at 3am, and he claims he was home, sleeping. The next day, Helen looks more at the slides she took at Cabrini-Green, and in one shot she is able to see Candyman standing behind her, even though he was not there when she took the shot. He then appears to her once again, emerging from her medicine chest, then seemingly everywhere at once. She cannot escape him. He talks to her again, saying she belongs to him and that she will be immortal if she surrenders to him. She is paralyzed with fear, but she hears Bernie knocking at the door to her apartment, carrying a spray of flowers, presumably to cheer Helen. Helen tries to scream and warn her, but Bernie enters and is killed by Candyman. This time Helen awakens under much more dire circumstances. Trevor enters the room and she watches bloodied Helen holding a knife asking him to help her. She gets handcuffed to a gurney and being given injections. She breaks free from her police guard and rushes into the other room to see Bernie's mutilated corpse. As Helen is taken away in a police car, she hears Candyman's voice, and she begs him not to hurt the baby. Helen is taken to an institution and strapped down and injected, but when she is alone, Candyman appears to her again, hovering in the air over her. He tells her that her life is over and that she belongs to him now. When she screams for help, medics come in and of course, they cannot see Candyman, only Helen. Helen is eventually taken to see Dr. Burke (Stanley DeSantis), who informs her that he is working for her defense. Helen is astonished to learn that she has been in the facility for an entire month, under heavy sedations. When they breach the subject of Candyman, Helen \"calls\" for him by looking into a mirror and saying his name five times. Candyman appears and kills Dr. Burke, then slashes Helen's bonds. He levitates through a window and disappears, smashing the glass. Helen uses the window to escape, edging her way to another room and knocking a nurse unconscious, stealing her uniform and ultimately escaping the hospital. Helen goes home to her apartment and is in for an even greater shock: Trevor has moved his young student in, and they are in the process of completely redecorating the apartment. They are terrified to see Helen, as she has been accused of savage crimes. She tells Trevor he was all she had left in the world, and then she leaves, much to their relief. With nowhere else to go, Helen goes to Cabrini-Green and seeks out Candyman's lair. She finds him asleep and tries to kill him with a hook, but he awakens and tells her to surrender to him. He promises Helen that the pain of her death will be \"exquisite\", and that she needn't fear the afterlife, as she will be immortal like he is. He tries to kiss Helen and bees swarm out of his mouth and his body, stinging Helen, and she swoons. Helen regains consciousness and finds that she is alone. Looking at the walls of the lair, she realizes, through paintings he has done on the walls, that she herself is the image of Candyman's lost love, the young woman that he lost his life over many years before. Wandering outside, she hears the baby crying from somewhere nearby, and realizes that Anthony is inside the large pile of scrap wood and garbage that the resident of Cabrini-Green intend to burn for a bonfire. When she goes into the pile to rescue him, Jake awakens and sees her scrambling among the garbage, with a hook in her hand. Mistaking her for Candyman, Jake alerts a group of other residents and together they go outside with gasoline and torches to burn Candyman alive on the bonfire. As the flames spread, Helen reaches the baby inside the bonfire, but Candyman appears to restrain her from escaping. He encourages Helen to stay with him and be burned alive in order to fuel their own legend. Helen fights back, impa.ling Candyman with a burning shard of wood, and she manages to crawl out of the fire while protecting baby Anthony. Anne-Marie sees them and is overcome, both by finding her child alive and realizing that Helen has delivered him safely out of the burning wreckage. Badly burned by the fire, Helen dies. At Helen's funeral, Trevor a few others are the only mourners, until suddenly they look up and see a huge group of residents from Cabrini-Green marching among the gravestones, making their way to her gravesite. Anne-Marie and Jake are at the forefront. Anne-Marie is carrying baby Anthony triumphantly. Jake removes Candyman's hook from under his coat, apparently pulled from the ashes of the fire. He drops it into Helen's grave. After the funeral, Trevor and his new girlfriend Stacey (Carolyn Lowery) are at their apartment, the same apartment where Helen used to live. Trevor has isolated himself in the bathroom, shaking with grief, while the young girl angrily waits in the kitchen, seemingly annoyed that Trevor is greiving the loss of his wife. Sobbing, Trevor looks in the mirror and mumbles Helen's name and over and over. Suddenly, Helen appears behind him, a ghostly apparition holding a hook. She uses the hook to murder Trevor, gutting his body and leaving it lying in the tub for his new girlfriend to find. Her own legend has just begun.",
+      "writers": [
+         "Clive Barker",
+         "Bernard Rose"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0103919/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTYzOTk5MDMwNl5BMl5BanBnXkFtZTcwMTE0MDIyMQ@@._V1_SY317_CR2,0,214,317_AL_.jpg",
+      "actors": ["Stars: Virginia Madsen, Xander Berkeley, Tony Todd | See full cast and crew »"],
+      "reviews": [
+         "Being a horror movie buff, I have no idea how this little gem escaped me the first time around. I'd heard a lot about it, read about it, etc but wrote it off as \"probably stupid\" like most of the other horror movies I had so wanted to see. So, it wasn't until many years after the movie's release that I finally saw it. And boy am I glad I did! Surprisingly, the acting is fabulous...especially for a horror movie. Each character portrayed fantastically so as to add to the movie, rather than detract. No one really went over the top or became TOO dramatic. Overall, each character was portrayed realistically. As for the plot: absolutely wonderful premise playing on the Bloody Mary urban legend. Surprisingly, the movie delivers on aspects of believabilty. Of course we don't *really* expect Candyman to pop out of a mirror, but how many of us have started the \"Bloody Mary\" chant only to stop at the very last one, not daring to continue? Our fears lie behind what COULD happen and the possibility that maybe..just maybe it's all real. Candyman plays on that fear and takes us even further over the edge. The movie rids itself of the typical cliches (white, undefeatable stalker chasing half naked twits) and allows itself to be an entirely enjoyable, CEREBRAL horror movie. At first we wonder if the Candyman is perhaps just a person pretending to be him, then we start to question Helen's own sanity...wondering perhaps if SHE isn't the \"real Candyman\". Eventually, the movie leads us to an ending that answers our questions but doesn't shove those answers down our throat. Candyman also does what very few horror movies are capable of: it succeeded in having a strong ending rather than fizzling out during the last 10-15 minutes. The setting and atmosphere are top notch. Using Chicago and Cabrini Green as its stage was perfect...bringing into play racial issues without going over the top or getting \"in your face\" to the point of losing its focus. The music in Candyman adds a mysterious mood that matches the dark, dismal atmosphere of the lone apartments in Cabrini Green. All in all on my horror movie scale, I give Candyman a 10. To me, it was purely artistic and absolutely enjoyable. I HIGHLY recommend this to anyone even slightly interested in horror movies.",
+         "Deeply disturbing, intelligently made and without a screaming teen in sight, 'Candyman' is one of the stand-out horror movies of the decade. To just list all the elements that make this one of the classiest genre efforts of recent years would probably take up most of the thousand words I am allowed here. Suffice to say, it has a genuinely uncomfortable premise, uncompromising execution and a bone jarringly lonely score by Philip Glass. Tony Todd is exceptional as the hollow-voiced titular creature; a lost soul brought to life by the whispers of myth. At once heartbreaking and terrifying this could be the definitive latter day horror movie monster- if it wasn't just that little bit too close to Hellraiser's Pinhead. But, when you have a winning combination of elegance and disgust in a verbose, cultured villain, why alter it too much? Virginia Madsen convinces totally as Helen; and you can almost see all the cast acting their little socks off so as not to let the side down. So good, in fact, that I'm struggling to find one bad thing to say about it. I read here, that in the eyes of one viewer, it \"dwells on the nastier things in life\" and wasn't a \"nice film\". I can think of no greater compliment for a truly adult horror movie. No dear, you won't find happy teens in pastel t-shirts having slumber parties and discussing trendy scary movies, while some rap star tries to sell records on the soundtrack. This is a grown up film for grown up people. There is a reason horror films are for adults, and that reason is 'Candyman'.",
+         "A strong contender for the title of best horror film of the 1990's, Bernard Rose's \"Candyman\" is a very faithful (and therefore truly scary) adaptation of Clive Barker's skin crawling short story. This film features a very rare and successful combination of both creepy atmosphere and visual ingeniousness. Whereas most movies (especially during the 90's) can hardly focus on any of these essential horror elements, Bernard Rose masterfully succeeds in stuffing his film with genuine tension as well as shocking gore-images. The plot centers on doctoral student Helen (underrated actress Virginia Madsen in her best role) who becomes obsessed with the urban legend of a hook-handed killer that terrorizes the pauperized ghettos of the nearby Cabrini Green. Needless to say that the Candyman-myth gets a little too realistic for Helen, as everyone she comes into contact with ends up being brutally killed with a hook. The script is intelligent and always several steps ahead of you, the eerie musical guidance is brilliant and the make-up effects are fantastically gruesome. Tony Todd is ideally cast as the bogeyman, with his strong posture and \u0096 above all \u0096 incredibly frightening voice. The legend behind his character is staggering and it's beautiful to see how director Rose plays with the realism and surrealism of Barker's basic idea. Not many horror films of the 90's decade come with my highest possible recommendation, but this one definitely does. And don't forget, the Candyman CAN\u0085rip you to pieces!",
+         "Look into a mirror, preferably alone at night, and say \"candy-man\" 5 times and...uh...see what happens. Little known Bernard Rose directed this terrifying horror/suspense/thriller set and filmed in Chicago. The story is adapted from a novel by horror master Clive Barker. Two attractive female graduate students research an urban \"myth\" only to discover it may not be a myth, or is it? That's the premise of this tightly written and directed film, which does for looking into mirrors what Psycho did for taking showers. This is a thinking man's horror film that scares the daylights out of you at times while still leading you to think beyond what's on the screen. It's much more than just a horror film with a creepy man goring people to death. It exploits many of our deepest fears about society and in ourselves, such as: what can happen in a run down public housing complex (Chicago's notorious Cabrini-Green projects), and can our fears remove the certainty of what we know to be untrue? Rose expertly weaves in Hitchcockian themes of being wrongly accused, emotional vulnerability, and psychological exploitation, while maintaining interest and building a high level of tension throughout the film. Philip Glass' quasi-religious score consistently provides an eerie companion when the camera takes us into seemingly normal locations, like a public restroom for instance. Truly one of the very best horror films of the 90's that can disturb your thoughts, penetrate your sense of security, and still provide disturbing gore and violence. This film is not for the faint of heart. Virginia Madsen stars as the main character and doesn't strike a false note. Tony Todd is the candy-man, and he doesn't appear to deliver gumdrops. Don't look behind you! *** of 4 stars.",
+         "Helen Lyle (Virginia Madsen) doctoral student, and wife of a collage professor, is doing research on urban legends and mythological folklore for her school thesis. Though, there is one legend which gets her attention and leads her to rundown housing block where the residents believe that the murders that took place there were done by the hook-handed serial killer The Candyman (Tony Todd). A mysterious figure that can be summoned by repeating his name five times while looking in the mirror. Which Helen does and now her life turns into horrifying nightmare, which teeters between reality and myth, as she gets closer to the truth about the Candyman. Second time around and this memorable piece hasn't lost any of its effect. It's not only a incredibly brood horror film that manages to create an creeping/ingenious plot with such an unsettling physiological tone, but also providing some generally horrific shocks that creep up on you and aren't for the squeamish. So, it's far from your normal slasher and it just doesn't concentrate on the violence for a change. Not only does the plot build on this mystical legend constructively, but also there's also some solid social commentary on the mindset towards race and sex, which added more to this cleverly layered plot (or should I say tragic love story). What is so great about the screenplay is that you yourself feel apprehensive to what's happening to the protagonist and to where this story is heading by playing on what people believe and how these believes can overcome them. Plus it makes great use of the Chicago's gloomy surroundings. Not only does the film have substance, but also style to boot. The direction by Bernard Rose is quite brilliant, with Rose superbly mixing visuals that gel myth and reality superbly. Particularly the well-crafted encounters between Helen and the Candyman - these sequences were incredibly hair-raising. He creates such a glum and dark atmosphere within these rundown buildings filled with vibrant artwork, the richly layered aura goes hand-to-hand with the moody legend. The slow pacing of the film is perfect; there are no tedious blotches because you are totally wrapped in the story and by the delightful performances. The death toll isn't big, but there are some real gruesome deaths, with A LOT blood. The make-up and special effects are extremely thoughtful and inventive. Phillip Glass' extremely effective score deserves such high praise. Soothing, but also haunting and was incredibly effective towards building towards such an almighty blow. Another bonus was the smooth as silk camera-work; it captured the balanced layout of Chicago with plenty of stunning Ariel shots (great intro). Overall, I was just amazed by this beautifully planned production. What a horror icon! Tony Todd totally nails down such a terrifying and profound performance as the mythical being The Candyman. I believe this horror character totally wipes the floor clean of the other icons of its genre and who created him? No other than from the dark mind of Clive Baker (Hellraiser), who brings this frightening thriller alive, which is basically based on Baker's short story - The Forbidden. He came up with a unique horror character that's downright unnerving, completely authentic and has a lot of depth. But Tony Todd's towering figure and eerie voice has a lot to owe to that and to make one tremble in his presence! Virginia Madsen gives a stellar performance as Helen Lyle, who we really do care for her and feel what she is feeling. Good supporting roles from Xander Berkley as Helen's Husband, Kasi Lemmons as her friend/student who's also working with her their thesis and Vanessa Williams as Anne-Marie McCoy who lives in the rundown estate. The dialogue was packed with depth, but also laced with interesting topics and Todd's lines were pretty much poetic and smooth. The one and only \"small\" negative would be the ending for me. I was somewhat let down by the second ending and I thought maybe it could've done without it. It just felt tact on. Anyhow it didn't stop it from being damn right creepy and it does pack a real unsteadiness. To get in the mood of it, I say it's definitely a film to watch late at night\u0085 alone. One of the clever horror films (if not the best) of that disappointing decade they call the '90s for horror films. If you're looking for a serious horror (before Scream's imitators made a mockery of the slasher sub-genre), I highly recommend this provocative slasher that doesn't cop out the audience.",
+         "`Candyman' is a very frightening and yet intriguing and compelling movie that plays upon and cleverly manipulates old urban legends and myths of folklore and brings to life some of your worst nightmares and horrors. As far as scary movies go it falls into a category of its own in terms of its depth and excellence One of the main strengths of this movie is that the script and the character performances are so powerful and credible that it doesn't feel the need to inject unnecessary horror/graphic/violent scenes into it to sensationalize it. Sure, there is an extensive amount of blood and gore in the movie but it nevertheless fits in with the plot and isn't added in just to give the film an unnecessary `horror' feel. The chilling and terrifying aspects of this movie come from the dialogue, the sequence of events and the emotions and personas revealed in the characters. The plot and the script is enough to leave you mesmerized throughout the whole movie and to remain on the edge of your seat with the anticipation of what is going to happen next. The producers and scriptwriters must receive top marks for the wonderful way in which they enriched the whole movie by relying on the script and the acting instead of adding cheap gimmicks into it to make it more frightening. In addition to that the lighting and the scenery around the whole movie makes it even more frightening I have always thought Virginia Madsen to be a highly talented, qualified and excellent actress whose wonderful acting and gifted performances have been consistently overlooked when allocating movie roles. For me `Candyman' confirmed this thesis. Her portrayal of Helen Lyle is truly one of the most excellent portrayals of a character I have seen recently. She gives her character so much depth, dimension and genuine emotions. Tony Todd also emerges from this film as a very talented and wonderful actor. The amount of depth, dimension and persona that he gives to the character of the `Candyman' is amazing. Although the Candyman is in many ways a truly evil and frightening character, you also can't help but feel a great deal of sympathy for him at times and this too is a testament to Todd's acting. The supporting cast \u0096particularly Vanessa Williams and even the young kid who Helen interviews while in the neighbourhood-also deserve an honourable mention for giving their characters such a realistic edge. I would recommend this movie \u0096it is chilling, frightening, intriguing, compelling, sad and wonderful all in one. One of the best movies I have ever seen in this genre",
+         "College student (Virginia Madsen) decides to write a paper on a slave (Tony Todd) who was killed for simply being in love with a white woman. Legend has it if you call out his name several times, he will appear and kill you to avenge his death. Naturally Madsen is disbelieving of this, but Todd starts butchering off all of her friends and framing her in order to make her believe. This film is so intense and frightening, that when I first saw this on home video with all of the lights on, I actually had to call my mother and get her to come over and comfort me, because this film scared me to death. Tony Todd is perfect in a menacing performance as the villain and Virginia Madsen makes the perfect victim capturing the right balance between terror and disbelief. The myths and legends behind the film are so complex and so fascinating that this film could have gone on for at least another hour and not be one bit overlong. There is plenty of characterization and atmosphere and the settings for the film are very well chosen. However, working somewhat against the film are some of the supporting actors, poor special effects, and an ultra gimmickey ending that feels as though it belongs in another film given the tone and subject matter of this film. Rated R; Graphic Violence, Profanity, and Brief Nudity.",
+         "Candyman is one of my all time favorite horror movies. It is genuinely scary, and it makes one have second thoughts when standing in front of a mirror. What I particularly enjoyed about the movie is the multidimensional development of the plot at the sociological, psychological, and parapsychological level. The first scene of the movie presents in a nutshell the experience that the viewer is going to have, an experience so common (regarding urban legends) yet so distant. The acting (esp. by Virginia Madsen) is superb. The setting could not be more perfect. The shaggy, derelict apartment buildings at Cabrini Green create the proper ambience for what is to follow. Certainly the gory scenes are not very attractive, and in a way such explicit portrayal does not seem necessary, since the psychological suspense is the driving force of the movie. Also the ending is rather anticlimactic and overdrawn. Disappointing sequel.... Fun to watch with people who scare easily!",
+         "As far as horror films go, this movie will scare the living daylights out of anyone! Clive Barker's novel \"The Forgotten\" is the basis for this picture that shows a lot of style under the direction of Bernard Rose. This nightmarish tale is translated for the screen by the author and its director. The two principals, Helen, brilliantly played by the gorgeous Virginia Madsen, and Tony Todd, as the Candyman, enhance the picture. Ms. Madsen plays Helen the student finishing her thesis in urban legends. She makes the mistake of going to the projects to do some research, only to learn much more of what really happened at the scene of the crime. Helen tempts the Candyman. He comes back to haunt her as we discover that this is a story that is being replayed and must have a closure. Tony Todd makes a smashing appearance and runs away with the movie. The special effects are cleverly done. The brilliant costumes by Leonard Pollack add a touch of class to the proceedings. This is a film to watch with someone, as it can cause nightmares for a long, long time.",
+         "We've all heard urban legends, just about every town seems to have a few. The questions of course is whether or not any of them are based on fact. There's the old favorite about the couple in a parked car harassed by a man with a hook, but did that really happen? It sure makes a good premise for a Horror movie and has been done a number of times, though not always successfully. The most recent example is of course the 'Urban Legend' series of films, which started pretty decent, but quickly became tired. A few years prior came a film that not only brought urban legends to the screen, but made many afraid to look into a mirror for a long time, including yours truly. Pros: Solid performances. Another terrific directing job by Bernard Rose. Phillip Glass's score is both beautiful and haunting. Beautiful cinematography. Great script. Terrifying villain that fortunately doesn't spout one-liners. Well-paced. Suspenseful. Some really powerful scares. Cons: The last few moments really weren't needed and actually cheapen the film a tiny bit. Final thoughts: Many say 'The Exorcist' is the scariest film they've ever seen. That film certainly effected me the first time I saw it, but not nearly as much as this one. It would be years before I was OK with being alone in the bathroom alone at night. Any movie that has that kind of effect on a person must be pretty darn scary. 'Candyman' is without question one of the greatest Horror films of not only the 1990s, but period. My rating: 4.5/5"
+      ],
+      "genres": [
+         "Drama",
+         "Horror",
+         "Mystery",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "PolyGram Filmed Entertainment",
+         "Propaganda Films"
+      ],
+      "summaries": [
+         "Helen Lyle is a student who decides to write a thesis about local legends and myths. She visits a part of the town, where she learns about the legend of the Candyman, a one-armed man who appears when you say his name five times, in front of a mirror. Of course, Helen doesn't believe all this stuff, but the people of the area are really afraid. When she ignores their warnings and begins her investigation in the places that he is rumored to appear, a series of horrible murders begins. Could the legend be true?",
+         "In Chicago, Helen Lyle and her friend Bernadette Walsh are researching for their thesis about urban legend in the University of Illinois, where Helen's husband Trevor Lyle gives classes. Helen becomes obsessed by the legend of the Candyman, a son of slaves whose father became rich in 1890 after inventing a device for mass producing of shoes. The educated Candyman was an artist, but when the daughter of a powerful man got pregnant of him, her father hired some men to kill him. The Candyman \"lives\" in the legend that says that he would appear if his name is spoken five times in front of the mirror, and the skeptical Helen attempts to summon Candyman. Helen and Bernadette go to Cabrini Green, where two unsolved murders had happened, and the dwellers blame Candyman for the crimes as Helen tries to prove his existence.",
+         "The Candyman, a murderous soul with a hook for a hand, is accidentally summoned to reality by a skeptic grad student researching the monster's myth."
+      ],
+      "budget": 6000000
+   },
+   "movielensId": 1342,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1992-10-16",
+      "dvdReleaseDate": "2004-08-17",
+      "directors": ["Bernard Rose"],
+      "runtime": 99,
+      "movieId": 1342,
+      "title": "Candyman",
+      "mpaa": "R",
+      "actors": [
+         "Virginia Madsen",
+         "Tony Todd",
+         "Xander Berkeley",
+         "Kasi Lemmons",
+         "Vanessa Williams",
+         "DeJuan Guy",
+         "Marianna Elliott",
+         "Ted Raimi",
+         "Ria Pavia",
+         "Eric Edwards",
+         "Carolyn Lowery",
+         "Michael Culkin",
+         "Bernard Rose",
+         "Rusty Schwimmer",
+         "Mika Quintard"
+      ],
+      "imdbMovieId": "0103919",
+      "originalTitle": "Candyman",
+      "genres": [
+         "Drama",
+         "Horror",
+         "Thriller"
+      ],
+      "youtubeTrailerIds": ["RnzzBssg3ac"],
+      "plotSummary": "The Candyman, a murderous soul with a hook for a hand, is accidentally summoned to reality by a skeptic grad student researching the monster's myth.",
+      "tmdbMovieId": 9529,
+      "avgRating": 2.9722,
+      "releaseYear": "1992",
+      "numRatings": 3993,
+      "posterPath": "/w5YQqrwzreHfa7RmXCB7rpLLxbe.jpg"
+   }
+}

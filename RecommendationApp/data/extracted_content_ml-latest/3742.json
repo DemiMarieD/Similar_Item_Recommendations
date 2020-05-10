@@ -1,0 +1,679 @@
+{
+   "tmdb": {
+      "original_language": "ru",
+      "keywords": [
+         {
+            "name": "russian revolution 1905",
+            "id": 3231
+         },
+         {
+            "name": "odessa",
+            "id": 3232
+         },
+         {
+            "name": "baby carriage",
+            "id": 3234
+         },
+         {
+            "name": "cossack",
+            "id": 3560
+         },
+         {
+            "name": "panic",
+            "id": 4210
+         },
+         {
+            "name": "slaughter",
+            "id": 10089
+         },
+         {
+            "name": "massacre",
+            "id": 14546
+         },
+         {
+            "name": "violence",
+            "id": 14819
+         },
+         {
+            "name": "rage",
+            "id": 14837
+         },
+         {
+            "name": "sailor",
+            "id": 41599
+         },
+         {
+            "name": "silent film",
+            "id": 154802
+         },
+         {
+            "name": "revolt",
+            "id": 162845
+         },
+         {
+            "name": "imperial russia",
+            "id": 186004
+         },
+         {
+            "name": "insubordination",
+            "id": 205585
+         },
+         {
+            "name": "port city",
+            "id": 208568
+         },
+         {
+            "name": "steps",
+            "id": 239180
+         },
+         {
+            "name": "maggots",
+            "id": 239182
+         }
+      ],
+      "imdb_id": "tt0015648",
+      "video": false,
+      "title": "Battleship Potemkin",
+      "recommendations": [
+         631,
+         780,
+         992,
+         26317,
+         776,
+         777,
+         18148,
+         961,
+         17295,
+         5156,
+         405,
+         234,
+         3782,
+         833,
+         3112,
+         832,
+         962,
+         976,
+         614,
+         19426
+      ],
+      "backdrop_path": "/nS2tyCL7unTVhNJBFgBdg2Ii5Yr.jpg",
+      "revenue": 45100,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 8,
+               "character": "Grigory Vakulinchuk",
+               "gender": 2,
+               "credit_id": "52fe4263c3a36847f801a8f7",
+               "name": "Aleksandr Antonov",
+               "profile_path": "/7zmKPjt7Trh9IZvfxb973qq3ANr.jpg",
+               "id": 9609,
+               "order": 0
+            },
+            {
+               "cast_id": 9,
+               "character": "Commander Golikov",
+               "gender": 0,
+               "credit_id": "52fe4263c3a36847f801a8fb",
+               "name": "Vladimir Barsky",
+               "profile_path": "/6EWiCDsDURDC556w1tibY8GioVS.jpg",
+               "id": 9610,
+               "order": 1
+            },
+            {
+               "cast_id": 10,
+               "character": "Chief Officer Giliarovsky",
+               "gender": 2,
+               "credit_id": "52fe4263c3a36847f801a8ff",
+               "name": "Grigori Aleksandrov",
+               "profile_path": "/w242FsVz1C514jJXeJoOrDQfxlA.jpg",
+               "id": 9607,
+               "order": 2
+            },
+            {
+               "cast_id": 11,
+               "character": "Young Sailor Flogged While Sleeping (as I. Bobrov)",
+               "gender": 0,
+               "credit_id": "52fe4263c3a36847f801a903",
+               "name": "Ivan Bobrov",
+               "profile_path": "/cFL29txZeorhaxUa0StOHREeYhp.jpg",
+               "id": 9611,
+               "order": 3
+            },
+            {
+               "cast_id": 12,
+               "character": "Militant Sailor",
+               "gender": 0,
+               "credit_id": "52fe4263c3a36847f801a907",
+               "name": "Mikhail Gomorov",
+               "profile_path": null,
+               "id": 9727,
+               "order": 4
+            },
+            {
+               "cast_id": 13,
+               "character": "Petty Officer",
+               "gender": 0,
+               "credit_id": "52fe4263c3a36847f801a90b",
+               "name": "Aleksandr Levshin",
+               "profile_path": null,
+               "id": 9728,
+               "order": 5
+            },
+            {
+               "cast_id": 25,
+               "character": "Woman With Pince-nez",
+               "gender": 0,
+               "credit_id": "59e4e1e7c3a36846ae0301f3",
+               "name": "N. Poltavtseva",
+               "profile_path": null,
+               "id": 1906799,
+               "order": 6
+            },
+            {
+               "cast_id": 26,
+               "character": "Student Agitator",
+               "gender": 0,
+               "credit_id": "59e4e202925141081002f077",
+               "name": "Konstantin Feldman",
+               "profile_path": null,
+               "id": 1906801,
+               "order": 7
+            },
+            {
+               "cast_id": 27,
+               "character": "Mother Carrying Wounded Boy",
+               "gender": 0,
+               "credit_id": "59e4e225925141084b0301ae",
+               "name": "Prokhorenko",
+               "profile_path": null,
+               "id": 1906804,
+               "order": 8
+            },
+            {
+               "cast_id": 28,
+               "character": "Wounded Boy",
+               "gender": 0,
+               "credit_id": "59e4e233c3a3684654031638",
+               "name": "A. Glauberman",
+               "profile_path": null,
+               "id": 1906805,
+               "order": 9
+            },
+            {
+               "cast_id": 14,
+               "character": "Woman With Baby Carriage",
+               "gender": 0,
+               "credit_id": "52fe4263c3a36847f801a90f",
+               "name": "Beatrice Vitoldi",
+               "profile_path": null,
+               "id": 9729,
+               "order": 10
+            },
+            {
+               "cast_id": 19,
+               "character": "Sailor",
+               "gender": 0,
+               "credit_id": "57c9aa7a9251415eca001b1c",
+               "name": "Daniil Antonovich",
+               "profile_path": null,
+               "id": 1308319,
+               "order": 11
+            },
+            {
+               "cast_id": 29,
+               "character": "Student (as Brodsky)",
+               "gender": 0,
+               "credit_id": "59e4e249c3a368463a02bda3",
+               "name": "Iona Biy-Brodskiy",
+               "profile_path": null,
+               "id": 1906806,
+               "order": 12
+            },
+            {
+               "cast_id": 30,
+               "character": "Woman With Food For Sailors",
+               "gender": 0,
+               "credit_id": "59e4e25792514107f503177f",
+               "name": "Julia Eisenstein",
+               "profile_path": null,
+               "id": 1906807,
+               "order": 13
+            },
+            {
+               "cast_id": 20,
+               "character": "Odessa Citizen",
+               "gender": 2,
+               "credit_id": "57c9aacc92514148e30080ca",
+               "name": "Sergei M. Eisenstein",
+               "profile_path": "/v3M6T24xd2FEOp8Y262lkc1gsGu.jpg",
+               "id": 9603,
+               "order": 14
+            },
+            {
+               "cast_id": 21,
+               "character": "Recruit (as A. Fait)",
+               "gender": 2,
+               "credit_id": "57c9aaf3c3a36847b7001a1e",
+               "name": "Andrey Fayt",
+               "profile_path": "/aFbGaWdodCPP1SM6v1cX56g34i6.jpg",
+               "id": 86747,
+               "order": 15
+            },
+            {
+               "cast_id": 31,
+               "character": "Legless Veteran",
+               "gender": 0,
+               "credit_id": "59e4e27c925141084f030c4d",
+               "name": "Yuriy Korobeynikov",
+               "profile_path": null,
+               "id": 1545649,
+               "order": 16
+            },
+            {
+               "cast_id": 32,
+               "character": "Officer",
+               "gender": 0,
+               "credit_id": "59e4e28ac3a36846cc03458b",
+               "name": "Marusov",
+               "profile_path": null,
+               "id": 1906808,
+               "order": 17
+            },
+            {
+               "cast_id": 33,
+               "character": "Old Man",
+               "gender": 0,
+               "credit_id": "59e4e295c3a36846dd02f6fb",
+               "name": "Protopopov",
+               "profile_path": null,
+               "id": 1906809,
+               "order": 18
+            },
+            {
+               "cast_id": 34,
+               "character": "Woman on the Steps",
+               "gender": 0,
+               "credit_id": "59e4e2a1c3a368461e03135d",
+               "name": "Repnikova",
+               "profile_path": null,
+               "id": 1906810,
+               "order": 19
+            },
+            {
+               "cast_id": 22,
+               "character": "",
+               "gender": 0,
+               "credit_id": "57c9ab42c3a368391000218d",
+               "name": "Vladimir Uralsky",
+               "profile_path": "/wl3fCcuWD6AIul7CZvEUer4a9gs.jpg",
+               "id": 275018,
+               "order": 20
+            },
+            {
+               "cast_id": 35,
+               "character": "Student",
+               "gender": 0,
+               "credit_id": "59e4e2ac925141084f030ca4",
+               "name": "Zerenin",
+               "profile_path": null,
+               "id": 1906811,
+               "order": 21
+            },
+            {
+               "cast_id": 36,
+               "character": "Extra (uncredited)",
+               "gender": 0,
+               "credit_id": "59e4e2bf92514108550312a6",
+               "name": "Aleksanteri Ahola-Valo",
+               "profile_path": null,
+               "id": 1906812,
+               "order": 22
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4263c3a36847f801a8cf",
+               "name": "Sergei M. Eisenstein",
+               "profile_path": "/v3M6T24xd2FEOp8Y262lkc1gsGu.jpg",
+               "id": 9603,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4263c3a36847f801a8e1",
+               "name": "Grigori Aleksandrov",
+               "profile_path": "/w242FsVz1C514jJXeJoOrDQfxlA.jpg",
+               "id": 9607,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4263c3a36847f801a8e7",
+               "name": "Sergei M. Eisenstein",
+               "profile_path": "/v3M6T24xd2FEOp8Y262lkc1gsGu.jpg",
+               "id": 9603,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4263c3a36847f801a8ed",
+               "name": "Vasili Rakhals",
+               "profile_path": null,
+               "id": 9608,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4263c3a36847f801a8f3",
+               "name": "Edmund Meisel",
+               "profile_path": null,
+               "id": 2793,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4263c3a36847f801a915",
+               "name": "Eduard Tisse",
+               "profile_path": null,
+               "id": 9606,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59e4e3a8925141081002f2bd",
+               "name": "Brian Shirey",
+               "profile_path": null,
+               "id": 9604,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 2,
+               "credit_id": "57c8c8c7c3a3685be9001830",
+               "name": "Sergei M. Eisenstein",
+               "profile_path": "/v3M6T24xd2FEOp8Y262lkc1gsGu.jpg",
+               "id": 9603,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59a97e6b925141579902ddf0",
+               "name": "Nikolay Aseev",
+               "profile_path": null,
+               "id": 1880551,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59a97e77925141579d02f303",
+               "name": "Sergey Tretyakov",
+               "profile_path": null,
+               "id": 1880552,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "59e4e2f0c3a368461e0313d0",
+               "name": "Nina Agadzhanova",
+               "profile_path": null,
+               "id": 947665,
+               "department": "Crew",
+               "job": "Script"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59e4e3d3c3a368461e031547",
+               "name": "Jay Leyda",
+               "profile_path": null,
+               "id": 1906819,
+               "department": "Editing",
+               "job": "Assistant Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59e4e3ecc3a368461e031561",
+               "name": "Aleksandr Antonov",
+               "profile_path": "/7zmKPjt7Trh9IZvfxb973qq3ANr.jpg",
+               "id": 9609,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59e4e409c3a36846dd02f8db",
+               "name": "Mikhail Gomorov",
+               "profile_path": null,
+               "id": 9727,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59e4e416c3a36846ae0304bd",
+               "name": "A. Kotoshev",
+               "profile_path": null,
+               "id": 1906820,
+               "department": "Production",
+               "job": "Administration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59e4e421c3a36846cc0347d6",
+               "name": "A.P. Kryukov",
+               "profile_path": null,
+               "id": 1906821,
+               "department": "Production",
+               "job": "Administration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59e4e431c3a3684668031d6e",
+               "name": "Aleksandr Levshin",
+               "profile_path": null,
+               "id": 9728,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59e4e440c3a368461e0315b3",
+               "name": "Maksim Shtraukh",
+               "profile_path": "/mtXk8uma0QIkd96i0953zt7NLEP.jpg",
+               "id": 213294,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59e4e457925141082b03045d",
+               "name": "Herzl Effensachs",
+               "profile_path": null,
+               "id": 1906822,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59e4e483c3a368463a02c076",
+               "name": "Grigoriy Aleksandrov",
+               "profile_path": null,
+               "id": 1906823,
+               "department": "Directing",
+               "job": "First Assistant Director"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "History",
+            "id": 36
+         }
+      ],
+      "popularity": 8.275787,
+      "production_countries": [
+         {
+            "iso_3166_1": "RU",
+            "name": "Russia"
+         },
+         {
+            "iso_3166_1": "SU",
+            "name": "Soviet Union"
+         }
+      ],
+      "id": 643,
+      "vote_count": 285,
+      "budget": 0,
+      "overview": "A dramatized account of a great Russian naval mutiny and a resultant public demonstration, showing support, which brought on a police massacre. The film had an incredible impact on the development of cinema and is a masterful example of montage editing.",
+      "similar": [
+         205,
+         281,
+         4771,
+         769,
+         281957,
+         339692,
+         110415,
+         395834,
+         74643,
+         445954,
+         10285,
+         431,
+         8961,
+         562,
+         4233,
+         23483,
+         681,
+         76163,
+         59967,
+         298312
+      ],
+      "original_title": "Броненосец «Потёмкин»",
+      "runtime": 75,
+      "poster_path": "/A5kk0FA4kS9sHLYzC6NI72OOhPc.jpg",
+      "spoken_languages": [{
+         "name": "Pусский",
+         "iso_639_1": "ru"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Goskino Productions",
+            "id": 383,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/jmvVH9ULXPQ9MvBfeGc0sJj9xLt.png",
+            "name": "Mosfilm",
+            "id": 5120,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1925-12-24",
+      "vote_average": 7.5,
+      "belongs_to_collection": null,
+      "tagline": "Revolution is the only lawful, equal, effectual war. It was in Russia that this war was declared and begu",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Soviet Union",
+      "color": "Black and White",
+      "budgetCurrency": null,
+      "directors": ["Sergei M. Eisenstein"],
+      "runtime": 75,
+      "synopsis": "ACT I: \"Men and Maggots\" In June of 1905, the armored battle ship Potemkin is near Odessa on the Black Sea returning after Russia's defeat in the Russo-Japanese war. We see many sailors asleep in their gently swaying hammocks. A petty officer walks checking the dormitory. A young sailor sleeps with a shoulder and arm hanging outside his hammock. This inconveniences the movements of the officer, and he reacts by whipping the young man. A few of the other sailors wake up and observe this act. In the morning, the ship's cook has hung large pieces of beef just outside the kitchen. We see ordinary sailors talking to each other, pointing to the meat, and calling others to look. An officer on a railing higher up notices the unusual gathering, and the sailors convey to him that the meat is disgusting. The officer eventually calls the ship's doctor, who goes down to get a close look at the meat. The ship's doctor, whose demeanor is that of a servile sycophant, after looking carefully through his pince-nez, says the meat is not rotten, as it has no worms but only maggots, and those can be washed out with brine. We see preparations to serve a meal on table tops that are swinging because they hang from ropes in the ceiling. Large steel bowls are put on the tables and soup is served as the only food. Some of the sailors do not eat the soup. Later, we see in the kitchen the washing up of dishes after the meal. One of the items washed is a dish that has an inscription around near the border. The inscription reads: Give Us This Day our Daily Bread. The dishwasher holds the dish for a moment, reads it again and shows it, and smashes it. The washing crew abandons the work station. Later, we see many sailors buying cans of food and other provisions at a porthole, evidently a canteen. An officer walks by, glares at the sailors, who stand motionless and glare back. At one point, in talk occurring below decks, sailor Vakulinchuk (Aleksandr Antonov) says they are being treated worse than the Russians in Japanese POW camps. Other sailors complain about unbearable conditions, of being treated contemptuously by pompous officers and there is talk about doing something about it. ACT II: \"Drama at the Harbour\" Soon after next light, all hands are called on deck. Everyone lines up. Captain Golikov (Vladimir Barsky) comes up from a trap entrance and yells that no disobedience or strike will be tolerated, and he will hang everyone in the ship if he is disobeyed. Sailors look up at the masts and imagine bodies hanging from the horizontals. The Captain then orders all those who ate the borsch made with the meat to step under the cannons in a show of loyalty. Most of the sailors move under the cannons, but a group of about fifteen do not. The captain proceeds to inform those who did not eat the soup that he will kill them. The group tries to go below decks through the captain's trap entrance, but officers push them back. Upon the captain's orders, a tarpaulin is thrown over them, to make it psychologically easier for others to shoot. The ship's Orthodox priest makes an appearance on an upper deck, calling the disobedient to repent, and holding a golden cross high. Under the tarpaulin, some sailors get on their knees. The captain orders a shooting squad of marines to advance and get in position to shoot at the tarpaulin. When the captain finally gives the order to fire, there is hesitation, and the moment is seized by ordinary seaman Vakulinchuk, who intervenes to save the men by appealing to the firing squad to ignore their orders. The marines still do not shoot. Everyone looks at each other for a while. Vakulinchuk jumps on the guns and continues to speak. Vakulinchuk implores his shipmates to rise up against those who oppress them, namely the officers of the ship. The captain repeats the order, but it is not followed. Instead, Vakulinchuk persuades the rank and file to riot and turn on the officers. There are dramatic scrambles and running and taking cover and pursuits below deck to grab rifles, but since the rifles are in the hands of the rank and file, there isn't much shooting. The resisting officers are beaten and thrown overboard to drown, including the doctor. The ship's priest, whose appearance is suggestive of Rasputin, gets pushed down a ladder and pretends to be dead. Before being thrown overboard, one of the officers manages to grab a gun, pursues Vakulinchuk and shoots him from the back, hitting the head. Vakulinchuk then manages to put his hand up and touch his head wound, then falls from high into a tackle and writhes for a while before he tumbles down into the water. By then, all the commanding officers are overboard and the ship is under mutineer control. There are shouts to save Vakulinchuk, several sailors jump into the water and get to him, but he is brought on deck already dead. The mutineers feel bonded by their common the struggle, and the motto All for One and its counterpart One for All is shouted around. There is a shot of the doctor's pince-nez hanging delicately from a side rope. It was the pince-nez used as a magnifying glass through which the wriggling maggots had been seen in close up. ACT III: \"A Dead Man Calls for Justice\" The Potemkin sails under the mutineers' control to dock at the port of Odessa. The body of Vakulinchuk is taken to the shore to lie in state, under a tent improvised on the pier, holding a candle and with a sign on his chest reading \"KILLED FOR A BOWL OF SOUP\" First he is looked at by a few curious people. Some old women look and pray briefly. But the word gets around, more and more people come filing past his remains, and little by little enormously long columns of mourners pass by, coming across bridges and down stairways and making long queues on breakwaters.. The locals gather in spontaneous groups to talk about the events, and clearly there is seething political ferment against the tsarist régime, although a few voice contempt for the mutineers. As a sneering member of the bourgeoisie heckles a woman protester, the reaction shot of a man turning around shows anger and has an element of threat. During another heated discussion, someone in the crowd on shore says,\"Kill the Jews!\" But the bulk of the citizens of Odessa, after filing past Vakulinchuk, get all whipped up and vow to destroy the oppressors and help the mutineers. There are close-up shots of the clenching fists of the hundreds of spectators who are fed up with the régime. Large numbers of small sail craft approach the battleship to support the crew, bringing food supplies and live fowl in cages and live pigs. ACT IV: \"The Odessa Staircase\" A great many of the townspeople have gathered on the long and wide flights of stairs overlooking the harbor, leading down towards the piers. They are in a good mood and often shouting encouragement towards the ship. Men, women, and children of all ages have come to see what is happening. Without warning, troops in white tunics appear at the top of the stairs, rifles pointing horizontally, and slowly march down the steps. For a few seconds, people scramble away, downwards and to the sides, including a man without legs and another on crutches. Then the soldiers open fire, indiscriminately, against everyone, unarmed men, women, children, and the aged. Dozens and dozens of people scramble downwards and towards the side. Aged people cower behind low walls. The soldiers keep marching down and firing aiming carefully, as they shoot down against the fleeing. A woman carries her dead son's body in her arms, upwards towards the shooters, expecting them to let her pass. She stops a few steps in front of them, says \"My son is very ill\" but a second later she is shot. People look onto the sight, horrified. People stampede over others who have fallen, dead or alive. We see a military boot stepping on the wrist of a child. We see someone wearing glasses with a frightened look, and then the same glasses on the floor broken by a bullet that passed through one lens. The victims include a mother who is pushing a baby in a baby carriage. As she falls to the ground, dying, she leans against the carriage, nudging it away. It rolls down the steps amidst the fleeing crowd. Desperate onlookers watch the seemingly endless journey of the pram rolling down unchecked. Cossacks on horseback then arrive from the pier side, and slaughter the helpless people from the bottom of the stairway with saber cuts. ACT V:\"The Rendez-Vous with a Squadron\" The crew on the Potemkin goes into battle stations, and turns its guns on the town, shooting against buildings where Tsarist soldiers might be concentrated. By then the carnage on the stairs stops, as only soldiers remain standing there. The crew of the Potemkin then puts out to sea to avoid an attack from the shore. A squadron of warships is steaming towards Odessa to retake the Potemkin. The crew on board the Potemkin expects this. They leave many on sentry duty and most others try to sleep. When multiple ships are sighted far away on the horizon, they take up steam and move to meet them on the open sea while everyone who was sleeping wakes and goes to battle stations. As the ships come nearer, the Potemkin is sending light and flag signals calling on the other side's crews to treat them as brothers. The barrels of numerous cannons are ominously leveled towards the outnumbered battleship Potemkin, but at the moment when the ships come into range, their crews allow the mutineers to pass through. The crew of the Potemkin rejoices, and rank and file from the squadron come to the deck rails, waving in friendship and brotherhood as the ships pass traveling in opposite directions.",
+      "writers": ["Nina Agadzhanova"],
+      "originalLanguage": "Russian",
+      "imdbLink": "http://www.imdb.com/title/tt0015648/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTEyMTQzMjQ0MTJeQTJeQWpwZ15BbWU4MDcyMjg4OTEx._V1_SY317_CR5,0,214,317_AL_.jpg",
+      "actors": ["Stars: Aleksandr Antonov, Vladimir Barsky, Grigori Aleksandrov | See full cast and crew »"],
+      "reviews": [
+         "With workers striking in Russia, the crew of the battleship Potemkin feel a certain kinship for the plight of their brothers. When they are served rotting, maggot infested meat some of the crew object, only to find themselves singled out and placed in front of a firing squad. With the marines seconds away from firing the deadly shots, ordinary seaman Grigory Vakulinchuk steps into the breach and intervenes to save the men by appealing to the firing squad to ignore their orders. When the officers take their revenge and kill Vakulinchuk, all are bonded together in the struggle; a bond that reaches to the city of Odessa where the rebellion grows, leading to a bloody and historic series of events. It is hard to imagine that anybody who has seen quite a few films in the past few decades would be unaware of this film, but it is perhaps understandable that fewer have had the opportunity to actually sit down and watch. I had never seen this film before but had seen countless references to it in other films and therefore considering it an important film to at least see once. The story is based on real events and this only serves to make it more interesting but even without this context it is still an engaging story. The story doesn't have much in the way of characters but it still brings out the brutality and injustice of events and it is in this that it hooked me \u0096 surprisingly violent (implied more than modern gore) it demonising the actions and shows innocents falling at all sides in key scenes. The version I saw apparently had the original score (I'm not being snobby \u0096 modern rescores could be better for all I know) and I felt it worked very well to match and improve the film's mood; dramatic, gentle or exciting, it all works very well. The feel of the film was a surprise to me because it stood up very well viewed with my modern eyes. At one or two points the model work was very clearly model work but mostly the film is technically impressive. The masses of extras, use of ships and cities and just the way it captures such well organised chaos are all very impressive and would be even done today. What is more impressive with time though is how the film has a very strong and very clean style to it \u0096 it is not as gritty and flat as many silent films of the period that I have seen; instead it is very crisp and feels very, very professional. Of course watching it in 2004 gives me the benefit of hindsight where I can look back over many films that have referenced the images or directors who have mentioned the film in interviews; but even without this 20:20 vision it is still possible to see how well done the film is and to note how memorable much of it is \u0096 the steps and the firing squad scenes are two very impressive moments that are very memorable. The only real thing that might bug modern audiences is the acting; it isn't bad but silent acting is very different from acting with sound. Here the actors all over act and rely on their bodies to do much of their delivery \u0096 word cards just don't do the emotional job so they have to make extra effort to deliver this. Overall this is a classic film that has influenced many modern directors. The story is engaging and well worth hearing; the directing is crisp and professional, producing many scenes that linger in the memory; the music works to deliver the emotional edge that modern audiences would normally rely on acting and dialogue to deliver and the whole film is over all too quickly! An essential piece of cinema for those that claim to love the media but also a cracking good film in its own right.",
+         "If you're a film student, or were one, or are thinking of becoming one, the name Battleship Potemkin has or will have a resonance. Sergei Eistenstein, like other silent-film pioneers like Griffith (although Eisenstein's innovations are not as commonplace as Griffith's) and Murnau, has had such an impact on the history of cinema it's of course taken for granted. The reason I bring up the film student part is because at some point, whether you'd like it or not, your film professor 9 times out of 10 will show the \"Odessa Stairs\" sequence of this film. It's hard to say if it's even the 'best' part of the film's several sequences dealing with the (at the time current) times of the Russian revolution. But it does leave the most impact, and it can be seen in many films showcasing suspense, or just plain montage (The Untouchables' climax comes to mind). Montage, which was not just Eistenstein's knack but also his life's blood early in his career, is often misused in the present cinema, or if not misused then in an improper context for the story. Sometimes montage is used now as just another device to get from point A to point B. Montage was something else for Eisenstein; he was trying to communicate in the most direct way that he could the urgency, the passion(s), and the ultimate tragedies that were in the Russian people at the time and place. Even if one doesn't see all of Eisenstein's narrative or traditional 'story' ideas to have much grounding (Kubrick has said this), one can't deny the power of seeing the ships arriving at the harbor, the people on the stairs, and the soldiers coming at them every which way with guns. Some may find it hard to believe this was done in the 20's; it has that power like the Passion of Joan of Arc to over-pass its time and remain in importance if only in terms of technique and emotion. Of course, one could go on for books (which have been written hundreds of times over, not the least of which by Eisenstein himself). On the film in and of itself, Battleship Potemkin is really more like a dramatized newsreel than a specific story in a movie. The first segment is also one of the great sequences in film, as a mutiny is plotted against the Captain and other head-ups of a certain Ship. This is detailed almost in a manipulative way, but somehow extremely effective; montage is used here as well, but in spurts of energy that capture the eye. Other times Eisenstein is more content to just let the images speak for themselves, as the soldiers grow weary without food and water. He isn't one of those directors who will try to get all sides to the story; he is, of course, very much early 20th century Russian, but he is nothing else but honest with how he sees his themes and style, and that is what wins over in the end. Some may want to check it outside of film-school, as the 'Stairs' sequence is like one of those landmarks of severe tragedy on film, displaying the ugly side of revolution. Eisenstein may not be one of the more 'accessible' silent-film directors, but if montage, detail in the frame, non-actors, and Bolshevik themes are your cup of tea, it's truly one of the must sees of a lifetime.",
+         "Quite a lot has been said about this film and its landmark importance in forming the language of film. If you are interested in film history, to truly understand the innovations Eisenstein brings to the medium you might try viewing Potemkin along side most any film made before it (those of D.W. Griffith offer a good contrast). It should be allowed that Eisenstein was not the only montage theorist and the principles of montage editing would likely have been discovered by another given time. However, even today, few directors have approached the skill with which Eisenstein created meaning through the combination of images at such an early point in the evolution of the medium. If you are not interested in that sort of thing, Potemkin is still one of the most beautiful and moving films ever made. You should see it, buy it, and tatoo it to your chest.",
+         "Originally supposed to be just a part of a huge epic The Year 1905 depicting the Revolution of 1905, Potemkin is the story of the mutiny of the crew of the Potemkin in Odessa harbor. The film opens with the crew protesting maggoty meat and the captain ordering the execution of the dissidents. An uprising takes place during which the revolutionary leader is killed. This crewman is taken to the shore to lie in state. When the townspeople gather on a huge flight of steps overlooking the harbor, czarist troops appear and march down the steps breaking up the crowd. A naval squadron is sent to retake the Potemkin but at the moment when the ships come into range, their crews allow the mutineers to pass through. Eisenstein's non-historically accurate ending is open-ended thus indicating that this was the seed of the later Bolshevik revolution that would bloom in Russia. The film is broken into five parts: Men and Maggots, Drama on the Quarterdeck, An Appeal from the Dead, The Odessa Steps, and Meeting the Squadron. Eisenstein was a revolutionary artist, but at the genius level. Not wanting to make a historical drama, Eisenstein used visual texture to give the film a newsreel-look so that the viewer feels he is eavesdropping on a thrilling and politically revolutionary story. This technique is used by Pontecorvo's The Battle of Algiers. Unlike Pontecorvo, Eisenstein relied on typage, or the casting of non-professionals who had striking physical appearances. The extraordinary faces of the cast are what one remembers from Potemkin. This technique is later used by Frank Capra in Mr. Deeds Goes to Town and Meet John Doe. But in Potemkin, no one individual is cast as a hero or heroine. The story is told through a series of scenes that are combined in a special effect known as montage--the editing and selection of short segments to produce a desired effect on the viewer. D.W. Griffith also used the montage, but no one mastered it so well as Eisenstein. The artistic filming of the crew sleeping in their hammocks is complemented by the graceful swinging of tables suspended from chains in the galley. In contrast the confrontation between the crew and their officers is charged with electricity and the clenched fists of the masses demonstrate their rage with injustice. Eisenstein introduced the technique of showing an action and repeating it again but from a slightly different angle to demonstrate intensity. The breaking of a plate bearing the words \"Give Us This Day Our Daily Bread\" signifies the beginning of the end. This technique is used in Last Year at Marienbad. Also, when the ship's surgeon is tossed over the side, his pince-nez dangles from the rigging. It was these glasses that the officer used to inspect and pass the maggot-infested meat. This sequence ties the punishment to the corruption of the czarist-era. The most noted sequence in the film, and perhaps in all of film history, is The Odessa Steps. The broad expanse of the steps are filled with hundreds of extras. Rapid and dramatic violence is always suggested and not explicit yet the visual images of the deaths of a few will last in the minds of the viewer forever. The angular shots of marching boots and legs descending the steps are cleverly accentuated with long menacing shadows from a sun at the top of the steps. The pace of the sequence is deliberately varied between the marching soldiers and a few civilians who summon up courage to beg them to stop. A close up of a woman's face frozen in horror after being struck by a soldier's sword is the direct antecedent of the bank teller in Bonnie in Clyde and gives a lasting impression of the horror of the czarist regime. The death of a young mother leads to a baby carriage careening down the steps in a sequence that has been copied by Hitchcock in Foreign Correspondent, by Terry Gilliam in Brazil, and Brian DePalma in The Untouchables. This sequence is shown repeatedly from various angles thus drawing out what probably was only a five second event. Potemkin is a film that immortalizes the revolutionary spirit, celebrates it for those already committed, and propagandizes it for the unconverted. It seethes of fire and roars with the senseless injustices of the decadent czarist regime. Its greatest impact has been on film students who have borrowed and only slightly improved on techniques invented in Russia several generations ago.",
+         "Battleship Potemkin is a celluloid masterpiece. The direction of Eisenstein is truly a sight. The film chronicles a ship of disgruntled sailors who are tired of being mistreated by their superior officers. Eventually, the sailors finally have enough of the abuse and send the officers packing. During this time period, there was a shortage of film stock in the Soviet Union. The goverment wanted to get their message out to the people so they started a National Film Company and one of the members was Sergei Eisenstein. The films were shot on miniscule budgets and the shortage of film stock forced Eisentein to be careful and selective with the footage that he shot. In the end, Eisenstein had to reuse footage in order to make a feature length picture. The most famous of the action set pieces in this film is the much talked about massacre on the steps. This scene was spoofed in Bananas and most recently in Brian De Palma's The Untouchables. If you want to learn film-making, I strongly advise you to watch Battleship Potemkin. It's one of the essentials. A+",
+         "This classic is filled with vivid images that stay in your mind after you have watched it, and there is a lot to appreciate in the way that the key scenes were set up and photographed. The visuals are so impressive that the movie's imperfections are usually not so noticeable, and they don't keep it from being a memorable film. The movie certainly deserves the praise that it gets both for the influence that it has had, and for some ideas that for the time were most creative. The famed 'Odessa Steps' sequence alone demonstrates both fine technical skill and a keen awareness of how to drive home an image to an audience. It deserves to be one of cinema's best remembered sequences. Some of the other scenes also demonstrate, to a lesser degree, the same kind of skill. It says a lot for how effective all of the visuals are that so many viewers think so highly of \"Battleship Potemkin\" despite a story that is sometimes heavy-handed, and despite characters and acting that are both rather thin. These features might simply stem from the collectivist philosophy that lies behind the story, and they are obscured most of the time by Eisenstein's unsurpassed ability to present pictures that viewers will not forget. Despite the flaws, this is a movie that most fans of silent films, and anyone interested in the history of movies, will want to see. There's nothing else in its era that's quite like it.",
+         "On June 14 1905, during the Russian Revolution of that year, sailors aboard the Russian battleship Potemkin rebelled against their oppressive officers. Frustrated with the second-rate treatment they receive, and most particularly the maggot-infested meat that they are forced to eat, the ship's crew, led by the inspirational Bolshevik sailor Grigory Vakulinchuk (Aleksandr Antonov), decide that the time is ripe for a revolution. And so begins Sergei M. Eisenstein's rousing classic of Russian propaganda, 'Bronenosets Potyomkin / The Battleship Potemkin.' The film itself is brimming with shining examples of stunning visual imagery: the spectacles of an overthrown ship captain dangle delicately from the side rope over which he had been tossed; the body of a deceased mutineer lies peaceful upon the shore, the sign on his chest reading \"KILLED FOR A BOWL OF SOUP;\" close-up shots of the clenching fists of the hundreds of spectators who are finally fed up with the Tsarist regime; a wayward baby carriage careers down the Odessa Steps as desperate onlookers watch on with bated breath (this scene was memorably \"borrowed\" by Brian De Palma for a particularly suspenseful scene in his 'The Untouchables'); the barrels of numerous canons are ominously leveled towards the vastly-outnumbered battleship Potemkin. However, the film itself is best analysed \u0096 not as a fragmented selection of memorable scenes \u0096 but as a single film, and, indeed, every scene is hugely memorable. Though divided into five fairly-distinct chapters, the entire film flows forwards wonderfully; at no point do we find ourselves losing interest, and we are absolutely never in doubt of whose side we should be sympathetic towards. The film is often referred to as \"propaganda,\" and that is exactly what it is, but this need not carry a negative connotation. 'The Battleship Potemkin' was produced by Eisenstein with a specific purpose in mind, and it accomplishes this perfectly in every way. Planned by the Soviet Central Committee to coincide with the 20th century celebrations of the unsuccessful 1905 Revolution, 'Potemkin' was predicted to be a popular film in its home country, symbolising the revitalization of Russian arts after the Revolution. It is somewhat unfortunate, then, that Eisenstein's film failed to perform well at the Russian box-office, reportedly beaten by Allan Dwan's 1922 'Robin Hood' film in its opening week and running for just four short weeks. Luckily, despite being banned on various occasions in various countries, 'The Battleship Potemkin' fared more admirably overseas. The film also proved a successful vehicle for Eisenstein to test his theories of \"montage.\" Through quick-cut editing, and distant shots of the multitudes of extras, the audience is not allowed to sympathise with any individual characters, but with the revolutionary population in general. Eisenstein does briefly break this mould, however, in a scene where Vakulinchuk flees the ship officer who is trying to kill him, and, of course, during the renowned Odessa Steps sequence, as our hearts beat in horror for the life of the unfortunate child in the tumbling baby carriage. The accompanying soundtrack to the version I watched, largely featuring the orchestral works of Dmitri Shostakovich, served wonderfully to heighten the emotional impact of such scenes. One of the greatest films of the silent era, 'The Battleship Potemkin' is a triumph of phenomenal film-making, and is a significant slice of cinematic history. The highly-exaggerated events of the film (among other things, there was never actually any violent massacre on the Odessa Steps) have so completely engrained themselves in the memory, that we're often uncertain of the true history behind the depicted events. This is a grand achievement.",
+         "There are only a handful of movies that were made on such a grand scale and made such a difference in the art of movie making. \"Bronenosets Potyomkin\" is one of these movies, and it should be on anyone's list looking to learn more about the history of cinema. Grigori Aleksandrov & Sergei M. Eisenstein directed this groundbreaking film that documents the horrors taking place on a Russian battleship. When the sailors finally retaliate against their superiors, the locals embrace the them, and support them. Things get ugly when a group of soldiers are sent to the small town to take care of business. What follows is one of the most imitated scenes in the history of cinema. Anyone who has seen \"The Untouchables\", and \"Bronenosets Potyomkin\" knows exactly what I mean. Overall I think this movie raised the bar for film making just as \"Intolerance\" did a few years earlier. If you do not mind silent films, do yourself a favor, and see \"Bronenosets Potyomkin\". If you don't like silent films..... watch \"Bronenosets Potyomkin\" anyway.",
+         "Sergei Eisenstein's most famous movie has truly withstood the test of time. The story of a mutiny aboard a warship in 1905 does have the feeling of Soviet propaganda, but does a good job showing the conditions that led to the revolt. The scene on the Odessa steps should remain seared into anyone's mind. Okay, so \"The Battleship Potemkin\" wasn't actually the first movie to use montage, but they did a great job with it here. Certainly any film history class should show this movie. It's a great historical drama (although I will admit that I don't know how accurate it is). A 10/10. Oh, and we should have learned by now that \"Potemkin\" should be transliterated as \"Potyomkin\".",
+         "The silent film masterpiece Battleship Potemkin (1925) was commissioned by the Soviet government to celebrate the 20th anniversary of the uprising of 1905 and to establish the event as an heroic foreshadowing of the October Revolution of 1917. Ironically the film's director, Sergei Eisenstein, was one of the earliest and most influential advocates of a formalistic approach to film art. Subsequently, Eisenstein's formalism and suspect politics would cause innumerable conflicts with government agencies insisting on \"socialist realism.\" Influenced by the Russian film theoretician, Lev Kuleshov, and through him by D. W. Griffith's Intolerance (smuggled into Russia in 1919), Eisenstein constructed his films from a \"collision\" of rapidly edited images, a montage of shots varied in length, motion, content, lighting, and camera angle. Without question the most memorable illustration of Eisenstein's stylistic approach - and probably the single most cited and studied sequence in world cinema history - is the \"Odessa Steps\" sequence in Potemkin. In structure Potemkin is a \"five reeler\" divided into five narrative parts, an organization clearly derived from the five-act arrangement of Western drama. In \"Men and Maggots,\" Eisenstein dramatizes the pre-revolutionary oppression and discontent of the battleship's working class sailors as the situation inevitably builds to mutiny. Even before the sailors and their upper class officers/masters are visually introduced, Eisenstein establishes revolutionary conditions symbolically by the collision editing of waves breaking violently and ominously at sea. Onboard ship we witness crowded, unsanitary conditions. Eisenstein emphasizes the sailors' dehumanization with shots of arbitrary lashings, harsh labor, and - most memorably - the maggot infested meat intended for the evening's meal. The ship's nearsighted physician is brought forward by the other officers to declare the meat perfectly suitable to be served with the dark soup, boiling like the sailors' rage. In accordance with Marxist maxims, the church also fails the men, and we see one of them smashing a plate inscribed with words from The Lord's Prayer from two different camera angles (in perhaps the first deliberate \"jump cut\" in cinema history). Identified by inter-titles as \"Drama on the Quarterdeck\" and \"An Appeal from the Dead,\" Potemkin's second and third parts depict the actual mutiny and the onshore funeral of its leader and first hero of the revolution, Vakulinchuk. United by Vakulinchuk's appeals to brotherhood, the initial mutineers are joined by the entire crew in an attack on the officers. A chaotic scene ensues whose violent passion is served well by Eisenstein's editing techniques. The officers' quarters are trampled and symbols of their privilege are destroyed. The ship's doctor is thrown overboard, accompanied by dramatic crosscuts to the maggot-ridden meat and his eyeglasses metonymically dangling in the rigging. Tragically, Vakolinchuk's death is the price paid for the revolt (no omelet without breaking eggs) and he is laid out with dignity on an Odessa pier. Hundreds of ordinary Odessa citizens gather with the sailors to honor him and to pledge \"Death to the oppressors.\" Shots of fists clenching and unclenching signal the birth of revolutionary consciousness. The complex and unforgettable Odessa Steps sequence constitutes the film's fourth act. It begins with uplifting music and a series of close-ups and medium shots on the elated faces of diverse people on the shore and selected objects (parasol, eyeglasses, baby carriage). Suddenly (as exclaims a title card in huge letters) the music stops and lines of soldiers with drawn rifles and fixed bayonets appear at the top of the steps. Here Eisenstein releases the full force of collision editing as nearly a hundred shots are pieced together to contrast the panicked mayhem and victimization of the citizenry with the relentless assault of the soldiers driving the citizens down to the trampling horses and flying sabers of the waiting Cossacks below. The mise-en-scene is framed by a statue of Caesar at the top of the stairs and a church at the bottom, symbolic metonyms for Russia's oppressive institutions: tsarist monarchy and the Orthodox Christian church. Punctuating the sequence are two scenes involving mothers and children. In the first, a mother and young boy who had been introduced among the joyous faces in the crowd are among the slaughter's first victims. The boy is shot, but the mother continues running until close-ups of her face convey her horrified gaze at the son's fallen body being trampled by the crowd. With a much slowed editing pace, the camera follows the mother as she carries the lifeless body of her child up the stairs to confront the soldiers (shown only in a diagonal shadow line). They summarily shoot her dead. After this lull, the carnage continues for another several dozen cuts until a second mother is shot through the stomach (the womb of Mother Russia?) as she tries to shield her baby in its carriage. In a scene famously imitated in The Untouchables, the carriage incongruously slips down the staircase. Horrified faces of huddled citizens watch the slow progress to its doom. When the carriage reaches the bottom there is a cut to a Cossack wielding a sword and a classic Kuleshov effect suggests what we do not actually see: the slaughtering of this pure and symbolic innocent. The final series of shots in the Odessa sequence is of three stone lions, one in repose, one sitting up, and one roaring. The editing animates them into a visual metaphor of the people's awakened rage. Somewhat anticlimactically, the fifth act returns us to the battleship as the mutinous sailors flee on the high seas and await an encounter with other ships from the fleet. They and the viewer expect retribution, but when the meeting occurs no shots are fired and instead all the sailors wave and throw their hats in the air in a symbol of comradeship. Eisenstein was rewriting history at this point since the revolution was not successfully launched for another twelve years. But that quibble aside, Battleship Potemkin stands as one of the seminal works of the silent film era, and it retains extraordinary cinematic power."
+      ],
+      "genres": [
+         "Drama",
+         "History"
+      ],
+      "productionCompanies": ["Goskino"],
+      "summaries": [
+         "Based on the historical events the movie tells the story of a riot at the battleship Potemkin. What started as a protest strike when the crew was given rotten meat for dinner ended in a riot. The sailors raised the red flag and tried to ignite the revolution in their home port Odessa.",
+         "1905. There is a general feeling of revolution amongst the Russian populace against the Imperial rulers. This feeling is slow to reach the crew of the battleship, Potemkin. However, the crew eventually does rebel against their Imperial ruled officers for what they see as the poor conditions aboard, namely the provision of maggot infested rotting meat as their food. This mini-revolution on board leads to a confrontation between the officers and crew. News of the result of this confrontation hits the streets of Odessa as the Potemkin sails into port. The fight on board the Potemkin makes its way to the streets of Odessa as civilians want to show their support for their brothers on board. This situation leads to further actions by the Imperial army, both against the Russian civilians in Odessa as well as against the Potemkin crew.",
+         "A dramatized account of a great Russian naval mutiny and a resulting street demonstration which brought on a police massacre."
+      ],
+      "budget": 0
+   },
+   "movielensId": 3742,
+   "movielens": {
+      "languages": ["Pусский"],
+      "releaseDate": "1925-12-24",
+      "dvdReleaseDate": "1998-09-02",
+      "directors": ["Sergei M. Eisenstein"],
+      "runtime": 75,
+      "movieId": 3742,
+      "title": "Battleship Potemkin",
+      "mpaa": "",
+      "actors": [
+         "Aleksandr Antonov",
+         "Vladimir Barsky",
+         "Grigori Aleksandrov",
+         "Ivan Bobrov",
+         "Mikhail Gomorov",
+         "Aleksandr Levshin",
+         "N. Poltavtseva",
+         "Konstantin Feldman",
+         "Prokhorenko",
+         "A. Glauberman",
+         "Beatrice Vitoldi",
+         "Daniil Antonovich",
+         "Iona Biy-Brodskiy",
+         "Julia Eisenstein",
+         "Sergei M. Eisenstein",
+         "Andrey Fayt",
+         "Yuriy Korobeynikov",
+         "Marusov",
+         "Protopopov",
+         "Repnikova",
+         "Vladimir Uralsky",
+         "Zerenin",
+         "Aleksanteri Ahola-Valo"
+      ],
+      "imdbMovieId": "0015648",
+      "originalTitle": "Броненосец «Потёмкин»",
+      "genres": [
+         "Drama",
+         "History"
+      ],
+      "youtubeTrailerIds": ["kS5kzTbNKjs"],
+      "plotSummary": "A dramatized account of a great Russian naval mutiny and a resultant public demonstration, showing support, which brought on a police massacre. The film had an incredible impact on the development of cinema and is a masterful example of montage editing.",
+      "tmdbMovieId": 643,
+      "avgRating": 3.86287,
+      "releaseYear": "1925",
+      "numRatings": 2144,
+      "posterPath": "/A5kk0FA4kS9sHLYzC6NI72OOhPc.jpg"
+   }
+}

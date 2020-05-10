@@ -1,0 +1,836 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "london england",
+            "id": 212
+         },
+         {
+            "name": "england",
+            "id": 392
+         },
+         {
+            "name": "spy",
+            "id": 470
+         },
+         {
+            "name": "china",
+            "id": 478
+         },
+         {
+            "name": "news broadcast",
+            "id": 1774
+         },
+         {
+            "name": "intelligence",
+            "id": 2051
+         },
+         {
+            "name": "television",
+            "id": 2136
+         },
+         {
+            "name": "missile",
+            "id": 2534
+         },
+         {
+            "name": "manipulation of the media",
+            "id": 2954
+         },
+         {
+            "name": "secret intelligence service",
+            "id": 3272
+         },
+         {
+            "name": "special car",
+            "id": 3531
+         },
+         {
+            "name": "tv station",
+            "id": 3586
+         },
+         {
+            "name": "media tycoon",
+            "id": 3587
+         },
+         {
+            "name": "navy",
+            "id": 3588
+         },
+         {
+            "name": "motorcycle",
+            "id": 14735
+         },
+         {
+            "name": "secret service",
+            "id": 41249
+         },
+         {
+            "name": "hamburg germany",
+            "id": 164713
+         }
+      ],
+      "imdb_id": "tt0120347",
+      "video": false,
+      "title": "Tomorrow Never Dies",
+      "recommendations": [
+         36643,
+         710,
+         36669,
+         709,
+         708,
+         700,
+         682,
+         699,
+         691,
+         698,
+         707,
+         253,
+         681,
+         667,
+         660,
+         646,
+         657,
+         658,
+         668,
+         36670
+      ],
+      "backdrop_path": "/lHZ5H1jd4zVJYr1wfLKBdXYtZ17.jpg",
+      "revenue": 333011068,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "James Bond",
+               "gender": 2,
+               "credit_id": "52fe426fc3a36847f801e3cf",
+               "name": "Pierce Brosnan",
+               "profile_path": "/1JXL0zrA26JjdoX8sqf57fJRDVM.jpg",
+               "id": 517,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Elliot Carver",
+               "gender": 2,
+               "credit_id": "52fe426fc3a36847f801e3d3",
+               "name": "Jonathan Pryce",
+               "profile_path": "/dAgcoPcDtlhIUTrksPtsWdlfBX.jpg",
+               "id": 378,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Wai Lin",
+               "gender": 1,
+               "credit_id": "52fe426fc3a36847f801e3d7",
+               "name": "Michelle Yeoh",
+               "profile_path": "/OhW6BfeZBRn7iupeI8elngV2EN.jpg",
+               "id": 1620,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Paris Carver",
+               "gender": 1,
+               "credit_id": "52fe426fc3a36847f801e3db",
+               "name": "Teri Hatcher",
+               "profile_path": "/xnvUJvf0vjHliYa2PlXyLGaJe9l.jpg",
+               "id": 10742,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Henry Gupta",
+               "gender": 2,
+               "credit_id": "52fe426fc3a36847f801e3df",
+               "name": "Ricky Jay",
+               "profile_path": "/d9x2dXr37z20yYBpDW4HLY7lrUS.jpg",
+               "id": 10743,
+               "order": 4
+            },
+            {
+               "cast_id": 6,
+               "character": "Stamper",
+               "gender": 2,
+               "credit_id": "52fe426fc3a36847f801e3e3",
+               "name": "Götz Otto",
+               "profile_path": "/xl82gVjp9s2gSwx0QA52uRsM6Jt.jpg",
+               "id": 10744,
+               "order": 5
+            },
+            {
+               "cast_id": 7,
+               "character": "Jack Wade",
+               "gender": 2,
+               "credit_id": "52fe426fc3a36847f801e3e7",
+               "name": "Joe Don Baker",
+               "profile_path": "/7WQq2nmSXXIC4vR3MhHLYRZD2wE.jpg",
+               "id": 10671,
+               "order": 6
+            },
+            {
+               "cast_id": 8,
+               "character": "Dr. Kaufman",
+               "gender": 2,
+               "credit_id": "52fe426fc3a36847f801e3eb",
+               "name": "Vincent Schiavelli",
+               "profile_path": "/q2fEosVlli2T8k5db7c7xueNTtc.jpg",
+               "id": 3418,
+               "order": 7
+            },
+            {
+               "cast_id": 9,
+               "character": "M",
+               "gender": 1,
+               "credit_id": "52fe426fc3a36847f801e3ef",
+               "name": "Judi Dench",
+               "profile_path": "/2is9RvJ3BQAku2EtCmyk5EZoxzT.jpg",
+               "id": 5309,
+               "order": 8
+            },
+            {
+               "cast_id": 10,
+               "character": "Q",
+               "gender": 2,
+               "credit_id": "52fe426fc3a36847f801e3f3",
+               "name": "Desmond Llewelyn",
+               "profile_path": "/6dYMQoMSZ6iVZTbcgjpzypTZ2pr.jpg",
+               "id": 9906,
+               "order": 9
+            },
+            {
+               "cast_id": 11,
+               "character": "Miss Moneypenny",
+               "gender": 1,
+               "credit_id": "52fe426fc3a36847f801e3f7",
+               "name": "Samantha Bond",
+               "profile_path": "/vBPkMGAHIoOP2ni9yYKoxCbw4Z0.jpg",
+               "id": 10699,
+               "order": 10
+            },
+            {
+               "cast_id": 12,
+               "character": "Charles Robinson",
+               "gender": 2,
+               "credit_id": "52fe426fc3a36847f801e3fb",
+               "name": "Colin Salmon",
+               "profile_path": "/2RHy23vEDs0JRI4uy6IXNxKOrzL.jpg",
+               "id": 5414,
+               "order": 11
+            },
+            {
+               "cast_id": 13,
+               "character": "Admiral Roebuck",
+               "gender": 2,
+               "credit_id": "52fe426fc3a36847f801e3ff",
+               "name": "Geoffrey Palmer",
+               "profile_path": "/6ouSoFGy8Rd9viyHmWHoEJfknFa.jpg",
+               "id": 10746,
+               "order": 12
+            },
+            {
+               "cast_id": 14,
+               "character": "Minister of Defence",
+               "gender": 2,
+               "credit_id": "52fe426fc3a36847f801e403",
+               "name": "Julian Fellowes",
+               "profile_path": "/kf38Wij4DyNyVFFL9HokomrQNkc.jpg",
+               "id": 10747,
+               "order": 13
+            },
+            {
+               "cast_id": 15,
+               "character": "General Bukharin",
+               "gender": 2,
+               "credit_id": "52fe426fc3a36847f801e407",
+               "name": "Terence Rigby",
+               "profile_path": "/cmg8qwt7Wo649ocgs2vxTPC2MnH.jpg",
+               "id": 10748,
+               "order": 14
+            },
+            {
+               "cast_id": 38,
+               "character": "Tamara Steel",
+               "gender": 1,
+               "credit_id": "5401f026c3a3682d98001b07",
+               "name": "Nina Young",
+               "profile_path": "/mD25b2UmlSNyW5q5yz5BCXEY9u.jpg",
+               "id": 58778,
+               "order": 15
+            },
+            {
+               "cast_id": 39,
+               "character": "PR Lady",
+               "gender": 0,
+               "credit_id": "5401f03fc3a368068c00349e",
+               "name": "Daphne Deckers",
+               "profile_path": null,
+               "id": 1238610,
+               "order": 16
+            },
+            {
+               "cast_id": 40,
+               "character": "Dr. Dave Greenwalt",
+               "gender": 2,
+               "credit_id": "5401f057c3a36843720033dd",
+               "name": "Colin Stinton",
+               "profile_path": "/hQAOFqXtTOrnbx1LYBMDkcAPyop.jpg",
+               "id": 23608,
+               "order": 17
+            },
+            {
+               "cast_id": 41,
+               "character": "Master Sergeant 3",
+               "gender": 2,
+               "credit_id": "5401f074c3a368436300338d",
+               "name": "Al Matthews",
+               "profile_path": "/eyqyrq96kaJCeZYuCGzl26DPx1x.jpg",
+               "id": 10208,
+               "order": 18
+            },
+            {
+               "cast_id": 42,
+               "character": "Professor Inga Bergstrom",
+               "gender": 0,
+               "credit_id": "54d4fb21c3a3686ac4013afa",
+               "name": "Cecilie Thomsen",
+               "profile_path": null,
+               "id": 1423897,
+               "order": 19
+            },
+            {
+               "cast_id": 43,
+               "character": "Stealth Boat Captain",
+               "gender": 0,
+               "credit_id": "54d4fb44c3a3685d5700990f",
+               "name": "Mark Spalding",
+               "profile_path": null,
+               "id": 176228,
+               "order": 20
+            },
+            {
+               "cast_id": 44,
+               "character": "Captain - HMS Chester",
+               "gender": 2,
+               "credit_id": "54d4fb55c3a3686ac4013b0c",
+               "name": "Bruce Alexander",
+               "profile_path": null,
+               "id": 1184909,
+               "order": 21
+            },
+            {
+               "cast_id": 45,
+               "character": "Firing Officer - HMS Chester",
+               "gender": 0,
+               "credit_id": "54d4fb6bc3a3686abc013fdd",
+               "name": "Anthony Green",
+               "profile_path": "/gVi3WW7Icv77cNGYibTKgz2q0eG.jpg",
+               "id": 153208,
+               "order": 22
+            },
+            {
+               "cast_id": 46,
+               "character": "Cmdr. Richard Day - HMS Devonshire",
+               "gender": 2,
+               "credit_id": "54d4fb7bc3a368616e0136f9",
+               "name": "Christopher Bowen",
+               "profile_path": null,
+               "id": 25688,
+               "order": 23
+            },
+            {
+               "cast_id": 47,
+               "character": "Lt. Cmdr. Peter Hume - HMS Devonshire",
+               "gender": 0,
+               "credit_id": "54d4fb89c3a3686ac80131f2",
+               "name": "Andrew Hawkins",
+               "profile_path": null,
+               "id": 1423898,
+               "order": 24
+            },
+            {
+               "cast_id": 48,
+               "character": "Lieutenant Commander - HMS Devonshire",
+               "gender": 0,
+               "credit_id": "54d4fb9792514173cf008ea4",
+               "name": "Dominic Shaun",
+               "profile_path": null,
+               "id": 1423899,
+               "order": 25
+            },
+            {
+               "cast_id": 49,
+               "character": "Yeoman - HMS Devonshire",
+               "gender": 2,
+               "credit_id": "54d4fba6c3a36871c100b5be",
+               "name": "Julian Rhind-Tutt",
+               "profile_path": "/pceSvV5ms0cCozVymblUUmIxb2S.jpg",
+               "id": 7031,
+               "order": 26
+            },
+            {
+               "cast_id": 50,
+               "character": "Leading Seaman - HMS Devonshire",
+               "gender": 2,
+               "credit_id": "54d4fbb3c3a3686ac4013b13",
+               "name": "Gerard Butler",
+               "profile_path": "/i54XoxYieuff2w6MwyfwVUBvmR0.jpg",
+               "id": 17276,
+               "order": 27
+            },
+            {
+               "cast_id": 52,
+               "character": "Admiral Kelly - HMS Bedford",
+               "gender": 2,
+               "credit_id": "54d4fbdac3a3686ac2013210",
+               "name": "Michael Byrne",
+               "profile_path": "/rmgL88xFEk0iBOcCr7d9V6WfaOi.jpg",
+               "id": 742,
+               "order": 29
+            },
+            {
+               "cast_id": 53,
+               "character": "Captain - HMS Bedford",
+               "gender": 2,
+               "credit_id": "54d4fbee9251413fca0144cc",
+               "name": "Pip Torrens",
+               "profile_path": "/oufazs9fACQgocDos8vEY5IW1Wr.jpg",
+               "id": 36666,
+               "order": 30
+            },
+            {
+               "cast_id": 54,
+               "character": "Air Warfare Officer - HMS Bedford",
+               "gender": 2,
+               "credit_id": "54d4fbfdc3a368746900ad08",
+               "name": "Hugh Bonneville",
+               "profile_path": "/vHxgbEvQfp30MiYxtH53hoCOMOg.jpg",
+               "id": 19923,
+               "order": 31
+            },
+            {
+               "cast_id": 55,
+               "character": "Principal Warfare Officer - HMS Bedford",
+               "gender": 2,
+               "credit_id": "576805609251410be8000391",
+               "name": "Jason Watkins",
+               "profile_path": "/fnyawCijMB2lb7mQRjBa8m9gjhN.jpg",
+               "id": 63608,
+               "order": 32
+            },
+            {
+               "cast_id": 56,
+               "character": "Leading Seaman - HMS Bedford",
+               "gender": 2,
+               "credit_id": "58863d049251414cd300337c",
+               "name": "Brendan Coyle",
+               "profile_path": "/6S0NxKpxeiIguX6VSY5MkuHZSfx.jpg",
+               "id": 74056,
+               "order": 33
+            },
+            {
+               "cast_id": 57,
+               "character": "Beth Davidson",
+               "gender": 1,
+               "credit_id": "58863d1cc3a36843c8001ee2",
+               "name": "Nadia Cameron-Blakey",
+               "profile_path": "/yuNMLBYoBZovnrSWBab79ZArBYU.jpg",
+               "id": 1247020,
+               "order": 34
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe426fc3a36847f801e40d",
+               "name": "Roger Spottiswoode",
+               "profile_path": "/hH8tIBh0RI7VwI4jQgphtB0qABR.jpg",
+               "id": 1724,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe426fc3a36847f801e413",
+               "name": "Ian Fleming",
+               "profile_path": "/3Pld5n7f5AAVjP0HdsAkgSvrlJg.jpg",
+               "id": 9856,
+               "department": "Writing",
+               "job": "Characters"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe426fc3a36847f801e419",
+               "name": "Barbara Broccoli",
+               "profile_path": null,
+               "id": 10666,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe426fc3a36847f801e41f",
+               "name": "Anthony Waye",
+               "profile_path": "/jvM7joua7tQ6scIpTM1sdbUzI67.jpg",
+               "id": 10706,
+               "department": "Production",
+               "job": "Line Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe426fc3a36847f801e425",
+               "name": "David Arnold",
+               "profile_path": "/quJ5BYpkU79sCwn7NHFCvzBSwwX.jpg",
+               "id": 6489,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe426fc3a36847f801e42b",
+               "name": "Sheryl Crow",
+               "profile_path": "/eV0dxZ6IXMNFQNgTa8hkqYMcrhx.jpg",
+               "id": 10750,
+               "department": "Sound",
+               "job": "Songs"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe426fc3a36847f801e431",
+               "name": "Robert Elswit",
+               "profile_path": null,
+               "id": 2950,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe426fc3a36847f801e437",
+               "name": "Michel Arcand",
+               "profile_path": null,
+               "id": 10751,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe426fc3a36847f801e43d",
+               "name": "Dominique Fortin",
+               "profile_path": null,
+               "id": 10752,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe426fc3a36847f801e443",
+               "name": "Debbie McWilliams",
+               "profile_path": null,
+               "id": 10496,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe426fc3a36847f801e449",
+               "name": "Allan Cameron",
+               "profile_path": null,
+               "id": 7732,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe426fc3a36847f801e44f",
+               "name": "Ken Court",
+               "profile_path": null,
+               "id": 7204,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe426fc3a36847f801e455",
+               "name": "Jonathan Lee",
+               "profile_path": null,
+               "id": 10753,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe426fc3a36847f801e45b",
+               "name": "Giles Masters",
+               "profile_path": null,
+               "id": 7787,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe426fc3a36847f801e461",
+               "name": "Tony Reading",
+               "profile_path": null,
+               "id": 7788,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe426fc3a36847f801e467",
+               "name": "Stephen Scott",
+               "profile_path": null,
+               "id": 10754,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe426fc3a36847f801e46d",
+               "name": "Peter Young",
+               "profile_path": null,
+               "id": 9823,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe426fc3a36847f801e473",
+               "name": "Lindy Hemming",
+               "profile_path": "/8DiTuVH0dysJ6j1psjXE0XQ4BKR.jpg",
+               "id": 10714,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe426fc3a36847f801e479",
+               "name": "Bruce Feirstein",
+               "profile_path": null,
+               "id": 10705,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe426fc3a36847f801e47f",
+               "name": "Michael G. Wilson",
+               "profile_path": "/j9E7oKJMgprlrwkUkk2JXdY5tnJ.jpg",
+               "id": 69678,
+               "department": "Production",
+               "job": "Producer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Adventure",
+            "id": 12
+         },
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         }
+      ],
+      "popularity": 27.784092,
+      "production_countries": [
+         {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+         },
+         {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+         }
+      ],
+      "id": 714,
+      "vote_count": 1157,
+      "budget": 110000000,
+      "overview": "A deranged media mogul is staging international incidents to pit the world's superpowers against each other. Now 007 must take on this evil mastermind in an adrenaline-charged battle to end his reign of terror and prevent global pandemonium.",
+      "similar": [
+         646,
+         253,
+         657,
+         667,
+         682,
+         699,
+         708,
+         691,
+         954,
+         707,
+         2252,
+         177677,
+         668,
+         137094,
+         146216,
+         291805,
+         49517,
+         259693,
+         1247,
+         9486
+      ],
+      "original_title": "Tomorrow Never Dies",
+      "runtime": 119,
+      "poster_path": "/k3eI9q7ISgpDEu2CMwR2s6inJVp.jpg",
+      "spoken_languages": [
+         {
+            "name": "Deutsch",
+            "iso_639_1": "de"
+         },
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Dansk",
+            "iso_639_1": "da"
+         },
+         {
+            "name": "普通话",
+            "iso_639_1": "zh"
+         },
+         {
+            "name": "广州话 / 廣州話",
+            "iso_639_1": "cn"
+         }
+      ],
+      "production_companies": [{
+         "logo_path": "/czmPjPlpsJwsWuuTub2iATe2sgR.png",
+         "name": "Eon Productions",
+         "id": 7576,
+         "origin_country": "GB"
+      }],
+      "release_date": "1997-12-11",
+      "vote_average": 6.1,
+      "belongs_to_collection": {
+         "backdrop_path": "/6VcVl48kNKvdXOZfJPdarlUGOsk.jpg",
+         "name": "James Bond Collection",
+         "id": 645,
+         "poster_path": "/HORpg5CSkmeQlAolx3bKMrKgfi.jpg"
+      },
+      "tagline": "Yesterday is a memory. Today is history. Tomorrow is in the hands of one man.",
+      "adult": false,
+      "homepage": "http://www.mgm.com/view/movie/2029/Tomorrow-Never-Dies/",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "UK",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Roger Spottiswoode"],
+      "runtime": 119,
+      "synopsis": "The pre-title teaser takes place on a border region of Russia where a large bazaar of illegally obtained weapons are being sold to international terrorists. Far away, in an observation room, M, her assistant, Robinson and a British admiral, Roebuck, are watching the operation through cameras placed by an agent they've sent into the area. They identify many of the weapons and several of the buyers. Over M's protests, the officers agree to launch a guided missile into the area believing that they will eliminate half of the world's most dangerous criminals. The missile is launched from a British frigate and speeds toward the target just as the command center receives a radio call from their agent on the scene. Among the camera images is a plane holding two powerful soviet nuclear weapons which may be triggered by the guided missile. An attempt to abort the missile attack fails and the agent, who is revealed to be James Bond, rushes into the area to steal the plane and the bombs. The attack causes most of the terrorists to flee the area. Bond reaches the plane and knocks the pilot in it unconscious. He successfully escapes the valley before the missile hits but is pursued by another of the surviving terrorists in a plane identical to his. He evades the 2nd plane, however, the pilot he knocked out awakes and throws a heavy cord around Bond's neck. Bond keeps control of the plane, flying under the 2nd one and activates the rear ejection seat of his own plane, throwing the man up into the other plane, causing it to explode. Bond contacts the command center and tells them he is flying home with the nukes. In the South China sea, a British missile frigate, the HMS Devonshire, is on patrol and is being threatened by the Chinese air force. They are supposedly far off their course and in Chinese territorial waters, despite what their satellite position tells them. Nearby, an odd-looking boat, equipped with stealth technology, launches a sea drill into the water and punctures the hull of the British ship. It continues into the ship causing much damage and the ship sinks. The boat's commanding officer, Richard Stamper, contacts his boss, Eliot Carver, a British media mogul, to tell him the 1st part of the operation is complete. Carver approves and gives Stamper the go-ahead for the 2nd part: many of the sailors aboard escape and are swimming towards the stealth ship. Stamper proceeds to machine gun the survivors with special ammunition that would've been used by the Chinese. Back at his own command center, Carver is writing the headline for his international newspaper, Tomorrow, trying to decide if the words \"British Soldiers Murdered\" will generate the proper outrage. In London, Bond is called back to duty during a romantic tryst. He is ordered to investigate Carver's involvement in the Devonshire incident, his lead-in being a past relationship with Carver's wife Paris. Bond travels to Hamburg, Germany where Carver will hold a big unveiling of his new media center. At the airport, he meets Q who provides him with a cellular phone and his car, a BMW 750 that can be remotely driven by the phone. Bond attends Carver's gala party and reconnects with Paris Carver and meets a new woman, Wai Lin, who claims to be from the Chinese government's news organization. During the gala party, Bond is apprehended by a few of Carver's thugs who take him to a sound proof room to beat him senseless. He overpowers them and shuts down Carver's broadcast. He returns to his hotel room to find Paris Carver waiting for him. The two sleep together and she tells him a way to infiltrate Carver's Hamburg media headquarters. The next day, Bond breaks into the headquarters of Carver's media company and finds the office occupied by Henry Gupta, Carver's communications specialist and known techno-terrorist. In Gupta's safe, Bond finds a CIA decoder device, the same one Gupta took from the arms bazaar Bond infiltrated earlier. It is believed that the device may have been used by Gupta to guide the Devonshire off course. Bond takes the decoder and is leaving the building when he is discovered by the guards. While escaping the factory, Bond spots Lin leaving as well. Bond is able to leave the factory in his car, which he drives to the parking garage of his hotel. On the way, he gets a call from Carver, who has been tipped off about his wife's involvement with Bond thanks to Gupta enhancing surveillance footage, and the theft of the decoder. Bond activates the security system and goes to his room. There he finds Paris, dead on the bed. A videotape playing nearby shows a completed Carver broadcast saying Paris will be discovered murdered with an unidentified man, who will be found dead from a self-inflicted gunshot wound. An assassin, Dr. Kaufman, promptly appears and takes Bond hostage at gunpoint. He is going to shoot Bond and make it look like a murder-suicide. He is about to shoot Bond when he suddenly is informed over his earpiece by Stamper that the BMW's security system makes it impossible for Carver's men to get the decoder. Dr. Kaufman is told to torture Bond to find out how to get into the car. Bond hands over his cell phone and gives a code to punch in which will unlock the car. The phone sends a powerful electric shock into Dr. Kaufman and Bond turns the doctor's gun on the man and shoots him, completing the Carver media image of Paris' death. Bond returns to the parking garage and activates his car with his phone. He jumps into a rear window and pilots the car from the back seat. Carver's men have set up several traps for him but the car's defenses and weapons allow Bond to escape them. He pilots the car to the top level of the garage and allows it to drive off the edge and plummet to the street where it lands directly in the Avis Car Rentals office he got the car from. Bond reports to the South China Sea where he meets with American and British military officials and his CIA contact, Jack Wade. Bond shows the group how the decoder works and was used to change the location of the Devonshire. Now that they know were to find the sunken ship, Bond will explore it to prove that the ship was deliberately set off-course. Armed with a parachute and scuba gear, Bond must \"HALO\" jump into the wreck site, opening his chute a short distance above the water to avoid radar detection. The military officials discover that the site of the Devonshire is not actually in Chinese waters but those of Vietnam, making Bond's HALO jump more dangerous. Bond reaches the wreck and finds Wai Lin there already. The two discover that two of the Devonshire's guided missiles have been stolen. They surface before the ship sinks deeper into the sea and are promptly captured by Stamper on a Vietnamese fishing boat. They are taken to Carver HQ in Saigon, where they reveal they've been working together on the case for months. Carver orders Stamper to torture them both. Bond and Lin, though handcuffed together, start a gunfight and escape the building. They steal a motorcycle and are chased through the streets until cornered by Carver's helicopter. They grab a cable and are able to throw it into the tail rotor of the 'copter, which crashes. Shortly after, while cleaning up, Lin unfastens her handcuff and refastens it to a pipe and leaves Bond behind. He quickly frees himself and tails her to her hideout. She's attacked by several thugs but Bond intervenes and they beat them. They decide to search for Carver's stealth boat together and re-arm themselves. The two search several areas large enough for Carver to hide his stealth craft and get lucky on the last cove. The board the boat and plan to plant explosive charges to disrupt it's radar cover and make it visible to the British fleet. Lin is captured and Bond sneaks inside. Carver reveals his ultimate plan; he will launch one of the stolen British missiles into China, provoking a war. The new conflict will be covered by his media group and he will bid for exclusive rights to media coverage in China when his secret partner General Chang takes control of the Chinese government and miraculously ends the conflict. Bond is able to take Gupta hostage; Carver kills Gupta openly after the tech-expert tells his boss that the preparations are complete. However, a grenade planted by Bond with a small triggering device goes off, causing a huge explosion. The boat, now visible to radar, is attacked by the British navy. Carver orders Stamper to go ahead with the missile launch. With the boat disintegrating around them, Bond fights through several of Carver's henchmen and corners the villain. Bond activates the sea drill hanging nearby and forces Carver into its path, killing him. Stamper has chained Lin and dangles her over the indoor pool; when she passes Bond some detonation fuses to sabotage the missile, Stamper drops her in the water. Bond and Stamper fight briefly and Bond traps the thug's ankle under the missile. With Stamper holding him in front of the missile's engines, he hopes that Bond will burn and die with him. Bond is able to cut the straps on his pack and he plunges into the water just as the missile launches and the detonators destroy it and Stamper. Under water, he rescues Lin, breathing air into her lungs with a kiss. The two surface just as the stealth boat sinks. They are later picked up by the British Navy while sharing a romantic moment in a lifeboat.",
+      "writers": ["Bruce Feirstein"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0120347/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTM1MTk2ODQxNV5BMl5BanBnXkFtZTcwOTY5MDg0NA@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Pierce Brosnan, Jonathan Pryce, Michelle Yeoh | See full cast and crew »"],
+      "reviews": [
+         "One of the standard received ideas of film criticism is to say that sequels are almost never as good as the original film. (There are also a few standard exceptions to this rule, such as 'The Godfather Part 2' and the second and third parts of the 'Lord of the Rings' trilogy). Subject to these exceptions, however, there seems to be a law of diminishing returns to the effect that the more sequels a franchise spawns, the worse they become. The Bond films, however, seem to me to provide the most striking exception to this principle. The franchise started with 'Dr No' in the early sixties, and 'Tomorrow Never Dies' amounts to 'James Bond XVIII', or 'James Bond XIX' if one includes 'Never Say Never Again' in the total. Despite this, one can watch the latest offerings with as much pleasure as the original Sean Connery films from the sixties and seventies. The Bond films are highly formulaic. They typically start with an action sequence before the opening credits that has little or nothing to do with the film that is to follow. The main story will involve Bond thwarting a dastardly plot by some megalomaniac bent on world domination. It will always involve at least one extended chase sequence, and possibly two or more. The main character, apart from Bond and the villain, will always be a beautiful young woman who helps Bond in his quest and who will end up by falling for him. There will always be at least one other beautiful girl, either as a secondary heroine or as a villainess. The villain will always have a small army of henchmen ready to do battle on his behalf. The story will always end with a shoot-out, normally in the villain's headquarters, in which Bond manages to avert the threatened disaster at the last minute. 'Tomorrow Never Dies' contains all these formulaic elements. It is, nevertheless, in my view one of the better entries in the Bond canon, for a number of reasons beyond the fact that Pierce Brosnan is the best Bond since Connery. These can be summarised as follows:- 1. The Villain. Jonathan Pryce plays Elliott Carver, a newspaper and media tycoon intent on whipping up a war between Britain and China. The reason is to facilitate the accession to power of his ally, a renegade Chinese general who has promised to give his organisation exclusive broadcasting rights in China. Bond villains have always provided scope for some splendidly over-the-top displays of acting, going back to Lotte Lenya's Rosa Klebb and Gert Frobe's Goldfinger. Although Pryce's Carver is more restrained than some, it falls within this tradition. At first sight the silver-haired bespectacled Carver seems mild-mannered and soft spoken, but soon reveals the raving megalomania which is the hallmark of the Bond villain. Particularly noteworthy is the speech where Carver states his ambitions as being 'power' and 'world domination'. Although he puts a liberal, metaphorical interpretation on these two concepts, the audience is left in no doubt that he means what he says quite literally. There is also a good performance from Gotz Otto as Carver's brutal German henchman, Stamper. 2. The Girl. Admittedly, Teri Hatcher is rather wasted as the secondary Bond girl Paris Carver, Elliott's wife and a former girlfriend of Bond. Michelle Yeoh, however, is superb as the main female lead, the Chinese secret agent Wai Lin. (That's how it's spelled, although the pronunciation used in the film suggests that the name should actually be transliterated as Wei Lin). Apart from Michelle's striking looks, she is also an accomplished martial arts performer, and her skills are put to good use in this film. (Part of a trend of giving Bond girls a more active role, in contrast to the earlier films in the series where they were required to do little other than look decorative.) 3. The Chase Sequence. The main one, in which Bond and Wai Lin escape on a motorbike through the streets of Hanoi from the villains in a helicopter, is excellent. 4. The Opening Sequence. As usual, this has little to do with the main plot line. It does, however, fit in with a growing tendency in the Bond films, that of mocking or undermining the militaristic, macho values which the series was once accused of promoting. This film introduces a new comic character, the gung-ho, blustering Admiral Roebuck, a sort of naval equivalent of Colonel Blimp, who clashes with the more liberal 'M', the female chief of the British Secret Service. (I was interested to learn that the actors who play them, Geoffrey Palmer and Judi Dench, are husband and wife in real life). In the opening sequence, Bond narrowly prevents Roebuck's blundering attempt to bomb a gathering of international terrorists from setting off a nuclear explosion. The more active roles for female characters are also part of the trend towards a politically correct Bond, as is, perhaps, his remark that smoking is a 'filthy habit'. (The earlier films were often criticised for glamorising the habit by making Bond himself a smoker). As with all the Bond films, one can probably pull holes in the plot of 'Tomorrow Never Dies'. (The scene where Carver sinks a British warship by cutting a hole in the side with what looks like a giant chainsaw struck me as particularly implausible. What's wrong with a torpedo?) Nevertheless, the Bond films are not meant to be works of social realism and unlike, say, the novels of John Le Carre, have never purported to give an accurate picture of life in the British Secret Service. 'Tomorrow Never Dies' is a good example of what the Bond films have always been- superior escapist entertainment. 7/10",
+         "'Tomorrow Never Dies' is a superb Bond film, and if you're not looking for anything else, it provides some great entertainment. The story: Bond (Pierce Brosnan) has the save the world from a megalomaniac again, but this time, the threat is Elliot Carver (Jonathan Pryce, clearly having the time of his life), a worldwide media baron who wants to start a war in order to get higher ratings. All the Bond regulars are here: Q (Desmond Llewelyn), who gives Bond a new BMW complete with rocket launchers, machine guns, and a remote control (there's a fun chase sequence in a high-rise garage where Bond sits in the backseat and drives the car by remote); M (Judi Dench), still frosty and unamused with some of Bond's... questionable tactics; and Miss Moneypenny, who gets one of the best lines in the film. The Bond girl this time around is Wai Lin (Michelle Yeoh), a Chinese agent who has also been sent to find out what Carver's up to. Lin and Bond team up in the last part of the film, and their chemistry is impeccable. Lin also gets to kick some butt, which is always fun to see. Overall, if you're looking for some good IL' action and adventure, you can't go wrong with James Bond. 10/10",
+         "OK, this is what i call an action movie, a great one, it has everything you need to make your adrenaline flow. And of course it also does it for a Bond movie, it has funny lines, clichés, gadgets, and it deliver us a movie that is pure action and danger without losing the sense of humour (like all Bond movies). James Bond had always fought to the powerful, but this is the first time, i think, that he deals to a press magnate like Elliot Carver, who cares nothing about an informed world as he says, but to get all the power and money that he can. In WW2, the men who took advantage of the war were those who manufactured weapons, in the 90's, the medias gain as much money as them, so Elliot decides to begin a war to have the complete coverage of the deed, so our fellow agent 007 must stoop this crazy guy from beginning a war just for economic reasons.... So, we can say the plot is quite good and original as well, nobody can say no. And this movie was a great follow up to the blockbuster mega hit that was Goldeneye, Pierce Brosnan shining as the British agent, as he always did in his 007 period. Michelle Yeoh was great too, and she portrayed perfectly good the woman of the 90's: Independent, fighting side by side with men, even defeating them, smart, pretty, well the 90's woman...... The music by Sheryl Crow is lovely and sweet, and fits great into the atmosphere of the movie, something on what the producers of the Bond movies always lay stress on. A good Bond movie needs a good song, and a good car too, ja. \"The difference between craze and greatness is measured only by success\" \"There's no news, like bad news\" This is an example of Carver's \"philosophy\" of life, funny thing to hear, you realize he is a crazy that believes what he says.... So, if you are an action lover this movie is for you, and if you are a Bond lover this movie will like you too.",
+         "Q demonstrated how to drive the BMW by remote control by moving his finger around a pad inside a special mobile phone\u0085None of Bond's cars can compare for hi-tech gadgetry with the BMW 750 Sedan he drove on this film mission\u0085 \"Tomorrow Never Dies\" opens with H.M.S Devonshire on a routine patrol from the Philippines to Hong Kong when it was overflown by two Chinese MiGs, whose pilots claimed the ships had veered into Chinese territorial waters\u0085 While the captain and the pilots argued the point, the Devonshire shuddered from stern to stern\u0085 Something had holed her below the waterline and she was sinking quickly\u0085 Virtually undetectable by radar, the stealth ship (invisible to radar) was Elliot Carver's secret weapon in his plan to cause international conflicts\u0085 The schemes of Carver had brought Britain and China to the edge of war\u0085 And the British will think it's a Chinese aerial torpedo\u0085 Bond needed to find the wreck of H.M.S Devonshire and discover how and why it had sunk\u0085 However a problem remained: how to get to the wreck, and which lay between the Chinese and the British fleets, undetected by the Chinese radar? Carver's daring bid for communication supremacy involves nothing less than achieving World War III and offering subscribers a ringside seat\u0085 In his attempts to situate and stop Carver, Bond becomes implicated with his former lover Paris \u0096 now Carver's wife \u0096 and collaborates with resourceful Chinese agent Wai Lin\u0085 In \"Tomorrow Never Dies,\" Pierce Brosnan was seen more confident as Bond\u0085 The actors playing Bond's back-up \u0096 Judi Dench, Samantha Bond, Joe Don Baker and Desmond Llewellyn \u0096 all reprise their \"GoldenEye\" roles\u0085 Former Miss Malaysia Michelle Yeoh was awarded the role of Wai Lin\u0085 MI6 was not the only agency interested in Carver\u0085 The Chinese government sent one of its top security agents to uncover the secrets of his organization\u0085 After initial distrust, she and Bond form an almost telepathic understanding\u0085 A martial artist of considerable skills, she preferred to work alone \u0096 until she begins to trust 007\u0085 Carver's wife Paris was played by the great beauty, Teri Hatcher\u0085 \"I always wondered how I'd feel if I ever saw you again,\" said Bond\u0085 He soon had his answer \u0096 a stinging slap in the face... He had broken Paris' heart years before, and she had consoled herself by marrying a jealous husband\u0085 Yet she still carries an ex-flame for 007\u0085 Paris, like Jill Masterson (Shirley Eaton) in \"Goldfinger,\" has only few minutes on-screen in the film\u0085 Jonathan Pryce plays the villain, 'the emperor of the air,' Elliot Carver who was prepared to go to any length to increase the power of his media empire\u0085 Ricky Jay plays Henry Gupta the eccentric quietly spoken man to Carver's plans\u0085 He's the most dangerous of the magnate's followers\u0085 Götz Otto plays Stamper, the loyal psychopath henchman who follows Carver's orders murdering a group of shipwrecked British sailors\u0085 Vincent Schiavelli plays the menacing Dr. Kaufman, a professional hit-man, and a priest of pain\u0085 The 18th Bond movie has it all: Too much action (including an exciting chase through the streets of Saigon on a stylish BMW R1200); an effective girl; and a super car\u0085",
+         "\"Tomorrow Never Dies\" is the 18th James Bond film, with Pierce Brosnan back as 007. This is a very good follow-up to Brosnan's first Bond movie \"Goldeneye\". \"Tomorrow Never Dies\" had the unfortunate task of opening on the exact same day as \"Titanic\" (December 19, 1997). Even though \"Titanic\" went on to break box office records, \"Tomorrow Never Dies\" was not left in the dust. It surpassed \"Goldeneye\" domestically with a box office gross of $125 million (\"Goldeneye\" grossed $106 million). There are two major assets that make \"Tomorrow Never Dies\" really work, a great Bond villain and a great Bond woman. Jonathan Pryce is a major standout as Elliot Carver, the megalomaniacal media magnate Bond faces off against. The other standout: Michelle Yeoh as Wai Lin, Bond's female sidekick who makes a fine companion for Bond. Brosnan is fine as 007 as he was in \"Goldeneye\", and also returning for the second time are Joe Don Baker as CIA agent Jack Wade, Judi Dench as \"M\", Samantha Bond as \"Miss Moneypenny\", and Desmond Llewelyn as \"Q\". As for the other familiar face in the cast, Teri Hatcher from TV's \"Lois & Clark\" is just adequate as Elliot Carver's wife Paris. \"Tomorrow Never Dies\" is just as good as \"Goldeneye\" ***1/2 (out of four)",
+         "Elloit Carver (Jonathan Pryce) is a megalomaniac and selfish media baron. Carver has the power to reach every person on the planet through his Carver Media Group Network- except for the People's Republic of Chinese who refuse his presence in their nation . The mogul is tied to the disappearance of a British battleship in the South China Sea . James Bond (Pierce Brosnan) heads to stop the media mogul's plan to induce war between China and the UK in order to obtain exclusive global media coverage and whose tentacles reach around the world . Carver, whose spouse (Teri Hatcher) was a former flame of 007 , is supported by a computer genius (Ricky Jay) and a nasty hunk man (Gotz Otto) . Along the way Bond join forces with a Chinese secret agent (Michelle Yeoh) , expert on martial arts . In addition , there appears the usuals , such as M (Judi Dench), Q (Desmond Llewelin) , Lois Maxwell, ¨MoneyPenny¨ (Samantha Bond) , Minister of Defense (Julian Fellowes) and Jake Wade (Joe Don Baker) . But not counting the regular characters of Bond, Q, M and Moneypenny, this is the first Bond movie to contain absolutely no Ian Fleming references . Likable Pierce Brosnan in an amazing adventure set on wonderful outdoors located mostly on Vietnam , being actually shot in Thailand . The original title of the film was \"Tomorrow Never Lies\", which makes sense when you consider media mogul Elliot Carver was creating the next day's headlines in advance, then causing those events to happen , but a typo on an early script draft was adopted by the producers, and ¨Tomorrow never dies¨ was used instead . This is a Bond's good outing in which faces dangerous adventures around the globe . Brosnan's outing with overwhelming action and spectacular scenarios , the film teams Bond with Michelle Yeoh as endearing ally in an effort to stop a technological communication mogul . After his first introduction in ¨Golden eye¨ as tough and attractive James Bond of the Ian Fleming's famous creation , Pierce Brosnan went on playing various 007 , as ¨Die Another Day ¨ and this ¨Tomorrow never dies¨ . The picture starts with an overblown opening and following other impressive action set pieces . This solid , slick thriller with magic mix of action-packed , dazzling stunts, gadgetry, and romance provided by sexy company as Teri Hatcher and Michelle Yeoh . Pierce Brosnan as James Bond is fine , he does remarkably well , he earns in irony, humor ,suavity and sympathy, however also has coldness ,cunning , intelligence and toughness . Here Bond is an efficient , relentless agent trying to chase obstinately the criminals , traveling around the world as always , as this globe-trotting story is set in Pucket, Bangkok, Thailand (Saigon, Vietnam) , Hamburg , London and many other places . Because the second half of the film is set in Vietnam, the production negotiated for some time for permission to film there ; although it appeared close, the Vietnamese Ministry of Culture and Information eventually refused to allow it , the production decided to use Thailand as Vietnam, with Bangkok substituting for Saigon . Bond to achieve his aims , along the way uses violent means even pulling off brutal killings against enemies who wreak all sorts of havoc . As always Bond will use fantastic gadgets and spectacular cars (here 15 BMW 750's were destroyed in the making of the film) provided by ¨Q¨ (Desmond Llewelyn) . The stealth ship is not a fictional invention , Lockheed secretly constructed and demonstrated one in the early 1980s, but the US Navy finally decided they didn't want any ; the prototype, called the Sea Shadow, was 160 feet long . The picture contains comic-strip adventure , sensational pursuits , silly set pieces , great stunts , tongue-in check humor, automovile chase, frantic unstopped action , a breathtaking tour around the world , amazing gimmicks and stimulating images like are the happenings on the spectacular pursuits on the motorcycle and helicopter . As is like a roller-coaster , as is fast-paced , light , excitement, funny and entertaining ; it's a winner for oo7 fans and non-fans alike . The chase and suspense formula wears strong in this entry . The film made particularly heavy use of gadgetry because some fans thought there was too little of it in GoldenEye . Enjoyable title song by Sheryl Crow and stirring musical score fitting to action by David Arnold , following the John Barry's classic style . Riveting and fancy main titles , furthermore eye-popping production design by Allan Cameron . It's brimming with colorful and fascinating cinematography by cameraman Robert Elswit . The motion picture produced by habitual producers, Barbara Broccoli and Michael G. Wilson and dedicated to the memory of long-time Bond-film producer Albert R. Broccoli ; being professionally made by Robert Spottiswoode who filmed other successes such as ¨the 6th day¨, ¨Turner and Hooch¨, ¨Air America¨ , Shoot to kill¨and Under fire¨ . Robert keeps this moving at an incredibly fast pace and this story about every's favorite super-spy facing off dangerous mogul . The film will appeal to James Bond series's buffs but good for fans only ; because this one goes on far too long and has provoked so much debate among 007 followers . Rating : 6'5 , well worth watching .",
+         "For some reason, Bond loyalists and sometimes Bond fans didn't rate this installment. However, I believe it was one of the best Bond's ever made. The villain (Pryce) was terrific, even though the nature of his character was a bit overdone. The women were both stunning and were not denied some character development of their own (as is the case in many other Bonds). The gadgets delivered by Q and the gadgets in Lin's secret office in China were extremely impressive - including that magnificent 7-series BMW. But probably the stand out aspect of this Bond, above all others, were the terrific comedy and double entendre. After all, this was the film that gave rise to the now often used \"cunning linguist.\" But there were many others that were absolutely hilarious - including \"I'm brushing up on a little Danish\", \"I've always been a fan of Chinese technology\" and Bond returning his car to Avis. That said, the film did not get bogged down in the comedy. Furthermore, it didn't get bogged down in boring, drawn-out plot divergences that other Bonds (especially the older ones) tend to do. It was thrilling and engaging from start to finish and avoid the boring periods that crop up in other bond films. Brosnan is terrific and this was certainly his best effort. I regard this is one of the best Bond's of all time.",
+         "Tomorrow Never Dies is almost everything we expect from a James Bond film. It has little more than that, but that's fine. It's certainly a fun and well-made film and definitely worth two hours of your life. The movie contains the standard Bond film formula. A megalomaniac wants to take over the world, Bond is sent to stop him, he seduces some women and kills some men on the way, causes thousands of dollars worth of damage, confronts the villain and foils his plot (and life), and gets the girl. The film doesn't really do anything new with the formula, but it executes it well. Pierce Brosnan goes on his second outing as Bond, and he's quickly become comfortable with the role, becoming one of the best Bonds ever. He has the suaveness and toughness of Sean Connery, the comedic timing and charm of Roger Moore, the coldness and brutality of Timothy Dalton, and he adds his own touch of gentleness and humanity to the role. He's very entertaining and even actually kind of sympathetic, and when he's on screen, he simply is James Bond. He's able to take on any challenge and survive any action sequence. As an action piece, Tomorrow Never Dies is fantastic. There are some fantastic and inventive action sequences. The stuntwork is wonderful, and the usual great Bond car chases are present. A scene that sticks out strongly is a chase in a multiple-story garage, with Bond driving his car via remote control in the back seat, as henchmen fire their pistols and bazookas at him, and he uses the car's dozens of hidden gadgets against them, such as spiked balls to take out the tires of other cars, and the hidden guns at the front of his own car. The film doesn't do much new with the Bond formula, but it does it well. It has an original idea for a villain, him being a media mogul, but not much is done with this concept, although actor Jonathan Pryce revels in being a megalomaniac. Tomorrow Never Dies is a fun movie, offering little new, but as long as it's fun, that's OK, isn't it?",
+         "By far, my favorite of Brosnan along with \"Goldeneye\". Might not be one of the best Bond movies but it's certainly one of the most memorable. But truth be told: its effectiveness now is a little ruined to the massive appeal of the award winning \"Skyfall\", which at the same time reinvented Bond yet brought back some of its most appreciable qualities - this merge was inexistent in \"Casino Royale\" and \"Quantum of Solace\", both are just new reboots with a theme song to show that it's faithful to its roots. Mr. Brosnan at the top of his game, so smooth, active and funny, returns as Bond with plenty of style in one of Bond's most down to earth missions: to stop a possible conflict between England and China about to emerge from the dephts of a creative and destructive mind, the egocentric Elliot Carver (the priceless Jonathan Pryce), a media mogul à la Citizen Kane/Rupert Murdoch with his own declaration of principals which is to provide the news before they happen. The big scoop is to broadcast (and cause!) the WWIII. 007 is helped by a Chinese agent, the handy Colonel Wai-Lin (Michelle Yeoh) who is more advanced in her spy/fight techniques; and the other Bond girl is a former affair of his, now married with Elliot, a femme fatale played by Teri Hatcher. And this wouldn't be a complete Bond movie without the gadgets carefully supplied by Q (Desmond Llewelyn); here, a fully equipped BMW car that can be guided with the cellphone which also has its deadly functions. It's quite obvious the merchant made by the already mention company - they also brought a fancy motorcycle used in one of the most thrilling sequences when James and Wai-Lin escape from Carver's henchmen and that includes the couple's fly over a helicopter. \"Tomorrow Never Dies\" is great because it doesn't commit any kind of excesses, the plot is very simple to follow (this can be viewed as a problem to some, specially those who are more accustomed with complex plots, Bourne style) and never absurd; all the action and adventure are not overplayed, prolonged or tiring, it's all in a good measure and it's very exciting. I dare say those sequences were quite inspired. High point: the building escape using Carver's poster as a way out; the incredible car chase; Wai-Lin effortless escape tactics against the dangerous ones faced by 007, who feel a little annoyed with her. Their pairing is one of the best in the series, but the great and fun spectacle is the buffoon Carver and his memorable lines and actions (his mimics of Wai-Lin fighting style kills me every time). Obviously, he cannot put up a fight against the secret agent, but he has the loyal and muscular Stamper (Götz Otto), a frightening guy who likes to torture his victims, and that's his only form of pleasure. For me, the only downer of this movie was the theme song, that hurts the ears, completely oversung. Anyway, it's a fun entertainment, filled with adrenaline and we can't forget the marvelous cast (one of the finest in the series) with Judi Dench (M), Samantha Bond (Moneypenny), Geoffrey Palmer, Vincent Schiavelli, Ricky Jay, Joe Don Baker and Gerard Butler (but you get an award if you find him in the middle of all the action). 10/10",
+         "I never really thought much of Tomorrow Never Dies the first time I watched it. At the time I had just seen GoldenEye the first Pierce Brosnan entry and the seventeenth bond film in total and I was totally blown away by it (and many repeat viewings followed). I had also fallen in love with the Nintendo 64 video game GoldenEye 007 and so when I got around to watching Tomorrow Never Dies I was quite disappointed. GoldenEye was the first Bond film I had ever seen and so I wasn't familiar with the on-going formula throughout the series. Where was Natalya? Where was Valentine? And where was Boris? (surely he survived being frozen?) ... I was a such a naive little kid. Needless to say I missed the characters from GoldenEye that didn't return and the story didn't engage me as much as GoldenEye's. I'm pretty sure I tuned out halfway through the film and went back to playing the Nintendo 64 video game. Many years later I picked up all the James Bond films on DVD and now a more mature individual I understood the Bond formula as I began to watch and discover the many other Bond films I hadn't seen. It was clearly time to re-evaluate Tomorrow Never Dies and not judging it as some direct sequel to GoldenEye which it is not (none of these films are after all). The story centers around ego-maniacal media baron Elliot Carver. Carver harnesses the power to reach every living person across the globe through his media group network - all except for the People's Republic of China who refuse to accept his presence in their country. Carver becomes tied to the disappearance of a British frigate in the South China Sea and James Bond is given 48 hours to investigate. Wai Lin a member of the People's External Security Force of China is also dispatched to investigate the growing crisis. With and without Wai Lin's help, Bond slowly uncovers a plot that goes all the way back to a mission on the Russian-Kazakh Border, and will ignite a war only to feed the fire that is Elliot Carver's ego. The story isn't as strong as GoldenEye which features themes of betrayal, revenge and post-cold war tensions and it's not the first Bond film to feature the familiar plot line of starting World War III (Thunderball and You Only Live Twice are prime examples). The script is weak and apparently went through many re-writes (script pages were supposedly being delivered to the set daily!) but it moves at a smooth enough pace that it doesn't detract from the film entirely. The filmmakers did a pretty darn good job of masking up the relative weakness of the script with some of the best action seen in the entire series. This is where the film most succeeds and where it is most entertaining. The film opens with a wonderful action sequence where Bond infiltrates a terrorist arms bazaar and hijacks a L-39 jet armed with Soviet nuclear torpedoes. Other highlights include a terrific car chase sequence in a parking-garage with possibly Bond's best-ever gadget-filled car; a shootout in a press-printing factory, a thrilling motorcycle chase through Saigon involving a helicopter, and the explosive finale aboard Carver's stealth ship should leave the viewer breathless. The film is directed by Roger Spottiswoode a director I am not familiar with nor have I seen any of his other work, however he does a pretty fine job here striking a balance between action, drama and classic comic 'Bond' moments. My favorite scene in the film (and one of mine in the entire series) is between Bond and an assassin named Dr. Kaufman in which Bond finds himself cornered into a trap in his hotel room, Spottiswoode does a wonderful job of showcasing the tension in this scene and we get to see the cold-blooded killer side of Bond which is not shown all too often throughout the series which is a shame given that is exactly what he is. Cast as Elliot Carver is Jonathan Pryce who plays him as the classic Bond-villain archetype - an over-the-top diabolical villain with world-dominating intentions. But he does a damn good job playing it that way and injects much color, humor and cunning into his performance and while not physically intimidating he is still stands as one of Bond's most dangerous enemies because of the power he holds. Michelle Yeoh plays Wai Lin but unfortunately the character doesn't come across as very interesting but she shares great chemistry with Brosnan and performs some wonderful martial arts skills. Teri Hatcher is mostly watchable as Carver's doomed wife Paris, I felt the character was wasted potential and should have been the main bond girl. Ricky Jay is also mostly wasted as the terrorist Henry Gupta; however Vincent Schiavelli shines in his cameo performance as Dr. Kaufman; Gotz Otto sleepwalks through his role as Carver's henchman Stamper (a villain crafted from the mold of Red Grant and Necros). Joe Don Baker, Judi Dench, Samantha Bond and Desmond Llewelyn reprise their GoldenEye roles. Overall Tomorrow Never Dies is a fun, thrilling, always entertaining, but if not a little by-the-numbers Bond flick. While it would have benefited from a stronger script I definitely feel overall that it is one of the stronger entries in the series and I always find myself going back to watch it simply because it achieves what it sets out to do and better than most Bond films: Explosive action, exotic locales, beautiful women and a menacing villain."
+      ],
+      "genres": [
+         "Action",
+         "Adventure",
+         "Crime",
+         "Sci-Fi",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "Danjaq",
+         "Eon Productions",
+         "Metro-Goldwyn-Mayer (MGM)"
+      ],
+      "summaries": [
+         "Agent James Bond 007 is on a mission which includes a media tycoon, his former lover and a Chinese agent. Elliot Carver wants to complete his global media empire, but in order for this to work, he must achieve broadcasting rights in China. Carver wants to start up World War III by starting a confrontation over British and Chinese waters. Bond gains the help of Wai Lin on his quest to stop him, but how will Bond feel when he meets up with his former lover, who is now Carver's wife.",
+         "Elloit Carver is an egotistical media baron. Carver has the power to reach every person on the planet through his Carver Media Group Network- except for the People's Republic of Chinese who refuse his presence in their country. When he is tied to the disappearance of a British battleship in the South China Sea, James Bond is sent to investigate. It is in Hong Kong where Bond meets Wai Lin, a member of the People's External Security Force of China. With and without Wai Lin's help, Bond soon starts to uncover a plot that goes all the way back to a mission on the Russian-Kazakh Boarder, and will start a war only to feed the fire that is Carver's ego.",
+         "Megalomaniac media mogul Elliot Carver only needs broadcasting rights in China to complete his global communications empire. The Chinese, however, are proving stubborn, so he hatches a diabolical plan to thwart the Chinese by the simple means of starting a war between them and the British. When a British warship is sunk in Chinese waters and its deadly payload stolen, James Bond embarks on a dangerous mission against the clock to discover the truth. The Chinese also want to know what is happening and dispatch their own agent, Wai Lin, who proves to be a match for James Bond!",
+         "Eliot Carver, a rich press baron, attempts to start World War III by convincing the British and the Chinese that they are making hostile advances towards each other. M orders Bond to use his previous relationship with Carver's wife as a way of infiltrating his international organization, but Carver soon realises Bond's intent. However, with the help of a female Chinese Army agent, Bond gets closer and closer - but will he get close enough to stop Carver from directing a UK missile at Beijing?",
+         "Agent 007, the unstoppable action hero must prevent a tremendous disaster ripped from tomorrow's headlines. Someone is pitting the world's superpowers against each other - and only James Bond can stop it. When a British warship is mysteriously destroyed in Chinese waters, the world teeters on the brink of World War III - until 007 zeros in on the true criminal mastermind. Bond's do-or-die mission takes him to Elliot Carver, a powerful media mogul who manipulates world events as easily as he changes headlines from his global media empire. After soliciting help from Carver's sexy wife, Paris, Bond join forces with a stunning yet lethal Chinese agent, Wai Lin, in a series of explosive chases, brutal confrontations and breathtaking escapes as they race to stop the presses on Carver's next planned news story: global pandemonium!",
+         "James Bond heads to stop a media mogul's plan to induce war between China and the UK in order to obtain exclusive global media coverage."
+      ],
+      "budget": 110000000
+   },
+   "movielensId": 1722,
+   "movielens": {
+      "languages": [
+         "Deutsch",
+         "English",
+         "Dansk",
+         "普通话",
+         "广州话 / 廣州話"
+      ],
+      "releaseDate": "1997-12-11",
+      "dvdReleaseDate": "2002-10-22",
+      "directors": ["Roger Spottiswoode"],
+      "runtime": 119,
+      "movieId": 1722,
+      "title": "Tomorrow Never Dies",
+      "mpaa": "PG-13",
+      "actors": [
+         "Pierce Brosnan",
+         "Jonathan Pryce",
+         "Michelle Yeoh",
+         "Teri Hatcher",
+         "Ricky Jay",
+         "Götz Otto",
+         "Joe Don Baker",
+         "Vincent Schiavelli",
+         "Judi Dench",
+         "Desmond Llewelyn",
+         "Samantha Bond",
+         "Colin Salmon",
+         "Geoffrey Palmer",
+         "Julian Fellowes",
+         "Terence Rigby",
+         "Nina Young",
+         "Daphne Deckers",
+         "Colin Stinton",
+         "Al Matthews",
+         "Cecilie Thomsen",
+         "Mark Spalding",
+         "Bruce Alexander",
+         "Anthony Green",
+         "Christopher Bowen",
+         "Andrew Hawkins",
+         "Dominic Shaun",
+         "Julian Rhind-Tutt",
+         "Gerard Butler",
+         "Michael Byrne",
+         "Pip Torrens",
+         "Hugh Bonneville",
+         "Jason Watkins",
+         "Brendan Coyle",
+         "Nadia Cameron-Blakey"
+      ],
+      "imdbMovieId": "0120347",
+      "originalTitle": "Tomorrow Never Dies",
+      "genres": [
+         "Adventure",
+         "Action",
+         "Thriller"
+      ],
+      "youtubeTrailerIds": ["gYtz5sw98Bc"],
+      "plotSummary": "A deranged media mogul is staging international incidents to pit the world's superpowers against each other. Now 007 must take on this evil mastermind in an adrenaline-charged battle to end his reign of terror and prevent global pandemonium.",
+      "tmdbMovieId": 714,
+      "avgRating": 3.22775,
+      "releaseYear": "1997",
+      "numRatings": 14788,
+      "posterPath": "/k3eI9q7ISgpDEu2CMwR2s6inJVp.jpg"
+   }
+}

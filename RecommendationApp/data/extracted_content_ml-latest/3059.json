@@ -1,0 +1,634 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "london england",
+            "id": 212
+         },
+         {
+            "name": "german spy",
+            "id": 205971
+         }
+      ],
+      "imdb_id": "tt0032283",
+      "video": false,
+      "title": "British Intelligence",
+      "recommendations": [
+         59566,
+         59589,
+         35911,
+         84719,
+         43033,
+         99545,
+         56147,
+         84710,
+         80720,
+         59581,
+         39311,
+         26924,
+         59703,
+         35919,
+         98092,
+         59701,
+         30345,
+         31240,
+         36456,
+         59657
+      ],
+      "backdrop_path": "/e8NTxh58lNIu51pj9JPnX7PZTrH.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "Valdar",
+               "gender": 2,
+               "credit_id": "52fe4804c3a36847f8154313",
+               "name": "Boris Karloff",
+               "profile_path": "/3kY1eEgGFAoVyy8MjNolCS5wouj.jpg",
+               "id": 2922,
+               "order": 0
+            },
+            {
+               "cast_id": 3,
+               "character": "Helene von Lorbeer",
+               "gender": 1,
+               "credit_id": "52fe4804c3a36847f8154317",
+               "name": "Margaret Lindsay",
+               "profile_path": "/2lDJFueklrAQBc7gg13NyVAy8HL.jpg",
+               "id": 20365,
+               "order": 1
+            },
+            {
+               "cast_id": 4,
+               "character": "Frank Bennett",
+               "gender": 2,
+               "credit_id": "52fe4804c3a36847f815431b",
+               "name": "Bruce Lester",
+               "profile_path": "/emaaqMHeWnBoOYCCblKqWhIGwhj.jpg",
+               "id": 82384,
+               "order": 2
+            },
+            {
+               "cast_id": 5,
+               "character": "James Yeats",
+               "gender": 2,
+               "credit_id": "52fe4804c3a36847f815431f",
+               "name": "Leonard Mudie",
+               "profile_path": "/4CxqJ3QP34J48L71lGXmR0H7ccW.jpg",
+               "id": 101742,
+               "order": 3
+            },
+            {
+               "cast_id": 6,
+               "character": "Arthur Bennett",
+               "gender": 2,
+               "credit_id": "52fe4804c3a36847f8154323",
+               "name": "Holmes Herbert",
+               "profile_path": "/r1c9i5E0gqgMxR0DSdSuY6j5hmE.jpg",
+               "id": 29600,
+               "order": 4
+            },
+            {
+               "cast_id": 7,
+               "character": "George Bennett",
+               "gender": 2,
+               "credit_id": "52fe4804c3a36847f8154327",
+               "name": "Austin Fairman",
+               "profile_path": null,
+               "id": 950122,
+               "order": 5
+            },
+            {
+               "cast_id": 8,
+               "character": "British Intelligence Agent",
+               "gender": 2,
+               "credit_id": "567a74d5c3a3685bd2001cf3",
+               "name": "William Bailey",
+               "profile_path": null,
+               "id": 120472,
+               "order": 6
+            },
+            {
+               "cast_id": 9,
+               "character": "Miss Risdon - Bennett's Secretary",
+               "gender": 0,
+               "credit_id": "567a74e5c3a3685bc3001daa",
+               "name": "Louise Brien",
+               "profile_path": null,
+               "id": 1420994,
+               "order": 7
+            },
+            {
+               "cast_id": 10,
+               "character": "Under Officer Pfalz",
+               "gender": 2,
+               "credit_id": "567a74fbc3a3685bbf001eca",
+               "name": "Glen Cavender",
+               "profile_path": "/z1B6ZXQObMu2m8D4zcrTGVmHTch.jpg",
+               "id": 14419,
+               "order": 8
+            },
+            {
+               "cast_id": 11,
+               "character": "Capt. Lanark",
+               "gender": 0,
+               "credit_id": "567a750ec3a3685bd2001d02",
+               "name": "David Cavendish",
+               "profile_path": null,
+               "id": 134872,
+               "order": 9
+            },
+            {
+               "cast_id": 12,
+               "character": "German Officer",
+               "gender": 0,
+               "credit_id": "567a752fc3a3685bb9001cd1",
+               "name": "Joe De Stefani",
+               "profile_path": null,
+               "id": 96720,
+               "order": 10
+            },
+            {
+               "cast_id": 13,
+               "character": "Von Ritter",
+               "gender": 0,
+               "credit_id": "567a753e92514106f5001c91",
+               "name": "Carlos De Valdez",
+               "profile_path": null,
+               "id": 1072771,
+               "order": 11
+            },
+            {
+               "cast_id": 14,
+               "character": "Milkman",
+               "gender": 2,
+               "credit_id": "567a755092514106e8001cdd",
+               "name": "Clarence Derwent",
+               "profile_path": null,
+               "id": 1038474,
+               "order": 12
+            },
+            {
+               "cast_id": 15,
+               "character": "German Junior Officer",
+               "gender": 2,
+               "credit_id": "567a756392514106f1001d05",
+               "name": "Arno Frey",
+               "profile_path": null,
+               "id": 88464,
+               "order": 13
+            },
+            {
+               "cast_id": 16,
+               "character": "Otto Kurtz",
+               "gender": 0,
+               "credit_id": "567a75d8c3a3685bd2001d32",
+               "name": "Frederick Giermann",
+               "profile_path": null,
+               "id": 112356,
+               "order": 14
+            },
+            {
+               "cast_id": 17,
+               "character": "Brigadier General",
+               "gender": 2,
+               "credit_id": "567a75e992514106fc001ccb",
+               "name": "Lawrence Grant",
+               "profile_path": "/vdyBF6rov0AszuggwHNPDj62jiO.jpg",
+               "id": 13343,
+               "order": 15
+            },
+            {
+               "cast_id": 18,
+               "character": "German Soldier",
+               "gender": 2,
+               "credit_id": "567a75fac3a3685bc3001ddd",
+               "name": "Carl Harbaugh",
+               "profile_path": null,
+               "id": 141064,
+               "order": 16
+            },
+            {
+               "cast_id": 19,
+               "character": "Cabinet Minister",
+               "gender": 2,
+               "credit_id": "567a760d92514106e5001db3",
+               "name": "Sam Harris",
+               "profile_path": null,
+               "id": 1216356,
+               "order": 17
+            },
+            {
+               "cast_id": 20,
+               "character": "Mrs. Maude Bennett",
+               "gender": 1,
+               "credit_id": "567a761dc3a3685bdf001e0d",
+               "name": "Winifred Harris",
+               "profile_path": null,
+               "id": 977271,
+               "order": 18
+            },
+            {
+               "cast_id": 21,
+               "character": "Lord Sudbury",
+               "gender": 0,
+               "credit_id": "567a762c92514106fc001cd7",
+               "name": "Leyland Hodgson",
+               "profile_path": null,
+               "id": 30136,
+               "order": 19
+            },
+            {
+               "cast_id": 22,
+               "character": "Luchow - German Soldier",
+               "gender": 2,
+               "credit_id": "567a763c92514106eb001cdd",
+               "name": "Stuart Holmes",
+               "profile_path": "/8wfcyeItQHQ49uGxOkzAiUjB0oJ.jpg",
+               "id": 119542,
+               "order": 20
+            },
+            {
+               "cast_id": 23,
+               "character": "German Corporal",
+               "gender": 0,
+               "credit_id": "567a765192514106e8001d1a",
+               "name": "Willy Kaufman",
+               "profile_path": null,
+               "id": 178954,
+               "order": 21
+            },
+            {
+               "cast_id": 24,
+               "character": "Cmdr. Phelps",
+               "gender": 2,
+               "credit_id": "567a766092514106f5001cd3",
+               "name": "Crauford Kent",
+               "profile_path": null,
+               "id": 940628,
+               "order": 22
+            },
+            {
+               "cast_id": 25,
+               "character": "Lt. Borden",
+               "gender": 2,
+               "credit_id": "567a767392514106eb001ce2",
+               "name": "Morton Lowry",
+               "profile_path": "/f4wKgLykBxTSRfeBC8yABjl2al6.jpg",
+               "id": 113759,
+               "order": 23
+            },
+            {
+               "cast_id": 26,
+               "character": "Henry Thompson",
+               "gender": 2,
+               "credit_id": "567a768692514106f1001d36",
+               "name": "Lester Matthews",
+               "profile_path": "/tCUjqHsBSFO4g7NnbdWlX1tTy7g.jpg",
+               "id": 82488,
+               "order": 24
+            },
+            {
+               "cast_id": 27,
+               "character": "Brixton - Intelligence Agent",
+               "gender": 2,
+               "credit_id": "567a7697c3a3685bb6001a46",
+               "name": "Frank Mayo",
+               "profile_path": "/3eNNCBwqvJtS1aTqy77mxtIZ3y4.jpg",
+               "id": 133277,
+               "order": 25
+            },
+            {
+               "cast_id": 28,
+               "character": "Peasant",
+               "gender": 2,
+               "credit_id": "567a76a692514106e8001d29",
+               "name": "Paul Panzer",
+               "profile_path": null,
+               "id": 931793,
+               "order": 26
+            },
+            {
+               "cast_id": 29,
+               "character": "Cockney Soldier",
+               "gender": 0,
+               "credit_id": "567a76b992514106e5001dd0",
+               "name": "John J. Richardson",
+               "profile_path": null,
+               "id": 119548,
+               "order": 27
+            },
+            {
+               "cast_id": 30,
+               "character": "German Officer",
+               "gender": 2,
+               "credit_id": "567a76c9c3a3685bbc001f2c",
+               "name": "Ferdinand Schumann-Heink",
+               "profile_path": null,
+               "id": 1346977,
+               "order": 28
+            },
+            {
+               "cast_id": 31,
+               "character": "German Senior Officer",
+               "gender": 2,
+               "credit_id": "567a76d8c3a3685bc3001e08",
+               "name": "Hans Schumm",
+               "profile_path": "/vRsZ09XKwcUABCjA8SGWUK2yqDQ.jpg",
+               "id": 133353,
+               "order": 29
+            },
+            {
+               "cast_id": 32,
+               "character": "Crichton - Intelligence Agent",
+               "gender": 0,
+               "credit_id": "567a76eec3a3685bbf001f38",
+               "name": "John Graham Spacey",
+               "profile_path": null,
+               "id": 1193858,
+               "order": 30
+            },
+            {
+               "cast_id": 33,
+               "character": "Cockney Soldier",
+               "gender": 0,
+               "credit_id": "567a775092514106fc001d0c",
+               "name": "Robert R. Stephenson",
+               "profile_path": null,
+               "id": 544817,
+               "order": 31
+            },
+            {
+               "cast_id": 34,
+               "character": "Maj. Andrews",
+               "gender": 2,
+               "credit_id": "567a776dc3a3685bc3001e23",
+               "name": "Evan Thomas",
+               "profile_path": null,
+               "id": 117695,
+               "order": 32
+            },
+            {
+               "cast_id": 35,
+               "character": "Agent Reporting Strengler's Identity",
+               "gender": 2,
+               "credit_id": "567a778792514106e8001d54",
+               "name": "David Thursby",
+               "profile_path": "/t3tTg25pjjzz0mQ0SuwKVMyGxOW.jpg",
+               "id": 132701,
+               "order": 33
+            },
+            {
+               "cast_id": 36,
+               "character": "Baron Kuglar",
+               "gender": 2,
+               "credit_id": "567a779792514106eb001d16",
+               "name": "Frederick Vogeding",
+               "profile_path": null,
+               "id": 103951,
+               "order": 34
+            },
+            {
+               "cast_id": 37,
+               "character": "Capt. Stuart",
+               "gender": 2,
+               "credit_id": "567a77a692514106f5001d0d",
+               "name": "Leonard Willey",
+               "profile_path": null,
+               "id": 125844,
+               "order": 35
+            },
+            {
+               "cast_id": 38,
+               "character": "Dorothy Bennett",
+               "gender": 1,
+               "credit_id": "567a77b9c3a3685bdf001e4f",
+               "name": "Maris Wrixon",
+               "profile_path": "/sTe7hFdUT5jDND6XsRfaEV6c4Hh.jpg",
+               "id": 117636,
+               "order": 36
+            },
+            {
+               "cast_id": 39,
+               "character": "German",
+               "gender": 0,
+               "credit_id": "567a77ca92514106f5001d13",
+               "name": "Henry Zynda",
+               "profile_path": null,
+               "id": 1289622,
+               "order": 37
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "52fe4804c3a36847f815430f",
+               "name": "Terry O. Morse",
+               "profile_path": null,
+               "id": 29321,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56a23cecc3a36858c801241b",
+               "name": "Lee Katz",
+               "profile_path": null,
+               "id": 8720,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56a23cf8c3a36858cb0112a6",
+               "name": "Anthony Paul Kelly",
+               "profile_path": null,
+               "id": 1368683,
+               "department": "Writing",
+               "job": "Theatre Play"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Adventure",
+            "id": 12
+         }
+      ],
+      "popularity": 1.209169,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 51787,
+      "vote_count": 8,
+      "budget": 0,
+      "overview": "During WWI pretty German master spy Helene von Lorbeer is sent undercover to London to live with the family of a high-placed British official where she is to rendezvous with the butler Valdar, also a spy, and help him transmit secret war plans back to Germany.",
+      "similar": [
+         646,
+         667,
+         657,
+         708,
+         253,
+         668,
+         682,
+         699,
+         691,
+         954,
+         707,
+         714,
+         146216,
+         658,
+         710,
+         297761,
+         177677,
+         379149,
+         267935,
+         634
+      ],
+      "original_title": "British Intelligence",
+      "runtime": 61,
+      "poster_path": "/hGHgBpgaLvtAb2xHIhrrzlBajJv.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Français",
+            "iso_639_1": "fr"
+         },
+         {
+            "name": "Deutsch",
+            "iso_639_1": "de"
+         }
+      ],
+      "production_companies": [{
+         "logo_path": "/6rFNo5taSC9i0Sxnl81nucQMsw9.png",
+         "name": "Warner Bros. Pictures",
+         "id": 174,
+         "origin_country": "US"
+      }],
+      "release_date": "1940-01-29",
+      "vote_average": 6.1,
+      "belongs_to_collection": null,
+      "tagline": "Although the home of cabinet minister Arthur Bennett is a hotbed of spies, moles, and double agents, no one knows the true identity of notorious German spymaster Strendler.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Black and White",
+      "budgetCurrency": null,
+      "directors": ["Terry O. Morse"],
+      "runtime": 61,
+      "synopsis": null,
+      "writers": [
+         "Lee Katz",
+         "Anthony Paul Kelly"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0032283/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BNDgyMTkzNTAwNV5BMl5BanBnXkFtZTcwNTQxMjkxMQ@@._V1_SY317_CR5,0,214,317_AL_.jpg",
+      "actors": ["Stars: Boris Karloff, Margaret Lindsay, Bruce Lester | See full cast and crew »"],
+      "reviews": [
+         "This is an especially interesting film because although on the surface it is about WWI, it seems essentially about patriotism and fifth column activity for the coming WWII. It's second release as Enemy Agent (1940) testifies to the notion that the film is prophetic rather than historical. In fact, while watching the film it is very easy to forget that it has anything to do with WWI, except in terms of the young soldier who reappears late in the plot, originally having been introduced as wounded in a German hospital. Also, the statement by Thompson of \"How many millions have been killed...and how many millions more must die just because one man sets himself above the almighty\" seems like a timely reference to Hitler.",
+         "\"British Intelligence, from 1940 when Britain was locked in deadly combat with Nazi Germany, tells a tale of German espionage in The Great War (aka The War to End All Wars). Well-acted and with a tricky plot that leaves the viewer guessing who is a loyal Brit and who is a Kaiser's spy, the one-hour film also delivers at beginning and end a hefty, grave propaganda message warning that those Germans can be trusted - to produce warmongering megalomaniacs. Boris Karloff is Valdar, the butler/valet every man wants. Obsequious and efficient, he claims to be a refugee from war-scarred Euope, a fellow who has lost his family to the murdering Hun. He is ensconced in the home of a powerful Englishman who consorts with the cabinet. Projected into the household in a convenient but not necessarily convincing way is Helene von Lorbeer, played by the very pretty Margaret Lindsay who had a good run in both \"A\" and \"B\" pictures in the 30s and 40s before she decided to fatten up thus losing her screen sex appeal. Helene under another name was a nurse in a British field hospital and she took care of the wounded RFC pilot son of the man in whose home she is now a guest. They fall in love but she can't let him know that since she's a Florence Nightingale with a Mata Hari mission. Of course the recovered pilot returns home to find her there. British Intelligence desperately needs to terminate a German master spy, Strengler. Who is he? How is he able to glean military secrets before, as one exasperated senior officer exclaims, junior officers are even briefed on the operational plans. What follows is a fairly taut cat and mouse game seeking the deadly spy. It's good fun, nice acting. Director Terry O. Morse, who edited more films than he directed, did a better than average job here. Dated, of course, but that's part of its charm. I wonder if London moviegoers in 1940 needed to be exhorted by speeches denouncing the depraved Boche. Probably not but I'm sure they appreciated Karloff and Lindsay. 7/10",
+         "This is actually quite good. The setup is easy to describe, you have several spies, two in particular. There's a sort of mystery about where their allegiance lies. Its a simple idea, but done well, because this was a long-running play, so had the time work out the dramatic and narrative effects, much more attention than the normal script would have. Its Germans as the bad guys, of course, evil just dripping in the way that it only could between the great German wars. I like this because of the way it co-opts the detective form. The viewer is drawn in. Clearly there are bad guys and good ones, but you don't know which is which \u0097 who to cheer for \u0097 until the end. You're drawn in as a sort of virtual detective. Everyone is watching everyone else. Its the motive and roles you must learn. Ted's Evaluation -- 3 of 3: Worth watching.",
+         "This is very good for its genre, with an interesting story, solid atmosphere, and two good leading performances from Boris Karloff and Margaret Lindsay. Made during the early part of the Second World War (when England was enduring constant air assaults and other threats), and set during the First World War, there is an obvious patriotic slant to it. But aside from a short speech by one of the characters at the end of the movie, it mostly allows the story and characters to stand on their own. Karloff and Lindsay star as two very resourceful spies who are planted in the home of a prominent English family, with most of the story revolving around whether they are spies on behalf of England or on behalf of Germany. Karloff is, of course, especially good in a part like this, giving his character a believably ingratiating manner in his cover role as a butler, and a steely eye in his unguarded moments. He makes it easy to believe that his character can keep everyone else in the dark. Lindsay gets one of her best roles, and she makes full use of it. Her character obviously has weapons much different from those of Karloff's character, and she too is believable in keeping the others, even Karloff, guessing. The story moves at a good pace, and it features several good turns as it builds up the tension. Like many movies of this kind, there are places here and there where it could have been improved. In particular, its portrayal of Britain as a traitor-riddled society threatened with imminent collapse shows the strong influence of the frightening times in which it was filmed. But in its time it probably provided some genuine encouragement, and today it still remains an enjoyable movie that is well worth the time to see.",
+         "These are notes on the type of espionage tradecraft used in the movie: 1. Communications (a) Use of special \"Morse Code\" (in a German version) for secret communication between conspiring agents, even when others are listening. Example: Spy 1 at typewriter pretends to type (manual typewriter), but just keys in \"X\" characters, but in code pattern that purposefully is within hearing distance of nearby agent Spy 2. (b) Use of short-wave radio. (but encrypted, and also \"cleartext\" during an emergency when there was no time to encrypt) (c) Use of carrier pigeons (to fly hand-written messages from the UK to Germany (or to some pick up point)) (d) Code words. Use of secret code words, part 1 a \"challenge\" phrase, part 2 a \"response\" phrase. Agents used this within the context of ordinary conversation in order to identify each other without onlookers noticing. 2. Espionage Network (a) A \"chief of station\" type (played by Karlov), who is disguised as a lowly butler. (b) Even the other German agents do not know the true identity of the chief. They know he is part of the network, but he claims to be \"taking orders\" from the chief. He, of course, is actually the chief. (c) Couriers. The milkman serves as a courier for information. Karlov as the \"butler\" each day gets fresh milk (delivered in those days by kart) and used the opportunity to pass on important information. Sometimes the information is spoken, sometimes passed along in a letter. (d) Radio man. Separate person is assigned task of collecting information, encoding it, and transmitting it to Germany. (e) Feigned death. One of the German agents, fakes his death in order to help cover up his activities, but is observed. 3. Counterintelligence (a) Use of \"deep plant\" British agent who penetrates German intelligence then comes to the UK pretending to spy on the British, but with the single intention of helping locate the \"chief of station\". (b) \"Legend\". The German agent is given a life story, completely false, that arouses sympathy, allowing them to be \"taken in\" (e.g. hired) by a targeted British family. (It is targeted because it is elite enough to be involved with British military or government.) In general the story line is written in a way that only at the end are the true sympathies of the different agents and double agents known.",
+         "In between making horror pictures at this time, Boris Karloff made this spy movie and I quite liked it. A female German spy is sent on an undercover assignment to live in London with a British official where she teams up with the butler there, Valdar, who is also a spy. While there, she helps him to transmit secret war plans back to Germany but are found out at the end and Valder is shot and the lady spy falls in love with one of the residents where she has been staying. Valder is played well by Boris Karloff and the female spy is played by Margaret Lindsay. The cast also includes Bruce Lester and Holmes Herbert. British Intelligence is worth seeking out, especially for fans of Baris Karloff. Rating: 3 stars out of 5.",
+         "***Spoilers*** 1940 movie made during the hight of the German Blitz on England in WWII about a German Zappaline air attack on London in 1917 during WWI with a complicated story about British and German spies and double as well as even triple agents in both England and Germany. Boris Karloff is at his creepiest best as the German spy or British double agent Valdar, you never really know until the end of the movie who he really is. On the bloody Western Front in France every British military operation is met by the German Army with the British being soundly beaten. Someone is supplying the Germans with secret British military information which has them get the jump on the British forces before they even start their attack. The British have their top spy Williams inside Germany and in an attempt to get him out of the country plan to pick him up behind the German lines with an airplane flown by Let. Frank Bennett, Bruce Lester. As usual the Germans get the information about Bennetts's flight and shoot him down over the battlefield. In the field hospital the badly wounder Bennett is cared for by a British volunteer nurse Helene, Margaret Lindsey, whom Bennett falls in love with. It later turns that Helene is really the German spy Helene Von Lorbeer who back in Berlin is sent to England to work for British Cabinate Minister Arthur Bennett, Holmes Herbert, who's also Frank's father. The movie \"British Intellengence\" goes on with Helene getting in touch with her fellow German spies in England including Valdar who also works for the Bennett household. You never really know who Helene and Valdar work for, the British or the Germans or both, until almost the very end which leaves you up in the air to whats happening in the film. There's also this top German spy Strendler who is giving the British all this trouble on their efforts in breaking the up and stalling the German advance on the Western Front. You also don't know until the very end of the movie just who he really is even though it's not really that hard to figure out. The movie takes a surprise turn later on when Let. Bennett who was recovered from his wounds and with his air unit sent back to England. Coming home Let. Bennett finds Helene at his father estate and recognizes her as the nurse who treated him back in France and who he fell in love with. It's then when we get an idea just who Helene is and for what country, Germany or England, she's spying for. The ending is very contrived with the German Master Spy Strendler, guess who, setting up the entire British Cabinate to be blown up at the Bennett Estate, where their to meet, with a bomb that he planted there. Strendler is unexpectedly foiled by the Germans themselves by them staging a zeppelin attack on the city of London killing Strendler and his fellow German spies in the process: Poetic Justic I presume? Whats so interesting about the movie is how it treats the Germans at a time when those who made the movie were either at war with Germany or very sympathetic to the country that was fighting the Germans at that time in 1940 the United Kingdom. There was one scene in the movie that really hit me when Valdar tells Helene about how the German Army murdered his wife and child and left him for dead with two bullets in his back which in fact was a lie on his part. Helene very convincingly defended the Germans by telling him that in the heat of war both the Germans like the British commit unspeakable acts in order to win. This statement by Helen came across as both honest and eye opening, totally minus of wartime propaganda, for a war movie that was made during the time when the country or countries who made it, the US & UK, were either at war or about to go to war against the country of the person, Helene, who made that very profound and intelligent statement.",
+         "There aren't that many World War I spy movies around. At least I haven't seen that many. Hitchcock's \"Secret Agent,\" (1936) Sternberg's \"Dishonored\" (1931) and Garbo's \"Mata Hari\" (1932) are the only three great classics I have seen. Blake Edwards's \"Darling Lili\" was a waste of celluloid. Made at the beginning of World War II (1940), there are clear reference to the war situation at that time in this movie. The talk about madmen taking over the war is clearing about Hitler and not the Kaiser. The movie showed bombing raids against London from both zeppelins and aircraft. I assumed that these were fictional, but I was surprised to find out that there were a few zeppelin raids and 22 aircraft raids against England in the war. Acting by Boris Karloff (creepy and effective) and Margaret Lindsay (subtle and clever) make the picture a lot of fun to watch. Although the plot is overly complicated to follow and jumps around a bit too much, there is a surprising amount of tension built up over who are the real German spies. Some people have complained about how easy the spies had it in the movie. They seem to just need to lurk a bit and they overhear all the war secrets they need. We should remember that people were more trusting back then and the idea of an organized spy ring was quite fanciful. Today we have an ultra security conscious society. This is a fun and easy to watch 62 minutes. I would recommend it for any spy film fan and any Boris Karloff fan. I wonder if the name for Harry Potter's arch-villain, Valdemar, had anything to do with the name of Karloff in this movie, Valdar.",
+         "As one spy to another, Boris Karloff offers some advice: \"The only way to be someone you are not is to be that person always, even in the presence of friends.\" This is a picture that keeps us guessing\u0097just who is each person? It's a clever and very entertaining wartime thriller in which no one's identity is clear. Set in 1917, the action is presented as directly relevant to the current events of 1940; more than one speech steps aside from the actual plot and appeals to an audience who would know exactly what was meant by references to future wars and to future lunatics who would again want to take over the world. The film's final speaker actually turns straight on to the camera for his inspirational closing sentences\u0097the kind of exhortation that was frequent in WWII era films, that we rarely if ever see in pictures from any other era, and that can be strangely stirring even at this great distance. Boris Karloff and Margaret Lindsay are both excellent, especially in their scenes together: their eyes are wonderfully expressive as they watch each other, play their roles, calculate loyalties and next moves. Favorite moment: the late scene at the center of which Karloff purrs, \"Excellent. But I'm afraid it won't quite do.\" Definitely a spy vs. spy quickie worth watching.",
+         "\"British Intelligence\" is a moderately successful WW1 espionage thriller, with perhaps too many coincidences and double-crosses for its moderate length. Spies change sides with such regularity that scorecards should have been passed out along with ticket stubs. This is a recycled stage play from 1918, obviously brought back for its propaganda value. That also explains why it's so claustrophobic. How many good spy movies spend most of their time in a few indoor locations? Having recently watched a number of spy films from 1939-1950, I'm left with the impression that London was virtually crawling with German agents, disguised as porters, milkmen, secretaries, butlers, etc. But historical evidence shows that the Abwehr was fairly inept at placing spies and saboteurs during WW2. (Check out \"Agent Zigzag\" by Ben McIntyre, a book which deserves to be a movie.) Most of the problems in these movies could be solved if high-ranking Brits would stop talking about secret plans in front of open windows, or sinister-looking office staff. Who was vetting these other employees? There are some fine aerial sequences to relieve the claustrophobia, especially the destruction of a munitions dump, and an eerie nocturnal zeppelin raid over London. Boris Karloff is given top billing for one of his least convincing performances. Of course, he has the chance to loom and lurk (his trademarks), but his French accent is so bad that any moron could tell he wasn't who he claimed to be. (And what about that name \"Valdar\" - sounding more like a Transylvanian than a Frenchman?) The ending of the film will come as no surprise to anyone who has watched more than a handful of spy films. Three speeches in the film (one by a German in spiked hat; two by Brits) were obviously inserted in this WW1 drama as warnings about the rise of Hitler. If there's any doubt, the final speech is delivered straight to the camera, reminding Britons that \"we hate war, we despise it, but when war comes we must and will fight on and on and...\" (fade to black)."
+      ],
+      "genres": [
+         "Romance",
+         "Thriller",
+         "War"
+      ],
+      "productionCompanies": ["Warner Bros."],
+      "summaries": [
+         "During WWI pretty German master spy Helene von Lorbeer is sent undercover to London to live with the family of a high-placed British official where she is to rendezvous with the butler Valdar, also a spy, and help him transmit secret war plans back to Germany.",
+         "Although the home of cabinet minister Arthur Bennett is a hotbed of spies, moles, and double agents, no one knows the true identity of notorious German spymaster Strendler."
+      ],
+      "budget": 0
+   },
+   "movielensId": 3059,
+   "movielens": {
+      "languages": [
+         "English",
+         "Français",
+         "Deutsch"
+      ],
+      "releaseDate": "1940-01-29",
+      "dvdReleaseDate": "1999-11-02",
+      "directors": ["Terry O. Morse"],
+      "runtime": 61,
+      "movieId": 3059,
+      "title": "British Intelligence",
+      "mpaa": "",
+      "actors": [
+         "Boris Karloff",
+         "Margaret Lindsay",
+         "Bruce Lester",
+         "Leonard Mudie",
+         "Holmes Herbert",
+         "Austin Fairman",
+         "William Bailey",
+         "Louise Brien",
+         "Glen Cavender",
+         "David Cavendish",
+         "Joe De Stefani",
+         "Carlos De Valdez",
+         "Clarence Derwent",
+         "Arno Frey",
+         "Frederick Giermann",
+         "Lawrence Grant",
+         "Carl Harbaugh",
+         "Sam Harris",
+         "Winifred Harris",
+         "Leyland Hodgson",
+         "Stuart Holmes",
+         "Willy Kaufman",
+         "Crauford Kent",
+         "Morton Lowry",
+         "Lester Matthews",
+         "Frank Mayo",
+         "Paul Panzer",
+         "John J. Richardson",
+         "Ferdinand Schumann-Heink",
+         "Hans Schumm",
+         "John Graham Spacey",
+         "Robert R. Stephenson",
+         "Evan Thomas",
+         "David Thursby",
+         "Frederick Vogeding",
+         "Leonard Willey",
+         "Maris Wrixon",
+         "Henry Zynda"
+      ],
+      "imdbMovieId": "0032283",
+      "originalTitle": "British Intelligence",
+      "genres": [
+         "Action",
+         "Adventure"
+      ],
+      "youtubeTrailerIds": ["fftw-6iMggE"],
+      "plotSummary": "During WWI pretty German master spy Helene von Lorbeer is sent undercover to London to live with the family of a high-placed British official where she is to rendezvous with the butler Valdar, also a spy, and help him transmit secret war plans back to Germany.",
+      "tmdbMovieId": 51787,
+      "avgRating": 2.75,
+      "releaseYear": "1940",
+      "numRatings": 22,
+      "posterPath": "/hGHgBpgaLvtAb2xHIhrrzlBajJv.jpg"
+   }
+}

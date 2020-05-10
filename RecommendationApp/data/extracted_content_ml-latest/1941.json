@@ -1,0 +1,597 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "shakespeare",
+            "id": 497
+         },
+         {
+            "name": "father murder",
+            "id": 2123
+         }
+      ],
+      "imdb_id": "tt0040416",
+      "video": false,
+      "title": "Hamlet",
+      "recommendations": [
+         43277,
+         43266,
+         22638,
+         42861,
+         43136,
+         33680,
+         12311,
+         15696,
+         25430,
+         13528,
+         43278,
+         65203,
+         33667,
+         34106,
+         56164,
+         17661,
+         7983,
+         25673,
+         28966,
+         14320
+      ],
+      "backdrop_path": "/tFfucMJh4Me1JYBIRJcOokWWuLs.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "Hamlet - Prince of Denmark / Voice of Ghost",
+               "gender": 2,
+               "credit_id": "52fe4467c3a368484e0212a7",
+               "name": "Laurence Olivier",
+               "profile_path": "/n8jDSq91O95HSbtCJLRsM367kKx.jpg",
+               "id": 3359,
+               "order": 0
+            },
+            {
+               "cast_id": 5,
+               "character": "Ophelia - His Daughter",
+               "gender": 1,
+               "credit_id": "52fe4467c3a368484e0212b7",
+               "name": "Jean Simmons",
+               "profile_path": "/lVE40Hx4s2VI2nPxkNaF0hBjPw9.jpg",
+               "id": 14500,
+               "order": 1
+            },
+            {
+               "cast_id": 6,
+               "character": "Francisco",
+               "gender": 2,
+               "credit_id": "52fe4467c3a368484e0212bb",
+               "name": "John Laurie",
+               "profile_path": "/fOo2XHmHSDSeo7TUpm0l64C6ZOq.jpg",
+               "id": 3673,
+               "order": 2
+            },
+            {
+               "cast_id": 7,
+               "character": "Bernardo",
+               "gender": 2,
+               "credit_id": "52fe4467c3a368484e0212bf",
+               "name": "Esmond Knight",
+               "profile_path": "/ka4eJaGtMlghVQnVcQOFSFEb2uA.jpg",
+               "id": 56875,
+               "order": 3
+            },
+            {
+               "cast_id": 8,
+               "character": "Marcellus",
+               "gender": 2,
+               "credit_id": "52fe4467c3a368484e0212c3",
+               "name": "Anthony Quayle",
+               "profile_path": "/au2nJAa5detncsuS7il5z7StaUh.jpg",
+               "id": 14371,
+               "order": 4
+            },
+            {
+               "cast_id": 9,
+               "character": "Sea Captain",
+               "gender": 2,
+               "credit_id": "52fe4467c3a368484e0212c7",
+               "name": "Niall MacGinnis",
+               "profile_path": "/q5eQLCeSDWMJ4ghGJW4f7D6Os5k.jpg",
+               "id": 93163,
+               "order": 5
+            },
+            {
+               "cast_id": 10,
+               "character": "First Player",
+               "gender": 2,
+               "credit_id": "52fe4467c3a368484e0212cb",
+               "name": "Harcourt Williams",
+               "profile_path": "/cpPBPKse0jWYqWTlLXWYRfatQ4j.jpg",
+               "id": 12000,
+               "order": 6
+            },
+            {
+               "cast_id": 11,
+               "character": "Player King",
+               "gender": 2,
+               "credit_id": "52fe4467c3a368484e0212cf",
+               "name": "Patrick Troughton",
+               "profile_path": "/97DI8IZkVYhoafymFrcHNsPHsil.jpg",
+               "id": 11840,
+               "order": 7
+            },
+            {
+               "cast_id": 12,
+               "character": "Player Queen",
+               "gender": 0,
+               "credit_id": "52fe4467c3a368484e0212d3",
+               "name": "Tony Tarver",
+               "profile_path": null,
+               "id": 1093355,
+               "order": 8
+            },
+            {
+               "cast_id": 13,
+               "character": "Osric",
+               "gender": 2,
+               "credit_id": "52fe4467c3a368484e0212d7",
+               "name": "Peter Cushing",
+               "profile_path": "/1qtKVu16REL2YLVrhayjVey4al.jpg",
+               "id": 5,
+               "order": 9
+            },
+            {
+               "cast_id": 14,
+               "character": "Gravedigger",
+               "gender": 0,
+               "credit_id": "52fe4467c3a368484e0212db",
+               "name": "Stanley Holloway",
+               "profile_path": "/3pKWIEPNOSD0lMHrK07RYkVyde4.jpg",
+               "id": 12727,
+               "order": 10
+            },
+            {
+               "cast_id": 15,
+               "character": "Priest",
+               "gender": 0,
+               "credit_id": "55e52c63925141379d0010dc",
+               "name": "Russell Thorndike",
+               "profile_path": null,
+               "id": 84283,
+               "order": 11
+            },
+            {
+               "cast_id": 16,
+               "character": "Claudius - The King",
+               "gender": 2,
+               "credit_id": "55e52c64c3a36813f800113b",
+               "name": "Basil Sydney",
+               "profile_path": "/extra5dj4nB9D6UIb7hgwUzM1SH.jpg",
+               "id": 50998,
+               "order": 12
+            },
+            {
+               "cast_id": 17,
+               "character": "Gertrude - The Queen",
+               "gender": 0,
+               "credit_id": "55e52c6492514137a800110f",
+               "name": "Eileen Herlie",
+               "profile_path": null,
+               "id": 232127,
+               "order": 13
+            },
+            {
+               "cast_id": 18,
+               "character": "Horatio - His Friend",
+               "gender": 2,
+               "credit_id": "55e52c64c3a36813eb00110f",
+               "name": "Norman Wooland",
+               "profile_path": "/9LDf23dUsVySernQ3t6J7ILIF0a.jpg",
+               "id": 31296,
+               "order": 14
+            },
+            {
+               "cast_id": 19,
+               "character": "Polonius - Lord Chamberlain",
+               "gender": 2,
+               "credit_id": "55e52c6592514137a60010de",
+               "name": "Felix Aylmer",
+               "profile_path": "/sfNcE9p956L9WjTGiNB6M6xjUdh.jpg",
+               "id": 85345,
+               "order": 15
+            },
+            {
+               "cast_id": 20,
+               "character": "Laertes - His Son",
+               "gender": 2,
+               "credit_id": "55e52c65c3a368140800125f",
+               "name": "Terence Morgan",
+               "profile_path": "/dVJsfy2MEAJQ6Do8ZkVb3ueVYCi.jpg",
+               "id": 39052,
+               "order": 16
+            },
+            {
+               "cast_id": 21,
+               "character": "Bit Part (uncredited)",
+               "gender": 2,
+               "credit_id": "55e52c65c3a36813f800113e",
+               "name": "Anthony Bushell",
+               "profile_path": "/zks7169ghhQH2nngo5HykXi6uFx.jpg",
+               "id": 96758,
+               "order": 17
+            },
+            {
+               "cast_id": 22,
+               "character": "Lady of the Court (uncredited)",
+               "gender": 0,
+               "credit_id": "55e52c65c3a36813ed001225",
+               "name": "Patricia Davidson",
+               "profile_path": null,
+               "id": 1158618,
+               "order": 18
+            },
+            {
+               "cast_id": 23,
+               "character": "Extra (uncredited)",
+               "gender": 0,
+               "credit_id": "55e52c6692514137a8001113",
+               "name": "Doreen Lawrence",
+               "profile_path": null,
+               "id": 1503009,
+               "order": 19
+            },
+            {
+               "cast_id": 24,
+               "character": "Spear Carrier (uncredited)",
+               "gender": 2,
+               "credit_id": "55e52c66c3a368140500113c",
+               "name": "Christopher Lee",
+               "profile_path": "/aVzp6zflzedmdKPLxaPqcZ05PDK.jpg",
+               "id": 113,
+               "order": 20
+            },
+            {
+               "cast_id": 25,
+               "character": "Extra (uncredited)",
+               "gender": 2,
+               "credit_id": "55e52c669251413794000fde",
+               "name": "Desmond Llewelyn",
+               "profile_path": "/6dYMQoMSZ6iVZTbcgjpzypTZ2pr.jpg",
+               "id": 9906,
+               "order": 21
+            },
+            {
+               "cast_id": 26,
+               "character": "Extra (uncredited)",
+               "gender": 0,
+               "credit_id": "55e52c67c3a368140500113e",
+               "name": "Victor Lucas",
+               "profile_path": null,
+               "id": 1243112,
+               "order": 22
+            },
+            {
+               "cast_id": 27,
+               "character": "Extra (uncredited)",
+               "gender": 2,
+               "credit_id": "55e52c6792514137a2001026",
+               "name": "Patrick Macnee",
+               "profile_path": "/i7olaWWHDaOIou49JMSkykl8nWt.jpg",
+               "id": 10662,
+               "order": 23
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4467c3a368484e0212a3",
+               "name": "Laurence Olivier",
+               "profile_path": "/n8jDSq91O95HSbtCJLRsM367kKx.jpg",
+               "id": 3359,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4467c3a368484e0212b3",
+               "name": "Laurence Olivier",
+               "profile_path": "/n8jDSq91O95HSbtCJLRsM367kKx.jpg",
+               "id": 3359,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "575d04c3c3a36873a30020d6",
+               "name": "William Shakespeare",
+               "profile_path": "/2z4njqosEQM4g26ttb9grG9rJUg.jpg",
+               "id": 6210,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5738f15cc3a3686c90000467",
+               "name": "Herbert Smith",
+               "profile_path": "/RzwYmeyvBcgXKXq4PX6jobuImg.jpg",
+               "id": 41400,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a8ed79f0e0a263e740161c9",
+               "name": "William Walton",
+               "profile_path": null,
+               "id": 119339,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a8ed7adc3a368267801717c",
+               "name": "Desmond Dickinson",
+               "profile_path": null,
+               "id": 30932,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a8ed7b7c3a368267201572b",
+               "name": "Helga Cranston",
+               "profile_path": null,
+               "id": 20137,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5a8ed7c19251416c90014533",
+               "name": "Carmen Dillon",
+               "profile_path": null,
+               "id": 11836,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a8ed7cb9251416c7e014f7c",
+               "name": "Elizabeth Hennings",
+               "profile_path": null,
+               "id": 1652286,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a8ed7da9251416c81014f88",
+               "name": "Tony Sforzini",
+               "profile_path": null,
+               "id": 30939,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a8ed7f30e0a263e83014365",
+               "name": "Michael Morris",
+               "profile_path": null,
+               "id": 1806888,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a8ed7fd0e0a263e7d016693",
+               "name": "Norbert A. Myles",
+               "profile_path": null,
+               "id": 1058048,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a8ed8079251416c8a014783",
+               "name": "Basil Newall",
+               "profile_path": null,
+               "id": 1568527,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a8ed8110e0a263e6e016d85",
+               "name": "Ernest Westo",
+               "profile_path": null,
+               "id": 1983014,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a8ed81d9251416c870146de",
+               "name": "Harry Miller",
+               "profile_path": null,
+               "id": 7391,
+               "department": "Sound",
+               "job": "Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a8ed8279251416c8a01479a",
+               "name": "John W. Mitchell",
+               "profile_path": null,
+               "id": 12247,
+               "department": "Sound",
+               "job": "Sound Recordist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a8ed831c3a368266701686c",
+               "name": "L.E. Overton",
+               "profile_path": null,
+               "id": 1870773,
+               "department": "Sound",
+               "job": "Sound Recordist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a8ed83d0e0a263e83014394",
+               "name": "Desmond Dew",
+               "profile_path": null,
+               "id": 1570794,
+               "department": "Sound",
+               "job": "Sound Recordist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a8ed84ac3a3682688015f6b",
+               "name": "Ken Rawkins",
+               "profile_path": null,
+               "id": 1588446,
+               "department": "Sound",
+               "job": "Sound Recordist"
+            }
+         ]
+      },
+      "genres": [{
+         "name": "Drama",
+         "id": 18
+      }],
+      "popularity": 5.583249,
+      "production_countries": [{
+         "iso_3166_1": "GB",
+         "name": "United Kingdom"
+      }],
+      "id": 23383,
+      "vote_count": 63,
+      "budget": 750000,
+      "overview": "Winner of four Academy Awards, including Best Picture and Best Actor, Sir Laurence Olivier\u2019s Hamlet continues to be the most compelling version of Shakespeare\u2019s beloved tragedy. Olivier is at his most inspired\u2014both as director and as the melancholy Dane himself\u2014as he breathes new life into the words of one of the world\u2019s greatest dramatists.",
+      "similar": [
+         1934,
+         4951,
+         44264,
+         389,
+         207,
+         142,
+         399404,
+         20662,
+         45772,
+         61891,
+         91745,
+         11259,
+         11971,
+         12524,
+         225728,
+         11463,
+         10549,
+         261986,
+         10210,
+         91739
+      ],
+      "original_title": "Hamlet",
+      "runtime": 155,
+      "poster_path": "/woO9SgU2vTRMZeG0YqOLeoIqlzC.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": null,
+         "name": "Two Cities Films",
+         "id": 4006,
+         "origin_country": ""
+      }],
+      "release_date": "1948-03-25",
+      "vote_average": 7.2,
+      "belongs_to_collection": null,
+      "tagline": "The motion picture of all time ... for all time!",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "UK",
+      "color": "Black and White",
+      "budgetCurrency": "£",
+      "directors": ["Laurence Olivier"],
+      "runtime": 155,
+      "synopsis": null,
+      "writers": ["William Shakespeare"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0040416/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMjEwNzQzNDM2NV5BMl5BanBnXkFtZTYwOTg4ODI5._V1_SY317_CR5,0,214,317_AL_.jpg",
+      "actors": ["Stars: Laurence Olivier, Jean Simmons, John Laurie | See full cast and crew »"],
+      "reviews": [
+         "With this film, Sir Laurence Olivier set the standard as to how Shakespeare should be done on screen. His direction of his handpicked cast was flawless and his own straightforward interpretation of Hamlet is the one everyone else's is measured by. It was a straightforward interpretation because Shakespeare himself in the introduction says that Hamlet's tragedy is one in which his problem is that he couldn't make up his mind. Olivier opts for that and doesn't try to give any deeper meaning to Hamlet's indecision. For those who've never read the play or have seen it or studied in school, Hamlet is the Prince of Denmark. He's Hamlet Junior. His father Hamlet Senior was the king and the king has died. But at the beginning of the play, Hamlet is visited by the ghost of his father and the father tells him he was murdered by his brother Claudius. Claudius took the title and married Hamlet's mother Gertrude. All this was done while Hamlet was away at school in Wittemberg. The ghost wants his son to revenge him, understandable enough. But the story is Hamlet deciding one thing and then another, moderating his course. His actions have everyone believing he's lost his mind. In the end it's tragedy all around. I've always thought that the key thing to remember is that Hamlet is the only one who heard the ghost. Some other palace personnel told him about some apparition making an appearance on one of the battlements of Elsinore Castle, but Hamlet's the only one who's been told the tale. Therefore he's the only one who heard the story and he can't prove anything. The device of spirits visiting Shakespearean protagonists is one the Bard used with great effect. Here, in MacBeth, in Julius Caesar, all of those visits meant someone was meeting their doom. But in Hamlet the ghost makes his appearance at the beginning of the play. Maybe if the ghost had revealed himself to Horatio, to Polonius, the Queen even, Hamlet's duty would have been clear. In the supporting cast I liked Eileen Herlie as the Queen, Jean Simmons as Ophelia, Felix Aylmer as Polonius, and most of all Terrence Morgan as Laertes. Laertes is an important character here. He's the son of the chief counselor in the court, Polonius and brother of Ophelia who has a yen for Hamlet. In the beginning of the play Laertes takes off for France. Later towards the end he finds out the tragedy Hamlet has wrought upon both his father and his sister and Laertes has no trouble making up his mind what he's going to do. Quite a contrast to Hamlet's behavior. The film is moodily photographed in black and white. Olivier wanted to use color, but J. Arthur Rank wouldn't spring for it. So he made due with black and white and the lights and shadows of Elsinore castle as shown almost make this version a kind of Shakespeare noir. I don't think subsequent versions with Nicol Williamson and Mel Gibson hold a candle to this one.",
+         "This adaptation of \"Hamlet\" by Laurence Olivier (he both starred and directed) is a brooding, somewhat slow-moving, but also memorable version of Shakespeare's great play. Olivier's personal performance as the Danish prince is by far the strongest aspect of the picture. Hamlet is one of the most complex and fascinating characters ever created, and no two great actors ever play him quite the same way. Olivier portrays him primarily as \"a man who could not make up his mind\", and his fine and often subtle acting brings to his role a deep understanding of his character's inner struggles and dilemmas, both moral and practical. He renders Hamlet's most famous lines in a distinctive way that reveal the many possible paths in Hamlet's future. It is a performance not to be forgotten. If Olivier the actor is masterful, Olivier the director is good but not perfect. A great deal of Shakespeare's text was eliminated, getting the running time down to 2 1/2 hours, but even so there are times when the movie seems rather slow-moving, especially in the first hour or so. Most of the cuts involve interactions with the minor characters, and some of the original play's minor roles are cut completely out of the film. The result is to concentrate the emphasis even further on Hamlet himself and on his pessimistic meditations. While this enables Olivier's fine acting to become even more prominent, it does eliminate some very interesting portions of the story whose absence will be regretted by those viewers who love the play. Olivier does add some good touches, though. He emphasizes the somber tone with numerous tracking shots of the castle's gloomy corridors and staircases. The filming of the famous sequence of events at the end is very good, and is much livelier than the rest. While this is probably not the very best interpretation of the play \"Hamlet\", it is as good an interpretation of the character Hamlet as you will ever see. For that reason alone it is must viewing for any fan of Shakespeare or of Olivier.",
+         "The amount of lines taken from this play and used in our everyday conversation is staggering. Like all of the Bard's works, his endurance is not only the mastery of language, but really in storylines that just never get old. Above, everything else, Hamlet is an interesting tale. Olivier's interpretation however, is very dark. Very deliberate. He shies away from the humor completely, and instead takes a slow, purposeful tack. To that, it might not appeal to some. In such a long play and movie, the humor is sorta needed to jostle you a bit, and break the overall bleakness of the tragedy. You don't catch a break here I'm afraid. Id classify this therefore as for more advanced taste, and not for the average moviegoer. Olivier's other two attempts, Henry V and Richard III, specifically the latter, will garner more mainstream appeal.",
+         "It stands to reason that Larry Olivier's version of Hamlet is one of the best, and even if he was a little old for the role (in his forties by this time) it really is the perfect role for him. One or two things to note - the camera angles and shots are often stunning, from above, using angles and shadows, extreme close-ups, and so on. This gives the sometimes ponderous adaptation atmosphere and the black and white photography is gorgeous. Amongst the supporting cast Jean Simmons is a childish, doting Ophelia but this works well. Not working so well are the soliloquies largely within Hamlet's head (and therefore, voiceover). This seems a little gimmicky and only really makes sense with 'To be or not to be'. That aside, this really is Larry's show and he is brilliant. Despite a few cuts it does the original play proud and is, like Welles' Macbeth and Othello, a truly cinematic reading.",
+         "Sir Laurence Olivier's excellent Oscar-winning 1948 adaptation of one of William Shakespeare's most famous plays is arguably the best one, although Kenneth Branagh's star-studded, uncut version, made 48 years later (see my review on it) is also very good. Olivier, already an international star and fresh off \"Henry V\" (for which he was presented with an honorary Oscar in 1945), directed, produced, text-edited (though he remained uncredited) and starred in his own version of \"Hamlet.\" The effort won him Oscars for Best Picture and Best Actor, in addition to the film's other two nominations. This movie also holds the record for being the only adaptation of Shakespeare to win Best Picture AND Best Actor. MILD SPOILER AHEAD!! Some may complain about Olivier's decision to cut the text in half, choosing instead to concentrate on the central element of the play, which is Hamlet himself and his dilemma. SPOILER AHEAD!! Rosencrantz and Guildenstern are absent from this version (MILD PLAY SPOILER AHEAD!!; they end up dead at the end of the play anyway; MILD PLAY SPOILER OVER!!) and the entire Norwegian subplot has been eliminated from the film, as Olivier thought it would end up extending the movie's running time to over 3 hours. Rounding out the cast are Jean Simmons (who was nominated for Best Actress for her terrific performance and would reappear with Sir Olivier in 1960's \"Spartacus\") as Ophelia, Felix Aylmer as Polonius, John Gielgud (who would appear in Branagh's version 48 years later) as the Ghost, Eileen Herile as Gertrude, Basil Sydney as Claudius, Terence Morgan as Laertes and Norman Wooland (who would reappear with Olivier in \"Richard III\" seven years later) as Horatio. Horror icons Christopher Lee (Count Dooku in \"STAR WARS Episode II\" and the upcoming \"Episode III\") and Peter Cushing (Grand Moff Tarkin in \"STAR WARS Episode IV\"), fellow horror film actors, appear in small roles, as does Desmond L. (better known as Q from the James Bond series). Desmond Dickinson's flawless camera work, William Walton's haunting score, Olivier's impeccable acting, directing, producing and uncredited text-editing (as well as everyone else, but he was the star of the film, so it's his performance that carried the movie) and the dark atmosphere (it was filmed in black and white), all combined, make this the definitive \"Hamlet,\" although some may consider Kenneth Branagh's version better. Read the play and see THIS VERSION FIRST before seeing any other (for hardcore Shakespeare fans, preferably Branagh's, which some may prefer on the grounds that Branagh's version features the play IN IT'S ENTIRETY, but if you're an aspiring actor or fan of The Bard, I would STRONGLY RECOMMEND that you see The Master's (Sir Laurence Olivier's; you can also see him in Shakespeare in 1934's \"As You Like It,\" 1944's \"Henry V,\" 1955's \"Richard III,\"; the latter of which he directed, produced, text-edited, though he would never take credit for that, and starred in, 1965's \"Othello,\" 1973's \"The Merchant Of Venice\" and 1984's made-for-TV version of \"King Lear,\" made five years before his death) version first. This version is Not Rated.",
+         "For years I've considered the classical soviet screen-version of Hamlet directed by Kozintsev (1964) as the best adaptation of the play. I still think it's a masterpiece, however now it fills the second place in my preferences and the first one belongs to Lord Laurence Olivier. To begin with, I was astonished to find out that scenery, costumes and make-up in Kozintsev's film clearly resemble those from Olivier's version. No doubts, our producer knew and appreciated earlier English movie and deliberately copied the settings. Well, I don't blame him: he used it successfully, but the lack of originality is somehow disappointing. The scenery is really wonderful: cold, gloomy, dark, gothic, haunting and even more impressive for being black-and-white. And then\u0085 LORD LAURENCE OLIVIER IS THE BEST SHAKESPEAREAN ACTOR EVER. No one else can make the 16th century Bard's text sound modern, natural, alive, expressive, exciting, clear and full of hidden before meaning. Indeed, soviet actors pronounce the text fantastically well, but in Russian: I mean in translation by talented Russian poet Pasternak. And recently I've become interested in reading and watching Shakespeare in original. And here Olivier is an unparalleled performer. He portraits his hero wonderfully. His Hamlet is dignified and noble, reserved and mistrustful, emotional and ruthless (when he knows it is justified), and deeply frustrated (for he is disappointed in everyone except the foreigner Horatio). He is willing to act and yet waits to understand what's happening better. However events take an unexpected course and lead to the final tragedy. At the beginning Hamlet is called `a man who couldn't make up his mind'. Well, I would choose other words: `a man who changed his mind too often', but it wasn't his fault \u0096 so were circumstances. And Olivier presents these changes very vividly and truthfully. He makes `To be or not to be' an unusually powerful scene showing Hamlet just a man who sees so much evil all around that he nearly commits suicide. He is stopped only by sudden understanding that death is unremediable and too frightening \u0096 natural thought for any sensible man, brave as he is. Such simple variant pleases me better than more sophisticated ones. Somebody may disagree with Olivier's conception of the character but everyone has to admit that while Larry acts he creates complete, convincing, living image of his hero (and very sympathetic, by the way). I also would like to mention Jean Simmons. She seems to be severely misjudged by most reviewers. Simmons is an excellent Ophelia \u0096 a simple, naive young girl, merely a child, affectionate, light-hearted, playful, flirting and exceptionally sensitive. An absolutely charming scene is that of Laertes' departure. Polonius makes his solemn speech and Ophelia all the time mischievously distracts attention of her brother. I like all Olivier's films for such amusing trifles. Gertrude is well chosen too, quite believable. Eileen Herlie clear shows that at the end Gertrude understands her husband's wicked game and takes the poison consciously. However, Claudius is not impressive enough, to my mind. To see a perfect thrilling Shakespearean villain you have to watch Kozintsev's film. Of course the play is noticeably cut. I confess I miss Hamlet's passionate soliloquy `Is not this monstrous that this player here\u0085', and also Rosencrantz and Guildenstern (they are important, for Hamlet faces the treachery of friends in their part). On the other hand more complete versions are rather overlong. I am not sure that Branagh's four hours movie gains anything from using the full text. This film is dynamic and worth seeing not only for the sake of Lord Laurence's outstanding performance, but because it is extraordinary interesting version of the familiar play.",
+         "Hamlet (Laurence Olivier), son of the murdered king of Denmark, contemplates whether or not to take vengeance on the murderer and now king, Claudius (Basil Sydney), Hamlet's uncle. Hamlet must also decide what to do about his mother, Gertrude (Eileen Herlie), who is now married (quite happily, it seems) to Claudius, and Claudius' chief adviser, Polonius (Felix Aymer). In the middle of all this is Hamlet's love Ophelia (Jean Simmons), who is completely confused --- and hurt --- by Hamlet's increasingly bizarre behavior. Like the Zeffrilli/Gibson and Branaugh versions of Shakespeare's classic that followed, Olivier's adaptation is a mostly excellent film with several annoying flaws keeping it just out of reach of greatness. Olivier is superb as Hamlet --- especially when delivering the soliloquies, several of which are genuinely powerful. The rest of the cast, however, is a mixed bag. Herlie is very good, managing to completely overcome that fact that she is really 13 years younger than Olivier. Sydney has his moments and does a decent job, but never really gets across who Claudius really is. Aymer is amusing but nothing more. Simmons makes a good Ophelia, albeit not a great one. Norman Wooland is excellent as Horatio (which is a tough role to actually be memorable in). Stanley Holloway is good as the Gravedigger, but somehow he doesn't nail the part the way Billy Crystal did in the 1996 version. Finally, Peter Cushing is\u0085 odd as Osric. The rest of the cast is either stiff or completely uninteresting. However, other than some weak performances, Olivier does a superb job directing everything. The atmosphere during the ghost scenes is absolutely suffocating and starts the film off well. And right from that scene, it's obvious that the camera work is going to be awesome. The camera moves and sweeps everywhere --- but not just for the sake of moving and sweeping like many movies (coughMichaelBaycoughcough). It creates extraordinary images and energy that make many scenes unforgettable --- without calling too much attention to itself. William Walton's creepy music adds a lot. Finally, the climactic fencing scenes are genuinely great \u0096 easily the best fencing scenes in a version of Hamlet and possibly among the best in film history. However, despite many great scenes, the movie never creates the emotions it needs to really make the blows come. Yes, some scenes are truly compelling, but on the whole, it misses the mark in that department. However, the scenes that work are brilliant, and despite the lack of emotional power, it is an entertaining and superbly made film that's just as worthwhile as its 90's successors (although it is marginally inferior to them, which is odd --- the 40's version inferior to the 90's remakes!).",
+         "The titled melancholy Danish prince (Oscar-winner Laurence Olivier) seeks to avenge those involved with his father's death. It seems that Olivier's father (voiced by John Gielgud) still roams the Earth as a spirit that walks around aimlessly, unable to find Heaven or Hell (Purgatory for the most part). Gielgud makes it clear that his brother (Basil Sydney) was the culprit in his death and Olivier becomes enraged. The fact that Sydney has become king by marrying the titled character's mother (Eileen Herlie) just makes the tension build. Herlie and Olivier's relationship pushes the envelope hard on a typical mother-son bond (there are incestuous tones abound here). Oscar-nominee Jean Simmons appears to be Olivier's one true love, but after a terrible tragedy she falls down a path of mental anguish. It appears that the only logical conclusion for Shakespeare's famed character is to have that famous sword fight dual with Simmons' brother (Terence Morgan). Of course you know that not everything is the way it seems, right? \"Hamlet\" was a surprising success in 1948. Produced in Britain (and strictly a British project for all intensive purposes), the film became a runaway hit with most all audiences and critics (becoming the year's Best Picture Oscar winner). Shakespeare's plays have never really warranted excellence on the silver screen, but this adaptation (also by Olivier) is about as close as we have seen thus far. The movie runs nearly three hours and I was about to fall asleep after the first 60 minutes (the film is almost dragging to a crawl by that point), but after the set-up the movie soars very high. Lots of data that is somewhat confusing hogs up a little too much time when the pacing could have been much crisper. Olivier's spin on the timeless classic is truly uncanny nonetheless. His direction (he was Oscar-nominated in the category) and vision are something to behold. The production values are strong and I ended up enjoying the movie for what it is and what it ultimately wanted to be. Olivier became the first of only two people presently to direct himself to an Oscar victory (Roberto Benigni duplicated the feat with 1998's \"Life Is Beautiful\"). 4.5 out of 5 stars.",
+         "For better or worse, this remains the definitive film version of hamlet. I confess I'm not happy with that. Olivier re-edits the script considerably. What appear to be continuity innovations simply fall flat for me. The worst instance of this is the famed \"to be or not to be\" speech (most of it delivered in voice-over), which jumps out of nowhere in this version, apropos nothing. Olivier gets away with this butchery on the basis of his roaring egotism (which finally leads to a roaring Hamlet to the end) and the fact that his is one of the most careful directions of the play-as-film to be found on film. Which of course leads me to the positive aspects of the film. Simply as a film, it is brilliantly designed and executed. I've rarely felt a film so successfully blend claustrophobia and depth - this is accomplished through careful juxtapositions of scenes of high-contrast black & white with scenes filled with grey fog; only Hitchcock could have done better (but of course Hitchcock would never have made Hamlet). And although Olivier's performance is really over the top, he wisely makes sure that all the other actors get to come close to that level, especially the actor playing Hamlet's nasty step-dad. So the film vibrates with energy almost from the get-go and all the way to the end. I keep trying to see every film version of Hamlet i can find, to see if the final, absolutely really and truly definitive version of Shakespeare's play (and not Olivier's version of it) might yet be viewed; but until then, this will have to do.",
+         "Olivier is absolutely mesmerizing as the dane of Denmark. I have seen Gibson's and Branagh's versions, and Olivier is still far and away the most impressive performance. Whenever I think of Hamlet, I always think of Olivier's Hamlet. The picture as a whole is very well done, although in parts it can seem a bit chinsy. Olivier (as director) firmly establishes the mood for the picture, and the ensemble acting is terrific. Watch for a very pompous Polonius!"
+      ],
+      "genres": ["Drama"],
+      "productionCompanies": ["Two Cities Films"],
+      "summaries": [
+         "William Shakespeare's tale of tragedy of murder and revenge in the royal halls of medieval Denmark. Claudius, brother to the King, conniving with the Queen, poisons the monarch and seizes the throne, taking the widowed Gertrude for his bride. Hamlet, son of the murdered King, mournful of his father's death and mother's hasty marriage, is confronted by the ghost of the late King who reveals the manner of his murder. Seeking revenge, Hamlet recreates the monstrous deed in a play with the help of some traveling actors to torment the conscience of the evil Claudius. In a visit with his mother, Hamlet expresses his anger and disappointment concerning her swiftly untimed marriage. Thinking a concealed spy in his mother's chamber to be the lurking Claudius, he mistakenly kills the meddling counselor, Polonius, father of Ophelia and Laertes. Claudius, on the pretext that Hamlet will be endangered by his subjects for the murder of Polonius, sends the prince to England.",
+         "Prince Hamlet struggles over whether or not he should kill his uncle, whom he suspects has murdered his father, the former king."
+      ],
+      "budget": 500000
+   },
+   "movielensId": 1941,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1948-03-25",
+      "dvdReleaseDate": "2000-09-19",
+      "directors": ["Laurence Olivier"],
+      "runtime": 155,
+      "movieId": 1941,
+      "title": "Hamlet",
+      "mpaa": "NR",
+      "actors": [
+         "Laurence Olivier",
+         "Jean Simmons",
+         "John Laurie",
+         "Esmond Knight",
+         "Anthony Quayle",
+         "Niall MacGinnis",
+         "Harcourt Williams",
+         "Patrick Troughton",
+         "Tony Tarver",
+         "Peter Cushing",
+         "Stanley Holloway",
+         "Russell Thorndike",
+         "Basil Sydney",
+         "Eileen Herlie",
+         "Norman Wooland",
+         "Felix Aylmer",
+         "Terence Morgan",
+         "Anthony Bushell",
+         "Patricia Davidson",
+         "Doreen Lawrence",
+         "Christopher Lee",
+         "Desmond Llewelyn",
+         "Victor Lucas",
+         "Patrick Macnee"
+      ],
+      "imdbMovieId": "0040416",
+      "originalTitle": "Hamlet",
+      "genres": ["Drama"],
+      "youtubeTrailerIds": [
+         "5ks-NbCHUns",
+         "9G8LjlR60bw"
+      ],
+      "plotSummary": "Winner of four Academy Awards, including Best Picture and Best Actor, Sir Laurence Olivier\u2019s Hamlet continues to be the most compelling version of Shakespeare\u2019s beloved tragedy. Olivier is at his most inspired\u2014both as director and as the melancholy Dane himself\u2014as he breathes new life into the words of one of the world\u2019s greatest dramatists.",
+      "tmdbMovieId": 23383,
+      "avgRating": 3.74889,
+      "releaseYear": "1948",
+      "numRatings": 904,
+      "posterPath": "/woO9SgU2vTRMZeG0YqOLeoIqlzC.jpg"
+   }
+}

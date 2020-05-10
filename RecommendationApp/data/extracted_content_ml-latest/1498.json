@@ -1,0 +1,611 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "sibling relationship",
+            "id": 380
+         },
+         {
+            "name": "new love",
+            "id": 1605
+         },
+         {
+            "name": "dysfunctional marriage",
+            "id": 10061
+         },
+         {
+            "name": "working class",
+            "id": 11935
+         },
+         {
+            "name": "wrong side of the tracks",
+            "id": 165147
+         }
+      ],
+      "imdb_id": "tt0119381",
+      "video": false,
+      "title": "Inventing the Abbotts",
+      "recommendations": [
+         12257,
+         15992,
+         37722,
+         54933,
+         40562,
+         6373,
+         294261,
+         26333,
+         23570,
+         47359,
+         48287,
+         51321,
+         22625,
+         17956,
+         30331,
+         61418,
+         31083,
+         41127,
+         12714,
+         38554
+      ],
+      "backdrop_path": "/9DS7dxbQWoi8samZ8716Ee7drwU.jpg",
+      "revenue": 5926128,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Doug Holt",
+               "gender": 2,
+               "credit_id": "52fe451b9251416c7504bfa5",
+               "name": "Joaquin Phoenix",
+               "profile_path": "/cK0BTrAM1xcsto8kVvHhd9AV8dW.jpg",
+               "id": 73421,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Pamela Abbott",
+               "gender": 1,
+               "credit_id": "52fe451b9251416c7504bfa9",
+               "name": "Liv Tyler",
+               "profile_path": "/jDxaBShnipKE2wvRaHavTtZb0qk.jpg",
+               "id": 882,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Eleanor Abbott",
+               "gender": 1,
+               "credit_id": "52fe451b9251416c7504bfad",
+               "name": "Jennifer Connelly",
+               "profile_path": "/xTpRRy9hwk4E2uypuQ30iqt2W2W.jpg",
+               "id": 6161,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Jacey Holt",
+               "gender": 2,
+               "credit_id": "52fe451b9251416c7504bfb1",
+               "name": "Billy Crudup",
+               "profile_path": "/pYblSarjmmIUggmOafanD2yk0Zj.jpg",
+               "id": 8289,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Alice Abbott",
+               "gender": 1,
+               "credit_id": "52fe451b9251416c7504bfb5",
+               "name": "Joanna Going",
+               "profile_path": "/8wPmJGGj4HEUfaYzYjoL1AzOSlf.jpg",
+               "id": 59662,
+               "order": 4
+            },
+            {
+               "cast_id": 6,
+               "character": "Helen Holt",
+               "gender": 1,
+               "credit_id": "52fe451b9251416c7504bfb9",
+               "name": "Kathy Baker",
+               "profile_path": "/y9Sw1QsJQvcqDPvG4vYVy1lfR5P.jpg",
+               "id": 1907,
+               "order": 5
+            },
+            {
+               "cast_id": 7,
+               "character": "Lloyd Abbott",
+               "gender": 2,
+               "credit_id": "52fe451b9251416c7504bfbd",
+               "name": "Will Patton",
+               "profile_path": "/qpycaaWP1oUx1Wd2lMBfQtR7qDO.jpg",
+               "id": 883,
+               "order": 6
+            },
+            {
+               "cast_id": 8,
+               "character": "Steve",
+               "gender": 2,
+               "credit_id": "52fe451b9251416c7504bfc1",
+               "name": "Michael Sutton",
+               "profile_path": null,
+               "id": 73422,
+               "order": 7
+            },
+            {
+               "cast_id": 19,
+               "character": "Webb Crosby",
+               "gender": 2,
+               "credit_id": "52fe451b9251416c7504c001",
+               "name": "Garrett M. Brown",
+               "profile_path": "/u48DQ2SziopfHBOTrtk7NOCshCp.jpg",
+               "id": 27492,
+               "order": 8
+            },
+            {
+               "cast_id": 36,
+               "character": "Joan Abbott",
+               "gender": 1,
+               "credit_id": "5766e007c3a368240300021b",
+               "name": "Barbara Williams",
+               "profile_path": "/5S02XyxT3CnZQWKFHIxUCeY18gG.jpg",
+               "id": 35340,
+               "order": 9
+            },
+            {
+               "cast_id": 37,
+               "character": "Peter Vanlaningham",
+               "gender": 2,
+               "credit_id": "5766e05dc3a3682472000244",
+               "name": "Alessandro Nivola",
+               "profile_path": "/lLlaotVNM6dhjXj7GWVLSedugct.jpg",
+               "id": 4941,
+               "order": 10
+            },
+            {
+               "cast_id": 38,
+               "character": "Giggling Girl #1",
+               "gender": 0,
+               "credit_id": "5766e098c3a368190e0003f4",
+               "name": "Nicole M. Vassallo",
+               "profile_path": null,
+               "id": 1638272,
+               "order": 11
+            },
+            {
+               "cast_id": 39,
+               "character": "Giggling Girl #2",
+               "gender": 0,
+               "credit_id": "5766e12992514112cc0003c0",
+               "name": "Amanda Sherman",
+               "profile_path": null,
+               "id": 1638273,
+               "order": 12
+            },
+            {
+               "cast_id": 40,
+               "character": "Victor",
+               "gender": 2,
+               "credit_id": "5766e1bf92514112cf000399",
+               "name": "Shawn Hatosy",
+               "profile_path": "/deVcvUyZEybTQuyBYiioVJ4Lyst.jpg",
+               "id": 52647,
+               "order": 13
+            },
+            {
+               "cast_id": 41,
+               "character": "Co-ed",
+               "gender": 1,
+               "credit_id": "5766e2e49251411c2f0002d3",
+               "name": "Julie Benz",
+               "profile_path": "/3ymRPOitD5IKXZgDLoy8FLRGQCn.jpg",
+               "id": 35551,
+               "order": 14
+            },
+            {
+               "cast_id": 42,
+               "character": "Narrator (uncredited)",
+               "gender": 2,
+               "credit_id": "58f15394925141551500523c",
+               "name": "Michael Keaton",
+               "profile_path": "/myVdrYNGTgqunLfUSaM8DuVD7DL.jpg",
+               "id": 2232,
+               "order": 15
+            },
+            {
+               "cast_id": 44,
+               "character": "Sandy",
+               "gender": 1,
+               "credit_id": "59cbf5f09251412bed015e44",
+               "name": "Zoe McLellan",
+               "profile_path": "/yxuUzYen1zpeVCoMQdo2bxKVqzR.jpg",
+               "id": 175660,
+               "order": 17
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe451b9251416c7504bfc7",
+               "name": "Pat O'Connor",
+               "profile_path": null,
+               "id": 19969,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe451b9251416c7504bfcd",
+               "name": "Ken Hixon",
+               "profile_path": null,
+               "id": 73424,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe451b9251416c7504bfd3",
+               "name": "Jack Cummins",
+               "profile_path": null,
+               "id": 66077,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe451b9251416c7504bfd9",
+               "name": "Brian Grazer",
+               "profile_path": "/yqiKX3auDuorea0BOtuB6Ifhyp6.jpg",
+               "id": 339,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe451b9251416c7504bfdf",
+               "name": "Ron Howard",
+               "profile_path": "/qdtdnNLSsaXZmpwOqXuQB3xU2uL.jpg",
+               "id": 6159,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe451b9251416c7504bfe5",
+               "name": "Karen Kehela Sherwood",
+               "profile_path": null,
+               "id": 5283,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe451b9251416c7504bfeb",
+               "name": "Janet Meyers",
+               "profile_path": null,
+               "id": 73425,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe451b9251416c7504bff1",
+               "name": "Michael Kamen",
+               "profile_path": "/y83bqw1VP1PkuvOhG2XROwc9eXG.jpg",
+               "id": 7714,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe451b9251416c7504bff7",
+               "name": "Kenneth MacMillan",
+               "profile_path": null,
+               "id": 43624,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe451b9251416c7504bffd",
+               "name": "Ray Lovejoy",
+               "profile_path": null,
+               "id": 244,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5645464692514133ab006ca0",
+               "name": "Aggie Guerard Rodgers",
+               "profile_path": null,
+               "id": 8428,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56454657c3a36870e0007501",
+               "name": "Gary Frutkoff",
+               "profile_path": "/eZ68088UxZMr2sgA9F0ESJEh8jK.jpg",
+               "id": 3117,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56454701c3a36870e80073f1",
+               "name": "Risa Bramon Garcia",
+               "profile_path": null,
+               "id": 3191,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56454ac99251410a490072b0",
+               "name": "Karen Golden",
+               "profile_path": null,
+               "id": 1400738,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56454ae79251410a4c0073df",
+               "name": "Merie Weismiller Wallace",
+               "profile_path": null,
+               "id": 1377133,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56454b6c9251410a3f00738f",
+               "name": "Randy Nolen",
+               "profile_path": null,
+               "id": 1391594,
+               "department": "Camera",
+               "job": "Steadicam Operator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56454b889251410a53007417",
+               "name": "Shane Dixon",
+               "profile_path": null,
+               "id": 1535122,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56454b95c3a36870d60077c8",
+               "name": "John Moio",
+               "profile_path": null,
+               "id": 1535123,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56454ba1c3a36870dd007a33",
+               "name": "Michael Runyard",
+               "profile_path": null,
+               "id": 1535124,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56454bd0c3a36870e3007d3a",
+               "name": "Don Sharpe",
+               "profile_path": null,
+               "id": 20110,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56454bef9251410a5300742d",
+               "name": "Kathryn Peters",
+               "profile_path": null,
+               "id": 9774,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56454c80c3a36870d6007801",
+               "name": "William V. Ryder",
+               "profile_path": null,
+               "id": 1535125,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56454c95c3a36870e000765d",
+               "name": "Julie Hewett",
+               "profile_path": null,
+               "id": 1319166,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Department Head"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56454cae9251410a44007971",
+               "name": "Medusah",
+               "profile_path": null,
+               "id": 1521504,
+               "department": "Costume & Make-Up",
+               "job": "Hair Department Head"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56454cc5c3a36870dd007a62",
+               "name": "Jennifer Bell",
+               "profile_path": null,
+               "id": 1412223,
+               "department": "Costume & Make-Up",
+               "job": "Key Hair Stylist"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56454ce7c3a36870dd007a6e",
+               "name": "Marcy G. Kaplan",
+               "profile_path": null,
+               "id": 1224008,
+               "department": "Production",
+               "job": "Production Supervisor"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Romance",
+            "id": 10749
+         }
+      ],
+      "popularity": 4.141442,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 12723,
+      "vote_count": 55,
+      "budget": 0,
+      "overview": "In the 1950s, brothers Jacey and Doug Holt, who come from the poorer side of their sleepy Midwestern town, vie for the affections of the wealthy, lovely Abbott sisters. Lady-killer Jacey alternates between Eleanor and Alice, wanting simply to break the hearts of rich young women. But sensitive Doug has a real romance with Pamela, which Jacey and the Abbott patriarch, Lloyd, both frown upon.",
+      "similar": [
+         4347,
+         334,
+         425,
+         1562,
+         8967,
+         2288,
+         319,
+         744,
+         1374,
+         745,
+         858,
+         111,
+         637,
+         244772,
+         277216,
+         11012,
+         1075,
+         2433,
+         10054,
+         5176
+      ],
+      "original_title": "Inventing the Abbotts",
+      "runtime": 110,
+      "poster_path": "/6L1SkHZB7jmMwFCrHMgRGJ9WAPG.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": null,
+         "name": "Fox 2000 Pictures",
+         "id": 711,
+         "origin_country": ""
+      }],
+      "release_date": "1997-04-04",
+      "vote_average": 6.3,
+      "belongs_to_collection": null,
+      "tagline": "When you want it all but can't have it, there's only one way to handle life... invent it.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Pat O'Connor"],
+      "runtime": 110,
+      "synopsis": null,
+      "writers": [
+         "Sue Miller",
+         "Ken Hixon"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0119381/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTU2Mjk5MzEzMF5BMl5BanBnXkFtZTcwNzY4NzgxMQ@@._V1_SY317_CR3,0,214,317_AL_.jpg",
+      "actors": ["Stars: Liv Tyler, Jennifer Connelly, Joaquin Phoenix | See full cast and crew »"],
+      "reviews": [
+         "The lives of two brothers living in a small town in Illinois are profoundly affected by an alleged incident which took place even before one of them was born, in `Inventing the Abbotts,' directed by Pat O'Connor. The Abbotts are one of the wealthiest, most respected families in Haley, Illinois; Lloyd Abbott (Will Patton) is a successful businessman who, along with his wife, Joan (Barbara Williams), has raised three daughters, the oldest of whom, Alice (Joanna Going), is about to be married, while the youngest, Pamela (Liv Tyler), is about to graduate from high school. The Holts, on the other hand, are from the other side of the tracks, and Helen Holt (Kathy Baker) has had to raise her boys on her own. John (Billy Crudup), the oldest, was two-years-old when his father was killed in an accident, while Helen was pregnant with his brother, Doug (Joaquin Phoenix). There's no mystery about what happened in the accident; the bone of contention concerns what happened afterwards-- at least in the eyes of John, even all these years later as he is about to enter collage. John and Doug's father, it seems, had been business partners with Lloyd Abbott, but after his death, a patent that Mr. Holt owned somehow ended up in Lloyd Abbott's name, making him a wealthy man, while the Holt's ended up in their current state of affairs-- not exactly poor, but barely making ends meet. And since his youth, John has been fixated with the Abbotts, especially their daughters, and one in particular, Eleanor (Jennifer Connelly). But as with most things involving an obsession, it only put John on a lifelong emotional road to nowhere. Told from Doug's point of view, the story becomes a lesson in life; when to leave the baggage of things best forgotten behind and move on. Phoenix gives an affecting performance as Doug, who has an on-again-off-again relationship with Pamela, the one sister who is, `Just there,' as she says (according to her, Alice is the `good' one, Eleanor the `bad'). He captures that sense of being at an age when uncertainty is the only absolute, and you feel his need to search and seek out that toe-hold on life that is often elusive to the young. There's an understated ring of truth in his portrayal that adds that depth which makes his character credible, and one to whom it is easy to relate. Crudup delivers, as well, with a performance wound in introspective tension so tightly that there are moments when it seems almost tangible. He carries a burden-- that from which his obsession was born-- and it shows. John has so much going for him (the love of his mother and brother; good looks; intelligence), that watching him suffer so emotionally-- even at arm's length-- is sad to see, especially in light of the fact that it is so unnecessary. Still, some of his actions (especially one late in the film) are intrinsically almost too brutal to forgive; only so much, after all, can be buried amid rationalization. In the end, you feel for him, but only so far; and then you are compelled to do what he could not-- you move on. As Pamela, Liv Tyler turns in a reserved performance that captures something of that same sense of confusion reflected in Doug's character. A bit more grounded, perhaps, but there is still that `searching' going on within her. Connelly, meanwhile, gets into her role as the'bad' sister with relish, exuding a self-assured sexual tension qualified with just enough restraint to make Eleanor a memorable and effective character. Going does a nice job, also, though by the nature of her character alone, she is bound to be somewhat overshadowed by Tyler and Connelly. The supporting cast includes Michael Sutton (Steve), Alessandro Nivola (Peter), Shawn Hatosy (Victor) and Michael Keaton as the narrator. An engaging and often poignant drama, `Inventing the Abbotts' puts love, loss and confusion (one might say the mainstays of life) into perspective, and illustrates that how we deal with it all is not necessarily a matter of individual choice. Some, in fact, just may have to invent whatever it is they need to hang onto. At one point in the film, Doug says of his brother, `If the Abbotts hadn't existed, John would've invented them.' And maybe that's the way it is; taking life as it comes and dealing with it the best way you know how. I rate this one 8/10.",
+         "Don't know why I didn't see of hear of this film back in 1997, but I don't remember any noise about it at all. Excellent screen play with fine characterizations by all actors; absorbing story and a true-to-life story that hits home at any time. The era was well represented by costume and settings; one of those \"good little films\" that get lost in the shuffle I guess. Bravo to all associated. I'll recommend it!",
+         "What can I say? I love this movie. And I'm not the type who digs romance movies, because they're usually 1) rubbish, 2) crap and 3) junk. \"Inventing the Abbotts\" is none of the above. Maybe it has got something to do with Joaquin Phoenix's presence in the movie; in my humble opinion, he is one tremendous actor and I love him, and I saw this movie because he's in it. Or maybe, just maybe, \"Inventing the Abbotts\" is simply a sweet little romantic movie that I enjoyed very much. There is just something about the movie that touches me. I do agree that \"the best kind of love is the no-matter-what kind\", and seeing it displayed so genuinely through Doug (Phoenix) and Pam (Liv Tyler) just did it for me. Not only was Joaquin brilliant as Doug, his character is, let's face it, an all-round good guy: someone you'd feel comfortable with, comfortable enough to let him meet the parents. And although there were some scenes where Liv Tyler didn't quite deliver, the chemistry between the two of them is obvious, and it helps to make their romance more possible than it already is. Billy Crudup plays the more interesting Holt brother Jacey, and is thoroughly convincing in his role. Jennifer Connelly is beautiful, and like most of the supporting cast, is solid in her role. Special kudos must go to the actress who played Doug's mom (her name eluded my memory). She handled her role with delicacy and care, and turned what could be a fairly boring character to an interesting one. I love the exploration of family relationships, and I was glad to see a solid relationship between Doug and his mother. All in all, \"Inventing the Abbotts\" is a splendid movie that *somehow* teaches you to love \"no matter what\".",
+         "This movie has not received enough credit. In my estimation, each member of the cast has turned in the best performance of their career. From the relationship between the two lead characters, and with their Mother, and their connection to the Abbotts, this movie tells a moving story with true heartfelt emotion. I cried at many points in the movie. Joaquin and Billy are truly inspiring. Liv Tyler and Jennifer Connolley let us into their world of what life was like in the teenage world of the early 60's. We were transported in time back to that world with all of it social standards and sanctions. Pat O'Connor has outdone himself with this film.",
+         "I found this to be a sweet and emotional film. The direction by O'Connor was swift and engrossing and I liked the way he let you see each character differ when they were around another character. Like the way Joaquin Phoenix's character gets all lustful around Jennifer Connolly, but restrains himself around Liv Tyler. Considering this is the film that brought them together in real life, I'm not surprised that Joaquin and Liv were so tender with one another. Both of them have the acting ability, where you only have to look into their eyes to know what they're feeling or trying to convey. For all the bitterness some characters offered, it was the relationship between Pamela and Doug that captured me. Just a sweet love story, and that can be OK sometimes!",
+         "\"Inventing the Abbotts\" seems like the sort of movie that they just made for no particular reason. Portraying some relationships in 1957 Illinois, the movie is worth seeing. Maybe not any kind of masterpiece, but interesting. I liked the fake sideburns scene, and the, uh, scene under the table. Joaquin Phoenix was showing the same acting skills that he later brought to \"Gladiator\" and \"Walk the Line\", and Liv Tyler, Billy Crudup, and Jennifer Connelly also did quite well. I guess that overall, there's nothing really unique here. There have been many slice-of-life stories. But this one is pretty well done with some good performances. Worth seeing.",
+         "One of the things I love about this film is the subtle humor that Joaquin brings to his character, Doug Holt. A few examples: the fake side-burns, his mother confronting him about smoking, etc. Joaquin's performance is excellent throughout. We see his character evolve, with changes that are subtle enough to be believable. He is quiet and unassuming, and so very different from his brother. When we finally see him blow his quiet fuse in the end, it almost hurts to watch. I found this film to be funny, dramatic, and above all, so honest. The performances and the dialogue are not only believable but carry a certain weight that simply wracked my emotions. It is a beautiful, intimate story, and many scenes are simply unforgettable. The lines are not false or corny in any way. And although it uses a few unoriginal plot devices, it gets away with this by acknowledging that they are unoriginal, i.e. the mother's death. A must-see for fans of drama and romance, who can be patient with plot development as long as the characters are strong. In the end it is worth it.",
+         "This film is notable for the acting performances (especially Joaquin Phoenix in the starring role) obtained by a fine director, Pat O'Connor. O'Connor may be more comfortable with Irish subject matter but does an excellent job capturing the 50's in middle America. The story is well-told, and the relationship of the two brothers (Phoenix and Billy Crudup) stands out. We need more films like this!",
+         "This is one of the best movies I have ever watched. I cry every time I even think about this movie. Even if you don't really like drama, this movie is well worth watching. It will make you rethink everything about yourself and about your life. See this movie with someone you love, even if at the time you are at odds with one another.",
+         "This film is an old favorite of mine. The story takes you back in time, and brilliantly captures the attitudes and prejudices of small town life. Every actor in this film gives such a genuine performance that you can't help being sucked into their world, a world where what is said by the rich can either save or condemn as they see fit. Each location used in the film leaves an imprint on you, from the garage where the brothers always unite over a game of ping-pong to the romance of the abandoned farm where the sparks of love really begin to fly. \"Inventing the Abbotts\" is a coming of age story that captures the awkwardness of adolescence without all the cheese that so often pervades the genre. It is a tale of love and lust, rich and poor, pure and simple."
+      ],
+      "genres": [
+         "Drama",
+         "Romance"
+      ],
+      "productionCompanies": [
+         "Fox 2000 Pictures",
+         "Imagine Entertainment",
+         "Twentieth Century Fox Film Corporation"
+      ],
+      "summaries": [
+         "Set in the 1950s, Inventing the Abbotts is a dramatic look at the life of two boys from the wrong side of the tracks and their interaction with the three daughters of local aristocrat Lloyd Abbott. The boys, Jacey and Doug Holt, have only three things in common: their family, table tennis and chasing the beautiful Abbott sisters. Their father, a reckless risk-taker, lost his life through a wager with Lloyd Abbott, his then business partner.",
+         "A light-hearted story of two working-class brothers courting three wealthy and beautiful sisters in a small Illinois town."
+      ],
+      "budget": 0
+   },
+   "movielensId": 1498,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1997-04-04",
+      "dvdReleaseDate": "2001-03-13",
+      "directors": ["Pat O'Connor"],
+      "runtime": 110,
+      "movieId": 1498,
+      "title": "Inventing the Abbotts",
+      "mpaa": "R",
+      "actors": [
+         "Joaquin Phoenix",
+         "Liv Tyler",
+         "Jennifer Connelly",
+         "Billy Crudup",
+         "Joanna Going",
+         "Kathy Baker",
+         "Will Patton",
+         "Michael Sutton",
+         "Garrett M. Brown",
+         "Barbara Williams",
+         "Alessandro Nivola",
+         "Nicole M. Vassallo",
+         "Amanda Sherman",
+         "Shawn Hatosy",
+         "Julie Benz",
+         "Michael Keaton",
+         "Zoe McLellan"
+      ],
+      "imdbMovieId": "0119381",
+      "originalTitle": "Inventing the Abbotts",
+      "genres": [
+         "Drama",
+         "Romance"
+      ],
+      "youtubeTrailerIds": ["41N7G1gZSes"],
+      "plotSummary": "In the 1950s, brothers Jacey and Doug Holt, who come from the poorer side of their sleepy Midwestern town, vie for the affections of the wealthy, lovely Abbott sisters. Lady-killer Jacey alternates between Eleanor and Alice, wanting simply to break the hearts of rich young women. But sensitive Doug has a real romance with Pamela, which Jacey and the Abbott patriarch, Lloyd, both frown upon.",
+      "tmdbMovieId": 12723,
+      "avgRating": 3.19393,
+      "releaseYear": "1997",
+      "numRatings": 1284,
+      "posterPath": "/6L1SkHZB7jmMwFCrHMgRGJ9WAPG.jpg"
+   }
+}

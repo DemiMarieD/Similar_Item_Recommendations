@@ -1,0 +1,612 @@
+{
+   "tmdb": {
+      "original_language": "fr",
+      "keywords": [
+         {
+            "name": "paris",
+            "id": 90
+         },
+         {
+            "name": "nun",
+            "id": 745
+         },
+         {
+            "name": "boxer",
+            "id": 2792
+         },
+         {
+            "name": "lawyer",
+            "id": 10909
+         },
+         {
+            "name": "jewish",
+            "id": 11508
+         }
+      ],
+      "imdb_id": "tt0113828",
+      "video": false,
+      "title": "Les Miserables",
+      "recommendations": [
+         58828,
+         35760,
+         272842,
+         38523,
+         43384,
+         4412,
+         18628,
+         58160,
+         31270,
+         67596,
+         67167,
+         65958,
+         24984,
+         41936,
+         57908,
+         69099,
+         12652,
+         1785
+      ],
+      "backdrop_path": "/dOl26y7ZgoLOXMdkpdk7CF8EWuZ.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 4,
+               "character": "Henri Fortin / Jean Valjean",
+               "gender": 2,
+               "credit_id": "52fe4773c3a36847f81365ff",
+               "name": "Jean-Paul Belmondo",
+               "profile_path": "/2wzCE3051vejmirP20DVE1HBcTq.jpg",
+               "id": 3829,
+               "order": 0
+            },
+            {
+               "cast_id": 5,
+               "character": "André Ziman",
+               "gender": 2,
+               "credit_id": "52fe4773c3a36847f8136603",
+               "name": "Michel Boujenah",
+               "profile_path": "/88AsZPJz87HIwLAJta4m0Le3IWg.jpg",
+               "id": 35211,
+               "order": 1
+            },
+            {
+               "cast_id": 6,
+               "character": "Elise Ziman",
+               "gender": 1,
+               "credit_id": "52fe4773c3a36847f8136607",
+               "name": "Alessandra Martines",
+               "profile_path": "/xdc6jS6pYD5ZXztor5MwVemU4aN.jpg",
+               "id": 63895,
+               "order": 2
+            },
+            {
+               "cast_id": 7,
+               "character": "La fille Ziman",
+               "gender": 0,
+               "credit_id": "52fe4773c3a36847f813660b",
+               "name": "Salomé Lelouch",
+               "profile_path": "/3Amcib934w5qiomABzNTjcXHpCS.jpg",
+               "id": 141054,
+               "order": 3
+            },
+            {
+               "cast_id": 8,
+               "character": "Thénardière 1942",
+               "gender": 1,
+               "credit_id": "52fe4773c3a36847f813660f",
+               "name": "Annie Girardot",
+               "profile_path": "/qNioeFO3GcaIHDT5Mhb8SYMLqC.jpg",
+               "id": 6014,
+               "order": 4
+            },
+            {
+               "cast_id": 9,
+               "character": "Thénardier 1942",
+               "gender": 2,
+               "credit_id": "52fe4773c3a36847f8136613",
+               "name": "Philippe Léotard",
+               "profile_path": "/7yC5vbfGwyOgK83FDmNJG2ZPI8X.jpg",
+               "id": 3581,
+               "order": 5
+            },
+            {
+               "cast_id": 11,
+               "character": "Le policier / Javert",
+               "gender": 2,
+               "credit_id": "52fe4773c3a36847f8136617",
+               "name": "Philippe Khorsand",
+               "profile_path": "/eGtEV6lzChvg0tLYaBisj9lLjRC.jpg",
+               "id": 24464,
+               "order": 6
+            },
+            {
+               "cast_id": 12,
+               "character": "Le gentil voyou / Kind Hoodlum",
+               "gender": 2,
+               "credit_id": "52fe4773c3a36847f813661b",
+               "name": "Ticky Holgado",
+               "profile_path": "/2G0LmyNhNWlR55Zm5nlY6S79rPN.jpg",
+               "id": 13689,
+               "order": 7
+            },
+            {
+               "cast_id": 13,
+               "character": "Thénardier 1830 / 1990",
+               "gender": 2,
+               "credit_id": "52fe4773c3a36847f813661f",
+               "name": "Rufus",
+               "profile_path": "/bbMPwEFZaALc3VqBPZ8od2rmRuv.jpg",
+               "id": 2407,
+               "order": 8
+            },
+            {
+               "cast_id": 14,
+               "character": "Thénardière 1830 / 1990",
+               "gender": 0,
+               "credit_id": "52fe4773c3a36847f8136623",
+               "name": "Nicole Croisille",
+               "profile_path": "/sBZJBwcxW5w2L5bVDF93C2YbTfA.jpg",
+               "id": 133834,
+               "order": 9
+            },
+            {
+               "cast_id": 15,
+               "character": "Toureiffel",
+               "gender": 0,
+               "credit_id": "52fe4773c3a36847f8136627",
+               "name": "William Leymergie",
+               "profile_path": "/5i707cVdFiZtgJJvBHZcaaweUju.jpg",
+               "id": 141055,
+               "order": 10
+            },
+            {
+               "cast_id": 16,
+               "character": "Mgr Myriel",
+               "gender": 2,
+               "credit_id": "52fe4773c3a36847f813662b",
+               "name": "Jean Marais",
+               "profile_path": "/2zxltyxOiLDU7p6zgeotMgLV9V2.jpg",
+               "id": 9741,
+               "order": 11
+            },
+            {
+               "cast_id": 17,
+               "character": "La mère supérieure / Mother Superior",
+               "gender": 1,
+               "credit_id": "52fe4773c3a36847f813662f",
+               "name": "Micheline Presle",
+               "profile_path": "/l3JEGPsntAwicRgZaNelmVoYGmg.jpg",
+               "id": 34595,
+               "order": 12
+            },
+            {
+               "cast_id": 18,
+               "character": "Le bouquiniste / Bookseller",
+               "gender": 0,
+               "credit_id": "52fe4773c3a36847f8136633",
+               "name": "Darry Cowl",
+               "profile_path": "/a7HRxfs6ZrKfPRwYLI8VRoeYyQr.jpg",
+               "id": 24807,
+               "order": 13
+            },
+            {
+               "cast_id": 19,
+               "character": "Catherine / Fantine",
+               "gender": 1,
+               "credit_id": "52fe4773c3a36847f8136637",
+               "name": "Clémentine Célarié",
+               "profile_path": "/yffWfisdfIgNjMMJH4zof2aNHXs.jpg",
+               "id": 109516,
+               "order": 14
+            },
+            {
+               "cast_id": 20,
+               "character": "Le comte de Villeneuve",
+               "gender": 2,
+               "credit_id": "5961331cc3a3680dec099943",
+               "name": "Daniel Toscan du Plantier",
+               "profile_path": "/635p8QihDt4w6GJlnV9dKoZO6o.jpg",
+               "id": 23508,
+               "order": 15
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4773c3a36847f81365ef",
+               "name": "Claude Lelouch",
+               "profile_path": "/ngmASNQKQLSMriQajGZKaEcWcqc.jpg",
+               "id": 16862,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4773c3a36847f81365f5",
+               "name": "Victor Hugo",
+               "profile_path": "/hmuqFVKbpXDXgeT40hQdghgdlJy.jpg",
+               "id": 37127,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4773c3a36847f81365fb",
+               "name": "Claude Lelouch",
+               "profile_path": "/ngmASNQKQLSMriQajGZKaEcWcqc.jpg",
+               "id": 16862,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a9f20c7c3a3680a130077ef",
+               "name": "Claude Lelouch",
+               "profile_path": "/ngmASNQKQLSMriQajGZKaEcWcqc.jpg",
+               "id": 16862,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a9f20d39251414bb6001d24",
+               "name": "Didier Barbelivien",
+               "profile_path": null,
+               "id": 1086223,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a9f20dd0e0a2641d4007b7a",
+               "name": "Erik Berchot",
+               "profile_path": null,
+               "id": 578514,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a9f20e7c3a368152a001f7e",
+               "name": "Francis Lai",
+               "profile_path": null,
+               "id": 19607,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a9f20f10e0a2632a0001eb4",
+               "name": "Michel Legrand",
+               "profile_path": "/ewYlyU0UvONnt7jjHhaSXCKVHVa.jpg",
+               "id": 10934,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a9f20fd0e0a2641e0007491",
+               "name": "Philippe Servain",
+               "profile_path": null,
+               "id": 1991956,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a9f210a92514158150072fe",
+               "name": "Claude Lelouch",
+               "profile_path": "/ngmASNQKQLSMriQajGZKaEcWcqc.jpg",
+               "id": 16862,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a9f21130e0a2641e00074a7",
+               "name": "Philippe Pavans de Ceccatty",
+               "profile_path": null,
+               "id": 73396,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a9f21210e0a2641e00074b6",
+               "name": "Hélène de Luze",
+               "profile_path": null,
+               "id": 578516,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a9f212cc3a3680a0f007a84",
+               "name": "Jacques Bufnoir",
+               "profile_path": null,
+               "id": 1966,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a9f2131c3a3680a1900764e",
+               "name": "Jacques Bufnoir",
+               "profile_path": null,
+               "id": 1966,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a9f213c925141580f00756d",
+               "name": "Laurent Tesseyre",
+               "profile_path": null,
+               "id": 1193040,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a9f2141925141581100751d",
+               "name": "Laurent Tesseyre",
+               "profile_path": null,
+               "id": 1193040,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a9f214dc3a3680a20006bdb",
+               "name": "Dominique Borg",
+               "profile_path": null,
+               "id": 1204166,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a9f2156c3a3680a0f007aa3",
+               "name": "Magali Ceyrat",
+               "profile_path": null,
+               "id": 1582375,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a9f21609251414bd3001bff",
+               "name": "Sano De Perpessac",
+               "profile_path": null,
+               "id": 1321631,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a9f216bc3a3680a27007218",
+               "name": "Charly Koubesserian",
+               "profile_path": null,
+               "id": 1098407,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a9f217a9251414bd3001c1a",
+               "name": "Jean Gargonne",
+               "profile_path": null,
+               "id": 19343,
+               "department": "Sound",
+               "job": "Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a9f21840e0a2641d4007c17",
+               "name": "Pierre Martens",
+               "profile_path": null,
+               "id": 1969394,
+               "department": "Sound",
+               "job": "Sound Recordist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a9f218ec3a3680a27007236",
+               "name": "Harald Maury",
+               "profile_path": null,
+               "id": 49504,
+               "department": "Sound",
+               "job": "Sound Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a9f2197c3a3680a3000815d",
+               "name": "Gérard Rousseau",
+               "profile_path": null,
+               "id": 1865842,
+               "department": "Sound",
+               "job": "Sound Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a9f21a10e0a2632a0001f65",
+               "name": "Eric Tisserand",
+               "profile_path": null,
+               "id": 1830818,
+               "department": "Sound",
+               "job": "Sound Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a9f21ab9251414bb6001de9",
+               "name": "Jean-Noël Yven",
+               "profile_path": null,
+               "id": 572513,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "History",
+            "id": 36
+         }
+      ],
+      "popularity": 1.050845,
+      "production_countries": [{
+         "iso_3166_1": "FR",
+         "name": "France"
+      }],
+      "id": 48750,
+      "vote_count": 12,
+      "budget": 0,
+      "overview": "In France during World War II, a poor and illiterate man, Henri Fortin (Jean-Paul Belmondo), is introduced to Victor Hugo's classic novel Les Misérables and begins to see parallels between the book and his own life.",
+      "similar": [
+         1366,
+         1367,
+         1246,
+         1371,
+         1375,
+         1374,
+         921,
+         1578,
+         70,
+         707,
+         680,
+         283227,
+         9800,
+         1427,
+         1278,
+         59,
+         80,
+         522,
+         979,
+         1574
+      ],
+      "original_title": "Les misérables",
+      "runtime": 175,
+      "poster_path": "/ePJCk8puXx28CtvpSpmezpwfVt8.jpg",
+      "spoken_languages": [{
+         "name": "Français",
+         "iso_639_1": "fr"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "TF1",
+            "id": 22123,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Canal+",
+            "id": 5358,
+            "origin_country": "FR"
+         },
+         {
+            "logo_path": null,
+            "name": "Les Films 13",
+            "id": 1742,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1995-03-22",
+      "vote_average": 6.5,
+      "belongs_to_collection": null,
+      "tagline": "In a time of chaos, in a world of change, he was moved by a book he could not read to become a hero he never imagined.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "France",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Claude Lelouch"],
+      "runtime": 175,
+      "synopsis": "This movie is basically the original story of Les Miserables, used in the time of World War Two. Basically an ex boxer, an ex dancer and their daughter are trying to get away from the Nazis (obviously becuse they are Jewish). In that they meet a man who can be referred to as the 20th century Jean Valjean (of the original play). If you know who he is and the original play, you can match up the story and how it is Les Miserables of World War 2. During the course of the film the family is seperated but in the end they continue to live out the original story of Les Miserables and reunite with the help of Henry Fortin (or Jean Valjean). There are a few differences between the original play and this one that are left out but the beautiful drama of a story still lives within the horrors of World War 2 and have the same impact as it should.",
+      "writers": [
+         "Victor Hugo",
+         "Claude Lelouch"
+      ],
+      "originalLanguage": "French",
+      "imdbLink": "http://www.imdb.com/title/tt0113828/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMjE3Mjg5MzY5MV5BMl5BanBnXkFtZTcwMTEwNjgxMQ@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Jean-Paul Belmondo, Michel Boujenah, Alessandra Martines | See full cast and crew »"],
+      "reviews": [
+         "Carried on the winds of fate, injustice often settles upon the poor and downtrodden, whose only link to salvation may lie in the truth they carry in their hearts and the manifested courage of their convictions. And sometimes that quest for justice and truth must be mounted against all odds, as in this 1995 version of `Les Miserables,' written for the screen and directed by Claude Lelouch. An imaginative retelling of the Hugo classic, Lelouch updates the story to the Twentieth Century, beginning with the stroke of midnight that ushers in the New Era. It's an inauspicious beginning of a new year for Henri Fortin (Jean-Paul Belmondo), however, as he becomes a victim of circumstance and is convicted of a crime he did not commit. As he goes off to prison, he leaves behind a wife and a young son (also named Henri), who must fend for themselves as best they can. It leads to a miserable existence for all concerned, but steels the young Henri for what is yet to come, and he quickly learns that when things seemingly cannot get any worse, they not only can, but do. Ultimately, this becomes the story of the young Henri, whom we next encounter at the end of World War I. Now a boxer, he is soon to become a contender. By 1931, however (when we next meet him), that part of his life is behind him as well, and he has become a furniture mover; and with his own truck, he is able to at least make a passable living. But at this point, we are introduced to Andre Ziman (Michel Boujenah) who has just met the soon-to-be Mme Ziman (Alessandra Martines), who by the beginning of the Second World War are destined, along with their young daughter, Salome (Salome), to become an integral part of Henri's (also played by Jean-Paul Belmondo) life. Henri, like his father, is illiterate; and when circumstances bring him together with the Ziman's, he is inadvertently introduced to Hugo's novel, and soon begins to realize how his own life parallels that of, initially, Cosette, and later-- and most significantly-- Jean Valjean. When they end up taking a journey together, Henri implores Ziman to read the story to him as they travel. And it's as if in the words of Hugo and the life of Jean Valjean, Henri discovers within himself all that is good and worthwhile. Lelouch has crafted and delivered a poignant version of the familiar tale of injustice and perseverance that borders on the profound. By interspersing scenes of the Hugo story as they are being read to Henri (in which Belmondo is Jean Valjean), we see the parallels being drawn even as they become clear to Henri. The film is fraught with irony and succinctly captures the essence of Hugo's novel; it's as if Lelouch had been possessed of Hugo's spirit when he wrote the screenplay, as well as later when he brought his vision to fruition, the finished product of which has to rank among the best interpretations of the story ever. The supporting cast includes Annie Girardot (Farmer's Wife), Philippe Leotard (Farmer), Clementine Celarie (Mme Fortin), Philippe Khorsand (Javert), Nicole Croisille (Thenardiere), Rufus (Thenardier), William Leymergie (Toureiffel) and Micheline Presle (Mother Superior). An emotionally engaging, riveting drama that will sweep you up and carry you away, `Les Miserables' is a tale of dignity and courage, and of what it takes to overcome betrayal and injustice. But even more than that, it's a study of morality; of right against wrong and of good that in the end must triumph over evil. A superior cinematic rendering of the classic story, this film-- especially for those to who love the novel-- is not to be missed. I rate this one 10/10.",
+         "one of the greatest French films of the last few decades yet, sadly, a film almost entirely overlooked by most critics...including the Lelouch-bashers of the contemporary French film industry. make no mistake: most of those who have seen it--certainly everyone I know who has seen it--tend to regard it as a genuine classic of world cinema and the finest film of the year of its release. powerful, skillful and impassioned, I can recommend it without reservation. a triumph for all concerned.",
+         "In a word...wow! Entertaining, haunting and enchanting film which intertwines the Victor Hugo novel with twentieth century events. The complexities of the human condition (which French filmakers tend to excel in over their American counterparts) are explored. Human emotions and logic struggle for control in every situation, and this beautiful story delves deep. It's an old struggle, true...yet rarely done so well. The protagonist (Jean Paul Belmondo was born to play this role)Henri Fortin, struggles from his impoverished childhood to his adulthood where the struggle for criminality and nobleness compete heavily. His story and that of Valjean from the novel compliment and collide. The people and the situations he encounters, all involve themselves in a montage of life and experiences. LES MISERABLES is a unique, beautiful and complex story about a simple man. It unflinchingly exposes the good and evil that can arise from the human soul, in the worst of circumstances. This film that should not be overlooked on your next trip to the video store, or if you're lucky enough, a large screen viewing at a cinema.",
+         "This film is fantastic - I hope to find a DVD of it. My husband didn't fancy it but within 10 minutes was transfixed, and it's now one of his favourite films. It requires concentration because of the different story strands (and the fact that Jean-Paul Belmondo plays different characters in different stories) but the reward is great. It does capture the polarised human aspects of those who are selfless and help others at great danger to themselves, and those who exploit or betray others for their own gain. Truly unique.",
+         "Remarkable...one of the greatest films of the last 50 years and easily one of the most underrated. Commitment and heart, Victor Hugo and the Normandy Invasion on a budget of under 10 million? Hollywood should learn from this...",
+         "I do not remember the last time I was so moved by a film. This is not an easy film to watch - simply because it is so intelligent and beautifully executed. Belmondo and Lelouch are two masters at the top of their form. I cannot recommend the film any higher. But if you are going to watch, then you have to prepare yourself to be swept away and give yourself completely to the movie as Lelouch clearly did!",
+         "Seldom has a well-known plot served so well as germ for a loose adaptation of the same title. The usual pitfalls of remakes and adaptations have been avoided and the result is a breathtaking picture with a wondrous mix of surreal coincidence, fantasy, fluent narration, everyday detail brilliantly highlighted and genuine pain. The tempo of this movie is fast yet never rushed. The story lends itself perfectly to the cyclic nature of Lelouche's adaptation and the actors are brilliant. How is it possible that Martines (Mrs Ziman) is not world-famous? Of all the Les Miserables made to date, in my view this is by far the best.",
+         "This particular film is amazing! I have read the book and consider it one of the most important works in time. The Broadway play is also amazing with its vocals, scenery and special effects. So how do you make a movie that truly captures the essence of what Victor Hugo's vision? The Liam Neeson movie falls incredibly short, but this film captures the true essence and spirit of Jean Valjean! It creatively tells you Hugo's story while telling you about another character's journey similiar to that of Valjean's! A hard-working, uneducated man offers to help a Jewish family escape the Holocaust. The Jewish family recognizes the spirit of Jean Valjean in this man and offer to tell him about Jean Valjean as they are fleeing out of harm's way. If you are looking for an interesting, unique movie to watch, THIS IS THE ONE!",
+         "This is a truly beautiful film, remarkable for it's simple elegance in unraveling the story of it's principal characters which belies the many complex layers that lie underneath, as Hugo's original characters make their increasing presence felt as the story progresses. It would be highly advantageous to have a good grasp of the characters and plot/line of Hugo's \"Les Miserables\" in advance of watching the film in order to fully appreciate the universality and agelessness of the human situations which are re-encountered in this particular World War II setting. Both Hugo's novel and the film fully empathize with our universal human experience, and what are still the central concerns of our lives: pleasure & pain, the love and hate present in our relationships, and at the most fundamental level, simple survival. It can leave the viewer personally identifying one moment with Jean-Valjean, and yet in the next with Fantine or Cosette, and inevitably (disturbingly), with Javert. This is an exquisite exploration and contrast of our human capacities both to bring about almost unlimited destruction, and to build life and inextinguishable hope. Very special.",
+         "This French movie is a 20th century version of Hugo's classic. The story itself is entirely different, with a new Jean Valjean who identifies with the original hero shown in flashback throughout the film. The story is mostly about this new Jean Valjean and his life during the Nazi occupation of France and his relationship with a Jewish family that he attempts to save from the Holocaust. The story is beautifully told with a superb cast led by Jean-Paul Belmondo in three roles. The movie flawlessly weaves the characters' lives together to an enormously esquisite and life affirming conclusion. Superb in all aspects of film-making. Hats off to Claude Lelouche (writer-director) and everyone else associated with the making of this fabulous epic."
+      ],
+      "genres": [
+         "Drama",
+         "History"
+      ],
+      "productionCompanies": [
+         "Canal+",
+         "Les Films 13",
+         "TF1"
+      ],
+      "summaries": [
+         "Henri Fortin is poor and iliterate former boxer. Ziman is rich Jewish lawyer from Paris. During WWII they meet when Fortin agrees to drive Ziman's family to Switzerland. Intrigued by Victor Hugo's novel \"Les Miserables\", Fortin asks the Zimans to read that book to him during the travel. Before the end of movie every main character would see his character in situations similar to those in Hugo's novel.",
+         "A variation on Victor Hugo's classic novel by means of the story of a man whose life is affected by and somewhat duplicated by the Hugo story of the beleaguered Jean Valjean."
+      ],
+      "budget": 0
+   },
+   "movielensId": 73,
+   "movielens": {
+      "languages": ["Français"],
+      "releaseDate": "1995-03-22",
+      "dvdReleaseDate": null,
+      "directors": ["Claude Lelouch"],
+      "runtime": 175,
+      "movieId": 73,
+      "title": "Les Miserables",
+      "mpaa": "",
+      "actors": [
+         "Jean-Paul Belmondo",
+         "Michel Boujenah",
+         "Alessandra Martines",
+         "Salomé Lelouch",
+         "Annie Girardot",
+         "Philippe Léotard",
+         "Philippe Khorsand",
+         "Ticky Holgado",
+         "Rufus",
+         "Nicole Croisille",
+         "William Leymergie",
+         "Jean Marais",
+         "Micheline Presle",
+         "Darry Cowl",
+         "Clémentine Célarié",
+         "Daniel Toscan du Plantier"
+      ],
+      "imdbMovieId": "0113828",
+      "originalTitle": "Les misérables",
+      "genres": [
+         "Drama",
+         "History"
+      ],
+      "youtubeTrailerIds": ["hck5I4F1OgU"],
+      "plotSummary": "In France during World War II, a poor and illiterate man, Henri Fortin (Jean-Paul Belmondo), is introduced to Victor Hugo's classic novel Les Misérables and begins to see parallels between the book and his own life.",
+      "tmdbMovieId": 48750,
+      "avgRating": 3.79639,
+      "releaseYear": "1995",
+      "numRatings": 3433,
+      "posterPath": "/ePJCk8puXx28CtvpSpmezpwfVt8.jpg"
+   }
+}

@@ -1,0 +1,664 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "dancing",
+            "id": 246
+         },
+         {
+            "name": "dance",
+            "id": 1691
+         },
+         {
+            "name": "locksmith",
+            "id": 6735
+         },
+         {
+            "name": "welder",
+            "id": 165445
+         }
+      ],
+      "imdb_id": "tt0085549",
+      "video": false,
+      "title": "Flashdance",
+      "recommendations": [
+         11009,
+         1788,
+         8130,
+         3537,
+         88,
+         3525,
+         10068,
+         12154,
+         13665,
+         10805,
+         10328,
+         16620,
+         2619,
+         9346,
+         5968,
+         10765,
+         11557,
+         10998,
+         26827,
+         10875
+      ],
+      "backdrop_path": "/4j8ZD5SyKCaPh2xhkE23ricTMCH.jpg",
+      "revenue": 92921203,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "Alex Owens",
+               "gender": 1,
+               "credit_id": "52fe424ec3a36847f801406f",
+               "name": "Jennifer Beals",
+               "profile_path": "/x3HHLQ7UVZDuSU5e2wZMQWEjrwl.jpg",
+               "id": 3130,
+               "order": 0
+            },
+            {
+               "cast_id": 13,
+               "character": "Nick Hurley",
+               "gender": 2,
+               "credit_id": "52fe424ec3a36847f80140af",
+               "name": "Michael Nouri",
+               "profile_path": "/lAPEwuE9Cg6xSgcgO2M2pFJ3ul5.jpg",
+               "id": 8699,
+               "order": 1
+            },
+            {
+               "cast_id": 14,
+               "character": "Hanna Long",
+               "gender": 1,
+               "credit_id": "52fe424ec3a36847f80140b3",
+               "name": "Lilia Skala",
+               "profile_path": "/xTVtzJfWEivDmSAoJvL51a7Ynbj.jpg",
+               "id": 31114,
+               "order": 2
+            },
+            {
+               "cast_id": 15,
+               "character": "Richie",
+               "gender": 2,
+               "credit_id": "52fe424ec3a36847f80140b7",
+               "name": "Kyle T. Heffner",
+               "profile_path": "/9c8G4diZ3Nr8jClTANqMOwmTN9z.jpg",
+               "id": 31115,
+               "order": 3
+            },
+            {
+               "cast_id": 16,
+               "character": "Jeanie Szabo",
+               "gender": 1,
+               "credit_id": "52fe424ec3a36847f80140bb",
+               "name": "Sunny Johnson",
+               "profile_path": "/mKFoSy6SFZzaXKcEy6guoqu9gWU.jpg",
+               "id": 31116,
+               "order": 4
+            },
+            {
+               "cast_id": 18,
+               "character": "Frank Szabo",
+               "gender": 2,
+               "credit_id": "52fe424ec3a36847f80140c3",
+               "name": "Philip Bruns",
+               "profile_path": "/jogGxPsyoU3ofLXZwpaAxTGE5NI.jpg",
+               "id": 31117,
+               "order": 5
+            },
+            {
+               "cast_id": 24,
+               "character": "Rosemary Szabo",
+               "gender": 1,
+               "credit_id": "542316cdc3a3681eca0005b8",
+               "name": "Micole Mercurio",
+               "profile_path": "/rqNwt1vtix7LJ94TjTin0t9vnHC.jpg",
+               "id": 21202,
+               "order": 6
+            },
+            {
+               "cast_id": 20,
+               "character": "Tina Tech",
+               "gender": 1,
+               "credit_id": "54231645c3a3680876001cb5",
+               "name": "Cynthia Rhodes",
+               "profile_path": "/zt0z8Mj1aQC8SHeYAo6vph9Hd6.jpg",
+               "id": 724,
+               "order": 7
+            },
+            {
+               "cast_id": 21,
+               "character": "Johnny C.",
+               "gender": 2,
+               "credit_id": "54231675c3a3680887001b20",
+               "name": "Lee Ving",
+               "profile_path": "/tG4MKdOp1viff4rrCbH8WQEhIE3.jpg",
+               "id": 80745,
+               "order": 8
+            },
+            {
+               "cast_id": 22,
+               "character": "Jake Mawby",
+               "gender": 0,
+               "credit_id": "54231692c3a3680880001d49",
+               "name": "Ron Karabatsos",
+               "profile_path": "/i4YiJSoEGOVZ5CUsQF0wpnUGdLz.jpg",
+               "id": 1367324,
+               "order": 9
+            },
+            {
+               "cast_id": 23,
+               "character": "Katie Hurley",
+               "gender": 1,
+               "credit_id": "542316a8c3a3680887001b26",
+               "name": "Belinda Bauer",
+               "profile_path": "/2YAaeWOjbHig2COD9omZXbirr0e.jpg",
+               "id": 44049,
+               "order": 10
+            },
+            {
+               "cast_id": 34,
+               "character": "Secretary",
+               "gender": 0,
+               "credit_id": "581539199251415a7f004f61",
+               "name": "Lucy Lee Flippin",
+               "profile_path": "/rWYgbZI4aY9QsweS3l8c9R2rJqx.jpg",
+               "id": 81689,
+               "order": 11
+            },
+            {
+               "cast_id": 35,
+               "character": "Heels",
+               "gender": 0,
+               "credit_id": "581539769251415d6100540c",
+               "name": "Durga McBroom",
+               "profile_path": "/ruG30B124uqdAFivtzQp3rZVayf.jpg",
+               "id": 1237185,
+               "order": 12
+            },
+            {
+               "cast_id": 38,
+               "character": "Sunny",
+               "gender": 1,
+               "credit_id": "59311b28c3a3686a5000970f",
+               "name": "Liz Sagal",
+               "profile_path": "/t4YiF2Ezhv6AtAPcOpL07Rp2aNJ.jpg",
+               "id": 1027773,
+               "order": 13
+            },
+            {
+               "cast_id": 39,
+               "character": "Cecil",
+               "gender": 2,
+               "credit_id": "59357bcbc3a36859de035c4e",
+               "name": "Malcolm Danare",
+               "profile_path": "/6PQPp4Yim18xuNCBGQLg2cYAstY.jpg",
+               "id": 14738,
+               "order": 14
+            },
+            {
+               "cast_id": 40,
+               "character": "Pete",
+               "gender": 0,
+               "credit_id": "59357db0c3a3685a3503738a",
+               "name": "Don Brockett",
+               "profile_path": "/pgBUJ6jnk3wS3ByG9mOl0JcQUKW.jpg",
+               "id": 31118,
+               "order": 15
+            },
+            {
+               "cast_id": 41,
+               "character": "Margo",
+               "gender": 0,
+               "credit_id": "5935836b9251417dd4038aad",
+               "name": "Stacey Pickren",
+               "profile_path": "/k5VKgr8BCl3ZIGsGkBT5lWyyuMU.jpg",
+               "id": 69056,
+               "order": 16
+            },
+            {
+               "cast_id": 37,
+               "character": "Mawby's Regular",
+               "gender": 2,
+               "credit_id": "581539adc3a36875570048c5",
+               "name": "Robert Wuhl",
+               "profile_path": "/7bboXtHrq8qOtQBdcZko3KJfFyH.jpg",
+               "id": 4040,
+               "order": 17
+            },
+            {
+               "cast_id": 42,
+               "character": "Mawby's Regular",
+               "gender": 2,
+               "credit_id": "593585879251417dea03802e",
+               "name": "Matt Landers",
+               "profile_path": "/fImrhGnBAUDAEMvFW5TmjGkcwen.jpg",
+               "id": 156522,
+               "order": 18
+            },
+            {
+               "cast_id": 46,
+               "character": "Mawby's Regular",
+               "gender": 2,
+               "credit_id": "59358d9dc3a3683fd9000033",
+               "name": "Steve Price",
+               "profile_path": "/sXDmFPiq97STeuZ6jMgnHggVOFO.jpg",
+               "id": 1828979,
+               "order": 19
+            },
+            {
+               "cast_id": 43,
+               "character": "Mawby's Regular",
+               "gender": 2,
+               "credit_id": "593585a1c3a36859ef037291",
+               "name": "Frank Pesce",
+               "profile_path": "/qkMpNT7rJj8offjNuv5OZ0VeUVQ.jpg",
+               "id": 101615,
+               "order": 20
+            },
+            {
+               "cast_id": 44,
+               "character": "Mr. Freeze",
+               "gender": 2,
+               "credit_id": "5935897dc3a36859de0368ad",
+               "name": "Marc Lemberger",
+               "profile_path": "/31JbOlHBzbN2wh76r3AWdIWWmZc.jpg",
+               "id": 1828977,
+               "order": 21
+            },
+            {
+               "cast_id": 45,
+               "character": "Frosty Freeze",
+               "gender": 2,
+               "credit_id": "59358c049251417dd8037f13",
+               "name": "Wayne Frost",
+               "profile_path": "/tcGCWSAAruIf4O7oQXXpZyD5yxK.jpg",
+               "id": 1828978,
+               "order": 22
+            },
+            {
+               "cast_id": 47,
+               "character": "Dancer at Repertory",
+               "gender": 1,
+               "credit_id": "59358fd2925141749c000020",
+               "name": "Debra Gordon",
+               "profile_path": "/wTQjf2atFRwhs1JO7uL9xhiuEk3.jpg",
+               "id": 96021,
+               "order": 23
+            },
+            {
+               "cast_id": 48,
+               "character": "Waiter",
+               "gender": 2,
+               "credit_id": "5935916c92514174aa0001c1",
+               "name": "Tony De Santis",
+               "profile_path": "/tRWpDhV7Vv9JyWiIgaQf2H3ocD3.jpg",
+               "id": 199811,
+               "order": 24
+            },
+            {
+               "cast_id": 49,
+               "character": "Woman at Hanna Long's",
+               "gender": 0,
+               "credit_id": "593592f1925141749c0002e9",
+               "name": "Ann Muffly",
+               "profile_path": "/e3RdEtaeGPpOVsYM1czws106faf.jpg",
+               "id": 103819,
+               "order": 25
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe424ec3a36847f801406b",
+               "name": "Adrian Lyne",
+               "profile_path": "/oebBxmZ88IuCF99rX4RUmudk6S1.jpg",
+               "id": 7270,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe424ec3a36847f8014075",
+               "name": "Thomas Hedley Jr.",
+               "profile_path": null,
+               "id": 31113,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe424ec3a36847f801407b",
+               "name": "Joe Eszterhas",
+               "profile_path": null,
+               "id": 10492,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe424ec3a36847f8014081",
+               "name": "Don Simpson",
+               "profile_path": "/vYpPZLSh4ylzgP5KsEUnjt1UDRh.jpg",
+               "id": 771,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe424ec3a36847f8014087",
+               "name": "Jerry Bruckheimer",
+               "profile_path": "/lQu9eRzRX264j2LFQwvKC50wb9s.jpg",
+               "id": 770,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe424ec3a36847f801408d",
+               "name": "Giorgio Moroder",
+               "profile_path": "/eLLfR6XvAg0raCNB06Ot38jdRQN.jpg",
+               "id": 1154,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe424ec3a36847f8014093",
+               "name": "Donald Peterman",
+               "profile_path": null,
+               "id": 9614,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe424ec3a36847f8014099",
+               "name": "Gretchen Rennell",
+               "profile_path": null,
+               "id": 7534,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe424ec3a36847f801409f",
+               "name": "Charles Rosen",
+               "profile_path": null,
+               "id": 1049,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe424ec3a36847f80140a5",
+               "name": "Marvin March",
+               "profile_path": null,
+               "id": 8867,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe424ec3a36847f80140ab",
+               "name": "Michael Kaplan",
+               "profile_path": "/pgME9OWsN2y3UZw1OsXbqmN2fEx.jpg",
+               "id": 605,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "570e345ec3a3684517000148",
+               "name": "John R. Shannon",
+               "profile_path": null,
+               "id": 55245,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "570e34a3c3a368451700015b",
+               "name": "Dickson P. Sorensen",
+               "profile_path": null,
+               "id": 1605140,
+               "department": "Camera",
+               "job": "Additional Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "570e34bbc3a368454e000604",
+               "name": "Joel Marrow",
+               "profile_path": null,
+               "id": 1399328,
+               "department": "Crew",
+               "job": "Transportation Coordinator"
+            },
+            {
+               "gender": 1,
+               "credit_id": "570e34dcc3a3684537000118",
+               "name": "Joanie Blum",
+               "profile_path": null,
+               "id": 1423019,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "570e34f59251411618000109",
+               "name": "Jim Henrikson",
+               "profile_path": null,
+               "id": 1399326,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "570e351cc3a368453700011b",
+               "name": "Adam Fields",
+               "profile_path": null,
+               "id": 1586,
+               "department": "Sound",
+               "job": "Music Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "570e354d925141161c000121",
+               "name": "Phil Ramone",
+               "profile_path": null,
+               "id": 960692,
+               "department": "Sound",
+               "job": "Music Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "570e35bac3a3680a2c0020e1",
+               "name": "Paula Cain",
+               "profile_path": null,
+               "id": 1605141,
+               "department": "Costume & Make-Up",
+               "job": "Costume Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "570e35d8c3a368455f000136",
+               "name": "Thomas Hedley Jr.",
+               "profile_path": null,
+               "id": 31113,
+               "department": "Writing",
+               "job": "Story"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Music",
+            "id": 10402
+         },
+         {
+            "name": "Romance",
+            "id": 10749
+         }
+      ],
+      "popularity": 9.59873,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 535,
+      "vote_count": 404,
+      "budget": 4000000,
+      "overview": "The popular 1980\u2019s dance movie that depicts the life of an exotic dancer with a side job as a welder who true desire is to get into ballet school. It\u2019s her dream to be a professional dancer and now is her chance. The film has a great soundtrack with an Oscar winning song.",
+      "similar": [
+         68817,
+         1788,
+         44214,
+         10560,
+         9762,
+         342473,
+         804,
+         88,
+         46705,
+         264660,
+         10545,
+         82693,
+         38050,
+         316029,
+         335797,
+         313369,
+         525,
+         8328,
+         10527,
+         20352
+      ],
+      "original_title": "Flashdance",
+      "runtime": 95,
+      "poster_path": "/pW8tRnHJbZfobnEX16CjkOg8bAH.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
+         "name": "Paramount",
+         "id": 4,
+         "origin_country": "US"
+      }],
+      "release_date": "1983-04-14",
+      "vote_average": 6.2,
+      "belongs_to_collection": null,
+      "tagline": "When the dancer becomes the dance.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Adrian Lyne"],
+      "runtime": 95,
+      "synopsis": "The film opens with \"Flashdance... What a Feeling,\" which is a recurring theme throughout the entire film. During the opening credits 18-year-old Alexandra 'Alex' Owens (Jennifer Beals) rides her bicycle through Pittsburgh on her way to work as a welder at one of the city's steel mills. After work, Alex moonlights as a dancer at Mawby's Bar, which features dancers in a go-go atmosphere. Nick Hurley, one of the steel mill bosses, enters the bar as Alex performs a dance to \"He's a Dream.\" Nick is intrigued by Alex. His friend tells him that she works for him at the mill. Richie, the bar's cook, wants to be go to Los Angeles to become a standup comedian. He tries out some of his material on Jeanie, one of the waitresses. At work the next day, Nick introduces himself to Alex, tells her he saw her dance and asks why a dancer would be working as a welder. She responds, \"a girl's got to make a living.\" Their first meeting ends when Nick is called away to another area of the mill. Alex lives by herself in a converted warehouse loft with her pit bull, named Grunt. When she gets home from work, she channel surfs for something worth watching on TV. She stops on some ballet dancers performing to \"Adagio for Strings\" and attempts to copy their moves. It is Alex's dream to study at a local, prestigious school of dance, the Pittsburgh Dance and Repertory Company. She changes into exercise clothes, tapes her bare feet and feverously exercises to \"Maniac.\" The song's lyrics reflect her passion to become a serious dancer. After her strenuous workout, she's exhausted. The next day Alex bikes to the Repertory building to obtain an application, but is discouraged when she finds several girls waiting for applications. The lady in the admissions office instructs them to list all their previous years of training. Alex leaves without an application and bikes to work. When Alex and Nick share an elevator ride at work, he asks her to lunch or dinner, but she tells him she doesn't have dinner with the boss. Later Alex visits Hanna Long, a retired professional dancer, who has become her mentor. Hanna encourages Alex to pursue her dream of becoming a professional ballet dancer, but Alex makes excuses for not auditioning for the Rep. After she leaves Hanna's, Alex bikes to a nearby church where she confesses to the priest that she thinks a lot about sex and she told a lie. Hanna was badgering Alex to get the application for the Rep, but she didn't want to make her friend unhappy by telling her that she didn't have the courage to go through with it. In the next scene Johnny C., who runs the Zanzibar strip club, and his not-too-bright bodyguard, Cecil, try to entice customers into his club. At a self service laundry, Alex notices that Jeanie is washing Richie's underwear, confirming that these two are a serious couple. Jeanie's father is giving her a hard time because Richie hasn't proposed. Jeanie has dreams of becoming a professional ice skater. Next, Alex and several of the dancers from Mawby's exercise with weights and use workout machines to \"I Love Rock 'n' Roll.\" As Jeanie and Alex walk down the street, a group of African-American guys breakdance and moonwalk to music played on their jambox. Quite a crowd gathers to watch their demonstration. As the girls continue their walk, a policeman directs traffic. When Alex helps the traffic cop with his duties, it turns into a traffic signal dance, as an excerpt from Georges Bizet's \"Carmen Suite No. 2: Garde montant\" is heard. At dinner at Jeanie's parents house, Alex defends her friend's dream of becoming a professional ice skater even though her parents don't seem to have much confidence in their daughter's abilities. After dinner the two girls go to the ice rink where Jeanie showcases some of her skating skills. In the following scene Richie is backstage practicing some of his jokes waiting to go on while one of the dancers finishes her routine on stage. Alex and a couple of the other dancers are in the audience rooting for him. Jeanie stops her waitressing to listen. At first, Richie's jokes bomb. Only after he threatens to put cockroaches in the hamburgers does the audience warm up to his humor. At the end of his routine, he introduces Tina Tech, who dances to \"Manhunt.\" Johnny C. visits Mawby's to recruit some of the dancers to work at the Zanzibar. When he stops Alex and squeezes her buttocks, she pours beer on his crotch. Later after work as Richie and Alex are walking through a parking lot, Johnny and Cecil stop them. After Cecil socks Richie in the nose, Nick breaks up a potentially violent payback. Afterwards, Alex thanks Nick for his help and bikes home. Nick follows her in his Porsche and asks her to dinner again. Once again she reiterates that it isnt a good idea to go out with her boss, so he kiddingly fires her and sets a date for the next evening. On their date, Alex and Nick first attend Jeanie's ice skating competition. Jeanie's parents and Richie are also there to watch her skate to \"Gloria.\" Unfortunately, Jeanie falls a couple of times. Afterwards, Alex tries to cheer Jeanie up, but she is discouraged that she has spent so much time and practice towards something that now seems like a waste. Her father, who hasn't been very supportive of his daughter's dream, reassures her of his love. After the ice skating competition Nick and Alex decide to have pizza for dinner. They pick it up and take it back to her warehouse apartment. She immediately changes into a much more comfortable sloppy sweatshirt. Alex tells Nick about the time her father took her family to the symphony. At first, she was bored, but her father suggested that if she closed her eyes she could see the music. Before the evening is over, Nick and Alex end up in bed. The next day the two lovers walk on the railroad tracks as \"Lady, Lady, Lady\" is heard. They go inside an old building where Nick sees Alex spin like a ballet dancer. When he asks her to do it again, she says she was just fooling around. She explains that she has never studied dance; she's read books on ballet and watches ballet, but has never taken classes. Then she explains how she does what she does at Mawby's. She just feels the music, something clicks inside and she becomes somebody else. And she loves to get up there and disappear into the music. In the following scene, Alex dances an avant garde routine in white face makeup to \"Imagination.\" The number has a lot to do with fantasies becoming reality. Nobody seems to understand Alex's dance except for one of the other dancers in the club, Heels. During the song Johnny C. asks Jeanie why she doesn't dance. She tells him she's been practicing. After he makes a suggestive remark about doing the horizontal mambo, he gives her a big tip. Alex attends a ballet performance of Claude Debussys \"Prélude à lAprès-midi dun Faune (Prelude to the Afternoon of a Fawn)\" at the Repertory with Hanna. When the ballet is over, Alex happens to see Nick with another woman. She is furious! Still in her concert dress, she rides her bike to his house, throws a rock through one of his windows, calls him a son of a bitch and retreats quickly. Back at the warehouse, her radiator has sprung a leak. While she is on her knees mopping up the water in her concert dress, Richie comes by to tell her goodbye; he's headed for L.A. When she asks about Jeanie, he admits he loves her, but he says he can't continue to cook hamburgers at Mawby's and pretend to be a comedian. The next day at the mill, Nick tries to pay for Alex's lunch at the lunch truck, but she is still very mad. She demands to know who the blond was that was with him the previous evening. He explains that it was his ex-wife. Since they have friends on the Arts Council, he takes her to the benefit once a year. Now Alex feels guilty that she broke his window. When they reconcile, the workers who are sitting around eating their lunch applaud. That evening Nick and Alex have dinner at a fancy restaurant. Alex, who is dressed in a tuxedo coat, eats her lobster with her fingers. During the meal, just as Alex puts her foot on Nick's crotch, his ex-wife, Katie, stops by their table. After a few catty remarks from Katie that are aimed at Alex, Alex takes her tux coat off to reveal she is only wearing a shirt bib and cuffs. Then she proudly announces that on her first date with Nick: \"I fucked his brains out!\" Later that evening, Nick and Alex talk about his marriage to Katie; she was high class, educated, from a good family and it made him feel like he had made it. But one day he realized that wasn't what he really wanted. So he started over and went after what he really wanted to do. Alex asks, \"How did you do it?\" Nick answers, \"I took a deep breath and jumped.\" Their conversation gave Alex the renewed desire to pursue her dream, so the next day she goes to the Rep for an application. There she is reminded that auditions to the school are by invitation only. Nick sees her leave the building, so he goes inside and finds out about her getting an application. He immediately telephones a friend on the Arts Council asking for a favor. At Mawby's Halloween Party, the owner and his guests are dancing to \"Romeo.\" During the party, Richie returns from L.A. Jeanie is very cool towards Richie and leaves the party with Johnny C. When Alex gets a letter from the Repertory, she's afraid to open it. Finally she musters enough courage and is ecstatic when she discovers she's been invited to audition. She runs to find Nick to break the news, who suggests they celebrate at dinner that evening. Later in the day, she bikes to Hanna's to tell her the good news. Hanna congratulates and encourages her. On an after dinner drive later that evening, Nick commits a faux pas: he says he called the restaurant the previous night and told them this was a special occasion. Alex immediately realizes that he knew she was going to be invited to audition before she received the letter. She makes him stop the car in the middle of a tunnel, gets out and walks away. He tries to make her understand that he just made a phone call to a friend. She, however, yells that she doesn't want his help. Afterward Alex needs to talk to a friend, so she calls Mawby's to talk to Jeanie. They inform her that Jeanie now works at the Zanzibar. Alex immediately heads for the nude club. Before she arrives, we see several of the nude or semi-nude girls performing to \"Seduce Me Tonight.\" Once Alex enters the club, she spots Jeanie (clad in only high-heeled shoes and a G-string) dancing, and Alex literally drags her off the stage. When Johnny C. tries to stop her, Alex pushes him out of the way. Outside in the rain, Jeanie asks Alex why she came after her. Alex responds, \"Because you're my friend.\" Later that evening, when Alex returns to her warehouse apartment, Nick and Grunt are waiting outside in the rain. When Alex didn't show up at work that day, Nick came to investigate. He accuses her of being scared to audition for the Rep and of using him as an excuse. Just before he leaves he says, \"When you give up your dream, you die.\" The next day Alex bikes to Hanna's, but sadly discovers that her mentor had died the previous day. As Alex mourns the loss of her friend and mentor, she picks up a pair of Hanna's ballet slippers to take as a memento. During this and the following scene, \"I'll Be There Where the Heart Is\" is heard. Back at her apartment Alex continues to mourn; the song continues as she sits alone on the floor of her bathroom and wanders aimlessly around her warehouse apartment. Alex returns to Mawby's to pick up her stuff, then goes to confession. She tells the priest \"I want it so much.\" The next scene is Alex's audition for the dance school before five stuffy judges. She puts on a recording of \"Flashdance... What a Feeling,\" starts her dance, stops and starts again. During the slow beginning of the song, the judges seem completely unimpressed and maybe even bored, but when the tempo picks up the stodgy judges begin to loosen up. The lyrics are very germane to the plot. They sing about a dream that is hidden because of fear and about crying in a world made of steel. This dancer hears the music, closes her eyes and allows it to invade her body (like her father had suggested when he took her to the symphony). Then she is the music, she is the rhythm, and she dances as if her life depended on it. The song continues as Alex exits the building with a huge smile on her face. Waiting for her are Nick and Grunt. After Alex hugs Nick, he presents her with a bouquet of roses (like most ballerinas receive after a brilliant performance). When she takes out one rose to give to Nick, the scene freezes to end the film (we are left to speculate whether Alex was accepted into the dance school, but we are confident that she was). As the closing credits begin, \"Flashdance... What a Feeling\" continues, followed by \"Manhunt,\" \"Imagination,\" and \"Maniac.\"",
+      "writers": [
+         "Thomas Hedley Jr.",
+         "Joe Eszterhas"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0085549/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMjA5NjE2OTUxOF5BMl5BanBnXkFtZTgwNDE1NDIxMDE@._V1_SY317_CR0,0,214,317_AL_.jpg",
+      "actors": ["Stars: Jennifer Beals, Michael Nouri, Lilia Skala | See full cast and crew »"],
+      "reviews": [
+         "So here's this movie \"Flashdance\" which has been staring me in the face for years, both in pop culture for over half of my life and on the video rental store shelves, and yet I've never gotten around to checking it out until now. I was fifteen when this movie was first out and popular. I heard the soundtrack, of course, and loved it to pieces... but I had never been able to watch the movie because it was rated R. I had grown up having it be, in an odd sort of way, both a part of my life and at the same time *not* a part of my life. I was familiar with its music, images, and even its basic plot outline, but had never seen the movie. And as an adult, I felt extremely dubious about checking it out. Over the years, I had heard that people either loved it to pieces or hated it. I've heard critics both call it uplifting and fun while others called it nothing more than a string of glittering little music videos strung together on an extremely thin strand of plot (a creation device for a LOT of MTV-era movies such as \"Top Gun\", \"Footloose\" and \"Purple Rain\"). To add to my confusion about whether or not I should give it a try, I had had the same experience with \"Saturday Night Fever\": I grew up loving the soundtrack to pieces but having never seen the movie... and when I finally did I felt utter disappointment at first, discovering the film to be far darker than expected. Oh sure, I later liked \"Fever\" okay (actually, I should use the term \"appreciated\") but still preferred the gorgeous soundtrack to the actual film that was the basis for its existance. Would I have the same experience with \"Flashdance\"? Tonight, I finally decided to, as one character in the film puts it, \"hold my breath and take the plunge\". As it turns out, I found it to be a surprisingly charming, entertaining and uplifting film. I was fearing it to be something raunchy, but at it turns out it has a very special, starry-eyed sweet innocence that is difficult to define. The performance of the equally starry-eyed and innocent Jennifer Beals helps, of course. She brings a wide-eyed sparkle and hopefulness to her role, plus a determination to keep her life on the right track precisely as she feels it ought to go without any major morality screwups, and this adds a wonderful flavour of hope and childlike wonder to her character Alex that just simply grows on you. Now, it IS true that there are a few flaws here and there, and a couple of editing flaws as well. Plus, the other characters aren't really as developed as hers (but they are developed just enough to demonstrate to her personally the various dos and don'ts regarding attitudes to have while pursuing a dream, voices for her to observe and learn from representing both directions). But none of that matters because the film has a charm all its own. Looking at it today, I can easily see why so many out there loved it: its a beautiful and very encouraging little film. It has a heroine whom anybody could relate with and like; it has wonderful music in it; it has a delicate and lighthearted touch to it which, language and a couple of scenes aside (such as the film's most heartbreaking scene in which Alex saves a desperate friend from throwing life away in a strip joint (a sequence which only lasts about two minutes long--but it's sad and disturbing, not \"Oooh, let's put this in to grab male members of the audience!\"--which is most likely the only ingredient to earn the film its R rating)), is nevertheless still so pure and true that it could have come straight out of a '70s-made Walt Disney Productions movie (!!!); it's touching and moving... and, of course, it has dance sequences which are fun to watch. In other words, it was a comforting and uplifting movie released during a time when people, youngsters with career goals in particular, needed one. And if anything, folks still need movies like that out today. It's a happy little film with a happy ending which isn't overdone or unconvincing, and precisely the sort of flick which should be perscribed to those suffering severe depression. Heaven knows that I myself certainly felt encouraged about my own career and life in particular after watching it! It might not be for everybody, but if the above description I've written voices the sort of movie you personally enjoy then do yourself a big favour and give it a try. Chances are that if you are as naturally starry-eyed and hopeful as Alex is--and believe me, *I* certainly am--then you will easily relate to this delightful little fable.",
+         "In recent years there have been a number of British films based on the theme of working-class people who find fulfilment through their cultural activities; examples being Educating Rita (the first and most distinguished), Brassed Off, The Full Monty and Billy Elliott. Such films are frequently described as `quintessentially British' or `something that we can do and Hollywood can't', whereas the truth is that twenty years ago Hollywood was indeed making very similar films, mostly centred upon dancing, such as Saturday Night Fever, Dirty Dancing or Flashdance. Whereas these American films may not have had the covert (or, in the case of Brassed Off, highly overt) political message of their British counterparts, they nevertheless concentrated on differences in social class far more than Hollywood movies usually do. The heroine of Flashdance, Alex, is a young woman who works as a welder and whose main joy in life is dancing. She moonlights as a dancer in a local nightclub, but her great ambition in life is to become a ballet dancer. The film tells the story of how she achieves that ambition, as well as the story of her romance with a wealthy middle-class divorcee, set against frequent dance sequences as Alex and her ice-skating friend Jeanie go through their paces. The climax comes with a scene in which she auditions for a place at a prestigious ballet academy and treats the judging committee to a bravura display of breakdancing. (Would a ballet school really be prepared to offer a place to a candidate whose dance skills owe more to the disco than to Swan Lake and who seems completely ignorant of balletic idiom?) The film has its weak points. Although the plot is not as non-existent as some reviewers have felt, it nevertheless tends to take second place to the showpiece dance numbers; at times, it felt as if I were watching an extended series of pop videos. Potentially interesting themes are ignored; for example, Alex is a practising Catholic, but this seems to be a plot device to enable scenes set in the confessional to be used as soliloquies in which she can air her emotional problems. No attempt is made to explore the possible conflict between the demands of her religion and her sexually provocative dancing or her love for a divorcee. The acting is undistinguished; Jennifer Beals makes an attractive and personable heroine, but it is clear why, despite the success of this film, she did not go on to become a major star. Her acting is too weak to enable her to carry a film; certainly I felt that she would be out of her depth in one that depends more upon plot and less upon song and dance. The other characters are little more than ciphers, with the exception of Hanna, the old lady who acts as Alex's mentor. I could certainly have done without the tasteless ethnic jokes told by Alex's comedian friend. Yet, despite its faults, I enjoyed this film. Its redeeming feature is the zest and energy of its dance sequences, set to some well-chosen music such as Laura Branigan's Gloria or Irene Cara's title song. It may not be deep or significant, but it is an enjoyable, well-made piece of popular entertainment. 6/10.",
+         "There are already many comments on this film in the IMDb database, and I had no intention of writing another until to my surprise I noticed that it was frequently being replayed on several different local TV channels. Flashdance is a very outdated movie that has never appealed to most film critics, so I felt this was sufficiently unusual to justify an attempted explanation. Since the DVD of Flashdance was released, it has appeared for hire in many small local convenience stores and service stations that only maintain a very small rack of films for hire Clearly although it is now very much of a period movie, it continues to retain an enormous appeal for many of those who have seen it before. Personally I have watched our tape of Flashdance more often than most of the other tapes we have at home. This is not because it would be my first choice, but because it is a film that my wife loves to watch again and again; whilst I find I can view it repeatedly more readily than many of her other favorite tapes, so when we are discussing what to view and have rejected a number of other possibilities we tend to turn back to Flashdance. This reinforces the comments already made in your database about Flashdance being a \"feel good\" movie for which most people seem able to ignore the faults and just enjoy the music, the dancing and the romance. (It also features \"Grunt\", a very appealing dog, who remains one of the reasons why my wife is always ready to rewatch this film.) As a film Flashdance is therefore something of a paradox. Originally the final product was not very highly regarded by the studio and only received a limited release. This was severely panned by most of the critics, and not surprisingly the film initially received very little support from the public. The reviews and the low attendance led to plans to withdraw it from circulation early, but before these were implemented the audiences started to grow and continued to increase until cinemas showing the film were mostly packed out. Clearly those few who saw the film at an early showing started telling their friends to ignore the critics and see it. This escalated exponentially until the film finished up as a major hit. In commenting on this film it would be equally invalid to ignore the very real concerns of the critics or the equally real appeal it had, and still seems to have, for most of the public. The story is trite - a female welder in a steelworks dreams of being a ballet dancer and practices her dancing in one of the local bars at night. Here she meets and starts to fall in love with her fairly young divorced boss. With his support she is able obtain an audition with a major dance company who are essentially only interested in her dance training, and lose any interest they may have had when she says she has never attended a dance school. However she proceeds to audition for the very bored selection committee and gives an electrifying free dance performance that in true fairy story tradition brings the committee to its feet. Some critics have complained that doubles replaced the star Jennifer Beals for this sequence, but this is surely not important - the real question is how effectively the film plays, and this sequence has rightly been very widely admired. About the time the film was released, modern dance companies were being formed alongside traditional ballet companies in many major cities in North America and this sequence certainly added to the appeal of the film at the time, but it is decidedly not the only reason for watching it. I could spend pages criticizing the screenplay in several different respects, but other comments in your database have already done this, and these criticisms are ultimately not damming. The important thing is that the film maintains an ongoing flow which sweeps most viewers along and earns it a place as one of the finer musical comedies to have been released in the past quarter century. The object of a film is to entertain the public and in ranking Flashdance I feel I must base my rating on its undeniable success in doing just this. So 7 out of 10.",
+         "I know how much Flashdance became such a huge hit of the 80's, it defined a whole new generation of clothes, behavior, and dance moves. That's what made Flashdance so special. Now I was born in '85 so I kinda missed out on these things, but I understand it's importance. I just bought this movie yesterday, it was back to back with Footloose, two iconic 80's movies, and I watched Flashdance this afternoon. While this film defined a huge part of the 80's, it was an average film with a simple plot. The acting and story is just pretty average, but it's a cute and fun one. Alex is a welder by day, but at night she is a sexy exotic dancer who grabs the attention of all the men. But she has big time dreams to become a ballet dancer, she has promised her grandmother that she would apply to the top ballet school and try to get an audition. But Alex is always intimidated by the other \"proper looking\" dancers with tons more experience than her. She falls in love with a fellow co-worker, Nick, who wants her to make it just as badly. She goes through rough times, but she just wants to make it and will do anything for that chance. Flashdance is one of those must see movies if you wanna see the important films of the 80's. I just wanted to see what this movie was about since it's such a huge part of film culture. Jennifer Beals actually did a great job as Alex, she was absolutely beautiful and made the character very likable. While this film did not live up to my expectations, it still was a good film. It has an awesome sound track and really is a lot of fun to dance too. Now excuse me, but I wanna try to take my bra off without removing my shirt, lol. 5/10",
+         "As other users have said this film is very dated, but not necessarily bad. It was looked upon as a bit of fluff that was very successful in the box office. So now, it would come across as nostalgic (in the same vein as Dirty Dancing). But the thing I do like about it, is just that. Adrian Lyne perfectly captured the time, a post disco era when Break-dancing and Synth Pop were all the rage - Who could forget the FANTASTIC theme song, sung by Irene Cara (Fame) and composed by Synth Pop genius Giorgio Moroder (I feel love - Donna Summer among many others). So what if Jennifer Beals wasn't a great actress? So what if it wasn't her dancing? (Think one of them was a break dancer from \"The Rock Steady Crew\" - see? All about the era!) she was a good looking girl, and this was a harmless bit of fun at the time.",
+         "Jennifer Beals stars as Alex Owens a welder by day and a dancer by night, who dreams of going to a ballet school. She really wants to make her dreams reality but is to nervous to audition. With a little encouragement and help from her good friend Hannah Long (Lilia Skala.) and her boyfriend/boss, Nick Hurley. (Michael Nouri.) she finally does audition. And, what an audition it was. The dance sequence at the end was brilliant. Flashdance is a great film full of fun music, (Including Irene Cara's hit song, \"Flashdance, What a feeling\".) great dancing and just lots of fun. Flashdance is an instant classic. I give it a 10/10.",
+         "Okay - the dancing is done by someone else, the script has a bunch of flaws (dialogue being almost the worst), and the basic premise is absurd - an 18-yo dreaming of starting a career in ballet? (In ballet, you're just about approaching the peak of your career at 18.) However, the movie has some heart-grabbing moments, the score is wonderful, the girls are pretty, and the moral of the story (keep on trying until you win) is as true as it ever was. This is probably the worst movie you'll ever have a wonderful time watching. As a past professional dancer, I probably watch this movie about once a year. It's an essential part of any dancer's library, regardless of its flaws.",
+         "Verve, beauty, reality. This is no cinematic epic but the story is electric. Small town gal breaks into a man's world while aspiring to be a dancer. Romance, some Pittsburgh clips. (yep, i grew up around there.) Great music, choreography. Makes me cry every time when I FEEL what this gal wants and I want her to get it. I had to buy this movie because I think it is very inspirational in an artistic way.",
+         "Sure, Flashdance will never make the AFI's Top 100, but it has an infectious charm. Jennifer Beals is really only so-so in the leading role, and her leading man Michael Nouri is no better off, but it doesn't matter. What does matter here is the great music! Really, the whole film is played like a 90-minute ad for MTV! Laugh at the dopey plot and listen to the great tunes. Great film to earmark the 80s.",
+         "Although I've long known, generally speaking, what this movie is about, I never saw it when it came out in 1983 or 1984, because I was too busy \"living\" the 80's (yeah, right, whatever that means!). But I just saw it recently, in its entirety, the other night on TV. I don't know, maybe it's the current sorry state of affairs of the world today that made me want to watch this film, just so I could revisit the \"happy days(?)\" of the eighties, when, although the world was also in a sorry state of affairs, at least there was an underlying pretense of hope and glory, a pervasive (albeit childlike) adherence to the belief that wishes DO sometimes come true, miracles CAN happen, and for every ugly frog there IS a beautiful princess waiting to kiss him... This movie sucks, bigtime... but it also rocks! And that, people, is the honest to God truth. This movie is so bad it reeks of the stench of the very phoney-baloney on which it is based (and we all know how awful THAT is). BUT, it also rocks you to your very soul, and hey, how can you possibly fault a movie that dares to offer people (and not just young people, but ALL people) that little thing called HOPE??? I hope you don't take my \"critique\" the wrong way... Honestly, I don't think the movie is really all that good, but the message, and the feeling, and the spirit of this movie, are all very wonderful and infectious indeed and should NOT be discounted. It makes it a wonderful movie. Strange, isn't it? If those of you reading this are parents with up-and-coming kids, make them sit through this film!! Make them watch it!! I guarantee you, at least there is not a single scene in it where some teenager just HAS to have sex with a baked pastry object!! Finally, let me comment on the fact that many in filmdom have dissed Jennifer Beals over the fact that a stand-in dancer performed various or several of her dance segments. Well let me just mention, that at the very end of the film, in the credit roll, there is a disclaimer that states: \"The people and events in this film are fictional. Any similarity to actual people or events is unintentional.\" So, with this in mind\u0085 a stunt double performed some of the dance steps!?? I was shocked, shocked to find that stunt doubles are used in Hollywood!!"
+      ],
+      "genres": [
+         "Drama",
+         "Romance",
+         "Music"
+      ],
+      "productionCompanies": [
+         "Paramount Pictures",
+         "PolyGram Filmed Entertainment"
+      ],
+      "summaries": [
+         "Alex Owens is a female dynamo: steel worker by day, exotic dancer by night. Her dream is to get into a real dance company, though, and with encouragement from her boss/boyfriend, she may get her chance. The city of Pittsburgh co-stars. What a feeling!",
+         "A Pittsburgh woman with two jobs as a welder and an exotic dancer wants to get into ballet school."
+      ],
+      "budget": 4000000
+   },
+   "movielensId": 2942,
+   "movielens": {
+      "languages": [
+         "English",
+         "Português"
+      ],
+      "releaseDate": "1983-04-14",
+      "dvdReleaseDate": "2002-10-08",
+      "directors": ["Adrian Lyne"],
+      "runtime": 95,
+      "movieId": 2942,
+      "title": "Flashdance",
+      "mpaa": "R",
+      "actors": [
+         "Jennifer Beals",
+         "Michael Nouri",
+         "Lilia Skala",
+         "Kyle T. Heffner",
+         "Sunny Johnson",
+         "Philip Bruns",
+         "Micole Mercurio",
+         "Cynthia Rhodes",
+         "Lee Ving",
+         "Ron Karabatsos",
+         "Belinda Bauer",
+         "Lucy Lee Flippin",
+         "Durga McBroom",
+         "Liz Sagal",
+         "Malcolm Danare",
+         "Don Brockett",
+         "Stacey Pickren",
+         "Robert Wuhl",
+         "Matt Landers",
+         "Steve Price",
+         "Frank Pesce",
+         "Marc Lemberger",
+         "Wayne Frost",
+         "Debra Gordon",
+         "Tony De Santis",
+         "Ann Muffly"
+      ],
+      "imdbMovieId": "0085549",
+      "originalTitle": "Flashdance",
+      "genres": [
+         "Drama",
+         "Music",
+         "Romance"
+      ],
+      "youtubeTrailerIds": [
+         "NV6IbcZVjuk",
+         "5DbFVSQZIeQ",
+         "aW5XEf-gdT4"
+      ],
+      "plotSummary": "The popular 1980\u2019s dance movie that depicts the life of an exotic dancer with a side job as a welder who true desire is to get into ballet school. It\u2019s her dream to be a professional dancer and now is her chance. The film has a great soundtrack with an Oscar winning song.",
+      "tmdbMovieId": 535,
+      "avgRating": 2.98334,
+      "releaseYear": "1983",
+      "numRatings": 4563,
+      "posterPath": "/pW8tRnHJbZfobnEX16CjkOg8bAH.jpg"
+   }
+}

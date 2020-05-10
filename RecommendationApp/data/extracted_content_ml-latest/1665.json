@@ -1,0 +1,975 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "paris",
+            "id": 90
+         },
+         {
+            "name": "london england",
+            "id": 212
+         },
+         {
+            "name": "california",
+            "id": 387
+         },
+         {
+            "name": "airport",
+            "id": 822
+         },
+         {
+            "name": "vault",
+            "id": 1953
+         },
+         {
+            "name": "destroy",
+            "id": 2535
+         },
+         {
+            "name": "museum",
+            "id": 2598
+         },
+         {
+            "name": "arts and culture",
+            "id": 3675
+         },
+         {
+            "name": "chaos",
+            "id": 4630
+         },
+         {
+            "name": "repair",
+            "id": 4826
+         },
+         {
+            "name": "clumsy fellow",
+            "id": 5347
+         },
+         {
+            "name": "guard",
+            "id": 5369
+         },
+         {
+            "name": "arts expert",
+            "id": 5370
+         },
+         {
+            "name": "host family",
+            "id": 5372
+         },
+         {
+            "name": "damage",
+            "id": 5373
+         },
+         {
+            "name": "poster",
+            "id": 5374
+         },
+         {
+            "name": "artwork",
+            "id": 5375
+         },
+         {
+            "name": "creativity",
+            "id": 5376
+         },
+         {
+            "name": "painting",
+            "id": 5918
+         },
+         {
+            "name": "hospital",
+            "id": 11612
+         },
+         {
+            "name": "los angeles",
+            "id": 12670
+         },
+         {
+            "name": "amusement park",
+            "id": 155582
+         },
+         {
+            "name": "teenage rebellion",
+            "id": 163242
+         },
+         {
+            "name": "laxative",
+            "id": 215404
+         }
+      ],
+      "imdb_id": "tt0118689",
+      "video": false,
+      "title": "Bean",
+      "recommendations": [
+         1268,
+         9486,
+         9896,
+         9336,
+         9327,
+         3050,
+         36593,
+         12139,
+         9285,
+         10157,
+         816,
+         9493,
+         9279,
+         37137,
+         6283,
+         9894,
+         888,
+         9535,
+         10535,
+         817
+      ],
+      "backdrop_path": "/6WytIKEnAT6FX2xffQc4wo6WXcS.jpg",
+      "revenue": 251212670,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 20,
+               "character": "Mr. Bean",
+               "gender": 2,
+               "credit_id": "52fe42edc3a36847f802d805",
+               "name": "Rowan Atkinson",
+               "profile_path": "/bzV8HPH9tZtJcvkYbhQb1zzR4fW.jpg",
+               "id": 10730,
+               "order": 0
+            },
+            {
+               "cast_id": 21,
+               "character": "David Langley",
+               "gender": 2,
+               "credit_id": "52fe42edc3a36847f802d809",
+               "name": "Peter MacNicol",
+               "profile_path": "/hw4KTj66xh2FupS5sQMeNMNL6lx.jpg",
+               "id": 12688,
+               "order": 1
+            },
+            {
+               "cast_id": 22,
+               "character": "Chairman",
+               "gender": 2,
+               "credit_id": "52fe42edc3a36847f802d80d",
+               "name": "John Mills",
+               "profile_path": "/5MiJRQj6irdxqCtAhX00YWqmGjZ.jpg",
+               "id": 11859,
+               "order": 2
+            },
+            {
+               "cast_id": 23,
+               "character": "Alison Langley",
+               "gender": 1,
+               "credit_id": "52fe42edc3a36847f802d811",
+               "name": "Pamela Reed",
+               "profile_path": "/lJgMi6Y4OvB8ZTpopFmJ3Efe5Sq.jpg",
+               "id": 14699,
+               "order": 3
+            },
+            {
+               "cast_id": 24,
+               "character": "George Grierson",
+               "gender": 2,
+               "credit_id": "52fe42edc3a36847f802d815",
+               "name": "Harris Yulin",
+               "profile_path": "/MCW4IR3mEB6oeRbX9bfeHkZ3qm.jpg",
+               "id": 1166,
+               "order": 4
+            },
+            {
+               "cast_id": 25,
+               "character": "General Newton",
+               "gender": 2,
+               "credit_id": "52fe42edc3a36847f802d819",
+               "name": "Burt Reynolds",
+               "profile_path": "/g5AyPAhdr5OtHVRGLD3i8Gw4oas.jpg",
+               "id": 16475,
+               "order": 5
+            },
+            {
+               "cast_id": 26,
+               "character": "Elmer",
+               "gender": 2,
+               "credit_id": "52fe42edc3a36847f802d81d",
+               "name": "Larry Drake",
+               "profile_path": "/m7NbC0TyREs2kD63ByL0bSPjHHj.jpg",
+               "id": 16476,
+               "order": 6
+            },
+            {
+               "cast_id": 27,
+               "character": "Security Buck",
+               "gender": 2,
+               "credit_id": "52fe42edc3a36847f802d821",
+               "name": "Danny Goldring",
+               "profile_path": "/nufdKuciAuJ1vzwXnVQcUDeAsoA.jpg",
+               "id": 16477,
+               "order": 7
+            },
+            {
+               "cast_id": 28,
+               "character": "Stingo Wheelie",
+               "gender": 2,
+               "credit_id": "52fe42edc3a36847f802d825",
+               "name": "Johnny Galecki",
+               "profile_path": "/iY3e0Zw5lygRO4BXbhcSxMcPEb9.jpg",
+               "id": 16478,
+               "order": 8
+            },
+            {
+               "cast_id": 29,
+               "character": "Det. Butler",
+               "gender": 2,
+               "credit_id": "52fe42edc3a36847f802d829",
+               "name": "Chris Ellis",
+               "profile_path": "/vbltM7DQXON9xvpiyNuUCglNRmz.jpg",
+               "id": 8191,
+               "order": 9
+            },
+            {
+               "cast_id": 39,
+               "character": "",
+               "gender": 1,
+               "credit_id": "58af30e4c3a3686c4800030d",
+               "name": "Sandra Oh",
+               "profile_path": "/ojy6psDO5f0O7N2RBxCVUImGrpD.jpg",
+               "id": 25540,
+               "order": 10
+            },
+            {
+               "cast_id": 30,
+               "character": "Kevin Langley",
+               "gender": 2,
+               "credit_id": "52fe42edc3a36847f802d82d",
+               "name": "Andrew Lawrence",
+               "profile_path": "/uRBbgjhqqWhxm7v61MGD9ze09OT.jpg",
+               "id": 16479,
+               "order": 11
+            },
+            {
+               "cast_id": 31,
+               "character": "Lord Walton",
+               "gender": 2,
+               "credit_id": "52fe42edc3a36847f802d831",
+               "name": "Peter Egan",
+               "profile_path": "/kmJJEd3MXSXzbRACya76avqSB8w.jpg",
+               "id": 16480,
+               "order": 12
+            },
+            {
+               "cast_id": 32,
+               "character": "Gareth",
+               "gender": 2,
+               "credit_id": "52fe42edc3a36847f802d835",
+               "name": "Peter Capaldi",
+               "profile_path": "/elySeUbCxDkBq83GwinPnfcLs5t.jpg",
+               "id": 12982,
+               "order": 13
+            },
+            {
+               "cast_id": 33,
+               "character": "Delilah",
+               "gender": 0,
+               "credit_id": "52fe42edc3a36847f802d839",
+               "name": "June Brown",
+               "profile_path": "/txRFsEdDaVvWqaCevs0rcS2U6dv.jpg",
+               "id": 16481,
+               "order": 14
+            },
+            {
+               "cast_id": 34,
+               "character": "Dr. Rosenblum",
+               "gender": 0,
+               "credit_id": "52fe42edc3a36847f802d83d",
+               "name": "Peter James",
+               "profile_path": null,
+               "id": 16482,
+               "order": 15
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe42edc3a36847f802d79b",
+               "name": "Richard Curtis",
+               "profile_path": "/uLjkovqtUtM4SckCFtrevZKKJNM.jpg",
+               "id": 7018,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe42edc3a36847f802d7a1",
+               "name": "Robin Driscoll",
+               "profile_path": null,
+               "id": 16357,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe42edc3a36847f802d7a7",
+               "name": "Peter Bennett-Jones",
+               "profile_path": null,
+               "id": 16360,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe42edc3a36847f802d7ad",
+               "name": "Tim Bevan",
+               "profile_path": "/f7o93O1KocuLwIrSa7KqyL1sWaT.jpg",
+               "id": 2236,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe42edc3a36847f802d7b3",
+               "name": "Eric Fellner",
+               "profile_path": "/DiDxNhIfVPn9bRdOumhK0LgCYT.jpg",
+               "id": 2238,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe42edc3a36847f802d7b9",
+               "name": "Howard Goodall",
+               "profile_path": "/iCldWMvkSjPtmlnKSP31CbNZvsk.jpg",
+               "id": 16463,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe42edc3a36847f802d7bf",
+               "name": "Francis Kenny",
+               "profile_path": null,
+               "id": 16464,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe42edc3a36847f802d7c5",
+               "name": "Chris Blunden",
+               "profile_path": null,
+               "id": 16465,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe42edc3a36847f802d7cb",
+               "name": "Ronnie Yeskel",
+               "profile_path": null,
+               "id": 5507,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe42edc3a36847f802d7d1",
+               "name": "Peter S. Larkin",
+               "profile_path": null,
+               "id": 16466,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe42edc3a36847f802d7d7",
+               "name": "Kevin Constant",
+               "profile_path": null,
+               "id": 16467,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe42edc3a36847f802d7dd",
+               "name": "Bill Gregory",
+               "profile_path": null,
+               "id": 16468,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe42edc3a36847f802d7e3",
+               "name": "Hope Hanafin",
+               "profile_path": null,
+               "id": 16469,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe42edc3a36847f802d7e9",
+               "name": "Brian McManus",
+               "profile_path": null,
+               "id": 16470,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe42edc3a36847f802d7ef",
+               "name": "Emjay Olson",
+               "profile_path": null,
+               "id": 16471,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe42edc3a36847f802d7fb",
+               "name": "Julie Adair",
+               "profile_path": null,
+               "id": 16473,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe42edc3a36847f802d801",
+               "name": "Walter Scott",
+               "profile_path": "/l8uXZW6xypNY7e4wd7a0HqzP6iA.jpg",
+               "id": 16474,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe42edc3a36847f802d843",
+               "name": "Mel Smith",
+               "profile_path": "/t9aojcL97IStdae9fP90D84NlSJ.jpg",
+               "id": 141450,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5580a629c3a3681659000270",
+               "name": "Rebecca O'Brien",
+               "profile_path": null,
+               "id": 15491,
+               "department": "Production",
+               "job": "Co-Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59b5aba6c3a36851b2002767",
+               "name": "Tim Partridge",
+               "profile_path": null,
+               "id": 1446414,
+               "department": "Sound",
+               "job": "Dolby Consultant"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5580a610c3a368165900026c",
+               "name": "Rowan Atkinson",
+               "profile_path": "/bzV8HPH9tZtJcvkYbhQb1zzR4fW.jpg",
+               "id": 10730,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5580a61c925141613c0001f5",
+               "name": "Richard Curtis",
+               "profile_path": "/uLjkovqtUtM4SckCFtrevZKKJNM.jpg",
+               "id": 7018,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59b5a7ee925141396c00221a",
+               "name": "Gregory Romero",
+               "profile_path": null,
+               "id": 1885520,
+               "department": "Camera",
+               "job": "Grip"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59b5a75ec3a3685654001ca2",
+               "name": "Abigail Sheiner",
+               "profile_path": null,
+               "id": 1423747,
+               "department": "Art",
+               "job": "Art Department Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59b5a776c3a36851b20021eb",
+               "name": "Craig Gadsby",
+               "profile_path": null,
+               "id": 1885519,
+               "department": "Art",
+               "job": "Leadman"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59b5a78bc3a36851b200220a",
+               "name": "Gregory S. Hooper",
+               "profile_path": null,
+               "id": 1172441,
+               "department": "Art",
+               "job": "Set Designer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59b5a7d0c3a36871c2000adf",
+               "name": "Jeff Case",
+               "profile_path": null,
+               "id": 1656419,
+               "department": "Camera",
+               "job": "Key Grip"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59b5a7fcc3a3685654001d5b",
+               "name": "Suzanne Hanover",
+               "profile_path": null,
+               "id": 1461177,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59b5a8309251415296000bcc",
+               "name": "Sue Sian",
+               "profile_path": null,
+               "id": 1885521,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59b5a84392514152f5000b98",
+               "name": "Tony Guastella",
+               "profile_path": null,
+               "id": 1885523,
+               "department": "Costume & Make-Up",
+               "job": "Set Dressing Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59b5a859c3a36871c2000b6e",
+               "name": "Loren Bess",
+               "profile_path": null,
+               "id": 1746560,
+               "department": "Crew",
+               "job": "Driver"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59b5a87292514152f5000bd1",
+               "name": "Tony Gardner",
+               "profile_path": null,
+               "id": 29217,
+               "department": "Crew",
+               "job": "Makeup Effects"
+            },
+            {
+               "gender": 1,
+               "credit_id": "59b5a8a4c3a3687ac1000623",
+               "name": "Deborah Harding",
+               "profile_path": null,
+               "id": 1569473,
+               "department": "Crew",
+               "job": "Post Production Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59b5a8bbc3a3685654001e5a",
+               "name": "Tony Chavez",
+               "profile_path": null,
+               "id": 1569565,
+               "department": "Crew",
+               "job": "Propmaker"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59b5a8e2c3a3687195000bab",
+               "name": "Maureen Farley",
+               "profile_path": null,
+               "id": 1550074,
+               "department": "Art",
+               "job": "Property Master"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59b5a93bc3a36851c1002103",
+               "name": "John Greaves",
+               "profile_path": null,
+               "id": 1662377,
+               "department": "Crew",
+               "job": "Second Unit"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59b5a972c3a368689000129d",
+               "name": "Lance Mancuso",
+               "profile_path": null,
+               "id": 1695260,
+               "department": "Crew",
+               "job": "Set Medic"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59b5a98a9251415296000dbb",
+               "name": "Richard Bellos",
+               "profile_path": null,
+               "id": 1885531,
+               "department": "Crew",
+               "job": "Stand In"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59b5a9f99251413981002562",
+               "name": "Shane Greedy",
+               "profile_path": null,
+               "id": 1335075,
+               "department": "Crew",
+               "job": "Transportation Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59b5aa19c3a36871c2000e21",
+               "name": "Michael McCormack",
+               "profile_path": null,
+               "id": 1736493,
+               "department": "Crew",
+               "job": "Video Assist Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59b5aa3692514138f7002497",
+               "name": "Trey Batchelor",
+               "profile_path": null,
+               "id": 1867198,
+               "department": "Directing",
+               "job": "First Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59b5aa4992514138f70024a6",
+               "name": "Cori Glazer",
+               "profile_path": null,
+               "id": 9320,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59b5aa6292514138f70024c5",
+               "name": "Nick Lowe",
+               "profile_path": null,
+               "id": 1404861,
+               "department": "Sound",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59b5aa7d92514139810025f8",
+               "name": "Lynne Warr",
+               "profile_path": null,
+               "id": 1885533,
+               "department": "Editing",
+               "job": "First Assistant Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59b5aa94925141396c002605",
+               "name": "Roy A. McLeish",
+               "profile_path": null,
+               "id": 1885534,
+               "department": "Lighting",
+               "job": "Best Boy Electric"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59b5aaa19251415296000f2b",
+               "name": "Shawn Duchscherer",
+               "profile_path": null,
+               "id": 1566286,
+               "department": "Lighting",
+               "job": "Electrician"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59b5aab89251413973002503",
+               "name": "Ronald W. McLeish",
+               "profile_path": null,
+               "id": 1536248,
+               "department": "Lighting",
+               "job": "Gaffer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59b5aacdc3a36851c10022fc",
+               "name": "Richard Hicks",
+               "profile_path": null,
+               "id": 25365,
+               "department": "Production",
+               "job": "Casting Associate"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59b5aae7c3a36851e50026ea",
+               "name": "Liz Matthews",
+               "profile_path": null,
+               "id": 1614189,
+               "department": "Production",
+               "job": "Location Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59b5aafc9251413c9500235f",
+               "name": "Julianna Arenson",
+               "profile_path": null,
+               "id": 1885535,
+               "department": "Production",
+               "job": "Production Accountant"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59b5ab099251415296000fa7",
+               "name": "Jo McIllece",
+               "profile_path": null,
+               "id": 1885536,
+               "department": "Production",
+               "job": "Production Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59b5ab179251415296000fbf",
+               "name": "Cydney Bernard",
+               "profile_path": null,
+               "id": 15151,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59b5ab2b9251415296000fd0",
+               "name": "Kenneth C. Mantlo \t.",
+               "profile_path": null,
+               "id": 1429532,
+               "department": "Sound",
+               "job": "Boom Operator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59b5ab3d925141396c0026c0",
+               "name": "Eddy Joseph",
+               "profile_path": null,
+               "id": 12761,
+               "department": "Sound",
+               "job": "Foley Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59b5ab5592514152f5000fe3",
+               "name": "Peter Glossop",
+               "profile_path": null,
+               "id": 1531575,
+               "department": "Sound",
+               "job": "Production Sound Mixer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59b5ab69c3a3686890001517",
+               "name": "Robert J. Anderson Jr.",
+               "profile_path": null,
+               "id": 1743743,
+               "department": "Sound",
+               "job": "Sound Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59b5ab7c92514138f70025d9",
+               "name": "Matt Grimes",
+               "profile_path": null,
+               "id": 16472,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            }
+         ]
+      },
+      "genres": [{
+         "name": "Comedy",
+         "id": 35
+      }],
+      "popularity": 15.203863,
+      "production_countries": [
+         {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+         },
+         {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+         }
+      ],
+      "id": 1281,
+      "vote_count": 777,
+      "budget": 18000000,
+      "overview": "Bean works as a caretaker at Britain's formidable Royal National Gallery, and his bosses want to fire him because he sleeps at work all the time, but can't because the chairman of the gallery's board defends him. They send him to USA, to the small Los Angeles art gallery instead, where he'll have to officiate at the opening of the greatest US picture ever (called \"Whistler's Mother\").",
+      "similar": [
+         1581,
+         1593,
+         1597,
+         10204,
+         146216,
+         90,
+         1562,
+         1538,
+         2034,
+         6637,
+         7345,
+         9654,
+         44943,
+         426,
+         27205,
+         170,
+         954,
+         707,
+         754,
+         277216
+      ],
+      "original_title": "Bean",
+      "runtime": 85,
+      "poster_path": "/pKGGzotqkNDEL2ix4VU1bWmteK5.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Tiger Aspect Productions",
+            "id": 686,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/sOg7LGESPH5vCTOIdbMhLuypoLL.png",
+            "name": "PolyGram Filmed Entertainment",
+            "id": 1382,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/cifwIG2aVR1dRis6yoiilq4qeIh.png",
+            "name": "Working Title Films",
+            "id": 10163,
+            "origin_country": "GB"
+         }
+      ],
+      "release_date": "1997-07-03",
+      "vote_average": 6.3,
+      "belongs_to_collection": {
+         "backdrop_path": "/aIXcqHz5VKRLXHPsNo0dFoK7YP5.jpg",
+         "name": "Mr. Bean Collection",
+         "id": 103372,
+         "poster_path": "/61Jcc1Gwc2KE7sIJ1HPqqdt67ji.jpg"
+      },
+      "tagline": "One Man. One Masterpiece. One Very Big Mistake.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "UK",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Mel Smith"],
+      "runtime": 89,
+      "synopsis": "Mr. Bean (Rowan Atkinson) is a well-meaning, but hopelessly clumsy and destructive guard at the Royal National Gallery in London. Attempts by the gallery's board of directors to fire Bean are thwarted by the chairman who, for unspecified reasons, is very fond of him. Desperate to rid themselves of the turmoil Bean unintentionally causes, the board members send him to the United States to represent them at the unveiling of the portrait Whistler's Mother, which has been purchased for $50 million by the Grierson Art Gallery in Los Angeles. Bean's visit has been arranged by the gallery's curator, David Langley (Peter MacNicol) who is being very impressed by the National Gallery's fabricated praise of \"Dr. Bean\", decides to board him in his house. On his flight to Los Angeles, Bean attempts to amuse a child with air sickness by blowing up his M&Ms bag and popping it to wake up the man in front of him, but without success. After the child throws up into an air sickness bag, Bean takes the bag from him and repeats the bag popping over the man's face, only to splatter him with vomit. He hides from the man upon his arrival to Los Angeles, where he is detained at the airport due to pretending to have a gun. His arrival at David's house is initially met with subtle hostility from David's wife Alison (Pamela Reed), son Kevin (Andrew Lawrence), and daughter Jennifer (Tricia Vessey). Alison refuses David's request to allow Bean to live with them for two months, and David promises Alison that he will talk to Bean and take him to a hotel after their meeting at the gallery. Bean's unorthodox arrival at the gallery worries many of David's colleagues, particularly his boss, George Grierson (Harris Yulin), who subtly warns David that he will be responsible for Bean's actions at the unveiling of the painting, but David promises that he can handle Bean, convinced that he is merely a little eccentric. When David takes Bean back to his house, Alison departs for her mother's home, unwilling to live with Bean. With his family gone, David decides to take Bean on a tour of the Los Angeles art galleries. However, Bean decides that he and David should go to Pacific Park instead, but lands in police detainment for the second time after accidentally tampering with the controls of a motion simulator ride, making it go dangerously fast after deeming that his first ride earlier was too slow. This prompts Lieutenant Brutus (Richard Gant), who dealt with Bean at the airport, to make David accountable for Bean, threatening to arrest Bean if he ever steps out of line again. Following a miserable dinner with Grierson which David had forgotten about, where Bean accidentally blows up the microwave after attempting to cook their Thanksgiving turkey in it, David finally realises that Bean is not a doctor and knows nothing about art. He is obliged to continue with the deception, however, as he has already staked his professional career on Bean's supposed reputation as a noted art scholar. The next day, Whistler's Mother arrives at the Grierson Art Gallery, and Bean is given a few minutes alone to study it, in an effort to keep him out of trouble. While dusting the frame, Bean accidentally sneezes on the painting and wipes it with a handkerchief, not knowing that it is covered in blue ink from a broken pen, and therefore the painting is stained. Terrified, Bean takes it to the caretaker's cupboard to get some agent by which to remove the ink. He uses lacquer thinner, which also dissolves the painted face from the painting. Much to his horror, Bean attempts to patch it up with an extremely unconvincing cartoon face. Upon seeing it, David is also horrified and hides the painting behind its metal security shutters. Fearing that David will lose his job and possibly face criminal proceedings for his vandalism, he and Bean head off to a bar to drown their sorrows. During the night, Bean hatches his plan to restore Whistler's Mother. He gathers a few items from David's house and makes his way to the Grierson Art Gallery. He distracts the only security guard on duty by putting laxative in his coffee, followed by switching the men's bathroom keys with some other set. He removes the destroyed painting from its frame and replaces it with a poster version of itself, glossing it with an egg and varnish mix to make it appear authentic. At the unveiling of Whistler's Mother the next day, David is overjoyed to see the painting is restored, but expects Bean, who has totally forgotten to come up with a speech, to make a fool of himself on national television when he takes the podium at the press conference. However, Bean's brief but effective off-the-cuff speech regarding the work is both very simple and very deep, cementing the public's perception of him as a scholarly virtuoso. Despite initial doubts, the officials and hierarchy appear to take his words to heart and enjoy the speech. After the unveiling, Brutus finds David and informs him that Jennifer has been involved in a motorcycle accident because she rebelled against David for not getting rid of Bean, and is in intensive care. Bean and David are given a police escort to the hospital to see Jennifer, but Brutus stops on his way to deal with an armed robber, who shoots Brutus in his stomach before being arrested. Due to a mix-up at the hospital, Bean is mistaken for a medical doctor and pushed into an operating theatre containing Brutus, who is shot in the stomach and barely alive. While the other doctors and nurses are distracted, Bean unconventionally retrieves the bullet and eventually rescues Brutus, earning the admiration of his colleagues. Bean is again mistaken for a doctor and this time, David takes him to see Jennifer, who is unconscious. Bean, unsure what to do, attempt to use a defibrillator to bring Jennifer back to life, but accidentally shocks himself and is sent flying across the room and lands on Jennifer in her bed and waking her up in the process. Still not recognising Bean, David and Alison tell him that they will offer him anything. Bean reveals himself and then asks if he can stay with them for another week before returning to London. Though baffled, the Langleys gladly accept. After another week in Los Angeles with the Langleys, for which he gives the family gifts, and explores the city, a bald man shows him his middle finger, bean thinks it is a sign of good luck. So he shows this to everybody. In his flat, Bean, getting ready to bed for the night, turns off the light and looks at the original vandalised Whistler's Mother, which now has pride-of-place on his wall, and shows it to his Teddy before closing his eyes and going to sleep.",
+      "writers": [
+         "Rowan Atkinson",
+         "Richard Curtis"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0118689/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BNjE2NTkzNjg1NV5BMl5BanBnXkFtZTgwNjEyNjQxMTE@._V1_SY317_CR3,0,214,317_AL_.jpg",
+      "actors": ["Stars: Rowan Atkinson, Peter MacNicol, John Mills | See full cast and crew »"],
+      "reviews": [
+         "Mr. Bean (Rowan Atkinson) is a London museum guard who is about to be fired by middle management. The big boss, however, won't hear of it; instead, he sends Mr. Bean to America. Once there, Mr. Bean is to pose as an art critic and give a rousing speech about Whistler's mother for a California art museum. Well, the museum director picks Mr. Bean up at the airport and pandemonium is the name of the game after that. Mr. Bean upsets the director's household, creates havoc at a local amusement park, blows up dinner and more. On top of that, he rarely speaks so everyone is certain he is an idiot. Can this man transform himself into an art critic and will he be able to present a speech on the museum's big day? This movie is just flat-out fun. Although he has very little dialogue, Mr. Bean's expressions and antics are priceless. The supporting cast does a reasonably good job but Mr. Bean towers over everybody. This movie should be required viewing for anyone in a depressed state of mind; it can lift the spirits of even the saddest beings on earth. Recommended for a fine family evening of giggles and leg-slapping.",
+         "This is one of the funniest movies I've ever seen, and in my opinion it is among the ranks of the legendary Monty Python. \"Bean\" is about the infamous Mr.Bean, a lazy buffoon who manages to cause problems in even the simplest of tasks. In this movie, he works at an Art Gallery and the management desperately want to get rid of him. Rather than fire him, they send him to Los Angeles to unveil the painting, \"Whistler's Mother\". An American named David Langley allows Mr.Bean to stay in his house during his visit against the will of his family. This turns out to be a huge mistake. This movie is roll-out-of-your-chair-laughing funny. Rowan Atkinson's acting is beyond excellent, and all of the other characters are good as well. The only thing I can find to nitpick about this movie is that there is not a very strong plot. The movie is basically a line of connected humor skits. I personally do not mind this too much, but if you are looking for a movie with a story that can be made into a book, look elsewhere. If you enjoyed the Mr.Bean series and like \"disaster\" movies, this is the perfect movie for you!",
+         "For those of you who loved watching Mr Bean, this movie doesn't fail to disappoint you. I saw this last night and laughed my head off, in fact, I think I was laughing more than when I was seeing Johnny English(also starring Atkinson). For those who really love the TV series, a few of the gags have been redone, including the vomit bag joke, the turkey head and the fast ride (the latter is so damn funny). So if you love Rowan Atkinson or love Mr Bean, go see this film!",
+         "Bean: The Movie is without a shadow of a doubt, one best comedies of 1997. Bean (Rowan Atkinson) is working as a guard in the Royal Gallery of London. His employers, except for one, all hate him. They send him on a two-month sabbatical (to get rid of him for awhile) to present Whistler's Mother to the Grierson Art Gallery in Los Angeles. The only problem? They told the Grierson that he was a world-famous scholar! If you think Bean couldn't get into any more trouble than he does in the UK, wait till you see what he does in the movie! Bean stays with the Langley family, all of whom I found annoying except for David (Peter MacNicol), Bean's new friend. Burt Reynolds even has a short cameo appearance as General Newton, a person who cares nothing for art personally. Although he used some of his former gags, there is enough new ones that make the movie stand out. The movie did better overseas than in the U.S. due to moronic critics and bad advertising. Bottom line, Bean: The Movie never got the credit it deserved over here. I would buy this movie on DVD or VHS, whichever you prefer. Also if you're a Bean fan, look for The Best Bits of Mr. Bean. It's a collection of Mr. Bean skits from his TV show!",
+         "How can anyone not LOVE this movie. It has to be the greatest comedy made in the 1990s. IT HAS TO BE. Rowan Atkinson is an incredible slapstick comedian. He is one of the great comedy performers of all time, ranking alongside Chaplin, Keaton, Fields, The Marxes, Tati, Brooks and Allen. This was a really popular movie when it was released in the Spring of 1997-and with good reason. If there could ONLY be more movies like this. I'm a big fan of Atkinson's TV shows MR BEAN, BLACKADDER and of course THE THIN BLUE LINE. Do yourself a favor and see this movie!",
+         "I had never seen any of Rowan Atkinson's performances as Mr. Bean when this movie came out in 1997, so I knew nothing about it when I went to see it other than that it was about the zany adventures of this strange looking man on the movie poster. He strikes me as one of those comedians that you either completely love or completely hate, because his comedy is so extreme. It's not the kind of thing that you can watch and just sort of like or not really care for. It's one of those movies where it's not surprising to see people walk out in the middle while other people are just about falling out of their chairs laughing so hard. Personally, I was one of the latter. I admit that Bean certainly deals in a very childish sort of humor. This is, by definition, slapstick comedy, and it is certainly not for all tastes. But from the movie's opening scene, which shows Bean gleefully shaving his entire face with an electric razor (including his forehead and even his tongue), you know that this is what the movie is like, so you can't really hold that against it. The story in the film is clearly one of those that is invented for the movie and then manipulated to fit the screenplay and to work nicely into the movie. It's not that hard to realize that such a huge art gallery could be fooled for so long by someone like Mr. Bean, thinking that he's a genius, and certainly no way that he would be left alone with a $50 million painting long enough to remove it from the vault and rub paint thinner into it, but on the other hand, the rest of the comedy fits so nicely into this plot. At the very least, there are relatively realistic situations thrown into an unrealistic plot, which makes the movie enjoyable even though you don't really take it seriously. There is a wonderful scene, for example, where Bean sneezes on the painting of Whistler's Mother, and then he tries to wipe off the spray with his handkerchief, which has been smeared with a leaky pen. So the painting gets smeared with ink, and he grabs the first can he sees off a nearby shelf, which happens to be paint thinner. It cleans the ink off nicely but then causes the paint to boil off, and then Bean frantically tries to save it by wiping it even harder, rubbing the paint off right down to the canvas. Sure, this is not the mark of an intelligent mind, but that's the point of the whole movie. Bean is a film that relies on the fact that humans are so amused by the misfortunes of others. There's something funny about seeing someone else get into a sticky situation, and in movies like this, they do just that and things only get worse and worse. Granted, there are a million ways out of every situation that Bean gets into that would be less painful than the routes that he chooses, but if he took them there would be no movie. Consider, for example, the bathroom scene where a man walks in on Bean as he appears to be getting a little too friendly with a hot air dryer. He quickly grabs a light bulb pretending that he had been examining it, and then the man leaves and Bean drops the hot bulb to break on the ground and when he goes to run cold water over his burnt fingers the water sprays his crotch again. Total slapstick, but that's funny! Like I said, Bean is not a movie for all tastes. But there is a place for childish humor in movies, and that place is in movies like this. It certainly can be taken too far or simply done wrong, as in the case of movies like the American Pies or the Scary Movies, etc., but Bean is a movie that knows what kind of comedy it delivers, and it knows how far to go before things just descend into vulgarity and bad taste. It's a comedy that does not pretend to be anything that it's not, and for that it should be respected. It is also, by the way, the kind of a comedy that allows for an almost innumerable amount of sequels. While I can certainly see it being vastly overdone, I would just like to say that if a couple more Bean movies were to be made, I would be among the last to complain!",
+         "Although the storyline is quite different to the usual ones in the tv show, the movie still captures the clumsiness and total annoyingness of the character of Mr Bean. Rowan Atkinson is great and so are the other actors in the film. I really enjoyed this, probably more because it wasn't a disaster like the tv show usually is. In other words Bean didn't stuff up as much. there were some great scenes involving the painting and in the hospital. I recommend it to those comedy fans and for anybody who can withstand the lunatic behaviour of Mr Bean.",
+         "Warning:Plot Giveaways Bean the movie is a triumph in the cinema world. For once a film based on the T.V. series has worked. It may be the case the best jokes are altered versions of what appeared on the small screen but are slotted into the story line with immense skill. Just before Bean gets the Turkey stuck on his head when asked had he cooked a turkey before he nods his head in an unsure \"mmmm\" mannner. The best thing about Bean the movie is the for once it is the Americans who are made to look stupid. Whereas in many movies the British are the joke being portrayed as posh in Bean it the Americans who are laughed at for being simply to stupid to realise this so called doctor bean is in fact not a doctor. On hearing Mr Bean was hitting the big screen I was at first very concerned that it would not work for him to talk . However many of the funniest lines are when he does open his mouth such as when he calls a 50 million dollar painting a big picture of an old bat. Very recommended",
+         "\"Bean\" is the average but warm-hearted, large screen adventure of Rowan Atkinson's bumbling but strangely likable character. With a smörgåsbord of talent behind this film, there are a few genuine laughs but, sadly, they're few and far between. This film could have been so much better in the hands of another director. Mel Smith appears to have been on cruise-control making this movie. It's a case of comedy by numbers and the film never seems to shift gear. The always amusing Peter MacNicol is excellent as the suffering David Langley and provides the perfect foil to Atkinson's Bean. An average comedy movie, it's worth a viewing if there's nothing else on the television.",
+         "I have always enjoyed Bean. I always thought it was criminally underrated as well. Now let me just state, I did enjoy Bean's Holiday quite a bit, but I was kinda disappointed with it, considering it's suppose to be the last of Bean. Yes it still has too many adapted scenes, from his T.V show, but what I enjoyed about this movie, was the movie itself. Bean is a little different in this one. He's not quite as mean-spirited as he is in the t.v show, in fact he has a big heart, which we rarely see in his t.v show. What really makes a lot of the movie is Rowan&Peter MacNicol's chemistry, together. Rowan of course is the goofy one, with Peter playing the straight man. They play off one another so wonderfully, and give many hilarious moments together. Some may have disliked the changes to having Bean speak a bit in this film, and while they do have a point, I thought it added a little bit of spark to the film, it was different, and gave the film laughs. With so much vulgar comedies out now a days, Bean is a refreshing change of pace. There are a few vulgar moments, but it's all good-natured. The funniest of the scenes in my opinion, had to be when Bean goes to turn the taps on, and splashes water on his pants, to where it looks like he's Peed himself. I won't spoil the rest, but rest assured, it's a screamer. What I also enjoyed more about Bean, then Bean's Holiday was it's much more like the t.v show, then the sequel was. Bean's Holiday never really felt like Bean, besides Bean had the most important ingredient in the ending, we got to see Teddy!. Bean is light-hearted, with great slapstick all around. I'll take anything of Bean I can get, which is why I enjoyed Bean's holiday, more than I should have. Performances. Rowan Atkinson is terrific as Bean. He's added another pro to his Bean shtick, speaking!. I thought having him speak, would ruin a lot of the experience. Thankfully it gave the film a lot of laughs. Peter MacNicol is a very multi talented person. Here he plays a wonderful straight man, with some of the film's funniest lines. He was just as big a key as Rowan was. Pamela Reed does fine with what she had to do as the wife. Burt Reynolds has a hilarious cameo, as the general. Andrew Lawrence is actually decent as Kevin. As I have stated in many review, I hate kid actors, but he was rather likable. Harris Yulin is a likable character actor. Here he is great as Mr.Grierson. Tricia Vessey is highly unlikable as Jennifer. I found it very hard to garner any sympathy from her. Richard Gant is hilarious as the detective, and stole many of the scenes he was in. Sandra Oh and Larry Drake have small roles. Bottom Line. Bean is the perfect family entertainment. Fellow Bean fanatics will find much to enjoy, and people who aren't too familiar with Bean's humor, this would probably be a good starting point for you. Highly recommended. 8/10"
+      ],
+      "genres": [
+         "Comedy",
+         "Family"
+      ],
+      "productionCompanies": [
+         "Polygram Filmed Entertainment",
+         "Working Title Films",
+         "Tiger Aspect Productions"
+      ],
+      "summaries": [
+         "Bean works as a caretaker at Britain's formidable Royal National Gallery, and his bosses want to fire him because he sleeps at work all the time, but can't because the chairman of the gallery's board defends him. They send him to USA, to the small Los Angeles art gallery instead, where he'll have to officiate at the opening of the greatest US picture ever (called \"Whistler's Mother\").",
+         "Mr. Bean is an eccentric caretaker working for the British national gallery in London, England, Mr. Bean is going to get fired by the museum's board of directors because he doesn't do his job and all he does is sleep. But the board instead decides to send Mr. Bean to Los Angeles, where David Langley, curator of a museum in downtown L.A. has requested that the board of director's of the British national gallery sends a art scholar to talk about their latest purchase, the famous painting \"Whristler's Mother\" which military officer General Newton has donated to the museum, at a opening conference. But Mr. Bean's arrival in Los Angeles causes mayhem, as David invites Mr. Bean to stay with his family and begins causing problems for David's marriage. But Mr. Bean doesn't know anything about paintings and although they think he is a brilliant, eccentric art scholar, he really isn't the right man to protect the painting as his behavior also threatens the painting itself.",
+         "Bean - the movie features Mr Bean in new adventures. The painting \"Whistler's Mother\" has been acquired from the Musee d'Orsay in Paris by the Grierson Gallery in California. As an attempt to get him out of the country, Mr Bean is sent to Los Angeles to unveil the painting and present it to everyone, even though he knows nothing about the painting.",
+         "Mr Bean works as a caretaker in a British gallery. He is a very bad worker (keep sleeping at work), but his bosses are prevented from firing him because the head of the gallery wants him as his worker. So his bosses send him to another gallery in Los Angeles, California. But things in LA goes wrong. An important painting arrives to his new gallery, and somehow Bean suppose to present it to a selected audience, and to protect it as well. The thing is that Bean does not know anything about paints, and he is exactly the most unsuited man to protect the paint.",
+         "Even though he works only as a caretaker, Britain's Royal National Gallery just can not get rid of the clumsy Mr. Bean (Atkinson). That is until a Los Angeles Art Gallery requests assistance from the best man in Britain. This is the perfect opportunity for Britain to get rid of Mr. Bean and to unleash LA with the same problems.",
+         "The bumbling Mr. Bean travels to America when he is given the responsibility of bringing a highly valuable painting to a Los Angeles museum."
+      ],
+      "budget": 22000000
+   },
+   "movielensId": 1665,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1997-07-03",
+      "dvdReleaseDate": "1998-03-31",
+      "directors": ["Mel Smith"],
+      "runtime": 85,
+      "movieId": 1665,
+      "title": "Bean",
+      "mpaa": "PG-13",
+      "actors": [
+         "Rowan Atkinson",
+         "Peter MacNicol",
+         "John Mills",
+         "Pamela Reed",
+         "Harris Yulin",
+         "Burt Reynolds",
+         "Larry Drake",
+         "Danny Goldring",
+         "Johnny Galecki",
+         "Chris Ellis",
+         "Sandra Oh",
+         "Andrew Lawrence",
+         "Peter Egan",
+         "Peter Capaldi",
+         "June Brown",
+         "Peter James"
+      ],
+      "imdbMovieId": "0118689",
+      "originalTitle": "Bean",
+      "genres": ["Comedy"],
+      "youtubeTrailerIds": ["-jCq13TtzRY"],
+      "plotSummary": "Bean works as a caretaker at Britain's formidable Royal National Gallery, and his bosses want to fire him because he sleeps at work all the time, but can't because the chairman of the gallery's board defends him. They send him to USA, to the small Los Angeles art gallery instead, where he'll have to officiate at the opening of the greatest US picture ever (called \"Whistler's Mother\").",
+      "tmdbMovieId": 1281,
+      "avgRating": 2.82906,
+      "releaseYear": "1997",
+      "numRatings": 4171,
+      "posterPath": "/pKGGzotqkNDEL2ix4VU1bWmteK5.jpg"
+   }
+}

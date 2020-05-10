@@ -1,0 +1,803 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "press",
+            "id": 2134
+         },
+         {
+            "name": "bad cop",
+            "id": 10978
+         }
+      ],
+      "imdb_id": "tt0106266",
+      "video": false,
+      "title": "Amos & Andrew",
+      "recommendations": [
+         6071,
+         12518,
+         48448,
+         18391,
+         9546,
+         41852,
+         13201,
+         13982,
+         29973,
+         6472,
+         26255,
+         918,
+         31640,
+         14425,
+         117553,
+         16370,
+         27307,
+         67058,
+         25758,
+         107934
+      ],
+      "backdrop_path": "/8YDSzdsF0xEcyAiiAGtngphKGKe.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Andrew Sterling",
+               "gender": 2,
+               "credit_id": "52fe44539251416c9100cc5b",
+               "name": "Samuel L. Jackson",
+               "profile_path": "/AvCReLikjzYEf9XjTQxbv3JWgKT.jpg",
+               "id": 2231,
+               "order": 0
+            },
+            {
+               "cast_id": 4,
+               "character": "Amos Odell",
+               "gender": 2,
+               "credit_id": "52fe44539251416c9100cc67",
+               "name": "Nicolas Cage",
+               "profile_path": "/fW37Gbk5PJZuXvyZwtcr0cMwPKY.jpg",
+               "id": 2963,
+               "order": 1
+            },
+            {
+               "cast_id": 2,
+               "character": "Phil Gillman",
+               "gender": 2,
+               "credit_id": "52fe44539251416c9100cc5f",
+               "name": "Michael Lerner",
+               "profile_path": "/7VlkzO1z5wh96UCXpPZ0rUFx8aN.jpg",
+               "id": 4250,
+               "order": 2
+            },
+            {
+               "cast_id": 3,
+               "character": "Judy Gillman",
+               "gender": 1,
+               "credit_id": "52fe44539251416c9100cc63",
+               "name": "Margaret Colin",
+               "profile_path": "/adlW4gq2BZTopzvWb28UgWnu5w1.jpg",
+               "id": 8985,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Chief of Police Cecil Tolliver",
+               "gender": 2,
+               "credit_id": "52fe44539251416c9100cc6b",
+               "name": "Dabney Coleman",
+               "profile_path": "/95I1LdB2PS2RcAL4mqUzAmJWI5x.jpg",
+               "id": 12850,
+               "order": 4
+            },
+            {
+               "cast_id": 6,
+               "character": "Officer Donnie Donaldson",
+               "gender": 2,
+               "credit_id": "52fe44539251416c9100cc6f",
+               "name": "Brad Dourif",
+               "profile_path": "/6pqeGxtWEdDjYsnQfUkmzXLlDvs.jpg",
+               "id": 1370,
+               "order": 5
+            },
+            {
+               "cast_id": 9,
+               "character": "Deputy Earl",
+               "gender": 2,
+               "credit_id": "52fe44539251416c9100cc7f",
+               "name": "Chelcie Ross",
+               "profile_path": "/gtUOc36bK5MrjdRPQJi1b0cc0LT.jpg",
+               "id": 10486,
+               "order": 6
+            },
+            {
+               "cast_id": 10,
+               "character": "Deputy Riley",
+               "gender": 2,
+               "credit_id": "52fe44539251416c9100cc83",
+               "name": "Jordan Lund",
+               "profile_path": "/sPITFnVcOCpSgEyXij1kYqE8Cbz.jpg",
+               "id": 33713,
+               "order": 7
+            },
+            {
+               "cast_id": 47,
+               "character": "Waldo Lake",
+               "gender": 2,
+               "credit_id": "5a761fa30e0a26643303d05b",
+               "name": "I.M. Hobson",
+               "profile_path": "/6nfD0rpE3u60pjTmscIIsqrxH4U.jpg",
+               "id": 4257,
+               "order": 8
+            },
+            {
+               "cast_id": 46,
+               "character": "Ernie",
+               "gender": 2,
+               "credit_id": "5a761f5e0e0a26642703c519",
+               "name": "Jeff Blumenkrantz",
+               "profile_path": "/7QZojAYaKPeKStzAVTL50krSUdh.jpg",
+               "id": 140570,
+               "order": 9
+            },
+            {
+               "cast_id": 48,
+               "character": "Stan",
+               "gender": 2,
+               "credit_id": "5a762054c3a3686b5101136b",
+               "name": "Todd Weeks",
+               "profile_path": "/nMev7xcq6gKz1QzNijUn4Mai8xJ.jpg",
+               "id": 150203,
+               "order": 10
+            },
+            {
+               "cast_id": 49,
+               "character": "Wendy Wong",
+               "gender": 1,
+               "credit_id": "5a7620e9c3a36859fc03dbb8",
+               "name": "Jodi Long",
+               "profile_path": "/p3z93vBDaTGtfHyDCxJLThkA1Bi.jpg",
+               "id": 44059,
+               "order": 11
+            },
+            {
+               "cast_id": 50,
+               "character": "Black Reporter",
+               "gender": 0,
+               "credit_id": "5a7621ca925141059f03863c",
+               "name": "Michael Burgess",
+               "profile_path": null,
+               "id": 1972262,
+               "order": 12
+            },
+            {
+               "cast_id": 51,
+               "character": "Hispanic Reporter",
+               "gender": 0,
+               "credit_id": "5a7621f892514105a90372ca",
+               "name": "Leonor Anthony",
+               "profile_path": "/6YZVWhIpBHZrz4gB0ltzpckFpqu.jpg",
+               "id": 178678,
+               "order": 13
+            },
+            {
+               "cast_id": 52,
+               "character": "Anchorman",
+               "gender": 0,
+               "credit_id": "5a762225c3a36859fc03dcfa",
+               "name": "Walter Raymond",
+               "profile_path": null,
+               "id": 1972269,
+               "order": 14
+            },
+            {
+               "cast_id": 53,
+               "character": "The Reverend Fenton Brunch",
+               "gender": 2,
+               "credit_id": "5a7622499251410597037bb9",
+               "name": "Giancarlo Esposito",
+               "profile_path": "/d39hOi5lTfqekjFK4JKKPeuGNdW.jpg",
+               "id": 4808,
+               "order": 15
+            },
+            {
+               "cast_id": 54,
+               "character": "Ula",
+               "gender": 1,
+               "credit_id": "5a76244a92514105a603870a",
+               "name": "Loretta Devine",
+               "profile_path": "/zLQFwQTFtHkb8sbFdkPNamFI7jv.jpg",
+               "id": 18284,
+               "order": 16
+            },
+            {
+               "cast_id": 55,
+               "character": "Dr. R. A. (Roy) Fink",
+               "gender": 2,
+               "credit_id": "5a7624860e0a26642d03e241",
+               "name": "Bob Balaban",
+               "profile_path": "/3g7IKz8ycv0opDxmpoBxsQkUslU.jpg",
+               "id": 12438,
+               "order": 17
+            },
+            {
+               "cast_id": 56,
+               "character": "Sherman",
+               "gender": 2,
+               "credit_id": "5a7624f8c3a3685a1b03935c",
+               "name": "Ron Taylor",
+               "profile_path": "/uXyJt7oeI5ACFODnymK1oHs5cOV.jpg",
+               "id": 81776,
+               "order": 18
+            },
+            {
+               "cast_id": 57,
+               "character": "Stacy",
+               "gender": 1,
+               "credit_id": "5a76268d0e0a26642703cc22",
+               "name": "Aimee Graham",
+               "profile_path": "/gRgsEkk4JxxyluVpoUK7BF8glex.jpg",
+               "id": 35545,
+               "order": 19
+            },
+            {
+               "cast_id": 58,
+               "character": "State Police Captain",
+               "gender": 0,
+               "credit_id": "5a7627920e0a26642a03e3ca",
+               "name": "Ernie Garrett",
+               "profile_path": null,
+               "id": 133848,
+               "order": 20
+            },
+            {
+               "cast_id": 59,
+               "character": "Bloodhound Bob",
+               "gender": 2,
+               "credit_id": "5a7627c3925141059a038ff0",
+               "name": "Tracey Walter",
+               "profile_path": "/pMeImyAZ8fpQ32QyPO8g6W8gs13.jpg",
+               "id": 3801,
+               "order": 21
+            },
+            {
+               "cast_id": 60,
+               "character": "Anchorwoman",
+               "gender": 1,
+               "credit_id": "5a7627f7c3a36859cc03c2a7",
+               "name": "Allison Mackie",
+               "profile_path": "/kh0pkff8EwIKZBp0UBY6HMnW8DV.jpg",
+               "id": 21143,
+               "order": 22
+            },
+            {
+               "cast_id": 61,
+               "character": "Mainland Gatekeeper",
+               "gender": 0,
+               "credit_id": "5a76281dc3a36859ec03d591",
+               "name": "Eric Paisley",
+               "profile_path": null,
+               "id": 1535359,
+               "order": 23
+            },
+            {
+               "cast_id": 62,
+               "character": "Mrs. Andrew Sterling",
+               "gender": 1,
+               "credit_id": "5a76283ac3a36859cc03c2de",
+               "name": "Kim Staunton",
+               "profile_path": "/9CJmJ5l7DZAtZvdbltalwoV2NfH.jpg",
+               "id": 17358,
+               "order": 24
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "52fe44539251416c9100cc75",
+               "name": "E. Max Frye",
+               "profile_path": null,
+               "id": 68928,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44539251416c9100cc7b",
+               "name": "E. Max Frye",
+               "profile_path": null,
+               "id": 68928,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a760db80e0a26642703acc8",
+               "name": "John S. Lyons",
+               "profile_path": null,
+               "id": 1227,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a760e140e0a26643903bd4d",
+               "name": "Richard Gibbs",
+               "profile_path": "/5jTk1fUsMzslWB86XdWB8JoYdMl.jpg",
+               "id": 21068,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5a760e64c3a36859ec03b660",
+               "name": "Jane Kurson",
+               "profile_path": null,
+               "id": 6900,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5a760edb0e0a26643c03afd6",
+               "name": "Patricia Norris",
+               "profile_path": "/gZQZwyO3fckr0qNOxTDwxEK442F.jpg",
+               "id": 5634,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a760efcc3a36859cf035677",
+               "name": "Walt Lloyd",
+               "profile_path": "/7jVPvsnbqRvHRCn4SW3IV3Z3KOr.jpg",
+               "id": 10418,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a760f3e0e0a26643c03b07d",
+               "name": "Jack Cummins",
+               "profile_path": null,
+               "id": 66077,
+               "department": "Production",
+               "job": "Co-Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a760f6692514105a6036dc7",
+               "name": "Marshall Persinger",
+               "profile_path": null,
+               "id": 73842,
+               "department": "Production",
+               "job": "Co-Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a760f8292514105a9035c81",
+               "name": "Gary Goetzman",
+               "profile_path": "/7uD9essxoWX745IbAbBvNidJeM7.jpg",
+               "id": 27098,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a760fff92514105a9035d35",
+               "name": "Jack Cummins",
+               "profile_path": null,
+               "id": 66077,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a7610dc92514105a3036e5d",
+               "name": "Henry J. Bronchtein",
+               "profile_path": null,
+               "id": 1219553,
+               "department": "Directing",
+               "job": "First Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a7611a20e0a26643903c31b",
+               "name": "Nina Kostroff Noble",
+               "profile_path": null,
+               "id": 1224623,
+               "department": "Directing",
+               "job": "Second Assistant Director"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5a7611b6925141059703677f",
+               "name": "Patricia Norris",
+               "profile_path": "/gZQZwyO3fckr0qNOxTDwxEK442F.jpg",
+               "id": 5634,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a76123ac3a3686b51010201",
+               "name": "Eddie Collins",
+               "profile_path": null,
+               "id": 1395730,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a76125ac3a36859d3035541",
+               "name": "John Pritchett",
+               "profile_path": null,
+               "id": 1546442,
+               "department": "Sound",
+               "job": "Sound Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a761289c3a36859cc03aaab",
+               "name": "Glenn Randall Jr.",
+               "profile_path": null,
+               "id": 9974,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a7612b40e0a26643003d7ad",
+               "name": "Leslie Morales",
+               "profile_path": null,
+               "id": 9321,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a76130e0e0a26643303bf22",
+               "name": "Amy Stofsky",
+               "profile_path": null,
+               "id": 15015,
+               "department": "Costume & Make-Up",
+               "job": "Costume Supervisor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5a76137b0e0a26643903c5fd",
+               "name": "Deborah Winship",
+               "profile_path": null,
+               "id": 1972196,
+               "department": "Art",
+               "job": "Leadman"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a7613bb92514105a303723a",
+               "name": "Gordon Antell",
+               "profile_path": null,
+               "id": 1413127,
+               "department": "Editing",
+               "job": "First Assistant Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5a761401c3a36859fc03cb14",
+               "name": "Sioux Richards",
+               "profile_path": null,
+               "id": 74823,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5a761543c3a3685a0c0397fd",
+               "name": "Marcy G. Kaplan",
+               "profile_path": null,
+               "id": 1224008,
+               "department": "Production",
+               "job": "Production Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a761591925141059a037c6f",
+               "name": "Carl Boles",
+               "profile_path": null,
+               "id": 1132695,
+               "department": "Lighting",
+               "job": "Gaffer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a761610925141059f037897",
+               "name": "Tom Harjo",
+               "profile_path": null,
+               "id": 1972203,
+               "department": "Camera",
+               "job": "Key Grip"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a76166d0e0a26643003dd62",
+               "name": "Jeff 'Moose' Howery",
+               "profile_path": null,
+               "id": 91905,
+               "department": "Camera",
+               "job": "Dolly Grip"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a7616b1c3a36859ec03c28c",
+               "name": "Jean Ann Black",
+               "profile_path": null,
+               "id": 1325234,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a7616f10e0a26643c03bbc7",
+               "name": "Shawn McKay",
+               "profile_path": null,
+               "id": 1339317,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a76172792514105a60378a2",
+               "name": "Robert Beck",
+               "profile_path": null,
+               "id": 1412778,
+               "department": "Art",
+               "job": "Property Master"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a76175dc3a36859d3035bab",
+               "name": "Denny DiAddezzio",
+               "profile_path": null,
+               "id": 1972215,
+               "department": "Art",
+               "job": "Assistant Property Master"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a7617760e0a26642d03d2df",
+               "name": "Jim Bridges",
+               "profile_path": null,
+               "id": 1393568,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a7617be0e0a26642a03d19f",
+               "name": "Tom Jones Jr.",
+               "profile_path": null,
+               "id": 1389588,
+               "department": "Art",
+               "job": "Construction Coordinator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a7617d90e0a26642703bbd3",
+               "name": "Jack Cornish",
+               "profile_path": null,
+               "id": 1842411,
+               "department": "Art",
+               "job": "Construction Foreman"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a76180d92514105940377f7",
+               "name": "Isom Ison III",
+               "profile_path": null,
+               "id": 1972216,
+               "department": "Art",
+               "job": "Construction Foreman"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a761824c3a3685a0c039c09",
+               "name": "Elizabeth Ziegler",
+               "profile_path": null,
+               "id": 1397731,
+               "department": "Camera",
+               "job": "Steadicam Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a76185592514105a3037812",
+               "name": "William G. Davis",
+               "profile_path": null,
+               "id": 933506,
+               "department": "Art",
+               "job": "Assistant Art Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a76187f0e0a26643503c29d",
+               "name": "Carlton Kaller",
+               "profile_path": null,
+               "id": 1398863,
+               "department": "Sound",
+               "job": "Music Editor"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Comedy",
+            "id": 35
+         }
+      ],
+      "popularity": 3.864999,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 31000,
+      "vote_count": 55,
+      "budget": 0,
+      "overview": "When Andrew Sterling (Samuel L. Jackson), a successful black urbanite writer, buys a vacation home on a resort in New England the police mistake him for a burglar. After surrounding his home with armed men, Chief Tolliver (Dabney Coleman) realizes his mistake and to avoid the bad publicity offers a thief in his jail, Amos Odell (Nicolas Cage) a deal.",
+      "similar": [
+         1870,
+         2088,
+         1089,
+         7461,
+         10157,
+         1368,
+         49524,
+         2043,
+         1103,
+         2142,
+         11825,
+         1900,
+         168530,
+         10345,
+         10648,
+         11001,
+         2332,
+         2110,
+         10587,
+         2026
+      ],
+      "original_title": "Amos & Andrew",
+      "runtime": 96,
+      "poster_path": "/pMBGNXnyVU4FLqEMmEREVYBcr4Y.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Español",
+            "iso_639_1": "es"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": "/iaYpEp3LQmb8AfAtmTvpqd4149c.png",
+            "name": "New Line Cinema",
+            "id": 12,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+            "name": "Columbia Pictures",
+            "id": 5,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": "/7znWcbDd4PcJzJUlJxYqAlPPykp.png",
+            "name": "Castle Rock Entertainment",
+            "id": 97,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1993-03-05",
+      "vote_average": 5.3,
+      "belongs_to_collection": null,
+      "tagline": "Misunderstood. Misplaced. Mismatched.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["E. Max Frye"],
+      "runtime": 92,
+      "synopsis": null,
+      "writers": ["E. Max Frye"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0106266/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTUxMjUyMjY2NV5BMl5BanBnXkFtZTYwMTMyMzk5._V1_SY291_CR1,0,214,291_AL_.jpg",
+      "actors": ["Stars: Nicolas Cage, Samuel L. Jackson, Michael Lerner | See full cast and crew »"],
+      "reviews": [
+         "The reviews for `Amos & Andrew' are all over the place, from Leonard Maltin's `BOMB' to The Washington Post Style section critic's rave (though the Post's Weekend section reviewer gave it a devastating pan). Any movie that gets this range of reaction is not all bad, and `Amos & Andrew' has a number of redeeming values. Its racial satire (which can be serious as well as slapstick, often in the same minute) seems a natural extension of Stanley Kramer's `The Defiant Ones' (1958). In both films, a white and a black man are handcuffed together and escaping from the law. The differences between the films are telling, however. In `Defiant,' both men are racists. They know little about each other's race, except what they think is the bad stuff (if I remember the film correctly). But both are poor and, as the film reveals, have much more in common than they thought. In `A&A,' the black man is a third generation, college-educated upper middleclass professional. He has succeeded in a white world (Pulitzer-prize; well-paid for his books and screenplays; a celebrity and a college professor; and more). But he still dislikes and distrusts whites, with reason. The white man is a drifter and petty thief, but he doesn't dislike blacks; indeed, he probably knows them better than the black man. And he's as much an outsider as the black man. These ideas, and the comedy evolving from them, make `A&A' fascinating and, sometimes in a simplistic way, thought-provoking. The humor often is sharp and funny, though it can become too silly and off the point. So the film is both clever and stupid, original and cliché. I often found myself laughing out loud as the film piled on smart gag after smart gag, slowing down only at the obvious, familiar and overplayed ones. Some may find the basic premise, a black man thought to be a burglar only because he's seen in a house in an exclusive white neighborhood, as tasteless and offensive, or at least not played out with sufficient outrage. Others may be grateful that such a pointed idea was dramatized without self-righteous anger and superiority. To them, this modest, light touch conveyed the message much more effectively, especially to those who needed to hear it, than a harder-edged film might have. Overall, there's enough good stuff in 'A&A,' including the acting by Nicholas Cage (when he still was good) and Samuel L. Jackson to push the film to a 2 ½ to 3-star rating. It's worth a look.",
+         "Hated by some critics, ignored by the movie-viewing public, \"Amos and Andrew\" is a very underrated movie with a message. First of all, this film has great performances from the whole cast. Nicholas Cage, Samuel L. Jackson, Dabney Coleman, all of them were hilarious in this movie. Even the supporting cast (especially Bob Balaban) were hilarious. If you want to see Samuel L. Jackson actually act instead of just being some cop or criminal advocating senseless violence, see this movie. Second of all, the script was great; I loved all the twists and turns that the plot took. It's part of what made this movie so funny. I also enjoyed the political satire in Dabney Coleman's character. Finally, the movie contains an important message. It speaks out against racism. Even without the segregation which Martin Luther King, Jr. fought against, society is not colorblind, and that point is exhibited well in this movie. Don't believe the IMDB vote rating or the high-and-mighty movie critics. Believe me. This is an excellent piece of filmmaking.",
+         "One of the most underrated, overlooked comedies of the 1990s, and a social satire that DOES work, Maltin's faulty opinion to the contrary. Cage is brilliant, as is Bob Balaban. Writer/director E. Max Frye deserved much better reception for this sharp, smart piece of work. Unfortunately, the film's ending was apparently re-worked, to the satisfaction of almost no one on the creative team. Coincidentally, the angry mob torch scene in this movie was shot practically the same time the 'Rodney King' riots unfolded 3000 miles away in LA.",
+         "This film is possibly one of the funniest films ever. A seriously great flick which will make you laugh more than ones. Great acting, writing and directing and the plot is so brilliant that you want believe it. Samuel L. Jackson (one of the best actors alive plays Andrew Sterling a extremely rich and successful African American which has just bought a summer house on a \"all white\" island. The previous owners of the summer house has not told anybody that it was for sail and when two of the neighbors see him inside they naturally assume he is a criminal. He's nice car outside also make them believe he's holding the previous owners hostage and they call the police. The police assumes the same and over a little misunderstanding they start firing at him. When the realize how wrong they where the police chief (which is running for Major) makes a plan to justify everything and fool everyone so they make a deal with the life criminal Amos (played by Nicolas Cage) to stage a hostage situation against letting him get out of jail. But then the pres finds out about the story and the chief has to go back on his deal, unfortunately for him they both finds out the truth.",
+         "When famous Pulitzer Prize winner Andrew Sterling (Samuel L. Jackson) moves into a new home on a New England resort island, he is mistaken by his new neighbors Phil (Michael Lerner) and Judy Gillman (Margaret Colin) as a thief because they see him through his window with his stereo equipment in his hands! They call the police. The Chief of Police Cecil Talliver (Dabney Coleman) and his band of bungling deputies show-up and then the fun begins. When Talliver realizes that he and his deputies have shot at a famous man, he must engineer a cover-up by using a con-artist currently incarcerated in his jail, Amos Odell (Nicolas Cage). Dabney Colman is at his best playing this sort of incompetent pompous ass character! Samuel Jackson and Nicolas Cage are believable in their roles. The whole movie is a comedy of errors with several scenes that are laugh-out-loud funny. Entertaining!",
+         "Recap: Andrews first day in his new home is not a happy one. Mistaken for a burglar in his own house, he soon finds himself the hostage in a situation planned by the local chief of police. Comments: A surprisingly good comedy. I like movies that start quite slowly but that speeds up with every twist and turn. This is a plot where everything starts out nice and easy but that become increasingly more complicated (for the characters) with every attempt to solve everything. Soon everybody finds themselves in a mess no one can escape. And with every turn, it becomes funnier. So, it surely works as a fun entertainment when you're tired. And if you want, there are some seeds of real importance that you can ponder upon. But really, just enjoy the laughs. 7/10",
+         "Clumsily written, the quasi-buddy comedy of mistaken identity stars Samuel L. Jackson as a racist writer on a posh Massachusetts island who is mistaken for being a burglar. After dodging a shower of police gunfire at his house everyone finds out that he is the person living there. Rather than face internal affairs, the cops let a car thief (Nicholas Cage) out of jail to go in the home with a shotgun and act as the `burglar'. (So the `break-in' looks fatal, for obvious reasons.) Michael Lerner was hilarious as the hypocritical former lawyer of the Chicago 7. Giancarlo Esposito was realistic as the Louis Farrakhan-like fundamentalist. If the police weren't so unfunny (and other parts were written more cannily) it all would have been much better.",
+         "This is a very good comedy that has you laughing regularly! The acting is superb! The plot is excellent with an accelerating number of screw ups that in the end reaches a very satisfying conclusion. A lot of so called comedies have one or two laughs in them and they've gotten better ratings than this show. This show is full of laughs and crazy situations that leave you wishing they had made a sequel. I have watched this show several times and will do so again because it is that good. If I have company and people want to watch a comedy I may drag this movie out as not many people have seen it. It always gets a positive review and a lot of laughs. Anyone rating this movie less than a 7 at least should see a therapist!",
+         "Nicolas Cage plays a low life loser in the jail in the Hamptons. Samuel Jackson plays a Nobel prize winning man moving into the Hamptons. While moving in to his new house the neighbors see Jackson carrying stereo equipment; they call the cops because \"when you see a black man with an armful of stereo equipment on this island you know damn good and well what is going on!\" Let the comedy begin! Structurally the story well put together with excellent foreshadowing and dialogue. This is a comedy with a purpose. This is a story about white\\black race relations in America and is very relevant today. This is one of the funniest movies I have ever seen in my life!",
+         "The arrest of Henry Louis Gates Jr., Harvard University's top expert on African-American history and culture, sounded a familiar note, the plot of AMOS AND ANDREW. Samuel L. Jackson playing an internationally known author is presumed to be a burglar in his own home by passers-by. A siege of his home by local police caricatures the Cambridge police department. The film's supporting cast of Michael Lerner and Margaret Colin as well as Dabney Coleman make this a light comic view of what could have become a raw, racial confrontation. Leonard Maltin after commenting that this was like a 1960's Disney film, continues, \"maybe they should have called this THAT DARN AFRO-American. If Nicholas Cage played his role with more fervor the IMDb rating would be higher. But in view of current events, screenings should skyrocket."
+      ],
+      "genres": [
+         "Comedy",
+         "Crime"
+      ],
+      "productionCompanies": [
+         "Castle Rock Entertainment",
+         "Columbia Pictures Corporation",
+         "New Line Cinema"
+      ],
+      "summaries": ["When Andrew Sterling, a successful black urbanite writer buys a vacation home on a resort in New England the police mistake him for a burglar. After surrounding his home with armed men, Chief Tolliver realizes his mistake and to avoid the bad publicity offers a thief in his jail, Amos Odell a deal. Amos is to pretend to take Andrew prisoner and hold him for ransom but let him go and escape. Amos and Andrew suddenly realize that the Chief's problems are all gone if the two of them both die in a gun battle. The worst partnership in film history then tries to get away from the local police."],
+      "budget": 0
+   },
+   "movielensId": 1440,
+   "movielens": {
+      "languages": [
+         "English",
+         "Español"
+      ],
+      "releaseDate": "1993-03-05",
+      "dvdReleaseDate": "2001-05-22",
+      "directors": ["E. Max Frye"],
+      "runtime": 96,
+      "movieId": 1440,
+      "title": "Amos & Andrew",
+      "mpaa": "PG-13",
+      "actors": [
+         "Samuel L. Jackson",
+         "Nicolas Cage",
+         "Michael Lerner",
+         "Margaret Colin",
+         "Dabney Coleman",
+         "Brad Dourif",
+         "Chelcie Ross",
+         "Jordan Lund",
+         "I.M. Hobson",
+         "Jeff Blumenkrantz",
+         "Todd Weeks",
+         "Jodi Long",
+         "Michael Burgess",
+         "Leonor Anthony",
+         "Walter Raymond",
+         "Giancarlo Esposito",
+         "Loretta Devine",
+         "Bob Balaban",
+         "Ron Taylor",
+         "Aimee Graham",
+         "Ernie Garrett",
+         "Tracey Walter",
+         "Allison Mackie",
+         "Eric Paisley",
+         "Kim Staunton"
+      ],
+      "imdbMovieId": "0106266",
+      "originalTitle": "Amos & Andrew",
+      "genres": [
+         "Action",
+         "Comedy"
+      ],
+      "youtubeTrailerIds": ["vemvP58rEWs"],
+      "plotSummary": "When Andrew Sterling (Samuel L. Jackson), a successful black urbanite writer, buys a vacation home on a resort in New England the police mistake him for a burglar. After surrounding his home with armed men, Chief Tolliver (Dabney Coleman) realizes his mistake and to avoid the bad publicity offers a thief in his jail, Amos Odell (Nicolas Cage) a deal.",
+      "tmdbMovieId": 31000,
+      "avgRating": 2.77886,
+      "releaseYear": "1993",
+      "numRatings": 771,
+      "posterPath": "/pMBGNXnyVU4FLqEMmEREVYBcr4Y.jpg"
+   }
+}

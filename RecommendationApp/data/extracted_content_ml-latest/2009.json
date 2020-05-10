@@ -1,0 +1,519 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "paranoia",
+            "id": 2340
+         },
+         {
+            "name": "future",
+            "id": 2964
+         },
+         {
+            "name": "dystopia",
+            "id": 4565
+         },
+         {
+            "name": "overpopulation",
+            "id": 5113
+         },
+         {
+            "name": "cult film",
+            "id": 34117
+         }
+      ],
+      "imdb_id": "tt0070723",
+      "video": false,
+      "title": "Soylent Green",
+      "recommendations": [
+         10803,
+         11234,
+         811,
+         10514,
+         828,
+         2362,
+         830,
+         636,
+         10176,
+         11850,
+         2134,
+         11864,
+         9080,
+         9538,
+         11071,
+         991,
+         10785,
+         8337,
+         36819,
+         11542
+      ],
+      "backdrop_path": "/dJrRGy2UErahGSK0kAscsHhev2h.jpg",
+      "revenue": 3600000,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 8,
+               "character": "Detective Robert Thorn",
+               "gender": 2,
+               "credit_id": "52fe44b49251416c7503e285",
+               "name": "Charlton Heston",
+               "profile_path": "/pXwJV9JlOCKOHSfEJdt2q61SZVq.jpg",
+               "id": 10017,
+               "order": 0
+            },
+            {
+               "cast_id": 9,
+               "character": "Sol Roth",
+               "gender": 2,
+               "credit_id": "52fe44b49251416c7503e289",
+               "name": "Edward G. Robinson",
+               "profile_path": "/af1aBRi4UccaxtmDPWEtlfy1vXE.jpg",
+               "id": 13566,
+               "order": 1
+            },
+            {
+               "cast_id": 10,
+               "character": "Shirl",
+               "gender": 1,
+               "credit_id": "52fe44b49251416c7503e28d",
+               "name": "Leigh Taylor-Young",
+               "profile_path": "/2T8gHSYiU9GdjzkTz9VX8pHA1jn.jpg",
+               "id": 71240,
+               "order": 2
+            },
+            {
+               "cast_id": 11,
+               "character": "Tab Fielding",
+               "gender": 2,
+               "credit_id": "52fe44b49251416c7503e291",
+               "name": "Chuck Connors",
+               "profile_path": "/bBjFRL4ULfnegDMU6iNKBwS4IVj.jpg",
+               "id": 27747,
+               "order": 3
+            },
+            {
+               "cast_id": 12,
+               "character": "William R. Simonson",
+               "gender": 2,
+               "credit_id": "52fe44b49251416c7503e295",
+               "name": "Joseph Cotten",
+               "profile_path": "/bTUTrTnzacCQV4F0rs1xH4QaETf.jpg",
+               "id": 7664,
+               "order": 4
+            },
+            {
+               "cast_id": 13,
+               "character": "Chief Hatcher",
+               "gender": 2,
+               "credit_id": "52fe44b49251416c7503e299",
+               "name": "Brock Peters",
+               "profile_path": "/3yTNmSPH83fBpkU8fo7zrfErOJc.jpg",
+               "id": 2112,
+               "order": 5
+            },
+            {
+               "cast_id": 14,
+               "character": "Martha",
+               "gender": 1,
+               "credit_id": "52fe44b49251416c7503e29d",
+               "name": "Paula Kelly",
+               "profile_path": "/5SLeOYrCPAilNpHiwCv1BfTYTQb.jpg",
+               "id": 157439,
+               "order": 6
+            },
+            {
+               "cast_id": 15,
+               "character": "Gilbert",
+               "gender": 2,
+               "credit_id": "52fe44b49251416c7503e2a1",
+               "name": "Stephen Young",
+               "profile_path": null,
+               "id": 40551,
+               "order": 7
+            },
+            {
+               "cast_id": 16,
+               "character": "Kulozik",
+               "gender": 2,
+               "credit_id": "52fe44b49251416c7503e2a5",
+               "name": "Mike Henry",
+               "profile_path": "/aPOpTAvi6rLwO3k4DaherWqYAN0.jpg",
+               "id": 235365,
+               "order": 8
+            },
+            {
+               "cast_id": 17,
+               "character": "The Priest",
+               "gender": 2,
+               "credit_id": "52fe44b49251416c7503e2a9",
+               "name": "Lincoln Kilpatrick",
+               "profile_path": "/7gND70KieLAwBN3SVSjUOTXtklz.jpg",
+               "id": 104907,
+               "order": 9
+            },
+            {
+               "cast_id": 18,
+               "character": "Donovan",
+               "gender": 2,
+               "credit_id": "52fe44b49251416c7503e2ad",
+               "name": "Roy Jenson",
+               "profile_path": "/swkMoVqkIw3CKTKkIzR2yHEfyF3.jpg",
+               "id": 12298,
+               "order": 10
+            },
+            {
+               "cast_id": 19,
+               "character": "Charles",
+               "gender": 2,
+               "credit_id": "52fe44b49251416c7503e2b1",
+               "name": "Leonard Stone",
+               "profile_path": "/7s3I3XcSETUV9lESlJvAw9Vzaqf.jpg",
+               "id": 3467,
+               "order": 11
+            },
+            {
+               "cast_id": 20,
+               "character": "Gov. Santini",
+               "gender": 2,
+               "credit_id": "52fe44b49251416c7503e2b5",
+               "name": "Whit Bissell",
+               "profile_path": "/aOe39nPJuZpGYGR3WuRo5PiYGwK.jpg",
+               "id": 13786,
+               "order": 12
+            },
+            {
+               "cast_id": 21,
+               "character": "The Exchange Leader",
+               "gender": 1,
+               "credit_id": "52fe44b49251416c7503e2b9",
+               "name": "Celia Lovsky",
+               "profile_path": "/houYB0BFbDah7JxzBBpb48pyHft.jpg",
+               "id": 15942,
+               "order": 13
+            },
+            {
+               "cast_id": 22,
+               "character": "Usher #1",
+               "gender": 2,
+               "credit_id": "52fe44b49251416c7503e2bd",
+               "name": "Dick Van Patten",
+               "profile_path": "/mAYJ9Psvz3JQAvHXDwdcegO3Wok.jpg",
+               "id": 14671,
+               "order": 14
+            },
+            {
+               "cast_id": 23,
+               "character": "Wagner",
+               "gender": 2,
+               "credit_id": "52fe44b49251416c7503e2c1",
+               "name": "John Dennis",
+               "profile_path": "/78XDuxSpAlTxpxMVbFi1EQpmjPW.jpg",
+               "id": 134613,
+               "order": 15
+            },
+            {
+               "cast_id": 27,
+               "character": "Book #1",
+               "gender": 2,
+               "credit_id": "5a0ce8689251416ef6003928",
+               "name": "Morgan Farley",
+               "profile_path": "/94yu6kY3TVj60OV7gUxTFvFUJDD.jpg",
+               "id": 4076,
+               "order": 16
+            },
+            {
+               "cast_id": 28,
+               "character": "Book #2",
+               "gender": 2,
+               "credit_id": "5a0ce87b9251416ef0003719",
+               "name": "John Barclay",
+               "profile_path": "/2PrwUcFSEsVQLiW2VIAWYAEerBk.jpg",
+               "id": 184686,
+               "order": 17
+            },
+            {
+               "cast_id": 29,
+               "character": "Book #3",
+               "gender": 1,
+               "credit_id": "5a0cea139251416eea0036f3",
+               "name": "Belle Mitchell",
+               "profile_path": "/hHSVUqabcA3pBMSBkHfon7rSVRu.jpg",
+               "id": 153437,
+               "order": 18
+            },
+            {
+               "cast_id": 30,
+               "character": "Book #4",
+               "gender": 2,
+               "credit_id": "5a0cea269251416eed0039a4",
+               "name": "Cyril Delevanti",
+               "profile_path": "/ldqsp9NS3cbTQfQvp6JJ5WgTWxA.jpg",
+               "id": 88906,
+               "order": 19
+            },
+            {
+               "cast_id": 31,
+               "character": "The Furniture Girls",
+               "gender": 0,
+               "credit_id": "5a0ceae09251416ef6003c4b",
+               "name": "Joyce Williams",
+               "profile_path": "/6dnuqqHq4Z3aVE4QkrhGK7On0oq.jpg",
+               "id": 556060,
+               "order": 20
+            },
+            {
+               "cast_id": 24,
+               "character": "Shoe Seller (uncredited)",
+               "gender": 2,
+               "credit_id": "52fe44b49251416c7503e2c5",
+               "name": "Robert Ito",
+               "profile_path": null,
+               "id": 122154,
+               "order": 21
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "52fe44b49251416c7503e25d",
+               "name": "Richard Fleischer",
+               "profile_path": "/pChGBiYPxqPfozB7GlDFCIjCQxs.jpg",
+               "id": 2087,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44b49251416c7503e263",
+               "name": "Stanley R. Greenberg",
+               "profile_path": null,
+               "id": 71238,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44b49251416c7503e269",
+               "name": "Walter Seltzer",
+               "profile_path": null,
+               "id": 18591,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44b49251416c7503e26f",
+               "name": "Russell Thacher",
+               "profile_path": null,
+               "id": 71239,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44b49251416c7503e275",
+               "name": "Fred Myrow",
+               "profile_path": null,
+               "id": 58249,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44b49251416c7503e27b",
+               "name": "Richard H. Kline",
+               "profile_path": "/1b9iffgT1rS9ff2erVOaPhVowW8.jpg",
+               "id": 1762,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44b49251416c7503e281",
+               "name": "Samuel E. Beetley",
+               "profile_path": null,
+               "id": 10151,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "55cdf352c3a3681bf5001f4e",
+               "name": "Jack Baur",
+               "profile_path": null,
+               "id": 7511,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55cdf367c3a3681bee001e55",
+               "name": "Pat Barto",
+               "profile_path": null,
+               "id": 1496857,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Mystery",
+            "id": 9648
+         },
+         {
+            "name": "Science Fiction",
+            "id": 878
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         }
+      ],
+      "popularity": 7.673223,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 12101,
+      "vote_count": 385,
+      "budget": 0,
+      "overview": "In an overpopulated futuristic Earth, a New York police detective finds himself marked for murder by government agents when he gets too close to a bizarre state secret involving the origins of a revolutionary and needed new foodstuff.",
+      "similar": [
+         10803,
+         605,
+         78,
+         604,
+         2048,
+         262543,
+         157336,
+         335984,
+         15785,
+         19959,
+         9659,
+         9693,
+         534,
+         19,
+         63,
+         603,
+         644,
+         17431,
+         8810,
+         76341
+      ],
+      "original_title": "Soylent Green",
+      "runtime": 97,
+      "poster_path": "/tIQVty3lbBzwuLemEDQic1Axfbd.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": "/zcxym93i5BTqqjhVvAhV5HPwYTR.png",
+         "name": "Metro-Goldwyn-Mayer",
+         "id": 21,
+         "origin_country": "US"
+      }],
+      "release_date": "1973-04-19",
+      "vote_average": 6.8,
+      "belongs_to_collection": null,
+      "tagline": "What is the secret of Soylent Green?",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Richard Fleischer"],
+      "runtime": 97,
+      "synopsis": "In the year 2022, the population has grown to 40 million people in New York City alone. Most housing is dilapidated and overcrowded, and the homeless fill the streets and line the fire escapes, stairways of buildings, abandoned cars, subway platforms, etc. Unemployment is at around 50%. Summers are oppressively hot and humid with temperatures over 90F degrees during the day and night due to Earth's recent climate change resulting from the Greenhouse Effect. Food, as we know it in this present time, is a rare and expensive commodity. Most of the World's population survives on processed rations produced by the massive Soylent Corporation, including Soylent Red and Soylent Yellow, which are advertised as \"high-energy vegetable concentrates\". The newest product is Soylent Green: small green wafers which are advertised as being produced from \"high-energy plankton\". It is much more nutritious and palatable than the red and yellow varieties but, like most other foods, in short supply which often leads to weekly food riots. Robert Thorn (Charlton Heston) is a New York City Police Department detective from the 14th Precinct who lives in a dilapidated, cramped one-room apartment with his aged friend and roommate, Solomon \"Sol\" Roth (Edward G. Robinson, in his last film). Roth is a former college professor whose job is to sort through the now-disordered remnants of written records and books to help Thorn's investigations. Roth and his like are known as \"books.\" He tells Thorn about the time before the ecological disaster and population crisis of the early 2000s, when real food was plentiful, although Thorn is generally not interested in the stories, finding most of them too hard to believe. Thorn is assigned to investigate the murder of William R. Simonson (Joseph Cotten), a 68-year-old wealthy lawyer living in a luxury high-rise apartment building called Chelsea Towers West. At the crime scene, Thorn first talks with the building superintendent Charles (Philip Stone) about discovering the body. Charles leads Thorn to the 22nd floor and to Simonson's apartment which is 22A. Thorn finds Simonson lying in a pool of blood after having been struck multiple times in the back of the head with a sharp object which is speculated to be a meat hook or an axe. Instead of looking for clues, the poorly paid detective helps himself to the wealthy man's food, liquor and books and even enjoys taking a shower (with real hot water and soap). He questions Shirl (Leigh Taylor-Young), an attractive 23-year-old \"concubine\" (euphemistically known as \"furniture\") who comes with the apartment, and Simonson's bodyguard, Tab Fielding (Chuck Connors), who claims that he was told to escort Shirl on a shopping trip when the attack took place. The sanitation crew led by Wagner arrives to take Simonson's dead body away, as Thorn leaves after collecting a statement from Fielding. Returning to his apartment, Thorn gives Roth the Soylent Oceanographic Survey Report, 2015 to 2019, a two-volume work which he took from Simonson's apartment. Thorn returns to work at the 14th Precinct during that evening where they're hundreds of people lining up to collect death benefit money from recently diseased friends and family members. Thorn talks to his superior officer, Lieutenant Hatcher (Brock Peters), telling him that he suspects it may have been an assassination, since nothing was stolen from the apartment and the murder seemed professional. Thorn also finds it odd that the luxury apartment's sophisticated alarm and monitoring electronics, including the building's security cameras, happened to be inoperative on the night of the murder, and his bodyguard just happened to be out of the apartment at the time. Thorn confides in Lt. Hatcher that he suspects that Fielding might have had something to do with Simonson's murder. The next day, Thorn stakes out Fielding's apartment building and sees him leave. Thorn lets himself into Fielding's apartment where he questions Fielding's live-in \"furniture\", Martha (Paula Kelly), about his work for Simonson. Thorn returns to his own apartment to eat an evening meal of the purloined food taken from Simonson's apartment that Roth prepares for them. Afterwards, Roth tells Thorn about the research he did on the murder victim and that Simonson was a member of the board of directors of the Soylent Corporation. When he presents Roth with a spoon of strawberry jam surreptitiously palmed from Fielding's apartment, Roth tastes it and declares that Fielding's \"furniture\" is eating some \"$150-a-jar\" strawberry jam, which is an out-of-place luxury for the mistress of a bodyguard. Thorn returns to the Chelsea Towers West to question Shirl, who tells him that Simonson became deeply troubled in the days before his death, even taking her to church. Shirl is throwing a party in Simonson's vacant apartment for the other \"furniture\" girls of the building. Just then, Charles arrives and begins yelling and hitting the women for slacking off until Thorn arrives back in the living room to stop Charles from hurting the girls anymore. After sending Charles and the rest of the furniture girls away, Thorn returns to Shirl and they make love. A little later that same evening, Thorn goes to a local Catholic Church (teeming with hundreds of homeless people) and attempts to question the priest (Lincoln Kirkpatrick) about Simonson's confession, but the priest is almost catatonic with exhaustion and has a hard time remembering Simonson, even though Simonson, as a rich man, would have stood out among the impoverished people who normally frequent the church. When the priest remembers Simonson, he tells Thorn the memory of what Simonson told him was haunting him, and is unable to describe what Simonson said to him because it was \"too horrible\". The next day, Fielding goes to the church and murders the priest to ensure he never talks again. The next morning, as Thorn begins uncovering more evidence as to why Simonson was murdered, New York State's Governor, Joseph Santini (Whit Bissell), who was once Simonson's partner in a high-profile law firm and who is running for re-election (as shown in the campaign posters on such walls as that of Hatcher's office), instructs Hatcher to close the investigation. However, Thorn continues his investigation into the murder. When Governor Santini learns that Thorn refuses to close the case of the Simonson murder, he orders his chief of security, Donovan (Roy Jensen), and the head of security at Iannhop Corp. to have Thorn murdered. When Thorn is on riot duty during the Tuesday distribution of Soylent Green rations, Simonson's murderer, Gilbert (Stephen Young), a local assassin-for-hire whom was the one that Donovan contracted to murder Simonson, attacks Thorn and fires several shots at him with a silenced pistol as a food riot begins. Thorn chases his attacker into the thick crowd as large dump trucks called \"scoops\" designed by the NYC Riot Police, arrive to pick up closely packed rioters and \"scoop\" them into the trucks. But before Thorn can capture Gilbert, who manages to wound Thorn by shooting him in his right calf, the assassin is crushed to death under the \"scoop\" of one of the riot control vehicles. Thorn goes back to Fielding's apartment and beats him and his mistress Martha for the attempt on his life. Thorn then goes back to Shirl at Simonson's apartment where she removes the bullet and stitches his wound. Shirl tells Thorn that a new tenant will be arriving soon at the apartment and is hoping to move in, but she has romantic feelings for Thorn. Thorn tells Shirl that he will let her know if she wants to stay with him or the new tenant of Simonson's apartment. After resting for about an hour, Thorn leaves the apartment into the evening as sirens for the nightly curfew begin sounding. Sometime later a new potential tenant, a brash high-class businessman, arrives at the apartment and questions Shirl about herself and describes his daily details should he decide move in and want to keep her as \"furniture\". Meanwhile, Roth examines Soylent's oceanographic reports at the Supreme Exchange, a library and gathering place for fellow \"books.\" The \"books\" and Roth finally realize that the reports indicate a \"horrible\" truth which, despite reading it for themselves, they find nearly impossible to believe; Soylent Green isn't made from plankton, it's made from human bodies. Unable to live with what he has uncovered, Roth opts for assisted suicide at a government clinic (in the former Madison Square Garden, which had been converted to a clinic for mass euthanasia), a process referred to as \"going home\". As Roth is dying, he watches video clips of Earth long ago when animal (sheep, deer, and horses) and plant life was thriving and there was no pollution, while listening to light classical music. Thorn returns to his apartment and finds a note from Roth that he is \"going home\". Thorn races to the clinic and forces the staff attendant (Dick Van Patten) to allow him to see and talk to Roth. During Roth's final moments, he tells Thorn the secret of Soylent Green, and begs him to follow his body to the processing center, and report back to the \"Supreme Exchange\". Thorn sneaks into the basement of the assisted suicide facility, where he sees corpses being loaded onto waste disposal trucks. He secretly hitches a ride on one, which is driven to a heavily guarded waste disposal plant just outside the city. The black-clad sanitation drivers are escorted at gunpoint out of the truck where a white-clad plant worker takes over driving. The sanitation worker is escorted to another truck leaving the fortress-like facility to drive back to the city. Once inside the plant, Thorn sees how the corpses are processed into Soylent Green wafers. They are loaded onto a conveyer belt and driven through a large machine about several hundred yards long, and the Soylent Green wafers come out on the other end. But Thorn is spotted by two plant workers and is chased. Thorn kills one and subdues another before he escapes from the plant just when the alarm is sounded. Thorn returns to the teeming city and heads for the Supreme Exchange to report what he found, but is ambushed by Fielding and three other gunmen (all of whom presumably work for the government and are trying to conceal the secret). Thorn manage to get to a police payphone and call Shirl to tell her that he loves her and to stay with the new tenant whom wants to rent Simonson's vacant apartment. Thorn also manages to place a second call to Lt. Hatcher at the 14th Precinct to tell him where he is and that he is being attacked, but then gets cut off when the assassins close in. During a chase through the deserted streets and alleys (cleared of people because of the government-imposed dusk to dawn curfew), Thorn manages to kill all the gunmen chasing him except for Fielding who shoots Thorn in the back. He retreats into a cathedral filled with homeless people and Fielding follows him. After a desperate fight through throngs of sleeping homeless, Thorn kills Fielding by stabbing him with a rusted kitchen knife. When police backup arrives at the church, the seriously wounded and nearly hysterical Thorn confides to Lt. Hatcher the horrible secret behind Soylent Green, while Hatcher looks on with disbelief. As Thorn is being carried away by the police on a stretcher to a local hospital, he urges to Hatcher to spread the word and shouts out to the spectators: \"Soylent Green is PEOPLE!! We've got to stop them... SOMEHOW!!!\"",
+      "writers": [
+         "Stanley R. Greenberg",
+         "Harry Harrison"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0070723/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTQwNjkxOTkyNF5BMl5BanBnXkFtZTgwMjc5NzY1MDE@._V1_SY317_CR0,0,214,317_AL_.jpg",
+      "actors": ["Stars: Charlton Heston, Edward G. Robinson, Leigh Taylor-Young | See full cast and crew »"],
+      "reviews": [
+         "This was Eddie Robinson's 101st film and his last, and he died of cancer nine days after shooting was complete. All of which makes his key scene in the movie all the more poignant. Although some of the hair and clothing styles are a bit dated (also note the video game shown in the film), but the subject of the film is pretty much timeless. Heston said he had wanted to make the film for some time because he really believed in the dangers of overpopulation. Several things make this film a classic. The story is solid. The acting is top-notch, especially the interplay between Heston and Robinson, with nice performances also by Cotten and Peters. The music is absolutely perfect. The medley of Beethoven, Grieg, and Tchaikovsky combined with the pastoral visual elements make for some truly moving scenes. This was the icing on the cake for the film. And the theme (or the \"point\") of the film is a significant one. Yes, it's a film about overpopulation, but on a more important note it's a cautionary tale about what can go wrong with Man's stewardship of Earth. It's in the subtext that you find the real message of the film. Pay attention to what Sol says about the \"old days\" of the past (which is our present), and note how Thorn is incapable of comprehending what Sol is saying. This film is one of my top sci-fi films of all time.",
+         "I saw this movie shortly after it first came out - when I was a kid. The scene that sticks with me to this day is when the scoops come to break up the riot. The cop says, \"The supply of Soylent Green has been exhausted. The scoops are on the way.\" Then the front-end loader trucks come and scoop the people up like so much garbage. The fact that 2022 looks like 1973 is entirely plausible because society has gone retrograde. Charlton Heston's performance is beautifully nuanced and believable. Edward G. Robinson is unforgettable as Sol. References to this movie pop up in shows like \"The Simpsons\" and \"Millennium\" for the simple reason that it is a visionary look at the future with real heart - a true classic.",
+         "Soylent Green IS...a really good movie, actually. I never would've thought it. I don't really like Heston in his sci-fi efforts. He's one of those actors who, like Superman, manages to come across all sneery and invincible most of the time. I prefer more vulnerable heroes. And indeed, he sneers his way through much of Soylent Green, too, but as he's supposed to be playing an overconfident bully I don't really mind. I can understand why some people would turn their noses up at this movie. Soylent Green makes no effort whatsoever to create futuristic visuals (what do you know - it looks just like 1973), and it's lacking in action. But I admired the film's vision of a complex, corrupt, and highly stratified society, and I was so pleased to see that Edward G. Robinson had such a moving, funny final role. Nice little character moments - like when he shares some precious food with Heston - really make the movie. The message of Soylent Green is pretty relevant these days, when nobody seems to know what the hell the government or corporations are up to. Funny, isn't it, to see Heston in a prototype Michael Moore movie...",
+         "I saw Soylent Green back in 1973 when it was first released and maybe another eight times over the years on T.V. or video. It was always one of my favorite sci-fi and/or Charlton Heston films. Recently, the Egyptian theater in L.A. had a twelve film Charlton Heston retrospective. I flew in from out of state to see six of the films over a two day period. Soylent Green looked great on the large Egyptian screen with a perfect new print. From its opening montage to the going home scene to the great ending the film was fantastic. Charlton Heston as a cop who lives in a dog eat dog world with few natural resources left and no understanding as to how the world used to be and Eddie Robinson as a man who remembers the past are both great. Their chemistry together is wonderful. The film also looks so much better in a great 35mm print. Fleisher really knows how to fill the screen,and the cinematoraphy, writing, music used, and everything about it works. The film is also very powerful in its bleak and very possible view of the future. Just think how the world population grew, the rain forest that disappeared, resources used up, green house effect getting worse since 1973. I just wonder why this film has not played in theaters all these years. Its reputation should be better. Speaking of reputations, often people speak as if Charlton Heston is not a great actor. Seeing him in El-Cid, Soylent Green, The Warlord, The Omega Man, Will Penny, and Major Dundee back to back I am convinced he is one of our best actors. Of course he made about a dozen other great films and for those that care you know what they are.",
+         "This is a brilliant sci-fi movie that is very strange in how men and women both view the same film. I have talked to many people about the film and almost every guy loved it and said it was brilliant--while most women thought it was just disgusting and stupid! This is the only movie I know of that has such polarized views based on gender. Perhaps many women just have a lower tolerance for disgusting or depressing plots--but whatever the cause, I have always found this difference fascinating. The film begins with a murder and a subsequent investigation headed by Charlton Heston. This is set in the near future and the head of the huge international Soylent Corporation has been assassinated. As the film unfolds, you quickly realize this is a terrible and highly inequitable future American society. The rich live in gorgeous apartments with security and all the pleasures money can buy(including \"furniture\"--a euphemism for paid mistresses that come along with the apartment). At the same time, the masses are dirt poor, unemployed and in many cases living in abandoned cars or apartment hallways. Overpopulation and smog have taken a severe toll and the future looks awful indeed! Why the rich man died and the awful truth he could not live with I really should NOT discuss--it could ruin the film for you. However, the film has a great plot and acting and is super-exciting to watch. Plus, it features Edward G. Robinson in his final screen performance as the crusty sidekick to Heston. Though not for the easily depressed or squeamish, this is a great sci-fi film that is allegorical and profound.",
+         "Very interesting. The big twist wasn't as big a shock as maybe they had hoped for and it was very dated but it did get my mind working. It really got me thinking about a world without vegetation or livestock and made me appreciate the world I live in a lot more. Charlton Heston does a good job, as do all the supporting characters, and it was a very realistic film which was surprising. It lacked direction at times and a lot of the settings and background needed more explanation but it was still a surprisingly good and intelligent movie. The main fault that I could find was that I didn't want the film to end when it did, I would have liked to see what happened next. 7/10",
+         "It is the year 2022 and nothing has changed even if things have gotten worse. New York City has become even more overpopulated and is just yet another city heaving in its own filth with countless \"have-nots\" fighting over sparse resources. Energy supplies are low, water is strictly controlled, living spaces are small and cramped and \"real\" food is a luxury reserved for the very rich. The masses do not have such luxuries and eat rationed supplies of high-nutrient processed foods from the Soylent Corporation. Detective Thorn is a \"have-not\" and just like everyone else is out to get what he can for himself and friend Sol Roth. Called to a burglary that became a murder, Thorn learns that the victim is a director at Soylent and suspects that all the curious thing about the crimes may be coming together to be far more than the work of some random thug. Famous for its \"shock\" ending (which everyone must know and most people will guess) this film is actually more than just one scene and is actually an intelligent sci-fi detective story that has an engaging central story and a generally interesting vision of the future that is much more convincing than the one of Hollywood blockbusters and such. The investigation is solid but it is the world it happens within that is most interesting as we see a world where, surprise surprise, the poor people are left to make do while those better off can still enjoy the finer things while they remain. It is not an earth shattering view of the future but it is a convincing one and I enjoyed being in this story and seeing this world played out. Personally I bought it but it may help that I mistrust corporations anyway and believe that the poor will be the first to get shafted when anything bad happens, simply because they have less to work with. The narrative is not the strongest though and in terms of it being a detective story it could have been better. Some viewers have complained about the lack of action, which I think is a pretty unfair accusation since it wasn't trying to be that type of film. The main characters are interesting. Thorn is a man of authority but he is just like everyone else, out to get what he can and takes advantage of others the first chance he gets. His relationship with Roth is not fully explained but it worked anyway and provided a touch of humanity. It helps that both actors did good jobs of it as well. Heston normally plays the gruff hero but here at least he allows the corruption within man's heart to come out. Robinson has less of a character but his performance is assured and is touching for reasons internal and external to the film. Support is not so good but it is less important in the smaller roles; Cotton is a nice find though. Overall this is a famous film that is good but not without its faults. The narrative is reasonably interesting and carries the film all the way to a nice (but too well-known) conclusion but it is in the general vision of the future of a world where the people are struggling to get by with resources running low. A smart sci-fi that is well worth seeing.",
+         "I watched this film sort of by accident, having bought it as the B side on The Omega Man DVD. The Omega Man was a bit of a disappointment - except for the beginning, which was clearly the inspiration for 28 Days Later, the rest of it is just the stuff of TV movies. But Soylent Green is in a whole other league. I bet this is one of Tarantino's favourites. There are at least 3 scenes in the film that I've never seen anything like before. Heston casually getting into bed with the \"furniture\" while discussing something else completely unrelated! A whole crowd of people being scooped up by a fleet of mechanical diggers! A priest taking confession and being shot by the confessor. Ok maybe that's been done since - but there aren't many films that are so consistently original like this. And what the heck is going on between Heston and Edward G. Robinson? Is this the most unlikely gay couple ever, or what? Luckily, I saw this film without knowing the ending - which apparently is rare. Then I watched it again, and enjoyed all the little clues that make the long early scenes worthwhile. A very nice script - and some great sets too. Just when you thought you'd seen everything . . .",
+         "In 2022, Earth is overpopulated and totally polluted; the natural resources have exhaust and the nourishment of the population is supplied by the Soylent Industries, a food made by plankton from the oceans. In New York, when the Soylent's member of the board William R. Simonson (Joseph Cotton) is murdered apparently by a burglar at the Chelsea Towers West where he lives, the efficient Detective Thorn (Charlton Heston) is assigned to investigate the case with his partner Solomon \"Sol\" Roth (Edward G. Robinson). Thorn comes to the fancy apartment and meets Simonson's bodyguard Tab Fielding (Chuck Connors) and the \"furniture\" (woman that is rented together with the flat) Shirl (Leigh Taylor-Young) and the detective concludes that the executive was not victim of burglary but executed. Further, he finds that the Governor Santini (Whit Bissell) and other powerful men want to disrupt and end his investigation. But Thorn continues his work and discovers that the oceans have exhausted and the bizarre and disturbing secret of the ingredient used to manufacture Soylent Green. \"Soylent Green\" is one of the best sci-fi ever made and a film that has not aged. On the contrary, when I saw it in the movie theater in 1973, it was another good film with catastrophic view of the future. Along the years, I have seen this film on VHS at least four more times and every time that I see it, I find it better and better. In Brazil, this film has not been released on DVD or Blu-ray, only in the movie-theater in 1973 and on a rare VHS with the title \"No Mundo de 2020\" (translation: \"In the World of 2020\", despite the story takes place in 2022) and I have just bought the imported Blu-Ray and saw it again. It is impressive how the writer Harry Harrison was capable to foresee the future in 1966 with pollution, overpopulation and menace of exhaustion of the natural resources and write his novel \"Make Room! Make Room!\". In those years, the concept of ecology did not exist, at least the same way in the present days. The grim view of the cannibalism to fee the population introduced by Stanley R. Greenberg in the screenplay fortunately has not been achieved yet. \"Soylent Green\" is also the film number 101 in the career of the unforgettable actor Edward G. Robinson that was with cancer and almost deaf during the shooting and died two weeks after the conclusion of this film. The Blu-Ray has in the extras a tribute to this great actor. My vote is ten. Title (Brazil): \"No Mundo de 2020\" (\"In the World of 2020\")",
+         "The only other film besides Soylent Green that has such an air of hopelessness is On the Beach. Both films deal with the consequences for the species and the planet from man made cataclysms. On the Beach with nuclear war and Soylent Green with the environmental poisoning of the planet. Maybe there's cause for some optimism because as of 2007 we haven't reached either of the worlds described in those films and we were supposed to by now. New York City still has about 8 million people not the 22 million by the turn of the millenia as described in Soylent Green. Environmentalists always hail this film as showing the consequence of global warming. For myself it also shows the Right to Life ethic run amuck. Obviously there's no family planning in this world either. Charlton Heston is an NYPD detective who lives with room mate Edward G. Robinson who's old enough to remember the Earth before catastrophe struck. There's been a murder committed, Joseph Cotten an executive with the Soylent Corporation, a multi-national concern that has come up with a food product, some kind of wafer in many colors to feed the world's population. It's latest product is Soylent Green. The investigation finds Charlton Heston getting his man, but also it leads to some horrifying truths about the Soylent Corporation and the future of mankind. As Heston shouts in the end that Soylent Green is made of people, that we've become a race of cannibals, the horrifying thing is that there is no alternative. We've exhausted the planet and we have to eat our dead to survive. This was the farewell performance of Edward G. Robinson and in his memoirs Heston spoke movingly of Robinson even though they had differing political views. A few weeks after Robinson wrapped that final scene of his screen demise by consented euthanasia, he passed away in real life. Not many did, but Heston knew that Robinson was terminally ill and there was no acting involved in that final death scene between the two of them. Though the timetable was off, it doesn't mean that the world envisioned by Soylent Green may not come to pass. Hopefully we'll have not just the intelligence, but the sense of shared responsibility to keep that from happening."
+      ],
+      "genres": [
+         "Mystery",
+         "Sci-Fi",
+         "Thriller"
+      ],
+      "productionCompanies": ["Metro-Goldwyn-Mayer (MGM)"],
+      "summaries": [
+         "In 2022, Earth is overpopulated and totally polluted; the natural resources have been exhausted and the nourishment of the population is provided by Soylent Industries, a company that makes a food consisting of plankton from the oceans. In New York, when Soylent's member of the board William R. Simonson is murdered apparently by a burglar at the Chelsea Towers West where he lives, efficient Detective Thorn is assigned to investigate the case with his partner Solomon \"Sol\" Roth. Thorn comes to the fancy apartment and meets Simonson's bodyguard Tab Fielding and the \"furniture\" (woman that is rented together with the flat) Shirl and the detective concludes that the executive was not victim of burglary but executed. Further, he finds that the Governor Santini and other powerful men want to disrupt and end Thorn's investigation. But Thorn continues his work and discovers a bizarre and disturbing secret of the ingredient used to manufacture Soylent Green.",
+         "A tale of Earth in despair in 2022. Natural food like fruits, vegetables, and meat among others are now extinct. Earth is overpopulated and New York City has 40 million starving, poverty stricken people. The only way they survive is with water rations and eating a mysterious food called Soylent. A detective investigates the murder of the president of the Soylent company. The truth he uncovers is more disturbing than the Earth in turmoil when he learns the secret ingredient of Soylent Green.",
+         "In the year 2022, earth's face has completely changed. New York's population, for example, has grown to 40 million mouths to feed. The greenhouse effect has risen the temperature into nearly unbearable regions, and the people are kept in the cities by law. The rich live in separated luxury apartments (with women as part of the rented furniture) but also experience the lack of natural food. Strawberries are at $150 for a glass of them. Police Detective Thorn investigates a strange murdering case of an official from the Soylent corporation, which feeds the masses with a palette of their creations: Soylent red, yellow, or, even more nutritious, green.",
+         "The year is 2022. New York City has become overpopulated with 40 million people and pollution has caused the temperature to be risen and all natural resources have been destroyed, leaving 40 million people starving. The Soylent Company has create a new food product, Soylent Green. In the overpopulated and polluted New York City, police detective Thorn is assigned to investigate the brutal murder of an corporate official of the Soylent company, William R. Simonson. Thorn's investigation into Simonson's murder leads him to uncover a conspiracy in the Soylant company and the Soylent Green food product itself, where Thorn uncovers the horrible truth about Soylent Green.",
+         "In the year 2022, overpopulation and the greenhouse effect have made life extremely difficult for the majority of people. The population of New York City is 40 million and the constant heat is unbearable. The city's infrastructure has broken down. Water is rationed and fresh food is virtually non-existent. Rather, most of the population live on soylent green, made from ocean vegetation and formed into tasteless green wafers. In this environment Detective Robert Thorn is assigned to investigate the death of William Simonson who was ultra-rich and didn't suffer any of life's hardships. He was killed with a blow to the head and it was all made to look like an interrupted break-in but Thorn is convinced early on that it was an assassination. Thorn learns that Simonson was a member of the Board of the Soylent Corporation but had recently become sad and morose. What, Thorn wonders would make such a rich man unhappy.",
+         "With the world ravaged by the greenhouse effect and overpopulation, an NYPD detective investigates the murder of a CEO with ties to the world's main food supply."
+      ],
+      "budget": 0
+   },
+   "movielensId": 2009,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1973-04-19",
+      "dvdReleaseDate": "2003-08-05",
+      "directors": ["Richard Fleischer"],
+      "runtime": 97,
+      "movieId": 2009,
+      "title": "Soylent Green",
+      "mpaa": "PG",
+      "actors": [
+         "Charlton Heston",
+         "Edward G. Robinson",
+         "Leigh Taylor-Young",
+         "Chuck Connors",
+         "Joseph Cotten",
+         "Brock Peters",
+         "Paula Kelly",
+         "Stephen Young",
+         "Mike Henry",
+         "Lincoln Kilpatrick",
+         "Roy Jenson",
+         "Leonard Stone",
+         "Whit Bissell",
+         "Celia Lovsky",
+         "Dick Van Patten",
+         "John Dennis",
+         "Morgan Farley",
+         "John Barclay",
+         "Belle Mitchell",
+         "Cyril Delevanti",
+         "Joyce Williams",
+         "Robert Ito"
+      ],
+      "imdbMovieId": "0070723",
+      "originalTitle": "Soylent Green",
+      "genres": [
+         "Mystery",
+         "Science Fiction",
+         "Thriller"
+      ],
+      "youtubeTrailerIds": ["OsVQPsiwkBI"],
+      "plotSummary": "In an overpopulated futuristic Earth, a New York police detective finds himself marked for murder by government agents when he gets too close to a bizarre state secret involving the origins of a revolutionary and needed new foodstuff.",
+      "tmdbMovieId": 12101,
+      "avgRating": 3.49093,
+      "releaseYear": "1973",
+      "numRatings": 4686,
+      "posterPath": "/tIQVty3lbBzwuLemEDQic1Axfbd.jpg"
+   }
+}

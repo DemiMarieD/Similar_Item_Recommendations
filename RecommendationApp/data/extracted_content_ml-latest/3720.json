@@ -1,0 +1,958 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "holocaust",
+            "id": 1739
+         },
+         {
+            "name": "jewish life",
+            "id": 2315
+         },
+         {
+            "name": "russian front",
+            "id": 11104
+         },
+         {
+            "name": "austria-hungary",
+            "id": 155375
+         }
+      ],
+      "imdb_id": "tt0145503",
+      "video": false,
+      "title": "Sunshine",
+      "recommendations": [
+         48823,
+         71623,
+         20661,
+         40156,
+         33114,
+         13798,
+         34683,
+         42848,
+         80310,
+         246200,
+         29932,
+         30014,
+         47473,
+         16982,
+         51144,
+         71721,
+         28719,
+         90108,
+         49940,
+         361996
+      ],
+      "backdrop_path": "/uMTFFuhj4J2bB2HeAkCuFVNG8gM.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 13,
+               "character": "Ignatz/Adam/Ivan Sors",
+               "gender": 2,
+               "credit_id": "52fe47469251416c7509391f",
+               "name": "Ralph Fiennes",
+               "profile_path": "/95C56hfbvSA1UNvD433EzXviyV5.jpg",
+               "id": 5469,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Andor Knorr",
+               "gender": 2,
+               "credit_id": "52fe47469251416c750938f3",
+               "name": "William Hurt",
+               "profile_path": "/zp6UOht6c1iyHDbpYn1hkX103lG.jpg",
+               "id": 227,
+               "order": 1
+            },
+            {
+               "cast_id": 11,
+               "character": "Greta",
+               "gender": 1,
+               "credit_id": "52fe47469251416c75093917",
+               "name": "Rachel Weisz",
+               "profile_path": "/3QbFXeiUzXUVUrJ7fdiCn7A7ReW.jpg",
+               "id": 3293,
+               "order": 2
+            },
+            {
+               "cast_id": 3,
+               "character": "Rose Sonnenschein",
+               "gender": 1,
+               "credit_id": "52fe47469251416c750938f7",
+               "name": "Miriam Margolyes",
+               "profile_path": "/7Fijg5sZ7gKbooq6tId3MUS5sDY.jpg",
+               "id": 6199,
+               "order": 3
+            },
+            {
+               "cast_id": 4,
+               "character": "Jakofalvy",
+               "gender": 0,
+               "credit_id": "52fe47469251416c750938fb",
+               "name": "Rüdiger Vogler",
+               "profile_path": "/dUUXAwPRMkRdv5PSGv8ndWvztDW.jpg",
+               "id": 5266,
+               "order": 4
+            },
+            {
+               "cast_id": 5,
+               "character": "Baron Margitta",
+               "gender": 2,
+               "credit_id": "52fe47469251416c750938ff",
+               "name": "Hanns Zischler",
+               "profile_path": "/zlVtIH2P4cZLyftZZcfFo037N3t.jpg",
+               "id": 169,
+               "order": 5
+            },
+            {
+               "cast_id": 6,
+               "character": "Kato",
+               "gender": 0,
+               "credit_id": "52fe47469251416c75093903",
+               "name": "Katja Studt",
+               "profile_path": "/6bKJCUdVXk642blwiK7ILmxuc2Q.jpg",
+               "id": 23937,
+               "order": 6
+            },
+            {
+               "cast_id": 7,
+               "character": "Gustave Sors",
+               "gender": 2,
+               "credit_id": "52fe47469251416c75093907",
+               "name": "John Neville",
+               "profile_path": "/b6s37ak6b0ikhpVk6XVG56QWVqp.jpg",
+               "id": 12642,
+               "order": 7
+            },
+            {
+               "cast_id": 8,
+               "character": "Gustave Sonnenschein",
+               "gender": 2,
+               "credit_id": "52fe47469251416c7509390b",
+               "name": "James Frain",
+               "profile_path": "/tQLuwlPodwk8CWd3ly067s1x1dh.jpg",
+               "id": 22063,
+               "order": 8
+            },
+            {
+               "cast_id": 9,
+               "character": "Hannah Wippler",
+               "gender": 1,
+               "credit_id": "52fe47469251416c7509390f",
+               "name": "Molly Parker",
+               "profile_path": "/iCG1XrXkg09R9eK52PYUEA3HVX5.jpg",
+               "id": 27125,
+               "order": 9
+            },
+            {
+               "cast_id": 20,
+               "character": "Carole Kovacs",
+               "gender": 1,
+               "credit_id": "52fe47469251416c75093941",
+               "name": "Deborah Kara Unger",
+               "profile_path": "/ye75IqbNmFdEuvU9Td0eFKwtA0i.jpg",
+               "id": 13549,
+               "order": 10
+            },
+            {
+               "cast_id": 10,
+               "character": "Valerie Sonnenschein",
+               "gender": 1,
+               "credit_id": "52fe47469251416c75093913",
+               "name": "Jennifer Ehle",
+               "profile_path": "/lZsU6KrXXkIVtcvJmlPKwPRtBkn.jpg",
+               "id": 49971,
+               "order": 11
+            },
+            {
+               "cast_id": 12,
+               "character": "Valerie Sors",
+               "gender": 1,
+               "credit_id": "52fe47469251416c7509391b",
+               "name": "Rosemary Harris",
+               "profile_path": "/dd7DX4FJwLAfxBdWarYMcWuLyYO.jpg",
+               "id": 18998,
+               "order": 12
+            },
+            {
+               "cast_id": 24,
+               "character": "István Sors",
+               "gender": 2,
+               "credit_id": "54fad6a1c3a36869980010c6",
+               "name": "Mark Strong",
+               "profile_path": "/svq7VWJqKN4Fq8ZJK1Yd8W711rn.jpg",
+               "id": 2983,
+               "order": 13
+            },
+            {
+               "cast_id": 25,
+               "character": "Mr. Brenner",
+               "gender": 0,
+               "credit_id": "564493abc3a36870e8005937",
+               "name": "Buddy Elias",
+               "profile_path": null,
+               "id": 48371,
+               "order": 14
+            },
+            {
+               "cast_id": 72,
+               "character": "Minister of Justice",
+               "gender": 2,
+               "credit_id": "58986aba9251417a820086f1",
+               "name": "Bill Paterson",
+               "profile_path": "/lLIPguoZJZeZ04niI4PaG1cv3Xf.jpg",
+               "id": 104795,
+               "order": 15
+            },
+            {
+               "cast_id": 73,
+               "character": "Comrade Gen. Kope",
+               "gender": 2,
+               "credit_id": "58986acfc3a3687724008177",
+               "name": "Trevor Peacock",
+               "profile_path": "/3ZooLYbHC7qB7rJzOZaSsuZ6lQ5.jpg",
+               "id": 42996,
+               "order": 16
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe47469251416c75093925",
+               "name": "Lajos Koltai",
+               "profile_path": null,
+               "id": 47275,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe47469251416c7509392b",
+               "name": "Michel Arcand",
+               "profile_path": null,
+               "id": 10751,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe47469251416c75093931",
+               "name": "Dominique Fortin",
+               "profile_path": null,
+               "id": 10752,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47469251416c7509393d",
+               "name": "Israel Horovitz",
+               "profile_path": null,
+               "id": 21960,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe47469251416c75093947",
+               "name": "István Szabó",
+               "profile_path": "/ptCbdLlA9BZOXaYgpf13jtycOHc.jpg",
+               "id": 225898,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe47469251416c7509394d",
+               "name": "István Szabó",
+               "profile_path": "/ptCbdLlA9BZOXaYgpf13jtycOHc.jpg",
+               "id": 225898,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57066664c3a3685d4400242c",
+               "name": "András Hámori",
+               "profile_path": null,
+               "id": 20181,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "570666779251411f39002426",
+               "name": "Robert Lantos",
+               "profile_path": "/5zgnr7BdExuqKSPwzHYkyUHVJzv.jpg",
+               "id": 20182,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "570666a99251411f34002485",
+               "name": "Leo Davis",
+               "profile_path": null,
+               "id": 19993,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "570666be9251411f34002489",
+               "name": "Zsuzsanna Borvendég",
+               "profile_path": null,
+               "id": 1571109,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "570666cec3a3685d400028b3",
+               "name": "Attila Kovács",
+               "profile_path": null,
+               "id": 1602307,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "570666ddc3a3685d400028b8",
+               "name": "Christian Eder",
+               "profile_path": null,
+               "id": 1602308,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "570666edc3a3685d35002694",
+               "name": "Attila Köves",
+               "profile_path": null,
+               "id": 1602309,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "570666fc9251411f31002564",
+               "name": "Miklós Molnár",
+               "profile_path": null,
+               "id": 1387569,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5706670bc3a3685d3500269e",
+               "name": "Josef Riehs",
+               "profile_path": null,
+               "id": 1602311,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5706671ac3a3685d400028c1",
+               "name": "Stefan Würzl",
+               "profile_path": null,
+               "id": 1602313,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5706672ac3a3685d4c00248a",
+               "name": "Györgyi Szakács",
+               "profile_path": null,
+               "id": 1013535,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "57066759c3a3685d3e002580",
+               "name": "Deirdre Bowen",
+               "profile_path": null,
+               "id": 7800,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5706676cc3a3685d350026aa",
+               "name": "Timea Luzsi",
+               "profile_path": null,
+               "id": 1602314,
+               "department": "Costume & Make-Up",
+               "job": "Assistant Costume Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5706678c9251411f39002446",
+               "name": "Dina Eaton",
+               "profile_path": null,
+               "id": 1425513,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "570667b8925141110e0002cb",
+               "name": "Gabriella Winkler",
+               "profile_path": null,
+               "id": 1399644,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "570667f9c3a3685d4c0024ab",
+               "name": "Balázs Bélafalvy",
+               "profile_path": null,
+               "id": 1602316,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57066819925141110e0002d9",
+               "name": "Rudolf Takács",
+               "profile_path": null,
+               "id": 1602317,
+               "department": "Lighting",
+               "job": "Gaffer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "570668329251413ac4000b6b",
+               "name": "Zsigmond Molcsány",
+               "profile_path": null,
+               "id": 1602294,
+               "department": "Lighting",
+               "job": "Rigging Gaffer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5706684dc3a3685d350026c5",
+               "name": "Tamás Nyerges",
+               "profile_path": null,
+               "id": 1418511,
+               "department": "Camera",
+               "job": "Steadicam Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "570668639251411f39002461",
+               "name": "Jörg Widmer",
+               "profile_path": null,
+               "id": 40766,
+               "department": "Camera",
+               "job": "Steadicam Operator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "57066873c3a3685d3e0025a2",
+               "name": "Peter Sorel",
+               "profile_path": null,
+               "id": 1411293,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5706688b9251411f340024b1",
+               "name": "Ferenc Ormos",
+               "profile_path": null,
+               "id": 1536574,
+               "department": "Visual Effects",
+               "job": "Special Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "570668e2c3a3685d3e0025ba",
+               "name": "Vanessa Baker",
+               "profile_path": null,
+               "id": 1602319,
+               "department": "Sound",
+               "job": "ADR & Dubbing"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5706690592514172fc0013f7",
+               "name": "Alison Clark",
+               "profile_path": null,
+               "id": 91881,
+               "department": "Sound",
+               "job": "ADR & Dubbing"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5706691792514172fc0013f9",
+               "name": "Sue Conley",
+               "profile_path": null,
+               "id": 1340333,
+               "department": "Sound",
+               "job": "ADR & Dubbing"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5706692a92514172fc0013fe",
+               "name": "Janice Ierulli",
+               "profile_path": null,
+               "id": 1375604,
+               "department": "Sound",
+               "job": "ADR & Dubbing"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57066950c3a3685d3e0025cf",
+               "name": "Richard Cadger",
+               "profile_path": null,
+               "id": 91879,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57066966c3a3685d4c0024d4",
+               "name": "Wayne Swingle",
+               "profile_path": null,
+               "id": 1566056,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5706697dc3a3685d3b002b2f",
+               "name": "Etoile Stewart",
+               "profile_path": null,
+               "id": 1602321,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57066994c3a3685d3b002b36",
+               "name": "Gren-Erich Zwicker",
+               "profile_path": null,
+               "id": 1602322,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "570669abc3a3685d38002a79",
+               "name": "Andy Malcolm",
+               "profile_path": null,
+               "id": 20229,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 1,
+               "credit_id": "570669bf925141110e000317",
+               "name": "Alicia Stevenson",
+               "profile_path": "/kgYtaWN4VSFh2B0jkHa1GMBOcNU.jpg",
+               "id": 113090,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "570669d1925141110e00031b",
+               "name": "Sharon Zupancic",
+               "profile_path": null,
+               "id": 1602323,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "570669efc3a3685d38002a88",
+               "name": "Fred Brennan",
+               "profile_path": null,
+               "id": 1415144,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "57066a03925141110e000327",
+               "name": "Roderick Deogrades",
+               "profile_path": null,
+               "id": 85964,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57066a19c3a3685d3e0025eb",
+               "name": "David McCallum",
+               "profile_path": "/qInIKuwRy2yV6BhhLuY0skbznRr.jpg",
+               "id": 1338133,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57066a2c9251411f2c0025ab",
+               "name": "Mark Shnuriwsky",
+               "profile_path": null,
+               "id": 1399918,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "57066a50925141110e00032f",
+               "name": "Jane Tattersall",
+               "profile_path": null,
+               "id": 1018349,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57066b41c3a3685d35002715",
+               "name": "Judit Halász",
+               "profile_path": null,
+               "id": 1421644,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57066b55925141110e000348",
+               "name": "Ildikó Makk",
+               "profile_path": null,
+               "id": 1602326,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57066b699251411f310025d5",
+               "name": "Paolo Mantini",
+               "profile_path": null,
+               "id": 1602327,
+               "department": "Costume & Make-Up",
+               "job": "Hair Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57066b98c3a3685d40002954",
+               "name": "Peter Owen",
+               "profile_path": null,
+               "id": 1411075,
+               "department": "Costume & Make-Up",
+               "job": "Hair Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57066baf925141110e000360",
+               "name": "Egonné Endrényi",
+               "profile_path": null,
+               "id": 1602329,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57066bc49251411f2c0025d3",
+               "name": "Jeremy Woodhead",
+               "profile_path": null,
+               "id": 40802,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57066be992514172fc00146a",
+               "name": "Tim Craig",
+               "profile_path": null,
+               "id": 1602331,
+               "department": "Editing",
+               "job": "First Assistant Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "571f1062c3a3686c9900179f",
+               "name": "Maurice Jarre",
+               "profile_path": "/yJDDi7RKlxHjb7g8NZTEhnS4drG.jpg",
+               "id": 2704,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "History",
+            "id": 36
+         }
+      ],
+      "popularity": 3.655506,
+      "production_countries": [
+         {
+            "iso_3166_1": "AT",
+            "name": "Austria"
+         },
+         {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+         },
+         {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+         },
+         {
+            "iso_3166_1": "HU",
+            "name": "Hungary"
+         }
+      ],
+      "id": 17771,
+      "vote_count": 33,
+      "budget": 0,
+      "overview": "The fate of a Hungarian Jewish family throughout the 20th century.",
+      "similar": [
+         424,
+         16869,
+         423,
+         1786,
+         2290,
+         637,
+         289222,
+         496,
+         914,
+         1658,
+         9045,
+         2313,
+         1646,
+         19067,
+         4012,
+         15192,
+         12900,
+         340611,
+         402298,
+         10839
+      ],
+      "original_title": "Sunshine",
+      "runtime": 181,
+      "poster_path": "/6CaqAGL7TJSFIF5lBTQZ8cgvMb5.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Français",
+            "iso_639_1": "fr"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": "/kcNh09qqR2Pkw1JAzRW4CommrW4.png",
+            "name": "Téléfilm Canada",
+            "id": 806,
+            "origin_country": "CA"
+         },
+         {
+            "logo_path": null,
+            "name": "Channel Four Films",
+            "id": 181,
+            "origin_country": "GB"
+         },
+         {
+            "logo_path": null,
+            "name": "Dor Film Produktionsgesellschaft GmbH",
+            "id": 608,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/jEMVaCuEjQ3lzkhakWDKNVjwd9Q.png",
+            "name": "Alliance Atlantis Communications",
+            "id": 803,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Serendipity Point Films",
+            "id": 805,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Eurimages",
+            "id": 850,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Kinowelt Filmproduktion",
+            "id": 2051,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Bavaria Film and Television Fund",
+            "id": 3236,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Hungarian Motion Picture Fund",
+            "id": 3385,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "ISL Film",
+            "id": 3386,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "InterCom",
+            "id": 3387,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "The Movie Network (TMN)",
+            "id": 3388,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "TV2",
+            "id": 3389,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Vienna Film Financing Fund",
+            "id": 3390,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/t0QBs2fI3mE3HxgoH1n39bYuzNu.png",
+            "name": "Österreichischer Rundfunk (ORF)",
+            "id": 3391,
+            "origin_country": "AT"
+         },
+         {
+            "logo_path": null,
+            "name": "Starhaus Filmproduktion",
+            "id": 10272,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1999-09-13",
+      "vote_average": 6.2,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Germany",
+      "color": "Black and White",
+      "budgetCurrency": null,
+      "directors": ["István Szabó"],
+      "runtime": 181,
+      "synopsis": null,
+      "writers": [
+         "István Szabó",
+         "István Szabó"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0145503/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTg2MzExMjY2MV5BMl5BanBnXkFtZTcwODg1NDEyMQ@@._V1_SY317_CR5,0,214,317_AL_.jpg",
+      "actors": ["Stars: Ralph Fiennes, Rosemary Harris, Rachel Weisz | See full cast and crew »"],
+      "reviews": [
+         "I enjoy European history a great deal, but when my European history class tried to find a good modern European history movie this year, all we could think of was a bunch of war movies. Obviously, there is a lot more to modern Europe than watching snipers creep around Stalingrad and other such things. In \"Sunshine,\" I found an answer to my search. It is undoubtedly the best historical portrait of Europe from the late 19th-mid 20th century that I have ever come across. It does an EXCELLENT job of showing the emotions and realities of the progressions of Europe during this time. Since it is in Hungary, we are exposed to monarchy, fascism, and communism, all of which are portrayed vividly. As if the history was not enough, the movie is wonderful in other ways as well. Ralph Fiennes has the opportunity to showcase an amazing range of emotions and personalities in this movie, as he plays three different characters. It was also pure genius on the part of the movie staff to cast a real life mother and daughter to play the same woman at various stages of her life. Great movie, I highly recommend it.",
+         "`Sunshine' is a forceful and wonderful film that follows four generations of a Jewish Hungarian family through seventy tumultuous years of Hungarian history. The story is extremely well done with rich finely etched characters. The screenplay is better suited for a miniseries than a three hour film simply because there is so much material to cover. Three hours is both too long and too short; the story is emotionally exhausting making it too long for one sitting, yet the total length is not long enough to do the subject matter justice. Hungarian Writer/Director Istvan Szabo captures Hungary's turbulent transition from empire to fascist state to soviet satellite weaving the history of the times into the lives of this extraordinary family. He puts a human face on the historical facts giving us a disturbingly real look at what it might have been like to live through it, especially from the Jewish perspective. Despite a whirlwind pace that requires years to be spanned in minutes, Szabo manages to conjure deep and insightful character studies of the members of each generation. His period renderings are exquisite from costumes to props to locations. This is a wonderfully textured presentation with history layered over the human stories, addressing the many indignities suffered by Jews in Hungary during the period, and the many concessions made to merely stay alive. It is a story that contains both triumph and tragedy, presented with amazing candor. Ralph Fiennes gives three incredible performances as the grandfather, father and son of the patriarchy. Szabo has endured criticism for casting the same actor in three roles, but in this case it is an excellent choice. Fiennes is a versatile artist and personalizes three radically different characters, slipping on their personalities like a glove. He loses himself in each, rendering them all passionately but appropriately based on the motivations established in Szabo's careful character development. With Szabo's guidance, it is clear that Fiennes has an inherent understanding of the psyche of his three characters and plays them with believable nuance. Two different actresses play Valerie and each is splendid. Jennifer Ehle plays the young Valerie and endows her with ardor and vivacity. She establishes Valerie as the strongest continuing character in the film, providing linkage between the past and the present. In another stroke of casting brilliance, Szabo selects Ehle's real life mother, Rosemary Harris as the elder Valerie. The clear resemblance linked with Harris' magnetic performance adds fullness to Valerie's later years. William Hurt and James Frain lead an ensemble of strong supporting actors that give the film great intensity and depth of talent. This thoughtful and emotionally provocative character study is engrossing and compelling. I rated it a 9/10 only because I wish Szabo would have gone deeper and divided it into two or three installments. On a dramatic and artistic level, this film is first rate.",
+         "This historical epic/family drama from the master of Hungarian cinema, Istvan Szabo (Mephisto, 1981; Being Julia, 2004) is a wonderful and memorable film that has been overlooked, underrated and sadly under-seen. This is a moving and always engrossing drama about one Jewish-Hungarian family that rises and falls throughout the 20th century. Ralph Fiennes is outstanding as the grandfather, the father and the grandson. All three - complex and tragic characters, victims of their times, politics and wars. I think it was a brilliant idea to cast one actor as a face of three generations of one family. If ever anyone attempts to adapt Marquez's \"One Hundreds Years of Solitude\", that's how it should be done, IMO. \"Sunshine\" is three hours long but never for a minute had I felt it was too long or it was losing its power. It is a serious, thought-provoking film which is also a superb work of art. 9.5/10",
+         "Schindler's List was apparently enough for most film goers. \"Sunshine,\" superior to \"Schindler\" in many respects, got fewer accolades and much less attention. Why do I think \"Sunshine\" is superior to \"Schindler?\" Primarily because it tells the story of the Holocaust through the lens of a single family whose pre-Holocaust history gives a dimension and depth to the tragedy of that family that \"Schlinder\" is incapable of providing because of its quite different narrative strategy and focus. To be sure, \"Schindler's\" narrative sweep affords a greater sense than \"Sunshine\" of the scope of the slaughter. But \"Sunshine\" stands in relation to \"Schindler\" as a novel stands to a work of history. One brings the insights offered by individual tragedies, the other brings more of a societal perspective. The best \"Holocaust\" film, however, remains in this viewer's opinion, \"The Pawnbroker\" with Rod Stieger, which had an even narrower focus than \"Sunshine\" and brought the horror of the Holocaust to life by exploring the emotional desolation/death suffered by a single survivor. A truly great film.",
+         "Sunshine wonderfully depicts the waves of politics that have affected Hungary and led to its tragic history as well as how these political regimes affected Hungarians. Even if specifically focusing on a Jewish family I do think many of the struggles can be universally applied to Hungarians or Central/Eastern Europeans. This is however not just a history lesson but a touching and emotional account of a family's struggle through the times. The acting is impressive and choosing Ralph Fiennes for the leading role was a great move as he has already studies the culture and the meaning of being Hungarian for the English patient. Definitely worth watching!",
+         "Ok, this is my third comment about a Ralph Fiennes movie in just under a week...five days to be precise. If there ever was a role on this earth that he could not play, I haven't seen it yet...or putting it simply, such a role has never been written. Ralph Fiennes is extraordinary as all three characters that he plays in this film. Characters who are completely different from one another, with different ideals and different beliefs. His dialogue delivery, his expressions, everything is marvellous. His eyes say it all. This role should've given him an Oscar nomination. When he smiles, you smile, when he cries, you cry. He is just a brilliant, brilliant actor. The movie was very interesting, though very depressing at times. It gave some interesting views on the treatment of the Jews during World War II and the progression of Fienne's character from one generation to the next and how the current situation of the world in each character's time contributed to his thinking and views of the world. Supported by an exceptional cast... Rosemary Harris, Rachel Weisz (I wanted her role to be a little longer), Jennifer Ehle, William Hurt. Very good movie. Highly recommended. ****/*****",
+         "One of the best films I've seen in many years. Long by current standards, but my interest/involvement never lagged for a moment. It works on many levels, all of which examine and ultimately show the futility of assimilation, given how unstable and unreliable is any governmental structure with which one attempts to identify. Effort to assimilate across generations in Hungary becomes increasingly demanding as the lived world becomes ever more dehumanizing and brutal. Fiennes has never been better in cross-generational roles, and others excellent as well. But a woman is the censor and conscience across time.",
+         "Can't believe this movie isn't more widely known. An epic drama that covers 5 generations of one family and ultimately delivers a powerful message about the true \"recipe\" for sunshine in life, and the importance of standing up for who and what you are.",
+         "SUNSHINE, the latest epic from arguably Central Europe's greatest living director of his generation, crowns a distinguished career. Many details of his earlier work, including the Sonnenschein name for the Jewish family (from the name of the Hungarian Imperial Jewish Doctor in COLONEL REDL) are evident; particularly themes and period touches from his brilliant trilogy, MEPHISTO, COLONEL REDL, HANUSSEN). OK. So Klaus Maria is missing. He is really unique. But who better than the brilliant Ralph Fiennes (awarded the 1999 European Best Actor \"Oscar\" for this performance last December)as the lead \"Sunshine\" patriarch? Make that three \"Sunshine/Sors/Sonnenschein\" patriarchs, all with their own nuances, all very in tune with his period, and character. And who better to play the \"Sunshine\" matriarch than the recent Tony winner Jennifer Ehle, as the younger Matriarch, followed by her own (obviously look alike) mother, the great Rosemary Harris, as her older self? The film is full of masterful strokes like these. After an Oscar-qualifying run in late December, the film was just re-released (I saw it in New York ten days ago), and will be expanding throughout America soon. Don't miss this masterpiece on the big screen, where it can really be appreciated.",
+         "The great elements of Sunshine for me far outweighed the negative ones. I admit a few things: I would like to have seen the ending be Sors III's speech at Knorr's funeral (and the f*** you against the officer), then the scene of him walking down the alley with that final monologue. That would have left a far more memorabel mark, but the way the ending was done was too far extended. The first forty minutes also seem such weak costume drama compared to the intensity of the next two hours that they should have been vigorously cut. Third, the sex scenes- why so repetitive and abrupt? I love seeing Rachel Weisz (The Mummy) and Deborah Kara Unger (Crash) in ecstasy as much as anyone, but it got to be almost boring. Fourth- the music and cinematography seemed rather dull. However, once we get past these flaws, Sunshine is a great, powerful work about dignity and how we value ourselves within a society that rejects us. I am an American Irish Catholic, so I have not felt the oppression of minorities, thankfully, nor have the last few generations of my family. I thank Mr. Fiennes and Szabo for showing how each one of the Sonnenschein men struggle for dignity and purpose within the system, yet they fail each time to give joy primacy in their lives. Every time, the system they so revere would put people second and ideology first (read review of Michael Collins.) Valery knew the value of seeking joy, and thankfully she passes that on to her grandson, who survived the utter misery of the Stalinist regime. This film shows such brutality at one moment that I cracked open in the theater (those who have seen the film know the moment I refer to.) However, I did not find it excessive- rather it was absolutely essential to showing the depths of the personal horror that the Sors went through in the Holocaust. As Knorr says, \"Surviving Aushwitz does not make you a bigger or a greater man. It only gets burned into your brain.\" The film does not expertly reveal relationships between men and women, besides Valery and Ignatz's tryst, but I felt it detailed the faults and promises of each political regime very well, based on what I've read. Fiennes should get another Oscar nod for this, as should Rosemary Harris for best supporting actress. What infuriates me is that Sunshine will never get to the major theatres, the way we're now measuring films like they were race horses instead of creative efforts. I don't know why it is we now feel only the most simple, light, corny and action-crammed films can go into the multiplexes (albeit many of those films good ones.) This is great, provocative entertainment worth spreading around. Like American History X, Sunshine certainly has its faults, but its messages about tolerance, humanity, and redemption are glorious."
+      ],
+      "genres": [
+         "Drama",
+         "History",
+         "Romance",
+         "War"
+      ],
+      "productionCompanies": [
+         "Alliance Atlantis Communications",
+         "Bavaria Film and Television Fund",
+         "Channel Four Films"
+      ],
+      "summaries": [
+         "The film follows a Jewish family living in Hungary through three generations, rising from humble beginnings to positions of wealth and power in the crumbling Austro-Hungarian Empire. The patriarch becomes a prominent judge but is torn when his government sanctions anti-Jewish persecutions. His son converts to Christianity to advance his career as a champion fencer and Olympic hero, but is caught up in the Holocaust. Finally, the grandson, after surviving war, revolution, loss and betrayal, realizes that his ultimate allegiance must be to himself and his heritage.",
+         "The fate of a Hungarian Jewish family throughout the 20th century."
+      ],
+      "budget": 0
+   },
+   "movielensId": 3720,
+   "movielens": {
+      "languages": [
+         "English",
+         "Français"
+      ],
+      "releaseDate": "1999-09-13",
+      "dvdReleaseDate": "2001-05-08",
+      "directors": ["István Szabó"],
+      "runtime": 181,
+      "movieId": 3720,
+      "title": "Sunshine",
+      "mpaa": "R",
+      "actors": [
+         "Ralph Fiennes",
+         "William Hurt",
+         "Rachel Weisz",
+         "Miriam Margolyes",
+         "Rüdiger Vogler",
+         "Hanns Zischler",
+         "Katja Studt",
+         "John Neville",
+         "James Frain",
+         "Molly Parker",
+         "Deborah Kara Unger",
+         "Jennifer Ehle",
+         "Rosemary Harris",
+         "Mark Strong",
+         "Buddy Elias",
+         "Bill Paterson",
+         "Trevor Peacock"
+      ],
+      "imdbMovieId": "0145503",
+      "originalTitle": "Sunshine",
+      "genres": [
+         "Drama",
+         "History"
+      ],
+      "youtubeTrailerIds": [],
+      "plotSummary": "The fate of a Hungarian Jewish family throughout the 20th century.",
+      "tmdbMovieId": 17771,
+      "avgRating": 3.63273,
+      "releaseYear": "1999",
+      "numRatings": 663,
+      "posterPath": "/6CaqAGL7TJSFIF5lBTQZ8cgvMb5.jpg"
+   }
+}

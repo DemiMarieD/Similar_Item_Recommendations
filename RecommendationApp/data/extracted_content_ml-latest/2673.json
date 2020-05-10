@@ -1,0 +1,471 @@
+{
+   "tmdb": {
+      "original_language": "el",
+      "keywords": [{
+         "name": "independent film",
+         "id": 10183
+      }],
+      "imdb_id": "tt0156794",
+      "video": false,
+      "title": "Eternity and a Day",
+      "recommendations": [
+         22549,
+         101330,
+         144599,
+         119555,
+         70090,
+         67535,
+         10834,
+         122019,
+         131836,
+         689,
+         119637,
+         102514,
+         42144,
+         46770,
+         49650,
+         117239,
+         47432,
+         68553,
+         36120,
+         138093
+      ],
+      "backdrop_path": "/iiXlI3hIbQ1uMHM9B5wK3ZaJOG6.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 4,
+               "character": "Alexandre",
+               "gender": 2,
+               "credit_id": "52fe44adc3a368484e0307fb",
+               "name": "Bruno Ganz",
+               "profile_path": "/uujaiKcak0bJHrRAjhs7N0m5TNC.jpg",
+               "id": 2310,
+               "order": 0
+            },
+            {
+               "cast_id": 5,
+               "character": "Anna",
+               "gender": 0,
+               "credit_id": "52fe44adc3a368484e0307ff",
+               "name": "Isabelle Renauld",
+               "profile_path": "/sFCZqQFyxiznqsCIJZ1FPDNqgLQ.jpg",
+               "id": 6548,
+               "order": 1
+            },
+            {
+               "cast_id": 6,
+               "character": "The Poet",
+               "gender": 1,
+               "credit_id": "52fe44adc3a368484e030803",
+               "name": "Fabrizio Bentivoglio",
+               "profile_path": "/uODahcGkpEJJNPPZNw06ET5V9d5.jpg",
+               "id": 121732,
+               "order": 2
+            },
+            {
+               "cast_id": 7,
+               "character": "The Child",
+               "gender": 0,
+               "credit_id": "52fe44adc3a368484e030807",
+               "name": "Achileas Skevis",
+               "profile_path": null,
+               "id": 150568,
+               "order": 3
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe44acc3a368484e0307eb",
+               "name": "Theo Angelopoulos",
+               "profile_path": "/yKDJNi4vmEjRGGRVdGFnnkAuO9f.jpg",
+               "id": 10316,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44acc3a368484e0307f1",
+               "name": "Tonino Guerra",
+               "profile_path": "/5fO9Jrbnp0LbvVisSXhLJiVvxaL.jpg",
+               "id": 15191,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44adc3a368484e0307f7",
+               "name": "Petros Markaris",
+               "profile_path": null,
+               "id": 144459,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "576807cdc3a368424d000946",
+               "name": "Theo Angelopoulos",
+               "profile_path": "/yKDJNi4vmEjRGGRVdGFnnkAuO9f.jpg",
+               "id": 10316,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "576807edc3a3687ab50004ac",
+               "name": "Eric Heumann",
+               "profile_path": null,
+               "id": 12684,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "576807ff92514105760004ba",
+               "name": "Amedeo Pagani",
+               "profile_path": null,
+               "id": 18839,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5768081d92514110d9000306",
+               "name": "Giorgio Silvagni",
+               "profile_path": null,
+               "id": 213340,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5768082e9251417684000569",
+               "name": "Rita Forzano",
+               "profile_path": null,
+               "id": 142597,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5768083cc3a3686d620005ff",
+               "name": "Eleni Karaindrou",
+               "profile_path": null,
+               "id": 73647,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5768084ac3a36803ab00043e",
+               "name": "Giorgos Arvanitis",
+               "profile_path": null,
+               "id": 20572,
+               "department": "Crew",
+               "job": "Cinematography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "576808709251417d130004e2",
+               "name": "Andreas Sinanos",
+               "profile_path": null,
+               "id": 543679,
+               "department": "Crew",
+               "job": "Cinematography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57680885c3a368424d000958",
+               "name": "Yannis Tsitsopoulos",
+               "profile_path": null,
+               "id": 1117591,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5768089c925141093100042d",
+               "name": "Costas Dimitriadis",
+               "profile_path": null,
+               "id": 1638687,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "576808aac3a3686d6200060a",
+               "name": "Giorgos Ziakas",
+               "profile_path": null,
+               "id": 1638688,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "576808ba9251410931000435",
+               "name": "Giorgos Patsas",
+               "profile_path": null,
+               "id": 10324,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "576808d892514110d9000311",
+               "name": "James Seddon",
+               "profile_path": null,
+               "id": 1340117,
+               "department": "Sound",
+               "job": "Dolby Consultant"
+            },
+            {
+               "gender": 0,
+               "credit_id": "576808efc3a36878e40004c3",
+               "name": "Kostas Varympopiotis",
+               "profile_path": null,
+               "id": 1570075,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5768090e925141770e000577",
+               "name": "Dimitris Avgeros",
+               "profile_path": null,
+               "id": 1469981,
+               "department": "Crew",
+               "job": "Property Master"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5768091dc3a36878e40004cb",
+               "name": "Giannis Pamoukis",
+               "profile_path": null,
+               "id": 1394171,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Department Head"
+            }
+         ]
+      },
+      "genres": [{
+         "name": "Drama",
+         "id": 18
+      }],
+      "popularity": 2.870152,
+      "production_countries": [
+         {
+            "iso_3166_1": "FR",
+            "name": "France"
+         },
+         {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+         },
+         {
+            "iso_3166_1": "GR",
+            "name": "Greece"
+         },
+         {
+            "iso_3166_1": "IT",
+            "name": "Italy"
+         }
+      ],
+      "id": 24858,
+      "vote_count": 23,
+      "budget": 0,
+      "overview": "Alexander, a famous writer, is very ill and has only a few days to live. He meets a little boy on the street, who is an illegal immigrant from Albania. Alexander then takes the boy home.",
+      "similar": [
+         3134,
+         11564,
+         281,
+         133805,
+         2142,
+         22323,
+         294963,
+         8810,
+         948,
+         298312,
+         14433,
+         4771,
+         12162,
+         769,
+         185,
+         949,
+         205,
+         8923,
+         241,
+         793
+      ],
+      "original_title": "Μια αιωνιότητα και μια μέρα",
+      "runtime": 137,
+      "poster_path": "/k7aGrVip5qLCRmAFs7vhqRzWmcT.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "ελληνικά",
+            "iso_639_1": "el"
+         },
+         {
+            "name": "Italiano",
+            "iso_639_1": "it"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Eurimages",
+            "id": 850,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Arte",
+            "id": 201,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Paradis Films",
+            "id": 255,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Istituto Luce",
+            "id": 317,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Canal+",
+            "id": 5358,
+            "origin_country": "FR"
+         },
+         {
+            "logo_path": null,
+            "name": "Westdeutscher Rundfunk (WDR)",
+            "id": 7025,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Greek Film Center",
+            "id": 7254,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Greek Television ET-1",
+            "id": 10769,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "La Sept Cinéma",
+            "id": 16366,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Intermédias",
+            "id": 30389,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Theo Angelopoulos Films",
+            "id": 33152,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Classic",
+            "id": 33155,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1998-01-01",
+      "vote_average": 7.3,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Greece",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Theodoros Angelopoulos"],
+      "runtime": 137,
+      "synopsis": "\"Eternity and a Day\" (1998) is certainly the most accessible of Angelopoulos' work. The film opens with a shot of a majestic old house. We hear the beginning of the film's main musical theme, followed by a young boy in a voice-over calling young Alexander to join him to see \"an ancient city under the sea.\" Alexander tiptoes past his parents' bedroom, from where emanate a woman's giggles. Once outside the back door of the house, he runs on a short wooden walkway that ends at the beach, where he joins his two friends. He drops his short pants and they all three run into the sea and start swimming toward the open waters. Cut to Alexander (Bruno Ganz) as an older man, sitting in an armchair. He has just been awakened by his housekeeper, Urania (Helene Gerasimidou). \"This is the last day\" she says, \"Let me come with you to the hospital.\" Alexander, very philosophically, refuses and he thanks her for her three years of faithful service. She leaves the room, but promptly returns for an ultimate glance at Alexander, on the pretext of reminding him that his dog has eaten, before furtively leaving again. Alexander, now alone, finishes his cup of coffee. The camera moves to show the balcony, where the dog is lying down, and the sea panorama. Alexander turns on his record player which plays the film's theme for a moment. He turns it off, and looking through the window toward the harbor and then toward the adjacent building, he hears an echo of the same music coming from one of the apartments. Alexander says it happens every morning, and he wonders aloud who it might be and why. Alexander takes his dog for a walk along the harbor. As he walks, he reflects about \"how it all started\" with Anna (Isabelle Renauld), his dead wife, and how he had left so many of his projects unfinished. Alexander gets into his car and drives onto a main thoroughfare. At an intersection, street urchins take advantage of the red light to rush to the stopped cars and wash their windshields, hoping for tips. A young boy (Achileas Skevis) wearing an oversized yellow parka reaches for Alexander's windshield. The traffic resumes, police sirens are heard, and a group of policemen chase the young \"delinquents\" down the avenue. Alexander stops his car, opens the passenger door and shouts for the boy in the over-sized parka to get in. The policemen and the other boys run past his car as they watch: the boy has been saved from arrest. They turn into a side street where Alexander stops the car. He asks several questions in Greek to the boy, but the boy does not seem to understand. The boy, an Albanian refugee, gets out of the car, then turns toward Alexander, a stranger, with a big smile of gratitude before running off down the street (we never learn the boys name at any time during the film). When Alexander meets his daughter, Katerina (Iris Chatziantoniou), he tells her that he must go on a trip and needs her to keep the dog. She refuses, stating that her husband, Nikos (Vassilis Seimenis), does not want any animals in the house. Katerina asks her father about his third project, which was to complete the unfinished poem, \"Free Besieged,\" by Greece's National poet, Dionysios Solomos (1798-1857). Alexander replies that he hasn't finished it: \"Maybe I did not find the words?\" Alexander hands her a bundle of her mother's letters. One of them lacks an envelope, and he asks her to read it. It is dated 20 September, 1966, the day Katerina was born. She starts reading aloud, and soon we hear Anna, in a voice-over (Pemi Zouni), reading her own letter, full of nostalgia and regrets. Alexander's mind wanders back to that day some twenty years earlier. Anna's physical appearance is as it was on that day, but Alexander appears at his current age. Anna reproaches her husband for never being present, sharing his family's life, instead always traveling, physically or mentally, immersed in his books. Soon, Anna's mother (Alexandra Ladikou), father (Alekos Oudinotis), uncle (Nikos Kouros), and many other relatives arrive to see the new baby. They all run to the beach in front of the house, where Alexander's mother (Despina Bebedelli) is watching over newly born Katerina, asleep in her baby carriage. The reading ends. Alexander returns to the present, and is leaving when Nikos appears and tells him that they have sold Alexander's old house, which will be demolished, starting that very afternoon. Katerina tries to justify the sale, but Alexander does not want to listen to her excuses, and recalls aloud an event in her life, from the time when she was fifteen years old. Alexander leaves with his dog. As Alexander stops at a pharmacy to buy a painkiller, he looks across the street and sees the boy in the yellow parka and one of his friends being abducted by two men. He follows the men's car to an abandoned warehouse outside Thessaloniki. Soon, a bus full of middle aged people arrives. The people also enter the warehouse, and Alexander surreptitiously joins them. Inside, we see the boy and many other children, and we realize that these people are probably childless couples who came to buy some of the children. An older boy makes a break for it, and in the ensuing tumult, Alexander grabs the Albanian boy, pays the kidnappers, and walks out of the building with him. After driving a while, Alexander and the boy stop along the road at a bus stop. Alexander asks the boy if he has any relatives in Albania. The boy says he has a grandmother. Alexander negotiates with a bus driver to take the boy near the border. Alexander feels guilty in abandoning the boy, and he tries to explain to him that he, also, is going on a big journey today. As they walk together to the waiting bus, Alexander asks the boy what the words \"korphoula mou\" meant in a song the boy was singing. The boy gets on the bus, but as the bus barely starts rolling, it stops again, and he jumps out. Alexander decides to drive the boy to the border himself. On the way, he stops in a kafeneon and considers hiring a taxi to take the boy to the border. However, soldiers come in the kafeneon and the boys runs away. Alexander finds him terrified at a nearby street corner, and he finally decides to take him to the border himself. As they arrive at the border, in a landscape of mist and snow, the boy talks about the war he witnessed in his village and his escape to Greece with his friend, Selim. The border is a long, high fence to which many people are clinging, their limbs frozen. As Alexander and the boy walk toward the border, the boy admits that he lied, and that there is no \"grandmother\" on the other side. They run back to the car, pursued by an Albanian border guard. Later on, by the river, they stop for a sandwich from a food-truck. Alexander tells the boy about Solomos, who was born and raised on an Italian island. The camera, after a very long scan over the river, transitions to a man, the poet (Fabrizio Bentivoglio), dressed in 19th century garb. Although of Greek origin, he had been raised and educated in Italy. Inspired by the Greek rebellion against the Ottomans, he returned to his native island and wrote in Demotic Greek, the language of the common people. The legend tells that Solomos, not knowing this language well, used to buy Greek words from the peasants. Alexander and the boy drive into a village where there is a wedding procession in progress. It is led by an accordionist playing a Ponte piece of music (Ponte is a region in northern Turkey where a massacre of Greeks by the Turks took place in the 1920s, forcing the survivors to return to Greece). The bride follows, dressed in white, and she is in turn followed by the wedding party carrying some chairs. The groom appears from a doorway and, while dancing with his bride and followed by the wedding party, the couple goes to an open area surrounded by a high metal fence. Curious boys are hanging from that fence, in a manner reminiscent of the frozen people on the border fence. Alexander has come there with his dog. He meets his housekeeper, Urania, who reluctantly agrees to keep his dog for him. Alexander and the boy walk on the pier. Alexander, overcome and sick, sits on a bench. The boy says that he will go and get words for him. Alexander remembers a cruise he took with Anna and his family. Again, we hear Anna in voice-over, recalling her version of that day. Alexander's recollection continues with the same party as before, but they are now on the beach. He decides to climb to the top of a small cliff, and is reprimanded by Anna, who calls him a \"traitor.\" Alexander climbs anyway and explores the summit, where he finds a stone that has been engraved \"Christos, Vassillis, Alexander, Summer '39.\" He then goes to the end of the cliff and waves his handkerchief at a motorboat. A passing plane in the sky brings him back to reality on the pier, where a small group of people move by, carrying a young boy who had been drowning. Alexander meets his doctor, who was among the passersby, and says that he will enter the hospital tonight, as he had been told to do, when the pain gets to be too much. Cut to Alexander, searching inside a large building under construction for the Albanian boy, who has disappeared. He finds the boy, who is distraught over the death of his friend, Selim, the older boy who had brought him to Thessaloniki. Selim was run over by a bus, and his body now rests at the morgue. Alexander, the boy, and several of Selim's friends go to the morgue, and while Alexander distracts the guard, the boy sneaks into the chamber where Selim's body rests and steals his clothes. What follows is a ritual cremation of Selim's clothes. Many of his friends are hanging onto wooden fences, once more reminiscent of the scene at the border. A mournful clarinet music accompanies the ritual. Alexander goes to the hospital to see his mother: \"I came to say goodbye.\" But his mother does not hear him, as she is obviously affected by an advanced neurological disease and is only present in a physical sense. Alexander's previous dream of the family picnic on the beach continues. Soon, the sky opens up on the revelers and they all take cover, except for Alexander, who is looking for Anna, who has disappeared. He finds her alone by the sea. Back to reality, Alexander's mother collapses in his arms and he puts her back to bed. What follows is a touching soliloquy on the unfairness of life and Alexander's regrets. Alexander is walking alone in the night when the Albanian boy joins him and says that he is leaving tonight on a boat, heading for some unnamed destination. \"Stay with me,\" pleads Alexander, \"the boat does not leave for two more hours.\" They board a bus. Three men on bicycles, clad in yellow oilskins, drive by. They are alone until the next stop, \"Disembodied,\" where there is a street demonstration in progress, and a man with a red flag, obviously a participant, gets on board at the same time as a young couple who are arguing. The three bicyclists in yellow oilskins are riding alongside the bus. At the next stop, the couple leaves, and three musicians board the bus and begin to play. They get off the bus at the next stop, \"Conservatory,\" where the poet, Solomos, gets on. He sits across from Alexander and the boy, and recites his unfinished poem, \"Easter Sunday.\" When Solomos gets to the unfinished last line of his poem, \"Sweet is the life...and,...\" he repeats these first few words, unable to complete the line. As he leaves the bus, Alexander asks, \"Tomorrow, how long does it last?\" Alexander and the boy get off the bus, as the three yellow-clad men ride pass them by again. Alexander drives the Albanian boy to the dock, where the boy joins his many friends into a tractor-trailer which motors off and disappears into the departing boat. Alexander drives away in his car. He stops in the middle of the avenue, at a red light. The light changes, but Alexander's car does not move. The camera shows him immobile, lifeless at the wheel. The traffic goes around him, leaving Alexander's car standing alone in the middle of the avenue. The light turns red again. Suddenly, the car accelerates through the light, at great speed, down the avenue. The next scene shows Alexander as he enters his old, empty house by the sea. In a voice-over, Anna reads the letter she is writing to Alexander, about her special day, Katerina's birth day. Alexander walks through the house, to the back and to the beach, where his family is standing by the shore, singing. Anna approaches him, and they dance. Soon the whole group dances, then fades away, leaving the couple alone. Alexander makes future plans, and says to Anna, \"One day, I had asked you, how long does tomorrow last?\" Anna answers, \"An eternity and a day.\" She leaves, and Alexander is left alone, facing the sea, speaking Greek words aloud: korphoula mou (my little flower), xenitis (exile), and argathini (very late in the night).",
+      "writers": [
+         "Theodoros Angelopoulos",
+         "Tonino Guerra"
+      ],
+      "originalLanguage": "Greek",
+      "imdbLink": "http://www.imdb.com/title/tt0156794/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTMzMjEwMTQyM15BMl5BanBnXkFtZTcwMzUxNDQzMQ@@._V1_.jpg",
+      "actors": ["Stars: Bruno Ganz, Isabelle Renauld, Fabrizio Bentivoglio | See full cast and crew »"],
+      "reviews": [
+         "A film straight from my dreams, drifting in and out of logical existence into the land of the dead. The story, as much as there is a story, involves an aging poet (played by European film staple Bruno Ganz) who has a terminal disease. He is apparently destined to die tomorrow, and we spend his final day following him, from his waking to midnight. Early in the morning he picks up a young homeless boy, an Albanian refugee, who tries to wash his window at a stoplight. Together they go on silent adventures. At regular intervals the film flashes back to Ganz's interactions with his beautiful wife, who never appears in the present, nor do we find out where she is. Most of the film's power is visual and aural. It is truly a sensual experience, along the lines of a Tarkovsky film. Because of its sensual prominence and lack of a coherent plot, it will surely fade from the surface of my memory. However, it is guaranteed to haunt me for the rest of my life. 10/10.",
+         "Review of the film eternity and a day \u0096 mia aiwnioteta kai mia mera By Peter Maniatis THEO ANGELOPOULOS THE PHILOSOPHER / FILM MAKER The issues that this film addresses are \"time\" and \"logos\". The question \"how long is tomorrow\" involves the concept of time. Since by the expression of \"tomorrow\" we understand both, the day after today and an eternity, we require the force of \"logos\" to resolve this chaotic situation. For Alexandros, the use of logos, the accumulation of word-wealth, brings order to his troubled world. It sheds light to his past, present and future. Defining time as A-series and B-series We can look at the concept of time as Past, Present, and Future. Lets call this an A-series, Past Present Future. Alexandros' past is when he was young, his wife, his friends, his young family, his job, his present is that he is old, and alone, and his future, his tomorrow, is death. Now let us look at P. P. & F. in relation to each other. The arrival of Captain Cook in Australia is a past event. The destruction of Earth or the Second Coming if you wish, is a Future event. But there was a time that the arrival of Captain Cook was a Future event, and there will be a time that the destruction of the Earth will be a Past event. So we can say that Past Present and Future can be viewed in relative terms, without defined boarders. In the film, we see Alexandros in his present form, with his rain coat and seemingly old, intermingling with people in spaces of his past, in the form of the time that the events took place at a present time. With this perspective, we view past, present, and future, relatively to our position in space that we find ourselves at the time (space time). Alexandros does just that. DEFINING TIME BY WAY OF CHANGE: Dimension of change in the sense of coming to be and passing away. Alexandros came to be, he was born, he grew old (changed from young to old) and then tomorrow he will pass away. It is the same with everything in nature. The young child is young at the present time, he too will get old and eventually pass away. Changes in space, variations we experience in space. When we say that the road changes from being narrow to become wide we speak metaphorically. Philosophers connected with the theory of relativity do not see that there is a difference in the change of the road becoming wider and in the changes of the person becoming older. Events deemed past in one frame of reference are deemed future in other frames. The difference is only subjective, experiential, rather than reflecting an ontological fact. Events of Alexandros past are viewed from a spatial position in the present, and according to Agelopoulos, those past events are at the same time present events. Alexandros wears the same raincoat and is the same age. Past events are present in his mind. One can say that looking at time, from space time perspective, time is static. Static view of time: According to Parmenides and Zeno, appearance of temporal change is an illusion. Dynamic view of time: Heracletus and Aristotle, held that future lacks the reality of present and Past. Reality continuously is added to as time passes. The theory of relativity allows that some events are past or future no matter which frame of reference is selected. The relativity of simultaneity, looking at past present and future at the same time, only requires us to revise our conception of the present. Alexandros, I think, does just that. He revises is conception of his present situation relatively, from space \u0096time perspective. THE THREE BIKE RIDERS DRESSED IN YELLOW The Fates, Klotho, Atropos and Lachesis, the daughters of Necessity, are the three forms of time out of which human life is woven. In the film, the three bike riders we see in the distance and dressed in yellow represent them. In the ancient Greek myth, there is a cosmic spindle where all strands of human life exist separately. In the film, Alexandros', Ana's, his mother, his daughters', and the child's lives all exist separately. Klotho spins them together at some present time, the wife with the husband, the father with the children in their young years, the old man and the child refugee. Atropos, the future, will unravel them as to give the illusion of freedom. The future of the child seems to be free. He does not go back to his grand mother, he goes of to seemingly freedom, but all the time his life is determined by Lachesis the Aloter. In this chaotic situation, it is only logos that brings order, that gives some sense to seemingly world of fate or chance. LOGOS: Logos in its multiple meanings, word, speech, dialogue, language, debate, account, etc. makes the above thoughts possible. It is the uniting force. In the chaotic world of change, logos comes to give some comfort by ordering things, by putting events and actions in their right place. Alexandros, in order to make sense of his life, wants as many words as he can find, to make sense of the time he spend being alive. And in the spirit of Capitalism, he is prepared to buy the words. He is prepared to buy them and gain his freedom, freedom from the tyranny of time, from the tyranny of death. Like his predecessor, Dionysios Solomos who was buying words to write the Ode to Freedom that became the Greek National Anthem. Alexandros, I think gained his freedom. At the end of the day he was making plans. \"Tomorrow\" after all, did not seem for Alexandros the end of time. It did not seem the end of his time. A very good film.",
+         "What a beautiful film. Dreamlike, poetic, wise; also sober, down-to-earth. Delivers home-truths too: connecting with another human being gives one hope. Connections are possible across age, country, culture gaps. The images are gorgeous, the slowness fits. You have to sit on your impatience now and then. But thats entirely worth it. Also, I loved listening to the Greek language. But that is because I love Greece. It is a film that reminds me of Antonioni's L'Avventura and La Notte; they bring you into a trance where you can tell the beauty of this universe.",
+         "Since I traveled to Prague in 2003 and bought Eleni Karaidrou's album \"Eternity and a Day\" I was wondering when and where could I get this movie. I got it and it was incredible for me. Poetry, photography (I think it is the best photography I've ever seen in a movie) and music in an amazing movie THAT I DID NOT UNDERSTAND because it's in Greek (no English subtitles in the release I've got). You don't need to understand their words to feel it, to cry and to laugh when the moment comes. Angelopoulos has made, in my honest opinion, a master piece of theater-movie. Buy it, keep it, show it to your children, to your parents...",
+         "This film was such a pleasurable experience to watch. I was expecting a considerably depressing venture but the end left me filled with a variety of conflicting emotions, including a hint of rapture and a dash of melancholy. There are times where Angelopoulos left me contemplating about the life I have led. To many critics, the pace of this film was too slow, on the other hand I felt that it flowed beautifully, taking its time to arouse the audience's emotions. The music by Eleni Karaindrou touched my soul for it was able to guide the actors to make a truly magnificent tale from the heart.",
+         "While not as thoroughly awe-inspiring as \"Ulysses Gaze,\" \"Eternity and a Day\" is one of the most masterful films I've seen. It is full of beautiful, haunting images that have stayed with me long since seeing it. Like the other Angelopoulos films I've seen, it is a somewhat dense, contemplative film, but it shouldn't be seen as intimidating or unaccessible. The storyline, despite the frequent flashbacks, is easy to follow, the the emotional impact never ceases. An impressive, inspiring film.",
+         "Thessaloniki this day. A very sick bearded man leaves his seaside house to go to the hospital for the few days remaining. Suddenly he decides to search the area. He rescues a small Albanian boy chased at the traffic lights by the police while cleaning car windows for a living. He saves the same kid when ready to be sold to foreigners. This happens in Greece but it can happen anywhere. He makes a tour with the kid. He visits the frontier looking like a Nazi camp with spectators watching while hanging on the wire fence. He speaks with Dionysios Solomos,the poet of the 'Hymn to liberty' and 'Free begieged'.A poet that used to pay people in Zakynthos to buy a word for poetic exploitation. Theo Angelopoulos plays an important sociophilosophical role as a very talented director in expressing the human relation,the national language and many other concepts. Angelopoulos purports to open a new road for understanding the world,life,death,love,poetry,music,child innocence,a man to die very soon,a wedding with the married couple dancing in circle movements. This movie has a faster mode than previous ones by the same director. First prize in Cannes in competition with Benigni's 'life is beautiful'. A film with the warm performance of Bruno Ganz. A film with the magnificent music of Eleni Karaindrou. A masterpiece for 10 out of 10.",
+         "Not as heart-warming as \"Kolya,\" nor as powerful as \"L'Avventura,\" but still a movingly worthwhile experience. The leaps from one point in the hero's lifetime to another are poignant. Many of the directorial flourishes are quite memorable; the wedding sequence is not to be missed! Our hero, Alexos, exists in the present urban world in which the weather is gloomy and almost everyone wears black; but his mind wanders to the past, where the sun infallibly shines over the shore and nearly all wear white. Yet when Alexos imagines himself in his past, he's still shrouded in black; he can't even dream that he could be happy, until a street urchin appears to rattle him from his shell. This film does contain elements we've seen before, but arranges them in a fresh way. It reminded me how precious and fleeting each moment really is, and how wondrous it can be to share our moments with others.",
+         "The 1998 film by Greek director Theo Angelopoulos, Eternity And A Day (Mia Aioniotita Kai Mia Mera or Μια αιωνιότητα και μια μέρα), is not merely another film about a supposed poet wherein the art of poetry and the act of poesizing are never on display. Yes, it's true that, technically, neither are on screen, but it is a superior film about a supposed poet wherein the art of poetry and the act of poesizing are never on display, for the film does capture the dead cliché of 'a soul of a poet' as well as just about any I've ever seen. It does it with imagery, and Angelopoulos's patented long takes, but it does capture it, and exceedingly well. The film was not only directed by Angelopoulos, but he wrote the screenplay. That it won that year's Cannes Film Festival's coveted Palm D'Or shows that, sometimes, quality still counts. The tale subtly weaves the past, present, and future tenses of a dying man, the bearded poet Alexander (Bruno Ganz, best known for starring in Wim Wenders' Wings Of Desire, and the later Adolf Hitler biopic Downfall, as Hitler), as he muses on life a day before he is to enter a hospital for an unspecified 'test.' In this manner, the film is in the fine tradition of films on dying men trying top come to grips with their lives, such as Akira Kurosawa's Ikiru, and Ingmar Bergman's Wild Strawberries. Yet, where the former film achieves its aims by balancing out the life of the dying man with that of a young woman, then turns the film on its head by dealing with the legacy of the man after his death, and the latter film evokes dread by displaying the subconscious memories of its lead character, Eternity And A Day splits the difference, as Alexander, after leaving his seaside apartment in Thessaloniki, after learning he has a terminal illness and must enter a hospital the next day, muses on a neighbor across the way who mirrors his taste in music, befriends a young unnamed immigrant Albanian boy (Achilleas Skevis) who is being exploited and slips in and out of his and others' pasts by simply walking into them. Angelopoulos does not cut to the past. His characters' pasts are extensions of their presents . Of course, the length of most of the takes, with the shortest being longer than most Hollywood shots, means most speed-addicted American viewers will be bored by the film. Yet, can there be a better recommendation for such a work? And, despite the long takes, the 126 minute long film feels far shorter, and this is because each scene leaves an immense intellectual and emotional impact. It was written by Angelopoulos, longtime Fellini screenwriter Tonino Guerra ,and Petros Markaris. The scoring by Eleni Karaindrou is pitch perfect, as it never overwhelms nor guides the viewer beyond what the scenes' immanent power holds. The acting by Ganz is wonderful, and a textbook display of full body acting. In the modern scenes he moves slowly and with a slump in his bearing, while when he enters the past, he has alacrity and grace. It is stated, in online descriptions of the film, that Ganz's lines were dubbed into Greek, but this presents little problem as there is not much dialogue, Alexander's facial hair partially covers his lips, and many of the speaking scenes are from a distance or the back. Again, the conveyance of his emotional and psychological states is predominantly by bodily acting. The same is not true for the boy, and Achilleas Skevis gives yet another terrific acting performance for a European child actor. His face has hints of the American Culkin acting clan, yet he is far more subtle and expressive, and when he jokes to Alexander that 'buying words' on the docks may be expensive, there is an impishness to his glinting eyes that few American brat actors could capture .Eternity And A Day is another great film by a master of the art who has been sorely neglected in the United States. It asks of its two lead characters, Why am I always a stranger in exile?, and gives no clear answer, save to estrange the two of them from each other and themselves .Alexander's final estrangement is not as cheery, and comes as he enters his old home- the one his daughter has sold for demolition. He looks about, exits out the back door, and into the sunny past where Anna and other friends are singing. They stop, ask him to join them, then they all dance, and soon, there is only the poet and his wife in motion. Then, she slowly pulls away, and he claims his hearing is gone. He also cannot see her, it seems. He calls out and asks how long tomorrow will be, after he has told her he refuses to go into the hospital, as planned. She tells him tomorrow will last eternity and a day. The film ends with Alexander, back to us, mumbling in untranslated Greek (do we really need to know what he is saying at this point, anyway?) watching the waves on the ocean do what they do, for a long time. It is in moments like this that Angelopoulos reveals that, while he is the equal of the best filmmakers in the art's history, such as Fellini or Bergman, he has more seriousness than the former, and a more profound empathy than the latter. Where that ultimately places him on the scale of the cinematic pantheon is to be argued over, but not the fact that he belongs. He and this film are that great.",
+         "\"An Eternity and a Day\", as the title translated in English means, is the answer Alexandros -the film's hero- receives as an epiphany, while pondering on the meaning of Tomorrow. We surmise that he has only a few days left to live, and watch him face a dilemma: should he choose to give some meaning to the rest of his life, learn to love, care and express himself to the people he's in close contact with; or wither away, a stranger in his own life only to die a pointless death? Contrary to popular opinion, the film's concept is really this simple. Theo Angelopoulos has managed to win the appraisal of many, at the same time obtaining a hateful opposition. And while there are sequences in the film which will have you rolling your eyes and proclaiming \"Get on with it!\", it's unique pictorial beauty and lyricism will more than make up for the lack of movement. Some of the downsides are the director's constant moulding of the world (and a strange one it is, where an 8 year old boy can debate like an adult and everyone spouts poetry instead of words) to fit his own megalomaniacal impulses - but maybe that's not a sin after all, maybe that's just what Creation is all about... A deserved 7."
+      ],
+      "genres": ["Drama"],
+      "productionCompanies": [
+         "Theo Angelopoulos Films",
+         "Greek Film Center",
+         "Greek Television ET-1"
+      ],
+      "summaries": [
+         "Alexander, an old writer, is ill and prepared to die. He says his goodbyes and recalls his life with his wife long ago. While driving his car he saves a street kid, an illegal immigrant from Albania, from being arrested. Later in the day, by chance, he sees the same boy being abducted, and follows in his car. Although he is preoccupied with his own regrets, he puts death on hold to find a way to help the boy.",
+         "Famous writer Alexander is very ill and has little time left to live. He meets a little boy on the street, who is an illegal immigrant from Albania, and goes on a journey with him to take the boy home."
+      ],
+      "budget": 0
+   },
+   "movielensId": 2673,
+   "movielens": {
+      "languages": [
+         "English",
+         "ελληνικά",
+         "Italiano"
+      ],
+      "releaseDate": "1998-01-01",
+      "dvdReleaseDate": "2006-08-15",
+      "directors": ["Theo Angelopoulos"],
+      "runtime": 137,
+      "movieId": 2673,
+      "title": "Eternity and a Day",
+      "mpaa": "",
+      "actors": [
+         "Bruno Ganz",
+         "Isabelle Renauld",
+         "Fabrizio Bentivoglio",
+         "Achileas Skevis"
+      ],
+      "imdbMovieId": "0156794",
+      "originalTitle": "Μια αιωνιότητα και μια μέρα",
+      "genres": ["Drama"],
+      "youtubeTrailerIds": ["7aaq9cfNkZw"],
+      "plotSummary": "Alexander, a famous writer, is very ill and has only a few days to live. He meets a little boy on the street, who is an illegal immigrant from Albania. Alexander then takes the boy home.",
+      "tmdbMovieId": 24858,
+      "avgRating": 3.31788,
+      "releaseYear": "1998",
+      "numRatings": 151,
+      "posterPath": "/k7aGrVip5qLCRmAFs7vhqRzWmcT.jpg"
+   }
+}

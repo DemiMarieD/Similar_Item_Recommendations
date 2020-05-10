@@ -1,0 +1,592 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "journalist",
+            "id": 736
+         },
+         {
+            "name": "airport",
+            "id": 822
+         },
+         {
+            "name": "vampire",
+            "id": 3133
+         },
+         {
+            "name": "airplane",
+            "id": 3800
+         },
+         {
+            "name": "undead",
+            "id": 10327
+         },
+         {
+            "name": "reporter",
+            "id": 12193
+         },
+         {
+            "name": "series of murders",
+            "id": 14676
+         },
+         {
+            "name": "female corpse",
+            "id": 189421
+         },
+         {
+            "name": "tabloid reporter",
+            "id": 223587
+         }
+      ],
+      "imdb_id": "tt0119784",
+      "video": false,
+      "title": "The Night Flier",
+      "recommendations": [
+         19158,
+         10349,
+         13559,
+         27769,
+         27770,
+         9638,
+         11503,
+         15158,
+         12483,
+         10657,
+         8973,
+         17898,
+         11415,
+         16288,
+         16175,
+         11428,
+         10212,
+         10351,
+         10280,
+         20701
+      ],
+      "backdrop_path": "/bSMCOd2ySz3cfPy6KZvL7UovdBO.jpg",
+      "revenue": 91549,
+      "reviews": [{
+         "author": "Gimly",
+         "id": "5916a20ac3a368371b01ceb7",
+         "content": "I'd love it if 99% of the marketing for this movie didn't involve giving away the vampire's appearance, because that wholly original reveal is one of the best parts of _The Night Flier_.\r\n\r\n_Final rating:★★★ - I personally recommend you give it a go._",
+         "url": "https://www.themoviedb.org/review/5916a20ac3a368371b01ceb7"
+      }],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Richard Dees",
+               "gender": 2,
+               "credit_id": "52fe44d09251416c75041e67",
+               "name": "Miguel Ferrer",
+               "profile_path": "/fvRncqShcaV8R45IJGYZ7IAvrsO.jpg",
+               "id": 15860,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Katherine 'Jimmy' Blair",
+               "gender": 0,
+               "credit_id": "52fe44d09251416c75041e6b",
+               "name": "Julie Entwisle",
+               "profile_path": null,
+               "id": 72179,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Merton Morrison",
+               "gender": 0,
+               "credit_id": "52fe44d09251416c75041e6f",
+               "name": "Dan Monahan",
+               "profile_path": "/1dyNIvDWNmqYydrlstwT9tozc3a.jpg",
+               "id": 64221,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Dwight Renfield",
+               "gender": 2,
+               "credit_id": "52fe44d09251416c75041e73",
+               "name": "Michael H. Moss",
+               "profile_path": null,
+               "id": 72180,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Ezra Hannon",
+               "gender": 0,
+               "credit_id": "52fe44d09251416c75041e77",
+               "name": "John Bennes",
+               "profile_path": "/pgC3SuNN1vK8ipFvCAV2yt0wiLF.jpg",
+               "id": 72181,
+               "order": 4
+            },
+            {
+               "cast_id": 19,
+               "character": "Selida McCamon",
+               "gender": 0,
+               "credit_id": "5a4e5ae8c3a3683b7800e3a9",
+               "name": "Beverly Skinner",
+               "profile_path": null,
+               "id": 1953660,
+               "order": 5
+            },
+            {
+               "cast_id": 20,
+               "character": "Buck Kendall",
+               "gender": 0,
+               "credit_id": "5a4e5af7c3a3683b7d00cb26",
+               "name": "Rob Wilds",
+               "profile_path": null,
+               "id": 240307,
+               "order": 6
+            },
+            {
+               "cast_id": 21,
+               "character": "Claire Bowie",
+               "gender": 2,
+               "credit_id": "5a4e5b06c3a3683b8000c519",
+               "name": "Richard K. Olsen",
+               "profile_path": null,
+               "id": 37425,
+               "order": 7
+            },
+            {
+               "cast_id": 22,
+               "character": "Ellen Sarch",
+               "gender": 0,
+               "credit_id": "5a4e5b14925141734c00d489",
+               "name": "Elizabeth McCormick",
+               "profile_path": null,
+               "id": 1953661,
+               "order": 8
+            },
+            {
+               "cast_id": 23,
+               "character": "Terminal Cop #1",
+               "gender": 0,
+               "credit_id": "5a4e5b22c3a3683b8900c40d",
+               "name": "J.R. Rodriguez",
+               "profile_path": null,
+               "id": 236882,
+               "order": 9
+            },
+            {
+               "cast_id": 24,
+               "character": "Terminal Cop #2",
+               "gender": 0,
+               "credit_id": "5a4e5b32925141734f00d6a1",
+               "name": "Robert Leon Casey",
+               "profile_path": null,
+               "id": 1953662,
+               "order": 10
+            },
+            {
+               "cast_id": 25,
+               "character": "Nate Wilson",
+               "gender": 0,
+               "credit_id": "5a4e5b400e0a26481700d678",
+               "name": "Ashton Stewart",
+               "profile_path": null,
+               "id": 1953663,
+               "order": 11
+            },
+            {
+               "cast_id": 26,
+               "character": "Ray Sarch",
+               "gender": 0,
+               "credit_id": "5a4e5b4c925141734800d12b",
+               "name": "William Neely",
+               "profile_path": null,
+               "id": 1953664,
+               "order": 12
+            },
+            {
+               "cast_id": 27,
+               "character": "Henry Gates",
+               "gender": 0,
+               "credit_id": "5a4e5b59c3a3683b8200ba1d",
+               "name": "Windy Wenderlich",
+               "profile_path": null,
+               "id": 1953665,
+               "order": 13
+            },
+            {
+               "cast_id": 28,
+               "character": "Policeman",
+               "gender": 0,
+               "credit_id": "5a4e5b70925141734800d15b",
+               "name": "General Fermon Judd Jr.",
+               "profile_path": null,
+               "id": 109032,
+               "order": 14
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "52fe44d09251416c75041e7d",
+               "name": "Mark Pavia",
+               "profile_path": null,
+               "id": 72182,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44d09251416c75041e83",
+               "name": "Mark Pavia",
+               "profile_path": null,
+               "id": 72182,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44d09251416c75041e89",
+               "name": "Jack O'Donnell",
+               "profile_path": null,
+               "id": 72183,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44d09251416c75041e8f",
+               "name": "Mitchell Galin",
+               "profile_path": null,
+               "id": 64797,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44d09251416c75041e95",
+               "name": "David R. Kappes",
+               "profile_path": null,
+               "id": 13370,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44d09251416c75041e9b",
+               "name": "Richard P. Rubinstein",
+               "profile_path": null,
+               "id": 15000,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44d09251416c75041ea1",
+               "name": "Brian Keane",
+               "profile_path": "/6d8tVaRljVzWUZ9MW507Q4uyu0c.jpg",
+               "id": 72184,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44d09251416c75041ea7",
+               "name": "David Connell",
+               "profile_path": null,
+               "id": 38658,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44d09251416c75041ead",
+               "name": "Elizabeth Schwartz",
+               "profile_path": null,
+               "id": 72185,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "535924cac3a36847a9000019",
+               "name": "Leonard Finger",
+               "profile_path": null,
+               "id": 960384,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "535924dfc3a36847a900001e",
+               "name": "Lyn Richmond",
+               "profile_path": null,
+               "id": 1313232,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "535924f4c3a3684772000020",
+               "name": "Pauline White-Kassulke",
+               "profile_path": null,
+               "id": 1313233,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5733fd7692514174bc0002b3",
+               "name": "Stephen King",
+               "profile_path": "/z8cHPoqTslxRR7oWQ5wsh0fNLt2.jpg",
+               "id": 3027,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a4e5b950e0a26481400dc33",
+               "name": "Timothy Stepeck",
+               "profile_path": null,
+               "id": 1319829,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a4e5ba20e0a26481a00d389",
+               "name": "Burton Rencher",
+               "profile_path": null,
+               "id": 1607806,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a4e5bb60e0a26480e00d938",
+               "name": "Alfredo Cuomo",
+               "profile_path": null,
+               "id": 1953666,
+               "department": "Production",
+               "job": "Co-Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a4e5bc4c3a3683b8000c604",
+               "name": "Jack O'Donnell",
+               "profile_path": null,
+               "id": 72183,
+               "department": "Production",
+               "job": "Co-Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a4e5bd7925141735200c994",
+               "name": "Neal Marshall Stevens",
+               "profile_path": null,
+               "id": 1709740,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a4e5bed0e0a26481a00d3cf",
+               "name": "Howard Berger",
+               "profile_path": "/fz0Z8ia0Iaq4SS6NfVAcFIAeU2F.jpg",
+               "id": 107372,
+               "department": "Crew",
+               "job": "Makeup Effects"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a4e5bfdc3a3683b8000c642",
+               "name": "Robert Kurtzman",
+               "profile_path": "/9hN9noJUKvomz6lNAW24sHHRU0h.jpg",
+               "id": 11419,
+               "department": "Crew",
+               "job": "Makeup Effects"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a4e5c0a925141734500c995",
+               "name": "Gregory Nicotero",
+               "profile_path": "/tbSRk7j0hYlBWWX7QrjdOXeiMpW.jpg",
+               "id": 59287,
+               "department": "Crew",
+               "job": "Makeup Effects"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Mystery",
+            "id": 9648
+         },
+         {
+            "name": "Horror",
+            "id": 27
+         },
+         {
+            "name": "Fantasy",
+            "id": 14
+         }
+      ],
+      "popularity": 4.701651,
+      "production_countries": [
+         {
+            "iso_3166_1": "IT",
+            "name": "Italy"
+         },
+         {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+         }
+      ],
+      "id": 12238,
+      "vote_count": 80,
+      "budget": 1000000,
+      "overview": "Two investigative reporters for a tabloid magazine track down across country \"The Night Flier\", a serial killer who travels by private plane stalking victims in rural airports. One of the reporters, Richard Dees, begins to suspect that \"the Night Flier could perhaps be a vampire\"",
+      "similar": [
+         49017,
+         7131,
+         138,
+         5236,
+         36647,
+         277,
+         8698,
+         1949,
+         6114,
+         24021,
+         76492,
+         628,
+         4234,
+         496,
+         858,
+         1573,
+         1597,
+         11615,
+         19901,
+         10577
+      ],
+      "original_title": "The Night Flier",
+      "runtime": 93,
+      "poster_path": "/s50uysCw1US4JpeWwAJ8PhXbAEW.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "New Amsterdam Entertainment",
+            "id": 572,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Stardust International",
+            "id": 22269,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Medusa Film",
+            "id": 6246,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1997-04-30",
+      "vote_average": 5.7,
+      "belongs_to_collection": null,
+      "tagline": "Never believe what you publish...Never publish what you believe.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Mark Pavia"],
+      "runtime": 94,
+      "synopsis": "Richard Dees [Miguel Ferrer], ace reporter for the tabloid newspaper Inside View is offered a new assignment. Some sicko who calls himself Dwight Renfield, as in Dwight Frye who played the role of Renfield in the 1931 movie version of Dracula, is flying from desolate airport to desolate airport in his black Cessna Skymaster 337, tail number N101BL, killing whomever is there and then drinking their blood--and no one has caught him yet. However, Dees thinks the story is a waste of his time and suggests that editor Merton Morrison [Dan Monahan] give the assignment to cub reporter Katherine Blair [Julie Entwistle], whom Dees has unaffectionately nicknamed \"Jimmy,\" after Jimmy Olson of Superman fame. The next morning, after Katherine has been able to tap into a network of local law enforcement agencies on her computer and find three cases that all meet the batty flier's M.O., Morrison again asks Dees to take the assignment. This time, Dees agrees. Needless to say, Katherine isn't pleased. Dees has his own airplane and decides to run the killer's back trail. First stop is the Cumberland County Airport in Falmouth, Maine, where Claire Bowie was killed. Dees gets the details from Ezra Hannon [John Bennes] on how, as he was turning over the night shift to Claire, the night-flying Skymaster landed. Out of the airplane walked a man wearing a long black cloak. The next morning, Hannon found Claire washing down the Skymaster. The morning after that, Claire was found with his throat ripped open. The only strange thing that Hannon can recall was under the luggage bay--a big pile of dirt filled with worms and maggots. That night, Dees pays a visit to Claire's grave in order to get a photograph. Later, after drinking 3/4ths of a bottle of booze and bedding down for the night at the Cumberland Motel, Dees dreams that someone wearing a long black cloak is after him. When Dees looks out the patio door, however, he sees written on the glass in what looks like blood, \"STAY AWAY.\" Dees chalks it up to a cemetery caretaker who gave him a hard time while he was trying to photograph Claire Bowie's grave. Second stop is New York, the Alderton Funeral Home, where Buck Kendall is laid out ready for the funeral director to sew up the deep gashes in his face and the two big holes on opposite sides of his neck. In a call that evening to Morrison, Dees learns that Morrison is getting antsy. He wants to run the story about the Night Flier, but Dees is not ready to give it yet, so Morrison has a brainstorm. He puts Katherine back on the story. Third stop for Dees is Duffrey, Maine, where Ray and Ellen Sarch were the Night Flier's third and fourth victims. Unfortunately, the Duffrey airport is closed, so Dees has to land at Washington National, rent a car, and drive into town. On the way, he comes upon a car crash. Several people have been killed and are laying all bloodied on the pavement and in their cars. While photographing a young boy, Dees sees the boy's face suddenly change into that of an older man with a chain hanging out of his mouth. Dees is taken aback, but the policeman telling him not to get in the way interrupts his vision. Dees stops at a gas station in Duffrey. The owner tells him how he filled Ray and Ellen's tank the day before the murders. Ray was looking tired and pale, but Ellen was looking \"fine.\" The owner suggests that Dees talk to Selida McCammon, Ellen's hairdresser. Selida tells Dees that she thought it odd for Ellen, after 20 years of appointments as regular as clockword, to suddenly come in two weeks early. Plus, Ellen seemed all dreamy to Selida, looking \"like a schoolgirl with a crush,\" and asking for a new look that made her appear sensuous and younger. Ellen also told Selida about the pilot who had flown in the night before and how they welcomed him by inviting him in for dinner and to watch a little TV. After getting the story from the local deputy, Dees pays a visit to the Sarches' trailer. He sees Ray's office where bloody handprints still remain on the window. He sees the corner of the room where Ray's head was found, ripped from his shoulders. He sees on the wall the FAA warning for a black Skymaster 337 #N101BL registered to Dwight Renfield. He sees the bedroom where Ellen Sarch's body was found lying on the bed, two big holes on opposites sides of her neck, her body bloodless, and a peaceful smile on her face. When he leaves the trailer, Dees is chased by a large dark dog who disappears when Dees manages to outrun it to his car. That evening, after checking in at the Falling Star Motel, Dees goes out for a drink or two or three. As he looks at the photos he has taken, the bartender sets down an unordered Bloody Mary, supposedly ordered for Dees by a guy at the end of the bar, but there is no one there now. Dees lifts the drink to see the words \"STOP NOW\" printed on the napkin underneath it. When Dees returns to his hotel, who should he see there but Katherine Blair. They trade insults, boast about their leads, and both admit that they're actually dry. Dees invites \"Jimmy\" to help him phone airports in search of the Night Flier's next touchdown. They make a list of all the airports in the area and divide it in half. Dees calls his half on his cellphone while Katherine calls her half on the phone in the motel room. No luck. Only one airport to go--Wilmington--which is unlikely, as it's a large airport. Dees makes the call anyway. When he asks the air controller if he's seen a black Cessna Skymaster 337, tail 101BL, the controller curtly says \"No\" and hangs up on him. Obviously, the real answer is \"Yes.\" Fourth stop is Wilmington Airport, but first Dees has to get rid of \"Jimmy.\" He locks her in his closet, tells her, \"Sorry, Jimmy. You lose,\" and then takes off alone. It is a dark and stormy night as Dees approaches Wilmington. He asks the controller again if he's seen a Skymaster 337, tail 101BL but gets no reply. Suddenly, his radio is filled with screams. Then comes a deep, gravelly voice calling his name. It is Dwight Renfield himself. He tells Dees to turn around, but Dees refuses. When he lands at Wilmington, Dees sees it--the black Skymaster. There is no one inside, so Dees peeks in. What he finds is mind-numbing. The cockpit is dripping with blood, and the cargo hold is filled with dirt, worms, maggots, and several copies of Inside View. Suddenly the screaming starts again, and Dees runs to the terminal. What he finds inside is even more appalling. Blood everywhere, and bodies of men, women, and children on the floor and in the chairs. Even the FAA warning for the black Skymaster 337 #N101BL registered to Dwight Renfield is dripping with blood. One body catches his eye, and Dees goes over to photograph it. It is a man with a chain hanging out of his mouth. Dees pulls out the chain to find a crucifix dangling from it. Dees has had it. He can no longer hide behind his camera and races to the men's room where he upchucks his dinner. Suddenly, someone else enters the men's room, but Dees cannot see anyone in the mirror, only the trickle of blood in the urinal where someone is relieving himself. It is Dwight Renfield [Michael H. Moss], and for the first time, Dees realizes that he has encountered a real vampire. Dwight makes Dees destroy his film, warns Dees for the final time not to follow him anymore, and leaves. After shivering for a few seconds, Dees follows anyway...shouting at Dwight to show his face. Show it he does, to reveal two huge, opposing fangs, one on the top and one on the bottom. Dwight then slits his own wrist and makes Dees drink the blood. And now Dees enters his own personal hell. The floor of the terminal turns misty and from it start rising all the people whom Dees has exploited to write his stories in Inside View. As they advance toward him, Dees freaks. Grabbing the axe from the emergency firebox, he starts hacking at them. Suddenly the police arrive, followed by Katherine Blair. The police order Dees to freeze, but he rushes towards Katherine anyway, so they shoot him. They warn Katherine to stay back, so she stands by the terminal window where she sees Dwight Renfield getting into his black Skymaster and taking off. Katherine knows that she can never print what she believes or believe what she prints, so the next cover of Inside View features Richard Dees lying in a pool of his own blood. The headline reads: NIGHT FLIER DEFANGED. Inside View Scribe Moonlighted as Dastardly Deadly Count. In the lower right-hand corner is a photo of Katherine \"Jimmy\" Blair, the tabloid's new ace reporter. Sorry, Dees. You lose. [Original Synopsis by bj_kuehl.]",
+      "writers": [
+         "Stephen King",
+         "Mark Pavia"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0119784/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTQxNTM0MDE4NF5BMl5BanBnXkFtZTcwMjU1MzAzMQ@@._V1_SY317_CR5,0,214,317_AL_.jpg",
+      "actors": ["Stars: Miguel Ferrer, Julie Entwisle, Dan Monahan | See full cast and crew »"],
+      "reviews": [
+         "I'm not going to say that this is a great movie, or even a great horror movie. A more appropriate way of saying it might be that it's an interesting movie. Those poor filmmakers, they're starting to run out of Stephen King novels to make into movies, so they have to turn to his short stories. Usually this means what should have been a 30 minute movie is drawn out into an hour and a half or longer. But in the case of Mark Pavia's \"The Night Flier\", story works because Pavia is able to expand on King's original story, and he also seems to have a bit of talent as a director. Most people complain that Miguel Ferrer's character, Richard Dees, is too mean, or something like that. QUIT COMPLAINING PEOPLE! He's suppose to be an utterly heartless, sleazy, sorry excuse of a person. You're not suppose to feel sorry for him at all as he descends to insanity. Instead having such a terrible lead character is suppose to pose the question whose the real monster? Or, actually I think it'd be more accurate to say, whose the real hero? Is there a hero? Ferrer pulls off the performance perfectly, making a character that could make James Woods or Clint Eastwood whimper in fear. Unfortunately the rest of the cast doesn't do so well, and this pulls in the movie down a little way. Anyway, Pavia himself has a talent for gloomy atmosphere, with his overcast, gray skies and quiet music and always just slightly-off-angle photography. He expertly subdues the beginning 2/3s of the movie and then throws a bloodbath at us. It's a very well planned and a shocking move on his part. \"The Night Flier\" kicks into major gear towards the end. The final, final conclusion is a little weak, but it really couldn't have ended any other way. Overall, the couple flaws drag \"The Night Flier\" down to a good but not great movie, but the really cool climax and other elements make up for it, and make it a good time. Be warned, it won't leave you feeling happy or good.",
+         "I'm not really a great fan of vampire movies, in fact there are very few that I could actually name that I like, nonetheless I rented \u0091The Night Flier' because the DVD cover looked rather interesting but I still didn't expect much from this movie. Richard Dees (Miguel Ferrer) is a journalist for a sleazy and morbid weekly publication named \u0091Inside View' and is assigned to cover the story of a mysterious pilot who flies into rural airports and kills whoever is there, draining the victim of all their blood. At first Richard doesn't want the story but after seeing how big a story it could be and also wanting to put ambitious young journalist Katherine (Julie Entwistle) firmly in her place he accepts the assignment and goes in search of information on the killer he later nicknames The Night Flier. I was very surprised by the quality of this movie. Currently I am moderately wary of Stephen King adaptations and with it also being a vampire movie my hopes were not particularly high. The first ten minutes or so of \u0091The Night Flier' are fairly slow moving and rather tedious but that soon changes as \u0091The Night Flier' becomes a quite adept thriller. It's not a typical vampire movie and that is probably why I enjoyed it. Instead, \u0091The Night Flier' is more of a crime drama as the movie is directed towards uncovering the killer rather than stopping the killer. This makes it an interesting thriller in a way and despite some noticeably gory scenes stays away from the obvious idea of concentrating solely on the killer's activities. Tension is built up exceptionally by not concentrating too much on The Night Flier. The way the movie plays out gives it a strong purpose as it leads to a blistering finale. What we are left with is a story about a man on the edge who will do anything to get his story. The character of Richard is a bitter man, possibly socially maladjusted and one has to question whether he is in some way disturbed by all that he has witnessed in his life? He shows mental strength in his pursuit of success and seemingly fears nothing, showing no compassion or sympathy for the feelings of others yet there are still moments when he comes across as a much `softer' human being. Miguel Ferrer does an excellent job of portraying Richard and his performance in the last ten minutes of the movie is almost profound. The ending is brutal, in some ways shocking and definitely not what I expected. By the end it becomes obvious that there were two levels of horror working in this movie that came together well to leave us with \u0091The Night Flier'. There were flaws with the movie though, a couple of plot holes and many unanswered questions, though perhaps that the intent was to leave an air of mystery over the movie. Apart from Ferrer I don't think the movie was well cast as most of the other actors didn't really seem to fit the tone of the film. Furthermore, despite many great make-up effects there were also a few (one in particular) that looked awful and seemed to be totally out of place with the rest of the film. The movie was also a little slow in places and does not really get very good until about a third of the way through. These few faults though aren't really enough to harm the enjoyment and whilst this may not be to everyone's liking I personally believe it to be a well made and appealing movie. My rating for \u0091The Night Flier' \u0096 7/10.",
+         "I really don't understand all those nay-sayers.\"Night Flier\" in comparison to the recent so-called horror movies about vampires is pretty good.It's quite scary,it's suspenseful,it's pretty gory and it's a good time!I hate modern vampire flicks like \"Blade\" or \"From Dusk Till Dawn\"-they're simply a big-budget Hollywood garbage with an overdose of special effects.Unlike the other reviewers I like the character of Richard Dees-this guy is so wonderfully mean that it's impossible not to like him.The acting is decent and the special effects are okay.As for the gore,there is plenty of blood in \"Night Flier\",but the violence is not excessive.However gore-hounds should be pleased.Make sure you find this one!Highly recommended.",
+         "Before I saw this movie, I didn't know what to expect. My opinion had been that all Stephen King adaptations for the big screen had been pretty bad (with the few exceptions like 'Misery', 'Christine', and 'The Shining')... but, the ones adapted for the small screen were usually pretty good (go figure). But, 'The Night Flier' was something a little different... it was made for direct-to-video. I guess this gave them the ability to make it bloody and gory (unlike made-for-TV movies) and it didn't have to be mainstream (like the big screen adaptations). The movie, I thought, had very few cliches in it. Every time one appears to pop up, the director and writer change it just enough to make it interesting. Don't get me wrong, this movie isn't perfect, far from it. For one thing, the whole \"vampire flying a plane\" thing seems kinda stupid, but it's easy to overlook. Also, the creature is a little cheesy, but that can also be overlooked. What can't, and shouldn't, be overlooked is the terrific performance given by Miguel Ferrer (who I also thought was excellent in 'The Stand'). He gave a great performance, and whenever it was over-the-top, it was deliciously over the top. One last thing, the ending's great. You'll look back on it a couple of days after you saw the movie and go, \"Wow... what a cool ending.\" Heck, I still say that. So, in conclusion, anyone in Hollywood who wants to adapt a Stephen King novel, novella, or story into a movie, watch the made-for-TV and made-for -video movies, and then take some notes. You're movies will much more enjoyable!",
+         "You can say what you want about Stephen King-movies, but there's always just enough talent and budget involved to not make 'em look cheap. In THE NIGHT FLIER this talent mostly comes from actor Miguel Ferrer and SFX-artists Kurtzman, Nicotero & Berger. Ferrer is an often overlooked actor who most of the time only gets supporting rolls. But he'll always be edged in my memory as go-getter Bob Morton in Paul Verhoeven's ROBOCOP. Now he gets the chance to star in the leading roll in THE NIGHT FLIER, and he proves that he can carry a film. He was just perfect as the arrogant sleaze-reporter Richard Dees. There's a mysterious figure flying in a black airplane and landing on small airports at night. He leaves behind him a trail of mutilated, blood-drained corpses. Richard Dees, reporter for the cheese & sleaze magazine \"Inside View\", is put on the case. So he gets in his airplane and starts following the same route as the vampiric murderer. Meantime, a rival reporter (the rookie Katherine Blair) is also assigned to write a story about it... The plot is nothing too complicated, but it's built up nicely and even manages to be a bit scary from time to time. It all leads to the enjoyable final scenes at the last airport. The vampire is mostly kept in the dark throughout the movie, which helps to build-up a little tension. But don't worry, you'll be satisfied when you see it's ugly scary face in the end. Which brings us to the work of our beloved KNB-crew. The special make-up-effects are very decent and quite gory too. And I also liked the fact that the vampire is able to mess with peoples minds. Okay, there are some improbabilities concerning some events in the plot, but lets not make a big deal out of it. Just take it as it is: It's a decent Stephen King-adaptation and a good vampire-movie, nothing more nothing less. So switch off the lights and fly with it.",
+         "Richard Dees is a reporter and he is a vampire because he works for a tabloid and earns his living by writing lurid stories and taking sordid pictures. He's got a despicable job and he is getting sick of it. Dwight Renfield is the Night Flier and he is a vampire too, but he is a \"real\" one \u0096 an evil and supernatural creature feeding itself on humans. He flies from one airfield to another across the U.S. on a black, private aeroplane. Of course he always leaves bloodless corpses behind him and Dees ends up chasing him with his tape recorder and camera. When they eventually meet, the vampire doesn't really feel like killing one of his kind, and he is ready to let him go. Yet Dees proves his curiosity will always make him chase people like the Night Flier and he will bitterly regret it. At the end of the film, everybody will see and remember Richard Dees as what he really was, that is to say a nasty character living on people's suffering. Well, this film is a great B-movie. The story is exciting, Miguel Ferrer is excellent and the film has no Hollywood-like happy ending. I strongly recommend it to anyone looking for a nice thrill and a few gallons of blood.",
+         "A great Stephen King novel adaptation that scares the pee out of you. Vampire are some of the greatest characters ever thought of. This movie provides you with great dark imagery and a very creepy story. This flick dazzles the eye, and stirs your imagination, as you sit paralyze with fear. A definite must see for any horror genre fan.",
+         "This movie is a notch above most King films. I own the DVD of this film and I have to say that Director Mark Pavia did an excellent job with this film. Especially with the end. The end is a great tribute to George A. Romero's style but it goes further and becomes creepier than anything I've seen in recent memory. I caught the last fifteen minutes of this film on cable one night and I was hooked. I remember thinking wow what a stylish film what the hell is this? So I researched and found out the title and bought the film. The film suffers from a lame screenplay and some stiff acting. Miguel Ferrer was excellent, as was Dan Monahan. Michael H. Moss and Julie Entwisle were a bit stiff. All in all this is a good horror movie and the DVD transfer is sharp and the colors are precise. The sound balance is natural, without over-placement of artificial sound effects. Watch it alone on a stormy night!",
+         "Spawned from a short story by famed novelist Stephen King, \"The Night Flier\" presents itself as a mystery that never strays far from horror. I honestly believe that this could be one of the most creative films of the '90s. The dark and menacing tone keeps the viewer entranced, while the mysterious elements keep them guessing till the end. The plot is coherent, and never truly strays into cliches. Production values, including special effects, for this film are exceptional when compared to similar made-for-cable movies. The cast is led by a composed and disturbing Ferrer, though the rest of is forgettable. If you like horror films that are inventive and complex then this film may very well suit you.",
+         "This movie, unlike almost every other movie made from a Stephen King story, is awesome. Ferrer is perfect for the role of somewhat coldhearted tabloid reporter, Dees, and he makes the movie work in the end. There are a few cheesy things about the movie, the look of the vampire being the biggest, but it's easy to look past these little things and see the movie as it is. It's creepy and it's entertaining. I have watched this movie a number of times, and I still get excited to see it coming on cinemax or HBO or whatever. The film's look is really done well, a lot of darkness adds to the overall feel. The places used to shoot the different airports are awesome as well, great small town look, where things like this might happen, and no one would even know. I love the movie, and I think it's probably the best King adaption yet. By the way, the word can either be adaption or adaptation...just in case anyone was wondering of my use of the word.:) 9/10"
+      ],
+      "genres": [
+         "Fantasy",
+         "Horror",
+         "Mystery"
+      ],
+      "productionCompanies": [
+         "New Amsterdam Entertainment",
+         "Stardust International",
+         "Medusa Film"
+      ],
+      "summaries": [
+         "Two investigative reporters for a tabloid magazine track down across country \"The Night Flier\", a serial killer who travels by private plane stalking victims in rural airports. One of the reporters, Richard Dees, begins to suspect that \"the Night Flier could perhaps be a vampire\".",
+         "Richard Dees, a cynical reporter for the sleazy tabloid weekly Inside View, is assigned to investigate a series of \"vampire\" murders, committed at isolated rural air strips. The gruesome trail takes him on a journey into the bowels of hell.",
+         "A reporter is on the trail of a vampiric murderer who travels by plane."
+      ],
+      "budget": 1000000
+   },
+   "movielensId": 1771,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1997-04-30",
+      "dvdReleaseDate": "1998-05-26",
+      "directors": ["Mark Pavia"],
+      "runtime": 93,
+      "movieId": 1771,
+      "title": "The Night Flier",
+      "mpaa": "R",
+      "actors": [
+         "Miguel Ferrer",
+         "Julie Entwisle",
+         "Dan Monahan",
+         "Michael H. Moss",
+         "John Bennes",
+         "Beverly Skinner",
+         "Rob Wilds",
+         "Richard K. Olsen",
+         "Elizabeth McCormick",
+         "J.R. Rodriguez",
+         "Robert Leon Casey",
+         "Ashton Stewart",
+         "William Neely",
+         "Windy Wenderlich",
+         "General Fermon Judd Jr."
+      ],
+      "imdbMovieId": "0119784",
+      "originalTitle": "The Night Flier",
+      "genres": [
+         "Mystery",
+         "Horror",
+         "Fantasy"
+      ],
+      "youtubeTrailerIds": ["Do6BqbQRIv8"],
+      "plotSummary": "Two investigative reporters for a tabloid magazine track down across country \"The Night Flier\", a serial killer who travels by private plane stalking victims in rural airports. One of the reporters, Richard Dees, begins to suspect that \"the Night Flier could perhaps be a vampire\"",
+      "tmdbMovieId": 12238,
+      "avgRating": 2.69873,
+      "releaseYear": "1997",
+      "numRatings": 395,
+      "posterPath": "/s50uysCw1US4JpeWwAJ8PhXbAEW.jpg"
+   }
+}

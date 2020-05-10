@@ -1,0 +1,630 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "small town",
+            "id": 1415
+         },
+         {
+            "name": "spacecraft",
+            "id": 1612
+         },
+         {
+            "name": "arizona",
+            "id": 1859
+         },
+         {
+            "name": "alien life-form",
+            "id": 4862
+         },
+         {
+            "name": "meteorite",
+            "id": 10221
+         },
+         {
+            "name": "astronomer",
+            "id": 10222
+         },
+         {
+            "name": "xenomorph",
+            "id": 226177
+         },
+         {
+            "name": "alien doppelganger",
+            "id": 240621
+         }
+      ],
+      "imdb_id": "tt0045920",
+      "video": false,
+      "title": "It Came from Outer Space",
+      "recommendations": [
+         20424,
+         18158,
+         831,
+         32569,
+         10785,
+         31682,
+         26912,
+         34084,
+         18990,
+         29959,
+         26857,
+         42594,
+         11773,
+         3079,
+         13188,
+         29570,
+         43117,
+         26283,
+         31965,
+         17102
+      ],
+      "backdrop_path": "/hxXGv47xu5g6RoY1H8rcnmU6Xk7.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "John Putnam",
+               "gender": 2,
+               "credit_id": "52fe47d99251416c750a78e1",
+               "name": "Richard Carlson",
+               "profile_path": "/dGBs79xPf6fFI9p0rEiasmn5G3X.jpg",
+               "id": 67685,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Ellen Fields",
+               "gender": 1,
+               "credit_id": "52fe47d99251416c750a78e5",
+               "name": "Barbara Rush",
+               "profile_path": "/ftuQ1T5jFYnK1jgZuX28YfwHPMY.jpg",
+               "id": 74542,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Sheriff Matt Warren",
+               "gender": 2,
+               "credit_id": "52fe47d99251416c750a78e9",
+               "name": "Charles Drake",
+               "profile_path": "/AiuCiwhqEyt5yGAu52tXuhK8uNL.jpg",
+               "id": 15978,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Frank Daylon",
+               "gender": 0,
+               "credit_id": "52fe47d99251416c750a78ed",
+               "name": "Joe Sawyer",
+               "profile_path": "/7waP4U3fOYpqUr8jJd4qAvgWWqK.jpg",
+               "id": 3341,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "George",
+               "gender": 2,
+               "credit_id": "52fe47da9251416c750a78f1",
+               "name": "Russell Johnson",
+               "profile_path": "/zKYwTZlncHEgk9QbzvK7qzXmrIR.jpg",
+               "id": 12355,
+               "order": 4
+            },
+            {
+               "cast_id": 6,
+               "character": "Pete Davis",
+               "gender": 2,
+               "credit_id": "52fe47da9251416c750a78f5",
+               "name": "Dave Willock",
+               "profile_path": "/3xC8ZGMUS8mhOKuOZFS1YB1FnaD.jpg",
+               "id": 40212,
+               "order": 5
+            },
+            {
+               "cast_id": 15,
+               "character": "Dave Loring",
+               "gender": 2,
+               "credit_id": "55ed3e929251413e41013181",
+               "name": "Alan Dexter",
+               "profile_path": null,
+               "id": 97659,
+               "order": 6
+            },
+            {
+               "cast_id": 16,
+               "character": "Dr. Snell",
+               "gender": 0,
+               "credit_id": "55ed3e92c3a368090c003c28",
+               "name": "George Eldredge",
+               "profile_path": "/baxDDEKL0CsycOSIRIxfZZi0Q6F.jpg",
+               "id": 116135,
+               "order": 7
+            },
+            {
+               "cast_id": 28,
+               "character": "Toby, a hobo",
+               "gender": 0,
+               "credit_id": "591ca8539251414a7b00f7c8",
+               "name": "Warren MacGregor",
+               "profile_path": null,
+               "id": 1818776,
+               "order": 8
+            },
+            {
+               "cast_id": 14,
+               "character": "Sam, a hobo",
+               "gender": 0,
+               "credit_id": "55ed3e91c3a3687d3b00c1fb",
+               "name": "Edgar Dearing",
+               "profile_path": "/aHjtlKqJc3aa555TBO2Ksj1F11w.jpg",
+               "id": 1240252,
+               "order": 9
+            },
+            {
+               "cast_id": 29,
+               "character": "Tom, a hobo",
+               "gender": 0,
+               "credit_id": "591ca86a92514149f300f5e9",
+               "name": "George Selk",
+               "profile_path": null,
+               "id": 1513895,
+               "order": 10
+            },
+            {
+               "cast_id": 32,
+               "character": "Bob, Snell's assistant",
+               "gender": 0,
+               "credit_id": "591ca8b99251414add00f38d",
+               "name": "Bradford Jackson",
+               "profile_path": null,
+               "id": 1225768,
+               "order": 11
+            },
+            {
+               "cast_id": 12,
+               "character": "Dugan, reporter",
+               "gender": 0,
+               "credit_id": "55ed3e91c3a3682c6b0129e8",
+               "name": "Robert Carson",
+               "profile_path": null,
+               "id": 121209,
+               "order": 12
+            },
+            {
+               "cast_id": 30,
+               "character": "Perry, a boy",
+               "gender": 0,
+               "credit_id": "591ca87f9251414a7b00f7f7",
+               "name": "Whitey Haupt",
+               "profile_path": null,
+               "id": 1818777,
+               "order": 13
+            },
+            {
+               "cast_id": 9,
+               "character": "Jane Dean",
+               "gender": 1,
+               "credit_id": "52fe47da9251416c750a7905",
+               "name": "Kathleen Hughes",
+               "profile_path": "/7n9BWIvHskTONRrfQsAf3dChzhr.jpg",
+               "id": 114956,
+               "order": 14
+            },
+            {
+               "cast_id": 31,
+               "character": "Mrs. Daylon",
+               "gender": 1,
+               "credit_id": "591ca8979251414a7b00f821",
+               "name": "Virginia Mullen",
+               "profile_path": "/fVJzf6phNk97srFB70RRRceMgKj.jpg",
+               "id": 1756849,
+               "order": 15
+            },
+            {
+               "cast_id": 33,
+               "character": "Deputy Reed (uncredited)",
+               "gender": 0,
+               "credit_id": "591ca8cd92514149f300f65b",
+               "name": "William Pullen",
+               "profile_path": null,
+               "id": 1196184,
+               "order": 16
+            },
+            {
+               "cast_id": 34,
+               "character": "Radio Announcer (uncredited)",
+               "gender": 2,
+               "credit_id": "591ca8eb925141485e01020e",
+               "name": "Richard H. Cutting",
+               "profile_path": null,
+               "id": 102829,
+               "order": 17
+            },
+            {
+               "cast_id": 11,
+               "character": "Unidentified Posse Man (unconfirmed)",
+               "gender": 2,
+               "credit_id": "55ed3e909251413e4101317f",
+               "name": "Ralph Brooks",
+               "profile_path": null,
+               "id": 164809,
+               "order": 18
+            },
+            {
+               "cast_id": 13,
+               "character": "Man Outside Newspaper Office (unconfirmed)",
+               "gender": 0,
+               "credit_id": "55ed3e9192514106d600c414",
+               "name": "Ned Davenport",
+               "profile_path": null,
+               "id": 1468832,
+               "order": 19
+            },
+            {
+               "cast_id": 35,
+               "character": "Reporter with Dugan (extra) (uncredited)",
+               "gender": 0,
+               "credit_id": "591ca9059251414add00f3d0",
+               "name": "Dick Pinner",
+               "profile_path": null,
+               "id": 85775,
+               "order": 20
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe47da9251416c750a78fb",
+               "name": "Jack Arnold",
+               "profile_path": "/3iuVO7TDbAI4TpUmgNgZyrnj6ch.jpg",
+               "id": 33883,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47da9251416c750a7901",
+               "name": "Harry Essex",
+               "profile_path": null,
+               "id": 67686,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5808f458c3a36872d6009aa4",
+               "name": "Irving Gertz",
+               "profile_path": null,
+               "id": 103356,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5808f45f92514105ea00b0ac",
+               "name": "William Alland",
+               "profile_path": "/5cnNirYmNRxXRtovuAnka8exirR.jpg",
+               "id": 11030,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5808f4679251415dfb00f4c5",
+               "name": "Henry Mancini",
+               "profile_path": "/sXl1lCYNnSf10ESG1nyCEDYGs1L.jpg",
+               "id": 1938,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5808f46ec3a36874ea00986b",
+               "name": "Herman Stein",
+               "profile_path": null,
+               "id": 56928,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5808f475c3a3687332009bcf",
+               "name": "Clifford Stine",
+               "profile_path": null,
+               "id": 12344,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5808f47d9251410f5700a7a9",
+               "name": "Paul Weatherwax",
+               "profile_path": null,
+               "id": 120032,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5808f484c3a3687332009bda",
+               "name": "Robert F. Boyle",
+               "profile_path": null,
+               "id": 2657,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5808f48c9251410fe300a8a1",
+               "name": "Bernard Herzbrun",
+               "profile_path": null,
+               "id": 29637,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5808f492925141438f000b63",
+               "name": "Russell A. Gausman",
+               "profile_path": null,
+               "id": 12348,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5808f49bc3a36872d6009abf",
+               "name": "Ruby R. Levitt",
+               "profile_path": null,
+               "id": 12292,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5808f4a19251410d8e00ab57",
+               "name": "Rosemary Odell",
+               "profile_path": null,
+               "id": 12350,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a3d8a1c9251413d3c0031ad",
+               "name": "Joseph Gershenson",
+               "profile_path": null,
+               "id": 342032,
+               "department": "Sound",
+               "job": "Music Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a3d8a490e0a2620ec002f78",
+               "name": "Leslie I. Carey",
+               "profile_path": null,
+               "id": 7654,
+               "department": "Sound",
+               "job": "Sound"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a3d8a5f9251413d42002fbe",
+               "name": "Glenn E. Anderson",
+               "profile_path": null,
+               "id": 7653,
+               "department": "Sound",
+               "job": "Sound"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a3d8a799251413d5c003227",
+               "name": "Joseph E. Kenney",
+               "profile_path": null,
+               "id": 1561044,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a3d8a87c3a3680ba9003222",
+               "name": "Bud Westmore",
+               "profile_path": null,
+               "id": 14498,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a3d8aad0e0a2620e6003054",
+               "name": "Joan St. Oegger",
+               "profile_path": null,
+               "id": 29640,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a3d8adbc3a3680bb80030b6",
+               "name": "David Horsley",
+               "profile_path": null,
+               "id": 120808,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a3d8b050e0a2620e0003088",
+               "name": "Jack Kevan",
+               "profile_path": null,
+               "id": 29639,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a3d8b19c3a3680bc700304b",
+               "name": "Millicent Patrick",
+               "profile_path": null,
+               "id": 1946667,
+               "department": "Crew",
+               "job": "Special Effects"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Horror",
+            "id": 27
+         },
+         {
+            "name": "Science Fiction",
+            "id": 878
+         }
+      ],
+      "popularity": 4.812824,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 19483,
+      "vote_count": 61,
+      "budget": 0,
+      "overview": "Author &amp; amateur astronomer John Putnam and schoolteacher Ellen Fields witness an enormous meteorite come down near a small town in Arizona, but Putnam becomes a local object of scorn when, after examining the object up close, he announces that it is a spacecraft, and that it is inhabited...",
+      "similar": [
+         679,
+         8077,
+         10200,
+         126889,
+         34851,
+         8836,
+         395,
+         440,
+         602,
+         1091,
+         644,
+         8078,
+         601,
+         348,
+         54138,
+         49849,
+         329865,
+         9362,
+         16866,
+         840
+      ],
+      "original_title": "It Came from Outer Space",
+      "runtime": 81,
+      "poster_path": "/hIYZaXip6eZDN9hU9xCZAVuFAWG.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": "/nY62adzeba5GVK8LJYD6yd9R8H4.png",
+         "name": "Universal International Pictures",
+         "id": 10330,
+         "origin_country": ""
+      }],
+      "release_date": "1953-05-26",
+      "vote_average": 6.2,
+      "belongs_to_collection": null,
+      "tagline": "Fantastic sights leap out at you!",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Black and White",
+      "budgetCurrency": "$",
+      "directors": ["Jack Arnold"],
+      "runtime": 81,
+      "synopsis": "A fireball streaks across the desert sky and crashes. We see an aerial view of Sand Rock, Arizona in the late evening in the early spring. Inside an isolated ranch house outside of town we meet John Putnam (Richard Carlson) and his girlfriend Ellen Fields (Barbara Rush). He is an amateur astronomer, she the local school teacher. They sit in front of a fire in his partially completed home enjoying a cup of coffee. They walk outside to take in the night air when they spot the \"meteor\" from the opening shot. From inside the crater, by the old Excelsior Mine, we see a sphere partially exposed that looks like a soccer ball. A hexagonal shaped \"door\" opens and we see some weird machinery and in shadow one of the occupants--a single eyed blob of a creature. It exits the ship and explores the desert leaving in its wake a shimmery trail. John and Ellen charter Pete Davis (Dave Willock) to take them to the crater in his helicopter. They circle the crater and land near the rim. The three climb to the top and peer inside. John walks down to the floor of the newly formed crater insisting that Ellen and Pete stay up on the rim. John sees the ship partially buried in the side of the mine, and also notices the shimmery substance near the exit of the ship. He stretches his hand out to touch the glowing material, but hesitates when he notices something inside the ship and stands up to face it. The door closes and slams shut triggering an avalanche of loose debris, burying the ship and almost killing John. John climbs back out of the crater and explains what he saw, but Ellen and Pete do not believe him. Two cars approach the crater. Pete and Ellen beg John not to discuss what he saw--they think he was imagining it. Sheriff Matt Warren (Charles Drake) and Dave Loring (Alan Dexter), who runs the local newspaper, arrive on the scene. John starts to relay his story and the disbelief and ridicule starts. Three more cars arrive at the crater. John, Ellen, and Pete fly back to the airport. John and Ellen drive back to his house. Along the way they are being observed. They encounter the creature on the highway as it appears to block their path on the road. John pulls to the side of the road thinking they hit it. Finding nothing they continue down the road. The next morning the crater is a buzz of activity. A KLTV television news van pulls up. The Sheriff's office has set up a cordon around the crater admitting only authorized personnel. The military has sent a small group out to explore. John and Ellen arrive only to be hounded by the press. John is there to meet with Dr. Snell. Dugan (Robert Carson) from American Press, and Lober (Dick Pinner) from Press Dispatch want to question John about the Sand Rock Star newspaper headline, \"Star Gazer Sees Martians\". They get no answers and turn their attention to Ellen, who is equally reluctant to talk to the press. John walks down into the crater to talk to Dr. Snell (George Eldredge). His assistant, Bob (Bradford Jackson) is taking radioactivity measurements, but finds none. Snell is convinced it was just a meteor, and refuses Johns request to dig it out. As John heads back to his car, where Ellen was patiently waiting, he is confronted by Matt. He has known Ellen a long time and is concerned about her involvement with John. He is jealous. John and Ellen drive off. As they are driving the see the county telephone linemen, George (Russell Johnson), and his boss, Frank (Joe Sawyer). John asks them if they've seen anything. Frank tells them he's hearing something very strange on the wires. Frank and George head down the road and encounter the creature. As he exits the truck, George is attacked and \"globbed\" or absorbed. John and Ellen suspect something is wrong and turn around and head back in the same direction that George and Frank took. They find the empty telephone truck on the side of the road. John retrieves his gun from the car and they begin their search, starting with the truck. John notices blood on the truck door and the shimmery trail, a telltale sign of the xenomorph. George appears to them, but is behaving very strangely. John notices Frank's arm on the ground, unmoving, the rest of his body is hidden behind a boulder. John and Ellen head back to town to get the Sheriff. John states his conclusion that Frank is dead, and it appears that George was the perpetrator. The xenomorph, now masquerading as George explains things to the human George and Frank. The Sheriff reluctantly agrees to accompany John and Ellen back out to where they encountered George and Frank, but when they arrive the truck and any evidence is gone. The three drive back to town. The Sheriff returns to his office, but John notices George and Frank walking through town. John follows and confronts them. They warn John not to interfere. Back at the Excelsior Mine, miners Sam (Edgar Dearing) and Toby (Warren MacGregor) are building a fire just outside the mine opening. They are waiting for Tom (George Selk) to return with food. Tom and his mule are just about back to the mine when the mule is spooked, and runs off. Tom turns around and is confronted by the xenomorph and is \"globbed\" or absorbed. Sam and Toby think they hear something in the mine and enter it. As they exit the mine they are met by the creature and are also a globbed. John and Ellen are summoned to see the Sheriff that evening. Frank's wife (Virginia Mullen) and George's girlfriend Jane Dean (Kathleen Hughes) have reported them acting strangely and now missing. Their clothes are also missing. The sheriff questions John because he appears to be the last one to have spoken to either of them. Ellen takes Mrs. Daylon and Jane home in John's car. John stays with Matt to discuss the situation; he tells Matt that Frank and George are in fact the creatures from the space craft stuck in the crater. The sheriff tells John that electrical equipment has been stolen from the hardware store and that Dr. Snell and his assistant, Bob, have been reported missing. John and Matt go out to the crater and find Dr. Snell's car, but no trace of Snell or Bob. Ellen is driving alone on the highway when she encounters Frank standing in the middle of the highway. She stops and he gets into the car. Frank instructs Ellen to take him to the mine. Back at the Sheriff's office, the phone rings. It is for John, and he is informed that the xenomorphs have Ellen. The Sheriff and John drive out into the desert. John exits the car and searches for Ellen. He sees what appears to be Ellen on a ridgeline in a cocktail dress. He follows her. She leads him to the opening to the mine shaft. A voice from inside the mine tells John that they are repairing their ship and will be leaving that night. The missing townsfolk are being held hostage. John begs to see the creature as it really is. It shows itself and John is horrified and repelled. He returns to see Matt who has been waiting by the car. Matt drops John off at his house. John notices the door unlocked and a shimmering trail leading back to an empty closed. All of his clothes are missing. The Sheriff gives orders to clear everyone away from the crater. John tells Matt that he got a visit and his clothes are missing. Frank appears in town just outside the Sheriff's office. Matt is spoiling for a confrontation with the creature impersonating the lineman, but John restrains him. They fight. Frank drives off in his telephone truck. The Sheriff forms an impromptu posse as John steals his police car and heads off to the crater. The Sheriff intends to confront Frank on the highway. Taking a shortcut through the desert, he forms a vehicle barricade across the highway. As Frank approaches, the posse opens fire. The truck careens off the highway and hits a boulder and bursts into flame. Meanwhile John arrives at the mine entrance and enters. He finds alien Ellen. She tells John they only need a few more hours. She then attacks him with a wand that emits a beam that cuts through rock, but misses. He shoots her with his gun and she falls into a lake below and dissolves. The posse arrives outside as John continues his exploration of the old mine. He hears machinery and finds the aliens in their human form making repairs to their ship. The head xenomorph has assumed John's identity. He explains their mission and the equipment's power. John demands Ellen's release as a sign of good faith. Alien John reciprocates by ordering all the hostages released. As they depart the mine, alien John resumes his alien form. John seals the mine entrance with dynamite to keep the posse away from the aliens. The ground begins to rumble and the ship departs, streaking across the sky.",
+      "writers": [
+         "Harry Essex",
+         "Ray Bradbury"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0045920/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BOTUzNzM0MzQxMV5BMl5BanBnXkFtZTgwNTM5NDI1MDE@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Richard Carlson, Barbara Rush, Charles Drake | See full cast and crew »"],
+      "reviews": [
+         "I just saw \"It Came from Outer Space\" on DVD today. The last time I saw it was in 1954 in a small town theaters on the Saskatchewan prairies. I was ten years old at the time and my world did not extend a hundred mile radius. I still remember that film until today. Beautiful Barbara Rush, calm, cool,intelligent Richard Carlson. Joe Sawyer could have been one of my neighbors. Full of suspense, intrigue, and mild fear, this movie was indeed a classic. Not knowing what the \"It\" looked like added to the mystery and wonder. Surprisingly no one was ever seriously hurt. Wearing those 3_D glasses and watching those rocks coming at you was pretty cool in those days. I was glad to see it again and relive those 50 years that have gone by.",
+         "First of all let's get rid of that absurd notion that science fiction films of the fifties were merely a sub-conscious attempt to personify the threat from communism - this is a hackneyed idea, and far from the truth. This is a thoughtfully crafted film, which like other good science fiction films of this era starts out portraying the aliens as monsters, only to reveal that they are benevolent and superior (how does this fit into the \"Red Menace\" theory?). The screenplay was penned by Ray Bradbury and is full of very good dialog and ideas, especially the notion that we are not ready to meet such advanced civilizations. The scenes in the high desert are very atmospheric and creepy, and although the renderings of alien technology at first seem somewhat adolescent, there is a genuine sense of wonder when the internals of the alien ship are revealed. Something missing from today's, blase, computer generated, over the top, excesses. The 3D is a useless appendage, and not worthy of discussion. If you like science fiction pre-scifi channel and post-golden age, rent this movie and enjoy the atmosphere.",
+         "Jack Arnold directed this screen version of Ray Bradbury's short story, `The Meteor', about a crashed spaceship in the mid-western desert. The alien crew kidnaps several inhabitants of the local town and assumes their form. A writer of science articles (Richard Carlson) who lives on the outskirts of the town witnesses the crash, although he thinks it's just a meteorite. When he goes down into the smoking crater, he sees the open hatchway of the spaceship and an alien creature within it, but when the alien closes the big hatch it starts a landslide in the crater which covers the ship. Afterwards none of the local authorities will believe Carlson's story about a buried spaceship filled with alien invaders. A moody and beautiful movie, with fine music by Henry Mancini. Many fans of Jack Arnold's sci-fi films consider this one his best (although personally I prefer `The Space Children' -- and so did Jack Arnold, according to his own statement). Charles Drake (`Tobor the Great') is the skeptical sheriff. Russell Johnson plays both a human and an alien (a treat for genre' fans). The supporting cast includes Joe Sawyer and Kathleen Hughes. Special effects by David S. Horsely and the great Clifford Stine. Makeup by Bud Westmore, of the famous Westmore family who contributed much to all the `Star Trek' spin-offs. Originally released in 3-D. A 3-D tape was available a few years ago, but the quality was not good . . . sad to say.",
+         "This is director Jack Arnold's first science-fiction effort and one of the earliest to use a desert setting. Richard Carlson is very believable as an astronomer who, along with his fiancee, witnesses a meteor crash-landing that turns out to be a spacecraft. No one in the small town believes him until they start disappearing. Arnold uses theremin music to great effect, the photography is eerie, dialog (by Ray Bradbury) poetic, and the alien a terrifying large crawling mass with one bulging eye that leaves a snail-like trail in its path. The aliens are not bent on destruction - an interesting precursor to Steven Spielberg's expensive \"Close Encounters of the Third Kind\" (1977)- even its main titles are at the End. This is low-key, intelligent, satisfying drama. Co-starring are Barbara Rush (she's a babe), Russell Johnson (likewise), Charles Drake, Joe Sawyer, Kathleen Hughes (who's tantalizing in a cameo).",
+         "I caught this movie in 2D and b/w, on the AMC channel this Halloween weekend. Prior to now, I'd never seen nor heard of it. Set in and around a small town in the Arizona desert, it tells the story of an amateur astronomer who was trying to get to the truth behind a large, fiery object that fell to earth in the desert. Was it a meteroid, as the Army had proclaimed after its investigation, or a crashed space ship? Though he caught a glimpse of the latter, the evidence was buried in a landslide in the crater before anyone else got there. Ray Bradbury's believable story is the now-common question of how we deal with things we don't understand, or are \"ugly\". I thought it played well, had decent special effects, etc., for a film made for 1950s audiences' sensibilities and movie-watching sophistication. One scene included a shapely, flirty young woman who really had nothing to do with the story. It wasn't until I heard this was a 3D movie that her presence on screen made any sense.",
+         "It Came From Outer Space is possibly Universal's best 1950's sci-fi and one of the best of the decade. It stars sci-fi regular Richard Carlson (Creature From the Black Lagoon) and Barbara Rush (When Worlds Collide) as his lover. They both play good parts. This is also one of the creepiest sci-fi movies of the 1950's. The desert setting is very eerie, as is the score. Director Jack Arnold often used desert settings for his movies. The alien monster looks quite impressive and the special effects are good too. I enjoyed this movie very much and is a must for 1950's sci-fi lovers. Enjoy! Rating: 5 stars out of 5.",
+         "This modest science fiction film from Ray Bradbury's short story \"The Meteor\" is perhaps the most-imitated film in the history of cinema.. The screenplay for this feature was written by Harry Essex, with direction by veteran action-film expert Jack Arnold. It is set on the edge of the desert, and involves in its storyline the crash of a mysterious meteor. Investigating it, a scientist living nearby discovers it is an alien spacecraft; he glimpses an ugly amoeboid creature like an octopus with a giant eye. Its next efforts cause a landslide which hides the spacecraft under a landslide, so no one else can see what he saw. The next development, when no one believes him, is that local people, law-enforcement and others, start acting like zombies; his wife believes him, but when the folk start coming into town he knows he needs to do something. Heading to the site again, he contacts the alien minds who tell him they only wish to escape Earth, where they do not belong. He gives them the help they require and the ship takes off the next day, heading home and leaving hi,m, and us, with a genuine mystery and an important question about parochial attitudes and out fitness to extend man's reach into the Galaxy when this urge has not been conquered. The production in B/W is a very good one for a \"B\" film, I assert., Joan St. Eigger did the hairstyles, Rosemary Odell the costumes, Russell A. Gausman and Ruby R. Levitt the sets, with Bud Westmore handling the unusual makeup challenges. The very fine art direction was done by Bernard Herzbrun and Robert A. Boyle, with luminous cinematography by Clifford Stine. In the solid cast are Richard Carlson, Barbara Rush, Charles Drake as the Sheriff, Joe Sawyer, Russell Johnson and Kathleen Hughes. it is arguable that Richard Carlson talks too much about the mysteries of the desert in this film, as n allegory for the dangers of the unknown, the wild, the as-yet-untamed--for space itself; but the dialogue is good-enough, the situations genuinely eerie and the style of the film, its crisis and its and pacing far-above-the-expected. In lesser hands, this production could have been less effective; this has become a classic example of how to handle several sci-fi situations. It earns the stature of being fundamentally scary; yet it is also thoughtful and interesting at the same time, by my standards. This is sci-fi noir of a very high sort.",
+         "An astronomer-stranger realizes that what is believed to be a meteor is in reality a space ship. No one believes him. Richard Carlson plays this laughed at John Putnam with conviction and integrity. Carlson tries to discover the truth, with the aid of his girl friend, and slowly they learn that indeed an alien presence has landed in the desert. The story has many similar plot elements found in Invasion of the Body Snatchers, and some new twists all its own. For the most part, the plot is pretty cohesive, and the acting acceptable. Charles Drake as a no brain lawman might be the one major exception. Russel Johnson, the professor of Gilligan's Island fame, has a small part as well. The alien presence seems to not want to harm humanity but only to leave, but is willing to harm to meet its end. All in all a pretty good atmospheric sci-fi chiller from the Golden Age.",
+         "IT CAME FROM OUTER SPACE is unquestionably on my top 3 from the many sci-fi movies made in the 1950s. I review many sci-fi films from the 50s, both B-movies AND classic. THIS film would definitely go down as one of the all-time classics. Even more rich with every viewing, IT CAME FROM OUTER SPACE is about a couple who live in a desert, one a scientist. One night, the scientist and his girlfriend are stargazing when they see some strange thing crash into a crater. When they go there, the scientist decides to go down, and sees a strange ship right before an avalanche falls over the specimen. Soon those two are the only ones who believe it is a ship from outer space, until strange things begin happening. The scientist must solve the mystery of why the aliens have arrived, and what they want. A science fiction classic worth buying on DVD. (Don't be fooled...the alien looks nothing like the one on the DVD cover.) Grade: 9/10 MPAA Rating: G My Rating: Ages 7 and up (some scary images)",
+         "I'll admit I'm a sucker for the atmosphere of old SF B/W movies and B/W movies in general - something that can't be reproduced with the special effects heavy movies of today. This movie is wonderful. It may have a simple plot, but it is effective at generating suspense and is well made. And the scientist/intellectual protagonist attempting to warn others of the menace from outer space is classic SF. The locations are also great. The isolation of the Arizona desert...aliens could have landed there a million years ago (and still be there) and we'd have no idea. Definitely worth a look."
+      ],
+      "genres": [
+         "Horror",
+         "Romance",
+         "Sci-Fi",
+         "Thriller"
+      ],
+      "productionCompanies": ["Universal International Pictures (UI)"],
+      "summaries": [
+         "John Putnam is a writer and an amateur stargazer with a new home out in the beautiful Arizona desert, which he enjoys with Ellen Fields, his girlfriend and a local schoolteacher. John is not trusted by the people of the small town near where he lives, certainly not by Sheriff Matt Warren, who feels protective of Ellen, and perhaps something more. One night, John and Ellen see a meteor crash in the desert. John drags his friend, Pete, out of bed to take him over to the crash site in his helicopter. Once there, John climbs down into the crater. Unfortunately, he does so alone, as Pete and Ellen wait for him. John is the only one who sees the spaceship before a landslide covers it. And John is the only one who catches a glimpse of the hideous thing inside. At first John's story seems mad, until some of the townsfolk begin acting strange - as if they aren't really who they seem to be.",
+         "On a beautiful evening in Sand Rock, Arizona amateur astronomer John Putnam and his girlfriend Ellen Fields see a fiery ball fall from the sky into the desert. They investigate and John sees a spacecraft of sorts and is convinced something is inside. A rockfall buries the ship before any one else can see it and now no one will believe him. He becomes the butt of local jokes when the newspapers pick up the story and Sheriff Matt Warren thinks he's mad. When two locals, Frank Daylon and his employee George, begin to act strangely John is convinced that they have been taken over by an alien being.",
+         "A spaceship from another world crashes in the Arizona desert, and only an amateur stargazer and a schoolteacher suspect alien influence when the local townsfolk begin to act strange."
+      ],
+      "budget": 800000
+   },
+   "movielensId": 2661,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1953-05-26",
+      "dvdReleaseDate": "2002-05-21",
+      "directors": ["Jack Arnold"],
+      "runtime": 81,
+      "movieId": 2661,
+      "title": "It Came from Outer Space",
+      "mpaa": "",
+      "actors": [
+         "Richard Carlson",
+         "Barbara Rush",
+         "Charles Drake",
+         "Joe Sawyer",
+         "Russell Johnson",
+         "Dave Willock",
+         "Alan Dexter",
+         "George Eldredge",
+         "Warren MacGregor",
+         "Edgar Dearing",
+         "George Selk",
+         "Bradford Jackson",
+         "Robert Carson",
+         "Whitey Haupt",
+         "Kathleen Hughes",
+         "Virginia Mullen",
+         "William Pullen",
+         "Richard H. Cutting",
+         "Ralph Brooks",
+         "Ned Davenport",
+         "Dick Pinner"
+      ],
+      "imdbMovieId": "0045920",
+      "originalTitle": "It Came from Outer Space",
+      "genres": [
+         "Horror",
+         "Science Fiction"
+      ],
+      "youtubeTrailerIds": ["xUnC6iGkmwo"],
+      "plotSummary": "Author &amp; amateur astronomer John Putnam and schoolteacher Ellen Fields witness an enormous meteorite come down near a small town in Arizona, but Putnam becomes a local object of scorn when, after examining the object up close, he announces that it is a spacecraft, and that it is inhabited...",
+      "tmdbMovieId": 19483,
+      "avgRating": 3.21241,
+      "releaseYear": "1953",
+      "numRatings": 572,
+      "posterPath": "/hIYZaXip6eZDN9hU9xCZAVuFAWG.jpg"
+   }
+}

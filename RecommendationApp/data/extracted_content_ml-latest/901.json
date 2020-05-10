@@ -1,0 +1,671 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "paris",
+            "id": 90
+         },
+         {
+            "name": "photographer",
+            "id": 1003
+         },
+         {
+            "name": "magazine",
+            "id": 4620
+         },
+         {
+            "name": "intellectual",
+            "id": 6258
+         },
+         {
+            "name": "book store",
+            "id": 155851
+         },
+         {
+            "name": "eiffel tower paris",
+            "id": 164889
+         },
+         {
+            "name": "american-in-paris",
+            "id": 190094
+         }
+      ],
+      "imdb_id": "tt0050419",
+      "video": false,
+      "title": "Funny Face",
+      "recommendations": [
+         6620,
+         804,
+         4808,
+         22829,
+         11113,
+         3001,
+         759,
+         2769,
+         29376,
+         18299,
+         29380,
+         10653,
+         164,
+         3080,
+         3111,
+         11706,
+         33218,
+         11424,
+         909,
+         5767
+      ],
+      "backdrop_path": "/z75LQagZPdIaS1qf6iwmtfAljTR.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Jo Stockton",
+               "gender": 1,
+               "credit_id": "52fe455b9251416c75053aa3",
+               "name": "Audrey Hepburn",
+               "profile_path": "/lNmmbyKxwnMSe0vb4kzZroa8lzr.jpg",
+               "id": 1932,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Dick Avery",
+               "gender": 2,
+               "credit_id": "52fe455b9251416c75053aa7",
+               "name": "Fred Astaire",
+               "profile_path": "/tFdgseH9plbGN8XBhBcG9lscfaY.jpg",
+               "id": 30181,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Maggie Prescott",
+               "gender": 0,
+               "credit_id": "52fe455b9251416c75053aab",
+               "name": "Kay Thompson",
+               "profile_path": "/azzoXZcHhmlDpWfdlOI3tcqs7Jq.jpg",
+               "id": 83393,
+               "order": 2
+            },
+            {
+               "cast_id": 5,
+               "character": "Pr Emile Flostre",
+               "gender": 2,
+               "credit_id": "52fe455b9251416c75053ab5",
+               "name": "Michel Auclair",
+               "profile_path": "/4wYmYJ6ArvWnZEqQsPNMD9NKExJ.jpg",
+               "id": 9746,
+               "order": 3
+            },
+            {
+               "cast_id": 6,
+               "character": "Paul Duval",
+               "gender": 2,
+               "credit_id": "52fe455b9251416c75053ab9",
+               "name": "Robert Flemyng",
+               "profile_path": "/op5oO4MHBO56aDozThTlbo4dLvG.jpg",
+               "id": 41958,
+               "order": 4
+            },
+            {
+               "cast_id": 13,
+               "character": "Marion",
+               "gender": 0,
+               "credit_id": "5543806cc3a3680cd5001e2c",
+               "name": "Dovima",
+               "profile_path": null,
+               "id": 1461562,
+               "order": 5
+            },
+            {
+               "cast_id": 14,
+               "character": "Specialty Dancer (Think Pink Number)",
+               "gender": 1,
+               "credit_id": "55438082c3a3680cd7001e3e",
+               "name": "Suzy Parker",
+               "profile_path": "/43zdDxdTlnt5gGFjp9Ze7ZDLskf.jpg",
+               "id": 145861,
+               "order": 6
+            },
+            {
+               "cast_id": 15,
+               "character": "Specialty Dancer (Think Pink Number)",
+               "gender": 0,
+               "credit_id": "55438093c3a3680ce8001d77",
+               "name": "Sunny Hartnett",
+               "profile_path": null,
+               "id": 1461565,
+               "order": 7
+            },
+            {
+               "cast_id": 16,
+               "character": "Hairdresser",
+               "gender": 2,
+               "credit_id": "554380a39251415865001e40",
+               "name": "Jean Del Val",
+               "profile_path": null,
+               "id": 22099,
+               "order": 8
+            },
+            {
+               "cast_id": 17,
+               "character": "Babs",
+               "gender": 1,
+               "credit_id": "554380b49251415876001c53",
+               "name": "Virginia Gibson",
+               "profile_path": "/zFEv7jtHVE3YiqbAi3ic2gJ5TGr.jpg",
+               "id": 118231,
+               "order": 9
+            },
+            {
+               "cast_id": 18,
+               "character": "Laura",
+               "gender": 1,
+               "credit_id": "554380c3925141586d001d45",
+               "name": "Sue England",
+               "profile_path": "/3K0hN06OZp6KiB8xP7wYVFG7K6a.jpg",
+               "id": 124852,
+               "order": 10
+            },
+            {
+               "cast_id": 19,
+               "character": "Lettie",
+               "gender": 1,
+               "credit_id": "554380d0c3a3680cdf001dc6",
+               "name": "Ruta Lee",
+               "profile_path": "/iDKGS513yfvyWFrXMut35nsyJa3.jpg",
+               "id": 10929,
+               "order": 11
+            },
+            {
+               "cast_id": 20,
+               "character": "Dovitch",
+               "gender": 0,
+               "credit_id": "5a174a1f925141032600645a",
+               "name": "Alex Gerry",
+               "profile_path": "/2mgr7eVmzkVg7Cqrwviffyevh8D.jpg",
+               "id": 78778,
+               "order": 12
+            },
+            {
+               "cast_id": 10,
+               "character": "Fashion Show Spectator",
+               "gender": 1,
+               "credit_id": "52fe455b9251416c75053acf",
+               "name": "Bess Flowers",
+               "profile_path": "/akbW8jJl8GSXFpixFaobMOqvNv4.jpg",
+               "id": 121323,
+               "order": 14
+            },
+            {
+               "cast_id": 51,
+               "character": "Armande",
+               "gender": 1,
+               "credit_id": "5a182e4e0e0a264cc4014122",
+               "name": "Iphigenie Castiglioni",
+               "profile_path": null,
+               "id": 170577,
+               "order": 15
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe455b9251416c75053ab1",
+               "name": "Stanley Donen",
+               "profile_path": "/8r91mtKkWdYri739IilAvTVzr1E.jpg",
+               "id": 13284,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe455b9251416c75053ac5",
+               "name": "Ray June",
+               "profile_path": null,
+               "id": 16750,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe455b9251416c75053acb",
+               "name": "Roger Edens",
+               "profile_path": null,
+               "id": 13288,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe455b9251416c75053ad5",
+               "name": "Edith Head",
+               "profile_path": "/63ZeXQOh26sGa8nTbYWntieyWrz.jpg",
+               "id": 4350,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe455b9251416c75053adb",
+               "name": "Hubert de Givenchy",
+               "profile_path": "/nZz8FUtmLdxAi5ynevm76HJBlRC.jpg",
+               "id": 1045774,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a174aacc3a3680b8800636c",
+               "name": "Leonard Gershe",
+               "profile_path": null,
+               "id": 218437,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a174ad2925141032600650c",
+               "name": "George Gershwin",
+               "profile_path": null,
+               "id": 20153,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a174ae6c3a3680b9600636e",
+               "name": "Ira Gershwin",
+               "profile_path": null,
+               "id": 974456,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a174b549251410339006267",
+               "name": "Adolph Deutsch",
+               "profile_path": null,
+               "id": 4100,
+               "department": "Sound",
+               "job": "Orchestrator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a174b60925141032400652b",
+               "name": "Adolph Deutsch",
+               "profile_path": null,
+               "id": 4100,
+               "department": "Sound",
+               "job": "Conductor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a174b89c3a3680b9300658b",
+               "name": "Conrad Salinger",
+               "profile_path": null,
+               "id": 554823,
+               "department": "Sound",
+               "job": "Orchestrator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a174bad92514103390062be",
+               "name": "Van Cleave",
+               "profile_path": null,
+               "id": 52593,
+               "department": "Sound",
+               "job": "Orchestrator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a174bcbc3a3680b880064b7",
+               "name": "Alexander Courage",
+               "profile_path": null,
+               "id": 1761,
+               "department": "Sound",
+               "job": "Orchestrator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a174bf1c3a3680b8d0063d2",
+               "name": "Skip Martin",
+               "profile_path": null,
+               "id": 44350,
+               "department": "Sound",
+               "job": "Orchestrator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a174ca5c3a3680b8a006449",
+               "name": "Skip Martin",
+               "profile_path": null,
+               "id": 1928716,
+               "department": "Sound",
+               "job": "Orchestrator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a174ce4c3a3680b9a006ac9",
+               "name": "Roger Edens",
+               "profile_path": null,
+               "id": 13288,
+               "department": "Crew",
+               "job": "Additional Music"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a174d1cc3a3680b88006649",
+               "name": "Leonard Gershe",
+               "profile_path": null,
+               "id": 218437,
+               "department": "Crew",
+               "job": "Additional Music"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a174d56c3a3680b8d00655c",
+               "name": "Eugene Loring",
+               "profile_path": null,
+               "id": 1635913,
+               "department": "Crew",
+               "job": "Choreographer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a174d6692514103300062e6",
+               "name": "Fred Astaire",
+               "profile_path": "/tFdgseH9plbGN8XBhBcG9lscfaY.jpg",
+               "id": 30181,
+               "department": "Crew",
+               "job": "Choreographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a174e810e0a264cc8006adc",
+               "name": "Richard Mueller",
+               "profile_path": null,
+               "id": 1733585,
+               "department": "Camera",
+               "job": "Other"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a174ea60e0a264cca00687b",
+               "name": "Hal Pereira",
+               "profile_path": null,
+               "id": 5188,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a174eb6c3a3680b8f0068bc",
+               "name": "George W. Davis",
+               "profile_path": null,
+               "id": 10604,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a174eecc3a3680b9d006329",
+               "name": "Frank Bracht",
+               "profile_path": null,
+               "id": 16751,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a174f0a925141033000643e",
+               "name": "John P. Fulton",
+               "profile_path": null,
+               "id": 100762,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a174f2ac3a3680b960067eb",
+               "name": "Farciot Edouart",
+               "profile_path": null,
+               "id": 1027339,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a174f48c3a3680b9d00639c",
+               "name": "Sam Comer",
+               "profile_path": null,
+               "id": 7687,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a174f53c3a3680b96006804",
+               "name": "Ray Moyer",
+               "profile_path": null,
+               "id": 7688,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a174f8e9251410329006bb5",
+               "name": "Wally Westmore",
+               "profile_path": null,
+               "id": 7689,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a174fa5c3a3680b9600685c",
+               "name": "Nellie Manley",
+               "profile_path": null,
+               "id": 50580,
+               "department": "Costume & Make-Up",
+               "job": "Hair Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a174fecc3a3680b880068b2",
+               "name": "William McGarry",
+               "profile_path": null,
+               "id": 1427773,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a1750200e0a264cbc006bbf",
+               "name": "George Leverett",
+               "profile_path": null,
+               "id": 8512,
+               "department": "Sound",
+               "job": "Sound Recordist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a175030c3a3680b9d00645b",
+               "name": "Winston H. Leverett",
+               "profile_path": null,
+               "id": 1500450,
+               "department": "Sound",
+               "job": "Sound Recordist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a175102c3a3680b9a006e5a",
+               "name": "Richard Avedon",
+               "profile_path": null,
+               "id": 1928722,
+               "department": "Art",
+               "job": "Title Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a1751160e0a264cc8006d18",
+               "name": "Carmel Snow",
+               "profile_path": null,
+               "id": 1928723,
+               "department": "Crew",
+               "job": "Thanks"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Music",
+            "id": 10402
+         },
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Romance",
+            "id": 10749
+         }
+      ],
+      "popularity": 6.884436,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 13320,
+      "vote_count": 198,
+      "budget": 0,
+      "overview": "A shy Greenwich Village book clerk is discovered by a fashion photographer and whisked off to Paris where she becomes a reluctant model.",
+      "similar": [
+         3989,
+         2288,
+         194,
+         342473,
+         116745,
+         707,
+         591,
+         95,
+         283227,
+         8195,
+         1845,
+         26973,
+         688,
+         255,
+         9280,
+         451945,
+         445,
+         1052,
+         2926,
+         6935
+      ],
+      "original_title": "Funny Face",
+      "runtime": 103,
+      "poster_path": "/1CW8Wn2itBQ7wACBQHpOyIbPpmD.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
+         "name": "Paramount",
+         "id": 4,
+         "origin_country": "US"
+      }],
+      "release_date": "1957-02-13",
+      "vote_average": 7,
+      "belongs_to_collection": null,
+      "tagline": "'S Wonderful! 'S Marvelous!",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Stanley Donen"],
+      "runtime": 103,
+      "synopsis": null,
+      "writers": ["Leonard Gershe"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0050419/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTMyODEyMzc0Nl5BMl5BanBnXkFtZTcwNjQ4MzA1MQ@@._V1_SY317_CR4,0,214,317_AL_.jpg",
+      "actors": ["Stars: Audrey Hepburn, Fred Astaire, Kay Thompson | See full cast and crew »"],
+      "reviews": [
+         "Stanley Donen's \"Funny Face\" was one of the best musicals that came out of Paramount, a studio not known for that genre. The DVD format we watched recently seems to have been transferred with great care as the colors have a vibrant look, something that wasn't the case with the technique used during that era that made colors fade. The film owes its appeal to Audrey Hepburn, an actress not known for being a singer, or a dancer, but who had enough charm to make the movie her own. The pairing with the great Fred Astaire pays off well because Mr. Astaire was always an actor who had enough chemistry with his leading ladies. Ms. Hepburn's costumes by Givenchy and the way she carries herself in them is one of the best assets about \"Funny Face\". The other surprise of the movie is Kay Thompson, who plays the magazine editor Maggie Prescott. Ms. Thompson makes an excellent contribution to the film as the no nonsense woman who ruled what the fashions of the day should be as shown in the pages of the magazine. The songs of George Gershwin are complimented by the original music composed for the musical by Roger Edens, Adolph Deutsch and Leonard Gershe. The great cinematography of Ray June shows Paris at its best. Thanks to Stanley Donen all the elements feel into place and we were left with this musical that will delight audiences forever.",
+         "This 1957 musical is a little odd. It has a title based on an original 1920s Gershwin musical (that included the title song) which starred Fred and Adele Astaire. It was a musical and scenic valentine to France (but only one tune in it deals with France - \"Bonjour Paris!\". It is a spoof on the modern fashion magazines, fashions in general, and advertising - but the spoof while sharp at times is never pushed. The opening sequence, \"Think Pink,\" describes how Kay Thompson plans a campaign to make the American woman go for \"pink\" clothes, accessories, toothpaste, etc., only to admit to her assistant she personally loathes the color. It takes full advantage of the attractive face and features of Hepburn, who is convinced to be a model and help push a new line of fashions in Paris. And it makes two characters into imitations of Richard Avedon the photographer (Astaire as Dick Avory) and Jean-Paul Sartre (Michel Auclair as Prof. Emile Flostre). Avedon was a rarity - a fashion photographer who became a great artistic portrait photographer. Astaire never is shown taking pictures of great or famous people in the film but several times he demonstrates a refinement that separates him from the rest of Kay Thompson's entourage (most of whom don't care what havoc they cause, as long as they get their jobs done). He also has enough sense to question Hepburn's accepting of \"empathicalism\", and it's viability. Witness his moment in the bistro pouring wine to the two old codgers who are quite pleasant to him while he insults them in English. Hepburn, of course, is so insistent on the validity of her philosophical beliefs that she rejects Astaire's warnings, and jeopardizes the fashion show. The final blow (seemingly) to the Astaire - Hepburn relationship is when he confronts Flostre at the author's home. He knocks out the Professor, and his brutality demolishes the relationship with Hepburn. But within minutes Hepburn sees another side to Flostre which is unexpected, and suddenly realizes that Astaire may be right after all. The character of Flostre is obviously based on that of Jean-Paul Sartre, the founder of \"existentialism\". Based on in some details, but not in theory. \"Empathicalism\" has to do with trying to empathize with others so as to have a proper response to their needs and aspirations. \"Existentialism\" has to do with: \"An introspective humanism or theory of man which expresses the individual's intense awareness of his contingency and freedom; a theory which states that the existence of the individual precedes his essence.\" This is from Webster's New Collegiate Dictionary. Sartre has a more complex view of man and society, and one can plow through BEING AND NOTHINGNESS to try to understand it. In fact some critics have wondered if the Nobel Prize Winner eventually got very wrong headed about his theory. But he certainly seems a meatier philosopher than his celluloid copy. But Flostre does have the trappings of Sartre on him. He is revered by his followers world wide (such as Hepburn). He is a man with sexual appetite (as Sartre was with his long time companion and fellow writer Simone Beauvoir). And there is some traces of an anti-capitalist, even anti-American attitude in him. It is not definitely pushed, but when Astaire and Thompson break into his house during a party, they pretend they are American share cropper singers whom Flostre had brought to France to perform for his guests. Now, we never hear what this actual pair actually would sing, but judging from their background they would have to throw in some protest songs. Sartre was very critical of the U.S.A. and capitalism (today his fans have to explain Sartre's willingness to accept Russian imperialist moves under Communism in the 1940s, 1950s, and 1960s - they find it very hard to do so). On the whole the parts of the film work well, so I give it seven stars. Kay Thompson is best recalled for being the creator of the little girl at the Plaza \"Eloise\", but she shows here a highly entertaining performance as Maggie Prescott, the editor who pushes and loathes pink. The film would have been better if somehow Avedon's portrait photography had been brought into the story, possibly in a final scene with Flostre as his subject. However, even without such a sequence the film is rewarding to watch, especially in the musical numbers. Astaire does equally well with Thompson and with Hepburn as his partners here.",
+         "As long as you do not take the premise or the characters or the plot too seriously, this is an enjoyable movie with an interesting pairing of Fred Astaire and Audrey Hepburn, plus an excellent supporting performance by Kay Thompson and some good-looking settings and scenery. The musical numbers are pleasant, if rather on the light side. Stanley Donen has the right touch in keeping things together without making the seams show too often. Hepburn is cast in a somewhat unexpected role, as a drab intellectual store clerk who gets involved with Fred Astaire's (much older) photographer character. Audrey is so charming that's it's very difficult to think of her as a wallflower, and while Astaire is as energetic as ever, there are more than a couple of occasions on which the relationship doesn't really look believable, despite the best efforts of the two stars. The plot isn't supposed to be anything weighty anyway, so perhaps that's the price you have to pay for a rather different pairing. Kay Thompson provides many of the best moments. Sometimes the satire of trendy philosophy comes off well, at other times it gets a little dull. Not to be forgotten are the colorful and interesting settings and backgrounds, which set off the story and music fairly well. It's sometimes a strange combination, but as lighter entertainment it all works well enough.",
+         "\"Funny Face\" was great fun during its first runs and is still a most enjoyable musical. A top notch cast headed by Audrey Hepburn and Fred Astaire make this a winner. Kaye Thompson is on hand for songs, dances and laughs, and George Gershwin's score sparkles. Filmed in part on location in Paris, \"Funny Face\" beautifully conveys its story of romance with elegance and charm. Smart fashion costumes, photography and choreography combine to make this a hit.",
+         "This is a rare bird indeed, a Hollywood musical that succeeds as parody as well as musical entertainment, featuring the best song and dance man of all time, Fred Astaire, and the Hollywood establishment darling, Audrey Hepburn, who was always magnificent despite being pampered and fawned over by the media moguls. Unlike Gene Kelly, Fred Astaire's dancing seemed natural. Astaire spent as much time learning his steps as Kelly, but the viewer always got the idea that Kelly had learned the steps whereas Astaire appeared to be inventing as he shuffled along. Astaire's early movies were made during the age of the crooner, yet his singing could not be pigeonholed into that category. Like his dancing, his singing flowed naturally and freely. The story to \"Funny Face\" is a simple one, a musical variation on Shaw's Pigmalion which was already a hit musical \"My Fair Lady,\" turned into another Audrey Hepburn vehicle a few years after \"Funny Face.\" What makes this movie stand out is the spellbinding choreography by Astaire, Et.Al., Ray June's cinematography, George Gershwin music, such as the title song, the direction of Stanley Donen, and the Paris fashions by Hubert de Givenchy. The colors are breathtaking. Note the incredible images of the opening dance \"Pink.\" The sights of Paris have never appeared more intriguing. And who would have thought a song and dance in a photographer's dark room could be so delightful? One of my favorite numbers from \"Funny Face\" is the hilarious yet imaginative parody of modern dance performed by Audrey Hepburn in a Paris cabaret. The parody can also be interpreted as poking harmless fun at Gene Kelly's ballet-style dancing in \"An American in Paris.\" This scene shows the versatility of the multi-talented Hepburn. Teaming her with the also multi-talented Astaire makes for a winning combination. Why the hoopla about their age differences? Do film reviewers not live in the real world anymore? This is a much better musical than many of the more touted ones of the 1950's. If you're not careful, this little screen gem may slip past you.",
+         "Outstanding. Beautiful. Classic. What a real lady!!! The photo sequence in Paris has never been topped. Such a 10+ movie, I can just watch it over and over. Those are kind of strange adjectives and comments from me, especially since I'm a Sci-Fi, action, fantasy kind of movie fan. This makes me wonder, will we ever have another Audrey?? Maybe an actress who is even close? To think that she thought she had: 1. A square face, 2. A big nose and 3. Big feet. That just shows how human and natural she really was.......... What a surprise for me to find this movie. I had never even heard of it untill it came out on DVD. S'Marvelous!!",
+         "This is just fun! Singing, dancing, Audrey, Fred. Fun! I've seen all of Audrey Hepburn's stuff, and this is the one movie of hers that I enjoy the most. I can watch it endless times and not get sick of it. The songs get stuck in your head for weeks afterwards. Another good point about this movie is that it has a message about beauty being only skin-deep, and manages to convey that message without getting preachy. Sure, \"Funny Face\" isn't a super-important film that deals with huge issues, but it's good fun!",
+         "The bookshop salesgirl Jo Stockton (Audrey Hepburn) is accidentally found by the photograph Dick Avery (Fred Astaire), who convinces the owner of the fashion magazine Quality, the powerful Maggie Prescott (Kay Thompson), that she could be the new model she wants for the magazine. Jo dreams on going to Paris to meet her guru, the philosopher Prof. Emile Flostre (Michel Auclair), but she cannot afford to pay for the travel; therefore she sees in the invitation, the chance to visit Paris. Once there, Dick falls in love for her. \"Funny Face\" has a great cinematography, art direction, set decoration, costume design and most important, a charming and delightful Audrey Hepburn. Kay Thompson is also excellent. The problem is the silly screenplay that shows at least two great mistakes. The first one is the inconsistent and contradictory character Jo Stockton, presented as an intelligent and clever woman in the beginning, but later becoming absolutely shallow, acting like an irresponsible spoiled child. The second big mistake is Fred Astaire (58), thirty years old older than Audrey Hepburn (28), therefore more than twice her age, as her romantic pair. This great actor looks like her father, and there is no romantic chemistry between them. My vote is seven. Title (Brazil): \"Cinderela em Paris\" (\"Cinderella in Paris\")",
+         "This snappy musical teams an ageing Fred Astaire with the young and lively Audrey Hepburn, puts them in Paris with a lovely Gershwin score, and piles on the slush to create romantic confection that really is irresistible. Audrey is at her best here, whether singing (in her own voice) \u0091How Long Has This Been Going On?', dancing wildly around a café, or looking like a mannequin in the fabulous frocks. Kay Thompson is on hand too, with her own fabulous number, \u0091Think Pink' about the trials and tribulations of being a fashion magazine editor. It probably works best with the misty filters and the dreamy sequences, though. And Audrey is serenaded by Fred dancing beneath her window, like the dashing prince who comes to rescue Rapunzel. Musical corn perhaps, but addictive nonetheless.",
+         "I love everything about this movie. It was written by Leonard Gershe about my mother (Doe Siegel) and her love (and then husband), Richard Avedon. It depicts Mom's brilliant intellect. Her compassionate, youthful energy. Forget about reading too many nuances into this movie. Art is a departure from reality and Leonard uses his creative license well. It seems I am to include more lines before this can be submitted...what more to say. Fun. Spontaneous. Flirtacious. Romantic. I hope people enjoy the very heart of this movie. Mom continues to be a gracious, caring, and inspirationally bright woman. She gave up her career to raise her family. We love her dearly."
+      ],
+      "genres": [
+         "Comedy",
+         "Musical",
+         "Romance"
+      ],
+      "productionCompanies": ["Paramount Pictures"],
+      "summaries": [
+         "Fashion photographer Dick Avery, in search for an intellectual backdrop for an air-headed model, expropriates a Greenwich Village bookstore. When the photo session is over the store is left in a shambles, much to salesgirl Jo Stockton's dismay. Avery stays behind to help her clean up. Later, he examines the photos taken there and sees Jo in the background of one shot. He is intrigued by her unique appearance, as is Maggie Prescott, the editor of a leading fashion magazine. They offer Jo a modeling contract, which she reluctantly accepts only because it includes a trip to Paris. Eventually, her snobbish attitude toward the job softens, and Jo begins to enjoy the work and the company of her handsome photographer.",
+         "An impromptu fashion shoot at a book store brings about a new fashion model discovery in the shop clerk."
+      ],
+      "budget": 3000000
+   },
+   "movielensId": 901,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1957-02-13",
+      "dvdReleaseDate": "2001-04-10",
+      "directors": ["Stanley Donen"],
+      "runtime": 103,
+      "movieId": 901,
+      "title": "Funny Face",
+      "mpaa": "NR",
+      "actors": [
+         "Audrey Hepburn",
+         "Fred Astaire",
+         "Kay Thompson",
+         "Michel Auclair",
+         "Robert Flemyng",
+         "Dovima",
+         "Suzy Parker",
+         "Sunny Hartnett",
+         "Jean Del Val",
+         "Virginia Gibson",
+         "Sue England",
+         "Ruta Lee",
+         "Alex Gerry",
+         "Bess Flowers",
+         "Iphigenie Castiglioni"
+      ],
+      "imdbMovieId": "0050419",
+      "originalTitle": "Funny Face",
+      "genres": [
+         "Music",
+         "Comedy",
+         "Romance"
+      ],
+      "youtubeTrailerIds": [
+         "Hs6ASCq9YtY",
+         "aY2EHAgqr6k"
+      ],
+      "plotSummary": "A shy Greenwich Village book clerk is discovered by a fashion photographer and whisked off to Paris where she becomes a reluctant model.",
+      "tmdbMovieId": 13320,
+      "avgRating": 3.6222,
+      "releaseYear": "1957",
+      "numRatings": 1739,
+      "posterPath": "/1CW8Wn2itBQ7wACBQHpOyIbPpmD.jpg"
+   }
+}

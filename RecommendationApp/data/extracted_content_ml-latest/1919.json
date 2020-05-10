@@ -1,0 +1,598 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "children",
+            "id": 10103
+         },
+         {
+            "name": "woman director",
+            "id": 187056
+         }
+      ],
+      "imdb_id": "tt0123987",
+      "video": false,
+      "title": "Madeline",
+      "recommendations": [
+         216983,
+         81994,
+         96469,
+         342708,
+         49345,
+         27549,
+         47360,
+         54797,
+         108221,
+         35432,
+         36677,
+         25628,
+         26581,
+         35151,
+         34151,
+         55699,
+         187383,
+         89904,
+         36291,
+         50416
+      ],
+      "backdrop_path": "/ymHsYUWeA8RvcPDZnBhP4FxoCoa.jpg",
+      "revenue": 30000000,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Madeline",
+               "gender": 1,
+               "credit_id": "52fe45af9251416c9103ad41",
+               "name": "Hatty Jones",
+               "profile_path": "/parjY6QjRUwkvp40eQ0SpUKjSt5.jpg",
+               "id": 114583,
+               "order": 0
+            },
+            {
+               "cast_id": 3,
+               "character": "Miss Clavel",
+               "gender": 1,
+               "credit_id": "52fe45af9251416c9103ad4b",
+               "name": "Frances McDormand",
+               "profile_path": "/jodV4NuQAvxQWIHxqnop1jUX77N.jpg",
+               "id": 3910,
+               "order": 1
+            },
+            {
+               "cast_id": 4,
+               "character": "Lord Covington",
+               "gender": 0,
+               "credit_id": "52fe45af9251416c9103ad4f",
+               "name": "Nigel Hawthorne",
+               "profile_path": "/jKG3trCa3RGE6h5yzjMOramfoed.jpg",
+               "id": 15788,
+               "order": 2
+            },
+            {
+               "cast_id": 7,
+               "character": "Leopold the Tutor",
+               "gender": 0,
+               "credit_id": "554b925392514146920025b6",
+               "name": "Ben Daniels",
+               "profile_path": "/x6MI4Fdz1XbERbNbXYoxTK6NAgv.jpg",
+               "id": 27632,
+               "order": 3
+            },
+            {
+               "cast_id": 8,
+               "character": "Mr. Spanish Ambassador",
+               "gender": 2,
+               "credit_id": "554b9261925141469c00232f",
+               "name": "Arturo Venegas",
+               "profile_path": null,
+               "id": 163570,
+               "order": 4
+            },
+            {
+               "cast_id": 9,
+               "character": "Lady Covenant",
+               "gender": 1,
+               "credit_id": "5ab3ec49c3a368617300cb14",
+               "name": "Stéphane Audran",
+               "profile_path": "/10VUvyQgv2iU7hpgaI3uE05gRDe.jpg",
+               "id": 19092,
+               "order": 5
+            },
+            {
+               "cast_id": 10,
+               "character": "Mrs. Spanish Ambassador",
+               "gender": 1,
+               "credit_id": "5ab3ec559251417aff00cae7",
+               "name": "Katia Caballero",
+               "profile_path": "/a9Rb8udi2CBLa1dQO9rl4nWQYcU.jpg",
+               "id": 109377,
+               "order": 6
+            },
+            {
+               "cast_id": 11,
+               "character": "Helene the Cook",
+               "gender": 1,
+               "credit_id": "5ab3ec670e0a265f3600db1b",
+               "name": "Chantal Neuwirth",
+               "profile_path": "/vHPORFjUCqI74qpuJGaYMfzdkeZ.jpg",
+               "id": 17901,
+               "order": 7
+            },
+            {
+               "cast_id": 12,
+               "character": "Pepito",
+               "gender": 0,
+               "credit_id": "5ab3ec759251417b0200bbc6",
+               "name": "Kristian de la Osa",
+               "profile_path": null,
+               "id": 1041479,
+               "order": 8
+            },
+            {
+               "cast_id": 13,
+               "character": "Aggie",
+               "gender": 1,
+               "credit_id": "5ab3ec900e0a265f3000cbbf",
+               "name": "Clare Thomas",
+               "profile_path": null,
+               "id": 102755,
+               "order": 9
+            },
+            {
+               "cast_id": 14,
+               "character": "Vicki",
+               "gender": 0,
+               "credit_id": "5ab3eca09251417b0500bf73",
+               "name": "Bianca Strohmann",
+               "profile_path": null,
+               "id": 2005111,
+               "order": 10
+            },
+            {
+               "cast_id": 15,
+               "character": "Chantal",
+               "gender": 0,
+               "credit_id": "5ab3ecabc3a368618d00d2c8",
+               "name": "Christina Mangani",
+               "profile_path": null,
+               "id": 2005112,
+               "order": 11
+            },
+            {
+               "cast_id": 16,
+               "character": "Lucinda",
+               "gender": 0,
+               "credit_id": "5ab3ecd30e0a265f3300c231",
+               "name": "Rachel Dennis",
+               "profile_path": null,
+               "id": 2005113,
+               "order": 12
+            },
+            {
+               "cast_id": 17,
+               "character": "Beatrice",
+               "gender": 0,
+               "credit_id": "5ab3ece2c3a368615b00c609",
+               "name": "Pilar Garrard",
+               "profile_path": null,
+               "id": 2005114,
+               "order": 13
+            },
+            {
+               "cast_id": 18,
+               "character": "Serena",
+               "gender": 0,
+               "credit_id": "5ab3ecec9251417aff00cb5c",
+               "name": "Jessica Mason",
+               "profile_path": null,
+               "id": 2005115,
+               "order": 14
+            },
+            {
+               "cast_id": 19,
+               "character": "Lolo",
+               "gender": 0,
+               "credit_id": "5ab3ecfb0e0a265f2100d010",
+               "name": "Alix Ponchon",
+               "profile_path": null,
+               "id": 2005116,
+               "order": 15
+            },
+            {
+               "cast_id": 20,
+               "character": "Elizabeth",
+               "gender": 0,
+               "credit_id": "5ab3ed08c3a368616300da6f",
+               "name": "Emilie Jessula",
+               "profile_path": null,
+               "id": 2005117,
+               "order": 16
+            },
+            {
+               "cast_id": 21,
+               "character": "Sylvette",
+               "gender": 1,
+               "credit_id": "5ab3ed169251417af900c280",
+               "name": "Eloise Eonnet",
+               "profile_path": "/wvJBExhSzLO17XI6Jv5Zb8VLvHp.jpg",
+               "id": 1626487,
+               "order": 17
+            },
+            {
+               "cast_id": 22,
+               "character": "Veronica",
+               "gender": 0,
+               "credit_id": "5ab3ed220e0a265f3300c27e",
+               "name": "Alice Lavaud",
+               "profile_path": null,
+               "id": 2005118,
+               "order": 18
+            },
+            {
+               "cast_id": 23,
+               "character": "Marie-Odile",
+               "gender": 0,
+               "credit_id": "5ab3ed2f9251417af600bcaa",
+               "name": "Morgane Farcat",
+               "profile_path": null,
+               "id": 2005119,
+               "order": 19
+            },
+            {
+               "cast_id": 24,
+               "character": "Louis the Painter",
+               "gender": 0,
+               "credit_id": "5ab3ed5dc3a368617300cc4d",
+               "name": "Alexis Desseaux",
+               "profile_path": null,
+               "id": 1744726,
+               "order": 20
+            },
+            {
+               "cast_id": 25,
+               "character": "Mr. Liberian Ambassador",
+               "gender": 2,
+               "credit_id": "5ab3ed6a0e0a265f3600dc66",
+               "name": "George Harris",
+               "profile_path": "/dqfdsdtliWJ7yvJupQXxphllHkK.jpg",
+               "id": 2247,
+               "order": 21
+            },
+            {
+               "cast_id": 26,
+               "character": "Mrs. Liberian Ambassador",
+               "gender": 0,
+               "credit_id": "5ab3ed8ac3a368616300db02",
+               "name": "Marie-Noëlle Eusèbe",
+               "profile_path": null,
+               "id": 2005120,
+               "order": 22
+            },
+            {
+               "cast_id": 27,
+               "character": "Mr. Indian Ambassador",
+               "gender": 0,
+               "credit_id": "5ab3ed9e9251417aff00cc22",
+               "name": "Ash Varrez",
+               "profile_path": null,
+               "id": 135927,
+               "order": 23
+            },
+            {
+               "cast_id": 28,
+               "character": "Mrs. Indian Ambassador",
+               "gender": 0,
+               "credit_id": "5ab3edb20e0a265f2a00e005",
+               "name": "Vayu Naidu",
+               "profile_path": null,
+               "id": 2005121,
+               "order": 24
+            },
+            {
+               "cast_id": 29,
+               "character": "Mr. Uzbekhistani Ambassador",
+               "gender": 0,
+               "credit_id": "5ab3edbdc3a368616300db38",
+               "name": "Alexandre Arbatt",
+               "profile_path": null,
+               "id": 134740,
+               "order": 25
+            },
+            {
+               "cast_id": 30,
+               "character": "Mrs. Uzbekistani Ambassador",
+               "gender": 1,
+               "credit_id": "5ab3edc90e0a265f2100d0d2",
+               "name": "Katia Tchenko",
+               "profile_path": "/xIDwaKza9Y7cN7oy04d7VK7iE0x.jpg",
+               "id": 32094,
+               "order": 26
+            }
+         ],
+         "crew": [
+            {
+               "gender": 1,
+               "credit_id": "52fe45af9251416c9103ad47",
+               "name": "Daisy von Scherler Mayer",
+               "profile_path": "/ebJciI29YXLqblVayOIHqOAh4pD.jpg",
+               "id": 56714,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "554b9231c3a3685e55002607",
+               "name": "Mark Levin",
+               "profile_path": null,
+               "id": 66219,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 1,
+               "credit_id": "554b923b925141469c00232a",
+               "name": "Jennifer Flackett",
+               "profile_path": null,
+               "id": 66218,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab3ee049251417b0500c0c6",
+               "name": "Malia Scotch Marmo",
+               "profile_path": null,
+               "id": 14693,
+               "department": "Writing",
+               "job": "Screenstory"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab3ee199251417af900c396",
+               "name": "Saul Cooper",
+               "profile_path": null,
+               "id": 1041016,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5ab3ee349251417aff00ccc9",
+               "name": "Pancho Kohner",
+               "profile_path": null,
+               "id": 237036,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5ab3ee40c3a368615f00c78b",
+               "name": "Allyn Stewart",
+               "profile_path": null,
+               "id": 1521882,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5ab3ee4a9251417af600bdcc",
+               "name": "Stanley R. Jaffe",
+               "profile_path": null,
+               "id": 34693,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5ab3ee569251417b0200bdbf",
+               "name": "Michel Legrand",
+               "profile_path": "/ewYlyU0UvONnt7jjHhaSXCKVHVa.jpg",
+               "id": 10934,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5ab3ee629251417b0800c487",
+               "name": "Pierre Aïm",
+               "profile_path": null,
+               "id": 5431,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5ab3ee6bc3a368616c00c8f4",
+               "name": "Jeffrey Wolf",
+               "profile_path": null,
+               "id": 52056,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5ab3ee77c3a368619700d7eb",
+               "name": "Hugo Luczyc-Wyhowski",
+               "profile_path": null,
+               "id": 1112,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5ab3ee85c3a368617300cd92",
+               "name": "Michael Clancy",
+               "profile_path": null,
+               "id": 1471022,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Family",
+            "id": 10751
+         }
+      ],
+      "popularity": 3.937652,
+      "production_countries": [
+         {
+            "iso_3166_1": "FR",
+            "name": "France"
+         },
+         {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+         }
+      ],
+      "id": 35680,
+      "vote_count": 60,
+      "budget": 0,
+      "overview": "The adventurous, young Madeline is very good at getting into trouble, but she's also fantastic at solving problems as well, and her school-mistress Miss Clavel is not too approving of her. The biggest problem comes up when Lord Covington decides to sell Madeline's school.",
+      "similar": [
+         394117,
+         858,
+         634,
+         693,
+         3981,
+         93456,
+         49519,
+         112160,
+         437557,
+         258480,
+         17130,
+         5123,
+         43923,
+         427900,
+         455,
+         450438,
+         141,
+         948,
+         5176,
+         244772
+      ],
+      "original_title": "Madeline",
+      "runtime": 89,
+      "poster_path": "/nAGRLwJC0jv7QlfJR6y32xRZqcF.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Français",
+            "iso_639_1": "fr"
+         },
+         {
+            "name": "Español",
+            "iso_639_1": "es"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": "/rzgMLzPgJ2ZBYnlVwNi8ZDfOMwo.png",
+            "name": "TriStar Pictures",
+            "id": 559,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Jaffilms Inc.",
+            "id": 14160,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Madeline Films",
+            "id": 102438,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1998-07-10",
+      "vote_average": 5.4,
+      "belongs_to_collection": null,
+      "tagline": "In an old house in Paris, that was covered with vines, lived twelve little girls in two straight lines...",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "France",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Daisy von Scherler Mayer"],
+      "runtime": 88,
+      "synopsis": null,
+      "writers": [
+         "Ludwig Bemelmans",
+         "Malia Scotch Marmo"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0123987/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BNzg3MjcwMjE0NV5BMl5BanBnXkFtZTcwOTc1ODgxMQ@@._V1_SY317_CR5,0,214,317_AL_.jpg",
+      "actors": ["Stars: Frances McDormand, Nigel Hawthorne, Hatty Jones | See full cast and crew »"],
+      "reviews": [
+         "Taken from the classic books by Ludwig Bemelmans, Madeline is the darling story of 12 little girls who live in a boarding school. The woman in charge of the home is a nun, Miss Clavel (Frances McDormand). Red-headed Madeline is the smallest of the girls but is, nevertheless, fearless and curious. The film follows Madeline's escapades as she has her appendix out, clashes with Pepito (the boy next door), falls in the river and more. There is a subplot concerning the approaching sale of the school and what it will mean to the girls who live there. Is it possible to have a happy ending? This extremely watchable movie for children is a wonderful addition to the repertoire of good children's films. Hatty Jones is a delight as Madeline and the other little girls are fun and expressive. The leap from book to movie is smooth and successful; the film includes many of the books' key elements and will thus be appreciated by Bemelmans' fans. There is more than enough action and humor to keep children interested from start to finish. Adults will be charmed by the film as well. Recommended for families who are looking for quality alternatives to Disney, Beethoven the dog, Charlotte's Web, etc.",
+         "Whether or not this film was critically acclaimed by the \"so-called\" experts or not, is irrelevant. The REAL experts are the children who watch, are captivated and endeared by Madeline's well casted characters. Every child I know (including my own) that has seen this film loved it and has begged for it on video. Parents may not see this as a daring, frolicking action adventure; but rather as a sweet and funny children's film, which is after all, what is was designed to be. There are so few films that really MEET a parent's expectations for what they WANT their children to see and can TRUST to not be \"profane\" (many older children's films that were \"G-rated\" are being remade now as \"PG\" under the guises that parents will \"want\" to watch them to; but do the kids really need the addition of bad language and sexual innuendo?). Madeline, the movie, is true to the author's original story-line and keeps its poetical, lyrical style and flavor. The children and adults in the cast are true to what the author's characterizations were intended to be.. rather than a so-called \"modern version\" of it. It is childhood at its best and its worst, with \"realistic\" villains (instead of the monstrous or far-fetched) and more of the genuine fun and whimsy that childhood is supposed to possess. Children everywhere adore this film! As an adult, I appreciate it and APPLAUD it. I wish filmakers would TAKE NOTE and produce MORE films like this... TRULY for Children and SOLIDLY \"G-rated\". After all... children are the best experts on what they like.. and they LOVE THIS... so do I.",
+         "Sitting through \"Madeline\" was like a cool breeze on a hot day. Hatty Jones is talented enough to carry the movie, Frances McDormand makes a hell of a nun, and the supporting cast was fine also. I would rather sit through this movie again than ever see most of the summertime garbage we are 'treated' to. The opening and closing credits were beautiful, too. Being a thirtysomething guy, I was unfamiliar with the \"Madeline\" books, but I have a feeling the movie captured the spirit of the books. A job well done; I loved every minute of it.",
+         "Madeline is a cute movie for the whole family -- if you like things when they were more simple! The antics of this young girl, Madeline are somewhat typical, often funny, yet sweet and well-meaning as orphaned child who is lonely and sad. Miss Clavel played by the one and only lovely Frances McDormand has the best facial expressions a nun could have when exasperated, yet, she really loves all the girls, but especially Madeline. And Lord Coo-coo face, well there's just something about him that isn't quite right -- it turns out he's lonely and sad, too just like Madeline. I think this movie was a great way to disappear into a Saturday afternoon and forget all the chaos of the week and bring back fond memories of less rushed times. The entire cast is -- well, they're all a kick!",
+         "I've seen my share of summer movies, but I have to say \"Madeline\" is one of the best I've seen yet, or even, in my life. Here we have a child character who talks like an actual kid and does not seem overly \"cute\" in her acting, although she could be said to be cute on the exterior. She has a charming lack of common sense, and her attitude (she has a strong sense of justice, and adventure) make her an enjoyable character, and the plot has surprisingly many connections between early events and things that happen later on. Surprisingly, the child characters can act rather convincingly, including Madeline herself. I've never felt that Madeline acted \"fake\" or without enough emotion, myself. As for the adult characters, I believe that the nun that runs Madeline's school is rather convincing at her job, but some of the other characters are a little too \"silly\", mainly the \"villain\" characters. Others put up a fine enough performance. To try to end this \"review\" here, I'll say this: MADELINE is how I would make a childrens' movie myself if I could make one. It does not rely on star power to sell it (Before this movie, Hatty Jones was never before heard of) and it doesn't have any fancy special effects, or even a big production budget seemingly. It took only three months to film, as well! For such an unconventional film, I have to say Madeline turned out very well. Madeline!",
+         "I just loved this version of Madeline, with the inimitable Frances McDormand and Nigel Hawthorne. Funny, attractive movie that is lively enough for adults to enjoy. I highly recommend it. Nothing offensive in it at all. The cinematography, the acting, the costuming was of the highest quality. As a child I did not really read the Madeline series of books, but I did as an adult, and I found that this screenplay and production bring the book to life. At a time and in a society where there is so much negative entertainment, this was a pleasant offering. It was uplifting. It even had just enough suspense to make it interesting for adults.",
+         "In Paris, twelve girls study in a school owned and sponsored by Lady Covington (Stéphane Audran) and managed by a sister, Miss Clavel (Frances McDormand). The youngest and orphan is the six years old Madeline (Hatty Jones). Their neighbor is the Ambassador of Spain, his wife and his son Pepito. When Lady Covington dies, her husband decided to sell the house. Meanwhile, some bad guys plan to kidnap Pepito. This average comedy is very predictable. However, the little, sweet and adorable Hatty Jones makes the difference. This was the last movie I watched in 2003 and I do not regret, since it is a nice family entertainment. My vote is six.",
+         "Not entirely captivating by all means, but very sweet and charming. While the story has some weak spots and the screenplay superficial at times, what saves it is how it is filmed and acted and how it keeps to the spirit of the picture books. I for one loved how it was filmed; I wasn't expecting another Wizard of Oz or Secret Garden, but the film is very nicely shot, with some dark serious tones but I particularly loved the shots of the Parisian skies. The music is beautiful as well and has a certain liveliness to it. The acting is very good; Hattie Jones has a very likable spunk and with her cute appearance the camera clearly loves her. Frances McDormond is perfectly cast as Miss Clavel, staying true to her character. Nigel Hawthorne is given less to do, but he does well with what he is given as Lord Covington(or Lord Cukooface as the girls call him). Overall, this is a charming and I think underrated film. 8/10 Bethany Cox",
+         "If you are looking for crashes, explosions, graphic violence, graphic sex, foul language-look elsewhere.Absolutely captivating children's movie for the whole family. Good screen version of a few of Bemelman's stories well acted by a good cast.Mc Dormond is fine as Miss Clavel ,the nun who runs the house all covered with vines with 12 little girls in two straight lines. Hattie Jones is perfect as the mischievous and adventuresome Madeline, the smallest of the girls.Story has something to do with the school closing, but it does not matter.What is here is well acted, directed and moves at a good pace without any dull stretches. A perfect example of a movie that doesn't \"talk down\" to its audience. The movie does manage to capture the essence of the characters and they all are fine. Paris never looked so good, even if the time line was changed from the 1930s to the 1950s. The transitions from French to English dialogue can be somewhat confusing, but in the light of the films overall context, they can be overlooked. Film is sweet without being saccharine or overly sugary, and the authority figures do not come across as boobs or idiots, but rather as believable characters.Its a shame that Hattie Jones never made another movie. Her portrayal as Madeline hits all the right notes. She will not disappoint Madeline fans-and there are many, including myself. A charming movie and a treat, Madeline has an overall sense of innocence that seems all too rare in this day and age. Surprisingly intelligent and faithful to its sources, Madeline is a keeper!",
+         "I was fortunate enough to see \"Madeline\" on a plane trip. Through babysitting, I had viewed the cartoon series and even read a book. I'm happy to say that I quite enjoy Madeline's adventures and was pleased to see it turned into a movie. I was saddened, however, when the movie, though accurate, did not turn out to be as adventurous as I had imagined. Full credit to the cast - it was not their acting but rather the pathetic state of the staging where three storylines were written rather stiltedly. It was mild entertainment but I'd only recommend it to fans of the series/books and younger children. Better luck next time..."
+      ],
+      "genres": ["Comedy"],
+      "productionCompanies": [
+         "Jaffilms",
+         "Madeline Films",
+         "TriStar Pictures"
+      ],
+      "summaries": ["Redheaded young girl Madeline is very good at getting into trouble, but she's also fantastic in solving problems as well, and her school-mistress Miss Clavel is not too approving of her. The biggest problem comes up when Lord Covington decides to sell Madeline's school."],
+      "budget": 0
+   },
+   "movielensId": 1919,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1998-07-10",
+      "dvdReleaseDate": "1998-12-15",
+      "directors": ["Daisy von Scherler Mayer"],
+      "runtime": 89,
+      "movieId": 1919,
+      "title": "Madeline",
+      "mpaa": "",
+      "actors": [
+         "Hatty Jones",
+         "Frances McDormand",
+         "Nigel Hawthorne",
+         "Ben Daniels",
+         "Arturo Venegas"
+      ],
+      "imdbMovieId": "0123987",
+      "originalTitle": "Madeline",
+      "genres": [
+         "Comedy",
+         "Drama",
+         "Family"
+      ],
+      "youtubeTrailerIds": [
+         "dYqx5vFA6is",
+         "r9B3iKMBqJw"
+      ],
+      "plotSummary": "In an old house in Paris, that was covered in vines, twelve little girls lived in two straight lines. The smallest one in rain or shine was the fearless Madeline, and she is the heroine of this family comedy based on Ludwig Bemelmans' classic book series about a Parisian schoolgirl and her classmates.",
+      "tmdbMovieId": 35680,
+      "avgRating": 3.12254,
+      "releaseYear": "1998",
+      "numRatings": 1016,
+      "posterPath": "/nAGRLwJC0jv7QlfJR6y32xRZqcF.jpg"
+   }
+}

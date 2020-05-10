@@ -1,0 +1,539 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "beach",
+            "id": 966
+         },
+         {
+            "name": "taxi driver",
+            "id": 1749
+         },
+         {
+            "name": "world war ii",
+            "id": 1956
+         },
+         {
+            "name": "radio",
+            "id": 2135
+         },
+         {
+            "name": "coney island",
+            "id": 9273
+         },
+         {
+            "name": "independent film",
+            "id": 10183
+         },
+         {
+            "name": "working class",
+            "id": 11935
+         },
+         {
+            "name": "binoculars",
+            "id": 158071
+         },
+         {
+            "name": "cigarette girl",
+            "id": 217880
+         },
+         {
+            "name": "radio plays",
+            "id": 221756
+         }
+      ],
+      "imdb_id": "tt0093818",
+      "video": false,
+      "title": "Radio Days",
+      "recommendations": [
+         12762,
+         28384,
+         11382,
+         15867,
+         10849,
+         8288,
+         8217,
+         11337,
+         22477,
+         19200,
+         11448,
+         22478,
+         9689,
+         5143,
+         9716,
+         10569,
+         11562,
+         11030,
+         2639,
+         9684
+      ],
+      "backdrop_path": "/wGqoTaC94JnXUYfnzbcwWtgLtAP.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 27,
+               "character": "Joe, the Narrator",
+               "gender": 2,
+               "credit_id": "53e5558f0e0a2628ce000242",
+               "name": "Woody Allen",
+               "profile_path": "/wpcOUlaszvJoVRf1yLbDtu7u4FI.jpg",
+               "id": 1243,
+               "order": 0
+            },
+            {
+               "cast_id": 1,
+               "character": "Sally White",
+               "gender": 0,
+               "credit_id": "52fe44489251416c9100b35d",
+               "name": "Mia Farrow",
+               "profile_path": "/kuLfS2jQOnfIOwCO7RHlwjDIERQ.jpg",
+               "id": 12021,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Biff Baxter",
+               "gender": 2,
+               "credit_id": "52fe44489251416c9100b365",
+               "name": "Jeff Daniels",
+               "profile_path": "/gai03gCu3DxMYxFympt7hUObpI5.jpg",
+               "id": 8447,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Communist Neighbor",
+               "gender": 2,
+               "credit_id": "52fe44489251416c9100b369",
+               "name": "Larry David",
+               "profile_path": "/nU0K1Z7HEFEkuLMQb1qDlZhDhij.jpg",
+               "id": 16376,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Crooner",
+               "gender": 2,
+               "credit_id": "52fe44489251416c9100b36d",
+               "name": "Todd Field",
+               "profile_path": "/34lDArSwBjHFXIfYnLQZWKTTab3.jpg",
+               "id": 5010,
+               "order": 4
+            },
+            {
+               "cast_id": 6,
+               "character": "Joe",
+               "gender": 2,
+               "credit_id": "52fe44489251416c9100b371",
+               "name": "Seth Green",
+               "profile_path": "/7ksgEtZZIhSkJmt7zMyVDOQfdxu.jpg",
+               "id": 13922,
+               "order": 5
+            },
+            {
+               "cast_id": 7,
+               "character": "Father",
+               "gender": 2,
+               "credit_id": "52fe44489251416c9100b375",
+               "name": "Michael Tucker",
+               "profile_path": "/7lUb6gwJLeSRUhJsKe9AVzxjzNG.jpg",
+               "id": 56695,
+               "order": 6
+            },
+            {
+               "cast_id": 8,
+               "character": "Mother",
+               "gender": 1,
+               "credit_id": "52fe44489251416c9100b379",
+               "name": "Julie Kavner",
+               "profile_path": "/tVOau491aJlI8vNaksykiURPbDN.jpg",
+               "id": 199,
+               "order": 7
+            },
+            {
+               "cast_id": 9,
+               "character": "Rocco",
+               "gender": 2,
+               "credit_id": "52fe44489251416c9100b37d",
+               "name": "Danny Aiello",
+               "profile_path": "/UvPalkz4ynJJrTcrbpfD05gVoO.jpg",
+               "id": 1004,
+               "order": 8
+            },
+            {
+               "cast_id": 10,
+               "character": "\"Silver Dollar\" Emcee",
+               "gender": 2,
+               "credit_id": "52fe44489251416c9100b381",
+               "name": "Tony Roberts",
+               "profile_path": "/iyJWLl7vKNaEnhKu0CsAu4iRgsA.jpg",
+               "id": 10555,
+               "order": 9
+            },
+            {
+               "cast_id": 12,
+               "character": "Masked Avenger",
+               "gender": 2,
+               "credit_id": "52fe44489251416c9100b38b",
+               "name": "Wallace Shawn",
+               "profile_path": "/oGE6JqPP2xH4tNORKNqxbNPYi7u.jpg",
+               "id": 12900,
+               "order": 10
+            },
+            {
+               "cast_id": 13,
+               "character": "Latin Bandleader",
+               "gender": 2,
+               "credit_id": "52fe44489251416c9100b38f",
+               "name": "Tito Puente",
+               "profile_path": "/uTv318kjIvDlarvBz5z5wIRL5Mw.jpg",
+               "id": 165818,
+               "order": 11
+            },
+            {
+               "cast_id": 16,
+               "character": "Aunt Bea",
+               "gender": 1,
+               "credit_id": "52fe44489251416c9100b39f",
+               "name": "Dianne Wiest",
+               "profile_path": "/sWm7Oar69rHGJzKgcP4iutwUmLb.jpg",
+               "id": 1902,
+               "order": 12
+            },
+            {
+               "cast_id": 17,
+               "character": "Aunt Ceil",
+               "gender": 1,
+               "credit_id": "52fe44489251416c9100b3a3",
+               "name": "Renée Lippin",
+               "profile_path": "/3IYFT7bhlRA7BBxuLR1l5SNCw3q.jpg",
+               "id": 199385,
+               "order": 13
+            },
+            {
+               "cast_id": 18,
+               "character": "Uncle Abe",
+               "gender": 2,
+               "credit_id": "52fe44489251416c9100b3a7",
+               "name": "Josh Mostel",
+               "profile_path": "/jVG0WNJrTDEwETCDfoz0KxZ4vTd.jpg",
+               "id": 33489,
+               "order": 14
+            },
+            {
+               "cast_id": 19,
+               "character": "Radio singer",
+               "gender": 0,
+               "credit_id": "52fe44489251416c9100b3ab",
+               "name": "Kitty Carlisle",
+               "profile_path": "/i1Zf471Cjxvr9mB9sy7Bdw2aYiv.jpg",
+               "id": 121019,
+               "order": 15
+            },
+            {
+               "cast_id": 20,
+               "character": "Teacher in snowman scene",
+               "gender": 0,
+               "credit_id": "52fe44489251416c9100b3af",
+               "name": "Roberta Bennett",
+               "profile_path": null,
+               "id": 1161045,
+               "order": 16
+            },
+            {
+               "cast_id": 21,
+               "character": "Miss Gordon",
+               "gender": 0,
+               "credit_id": "52fe44489251416c9100b3b3",
+               "name": "Sydney A. Blake",
+               "profile_path": null,
+               "id": 1161046,
+               "order": 17
+            },
+            {
+               "cast_id": 22,
+               "character": "Rocco's mother",
+               "gender": 1,
+               "credit_id": "52fe44489251416c9100b3b7",
+               "name": "Gina DeAngeles",
+               "profile_path": null,
+               "id": 1161047,
+               "order": 18
+            },
+            {
+               "cast_id": 23,
+               "character": "Child singer",
+               "gender": 0,
+               "credit_id": "52fe44489251416c9100b3bb",
+               "name": "Danielle Ferland",
+               "profile_path": null,
+               "id": 1161048,
+               "order": 19
+            },
+            {
+               "cast_id": 24,
+               "character": "Mrs. Waldbaum",
+               "gender": 1,
+               "credit_id": "52fe44489251416c9100b3bf",
+               "name": "Judith Malina",
+               "profile_path": "/qOCwxL5hYhxdl0J1VJDh62mjLR6.jpg",
+               "id": 119864,
+               "order": 20
+            },
+            {
+               "cast_id": 25,
+               "character": "Cousin Ruthie",
+               "gender": 0,
+               "credit_id": "52fe44489251416c9100b3c3",
+               "name": "Joy Newman",
+               "profile_path": null,
+               "id": 1161050,
+               "order": 21
+            },
+            {
+               "cast_id": 26,
+               "character": "New Year's Eve Singer",
+               "gender": 1,
+               "credit_id": "52ff8850c3a3680f1724deb7",
+               "name": "Diane Keaton",
+               "profile_path": "/fzgUMnbOkxC6E3EFcYHWHFaiKyp.jpg",
+               "id": 3092,
+               "order": 22
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe44489251416c9100b387",
+               "name": "Woody Allen",
+               "profile_path": "/wpcOUlaszvJoVRf1yLbDtu7u4FI.jpg",
+               "id": 1243,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44489251416c9100b395",
+               "name": "Woody Allen",
+               "profile_path": "/wpcOUlaszvJoVRf1yLbDtu7u4FI.jpg",
+               "id": 1243,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5719512ec3a3683f0d0000e0",
+               "name": "Santo Loquasto",
+               "profile_path": null,
+               "id": 23966,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5851998f9251411a46018e98",
+               "name": "Susan E. Morse",
+               "profile_path": null,
+               "id": 10440,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "590dc65f9251414e8900eba0",
+               "name": "Carlo Di Palma",
+               "profile_path": "/i9bOfpLR2V68gGYv0yqJkjF6qiT.jpg",
+               "id": 15194,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59a09469c3a36847f601991c",
+               "name": "Robert Greenhut",
+               "profile_path": null,
+               "id": 3658,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59a0947c925141775b019fa9",
+               "name": "Speed Hopkins",
+               "profile_path": null,
+               "id": 961164,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59a09494c3a368481e01a216",
+               "name": "Jeffrey Kurland",
+               "profile_path": null,
+               "id": 6348,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59a094afc3a36847f6019967",
+               "name": "Michael Moyse",
+               "profile_path": null,
+               "id": 1877122,
+               "department": "Sound",
+               "job": "Sound Editor"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Music",
+            "id": 10402
+         }
+      ],
+      "popularity": 6.592608,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 30890,
+      "vote_count": 161,
+      "budget": 16000000,
+      "overview": "The Narrator (Woody Allen) tells us how the radio influenced his childhood in the days before TV. In the New York City of the late 1930s to the New Year's Eve 1944, this coming-of-age tale mixes the narrator's experiences with contemporary anecdotes and urban legends of the radio stars.",
+      "similar": [
+         369885,
+         16869,
+         5925,
+         2253,
+         613,
+         637,
+         14574,
+         857,
+         423,
+         424,
+         228150,
+         374720,
+         289222,
+         1251,
+         11287,
+         853,
+         1771,
+         339259,
+         13813,
+         152760
+      ],
+      "original_title": "Radio Days",
+      "runtime": 90,
+      "poster_path": "/mrLXdWckkIYpAUZPRXNiDGnIrO2.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": "/wOMD2jDmY6wU2oScXOEgq9hqeNN.png",
+         "name": "Orion Pictures",
+         "id": 41,
+         "origin_country": ""
+      }],
+      "release_date": "1987-01-30",
+      "vote_average": 7.1,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Woody Allen"],
+      "runtime": 88,
+      "synopsis": null,
+      "writers": ["Woody Allen"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0093818/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTYwNDg1NDYzOF5BMl5BanBnXkFtZTcwMDIwMzg4NA@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Mia Farrow, Dianne Wiest, Mike Starr | See full cast and crew »"],
+      "reviews": [
+         "Radio Days has got to be one of my absolute favorite films of all time. To me, it's a film that balances story, characters and atmosphere better than just about any other. It's truly a great work of art, and a very, very underrated one. The best thing about it is how Allen's love for his subject, the romantic nostalgia he feels, translates so eloquently to the screen. You've also got to hand it to the cast. Diane Weist, Julie Kavner, Mia Farrow, Josh Mostel, a briefly-glimpsed Jeff Daniels, and a young Seth Green all give great performances that are right out of the period, yet instantly recognizable. Allen had Santo Loquasto, his art director, do a bang-up job on creating the world of early-1940s Rockaway, New York, and Jeffrey Kurland's costumes help immensely. Particularly note-worthy is Carlo Di Palma's stunning cinematography. The colours, the smoky nightclubs and soundstages, the dimly-lit nighteries and the dazzling rooftop set come to life like few sets do in films. And then there's the music. That dazzling array of classic music, from one of the best periods for it in American history. Allen's decision to use only music from that time might sound cliche, but he's definatly justified here. And there's always the Radio Show Themes piece by Dick Hyman (I'm always by that name) that accompanies many of the scenes. That piece of music alone is worth seeing the film. As you can probably tell, I love this film simply for the fact that it's such a charming, enchanting, beautiful film. It's one I'd show my children, even the nude dancing scene, had I any children to show it to. Woody Allen's turn in the films he's made lately (as of 2003) are, to me, pretty depressing and perverse, with none of the charm, life and humor that works like Radio Days symbolize, Sweet and Lowdown notwithstanding. Hopefully, more films like this gem are on the horizon.",
+         "This movie shouts one word: WARMTH. The colors, the plot, the characters, they are all wonderfully warm. I've watched this movie with senior citizens who were around in the forties. I once watched it with a Jewish guy who grew up on Long Island (albeit in the early 30's, not the 40's). All comments were the same: THIS was life in New York during wartime. Vietnam was my war, so this era was a mystery to me. However, any time a genius like Woody Allen can create a film that not only makes me and my rowdy friends laugh, but gets guffaws from my dear old Mom as well, it deserves a little fanfare. I didn't even mention the solid gold music. See this film at once!",
+         "Radio Days (1987)- written, directed, and narrated by Allen: What a beautiful, kind, gentle, ironic, warm, sentimental (in a very good way and yes, I am talking about Woody Allen's movie, that's right) yet perfectly balanced delight. It is a series of sketches about young Joe (young Allen, of course, played by Seth Green - that was a surprise), an adolescent in Brooklyn, NY during 1930s-1940s who was passionately in love with radio which was a king. The film is a tribute to the magical radio days and the myths and legends about radio personalities, the memory of a grown man who never forgot where he came from, the love letter to his always fighting and arguing (\"I mean, how many people argue over oceans?\") but loving relatives and a very funny comedy (the way only Allen's comedy can be). It is the film where pretty like a doll and painfully naive Sally (Mia Farrow) asks who Pearl Harbor is? Where gorgeous Diane Keaton sings and Diane Wiest, his beloved Aunt Bea never gives up hope of one true love. He never told us if she found it... \"I never forgot that New Year's Eve when Aunt Bea awakened me to watch 1944 come in. I've never forgotten any of those people or any of the voices we would hear on the radio. Though the truth is, with the passing of each New Year's Eve, those voices do seem to grow dimmer and dimmer.\" The Radio days are gone but thanks to Allen, the voices of the times passed are still clear and sound and they always will be. 9/10",
+         "If you are looking for the normal amount of big laughs from a Woody Allen film, then you will be disappointed here. It's not that kind of film. I was anything but disappointed, but I knew what the film was all about before I saw it. Actually, what drew me to it was that I had read where this was a wonderful visual film, filled with rich colors and great set designs. It did not let me down. This is a great visual tribute to the 1940s, to be exact from 1938 to 1944. A real treat for the eyes. The story centers around a Jewish family in Queens and the importance that radio shows had in that day-and-age. Also profiled in here are some of those radio performers. It does have laughs but not as many as the normal Allen movie because the idea of this is simply to be a nostalgic piece, mainly Allen's tribute to his own family days of growing up, what it was like around his house. It was interesting to see Seth Green playing Woody as a youngster with flaming red hair. The most interesting person, however, was Diane Wiest who played a man-chasing sister-in-law. The film gives you a real flavor of the period, of New York and of a Jewish family. Overall, it's simply a nice film....and gorgeous to look at. Sometimes I think some of Allen's work is overrated but, boy, here is one that is definitely underrated.",
+         "This is a wonderful wonderful movie that exemplifies the phrase, \"misty watercolored memories.\" It is a joy to watch and listen to. The era before and during WWII, however, was anything but wonderful. Radio Days presents a time when America was dealing with the Great Depression and its after effects and the horrible event that was World War II. Since the man narrating the memories was only a boy then, it is altogether fitting and proper that he see things as a child; for as he states in one scene, \"our conversation turned from Nazis to more important things,like girls.\" No movies, except this one, that I recall, are able to deal with this critical age in American history without conveying the tragic time that it was. I would like to think this family was really Woody Allen's, but it is probably a work of fiction, like his other pieces. But how tremendous that he can create (or remember) these people. As I watched it, one thought that kept recurring was that these were not \"beautiful\" manufactured people like we see in the media today; they had big hips and were fat and poor and... and none of that mattered. They were real. They were believable. You can't watch this movie without wondering what happened to them, did Aunt Bee find a husband? You cared about this family and personally, I wished they were mine. The vignettes were sad and sweet. My favorite was poor departed Kirby Kyle; at least he had heart! And Leonard; and \"donations for the promotion of a state in Palestine.\" So many memories that make us a part of a family most people never had. The viewer belongs to this warm and loving group. Something has been lost with the concept of \"nuclear family,\" with the lonely big houses and empty hours and unshared hopes and sorrows. Radio Days reminds us that having someone to experience life with is a treasure and a blessing, despite whacks on the head, martians, and fish, \"That man always brings home fish!\" And oh, the music! This is Woody Allen's masterpiece.",
+         "I thought I was being original when I made the connection between Woody Allen's \"Radio Days\" and Federico Fellini's \"Amarcord,\" but I was being naive. The parallels are so transparent it is of no surprise that most of the IMDB reviewers (and I imagine those others as well) caught the similarity. And it's a good similarity - \"Radio Days\" is as successful in transporting the viewer to a different place and time as \"Amarcord\" was. It also cements my conclusion that Woody Allen is the only director who \"spoofs\" great art films and artistic styles, confirmed by his tributes to Ingmar Bergman and German Expressionists. All that aside, \"Radio Days\" is, second of all, a look at Allen's childhood memories weaved together by radio. It's the story of his family (his large and extended family and neighborhood personages), their likes, dislikes, relationships and favorite radio shows. They are inextricably connected as genetic members of a family, but also more intangibly linked by radio broadcasts, to which they listen to individually as well as collectively. They have favorite songs and shows - each favorite reflecting the personality of a given character. They also share great love for one another, though they quibble like all human beings do. In fact, that tender quibbling, love and loss and understanding is what makes Allen's characters come to life so successfully - no wonder he speaks of them with warmth. What \"Radio Days\" is about first of all and foremost, is nostalgia. The film would only be a heartwarming family tale and nothing more if it were not \"recollected\" by Woody Allen, the narrator. His role in the film (in which he never physically appears) is that of a story-teller. He transports the audience to his memories consciously, mixing present reflections with the unadulterated spirit of his memories. And it is he, not the characters in the film as much, who experiences the nostalgia, the central theme of \"Radio Days.\" In narrating his memories, Allen is able to distance himself from them temporally. He is telling a tale that borders on fantasy, such as that on whose form nostalgic memories take place. There is a bittersweet yearning for the past and a realization that memories must inevitably fade, change, yield to time's destructiveness. Re-telling them not only reveals how one thinks life once was (usually painted over with warmth and pleasantness), but also oneself and the knowledge that these times are no longer physically accessible. How we recollect our past tells us of us as much as it does of the past. In \"Radio Days\" that past is warm and Allen's yearning for that warmth and childish innocence is what pervades the film so well giving it its nostalgic quality. And nostalgia, the film seems to suggest, is a feeling worth experiencing. If one can glance back at his life and feel a longing towards the past, a warmth emanating from his memories, then he remembers life as having been kind to him. Even if the details flee from the mind (as they inevitably do) and only the feelings inspired by hazy memories remain. And that, if nothing else, is not only comforting, but also meaningful.",
+         "In preface, let me say that I was born at the tail-end of the \"golden age of radio,\" but just in time to experience a touch of its magic and the hold it had on households night after night in that pre-TV era. Add to that a favorite aunt who had worked in radio for years on the West Coast and who regaled her nephew with story upon story, which in turn led to the years I later spent in radio (luckily, prior to the \"formula radio\" days). It all adds up to my absolutely having to go see \"Radio Days\" when it first came out, despite the fact that I'd never been the world's foremost Woody Allen fan. Too much of his work, for me, lacked that indefinable but oh so recognizable element of \"heart.\" Well, I was wrong about Woody. This film shows it. Autobiographical -- or perhaps semi-autobiographical -- in nature, \"Radio Days\" evokes the time when people returned \"to those thrilling days of yesteryear,\" and for whom, quite probably, it was equally thrilling to contemplate the magic of a box in their living room that could cause them to \"watch\" the stories unfold in their minds. \"Remotes,\" or on-the-spot broadcasts transported them to the scene of unfolding tragedies or triumphs in a way that newspapers never could (and which TV, for all its advantages, rarely matches). And yet the film, for all its authenticity in recreating studio practices (watch, for example, how the actors drop completed script pages onto the floorrather than turning them and risking a tell-tale rustle of paper), isn't really so much about radio itself as it is about the people who listened, as personified by one raucous, cantankerous and loving Brooklyn family. Beautifully evoked, particularly by Julie Kavner (Mother), Michael Tucker (Father), and the incomparable Dianne Wiest (as the perenially lovelorn Aunt Bea), it is their reactions to what they hear on the radio -- whether listening breathlessly to the war news (at a time when the end result was anything but certain) or Bea's abandonment in the middle of nowhere by a panicked suitor as Orson Welles' \"War of the Worlds\" broadcast takes hold -- that bring to life the era and the power of that medium. Standouts? The whole cast is perfect, but for me, in addition to those previously mentioned, I have to cit Mia Farrow's portrayal of the dim-bulbed Sally White, who transforms herself with the aid of speech lessons into a radio personality. (For that matter, catch Danny Aiello as a less-than-brilliant hitman, particularly his scenes with Dina DeAngeles as his mom.) Criticisms? One: At the end of a poignant scene in which young Joe has finally discovered what his dad does for a living, Allen insists on falling into some standby \"schtick\" in his voiceover. (I guess he couldn't resist; thankfully, it doesn't ruin the moment.) Ultimately, of course, it is the era itself that this film celebrates. Faithfully, and lovingly, it is recreated with a skill that points up its absurdities at the same time it makes one hopefully nostalgic. And, if you're not very careful, you wind up falling hopelessly in love with this funny, obscure Brooklyn family. And to the end of my days, I'll always wonder whether poor Aunt Bea ever did find her \"Mr. Right\" . . .",
+         "Woody's best \" memory\" piece has great set designs, a sad and funny script and the usual great, well chosen cast, including a very young Seth Green playing Allen as a boy. Diane Wiest and Julie Kavner excel strongly in the female leads, Allen's voice narrates the whole picture, and Mia Farrow squeaks deliciously as a bimbo cigarette girl who gets a culture make-over. This is the only Allen movie that both Farrow and Diane Keaton appear in (she has a very brief cameo singing a song in a night club.) The final scene on top of the roof is almost bittersweet, altho it is nice to see a landscape filled with wide eyed people, before the world was dominated by television. The story becomes even more poignant as you age. Watch it repeatedly over different stages of your life...",
+         "In my opinion, Radio Days is right up there with Annie Hall though it's different in that it's following several people's lives. Woody doesn't act in this, but his narration is excellent. He takes the wonderful old songs and commercials from that time and weaves them into the story. I was completely captivated. It's not a \"laugh a minute\" type film, but it also gets you thinking. Nevertheless, it has some hilarious scenes. Check out the Jewish fasting holiday scene. I've watched it at least 6 times and I still laugh. Also the scene with Mia Farrow's character was superb. One of my favorite lines is when she tells a top radio producer in her high-pitched nasal voice, \"Jeez. We can't keep meeting like this. In the backs of cars, movie theaters and stalled elevators. You're gonna lose your respect for me!\" I love this film.",
+         "RADIO DAYS is one of Woody Allen's most underrated comedies, a fond look back to the days of radio and its effects on his family. Set against long-forgotten radio programs, hit songs, and the coming of World War II, we get two narrative threads. The Rockaway family dealing with everyday issues in a series of vignettes, and the fictional life of Sally White (Mia Farrow) as she rises from cigarette girl to glittering radio star. The cast is excellent. Farrow has a solid role as the Brooklyn girl with the Judy Holliday voice who battles her way toward upward mobility. Julie Kavner and Michael Tucker are terrific as the parents. Dianne Wiest is sweet as Aunt Bea, always on the lookout for true love. Seth Green plays Woody as a kid. Diane Keaton and Kitty Carlisle show up as singers. Josh Mostel and Renee Lippin are hilarious as the aunt and uncle. Wallace Shawn has a funny bit as the \"Masked Avenger.\" Other notables include Richard Portnow as Si, Kenneth Mars as the rabbi, Larry David as the crazed neighbor, Jeff Daniels and William H. Macy as radio actors, Tony Roberts as the game show host, Danny Aiello as the gangster, and a special kudo for the hilarious Gina DeAngelis as his mother. Highlights include Bea's date on the night of Orson Welles' famous radio program about a Martian invasion, and the poignant episode about the live radio coverage of a girl who's fallen down a well. The film also takes nostalgic looks at radio serials, quiz programs, and comedy shows. The film perfectly captures the middle class neighborhood of Allen's youth. The interiors are beautifully done (Santo Loquasto), and very memorable is the awe-inspiring visit to Radio City Music Hall with its dimmed lights, lush carpets, and warm red-and-gold tones. There is also a parade oh hit songs of the day that include \"September Song,\" \"Tico Tico,\" \"Mairzy Doats,\" \"South American Way,\" \"Pistol Packin' Mama,\" \"If I Didn't Care,\" and so many others. A final word for the many actors and actresses in small parts who make this movie feel so right. Many have walk-ons or have only a line or two but they add the perfect touch and help recreate Woody Allen's beloved New York City."
+      ],
+      "genres": ["Comedy"],
+      "productionCompanies": ["Orion Pictures"],
+      "summaries": [
+         "Woody Allen's sentimental reminiscence about the golden age of radio. A series of vignettes involving radio personalities is intertwined with the life of a working class family in Rockaway Beach, NY circa 1942.",
+         "Several generations of a family packed into a pre-War Rockaway house always have the radio on. The fearless Masked Avenger, breakfast-show socialites (and philanderers) Roger and Irene, and Sally the Cigarette Girl are almost important as, say, whether the Pacific is a better ocean than the Atlantic, or even what your dad actually does for a living.",
+         "A nostalgic look at radio's golden age focusing on one ordinary family and the various performers in the medium."
+      ],
+      "budget": 16000000
+   },
+   "movielensId": 2750,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1987-01-30",
+      "dvdReleaseDate": "2001-10-02",
+      "directors": ["Woody Allen"],
+      "runtime": 90,
+      "movieId": 2750,
+      "title": "Radio Days",
+      "mpaa": "",
+      "actors": [
+         "Woody Allen",
+         "Mia Farrow",
+         "Jeff Daniels",
+         "Larry David",
+         "Todd Field",
+         "Seth Green",
+         "Michael Tucker",
+         "Julie Kavner",
+         "Danny Aiello",
+         "Tony Roberts",
+         "Wallace Shawn",
+         "Tito Puente",
+         "Dianne Wiest",
+         "Renée Lippin",
+         "Josh Mostel",
+         "Kitty Carlisle",
+         "Roberta Bennett",
+         "Sydney A. Blake",
+         "Gina DeAngeles",
+         "Danielle Ferland",
+         "Judith Malina",
+         "Joy Newman",
+         "Diane Keaton"
+      ],
+      "imdbMovieId": "0093818",
+      "originalTitle": "Radio Days",
+      "genres": [
+         "Comedy",
+         "Drama"
+      ],
+      "youtubeTrailerIds": ["VCb6-Nz0Nkg"],
+      "plotSummary": "The Narrator (Woody Allen) tells us how the radio influenced his childhood in the days before TV. In the New York City of the late 1930s to the New Year's Eve 1944, this coming-of-age tale mixes the narrator's experiences with contemporary anecdotes and urban legends of the radio stars.",
+      "tmdbMovieId": 30890,
+      "avgRating": 3.71177,
+      "releaseYear": "1987",
+      "numRatings": 2413,
+      "posterPath": "/mrLXdWckkIYpAUZPRXNiDGnIrO2.jpg"
+   }
+}

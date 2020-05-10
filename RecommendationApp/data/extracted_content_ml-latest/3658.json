@@ -1,0 +1,682 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "paleontology",
+            "id": 1719
+         },
+         {
+            "name": "riot",
+            "id": 2187
+         },
+         {
+            "name": "spaceship",
+            "id": 9831
+         },
+         {
+            "name": "martian",
+            "id": 10539
+         },
+         {
+            "name": "cult film",
+            "id": 34117
+         },
+         {
+            "name": "hammer horror",
+            "id": 155730
+         }
+      ],
+      "imdb_id": "tt0062168",
+      "video": false,
+      "title": "Quatermass and the Pit",
+      "recommendations": [
+         24580,
+         3104,
+         39891,
+         31965,
+         39043,
+         29778,
+         18250,
+         28763,
+         29049,
+         28498,
+         18990,
+         17212,
+         16387,
+         42594,
+         28801,
+         26680,
+         17102,
+         17965,
+         3079,
+         39899
+      ],
+      "backdrop_path": "/8Yr62vCEsEaXHFQyGD124pIEwRY.jpg",
+      "revenue": 0,
+      "reviews": [{
+         "author": "John Chard",
+         "id": "54249d700e0a263b81004424",
+         "content": "Creepy, interesting, above all else...intelligent. \r\n\r\nWhilst excavating at the site of a new underground tube station, workers unearth a mysterious object. On to the case comes Professor Quatermass who deduces that the object is Martian in origin. Initially viewed with scorn and disbelief, it becomes apparent that the Martian race have been involved in the human race before, and now they have been awoken again. \r\n\r\nThis was the third Hammer film adaptation of Nigel Kneale's BBC-TV Quatermass serial, with previous entries being The Quatermass Experiment & Quatermass 2. This to me, tho, is undoubtedly the shining light of the bunch. Chiefly what works the best in this one is the wonderful fusion of mystery and intelligence, the eerie sense of dread only off set by a yearning to find out just what has happened? And more crucially, what will happen? Building up perfectly, courtesy of Roy Ward Baker's astutely paced direction, Quatermass And The Pit is a film that just begs you to pay attention to every little detail, each conversation is fully fleshing out this most intriguing story. Then there is the finale that pays off handsomely, to hint at what is involved would result in a spoiler of sorts, and really it would be stupid of me to prepare you for the film's closure.\r\n\r\nSee it because it's one of the best genre entries of the 60s, a must for sci-fi enthusiasts that like a bit of brains to go with their genre persuasion. 8.5/10",
+         "url": "https://www.themoviedb.org/review/54249d700e0a263b81004424"
+      }],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Dr. Mathew Roney",
+               "gender": 2,
+               "credit_id": "52fe4520c3a368484e04a10f",
+               "name": "James Donald",
+               "profile_path": "/37GWNFPrHxo6RZf8uY0bdk47BD8.jpg",
+               "id": 12250,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Prof. Bernard Quatermass",
+               "gender": 2,
+               "credit_id": "52fe4520c3a368484e04a113",
+               "name": "Andrew Keir",
+               "profile_path": "/gqxY1NokQGEQtT2O5Rwud44FqO2.jpg",
+               "id": 53815,
+               "order": 1
+            },
+            {
+               "cast_id": 12,
+               "character": "Barbara Judd",
+               "gender": 1,
+               "credit_id": "52fe4520c3a368484e04a147",
+               "name": "Barbara Shelley",
+               "profile_path": "/bbXreQVClYnvutl4HzpvQZ8lVIk.jpg",
+               "id": 101478,
+               "order": 2
+            },
+            {
+               "cast_id": 13,
+               "character": "Colonel Breen",
+               "gender": 2,
+               "credit_id": "52fe4520c3a368484e04a14b",
+               "name": "Julian Glover",
+               "profile_path": "/2sQWrB4of8O2k7DGwJ3OdGJi2Mj.jpg",
+               "id": 740,
+               "order": 3
+            },
+            {
+               "cast_id": 14,
+               "character": "Sladden",
+               "gender": 2,
+               "credit_id": "52fe4520c3a368484e04a14f",
+               "name": "Duncan Lamont",
+               "profile_path": "/xIGr7HDfHlZoIB4K0amQO3uimoK.jpg",
+               "id": 29659,
+               "order": 4
+            },
+            {
+               "cast_id": 15,
+               "character": "Captain Potter",
+               "gender": 2,
+               "credit_id": "52fe4520c3a368484e04a153",
+               "name": "Bryan Marshall",
+               "profile_path": "/ouTQOZJg7gZ97c9EIZ0or8APF0q.jpg",
+               "id": 76184,
+               "order": 5
+            },
+            {
+               "cast_id": 16,
+               "character": "Howell",
+               "gender": 2,
+               "credit_id": "52fe4520c3a368484e04a157",
+               "name": "Peter Copley",
+               "profile_path": "/yZ3iZ0ujEFWUvXygtZSOshnxPdR.jpg",
+               "id": 28482,
+               "order": 6
+            },
+            {
+               "cast_id": 31,
+               "character": "Minister",
+               "gender": 2,
+               "credit_id": "5764cb30c3a36818db000259",
+               "name": "Edwin Richfield",
+               "profile_path": null,
+               "id": 184981,
+               "order": 7
+            },
+            {
+               "cast_id": 18,
+               "character": "Police Sergeant Ellis",
+               "gender": 2,
+               "credit_id": "52fe4520c3a368484e04a15f",
+               "name": "Grant Taylor",
+               "profile_path": null,
+               "id": 89771,
+               "order": 8
+            },
+            {
+               "cast_id": 19,
+               "character": "Sergeant Cleghorn",
+               "gender": 0,
+               "credit_id": "52fe4520c3a368484e04a163",
+               "name": "Maurice Good",
+               "profile_path": null,
+               "id": 114533,
+               "order": 9
+            },
+            {
+               "cast_id": 20,
+               "character": "Jerry Watson",
+               "gender": 2,
+               "credit_id": "52fe4520c3a368484e04a167",
+               "name": "Robert Morris",
+               "profile_path": "/ocTxbJHVEfYrxIJiXBIuSxrHpCg.jpg",
+               "id": 30420,
+               "order": 10
+            },
+            {
+               "cast_id": 39,
+               "character": "Journalist",
+               "gender": 0,
+               "credit_id": "5904a57892514169d000cf0c",
+               "name": "Sheila Steafel",
+               "profile_path": null,
+               "id": 96180,
+               "order": 11
+            },
+            {
+               "cast_id": 40,
+               "character": "Sapper West",
+               "gender": 0,
+               "credit_id": "5904a59f92514169d000cf3a",
+               "name": "Hugh Futcher",
+               "profile_path": null,
+               "id": 1231171,
+               "order": 12
+            },
+            {
+               "cast_id": 41,
+               "character": "Elderly Journalist",
+               "gender": 0,
+               "credit_id": "5904a5cac3a3684a8e00c608",
+               "name": "Hugh Morton",
+               "profile_path": null,
+               "id": 134144,
+               "order": 13
+            },
+            {
+               "cast_id": 42,
+               "character": "Vicar",
+               "gender": 2,
+               "credit_id": "5904a5e792514169e100d380",
+               "name": "Thomas Heathcote",
+               "profile_path": null,
+               "id": 13332,
+               "order": 14
+            },
+            {
+               "cast_id": 43,
+               "character": "Abbey Librarian",
+               "gender": 0,
+               "credit_id": "5904a60bc3a3684a7600c619",
+               "name": "Noel Howlett",
+               "profile_path": "/rMwMT71awpHUBSyXJO4yvhIuKCd.jpg",
+               "id": 47383,
+               "order": 15
+            },
+            {
+               "cast_id": 44,
+               "character": "Pub Customer",
+               "gender": 0,
+               "credit_id": "5904a63bc3a3684ab400d745",
+               "name": "Hugh Manning",
+               "profile_path": null,
+               "id": 1231604,
+               "order": 16
+            },
+            {
+               "cast_id": 45,
+               "character": "Blonde",
+               "gender": 1,
+               "credit_id": "5904a65892514169e100d3d6",
+               "name": "June Ellis",
+               "profile_path": null,
+               "id": 229365,
+               "order": 17
+            },
+            {
+               "cast_id": 46,
+               "character": "Johnson",
+               "gender": 0,
+               "credit_id": "5904a673c3a3684a4e00d44f",
+               "name": "Keith Marsh",
+               "profile_path": null,
+               "id": 80498,
+               "order": 18
+            },
+            {
+               "cast_id": 47,
+               "character": "Corporal Gibson",
+               "gender": 0,
+               "credit_id": "5904a69892514169c000d2e5",
+               "name": "James Culliford",
+               "profile_path": null,
+               "id": 1230544,
+               "order": 19
+            },
+            {
+               "cast_id": 48,
+               "character": "Miss Dobson",
+               "gender": 1,
+               "credit_id": "5904a6b092514169fb00d80d",
+               "name": "Bee Duffell",
+               "profile_path": "/5Oq2NUwE0N9LtF9Qf8dokUnHGgP.jpg",
+               "id": 18760,
+               "order": 20
+            },
+            {
+               "cast_id": 49,
+               "character": "Electrician",
+               "gender": 0,
+               "credit_id": "5904a6e2c3a3684a7600c699",
+               "name": "Roger Avon",
+               "profile_path": null,
+               "id": 47386,
+               "order": 21
+            },
+            {
+               "cast_id": 50,
+               "character": "Technical Officer",
+               "gender": 0,
+               "credit_id": "5904a73592514169fb00d86f",
+               "name": "Brian Peck",
+               "profile_path": null,
+               "id": 1256730,
+               "order": 22
+            },
+            {
+               "cast_id": 51,
+               "character": "Inspector",
+               "gender": 0,
+               "credit_id": "5904a7b592514169d800d333",
+               "name": "John Graham",
+               "profile_path": null,
+               "id": 1407365,
+               "order": 23
+            },
+            {
+               "cast_id": 52,
+               "character": "Newsvendor",
+               "gender": 0,
+               "credit_id": "5904a801c3a3684a6800d1c7",
+               "name": "Charles Lamb",
+               "profile_path": null,
+               "id": 1482567,
+               "order": 24
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4520c3a368484e04a119",
+               "name": "Roy Ward Baker",
+               "profile_path": "/3PbMTK2lEDov0vmEOPLICJhIeMG.jpg",
+               "id": 26134,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4520c3a368484e04a11f",
+               "name": "Nigel Kneale",
+               "profile_path": null,
+               "id": 66202,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4520c3a368484e04a125",
+               "name": "Nigel Kneale",
+               "profile_path": null,
+               "id": 66202,
+               "department": "Writing",
+               "job": "Original Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4520c3a368484e04a131",
+               "name": "Arthur Grant",
+               "profile_path": null,
+               "id": 30138,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4520c3a368484e04a137",
+               "name": "Anthony Nelson Keys",
+               "profile_path": null,
+               "id": 29665,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4520c3a368484e04a13d",
+               "name": "Tristram Cary",
+               "profile_path": null,
+               "id": 43790,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4520c3a368484e04a143",
+               "name": "Les Bowie",
+               "profile_path": null,
+               "id": 18758,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 2,
+               "credit_id": "570b8a749251413627002e50",
+               "name": "Bernard Robinson",
+               "profile_path": null,
+               "id": 30139,
+               "department": "Art",
+               "job": "Supervising Art Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56e159a5c3a3680a2200254e",
+               "name": "Kenneth Ryan",
+               "profile_path": null,
+               "id": 1369403,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56e159c3c3a3680a22002553",
+               "name": "Sash Fisher",
+               "profile_path": null,
+               "id": 1569881,
+               "department": "Crew",
+               "job": "Sound Recordist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56e159d7c3a3680a2600255e",
+               "name": "Moray Grant",
+               "profile_path": null,
+               "id": 30761,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56e159ebc3a3680a29002606",
+               "name": "Irene Lamb",
+               "profile_path": null,
+               "id": 390,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56e15a1f925141087c002253",
+               "name": "Philip Martell",
+               "profile_path": null,
+               "id": 1588242,
+               "department": "Sound",
+               "job": "Music Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56e15a37c3a3680a0d00213c",
+               "name": "Roy Hyde",
+               "profile_path": null,
+               "id": 996046,
+               "department": "Sound",
+               "job": "Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56e15a51925141542900002d",
+               "name": "Pearl Tipaldi",
+               "profile_path": null,
+               "id": 30763,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5904a1efc3a3684af000bf7e",
+               "name": "James Needs",
+               "profile_path": null,
+               "id": 30172,
+               "department": "Editing",
+               "job": "Supervising Film Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5904a22892514169b800cc62",
+               "name": "Ian Lewis",
+               "profile_path": null,
+               "id": 1481301,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5904a24992514169d800cfa4",
+               "name": "Spencer Reeve",
+               "profile_path": null,
+               "id": 30418,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5904a268c3a3684ab400d460",
+               "name": "Bert Batt",
+               "profile_path": null,
+               "id": 21785,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5904a2fc92514169fb00d57c",
+               "name": "Doreen Dearnaley",
+               "profile_path": null,
+               "id": 1425845,
+               "department": "Directing",
+               "job": "Continuity"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5904a4a0c3a3684ad700d031",
+               "name": "Michael Morris",
+               "profile_path": null,
+               "id": 1806888,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5904a4d4c3a3684b0700bfdb",
+               "name": "Rosemary Burrows",
+               "profile_path": null,
+               "id": 101523,
+               "department": "Costume & Make-Up",
+               "job": "Wardrobe Supervisor"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Horror",
+            "id": 27
+         },
+         {
+            "name": "Science Fiction",
+            "id": 878
+         }
+      ],
+      "popularity": 3.897284,
+      "production_countries": [{
+         "iso_3166_1": "GB",
+         "name": "United Kingdom"
+      }],
+      "id": 26912,
+      "vote_count": 67,
+      "budget": 0,
+      "overview": "An ancient Martian spaceship is unearthed in London, and proves to have powerful psychic effects on the people around.",
+      "similar": [
+         348,
+         126889,
+         9659,
+         18,
+         602,
+         1091,
+         8810,
+         8077,
+         9355,
+         118340,
+         49849,
+         49529,
+         228161,
+         68179,
+         16866,
+         274870,
+         6795,
+         762,
+         30497,
+         2067
+      ],
+      "original_title": "Quatermass and the Pit",
+      "runtime": 97,
+      "poster_path": "/kgMCxzKx2ZUtN0UUyJR88vqpfT2.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": "/pi7SHIi3CNAyDUCt6Jpr1q9UW3t.png",
+         "name": "Hammer Film Productions",
+         "id": 1314,
+         "origin_country": "US"
+      }],
+      "release_date": "1967-11-09",
+      "vote_average": 6.4,
+      "belongs_to_collection": {
+         "backdrop_path": null,
+         "name": "Quatermass (Hammer series)",
+         "id": 123726,
+         "poster_path": "/skk1tmdHnvySB8kADEtoOActyOc.jpg"
+      },
+      "tagline": "World in panic! Cities in flames!",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "UK",
+      "color": "Color",
+      "budgetCurrency": "£",
+      "directors": ["Roy Ward Baker"],
+      "runtime": 97,
+      "synopsis": null,
+      "writers": [
+         "Nigel Kneale",
+         "Nigel Kneale"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0062168/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTQxNzY2NzkxNF5BMl5BanBnXkFtZTgwNjcwNTE1MjE@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: James Donald, Andrew Keir, Barbara Shelley | See full cast and crew »"],
+      "reviews": [
+         "Quatermass & the pit is one of the best movies made by Hammer studios, who are more usually associated with 1960s English horror films. The screenplay is by Nigel Kneale and is based on his 1950s 6-episode television mini-series of the same name. A mysterious object is unearthed during extension work on a London underground station, and although the authorities try to explain it away as an unexploded German weapon from WWII, the heroes (Professors Quatermass & Rowney) discover it is far more ancient and threatening. A horror/sf film which will appeal to thoughtful viewers. The plot is intelligent and the film is quite different to the modern style of blitzkrieg-action style thrillers. The acting and direction are faultless. Highly recommended.",
+         "This film is not your usual sci-fi monster from the deep or outer space but a story based on comprehensible logic - the suggestion that the human mind and it's psychic and sixth sense qualities was the result of alien intervention with our ancestral primates millions of years ago. Andrew Keir plays a fine role as the tweedy dressed sometimes gruff gentleman professor, Bernard Quatermass who teams up with equally amiable James Donald as Dr.Mathew Roney and his attractive female assistant Barbara Shelley as Barbara Judd to solve the riddle of a strange craft and several ape like skeletons unearthed during the reconstruction of an underground London railway station. At first thought to be an unexploded second world war missile an Army demolition team is brought in to disarm it, led by the bombastic single minded military thinking Colonel Breen played by Julian Glover who scoffs at the theories of the two scientists that this could be anything more than a German V weapon. The finding of large insect like creatures preserved within the hull of the craft and an analysis of their physical attributes leads Quatermass and Roney to conclude that they are Martians who along with their ape like passengers were killed as a result of a crash landing five million years beforehand. Quatermass also speculates that the apes had been previously taken from Earth to Mars and altered in order to give them Martian thinking characteristics which were then inherited by their human descendants. Breen dismisses the insect creatures as fakes and convinces his government superiors that the missile is safe, against the advice of Quatermass, Roney and Judd who have already discovered sinister awakenings within the craft after a workman dismantling his drill therein is seized upon by an invisible propelling force along with terrifying mental images. When the public and press are admitted to the site the craft comes to life generating a ghostly devil looking apparition, along with the now mind affected local population banding into groups and unleashing a killing spree on their own kind. Quatermass and Roney must now pool their scientific expertise to neutralize the menace and restore order. Nigel Kneale's compelling screenplay is sheer brilliance and gives this film a distinct and special uniqueness in the world of science fiction. A must see for the serious minded movie watcher.",
+         "Quatermass and the Pit is one of the finest of Hammer's vast and largely very fine oeuvre. Strangely, however, when you hear people speak of Hammer horror, this film rarely gets a mention, and that's a great injustice as it easily ranks up there with the best of them. The plot follows a group of construction workers that discover a plot of skeletons while extending London's subway station. This immediately attracts the attention of local scientists Mathew Roney and Barbara Judd, and later the man of the title; Dr Quatermass, who end up facing opposition from both the army and the press while trying to investigate the find. Where did the skeletons come from? How did they get there? And what's the meaning behind that bomb in the tunnel? All these questions and more are answered in Quatermass and the Pit. As you might expect, the film is very camp. The effects are truly ridiculous and very easy to laugh at; but they add to the fun and charm of the movie. The reason why Hammer Horror films succeed is that, despite being unpleasant at times, it's obvious that they were made with a lot of heart, and the good nature that went into making them always shines through. Unlike many horror (or Sci-Fi) films, however, this one actually bothers to pose some interesting questions and really gets you thinking. The normal idea behind alien based Sci-Fi is completely turned on it's head, and it makes for both an enjoyable and interesting, not to mention original movie. It's quite ingenious, in fact; much more so than many recent 'thought-provoking' movies. There is also quite a lot of the trademark British humour in the film, which is always nice to see. It's obvious that the film is meant to be tongue in cheek anyway, but it's always nice to have a few moments of laughter in there. Quatermass and the Pit is directed by Hammer Horror supremo Roy Ward Baker. When people think of Hammer directors, it's often Terrence Fisher that comes out on top; but Baker is by far my favourite. He's delivered the lovely Asylum, the ingenious Dr Jekyll and Sister Hyde, not to mention The Vampire Lovers; and now this. And that's only the ones that I've seen! Overall, this is an incredible movie. It's generous mix of horror, Sci-Fi and fantasy is truly refreshing and it makes for an interesting and enjoyable ride. I loved every minute of this film, and it easily ranks as one of the best Hammer Horror's that I've seen. Make sure you don't skip this one.",
+         "A lot of nonsense is written about the significance and meaning and quality of Hammer Films, whereas mostly they were pedestrian and derivative. There were some gems in their output and this film is one of them. The science may be wayward but it unfolds plausibly from the initial discovery of the thing in the pit to mayhem and madness in the streets of London. The opening credits are sparse and it goes straight into the story and never lets up. It has a clear narrative and each new discovery pushes the envelope of fear and amazement further out. There is no romantic interest (though I must declare the Miss Judd character is pretty darn attractive) to hold up the driving plot. If there is a fault it is that the story can scarcely contain the wealth of material that Nigel Kneale puts in the script. Presumably there isn't a longer director's cut in some film archive! With limited resources at hand the director, Roy Ward Baker, directs some great scenes, weird and strange and scary. He is served well by the acting of James Donald, Andrew Keir and Barbara Shelley, which is perfect for their roles. As the alien presence become stronger you believe it when it affects the characters. The scene at the pit where Miss Judd has her visions recorded is excellent. The special effects are varied but the green arthropods and the space ship look quite malevolent. The ending is great and somehow disquieting as the closing credits slowly roll. This is a good example of an interesting intelligent film, costing less than the catering budget of the elephantine mega-budget film we have these days, but much more effective and memorable.",
+         "Quatermass and the Pit is a genuinely great screenplay, one of the smartest sci-fi films ever written because it deals with interesting ideas rather than stock effects. There are a few of them, some good, some bad, and the budget isn't always enough for the ambition, but the ideas are what carry this one - tying in colonisation, evolution, race memories, the Devil, hauntings and other theories alongside military and government closed-mindedness into a cohesive intelligent whole by not going for the sensational but sitting to down to think, \"Now where could that belief in so many people have really come from?\" The conclusions may be outlandish, but the logic is rational and the treatment straightfaced, and once it builds up its head of steam, it's not just compelling but also a little bit worrying - particularly when civilisation starts to break down in an extremely violent way. Andrew Keir and James Donald are excellent and Barbara Shelley manages to be a convincing strong female lead in a genre that doesn't usually allow them and also to look really good in red jumper and Wellie boots! Powerful stuff and highly recommended - there really is a lot going on here, and it has a strong story sense to back it up. Just remember: \"We're the Martians now!\"",
+         "Brilliant writing motivates a suspenseful sci-fi satire with intelligent, but often over the top, acting. Aliens invaded the earth thousands of years ago, and left behind their hatred and evil as a sort of gift to our race. One of the only films to successfully negotiate the fascinating territory between science fiction and the supernatural -- or, science and religion. Good suspense held up by a fast plot that reveals just enough to keep you interested. Poor production values -- the monsters in the film are truly laughable, which may hurt its reception by the younger crowd.",
+         "I first saw this film when I was about 7. Although we lived in the Central region I saw this on HTV. My memory of it is there for fuzzy. I have seen it again on DVD since. And this film is great. Unlike many Hammer films story and performance is key here. The story as often been imitated but never topped. Its a very intelligent horror film which is something we don't get very often anymore. Or at all. I also recently saw the original BBC TV show and that too is well worth picking up. Its just as good if not better. This is definitely worth a watch. British cinema at its finest...",
+         "I first viewed this film on American television under the title \"Five Million Years To Earth\". The reason I find this film so fascinating is because the producers had the courage to examine the possibility that evil does exist in the universe in the form of an entity, even though the story is written from an evolutionist perspective. This film basically asks the same question humanity has been asking for millenia: Where does evil originate, and why? Although relatively old and perhaps considered archaic by today's motion picture standards I feel the special effects are compelling enough to keep 21st century viewers, both young and old, riveted to their seats. An excellent film for those of a creationist persuasion as well.",
+         "I usually don't comment on another's comment, but that the film lacked \"an attractive female interest\" had my jaw dropping. Barbara Shelley NOT attractive? She's beautiful and at 34 when this was made, she made being \"middle-aged\" look like a great goal. Other than that, the reviewer is right on the money. Great film. Great acting. Great script. Not bad effects overall. AND Barbara Shelley!",
+         "Whilst excavating at the site of a new underground tube station, workers unearth a mysterious object. On to the case comes Professor Quatermass who deduces that the object is Martian in origin. Initially viewed with scorn and disbelief, it becomes apparent that the Martian race have been involved in the human race before, and now they have been awoken again. This was the third Hammer film adaptation of Nigel Kneale's BBC-TV Quatermass serial, with previous entries being The Quatermass Experiment & Quatermass 2. This to me, tho, is undoubtedly the shining light of the bunch. Chiefly what works the best in this one is the wonderful fusion of mystery and intelligence, the eerie sense of dread only off set by a yearning to find out just what has happened? And more crucially, what will happen? Building up perfectly, courtesy of Roy Ward Baker's astutely paced direction, Quatermass And The Pit is a film that just begs you to pay attention to every little detail, each conversation is fully fleshing out this most intriguing story. Then there is the finale that pays off handsomely, to hint at what is involved would result in a spoiler of sorts, and really it would be stupid of me to prepare you for the film's closure. See it because it's one of the best genre entries of the 60s, a must for sci-fi enthusiasts that like a bit of brains to go with their genre persuasion. 8.5/10"
+      ],
+      "genres": [
+         "Sci-Fi",
+         "Horror"
+      ],
+      "productionCompanies": ["Hammer Film Productions"],
+      "summaries": [
+         "While digging a new subway line in London, a construction crew discovers first: a skeleton, then what they think is an old World War II German missile. Upon closer examination the \"missile\" appears to be not of this earth! This movie examines the age old question of how we came to be on this planet. It is surprisingly scary.",
+         "In London, while digging in the Hobb's End Underground Station, the workers find a skull and skeleton in the excavation. Dr. Mathew Roney and his assistant Barbara Judd research the findings and believe that the skull belongs to a prehistoric ape man. When they find an unknown indestructible metal, the army is summoned and Colonel Breen believes that the metal is actually a V-2 German missile from the World War II. However, Professor Bernard Quatermass believes that it is a spacecraft from Mars. Quatermass and Roney find a plan from the Martians to invade Earth affecting the earthlings but the skeptical Colonel Breen does not accept their theory.",
+         "While digging an extension in the London underground, workers come across skeletal remains. Construction is halted and paleontologist Dr. Matthew Roney's team take over. They soon find a metal object that they initially think might be a bomb but turns out to be an alien spacecraft of some kind. Roney's assistant Barbara Judd and Professor Bernard Quatermass, a rocket specialist who does experimental work for the Ministry of Defence, discover that much of the housing around the site was abandoned by its inhabitants 40 years ago because of strange noises and what was believed to be ghosts. Inside the spacecraft they find the remnants of insect-like creatures, all now dead. In disturbing the craft however, they release an invisible force of immense power.",
+         "Workers excavating at an underground station in London uncover the skeletal remains of ancient apes with large skulls. Further digging reveals what is at first believed to be an unexploded German bomb from World War II. Missile expert Colonel Breen is brought in to investigate, accompanied by Professor Bernard Quartermass. When the interior of the \"missile\" is exposed, a dead locust-like creature that resembles the devil is found. It is determined by Quartermass that these \"locusts\" are evil Martians who altered the brains of our simian ancestors to eventually lay claim to the Earth. When Quartermass's suspicion that the missile can reactivate the dormant evil in humans is confirmed, all hell breaks loose.",
+         "A mysterious artifact is unearthed in London, and famous scientist Bernard Quatermass is called into to divine its origins and explain its strange effects on people."
+      ],
+      "budget": 275000
+   },
+   "movielensId": 3658,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1967-11-09",
+      "dvdReleaseDate": "1998-10-21",
+      "directors": ["Roy Ward Baker"],
+      "runtime": 97,
+      "movieId": 3658,
+      "title": "Quatermass and the Pit",
+      "mpaa": "",
+      "actors": [
+         "James Donald",
+         "Andrew Keir",
+         "Barbara Shelley",
+         "Julian Glover",
+         "Duncan Lamont",
+         "Bryan Marshall",
+         "Peter Copley",
+         "Edwin Richfield",
+         "Grant Taylor",
+         "Maurice Good",
+         "Robert Morris",
+         "Sheila Steafel",
+         "Hugh Futcher",
+         "Hugh Morton",
+         "Thomas Heathcote",
+         "Noel Howlett",
+         "Hugh Manning",
+         "June Ellis",
+         "Keith Marsh",
+         "James Culliford",
+         "Bee Duffell",
+         "Roger Avon",
+         "Brian Peck",
+         "John Graham",
+         "Charles Lamb"
+      ],
+      "imdbMovieId": "0062168",
+      "originalTitle": "Quatermass and the Pit",
+      "genres": [
+         "Horror",
+         "Science Fiction"
+      ],
+      "youtubeTrailerIds": [
+         "0Zoz9MN0-Y4",
+         "2jEO5oHg1sM",
+         "BhDUbQ9xFMM",
+         "aJS42882HtA",
+         "q5Z8mRbWLwY"
+      ],
+      "plotSummary": "An ancient Martian spaceship is unearthed in London, and proves to have powerful psychic effects on the people around.",
+      "tmdbMovieId": 26912,
+      "avgRating": 3.65525,
+      "releaseYear": "1967",
+      "numRatings": 438,
+      "posterPath": "/95USPEwfArhRGC3GixDsI8SH2m1.jpg"
+   }
+}

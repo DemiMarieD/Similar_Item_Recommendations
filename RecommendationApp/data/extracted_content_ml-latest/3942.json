@@ -1,0 +1,659 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "haunted house",
+            "id": 3358
+         },
+         {
+            "name": "sorority",
+            "id": 10058
+         },
+         {
+            "name": "ouija",
+            "id": 10111
+         },
+         {
+            "name": "ouija board",
+            "id": 10112
+         },
+         {
+            "name": "slumber party",
+            "id": 11798
+         },
+         {
+            "name": "slasher",
+            "id": 12339
+         },
+         {
+            "name": "sorority girl",
+            "id": 171582
+         },
+         {
+            "name": "scream queen",
+            "id": 188552
+         }
+      ],
+      "imdb_id": "tt0100663",
+      "video": false,
+      "title": "Sorority House Massacre II",
+      "recommendations": [
+         27767,
+         9940,
+         85181,
+         27764,
+         28339,
+         316744,
+         42709,
+         171703,
+         78253,
+         100009,
+         85024,
+         5752,
+         100541,
+         59762,
+         58200,
+         79975,
+         231082,
+         22731,
+         70553,
+         38499
+      ],
+      "backdrop_path": "/1xUXtX9WaznIq0tJpUBny1zEEfH.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 3,
+               "character": "Linda (as Robyn Harris)",
+               "gender": 1,
+               "credit_id": "52fe4591c3a36847f80ce91b",
+               "name": "Gail Harris",
+               "profile_path": "/1cQyKsTqi2ZhRr5O81TpMLnzlNK.jpg",
+               "id": 99237,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Jessica",
+               "gender": 1,
+               "credit_id": "52fe4591c3a36847f80ce917",
+               "name": "Melissa Moore",
+               "profile_path": "/vSaCQt6RePbjFCV4MHGAQUlIOBp.jpg",
+               "id": 99067,
+               "order": 1
+            },
+            {
+               "cast_id": 7,
+               "character": "Orville Ketchum",
+               "gender": 2,
+               "credit_id": "52fe4591c3a36847f80ce931",
+               "name": "Peter Spellos",
+               "profile_path": "/sj2YF20Rqe8uvS1QQajCV5bdaky.jpg",
+               "id": 9659,
+               "order": 2
+            },
+            {
+               "cast_id": 8,
+               "character": "Kimberly",
+               "gender": 1,
+               "credit_id": "52fe4591c3a36847f80ce935",
+               "name": "Stacia Zhivago",
+               "profile_path": null,
+               "id": 593372,
+               "order": 3
+            },
+            {
+               "cast_id": 13,
+               "character": "Suzanne (as Michelle Verran)",
+               "gender": 1,
+               "credit_id": "52fe4591c3a36847f80ce94b",
+               "name": "Barbii",
+               "profile_path": "/6LcqGHYkZlllXpQFPe0NULRXuQz.jpg",
+               "id": 1179245,
+               "order": 4
+            },
+            {
+               "cast_id": 14,
+               "character": "Janey",
+               "gender": 1,
+               "credit_id": "52fe4591c3a36847f80ce94f",
+               "name": "Dana Bentley",
+               "profile_path": "/ndELjG4KBkyo1PWtaK7y3Qu0vEJ.jpg",
+               "id": 99088,
+               "order": 5
+            },
+            {
+               "cast_id": 15,
+               "character": "Lt. Mike Block",
+               "gender": 0,
+               "credit_id": "52fe4591c3a36847f80ce953",
+               "name": "Jürgen Baum",
+               "profile_path": null,
+               "id": 98941,
+               "order": 6
+            },
+            {
+               "cast_id": 16,
+               "character": "Sgt. Phyllis Shawlee (as Karen Chorak)",
+               "gender": 1,
+               "credit_id": "52fe4591c3a36847f80ce957",
+               "name": "Toni Naples",
+               "profile_path": "/aHTsQtWSDK24tQZxxSoKyJjbhhi.jpg",
+               "id": 98149,
+               "order": 7
+            },
+            {
+               "cast_id": 17,
+               "character": "Candy",
+               "gender": 1,
+               "credit_id": "52fe4591c3a36847f80ce95b",
+               "name": "Bridget Carney",
+               "profile_path": null,
+               "id": 100481,
+               "order": 8
+            },
+            {
+               "cast_id": 18,
+               "character": "Moving man",
+               "gender": 0,
+               "credit_id": "52fe4591c3a36847f80ce95f",
+               "name": "Bob Sheridan",
+               "profile_path": null,
+               "id": 99807,
+               "order": 9
+            },
+            {
+               "cast_id": 19,
+               "character": "Cop in rain",
+               "gender": 0,
+               "credit_id": "52fe4591c3a36847f80ce963",
+               "name": "Gunnar Johnson",
+               "profile_path": null,
+               "id": 1179246,
+               "order": 10
+            },
+            {
+               "cast_id": 20,
+               "character": "Bartender",
+               "gender": 0,
+               "credit_id": "52fe4591c3a36847f80ce967",
+               "name": "Eric Hoffman",
+               "profile_path": null,
+               "id": 1179247,
+               "order": 11
+            },
+            {
+               "cast_id": 21,
+               "character": "Abdul",
+               "gender": 0,
+               "credit_id": "52fe4591c3a36847f80ce96b",
+               "name": "Carlo Jonzi",
+               "profile_path": null,
+               "id": 1179248,
+               "order": 12
+            },
+            {
+               "cast_id": 22,
+               "character": "Schmabdul",
+               "gender": 0,
+               "credit_id": "52fe4591c3a36847f80ce96f",
+               "name": "Hassan Feffer",
+               "profile_path": null,
+               "id": 1179250,
+               "order": 13
+            },
+            {
+               "cast_id": 23,
+               "character": "Godfather",
+               "gender": 0,
+               "credit_id": "52fe4591c3a36847f80ce973",
+               "name": "Emil Rochelle",
+               "profile_path": null,
+               "id": 1179252,
+               "order": 14
+            },
+            {
+               "cast_id": 24,
+               "character": "Satana",
+               "gender": 1,
+               "credit_id": "52fe4591c3a36847f80ce977",
+               "name": "Savannah",
+               "profile_path": "/1a28ab6tCdQjFhdaMT454t2pdw0.jpg",
+               "id": 98580,
+               "order": 15
+            },
+            {
+               "cast_id": 25,
+               "character": "Bouncer",
+               "gender": 0,
+               "credit_id": "52fe4591c3a36847f80ce97b",
+               "name": "Alex Tabrizi",
+               "profile_path": null,
+               "id": 1179300,
+               "order": 16
+            },
+            {
+               "cast_id": 26,
+               "character": "Newscaster",
+               "gender": 2,
+               "credit_id": "52fe4591c3a36847f80ce97f",
+               "name": "Kevin Tent",
+               "profile_path": null,
+               "id": 32796,
+               "order": 17
+            },
+            {
+               "cast_id": 27,
+               "character": "House Cop #1",
+               "gender": 0,
+               "credit_id": "52fe4591c3a36847f80ce983",
+               "name": "Don Keehed",
+               "profile_path": null,
+               "id": 1179301,
+               "order": 18
+            },
+            {
+               "cast_id": 28,
+               "character": "House Cop #2",
+               "gender": 0,
+               "credit_id": "52fe4591c3a36847f80ce987",
+               "name": "J.B. Rogers",
+               "profile_path": "/rL2r7j20Aq2JRWeDpTpk35YxUzb.jpg",
+               "id": 7409,
+               "order": 19
+            },
+            {
+               "cast_id": 36,
+               "character": "Eddie",
+               "gender": 2,
+               "credit_id": "58efae6b9251410499000307",
+               "name": "Mike Elliott",
+               "profile_path": null,
+               "id": 37021,
+               "order": 20
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4591c3a36847f80ce913",
+               "name": "Jim Wynorski",
+               "profile_path": "/zfmdU522dCGkmxvsjqN3GPhtq19.jpg",
+               "id": 98132,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4591c3a36847f80ce921",
+               "name": "Chuck Cirino",
+               "profile_path": null,
+               "id": 98138,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4591c3a36847f80ce927",
+               "name": "Roger Corman",
+               "profile_path": "/gCfEvxl7jTv2dBo8HvwWVMi3auz.jpg",
+               "id": 102429,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4591c3a36847f80ce92d",
+               "name": "Julie Corman",
+               "profile_path": null,
+               "id": 102428,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4591c3a36847f80ce93b",
+               "name": "J.B. Rogers",
+               "profile_path": "/rL2r7j20Aq2JRWeDpTpk35YxUzb.jpg",
+               "id": 7409,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4591c3a36847f80ce941",
+               "name": "Bob Sheridan",
+               "profile_path": null,
+               "id": 99807,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4591c3a36847f80ce947",
+               "name": "Mark Thomas McGee",
+               "profile_path": null,
+               "id": 99083,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4591c3a36847f80ce98d",
+               "name": "Nina Gilberti",
+               "profile_path": null,
+               "id": 1181953,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4591c3a36847f80ce993",
+               "name": "Richard K. Wright",
+               "profile_path": null,
+               "id": 1181954,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4591c3a36847f80ce99f",
+               "name": "William S. Jones",
+               "profile_path": null,
+               "id": 1181956,
+               "department": "Visual Effects",
+               "job": "Visual Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4591c3a36847f80ce9a5",
+               "name": "J. E. Bash",
+               "profile_path": null,
+               "id": 1181957,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4591c3a36847f80ce9ab",
+               "name": "Jürgen Baum",
+               "profile_path": null,
+               "id": 98941,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58e29c8d92514127f6010970",
+               "name": "Dean Jones",
+               "profile_path": null,
+               "id": 1159944,
+               "department": "Visual Effects",
+               "job": "Visual Effects"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58efafcec3a36840df00044c",
+               "name": "Jim Wynorski",
+               "profile_path": "/zfmdU522dCGkmxvsjqN3GPhtq19.jpg",
+               "id": 98132,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58efafe1925141046f000492",
+               "name": "Brewster Gould",
+               "profile_path": null,
+               "id": 105205,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 1,
+               "credit_id": "58efb009925141047300048b",
+               "name": "Sandra Araya Jensen",
+               "profile_path": null,
+               "id": 1795369,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58efb0c192514104670004f1",
+               "name": "Greg LaVoi",
+               "profile_path": null,
+               "id": 1303225,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "58efb0da9251410467000509",
+               "name": "Michele Weisler",
+               "profile_path": "/ig3LCpqb2iFUTEp2T0EN9YfqPRL.jpg",
+               "id": 86589,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 1,
+               "credit_id": "58efb162925141046700057d",
+               "name": "Pamela Winn-Barnett",
+               "profile_path": null,
+               "id": 1617016,
+               "department": "Crew",
+               "job": "Post Production Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58efb212c3a36840c000061f",
+               "name": "Gary Randall",
+               "profile_path": null,
+               "id": 60897,
+               "department": "Art",
+               "job": "Set Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58efb22bc3a36840a4000644",
+               "name": "Robert P. Youmans",
+               "profile_path": null,
+               "id": 1795370,
+               "department": "Production",
+               "job": "Location Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58efb23ac3a36840800005ad",
+               "name": "Waldo Brain",
+               "profile_path": null,
+               "id": 1795371,
+               "department": "Production",
+               "job": "Production Coordinator"
+            },
+            {
+               "gender": 1,
+               "credit_id": "58efb253c3a36841240005df",
+               "name": "Ann English",
+               "profile_path": null,
+               "id": 1795372,
+               "department": "Production",
+               "job": "Production Coordinator"
+            },
+            {
+               "gender": 1,
+               "credit_id": "58efb27dc3a36841240005f9",
+               "name": "Mary Wright",
+               "profile_path": null,
+               "id": 1391401,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Horror",
+            "id": 27
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         }
+      ],
+      "popularity": 2.148276,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 40446,
+      "vote_count": 17,
+      "budget": 0,
+      "overview": "Five college women buy the old Hokstedter place for their new sorority house. They got it cheap because of the bloody incidents from five years before. They decide to stay in it for the night so they can meet the movers in the morning, but begin to get the creeps when the weird neighbor Orville Ketchum starts poking around. Shortly after the women take showers and consult a Ouija board they begin experiencing an attrition problem.",
+      "similar": [
+         242512,
+         2655,
+         28377,
+         91586,
+         201085,
+         948,
+         4488,
+         335796,
+         10756,
+         431072,
+         24124,
+         39874,
+         11601,
+         19592,
+         14240,
+         166271,
+         288158,
+         12521,
+         134366,
+         380124
+      ],
+      "original_title": "Sorority House Massacre II",
+      "runtime": 80,
+      "poster_path": "/h6cCCjnU2MsvMYucg3VQwvyUnqE.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Português",
+            "iso_639_1": "pt"
+         }
+      ],
+      "production_companies": [{
+         "logo_path": null,
+         "name": "New Concorde",
+         "id": 4893,
+         "origin_country": ""
+      }],
+      "release_date": "1990-10-05",
+      "vote_average": 5.2,
+      "belongs_to_collection": {
+         "backdrop_path": "/7qp2haLhI4WTxxbMnzvXiQaCxIS.jpg",
+         "name": "The Sorority House Massacre Collection",
+         "id": 138974,
+         "poster_path": "/gTSLlSlYg02JUG7s58qdQ5BeIxl.jpg"
+      },
+      "tagline": "It's Cleavage vs. Cleavers and the result is Delta Delta Deadly!",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Jim Wynorski"],
+      "runtime": 77,
+      "synopsis": null,
+      "writers": [
+         "Mark Thomas McGee",
+         "J.B. Rogers"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0100663/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTQxNTIyMTQxMl5BMl5BanBnXkFtZTgwMjMxNjkwMzE@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Gail Harris, Melissa Moore, Stacia Zhivago | See full cast and crew »"],
+      "reviews": [
+         "Sorority House Massacre II is a great improvement on the original which was basically a rip off of Halloween. In this installment scantily clad sorority girls move into the house where the original took place. There are flash backs, but not to the original Sorority House Massacre, but to the original Slumber Party Massacre, I guess even the film makers got confused, but who cares? This movie is \"chopped\" full of hilarious dialogue and nudity. Lets not forget Orville Ketchum who gives a stunning performance as the neighbor. Is he the killer or is he out to help the girls? You'll have to see for yourself and you won't be disappointed. This is a classic slasher flick with all the ingredients to keep you entertained for 90 minutes. I mean these girls take 30 minute showers to just clean their breasts, there isn't any hot water, but they can't sleep if they feel \"dirty,\" and they search the house for their missing friends in their underwear. This flick is awesome! Check it out, you won't be sorry.",
+         "Five sorority sisters move into a big new mansion (Isn't this the same place Fred Olen Ray usually films his movies?) and are menaced by the fat, crater-faced, zombie-like next door neighbor \"Orville Ketchum\" (i.e. Peter Spellos). After lots of nonsense that exists just to fill time (and a pointless subplot starring two cops) someone in the group starts killing everyone off with a hook. For your money you get two shower scenes, three clothes-changing scenes, a bathtub full of blood, a foot in a bear trap, a OUIJA board, a possession, a knife stuck in a neck, a \"spank\" room, a man eating a sandwich made of raw meat, flashbacks featuring footage from SLUMBER PARTY MASSACRE, the slasher scene from Hollywood BOULEVARD seen on a TV set, a trip to a strip club where deceased porn star Savannah dances and much more. It's quite the little B-movie package we got going on here. Sure, the acting's not Oscar caliber (though the roles ARE played with enthusiasm, especially by Gail Harris *love her accent, by the way*) and it's totally clichéd, but it's actually a pretty fun and extremely entertaining little B slasher if you like these kind of things. Jim Wynorski never aims high with any of his films, but the fact not one moment in this film is played seriously makes it emerge as a sort-of parody. (If you loved this, you'll also love HARD TO DIE, by the way.)",
+         "I liked and enjoyed \"Sorority House Massacre II\" because it goes directly to the point since minute 0 of running time. The movie's opening credits are cool enough. The music in the style of \"Phantom Of The Opera\" and the orange bright letters are indication of something. The movie follows the bright tone of the opening credits until the end. For about 90 minutes we have hot, and I mean HOT women in skimpy lingerie running around the house and some bar while escaping from a possessed butcher. That's all you have to know. \"Sorority House Massacre\" is an entertaining 80's flick but it isn't for everyone who is into the Slasher genre. There is minimal gore, violence, or even suspense. True, the House is creepy enough but mainly because of the decent cinematography and correct use of lightning and thunders. It's also true that this movie fits better in the cheesy category because there isn't room for logic or common sense. So I would only recommend this movie for a teenager male audience who will be cheering our hot heroines anytime they run or scream. This is sexy material in the Slasher genre. Nothing more or less. Jim Wynorski created a decent cheesefest with lots of hot women. The man truly knows the business. Gail Harris and Melissa Moore are excellent. They are truly beautiful and had some skills to become scream queens. Too bad it didn't happen.",
+         "I was trolling through the dusty section of my video store looking at all the pornos when I decided to venture into the horror section. I was after a bit of a horror fix and found this movie. The cover looked awesome and promised boobs! yes! boobies and blood!. The girls in this movie were all really hot! 80's girls are the best! There's something hot about skimpily dressed chicks with nice racks alone wandering around an old abandoned mansion with some big fat acne faced creepy neighbor lurking about. I felt the director crafted together the right combo of boobs, & atmosphere & breasts. Robyn Harris who played the lead 'Linda' was great with her sexy British accent (didn't expect it!) while Peter Spellos was funny as Orville Ketchum. It is definitely one for a late rainy night or to watch with friends for a fun time. 7/10",
+         "\"Sorority House Massacre II\" is actually one of my favourite low-budget slasher flicks.It is extremely dumb,but it offers plenty of gore and nudity,so I wasn't disappointed.Five pretty girls buy a creepy old house which was the scene of brutal massacre some years earlier and decide to turn it into their sorority house.Soon they encounter their weird neighbour,Orville Ketchum,who tells them that he was the one who found the bodies.They also mess with a ouija board and the slaughter begins...\"Sorority House Massacre II\" is a much better film than the dreary original.The gore is plentiful and the girls look incredibly hot in their sexy nighties.Gail Harris is pretty memorable as the leader of the sorority house and Peter Spellos is wonderful as the fat,creepy neighbour from hell.Overall,I enjoyed this film and you should too if you like sleazy slasher films.Give it a look.8 out of 10.",
+         "I'm a huge fan of the slasher genre and I have yet to find a better example. Packed full of babes, boobs and gore. I recommend staying and watching this with a couple of beers any-day! Obviously not one for movie snobs but just brilliant sexy fun from beginning to end! I' have probably seen this film about 8 times and laughed and loved it every time, watching it with friends and I promise you will have a big laugh together but also contains enough sexy bits to watch alone simply for all the young sexy girls who are constantly loses their clothes. If you like girls, your eyes will simply bulging out of their eye sockets. It's so funny though that if you had a girlfriend she would probably even enjoy it and if you have a girlfiend like one of the babes in the film, she'll sure to be naked before it's over!",
+         "Clearly a film shot on a weekend, this girls-in-peril flick clearly has an element of self-parody involved -- every cliche is present, and the pains the filmmakers go to to keep the women from just leaving the damned house is inspired! What makes it a schlock masterpiece is the straight-faced performance of Zoran Hochstetter as the Detective on the case who likes to sit in strip bars and ruminate -- I checked the database -- the guy's a cinematographer (!!!!) -- he should get an Oscar! Well, maybe not, because the true inspiration of this film is the character of Orville Ketchum (great name), the strange next-door neighbor who might be a homicidal maniac or a misunderstood anti-hero -- the actor Pete Spellos has a great straight face and pulls off this insane character. I also rented \"Hard to Die,\" which is a sequel to this and is almost as fun....makes a good double-feature with \"Hollywood Boulevard\" or \"The Great Texas Dynamite Chase\" or one of those Claudia Jennings flicks of the 70's...",
+         "this movie is pretty bad,but also very funny at times. the funniest thing in this movie is that creepy guy that kind of stalks the girls. there's also a lot of nude girls which is great. this movie is not nearly as good as the first one,which this movie has nothing to do with. this movie is really just for laughs,and nude girls. all in all pretty bad,but it's so much fun to make fun of it. i give sorority house massacre II *1/2 out of ****",
+         "(*1/2 out of *****) I gotta admit -- it was tough giving this one a low score simply for the base reason that viewers are treated to an absolute cavalcade of bodacious babes in the skimpiest of lingerie, and every single one of them has her own topless scene to boot. But, I gotta be true to myself and rate this according to how it represents the horror/slasher genre, and, unfortunately, it's represented pretty poorly with this derivative junk. This was released the same year as Wynorski's Hard To Die, and both movies have some of the same actors and use flashbacks from the original Slumber Party Massacre rather than the first SHM (don't ask me why.) The plots are also nearly identical, right down to the ho-hum demon posession that's thrown in for laughs. Orville Ketchum also repeats the same role he played in Hard To Die. I don't know if his character is supposed to provide comic relief or what, but, under Wynorski's terrible direction (as in Hard To Die), he gets real tiresome real fast. Overall, this is a poorly-written, highly exploitative, and frustratingly tedious mess, but -- damn me for being a sexist male -- them girls is hot! HIGHLIGHT: Not to beat this thing into the ground, but I honestly don't think this flick goes five minutes without a gratuitous T&A shot (or two). I need to get out more. ...",
+         "The story of this one involves 4 hot students moving into a new sorority house, that was once the site of a multiple murder. As well, the home features a truly creepy, raw meat gnashing neighbor. Anyways, at about 20 min. into Sorority House Massacre II I noticed an odd thing. The flashbacks we were being shown were from Slumber Party Massacre. This seemed odd to me. I mean the film has nothing to do with Sorority House Massacre 1, yet uses footage from Slumber Party Massacre. Doesn't this make it Slumber Party Massacre IV? Oh well, when you start looking for who-dun-it campus slashers to make sense, you are getting yourself stuck in a vortex of puzzles more mysterious then the ingredients of Col. Sanders secret blend of herbs and spices. Back to the movie; there is a good enough story, tongue in cheek style, and a decent enough amount of T&A to keep any true 80's cheesy horror filmster happy. Watch for adult film's Savannah to show up in her attempt to break into mainstream Hollywood film making. That alone helped me decide to give it a 7 1/2 for 10! Now go out and take on the day!"
+      ],
+      "genres": [
+         "Comedy",
+         "Horror",
+         "Thriller"
+      ],
+      "productionCompanies": [],
+      "summaries": ["Five college women buy the old Hokstedter place for their new sorority house. They got it cheap because of the bloody incidents from five years before. They decide to stay in it for the night so they can meet the movers in the morning, but begin to get the creeps when the weird neighbor Orville Ketchum starts poking around. Shortly after the women take showers and consult a Ouija board they begin experiencing an attrition problem."],
+      "budget": 150000
+   },
+   "movielensId": 3942,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1990-10-05",
+      "dvdReleaseDate": "2000-08-29",
+      "directors": ["Jim Wynorski"],
+      "runtime": 80,
+      "movieId": 3942,
+      "title": "Sorority House Massacre II",
+      "mpaa": "NR",
+      "actors": [
+         "Gail Harris",
+         "Melissa Moore",
+         "Peter Spellos",
+         "Stacia Zhivago",
+         "Barbii",
+         "Dana Bentley",
+         "Jürgen Baum",
+         "Toni Naples",
+         "Bridget Carney",
+         "Bob Sheridan",
+         "Gunnar Johnson",
+         "Eric Hoffman",
+         "Carlo Jonzi",
+         "Hassan Feffer",
+         "Emil Rochelle",
+         "Savannah",
+         "Alex Tabrizi",
+         "Kevin Tent",
+         "Don Keehed",
+         "J.B. Rogers",
+         "Mike Elliott"
+      ],
+      "imdbMovieId": "0100663",
+      "originalTitle": "Sorority House Massacre II",
+      "genres": [
+         "Comedy",
+         "Horror",
+         "Thriller"
+      ],
+      "youtubeTrailerIds": ["X0jSho3WN9I"],
+      "plotSummary": "Five college women buy the old Hokstedter place for their new sorority house. They got it cheap because of the bloody incidents from five years before. They decide to stay in it for the night so they can meet the movers in the morning, but begin to get the creeps when the weird neighbor Orville Ketchum starts poking around. Shortly after the women take showers and consult a Ouija board they begin experiencing an attrition problem.",
+      "tmdbMovieId": 40446,
+      "avgRating": 1.73438,
+      "releaseYear": "1990",
+      "numRatings": 128,
+      "posterPath": "/h6cCCjnU2MsvMYucg3VQwvyUnqE.jpg"
+   }
+}

@@ -1,0 +1,714 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "gambling",
+            "id": 395
+         },
+         {
+            "name": "prostitute",
+            "id": 549
+         },
+         {
+            "name": "casino",
+            "id": 585
+         },
+         {
+            "name": "cheating",
+            "id": 1332
+         },
+         {
+            "name": "blackmail",
+            "id": 1936
+         },
+         {
+            "name": "male friendship",
+            "id": 3230
+         },
+         {
+            "name": "gambling debts",
+            "id": 5305
+         },
+         {
+            "name": "hostage-taking",
+            "id": 7188
+         },
+         {
+            "name": "independent film",
+            "id": 10183
+         },
+         {
+            "name": "las vegas",
+            "id": 14570
+         }
+      ],
+      "imdb_id": "tt0119256",
+      "video": false,
+      "title": "Hard Eight",
+      "recommendations": [
+         11368,
+         10388,
+         3133,
+         8051,
+         13685,
+         476,
+         26748,
+         592,
+         68722,
+         4995,
+         11524,
+         334,
+         10403,
+         379,
+         290,
+         10683,
+         11826,
+         483,
+         18129,
+         9430
+      ],
+      "backdrop_path": "/4SvyGkWLwYRJh64rjTiGaxTWY4I.jpg",
+      "revenue": 222559,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 3,
+               "character": "Sydney Brown",
+               "gender": 2,
+               "credit_id": "52fe448ec3a36847f809cc11",
+               "name": "Philip Baker Hall",
+               "profile_path": "/eH7GrivSuLEvhJL85qPkhNvg3E7.jpg",
+               "id": 4492,
+               "order": 0
+            },
+            {
+               "cast_id": 4,
+               "character": "Clementine",
+               "gender": 1,
+               "credit_id": "52fe448ec3a36847f809cc15",
+               "name": "Gwyneth Paltrow",
+               "profile_path": "/8x3jpWD7DEvyMXO1FOjwNdd1UZT.jpg",
+               "id": 12052,
+               "order": 1
+            },
+            {
+               "cast_id": 5,
+               "character": "John Finnegan",
+               "gender": 2,
+               "credit_id": "52fe448ec3a36847f809cc19",
+               "name": "John C. Reilly",
+               "profile_path": "/3LpfXon9xQZc1M2AFvfXyLeICbg.jpg",
+               "id": 4764,
+               "order": 2
+            },
+            {
+               "cast_id": 6,
+               "character": "Jimmy",
+               "gender": 2,
+               "credit_id": "52fe448ec3a36847f809cc1d",
+               "name": "Samuel L. Jackson",
+               "profile_path": "/AvCReLikjzYEf9XjTQxbv3JWgKT.jpg",
+               "id": 2231,
+               "order": 3
+            },
+            {
+               "cast_id": 7,
+               "character": "Hostage",
+               "gender": 2,
+               "credit_id": "52fe448ec3a36847f809cc21",
+               "name": "F. William Parker",
+               "profile_path": null,
+               "id": 9297,
+               "order": 4
+            },
+            {
+               "cast_id": 8,
+               "character": "Young craps player",
+               "gender": 2,
+               "credit_id": "52fe448ec3a36847f809cc25",
+               "name": "Philip Seymour Hoffman",
+               "profile_path": "/8DjE4XIngdn0dK3RnIKTHB8U8jZ.jpg",
+               "id": 1233,
+               "order": 5
+            },
+            {
+               "cast_id": 9,
+               "character": "Jimmy's girl",
+               "gender": 1,
+               "credit_id": "52fe448ec3a36847f809cc29",
+               "name": "Melora Walters",
+               "profile_path": "/jOK1KzMo93l1qpHHdgYrj81Elco.jpg",
+               "id": 4766,
+               "order": 6
+            },
+            {
+               "cast_id": 15,
+               "character": "Keno manager",
+               "gender": 2,
+               "credit_id": "53b1a5390e0a26598600854b",
+               "name": "Robert Ridgely",
+               "profile_path": "/sxvnvaZRpOhFqXk7yiN8iJE9Elw.jpg",
+               "id": 25626,
+               "order": 7
+            },
+            {
+               "cast_id": 19,
+               "character": "Restroom attendant",
+               "gender": 0,
+               "credit_id": "53b1a60d0e0a2659800085a7",
+               "name": "Nathanael Cooper",
+               "profile_path": null,
+               "id": 1336042,
+               "order": 8
+            },
+            {
+               "cast_id": 20,
+               "character": "Waitress",
+               "gender": 0,
+               "credit_id": "53b1a61b0e0a26598c00892d",
+               "name": "Wynn White",
+               "profile_path": null,
+               "id": 1336043,
+               "order": 9
+            },
+            {
+               "cast_id": 21,
+               "character": "Keno girl",
+               "gender": 0,
+               "credit_id": "53b1a62a0e0a26598600855e",
+               "name": "Kathleen Campbell",
+               "profile_path": null,
+               "id": 1336044,
+               "order": 10
+            },
+            {
+               "cast_id": 22,
+               "character": "Pit boss",
+               "gender": 0,
+               "credit_id": "53b1a6370e0a26597d0086d0",
+               "name": "Michael J. Rowe",
+               "profile_path": null,
+               "id": 1336045,
+               "order": 11
+            },
+            {
+               "cast_id": 23,
+               "character": "Bartender",
+               "gender": 0,
+               "credit_id": "53b1a64f0e0a2659790085f3",
+               "name": "Peter D'Allesandro",
+               "profile_path": null,
+               "id": 1336046,
+               "order": 12
+            },
+            {
+               "cast_id": 24,
+               "character": "Stickman/Cocktail waitress",
+               "gender": 0,
+               "credit_id": "53b1a65d0e0a265989008668",
+               "name": "Steve Blane",
+               "profile_path": null,
+               "id": 1336047,
+               "order": 13
+            },
+            {
+               "cast_id": 26,
+               "character": "Cashier",
+               "gender": 0,
+               "credit_id": "53b1a6760e0a26598c008939",
+               "name": "Jean Langer",
+               "profile_path": null,
+               "id": 1336049,
+               "order": 15
+            },
+            {
+               "cast_id": 27,
+               "character": "Groom",
+               "gender": 0,
+               "credit_id": "53b1a68b0e0a265986008567",
+               "name": "Andy Breen",
+               "profile_path": null,
+               "id": 1336050,
+               "order": 16
+            },
+            {
+               "cast_id": 28,
+               "character": "Bride",
+               "gender": 0,
+               "credit_id": "53b1a6980e0a265983008647",
+               "name": "Renee Breen",
+               "profile_path": null,
+               "id": 1336051,
+               "order": 17
+            },
+            {
+               "cast_id": 29,
+               "character": "Aladdin Cashier",
+               "gender": 0,
+               "credit_id": "53b1a6b10e0a265975008666",
+               "name": "Jane W. Brimmer",
+               "profile_path": null,
+               "id": 1336053,
+               "order": 18
+            },
+            {
+               "cast_id": 30,
+               "character": "Desk clerk",
+               "gender": 0,
+               "credit_id": "53b1a6cc0e0a26597500866c",
+               "name": "Mark Finizza",
+               "profile_path": null,
+               "id": 1336054,
+               "order": 19
+            },
+            {
+               "cast_id": 31,
+               "character": "Floorman",
+               "gender": 2,
+               "credit_id": "53b1a6d80e0a265983008653",
+               "name": "Richard Gross",
+               "profile_path": "/kpFs6V76raU7AEe3bVlHh1ZwE4s.jpg",
+               "id": 158126,
+               "order": 20
+            },
+            {
+               "cast_id": 32,
+               "character": "Aladdin change booth attendant",
+               "gender": 0,
+               "credit_id": "53b1a6f00e0a265989008677",
+               "name": "Cliff Keeley",
+               "profile_path": null,
+               "id": 1336055,
+               "order": 21
+            },
+            {
+               "cast_id": 33,
+               "character": "El Dorado cashier",
+               "gender": 0,
+               "credit_id": "53b1a7110e0a26597d0086e1",
+               "name": "Carrie McVey",
+               "profile_path": null,
+               "id": 1336056,
+               "order": 22
+            },
+            {
+               "cast_id": 34,
+               "character": "Pastor",
+               "gender": 0,
+               "credit_id": "53b1a71a0e0a26598c008953",
+               "name": "Truman Robbins",
+               "profile_path": null,
+               "id": 1336057,
+               "order": 23
+            },
+            {
+               "cast_id": 35,
+               "character": "Pants on fire person",
+               "gender": 0,
+               "credit_id": "53b1a72c0e0a26598300865c",
+               "name": "Ernie Anderson",
+               "profile_path": null,
+               "id": 1216544,
+               "order": 24
+            },
+            {
+               "cast_id": 36,
+               "character": "Pants on fire person",
+               "gender": 1,
+               "credit_id": "53b1a7380e0a26598300865f",
+               "name": "Wendy Weidman",
+               "profile_path": null,
+               "id": 41677,
+               "order": 25
+            },
+            {
+               "cast_id": 37,
+               "character": "Pants on fire person",
+               "gender": 2,
+               "credit_id": "53b1a7430e0a265983008661",
+               "name": "Jason \"Jake\" Cross",
+               "profile_path": null,
+               "id": 1139130,
+               "order": 26
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "56a4bacbc3a3683896006875",
+               "name": "Mark Tillie",
+               "profile_path": null,
+               "id": 1567673,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe448ec3a36847f809cc07",
+               "name": "Paul Thomas Anderson",
+               "profile_path": "/wKAs2LtLYSUzt3ZZ8pnxMwuEWuR.jpg",
+               "id": 4762,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe448ec3a36847f809cc0d",
+               "name": "Paul Thomas Anderson",
+               "profile_path": "/wKAs2LtLYSUzt3ZZ8pnxMwuEWuR.jpg",
+               "id": 4762,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe448ec3a36847f809cc2f",
+               "name": "Robert Jones",
+               "profile_path": null,
+               "id": 4584,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe448ec3a36847f809cc35",
+               "name": "Jon Brion",
+               "profile_path": "/bJZWUhhCgXN238ouWYpzPONW0sv.jpg",
+               "id": 312,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe448ec3a36847f809cc3b",
+               "name": "Michael Penn",
+               "profile_path": null,
+               "id": 40468,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe448ec3a36847f809cc41",
+               "name": "Robert Elswit",
+               "profile_path": null,
+               "id": 2950,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe448ec3a36847f809cc47",
+               "name": "Barbara Tulliver",
+               "profile_path": null,
+               "id": 53685,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53b1a7760e0a265986008585",
+               "name": "Hans Brockmann",
+               "profile_path": null,
+               "id": 9038,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53b1a7840e0a26597500867e",
+               "name": "François Duplat",
+               "profile_path": null,
+               "id": 9037,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "53b1a7930e0a2659800085c3",
+               "name": "Daniel Lupi",
+               "profile_path": null,
+               "id": 4769,
+               "department": "Production",
+               "job": "Co-Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "53b1a7a30e0a265975008683",
+               "name": "John S. Lyons",
+               "profile_path": null,
+               "id": 1227,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53b1a7b10e0a265983008670",
+               "name": "Helene Mulholland",
+               "profile_path": null,
+               "id": 1336058,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "53b1a7bf0e0a265979008616",
+               "name": "Keith Samples",
+               "profile_path": null,
+               "id": 65115,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "53b1a7f30e0a26597900861b",
+               "name": "Nancy Deren",
+               "profile_path": null,
+               "id": 958214,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "53b1a7ff0e0a2659800085c8",
+               "name": "Michael Krantz",
+               "profile_path": null,
+               "id": 957804,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "53b1a80b0e0a26597d00875e",
+               "name": "David A. Koneff",
+               "profile_path": null,
+               "id": 1336059,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 2,
+               "credit_id": "53b1a81b0e0a2659800085cd",
+               "name": "Mark Bridges",
+               "profile_path": "/mw2M3u5WtvBcbL3QdudnaWlWjiV.jpg",
+               "id": 40471,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53b1a8440e0a26598c008973",
+               "name": "Craig Markey",
+               "profile_path": null,
+               "id": 1336061,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 1,
+               "credit_id": "550d34a9c3a3685be5000e3d",
+               "name": "Christine Sheaks",
+               "profile_path": null,
+               "id": 23653,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56a4babac3a368388b006e3c",
+               "name": "Daniel P. Collins",
+               "profile_path": null,
+               "id": 1336060,
+               "department": "Production",
+               "job": "Unit Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56a4bad7c3a3683896006879",
+               "name": "Elizabeth Ludwick-Bax",
+               "profile_path": null,
+               "id": 1469339,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56a4bafd925141419f002049",
+               "name": "Mark Weingarten",
+               "profile_path": "/wsRszNSdLKbVpyUPKng0enkKqX6.jpg",
+               "id": 1555637,
+               "department": "Sound",
+               "job": "Production Sound Mixer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         }
+      ],
+      "popularity": 6.697231,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 8052,
+      "vote_count": 222,
+      "budget": 3000000,
+      "overview": "A stranger mentors a young Reno gambler who weds a hooker and befriends a vulgar casino regular.",
+      "similar": [
+         8065,
+         451,
+         2832,
+         275,
+         298,
+         681,
+         1427,
+         4771,
+         261023,
+         320,
+         281,
+         298312,
+         3597,
+         910,
+         9029,
+         193893,
+         72784,
+         2142,
+         190469,
+         507
+      ],
+      "original_title": "Hard Eight",
+      "runtime": 96,
+      "poster_path": "/rlULHF25GAFc6F3xZhovctWkNCr.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Trinity Filmed Entertainment",
+            "id": 7250,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Rysher Entertainment",
+            "id": 11661,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Green Parrot",
+            "id": 2321,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1996-02-28",
+      "vote_average": 6.8,
+      "belongs_to_collection": null,
+      "tagline": "When good luck is a long shot, you have to hedge your bets.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Paul Thomas Anderson"],
+      "runtime": 102,
+      "synopsis": null,
+      "writers": ["Paul Thomas Anderson"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0119256/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BODYwMjU0OTYyMF5BMl5BanBnXkFtZTcwMDg5MDgxMQ@@._V1_SY317_CR2,0,214,317_AL_.jpg",
+      "actors": ["Stars: Philip Baker Hall, John C. Reilly, Gwyneth Paltrow | See full cast and crew »"],
+      "reviews": [
+         "Paul Thomas Anderson's first film, Sydney (titled 'Hard Eight' by the distributors), has a story, but its more concerned about the characters, and how these actors play them. Like its inspiration, Jean-Pierre Melville's Bob le Flambeur, understanding who these people are in this seedy, desperate environment, is the key. The script is intelligent, and contains a truth that isn't found in most \"off-beat\" crime films. In fact, the crimes in the film, while not without the importance to the story, is secondary to how these people are around one another, the courtesy, the un-said things, the mishaps, and the truths. In tune with Melville, the film is decidedly European- the story is quite leisurely, almost too much so, but in the characters Anderson has created and fleshed out he has people we can care about. Philip Baker Hall, in a towering performance of professionalism (he's one of those great character actors who practically wears the years of his life on his face, not to sound pretentious about it), is the title character of Sydney. He offers Jimmy (John C. Reilly, believable in a role seemingly more like himself than his Reed Rothchild in Anderson's Boogie Nights) a cigarette and a cup of coffee, and then finds out through the conversation his mother's passed on. He offers up an intricate, but rewarding, way of making money in a casino without laying down a card (the slots, and a different scheme). Flash ahead two years later (awesome transition, by the way) where Jimmy is with Clementine (Gwyneth Paltrow, a good performance). Things seem to be going alright all around, except that Jimmy has a violent (shown off-screen, of course) run-in, and needs Sydney's help. But there's another secret that has yet to be told. All the little details of the story are accentuated by a directorial style that is usually peerless, and the tracking shots that have become paramount in Anderson's films (i.e. opening of Boogie Nights, walking through TV studio in Magnolia) are as smooth and interesting as anything from Scorsese. The Vegas Muzak is a touch that adds, like with Melville, a cool kind of touch not at all un-like film-noir. It's actually a thin line that Anderson is walking; how to make the Melville story's elements (an aging gambler past his prime, watching over the young people in their own messes, seeing the old turn to new) as one's own. I think he's achieved that in the film with a sense of sincerity with the characters dialog with each other. Perhaps Sydney has a different agenda than just being friendly. But Anderson wisely allows Hall to make the right choices with just certain facial expressions, what isn't said that counts. And the scenes with Samuel L. Jackson bring out the kind of intensity, sometimes quiet sometimes not, that hallmark his best performances. Maybe not a masterpiece, but it certainly isn't the work of an amateur, assured in his own script as a director, and in the strengths of his four key players.",
+         "Though he is best known for two ambitious ensemble pieces such as Boogie Nights and Magnolia, writer/director Paul Thomas Anderson was first noticed thanks to a low-key, unpretentious character study, a gem called Sydney. The film takes its title from the main character, a lonely elder man played by Philip Baker Hall. At a diner he runs into John (John C. Reilly), a poor fella who has just lost all his money. Sydney buys him coffee, and after a little chat he persuades him to come to Reno. Once there, they manage to get a free room and under Sydney's tutelage John quickly becomes a successful gambler. All's well until he falls in love with Clementine (Gwyneth Paltrow), a waitress and part-time prostitute, and trouble ensues with a gangster named Jimmy, meaning Sydney will have to come up with something extreme to save his protégé. For a first-time director Anderson shows great skills and confidence: even though he doesn't do much but follow four characters, he frames each shot to perfection and proves he is every bit as good as Scorsese at staging tracking shots (a thing he perfected on his next two features). But style doesn't really matter here: the important thing is that the audience cares for the story, and this essentially happens courtesy of sublime dialogue and great acting. Anderson fought really hard to keep the movie's original title (and partially failed, which is why the film is known as Hard Eight in some countries), and the reason is clear from the beginning: the picture rests entirely on Hall's shoulders, and he carries it admirably. His performance is nuanced and genuine, and he manages to ensnare the viewer even when we are not sure what his motives are (and once they are revealed, it is not that important). Reilly is equally good, in a turn that opened his way to becoming one of the most reliable character actors in Hollywood, and the same intensity emerges from Paltrow and Jackson, the latter in particular adding extra dramatic flesh to what could have been a rehash of his more famous roles (Pulp Fiction etc.). Even Philip Seymour Hoffman, who has a brief but memorable role as a cocky gambler, gets his opportunity to shine, showing beyond any doubt that Anderson has a great eye for casting. He also knows how to write: the dialogue flows freely and seamlessly between the players, spawning some of the most affecting, realistic conversations ever heard in a movie, although the director can't resist the temptation to insert a couple of in-jokes as well (in one scene, Hall mentions two characters he wound up playing in Boogie Nights and Magnolia). Overall, a very good film, and a must-see for PT Anderson fans: like many other directors who rose to fame in the '90s (Tarantino, Rodriguez, Bryan Singer) he proved right from the start what he was capable of, and has never disappointed the audience since that.",
+         "Excellent movie. Excellent actors. I like the calm flow of the movie. Dialogs are strong: very realistic, not cultivated in a predictable and understandable main stream drama form. The hostage scene is brilliant. In many movies the characters react in a movie-like way, shaped in how the characters would react if...too cultivated, mostly showcases for actors to show how emotional and brilliant they can play their roles. In this movie the characters many times don't know what to say or how to react and that's brilliant in my opinion. In real life you don't have strong and powerful one-liners at hand. But still it is a movie and put into a form, a calm and understated, but brilliant form.",
+         "Paul Thomas Anderson's first movie and wow what an entrance to make. Its refreshing to see a film maker making films with characters that you care about and fine dialogue. Why dont people talk in movies any more? If you think the same watch this film. This film is an absolute treat right from the opening scene, a true hidden gem which didnt even get a release in the UK!!! You will see some of the finest performances in film and be warned you will remember these characters for the rest of your life. 10/10 awsome!",
+         "Philip Baker Hall's Sidney kept me riveted from the first scene to the last. He play the mesmerizing, enigmatic title character with rare mastery and grace. The supporting characters are no slouches either. John C. Reilly is marvelous as Sidney's sweet, if somewhat slow witted protege. Samuel Jackson could have easily coasted on this one, simply repeating a performance from any of a number of previous tough guy types. Instead he creates an entirely new character, one with a reptilian quality not seen in his usual thugs. Even Gwenyth Paltrow is unusually strong as Clem, the waitress who wants it understood that, even if she sometimes sleeps with men for money, she is definitely NOT a prostitute. I've been a fan of PT Anderson for a while now, and this film gave me new insight into why it is I like him so much. Anderson is that great rarity in modern filmmaking, an actor's director. He gathers terrific actors and inspires them to career-topping performances. There's no fiendishly complex plot here, no nailbiting suspense, no big payoff at the end. Just marvelous actors making the most of an excellent script.",
+         "Caught it last night on Belgian TV. A little gem. An old guy, superbly played by Baker Hall, trying to relive his youth by helping two young losers (O'Reilly and Paltrow) get their lives back together. Of course they'll never make it: once a loser, always a loser. But Sydney still has to try. The claustrophobic, rip-off world of casinos, anonymous 'luxury' hotels, sleazy motels, is superbly portrayed. Surely, after watching this film, nobody would ever want to visit Vegas. Paltrow is brilliant as the whore with zero self-esteem, ready to destroy her chance of a new start for the sake of 300 bucks; money is the only way of validating her self-destructive promiscuity. Samuel Jackson swaggers through the role of Satan as if born to it. The only jarring note, preventing this one getting a 9/10, is the stuff about Sydney wanting to atone for shooting the young guy's father. This feels like it was written in as an afterthought, by some dumb studio exec who'd missed the film's whole point: 'The tragedy of youth is old age' (Oscar Wilde).",
+         "Hard Eight (1996/Paul Thomas Anderson) ***1/2 out of **** The camera opens to a diner called \"Jack's Coffee Shop\". A semi is pulling out of the parking lot. After it pulls away, two people are revealed. A young man sitting by the door with his face to the ground, and an older man who is walking towards him. Even though we can't see his face, we know he is old, just by the way he moves. He asks the young man if he would like some coffee and cigarettes. And this is how Paul Thomas Anderson's first film begins. \"Hard Eight\" is about a down and out loser named John (John C. Reilly), who sits outside a diner, until he is encountered by a mysterious old man named Sydney (Philip Baker Hall). Sydney offers him $50, and a lesson in gambling. Before to long, they are in Reno, making lots of money. Then two people get in the way of their friendship: Clementine (Gwyneth Paltrow), a hooker/waitress; and Jimmy (Samuel L. Jackson), a mischievous security guard who seems to be hiding something. I never thought that Paul Thomas Anderson could make such a grounded film with substance. His usual films are flashy ensembles, and they move fast. But \"Hard Eight\" is a different story. It is a slow paced Film Noir, that is both quiet and observant. The cinematography is drab, and the direction is tranquil. Philip Baker Hall and Paltrow turn in good performances. But it is Jackson who really shines. The twist could have been over done, but instead, it is handled nicely and effectively. \"Hard Eight\" is by far one of the most interesting character studies of the 90's. I like this cool side of Anderson, and I wish he would use it more often than his usual over the top formula (although I like both). This is no classic, but I found it worth buying. -30-",
+         "This is also known as \"Sydney\" (director Paul Thomas Anderson's original title) after the name of the movie's central character, a somewhat mysterious casino gambler (and murderer, by the way) played by veteran Philip Baker Hall. The new and more commercially-viable title comes from the game of craps in which the dice player can roll an eight with a six and a two or with a five and a three or with two fours. Since probabilistically the hardest way to roll an eight is with two fours, that's called a \"hard eight.\" Such a choice occurs twice in the movie, and symbolically a \"hard eight\" may represent the gambler's psychology. Co-starring as Sydney's protégé is John C. Reilly as John Finnegan, a kind of lovable schmuck who falls in love with a Reno waitress/prostitute named Clementine, played quirkily by Gwyneth Paltrow. Samuel L. Jackson has a modest but very convincing part as a casino security sleaze. Anderson's direction of these very talented actors was excellent. I wish I could say the same for his script. Most viewers I suspect will find this a bit dull; and, as it unfolds and we find out why Sydney is playing guardian angel to John, viewers may even be disappointed. I know I was. I had expected something original as Sydney's motivation, but what we learn in the last reel is quite ordinary (as movie motivations go). What kept me watching was of course trying to figure out what makes Sydney tick and why and how he can spend his time so aimlessly gambling (and almost always losing), and where his money comes from. I also was intrigued by the originality of Anderson's treatment as opposed to his story per se. The stylized, slightly \"off\" dialogue, especially well-suited to Reilly's studied interpretation and Philip Baker Hall's inscrutability, reminded me of something that might have been written by David Mamet or even Quentin Taratino. Finally I was interested in seeing how Paltrow would play a role seemingly quite removed from her screen persona. I thought the delicate and very winning star of Shakespeare in Love (1998), etc., worked hard to create the sort of lower-class, uneducated, \"victim\" of the Las Vegas/ Reno casino culture that Anderson had in mind, and I thought she did it well. However, hers was not a sympathetic role and it did not test Paltrow's range as a actress, although playing a prostitute is something many actresses find interesting. I am thinking of Julia Roberts in Pretty Woman (1990) and Elizabeth Shue in Leaving Las Vegas (1995) or even Catherine Deneuve in Belle de Jour (1967). Bottom line here is that this is a studied, \"arty\" movie well worth seeing because of the performances and as an example of Anderson's unique style, but not something for a mass audience or for those viewers looking for a diverting thriller. But see this for Philip Baker Hall, one of those rare actors to actually find his best roles and do his best work in his sixties. Indeed, his performance here revitalized a career that had long languished. In this regard I am reminded of the Swedish actor Victor Sjostrom who gave perhaps his greatest performance in Ingmar Bergman's Wild Strawberries (1957) when he was 80 years old. Although I have seen little of Hall's work, I am willing to bet that this was one of his greatest performances. (Note: Over 500 of my movie reviews are now available in my book \"Cut to the Chaise Lounge or I Can't Believe I Swallowed the Remote!\" Get it at Amazon!)",
+         "This first film from Paul Thomas Anderson shows the promise he would later fulfill with BOOGIE NIGHTS. The writing here is as sharp as it was in the later film, but it must be said as a director, he sometimes lets scenes go on too long (ironic that BOOGIE NIGHTS, which is a longer film, is also a tighter one). The main connection between both films is Anderson's obvious affection for his characters. Also the relationship between Sydney and John doesn't turn out the way you'd expect. And Anderson is to be commended for avoiding melodrama. Philip Baker Hall is one of those actors who you may not know by name, but when you see him you instinctively feel he's right for the part, no matter how small. This is one of his rare leading roles, and he's perfect, showing the character's success and also his loneliness, without sentimentalizing it. John C. Reilly is properly eager and naive as John. Samuel L. Jackson is dependable here, and Gwyneth Paltrow proves she doesn't need a British accent to give a good performance. She and Jackson should also be commended for backing Anderson when he had problems with the studio.",
+         "Most people didn't catch this movie when it was released (in the cinema or on video), but did discover Paul Thomas Anderson's work with the phenomenal \"Boogie Nights.\" Make no mistake: this film is every bit as good, perhaps better, than \"Boogie.\" It's a small film whereas \"Boogie\" is a huge film, but it's packed with outstanding performances (many from actors and actresses who would go on to appear in \"Boogie\"), a great script (and a tighter story than \"Boogie\"), and the same fantastic direction. Everyone who loved \"Boogie,\" and even those who didn't, should go back and rent this film. A very stylish, moody drama/mystery."
+      ],
+      "genres": [
+         "Crime",
+         "Drama"
+      ],
+      "productionCompanies": [
+         "Green Parrot",
+         "Rysher Entertainment",
+         "Trinity"
+      ],
+      "summaries": [
+         "John has lost all his money. He sits outside a diner in the desert when Sydney happens along, buys him coffee, then takes him to Reno and shows him how to get a free room without losing much money. Under Sydney's fatherly tutelage, John becomes a successful small-time professional gambler, and all is well, until he falls for Clementine, a cocktail waitress and sometimes hooker.",
+         "Sydney is a veteran gambler in his sixties who still spends his time at the casinos. When he meets John, a loser with no money at all, he sees him as a son and tries to help him. He takes care of him and teaches him all the tricks of his work. He also helps him to make a relationship with Clementine, a young girl who works at the casino as a waitress. John doesn't seem to be bothered by the fact that Clementine is also a hooker, but soon something happens that turns their lives upside down."
+      ],
+      "budget": 3000000
+   },
+   "movielensId": 2952,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1996-02-28",
+      "dvdReleaseDate": "1999-10-05",
+      "directors": ["Paul Thomas Anderson"],
+      "runtime": 96,
+      "movieId": 2952,
+      "title": "Hard Eight",
+      "mpaa": "R",
+      "actors": [
+         "Philip Baker Hall",
+         "Gwyneth Paltrow",
+         "John C. Reilly",
+         "Samuel L. Jackson",
+         "F. William Parker",
+         "Philip Seymour Hoffman",
+         "Melora Walters",
+         "Robert Ridgely",
+         "Nathanael Cooper",
+         "Wynn White",
+         "Kathleen Campbell",
+         "Michael J. Rowe",
+         "Peter D'Allesandro",
+         "Steve Blane",
+         "Jean Langer",
+         "Andy Breen",
+         "Renee Breen",
+         "Jane W. Brimmer",
+         "Mark Finizza",
+         "Richard Gross",
+         "Cliff Keeley",
+         "Carrie McVey",
+         "Truman Robbins",
+         "Ernie Anderson",
+         "Wendy Weidman",
+         "Jason \"Jake\" Cross"
+      ],
+      "imdbMovieId": "0119256",
+      "originalTitle": "Hard Eight",
+      "genres": [
+         "Drama",
+         "Thriller"
+      ],
+      "youtubeTrailerIds": ["rggtzgTDx1Q"],
+      "plotSummary": "A stranger mentors a young Reno gambler who weds a hooker and befriends a vulgar casino regular.",
+      "tmdbMovieId": 8052,
+      "avgRating": 3.72161,
+      "releaseYear": "1996",
+      "numRatings": 2008,
+      "posterPath": "/rlULHF25GAFc6F3xZhovctWkNCr.jpg"
+   }
+}

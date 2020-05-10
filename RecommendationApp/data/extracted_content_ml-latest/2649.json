@@ -1,0 +1,537 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "castle",
+            "id": 3098
+         },
+         {
+            "name": "frankenstein",
+            "id": 6737
+         },
+         {
+            "name": "classic horror",
+            "id": 155489
+         }
+      ],
+      "imdb_id": "tt0031951",
+      "video": false,
+      "title": "Son of Frankenstein",
+      "recommendations": [
+         3074,
+         3103,
+         28421,
+         17907,
+         24106,
+         27970,
+         18990,
+         22440,
+         3076,
+         30793,
+         27003,
+         3079,
+         3031,
+         26925,
+         29067,
+         28763,
+         83519,
+         22612,
+         27179,
+         30137
+      ],
+      "backdrop_path": "/eeJHA0BIOtwM0ZB2G5AVIt0XNKH.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 12,
+               "character": "Baron Wolf von Frankenstein",
+               "gender": 2,
+               "credit_id": "52fe4383c3a36847f8059bc1",
+               "name": "Basil Rathbone",
+               "profile_path": "/grjsDNr7wt6E57Bf2GDg0yaBsRo.jpg",
+               "id": 8727,
+               "order": 0
+            },
+            {
+               "cast_id": 14,
+               "character": "The Monster",
+               "gender": 2,
+               "credit_id": "52fe4383c3a36847f8059bc9",
+               "name": "Boris Karloff",
+               "profile_path": "/3kY1eEgGFAoVyy8MjNolCS5wouj.jpg",
+               "id": 2922,
+               "order": 1
+            },
+            {
+               "cast_id": 15,
+               "character": "Ygor",
+               "gender": 2,
+               "credit_id": "52fe4383c3a36847f8059bcd",
+               "name": "Bela Lugosi",
+               "profile_path": "/nI14KbMwRNyl8v2Ds5TVAzhu5No.jpg",
+               "id": 1547,
+               "order": 2
+            },
+            {
+               "cast_id": 13,
+               "character": "Krogh",
+               "gender": 2,
+               "credit_id": "52fe4383c3a36847f8059bc5",
+               "name": "Lionel Atwill",
+               "profile_path": "/kZOpzski4M8SZLFNozaAgp7Gbgp.jpg",
+               "id": 2495,
+               "order": 3
+            },
+            {
+               "cast_id": 16,
+               "character": "Elsa von Frankenstein",
+               "gender": 0,
+               "credit_id": "52fe4383c3a36847f8059bd1",
+               "name": "Josephine Hutchinson",
+               "profile_path": "/d394ymYaSSxTMlZY8d2S8brpWHz.jpg",
+               "id": 2643,
+               "order": 4
+            },
+            {
+               "cast_id": 17,
+               "character": "Peter von Frankenstein",
+               "gender": 2,
+               "credit_id": "52fe4383c3a36847f8059bd5",
+               "name": "Donnie Dunagan",
+               "profile_path": "/9zZfLYr9kOsK8X8D5AT2Uc5ADHg.jpg",
+               "id": 30161,
+               "order": 5
+            },
+            {
+               "cast_id": 18,
+               "character": "Amelia",
+               "gender": 1,
+               "credit_id": "52fe4383c3a36847f8059bd9",
+               "name": "Emma Dunn",
+               "profile_path": "/zowy8TC1ftHwzQsuChsQXPJQa4z.jpg",
+               "id": 14033,
+               "order": 6
+            },
+            {
+               "cast_id": 19,
+               "character": "Benson",
+               "gender": 0,
+               "credit_id": "52fe4383c3a36847f8059bdd",
+               "name": "Edgar Norton",
+               "profile_path": "/pZclnxshBQ2zG5SXePY6taySWIm.jpg",
+               "id": 29602,
+               "order": 7
+            },
+            {
+               "cast_id": 20,
+               "character": "Fritz",
+               "gender": 2,
+               "credit_id": "52fe4383c3a36847f8059be1",
+               "name": "Perry Ivins",
+               "profile_path": null,
+               "id": 30162,
+               "order": 8
+            },
+            {
+               "cast_id": 21,
+               "character": "Bürgermeister",
+               "gender": 2,
+               "credit_id": "52fe4383c3a36847f8059be5",
+               "name": "Lawrence Grant",
+               "profile_path": "/vdyBF6rov0AszuggwHNPDj62jiO.jpg",
+               "id": 13343,
+               "order": 9
+            },
+            {
+               "cast_id": 22,
+               "character": "Lang",
+               "gender": 2,
+               "credit_id": "52fe4383c3a36847f8059be9",
+               "name": "Lionel Belmore",
+               "profile_path": "/rLdourbL5LOLXNwkRSyIT6iTOti.jpg",
+               "id": 29817,
+               "order": 10
+            },
+            {
+               "cast_id": 23,
+               "character": "Ewald Neumüller",
+               "gender": 2,
+               "credit_id": "52fe4383c3a36847f8059bed",
+               "name": "Michael Mark",
+               "profile_path": null,
+               "id": 30163,
+               "order": 11
+            },
+            {
+               "cast_id": 24,
+               "character": "Mrs. Neumüller",
+               "gender": 0,
+               "credit_id": "52fe4383c3a36847f8059bf1",
+               "name": "Caroline Frances Cooke",
+               "profile_path": null,
+               "id": 30164,
+               "order": 12
+            },
+            {
+               "cast_id": 26,
+               "character": "Burgher",
+               "gender": 2,
+               "credit_id": "554b4064c3a3685e55001a59",
+               "name": "Gustav von Seyffertitz",
+               "profile_path": "/v1mnrEVtPdSqTpOBHjLPmb2FElm.jpg",
+               "id": 13345,
+               "order": 13
+            },
+            {
+               "cast_id": 27,
+               "character": "Burgher",
+               "gender": 0,
+               "credit_id": "554b4076c3a3685e5b0017ca",
+               "name": "Lorimer Johnston",
+               "profile_path": null,
+               "id": 1167815,
+               "order": 14
+            },
+            {
+               "cast_id": 28,
+               "character": "Burgher",
+               "gender": 2,
+               "credit_id": "554b4088c3a3685e5b0017cf",
+               "name": "Tom Ricketts",
+               "profile_path": null,
+               "id": 119402,
+               "order": 15
+            },
+            {
+               "cast_id": 31,
+               "character": "Gendarme at Gate",
+               "gender": 2,
+               "credit_id": "554b40b092514146a50018fa",
+               "name": "Ward Bond",
+               "profile_path": "/y7WrIGuVPHlMaakPHRYNldxvZRf.jpg",
+               "id": 4303,
+               "order": 18
+            },
+            {
+               "cast_id": 32,
+               "character": "Undetermined Role",
+               "gender": 0,
+               "credit_id": "554b40c49251414694001687",
+               "name": "Betty Chay",
+               "profile_path": null,
+               "id": 1464540,
+               "order": 19
+            },
+            {
+               "cast_id": 33,
+               "character": "Bearded Gendarme",
+               "gender": 2,
+               "credit_id": "554b40d79251411e5a000b4f",
+               "name": "Harry Cording",
+               "profile_path": "/gvWWu40cDWcRbhIwDjx7tyfsgJK.jpg",
+               "id": 98052,
+               "order": 20
+            },
+            {
+               "cast_id": 34,
+               "character": "Actor",
+               "gender": 0,
+               "credit_id": "554b40ea9251414692001aa3",
+               "name": "Jack Curtis",
+               "profile_path": null,
+               "id": 1307855,
+               "order": 21
+            },
+            {
+               "cast_id": 36,
+               "character": "Webber - Burgher",
+               "gender": 2,
+               "credit_id": "554b4111925141469c00183f",
+               "name": "Russ Powell",
+               "profile_path": null,
+               "id": 119547,
+               "order": 23
+            },
+            {
+               "cast_id": 37,
+               "character": "Dr. Berger",
+               "gender": 2,
+               "credit_id": "554b411f92514103d2000d5f",
+               "name": "Clarence Wilson",
+               "profile_path": "/8FmVuzXQGZ94XmwFUaxf3oDYkY0.jpg",
+               "id": 89102,
+               "order": 24
+            },
+            {
+               "cast_id": 38,
+               "character": "Extra",
+               "gender": 0,
+               "credit_id": "575ac17d9251412dc1001a69",
+               "name": "Jack Harris",
+               "profile_path": null,
+               "id": 184604,
+               "order": 25
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4383c3a36847f8059b87",
+               "name": "Rowland V. Lee",
+               "profile_path": null,
+               "id": 30146,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4383c3a36847f8059b8d",
+               "name": "Mary Shelley",
+               "profile_path": "/rcTyPNOKNFmZi61FVdAivtBroXt.jpg",
+               "id": 28970,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4383c3a36847f8059b93",
+               "name": "Wyllis Cooper",
+               "profile_path": null,
+               "id": 30147,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4383c3a36847f8059b9f",
+               "name": "George Robinson",
+               "profile_path": null,
+               "id": 29635,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4383c3a36847f8059ba5",
+               "name": "Ted J. Kent",
+               "profile_path": null,
+               "id": 2920,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4383c3a36847f8059bab",
+               "name": "Jack Otterson",
+               "profile_path": null,
+               "id": 13958,
+               "department": "Art",
+               "job": "Co-Art Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4383c3a36847f8059bb1",
+               "name": "Russell A. Gausman",
+               "profile_path": null,
+               "id": 12348,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4383c3a36847f8059bb7",
+               "name": "Vera West",
+               "profile_path": "/1ExZCRonv0UX8MiiJ5Npem5PVp9.jpg",
+               "id": 13959,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4383c3a36847f8059bbd",
+               "name": "Jack P. Pierce",
+               "profile_path": null,
+               "id": 29813,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4383c3a36847f8059bf7",
+               "name": "Rowland V. Lee",
+               "profile_path": null,
+               "id": 30146,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a829aefc3a3684cdf00e3ad",
+               "name": "Frank Skinner",
+               "profile_path": "/iXSLNqs6Rf9ynJ9TzNSpabNO2iW.jpg",
+               "id": 30104,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Horror",
+            "id": 27
+         },
+         {
+            "name": "Science Fiction",
+            "id": 878
+         }
+      ],
+      "popularity": 8.239923,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 3077,
+      "vote_count": 51,
+      "budget": 0,
+      "overview": "Wolf Frankenstein, son of Henry Frankenstein, returns with his wife, to his fathers estate to claim his inheritance. When he arrives with his family he recieves a hostile reception from locals. While exploring his fathers laboratory he comes across crooked blacksmith - Ygor, who asks him to revive his father's creation - the MONSTER who is lying in a coma. Wolf tries to revive the monster and believes he fails but then some of the locals are found murdered soon after who just happened to be part of the jury that sent Ygor to the gallows. The villagers immediately connect the killings to Frankenstein and send the inspector to investigate. He discovers the monster is alive and is being used as tool by Ygor. Wolf then in fit of madness shoots Ygor. The then enraged monster losing his only friend kidnaps Wolf's son. In the end Wolf tracks the monster to the lab where he swings down on a chain knocking the monster into a sulpher pit and thus his demise.",
+      "similar": [
+         138,
+         17102,
+         7131,
+         29778,
+         76492,
+         159824,
+         6404,
+         6114,
+         12437,
+         49017,
+         3034,
+         41402,
+         653,
+         65086,
+         23220,
+         2907,
+         36586,
+         36647,
+         36648,
+         8698
+      ],
+      "original_title": "Son of Frankenstein",
+      "runtime": 99,
+      "poster_path": "/bmJ0SwZGsTjN03EAwscBxuLRH4e.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+         "name": "Universal Pictures",
+         "id": 33,
+         "origin_country": "US"
+      }],
+      "release_date": "1939-01-13",
+      "vote_average": 7,
+      "belongs_to_collection": {
+         "backdrop_path": "/oR3GHwhvOcjn124b7wOZl9SHh8G.jpg",
+         "name": "Frankenstein (Universal Series)",
+         "id": 218406,
+         "poster_path": "/2PJYpPHOqnVMXelHV1T4t6zra4i.jpg"
+      },
+      "tagline": "The black shadows of the past bred this half-man . . . half-demon ! . . . creating a new and terrible juggernaut of destruction !",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Black and White",
+      "budgetCurrency": null,
+      "directors": ["Rowland V. Lee"],
+      "runtime": 99,
+      "synopsis": null,
+      "writers": [
+         "Mary Shelley",
+         "Wyllis Cooper"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0031951/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTc0NzQ5MjEyN15BMl5BanBnXkFtZTgwMTQ4NzMwMjE@._V1_SY317_CR7,0,214,317_AL_.jpg",
+      "actors": ["Stars: Boris Karloff, Basil Rathbone, Bela Lugosi | See full cast and crew »"],
+      "reviews": [
+         "With the runaway success of the re-issue on a double bill of both \"Dracula\" and \"Frankenstein\" in the late nineteen thirties, Universal Studios decided it was time to resurrect their most lucrative property, the Frankenstein Monster, if the studio was to have any chance of surviving the fiscal year. True to form they originally intended to produce nothing more than a quick cheapie to cash in on the public's renewed interest in horror films. Director Rowland V. Lee had other ideas. He envisioned the film as a modern fairy tale with Frankenstein's Monster as the traditional giant ogre stalking a primordial landscape, and to be sure it is in this film that he first enters the realm of myth. To help achieve this goal he set Jack Otterson to create the most expressionistic sets of any horror film since \"The Cabinet of Dr. Caligari\". The universe of \"Son\" is a world of perpetual night and fog; rain swept castles and blasted heaths; terrifying flashes of lightening; shadowy corridors where giants lurk; hidden passage ways leading to underground crypts, where time, dust and the worm aren't the only things that move among the dead. \"Son of Frankenstein\" is the most visually impressive of all of Universal's horror films and George Robinson's gorgeous black and white cinematography captures every shadow, every out-sized distortion beautifully. This would also be the last time a Frankenstein film would have a script worthy of the subject. Willis Cooper fashioned a contemporary Grimm's fairy tale in which the journey of the film's \"outsiders\", Wolf, Elsa, and Peter will become progressively more nightmarish the deeper they descend; where even breakfast in the morning will be overseen by a pair of monstrous gargoyles. They're journeying by train to inherit the Frankenstein estate, unknown to them a house literally at the edge of Hell, and these opening shots are the most \"normal\" in the entire film. They think of themselves as \"explorers\" and \"exploring something so foreign we can't even imagine what its like.\" They speak of the castle being \"haunted\", while outside the window we see through the wind and the rain a gray expanse of desolation and dead trees. \"What a strange country!\" Elsa exclaims. Their passage into the subterranean netherworld of mad doctors, murderous hunchbacks and monsters has begun and will climax in a necrophilic family reunion, (\"We're all dead here.\") in the Frankenstein crypt, in which both grandfather and father are dead, but the step-brother, the monster and family black sheep is very much alive. \"Do you mean to imply that is my brother?\" Wolf asks. Igor, the true Frankenstein family retainer replies, \"Only his mother was the lightening.\" And it is Wolf's voyage from arrogance and ignorance, (\"Why should we fear anything!\") to humility and wisdom, (\"Never in my life have I known cold fear until that moment I felt his hand on my shoulder!\") which is central to the film. While the film is a follow up to \"Bride of Frankenstein\", it very much stands on its own. Gone are any references to the Bride and Dr, Praetorious, both presumably \"blown to atoms\" at the climax of that film. Also the monster doesn't speak. All traces of speech, at Karloff's insistence were eliminated. The portrait of Colin Clive as Henry Frankenstein dominates the castle's study, and recalls the earlier films. In the scenes on the train Wolf refers to the, \"Blunder of a stupid assistant who gave his father's creation the brain of a killer instead of a normal one.\" This is of course, a direct reference to the first film. Karloff's return to his greatest role completes the linking of the three films. And consistent with the impressive visuals, the Monster is given his most striking look. Gone is the distinctly twentieth century black garb so beloved of the Universal Frankenstein films. Instead the Monster is clothed in a crude sheepskin jersey, with heavy shirt and trousers stitched together with strips of leather. Indeed, his whole appearance has become that of a giant, an ogre out of Grimm or Perrault. He even gets the traditional giant's club in the form of Krogh's wooden arm at the film's climax. As if to underscore this, Peter gives the Monster a present-a storybook of fairy tales! The film may have the greatest horror film cast ever. There is Karloff dominating as the Monster. Given less screen time than in the previous film, his scenes are still among his most powerful. To cite just two examples, the scene where he rises like Lucifer out of the pit is like an image from Dante's Inferno while his primal howl of grief upon discovering the dead Igor is one of the Monster's greatest moments from any of the Frankenstein films. Bela Lugosi easily has his best role after Dracula as the broken neck, hunchback, Igor. Creepy, roguish, even pitiable, one is reminded of what a fine actor he could be with a role worthy of his talent. Lionel Atwill with his beautifully clipped vocal delivery and sardonic sense of humor has his definitive screen role as the one arm Inspector Krogh; he doesn't miss any opportunity for scene stealing bits of business with that wooden arm. And there is Basil Rathbone as Wolf. He doesn't have Karloff's make-up or Lugosi's broken neck or Atwill's wooden arm, but he gives a full-blooded commanding performance that refuses to get lost in this who's who of cinematic ghouls. William K. Everson once said that only a truly great actor can get away with a little deliberate ham now and then, and if Rathbone is a little over the top, it is ham well seasoned and served and adds enormously to the enjoyment of the film. Finally Frank Skinner's incredible film score would set the standard for Universal's horror films for the next decade.",
+         "Series note: I strongly recommend that you watch the Frankenstein films to this point in order. Each builds on the events of the previous entry and will have much more meaning and significance if watched in order. The first film is Frankenstein (1931), and the second is Bride of Frankenstein (1935). The third film in Universal's Frankenstein series, Son of Frankenstein is set after the first two film's Henry Frankenstein has passed away. Baron Wolf von Frankenstein (Basil Rathbone), Henry's son, is on his way to claim his inheritance from his father, and receives a not-too-warm welcome from the small German town that has been frightened out of its wits by Henry's doings with monsters. While staying at the family castle, Wolf opens a box containing his father's research records and a note from his father encouraging him to follow in the same footsteps. He initially believes he's not worthy of such encouragement, but becoming a \"mad doctor\" may be easier than he thinks. In both the overall tone of the film and in the tone of Boris Karloff's last turn as \"The Monster\", Son of Frankenstein is much more closely allied with James Whale's first Frankenstein film, rather than the camp-fest that was Bride of Frankenstein. New series director Rowland V. Lee has everything played various seriously, even Bela Lugosi's Ygor, which could have easily become funny, intentionally so or not. Adding to the atmosphere are the sets, which are just as grand in their own way as anything in either of Whale's two Frankenstein films. This time around the expressionist influence is at its strongest, but it is combined with a prescient minimalism. While the first two films had strong surrealist visual touches combined with their expressionism, Son of Frankenstein dispenses altogether with any concerns of approaching realism or naturalism. The idea here instead is to create starkness and shadows, often with a maximum of intentional artificiality. It's an appropriate approach that both pays homage to the earlier films and reflects the plot of the present film--shadows are an offspring of their parent objects, and the monster is an artificial man. The production and set design of the film is even more remarkable when one realizes that art directors of the era routinely worked on many films at once. Son of Frankenstein's Art Director Jack Otterson, for example, worked on over 50 films in 1942 alone! It's a rare treat to have three genre icons the caliber of Rathbone, Karloff and Lugosi together in one film. They mesh exquisitely, managing to enhance each other's performances with no one upstaging anyone else. Lionel Atwill, as Inspector Krogh, easily holds his own with the trio (although any fan of Mel Brooks' Young Frankenstein (1974) is sure to laugh at occasional moments involving Krogh, since he is so perfectly spoofed in Brooks' film), as does the beautiful Josephine Hutchinson as Frankenstein's wife Elsa (named after the woman who played The Bride in the previous film, Elsa Lanchester) and Donnie Dunagan as their son Peter. Lugosi's Ygor was supposedly improvised then written into the film--Lugosi was originally slated to play a policeman. This is remarkable in that his shepherd character and relationship to The Monster are so well integrated. The Monster symbolically wears a heavy woolen vest/smock, and has a deeply symbiotic relationship with Ygor that is the core of the film. Ygor is also \"undead\" in his own way. While Son of Frankenstein is not nearly as epic as the first two films, it should not be. Its aim is to unfold more like a stage play, with highly abstract, symbolic sets and finely integrated performances from a skilled cast. As such, it is every bit as good as the first two films in the series.",
+         "Usually the third film in a series shows signs of decline either in quality or inventiveness. Even the third 'Godfather' was significantly less than its predecessors. Universal's 'Frankenstein' series that began in the early 1930's was no exception and showed some wear by the end of the decade when 'Son of Frankenstein' was released. Under the sensitive direction of James Whale, the original 'Frankenstein' was a classic, and, in the first sequel, 'Bride of Frankenstein,' Whale even managed to better it. However, while Whale was not involved with 'Son,' the third installment turned out to be a surprisingly good movie even if it failed to match the two preceding films. Perhaps the major reason for the success of 'Son' was the casting of Basil Rathbone as Wolf Frankenstein, the original Baron's son. Rathbone is a fine strong actor, and his characterization certainly exceeds Colin Clive's somewhat colorless portrayal of his father in the preceding films. Rathbone holds the viewer's attention throughout as he becomes immersed in the legacy of his father and fails to comprehend the consequences of what he is doing. Boris Karloff returns for a third time as the monster. Although he does a fine job, there is less opportunity for the actor to show the range of emotion in this film that he displayed in 'Bride.' Another aspect of 'Son' that raises it above the ordinary is the set and lighting design, which owes a debt to German expressionism. The sets have bold diagonals in their construction, and the cameraman has lit them to cast equally bold shadows against bare walls and create abstract patterns that often recall 'The Cabinet of Dr. Caligari.' The lighting and design of one particular section of a cave under the Frankenstein laboratory could have been blown up and framed as an expressionist photograph. Although it does not reach the heights of the Whale films, 'Son of Frankenstein' is a worthy successor and an engrossing film in its own right.",
+         "A strong cast (including Boris Karloff in his last screen appearance as the Monster) makes the second sequel to Frankenstein memorable. This time Henry Frankenstein's son, Wolf (Basil Rathbone) revives the dormant monster with the help of Ygor (Bela Lugosi, in his most underrated performance). This is an impressive, intelligent production that scores highly in all departments. 9/10",
+         "The Son Of Frankenstein was made by Universal Studios under a new regime in 1939.Gone was Carl Laemmle Jr. who was so responsible for all of the great chillers that are true classics that every filmmaker is in someway inspired by whenever a new fright film is made. The new heads at Universal had realized that there was money to be made from the ghoulish creations that the Laemmles,James Whale,Tod Browning and the Great make-up wizard Jack Pierce had created.It was a year or so before Son Of Frankenstein was released when a wise theater owner had booked both Universal's Dracula and Frankenstein on a double bill which had audiences clamoring for them...so Universal realized they still had hot properties and so they decided to make another sequel to the famed Frankenstein series. The Great Basil Rathbone now played Baron Henry Frankenstein's son who would journey to his homeland to claim his inheritance.Rathbone is Baron Wolf von Frankenstein and his wife is Baroness Elsa von Frankenstein(Josephine Hutchinson) who have a little boy.Rowland V. Lee is the Director of this film and has made what is considered to be the darkest and most germanic film in the series.The village is now known as Frankenstein and the villagers are hateful even when Rathbone tries to reach out to them by making a passionate speech regretting what has happened to them and his Father having been responsible for the creation of the Monster...but it's to no avail as the Burgomeister says to this Baron von Frankenstein,\"we come to meet you, not to greet you.\" Colin Clive would be seen in the series only in clips now from the first two films he was in because he'd expired in 1937. Ironically,Basil Rathbone was in real life older than the man who'd played his Father with this Son Of Frankenstein having been born in 1892 and Colin Clive in 1900. The old watchtower is now on the Frankenstein estate where Rathbone's character goes and explores one morning.It is inside this old structure that he meets Bela Lugosi's greatest role of all time:the evil Ygor.A shaggy Lugosi with a moustache,beard, having a broken neck and speaking with a gravelly voice in broken English leads Rathbone to a secret crypt in the old watchtower where Baron Wolf von Frankenstein sees where his Father-Baron Heinrich von Frankenstein(better known as Henry) and his Grandfather are now buried. As Wolf and Ygor walk farther into this crypt he discovers the Frankenstein Monster(Boris Karloff) in a comatose state.In this scene,the Monster flinches as Rathbone's Baron von Frankenstein screams out in shock,\"He's Alive!\" ...proving he has the same great Frankenstein blood flowing through his veins as that of Colin Clive. This film is this writer's favorite of the Karloff and Lugosi films with Basil Rathbone and Lionel Atwill as Inspector Krogh giving excellent performances as well. The world that these character's live in this film is the most unreal of any in the series.It's always overcast or foggy with enormous dead trees that Karloff's Monster topples over while he goes about doing Ygor's bidding.Josephine Hutchinson had said that she,Rathbone and Lionel Atwill had found the movie hard to take seriously which may explain why Rathbone is delightfully hammy at times.But don't get this writer wrong I LOVE THIS FILM AND CONSIDER IT AN ALL TIME CLASSIC. Lionel Atwill is excellent as Inspector Krogh who had his arm pulled off by the Monster as a child and makes a point with it in numerous scenes throughout this movie. But Karloff and Lugosi work excellently together seeming to be the absolute closest of friends as Monster and the evil Ygor.Boris Karloff left this series on truly a high note . Son Of Frankenstein is one of the greatest movies ever made. The Great Boris Karloff would return to the Universal series one last time in 1944 in House Of Frankenstein to play the mad scientist Dr.Gustav Niemann...and he makes the most of this evil character too.",
+         "\"Son of Frankenstein\" is the third installment of Universal's long running Frankenstein series. It is also the longest running at 92 minutes and was given the biggest budget of all the Frankenstein films. Apparently Universal wanted this film to be their showpiece for 1939 and actually planned to film it in color. Unfortunately, the monster's makeup photographed a pale green and they went back to the old reliable black and white. With all the hoopla and first rate cast, this film comes up short of the first two in the series. The story picks up some years after the first two. Baron Wolf von Frankenstein (Basil Rathbone), the son of Henry, his wife Elsa (Josephine Hutchinson) and young son Peter (Donnie Dunagon) return to the family castle. The village resents him having not forgotten the carnage created by his father's creation. Lurking about the castle is the mysterious Ygor (Bela Lugosi) who harbors a deadly secret. Frankenstein confronts Ygor who shows him that the monster (Boris Karloff) created by his father did not perish. Ygor explains that \"He is my friend...he does things for me\". We then learn that several prominent villagers have been mysteriously murdered and that the killer remains at large. Frankenstein gets his creative juices flowing and agrees to restore the monster to his full potential. Unknown to Frankenstein, the monster has been in contact with his son and has been moving about. A suspicious police inspector (Lionel Atwill) begins to watch Frankenstein's movements. Realizing that Ygor is in control of the monster the Baron confronts him and..... Director Rowland V. Lee takes over from James Whale as director and seems to favor dark shadowy geometric designs for his set pieces. Gone are the classic gothic creepy settings of the first two films. What we have are a sparsely furnished barn of a castle and only remnants of the glorious laboratories of the earlier films. This was the final appearance for Karloff as the monster. Here, he is given little to do except to be Ygor's henchman. He no longer talks and invokes no pathos whatsoever. Rathbone is way over the top as usual, as the Baron. Lugosi, in his best part in years, steals the film. He is the real villain of the piece. Given the time of the film, Lionel Atwill's character seems to be a lampoon of a German officer. And poor old Dwight Frye, wasted again, appears in the crowd as a villager. After this film the series would degenerate into \"B\" status with running times of just over an hour.",
+         "The last Boris Karloff Frankenstein. The Baron's son Wolf (Basil Rathbone) comes to move to his late father's estate--a big beautiful castle. Inside he meets Ygor (Bela Lugosi) a crippled madman who wants to revive the Monster (Karloff). Naturally everything goes wrong. Elaborate sequel to the series--the last really good one that Universal spent money on. The sets are huge and incredibly bizarre (note the huge wooden stairs going to the second floor). Also they're shot using weird camera angles and making very good use of light and darkness. There's ALWAYS something to look at in this movie. The script is intelligent and literate with almost uniformly good performances. Basil Rathbone chews the scenery as Wolf. Josephine Hutchinson is given nothing to do as his wife--but she does it beautifully. Lionel Atwill (already typecast as a policeman) is good and very amusing with his wooden hand. Lugosi is really creepy as Ygor. Best of all is Karloff--he uses pantomime throughout the whole picture (even though in the previous \"Bride of...\" he had learned to speak) and gets every meaning across. He doesn't even really start going until an hour in but he makes up for it! The only debit is Frankenstein's son played by an annoying child actor named Donnie Dunagan. His acting is laughable (even for a child) and he speaks with a distinct Southern accent!!! Then again he WAS from Texas. Still, a really good, spooky, elaborate horror film. Highly recommended.",
+         "'Frankenstein' and 'Bride of...' pretty much told a complete story. And the story was fashioned in such a way that the viewer is watching the events as they unfold. As the events unfold, the story shifts from the torment of the creator, Frankenstein, to the torment of the creation, the Monster. Now in 'Son of...', the emphasis is shifted back to the scientist. And Karloff no longer has a monopoly on the role of the 'Back From the Dead'; he shares that with Lugosi's 'Ygor'. Nor does he have the monopoly on the 'Artificial Human'; he shares that spot with Atwill's one-armed 'Inspector Krogh'. Nor does he possess his personality that was gradually evolving in the first two entries. The Monster has been reduced to a hulking henchman bound to the will of the evil Ygor. The 'Monster turned pawn' had actually begun in 'Bride of...' as Pretorious used him to force Frankenstein to create the Monster's mate. You could almost say that the Monster was used as a tool for Henry Frankenstein to play God; a tool for Pretorious' dream to create a new race; and a tool for Ygor's desire for revenge on the jurors who condemned him to the hangman's noose. The difference in 'Son of...' is that the Monster no longer evolves and the character is left with no where to go. But this is still a fascinating film. Director Lee replaces realistic sets and background with surrealism. Details from the first two films are abandoned for light background and twisted, gargantuan shadows. And much of some great action set-pieces have already occurred off screen, before the movie begins. Which means we're left with alot of talk of 'what was' and 'what happened before'. Which kind of fits into the definition of what a legend constitutes. Fortunately, the actors doing the talking are Rathbone, Lugosi and Atwill. Even Rathbone's over the top performance can be forgiven, knowing his next film(?) was his signature (& debut) role as Sherlock Holmes in 'Hound of the Baskervilles', a role he was absolutely brilliant in. Even though Karloff has a much reduced role, the gigantic sets, dead trees and slanted architecture compels the viewer to be constantly aware of his lurking menace. It is this approach that, standing on its own, makes this a fine film. The viewer is forced to rely on imagination more than the first two movies put together. It is certainly a more polished film than the original. And Lugosi and Atwill's support acting are leagues above the wooden Mae Clarke, John Boles and Valerie Hobson. Like the Monster; \"tis better to have been made, than never to have been made at all\". We would have missed out on all that fun. 7 out of 10 ! One of my favorite 'Frankenstein' films.",
+         "What a delightful sight, seeing Basil Rathbone, Boris Karloff and Bela Lugosi all together in this movie. Seeing the three of them in one shot gave me a special feeling, these three guys are among the biggest screen legends of all time. Basil Rathbone is always a big pleasure to watch in a movie, he was a true great 'classic' actor. Bela Lugosi was almost unrecognizable in his role as Ygor and he played his character with lots of passion. Unfortunately the age was showing for Karloff. He was well over 50 years old when he played the Frankenstein monster for the last time in this movie. His 'old' age is truly notable, even through his make-up. I think it was a good thing that he never played the famous classic horror character again after this movie. The story is still interesting enough to make this movie original, even though the depth and emotions of the previous two Frankenstein movies is missing. It's a bit strange that the first two Frankenstein movies with Karloff are very well known but this movie is not. This movie is truly excellent and should deserve so more recognition and appreciation. The atmosphere is just as good as from the previous two movies and the monster is still one powerful horror character, even though his role is rather limited compared to the first two movies. This time the real main part is Baron Wolf von Frankenstein played by Basil Rathbone. Some people might be disappointed by this but being a fan of Rathbone I'm not complaining about this. The movie has enough originality and the story is surely interesting enough to call this movie a worthy addition to the Frankenstein movie legacy. But what made this movie truly interesting and amazing to me, were the three main actors of the movie Rathbone, Karloff and Lugosi. 9/10 http://bobafett1138.blogspot.com/",
+         "When Baron Wolf von Frankenstein (Basil Rathbone) arrives to take over his father's estate, the locals immediately begin to fear for the worst. Wolf's father created a monster that terrorized the community and the townsfolk want no more of that. Wolf assures everyone that he has no intentions of creating a monster. But when Wolf finds Ygor (Bela Lugosi) living in the ruins of his father's laboratory, he is soon headed down the same path of destruction that claimed his father. Over the years, there have been volumes written on the Universal classic horror movies. Realizing that it would be foolish of me to attempt to improve or add much to the writings of these scholars, I'll instead focus on a couple of areas that make Son of Frankenstein so special to me. 1. The Acting. Son of Frankenstein features a Who's Who of the best of the classic horror actors. Joining Rathbone and Lugosi in the cast are Boris Karloff and Lionel Atwill. While each gives a noteworthy performance in their own right, Lugosi's performance is generally held up as the best of his career. And while I agree, Rathbone makes Son of Frankenstein a joy for me to watch. There are very few actors that I can think of who could have played Wolf with the same type of intelligent energy that Rathbone exhibits. He's wonderful. As for Karloff, I'm glad he decided to make Son of Frankenstein his last as the monster. By the time of the second sequel, Karloff's monster became little more that a prop for Lugosi, Rathbone, and Atwill to fight over. 2. The Sets. I'm not exaggerating when I say that the sets in Son of Frankenstein are among the best I've ever seen. The sets are amazing with their bizarre angles and shadows. Two that immediately come to mind are the dining table set and the staircase set at the beginning of the movie. They are in a class of their own. Every fan of horror, or just good classic movies in general, owes it to themselves to see Son of Frankenstein. It may not be as well known among the casual fan as either Frankenstein or Bride of Frankenstein, but it many ways it's the equal of those two films (if not better)."
+      ],
+      "genres": [
+         "Sci-Fi",
+         "Horror",
+         "Drama"
+      ],
+      "productionCompanies": ["Universal Pictures"],
+      "summaries": [
+         "Wolf von Frankenstein returns to the Baronial manor from the United States with his wife Elsa and son Peter. He not made welcome by the locals who are still terrified of his father's works and the monster he created. The local Burgomaster gives him a sealed briefcase left by his father and inside, Wolf finds his father's scientific notes. At the manor house he meets his father's assistant Igor who has a surprise for him: the monster his father created is still alive, though in some sort of coma. Wolf's initial attempts to re-animate the creature seem to fail but when Peter says he saw a giant in the woods, it appears he's met success. When people are mysteriously killed in the village there is little doubt that the monster is responsible.",
+         "Wolf Frankenstein, son of Henry Frankenstein, returns with his wife, to his fathers estate to claim his inheritance. When he arrives with his family he recieves a hostile reception from locals. While exploring his fathers laboratory he comes across crooked blacksmith - Ygor, who asks him to revive his father's creation - the MONSTER who is lying in a coma. Wolf tries to revive the monster and believes he fails but then some of the locals are found murdered soon after who just happened to be part of the jury that sent Ygor to the gallows. The villagers immediately connect the killings to Frankenstein and send the inspector to investigate. He discovers the monster is alive and is being used as tool by Ygor. Wolf then in fit of madness shoots Ygor. The then enraged monster losing his only friend kidnaps Wolf's son. In the end Wolf tracks the monster to the lab where he swings down on a chain knocking the monster into a sulpher pit and thus his demise.",
+         "One of the sons of Frankenstein finds his father's monster in a coma and revives him, only to find out he is controlled by Ygor who is bent on revenge."
+      ],
+      "budget": 0
+   },
+   "movielensId": 2649,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1939-01-13",
+      "dvdReleaseDate": "2001-08-28",
+      "directors": ["Rowland V. Lee"],
+      "runtime": 99,
+      "movieId": 2649,
+      "title": "Son of Frankenstein",
+      "mpaa": "NR",
+      "actors": [
+         "Basil Rathbone",
+         "Boris Karloff",
+         "Bela Lugosi",
+         "Lionel Atwill",
+         "Josephine Hutchinson",
+         "Donnie Dunagan",
+         "Emma Dunn",
+         "Edgar Norton",
+         "Perry Ivins",
+         "Lawrence Grant",
+         "Lionel Belmore",
+         "Michael Mark",
+         "Caroline Frances Cooke",
+         "Gustav von Seyffertitz",
+         "Lorimer Johnston",
+         "Tom Ricketts",
+         "Ward Bond",
+         "Betty Chay",
+         "Harry Cording",
+         "Jack Curtis",
+         "Russ Powell",
+         "Clarence Wilson",
+         "Jack Harris"
+      ],
+      "imdbMovieId": "0031951",
+      "originalTitle": "Son of Frankenstein",
+      "genres": [
+         "Horror",
+         "Science Fiction"
+      ],
+      "youtubeTrailerIds": ["iMzbgLftYro"],
+      "plotSummary": "Wolf Frankenstein, son of Henry Frankenstein, returns with his wife, to his fathers estate to claim his inheritance. When he arrives with his family he recieves a hostile reception from locals. While exploring his fathers laboratory he comes across crooked blacksmith - Ygor, who asks him to revive his father's creation - the MONSTER who is lying in a coma. Wolf tries to revive the monster and believes he fails but then some of the locals are found murdered soon after who just happened to be part of the jury that sent Ygor to the gallows. The villagers immediately connect the killings to Frankenstein and send the inspector to investigate. He discovers the monster is alive and is being used as tool by Ygor. Wolf then in fit of madness shoots Ygor. The then enraged monster losing his only friend kidnaps Wolf's son. In the end Wolf tracks the monster to the lab where he swings down on a chain knocking the monster into a sulpher pit and thus his demise.",
+      "tmdbMovieId": 3077,
+      "avgRating": 3.25123,
+      "releaseYear": "1939",
+      "numRatings": 408,
+      "posterPath": "/bmJ0SwZGsTjN03EAwscBxuLRH4e.jpg"
+   }
+}

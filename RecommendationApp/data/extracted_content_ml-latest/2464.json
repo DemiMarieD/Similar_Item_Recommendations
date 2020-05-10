@@ -1,0 +1,686 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "rock and roll",
+            "id": 578
+         },
+         {
+            "name": "rock star",
+            "id": 2570
+         },
+         {
+            "name": "halloween",
+            "id": 3335
+         },
+         {
+            "name": "heavy metal",
+            "id": 5540
+         }
+      ],
+      "imdb_id": "tt0092112",
+      "video": false,
+      "title": "Trick or Treat",
+      "recommendations": [
+         27390,
+         27816,
+         27815,
+         27814,
+         17874,
+         31579,
+         28605,
+         3581,
+         87704,
+         26369,
+         44698,
+         27475,
+         18498,
+         17205,
+         76929,
+         85160,
+         39867,
+         27726,
+         30644,
+         26679
+      ],
+      "backdrop_path": "/rbrgx4PJev0rgwUZoObnNFrKqnp.jpg",
+      "revenue": 6797218,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 3,
+               "character": "Eddie Weinbauer",
+               "gender": 2,
+               "credit_id": "52fe44c7c3a368484e036867",
+               "name": "Marc Price",
+               "profile_path": "/h1ZHBqY8Uk8unMTzZEn9Zfs0DhZ.jpg",
+               "id": 93796,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Sammi Curr",
+               "gender": 2,
+               "credit_id": "52fe44c7c3a368484e036863",
+               "name": "Tony Fields",
+               "profile_path": "/dK55UO2nl3Zund8i63oRVbO8SVL.jpg",
+               "id": 93795,
+               "order": 1
+            },
+            {
+               "cast_id": 6,
+               "character": "Leslie Graham",
+               "gender": 1,
+               "credit_id": "52fe44c7c3a368484e036875",
+               "name": "Lisa Orgolini",
+               "profile_path": null,
+               "id": 1076524,
+               "order": 2
+            },
+            {
+               "cast_id": 7,
+               "character": "Tim Hainey",
+               "gender": 2,
+               "credit_id": "52fe44c7c3a368484e036879",
+               "name": "Doug Savant",
+               "profile_path": "/5Cz3MflNZjeKHlcFkX797DL7QfQ.jpg",
+               "id": 14737,
+               "order": 3
+            },
+            {
+               "cast_id": 8,
+               "character": "Angie Weinbauer",
+               "gender": 1,
+               "credit_id": "52fe44c7c3a368484e03687d",
+               "name": "Elaine Joyce",
+               "profile_path": "/7ddCRMIVqbG8l9mAHCz8qr2KfEw.jpg",
+               "id": 107309,
+               "order": 4
+            },
+            {
+               "cast_id": 9,
+               "character": "Roger Mockus",
+               "gender": 2,
+               "credit_id": "52fe44c7c3a368484e036881",
+               "name": "Glen Morgan",
+               "profile_path": "/ueGHDP3wceoIav2Cg2pnSLjkQGF.jpg",
+               "id": 58403,
+               "order": 5
+            },
+            {
+               "cast_id": 1,
+               "character": "Nuke",
+               "gender": 2,
+               "credit_id": "52fe44c7c3a368484e03685f",
+               "name": "Gene Simmons",
+               "profile_path": "/otJ1GRErxC0mZsLRB1ZS41dMeq9.jpg",
+               "id": 57756,
+               "order": 6
+            },
+            {
+               "cast_id": 4,
+               "character": "Rev. Aaron Gilstrom",
+               "gender": 2,
+               "credit_id": "52fe44c7c3a368484e03686b",
+               "name": "Ozzy Osbourne",
+               "profile_path": "/9EkHsyIW3xjch0MJ6LtrvMmGhdL.jpg",
+               "id": 12208,
+               "order": 7
+            },
+            {
+               "cast_id": 10,
+               "character": "Genie Wooster",
+               "gender": 1,
+               "credit_id": "52fe44c7c3a368484e036885",
+               "name": "Elise Richards",
+               "profile_path": null,
+               "id": 1076525,
+               "order": 8
+            },
+            {
+               "cast_id": 11,
+               "character": "Ron Avery",
+               "gender": 0,
+               "credit_id": "5462db700e0a267800001183",
+               "name": "Richard Pachorek",
+               "profile_path": null,
+               "id": 1384774,
+               "order": 9
+            },
+            {
+               "cast_id": 13,
+               "character": "Maggie Wong-Hernandez",
+               "gender": 1,
+               "credit_id": "5462db850e0a26780000118b",
+               "name": "Clare Nono",
+               "profile_path": "/11PRii6wMm1nc6rVaAVzDpKAaDC.jpg",
+               "id": 158904,
+               "order": 11
+            },
+            {
+               "cast_id": 14,
+               "character": "Mrs. Sylvia Cavell",
+               "gender": 1,
+               "credit_id": "5462dba20e0a2678060011fe",
+               "name": "Alice Nunn",
+               "profile_path": null,
+               "id": 1216962,
+               "order": 12
+            },
+            {
+               "cast_id": 15,
+               "character": "Mark McCain",
+               "gender": 2,
+               "credit_id": "5462dbb4c3a3681252001138",
+               "name": "Larry Sprinkle",
+               "profile_path": null,
+               "id": 1384776,
+               "order": 13
+            },
+            {
+               "cast_id": 16,
+               "character": "Mr. Wimbley",
+               "gender": 2,
+               "credit_id": "5462dbc6c3a368125c001124",
+               "name": "Charles Martin Smith",
+               "profile_path": "/fahfWqqrdJwajrfEGmEOXQ1p9bm.jpg",
+               "id": 1270,
+               "order": 14
+            },
+            {
+               "cast_id": 28,
+               "character": "Hysterical Survivor",
+               "gender": 1,
+               "credit_id": "59e639c0c3a36863870014ff",
+               "name": "Claudia Templeton",
+               "profile_path": null,
+               "id": 138610,
+               "order": 15
+            },
+            {
+               "cast_id": 29,
+               "character": "Goon #1",
+               "gender": 2,
+               "credit_id": "59e63a63925141310600170a",
+               "name": "Denney Pierce",
+               "profile_path": "/yyRiXlhZLzXmXcDlPIGWrnIIAqm.jpg",
+               "id": 159264,
+               "order": 16
+            },
+            {
+               "cast_id": 30,
+               "character": "Goon #2",
+               "gender": 0,
+               "credit_id": "59e63a8292514130e30016bc",
+               "name": "Ray Shaffer",
+               "profile_path": null,
+               "id": 1870443,
+               "order": 17
+            },
+            {
+               "cast_id": 31,
+               "character": "Goon #3",
+               "gender": 2,
+               "credit_id": "59e63aabc3a368639400173e",
+               "name": "Brad Thomas",
+               "profile_path": null,
+               "id": 1907251,
+               "order": 18
+            },
+            {
+               "cast_id": 32,
+               "character": "Senator",
+               "gender": 2,
+               "credit_id": "59e63ad6c3a36863c90018b9",
+               "name": "Terry Loughlin",
+               "profile_path": "/aFffejoARU5bkk6FbW5NXPlN6wQ.jpg",
+               "id": 74587,
+               "order": 19
+            },
+            {
+               "cast_id": 33,
+               "character": "Stan",
+               "gender": 2,
+               "credit_id": "59e63b04c3a36863c90018f8",
+               "name": "Graham Smith",
+               "profile_path": null,
+               "id": 1907252,
+               "order": 20
+            },
+            {
+               "cast_id": 34,
+               "character": "Lead Guitarist",
+               "gender": 0,
+               "credit_id": "59e63b73c3a36863d800186f",
+               "name": "Kevin Yagher",
+               "profile_path": "/vdmAyU1mghOKUEpg5W6KSqu3FZ7.jpg",
+               "id": 176246,
+               "order": 21
+            },
+            {
+               "cast_id": 35,
+               "character": "Fairy",
+               "gender": 1,
+               "credit_id": "59e63b90c3a36863b100178a",
+               "name": "Amy Bertolette",
+               "profile_path": null,
+               "id": 1907256,
+               "order": 22
+            },
+            {
+               "cast_id": 36,
+               "character": "Cop #1",
+               "gender": 0,
+               "credit_id": "59e63bca92514131180017b4",
+               "name": "Leroy Sweet",
+               "profile_path": null,
+               "id": 198404,
+               "order": 23
+            },
+            {
+               "cast_id": 37,
+               "character": "Cop #2",
+               "gender": 2,
+               "credit_id": "59e63c17c3a36863a10017e0",
+               "name": "Barry Bell",
+               "profile_path": null,
+               "id": 174097,
+               "order": 24
+            },
+            {
+               "cast_id": 38,
+               "character": "Cop #3",
+               "gender": 0,
+               "credit_id": "59e63c5fc3a36863870017c3",
+               "name": "Steve Boles",
+               "profile_path": null,
+               "id": 1183429,
+               "order": 25
+            },
+            {
+               "cast_id": 39,
+               "character": "Dave the Partier",
+               "gender": 0,
+               "credit_id": "59e63c7e92514130ca0018d1",
+               "name": "James D. Nelson",
+               "profile_path": null,
+               "id": 1849976,
+               "order": 26
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe44c7c3a368484e036871",
+               "name": "Charles Martin Smith",
+               "profile_path": "/fahfWqqrdJwajrfEGmEOXQ1p9bm.jpg",
+               "id": 1270,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5462dbdc0e0a267806001205",
+               "name": "Rhet Topham",
+               "profile_path": null,
+               "id": 1183427,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5462dbe30e0a26780d0011c2",
+               "name": "Rhet Topham",
+               "profile_path": null,
+               "id": 1183427,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5462dbf20e0a2678100011a6",
+               "name": "Michael S. Murphey",
+               "profile_path": null,
+               "id": 18383,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5462dbfac3a36812430011be",
+               "name": "Michael S. Murphey",
+               "profile_path": null,
+               "id": 18383,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5462dc0b0e0a26780a001204",
+               "name": "Joel Soisson",
+               "profile_path": "/hr2hlrFO9NQVZzHsIaN5mbK32BQ.jpg",
+               "id": 18384,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5462dc140e0a26780a001206",
+               "name": "Joel Soisson",
+               "profile_path": "/hr2hlrFO9NQVZzHsIaN5mbK32BQ.jpg",
+               "id": 18384,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5462dc330e0a2678100011b0",
+               "name": "Robert Elswit",
+               "profile_path": null,
+               "id": 2950,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5462dc3f0e0a267806001230",
+               "name": "Jane Schwartz Jaffe",
+               "profile_path": null,
+               "id": 1384777,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5462dc4f0e0a267806001234",
+               "name": "Curtis A. Schnell",
+               "profile_path": null,
+               "id": 1181703,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5544ef11c3a3680ce800457a",
+               "name": "Christopher Young",
+               "profile_path": "/2laVovSXDVpHRS6HSpKyCspSmze.jpg",
+               "id": 19155,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59e63ce59251413124001a13",
+               "name": "Scott White",
+               "profile_path": null,
+               "id": 1827729,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59e63d23c3a36863ec001947",
+               "name": "Paul Bengston",
+               "profile_path": null,
+               "id": 22546,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59e63d309251413118001928",
+               "name": "David Cohn",
+               "profile_path": null,
+               "id": 22547,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59e63d62c3a36863d8001a82",
+               "name": "Colin D. Irwin",
+               "profile_path": null,
+               "id": 30483,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59e63d759251413106001a74",
+               "name": "Douglas A. Mowat",
+               "profile_path": null,
+               "id": 10958,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 1,
+               "credit_id": "59e63d84c3a36863ec0019b0",
+               "name": "Jill M. Ohanneson",
+               "profile_path": null,
+               "id": 28162,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59e63da992514131180019a8",
+               "name": "Scott White",
+               "profile_path": null,
+               "id": 1827729,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 1,
+               "credit_id": "59e63dd3c3a36863c9001c4d",
+               "name": "Pamela Sparks",
+               "profile_path": null,
+               "id": 1907267,
+               "department": "Production",
+               "job": "Casting Associate"
+            },
+            {
+               "gender": 1,
+               "credit_id": "59e63e44c3a36863b1001ab3",
+               "name": "Stephanie A. Fowler",
+               "profile_path": "/In2kPwvxxyUVTTvVlvZQ81owqe.jpg",
+               "id": 1592503,
+               "department": "Art",
+               "job": "Location Scout"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59e63e7d925141310e001b06",
+               "name": "Shiho Ito",
+               "profile_path": null,
+               "id": 1907270,
+               "department": "Production",
+               "job": "Location Manager"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59e63ecd9251413106001c0f",
+               "name": "Richard Luckey",
+               "profile_path": null,
+               "id": 1907271,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59e63f1fc3a36863d8001c8f",
+               "name": "Roy Prendergast",
+               "profile_path": null,
+               "id": 1565159,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "59e63f409251413124001c6d",
+               "name": "Barbara D'Alessandro",
+               "profile_path": null,
+               "id": 1907273,
+               "department": "Production",
+               "job": "Production Coordinator"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Horror",
+            "id": 27
+         },
+         {
+            "name": "Music",
+            "id": 10402
+         }
+      ],
+      "popularity": 6.136654,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 25438,
+      "vote_count": 49,
+      "budget": 0,
+      "overview": "Eddie is your average 80's metal head teen. Now he's obsessed with his heavy-metal superstar idol, Sammi Curr who is killed in a hotel fire. Eddie becomes the recipient of the only copy of Curr's unreleased album, which when played backwards brings Sammi back to life. As Halloween approaches, Eddie begins to realize that this isn't only rock 'n roll... it's life and death.",
+      "similar": [
+         3902,
+         40437,
+         63973,
+         1584,
+         786,
+         6575,
+         27,
+         114150,
+         254470,
+         948,
+         4232,
+         525,
+         824,
+         601,
+         10112,
+         18947,
+         9479,
+         508,
+         630,
+         671
+      ],
+      "original_title": "Trick or Treat",
+      "runtime": 98,
+      "poster_path": "/21ouEk4YP3kwmghiIjplbyayK3l.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": null,
+         "name": "De Laurentiis Entertainment Group (DEG)",
+         "id": 484,
+         "origin_country": ""
+      }],
+      "release_date": "1986-10-24",
+      "vote_average": 5.6,
+      "belongs_to_collection": null,
+      "tagline": "What are you afraid of? It's only rock and roll...",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Charles Martin Smith"],
+      "runtime": 98,
+      "synopsis": null,
+      "writers": [
+         "Rhet Topham",
+         "Michael S. Murphey"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0092112/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTkwMjYzNDg4Ml5BMl5BanBnXkFtZTcwMzEzMTkzMQ@@._V1_SY317_CR51,0,214,317_AL_.jpg",
+      "actors": ["Stars: Marc Price, Tony Fields, Lisa Orgolini | See full cast and crew »"],
+      "reviews": [
+         "I noticed many of the comments on this movie came from people who saw it during the last five years and bought it out of a bargain bin of $5 or $6 DVDs. I saw it when it came out in 1986 and was quite entertained. I learned long ago when it comes to watching horror flicks, you can't take them seriously. In this case, it's simply a sign of the times. During the 1980s when the concern over music's lyrics was at it's peak and Tipper Gore was on her PMRC crusade, this movie fit perfectly. Please don't judge it in the 21st century. That's why you haven't seen it in a bargain bin until now. It just doesn't fit anymore. I give it a 3.5 out of 5 for its entertainment value.",
+         "Okay here it goes. This is my favorite 80s horror flick EVER. This is the reason I am so obsessed with the genre. This is where the fascination started. Let me explain why: Okay, here's this kid Eddie. Eddie is your typical 80s headbanger (you know, Motley Crue, W.A.S.P, Anthrax....you get the idea) except Eddie has a brain. Eddie(brilliantly portrayed by Marc Price) is the target for frequent bullying and public humiliation (see the locker room scene). He has exactly two friends and his only consolation comes from his music. His idol, Sammie Curr, happens to share the same hometown as Eddie and Eddie writes the guy (what seems to be) on a daily basis. Well, Sammie dies dies in a hotel fire and Eddie is naturally devastated. So, he goes to see his D.J. buddy \"Nuke\" (played by none other than Gene Simmons). Nuke sees how torn up the kid is over Sammy's death and gives him Sammie's last record which was never released. Nuke also tries to explain to the kid (apparantly Nuke knew Sammie in high school) that his idol wasn't such a nice guy. \"He was always angry.\" Of course, this means nothing to Eddie. He is totally infatuated with the guy and he believes that the two have some sort of connection. More humiliation and more torment follow Eddie until he finally plays the record. Upon playing the record backwards, he finds that he can communicate with Sammie's ghost. He also learns that Sammies is more than eager to help Eddie get revenge on the high school jocks who have made his life such a living hell. In a good way, Sammie gives Eddie the nerve to stick up for himself. Eddie also learns that Sammie is bent on wreaking havoc on the town that refused him the right to play in his home town years ago. You see, this all leads to Eddie having to make a choice: Either turn on his idol OR save the town from mass destruction. All in all, I give this cult classic a perfect 10. It is totally entertaining and has a very clever script. I especially liked all of the cameos. Gene Simmons as \"Nuke\" was awesome, Ozzy himself was great as a reverand who despises rock music, and Charles Martin Smith (you know, \"Toad\" from American Graffiti\") he's here too. He was also the director. There are many reasons to see this movie. The acting is good by the whole cast, there are some genuinely suspensful moments, there is some great humor, there is \"the dweeb getting revenge on the jock\" scenario, and the music kicks ass. It is also a great flick for anyone who was into the whole \"80s metal\" movement of the time. I whole heartedly recommend. When is this coming to DVD anyway?",
+         "This film is the most cult movie on metal there is. Premise: A kid gets a hold of the final recording of his favorite artist Sammy Curr who recently dies in a hotel fire. He plays it backwards and summons him back from the dead to get revenge in the name of heavy metal on those b**tardly jocks who torment him. Any fan of true metal will enjoy this movie, and if you are a metal head being tormented by jocks, play a Sammy Curr album backwards.........no wait he is fictitious, well get a hold of this movie and watch it with your fist in the air, your head banging, and the volume at 11!",
+         "God I love this movie. If you grew up in the 80's and love Heavy Metal, this is the Movie for you. They really don't get much better than this. The Fastway soundtrack is one of the best soundtracks ever. I put on the record when it first came out and spent the next month learning every song on guitar note for note. The plot outline is your standard Heavy Metal horror movie. Kid's favorite singer dies. Kid plays record backwards. Hero comes back in demonic form and rocks the town. What more could you ask for? If you haven't seen it yet, rush out and buy it. You will not be disappointed. Metal Rules...",
+         "This is a great movie if viewed in the proper context - It was meant to be a parody of teen-horror-devil-worship movies (and the '80s saw plenty of them)! I saw this movie when it first came out, and instantly liked it. Being a big fan of KISS, it was great to see Gene in the movie. And anything with OZZY as a metal-hating preacher can't be all bad! Also, Fastway was already a favorite of mine, so it was great to hear them on the soundtrack. The original VHS (this was pre-DVD) cover for Trick Or Treat featured an illustration of Sammi kneeling, playing his guitar in a ring of fire with a \"demon\" looking on. It was a special order, and the price for the VHS copy at the time (circa 1987) was $90! I really wanted the movie, but not at that ridiculous price. The 'OZZY-Gene' cover was only created for the $5 re-release. The company releasing it probably figured Gene and OZZY were the only recognizable people in the movie, so they had better put 'em on the cover! Same thing with the original \"Little Shop Of Horrors\" - Jack Nicholson was in it for all of five minutes, but now they have him on the cover as if he were the main star. I have a \"Trick Or Treat\" web site, and it's surprising how many people believe Sammi Curr was a real person! Fastway helped perpetuate that myth by dedicating their soundtrack album to 'Sammi Curr'. All-in-all, it was just a good time, rock-n-roll movie. Definitely not to be taken too seriously, but just enjoyed!",
+         "The glorious 80's! Only films like TRICK OR TREAT were produced in the decade of long hair, bizarre clothing, colors everywhere, heavy metal, and the slasher movies. The 80's feeling is always present through the movie as all of the popular elements of this decade appear in almost every scene. This is an entertaining mid 80's horror film. The plot could be very popular if used today. Eddie's mistake was to listen everytime to heavy metal. His passion for the head banging music started a series of crimes, supernatural situations, and the release of an evil spirit of a psycho. I can think of some metal bands with hidden messages but as silly as it sounds, I'm not that brave to try to play their tapes backwards. Brrrrr. Ozzy Osbourne, the \"Prince of Darkness\" 's appereance is great, it's appreciated by his fans. As a die hard horror fan, I enjoyed most of it's meant to be scary moments. But in particular I love the scene where the spirit appears as a green fog or something touches in a sexual way a Tiffany Amber Thiesen look alike in a dirty way if you know what I mean. What a perv the spirit resulted! This is great 80's cheese, watch it for some mindless fun. 5/10.",
+         "Sure the movie is cheesy, but that is part of its charm. My favourite line has to be when the one chick (I think her name was Genie Wooster) tells Eddie that he is creepy, and when he says he doesn't understand, she replies \"If you weren't so creepy, you would know what I mean\". The reason why I love this line so much is as follows: It reminds me (and I am sure many others) of stuck up people in high school who had the same attitude. I can think of one, in particular right now. So despite the movie's lack of appeal to awards committees, it does have some great moments, and although it does not have mass appeal, I don't think that was its purpose. It reaches out to the lost children of the world by showing them that they are not alone. Besides, it is just a fun movie. Where else will you get to see Ozzy Osbourne preach about the evils of heavy metal music? Oh yeah: One person compared Sammi Curr to Alice Cooper, which isn't a bad comparison, but I am positive that he was modelled after Blackie Lawless of W.A.S.P. He had the same look and similar attitude, and just as Blackie was a big target of the PMRC, Sammi was a big target of the parents groups in Trick or Treat. I would also highly recommend another cheesy 80s horror movie called \"Basket Case\".",
+         "One of my favourite films. It has everything - rocking soundtrack, courtesy of Eddie Clark, ex Motorhead, loads of action, loads of laughs, totally ridiculous plot and the most wonderful '80's stereotypes as characters. Eddie, the put-upon nice guy, who just wants to be left alone to be different, Leslie (about as wet as they come), Nuke (the rock burn-out), Eddie's Mom (pathetic), Roger (the geek) and Ozzy as the preacher (surely he exists in America?). Then there are the boys (rich, vicious and stupid) and the girls (vacant, vain and stupid). What more could you ask for? Well, first of all, there's Sammi Curr, the rock star, an amalgam of every '80's badass rocker you can think of. What about that rocket firing guitar? Then there's the scene where Sammi pulls the old lady through the TV screen and smashes her up. And what does Roger do? Why, hoover her up, just like a good geek would. My favourite scene is where Tim Hainey gets his long overdue reward from Sammi via the wet finger in the plug - magic! If you were into rock in the '80's or just love ridiculous films like I do, then check this one out. It's available on DVD and very cheap so (trick or)treat yourself.",
+         "I first saw this film as a teenager. It was at a time when heavy metal ruled the world. Trick Or Treat has every element for a movie that rocks. With a cast that features Skippy from Family Ties, Gene Simmons of Kiss and Ozzy Osbourne as a Preacher, how can you go wrong? Backwards evil messages played on vinyl! Yes thats right, they use records in this movie. In one scene Eddie (Skippy) is listening to a message from the evil rockstar on his record player when things begin to get scary. Monsters start to come out of his speakers and his stereo becomes possessed. As a teenager I tried playing my records backwards hoping it would happen to mine. Almost 20 years later Trick Or Treat is still one of my all time favorite movies.",
+         "TRICK OR TREAT is a fine example of Hollywood jumping on the \"backwards messages in metal music\" bandwagon that Tipper Gore and her Washington Wives kick-started in the mid-'80s (other, less successful entries in this mini-genre include the awful BLACK ROSES and silly THE GATE). I was a sophomore in high school when TRICK OR TREAT came out and couldn't wait to see it. It seemed to disappear from video stores by the end of the '80s, but I finally picked up a budget-priced DVD copy a short while ago and it brought back many pleasant metal memories from back in the day. Any teenage metal nerd could relate to the trials of Eddie \"Ragman\" Weinbauer (Marc Price of \"Family Ties\")in this film as he is persecuted by the preppie \"beautiful\" people in his high school for his heavy metal fashions and musical taste. Eddie's favorite rock star is Sammi Curr (who looks a lot like Tommy Lee of Motley Crue), who is killed in a hotel fire early in the movie. Eddie is inconsolable till he receives a test pressing of Sammi's final, unreleased album from a radio DJ (Gene Simmons of Kiss in a brief cameo). Eddie soon discovers that this LP, when played backwards, allows him to communicate with the undead spirit of Sammi Curr himself! Soon Sammi is giving Eddie advice on how to get even with his preppie torturers but when the messages escalate in scariness (\"Waste'em ALL... no false metal!\") Eddie tries to destroy the album, which results in Sammi coming back to life via Eddie's stereo speakers. Sammi rampages to the big dance at Eddie's high school and takes the stage to rock the crowd and disintegrate a few unlucky \"false metallers\" before Eddie arrives to save the day and the girl of his dreams. (SIGH) No, it's not terribly scary in 2006, it wasn't even scary in 1986, but TRICK OR TREAT is a movie that will bring a smile to the face of any 1980s metaller and has a kick-ass soundtrack courtesy of the cult band Fastway. Well worth seeking out if you've ever banged your head or have a taste for B-grade horror movies (or both, like me)."
+      ],
+      "genres": [
+         "Comedy",
+         "Horror",
+         "Music"
+      ],
+      "productionCompanies": ["De Laurentiis Entertainment Group (DEG)"],
+      "summaries": [
+         "Hard rock idol Sammi Curr burns to death in a hotel fire. His biggest fan, Lakeridge High School student and resident metal head Eddie Weinbauer is devastated by the news and turns to local radio DJ \"Nuke\" for emotional support. After a heated discussion about the deceased rock star, Nuke presents Eddie with a rare demo record, the last ever recorded by Sammi and the only copy in existence. Overwhelmed by Nuke's generosity, Eddie accepts the gift without hesitation, unaware of it's dark role in things to come. After constant humiliation and a near drowning at the hands of school bully Tim Hainy and his sports jock friends, Eddie becomes enraged and vows revenge on all those who have wronged him, much to the dismay of love interest, Leslie and best friend, Roger. Alone in his room with feelings of rage and retribution racing through his mind, Eddie places the new record onto his stereo and is shocked to discover that he can communicate with the deceased rock star when it is rotated backwards. Playing upon both Eddie's loyalty and emotional vulnerability, Sammi instructs the teenager on how to get back at those who have caused him so much pain, instructions that the easily manipulated Eddie carries out, prompting the usual 'underdog gets his own back' results. At first it's all fun and games as Hainy and his cohorts get their just desserts, but when Hainy's girlfriend is nearly killed by supernatural forces, Eddie realizes that he is nothing more than a pawn in a much more sinister plot and wants out. When Eddie tries to destroy the record, an evil version of Sammi is resurrected (complete with supernatural powers) and goes on a rampage at the high school Halloween dance, turning Eddie's involvement with the devilish rock star into a spine tingling nightmare not only for the young headbanger, but for his school and hometown as well. Can Eddie stop the demonic Sammi before he sends the entire town straight to hell? One thing's for sure, the teenagers of Lakeridge High are in for a Halloween they'll never forget.",
+         "Eddie Weinbauer is a typical All-American teenager, at least he was until he fell under the evil spell of Rock Music. Now he's obsessed with his heavy-metal superstar idol, Sammi Curr, who is killed in a hotel fire. Eddie becomes the recipient of the only copy of Curr's unreleased album, which when played backwards sends a message of destruction and as Halloween approaches, Eddie begins to realize this isn't only rock 'n roll... it's life and death and he must draw the line to thwart this mission.",
+         "Sammi Curr was a famous, devil-worshiping rock star who died under mysterious circumstances. Now he wants to come back to life. Doing so requires possessing radio wave & automobiles and making a few human sacrifices."
+      ],
+      "budget": 0
+   },
+   "movielensId": 2464,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1986-10-24",
+      "dvdReleaseDate": "2002-11-01",
+      "directors": ["Charles Martin Smith"],
+      "runtime": 98,
+      "movieId": 2464,
+      "title": "Trick or Treat",
+      "mpaa": "R",
+      "actors": [
+         "Marc Price",
+         "Tony Fields",
+         "Lisa Orgolini",
+         "Doug Savant",
+         "Elaine Joyce",
+         "Glen Morgan",
+         "Gene Simmons",
+         "Ozzy Osbourne",
+         "Elise Richards",
+         "Richard Pachorek",
+         "Clare Nono",
+         "Alice Nunn",
+         "Larry Sprinkle",
+         "Charles Martin Smith",
+         "Claudia Templeton",
+         "Denney Pierce",
+         "Ray Shaffer",
+         "Brad Thomas",
+         "Terry Loughlin",
+         "Graham Smith",
+         "Kevin Yagher",
+         "Amy Bertolette",
+         "Leroy Sweet",
+         "Barry Bell",
+         "Steve Boles",
+         "James D. Nelson"
+      ],
+      "imdbMovieId": "0092112",
+      "originalTitle": "Trick or Treat",
+      "genres": [
+         "Horror",
+         "Music"
+      ],
+      "youtubeTrailerIds": [],
+      "plotSummary": "Eddie is your average 80's metal head teen. Now he's obsessed with his heavy-metal superstar idol, Sammi Curr who is killed in a hotel fire. Eddie becomes the recipient of the only copy of Curr's unreleased album, which when played backwards brings Sammi back to life. As Halloween approaches, Eddie begins to realize that this isn't only rock 'n roll... it's life and death.",
+      "tmdbMovieId": 25438,
+      "avgRating": 2.53659,
+      "releaseYear": "1986",
+      "numRatings": 164,
+      "posterPath": "/21ouEk4YP3kwmghiIjplbyayK3l.jpg"
+   }
+}

@@ -1,0 +1,782 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "riddle",
+            "id": 483
+         },
+         {
+            "name": "autism",
+            "id": 1646
+         },
+         {
+            "name": "claustrophobia",
+            "id": 2147
+         },
+         {
+            "name": "maze",
+            "id": 2158
+         },
+         {
+            "name": "prime number",
+            "id": 2846
+         },
+         {
+            "name": "entrapment",
+            "id": 2847
+         },
+         {
+            "name": "mathematics",
+            "id": 6009
+         },
+         {
+            "name": "murder",
+            "id": 9826
+         },
+         {
+            "name": "escape",
+            "id": 10685
+         },
+         {
+            "name": "violence",
+            "id": 14819
+         },
+         {
+            "name": "numbers",
+            "id": 191494
+         }
+      ],
+      "imdb_id": "tt0123755",
+      "video": false,
+      "title": "Cube",
+      "recommendations": [
+         437,
+         438,
+         8413,
+         2666,
+         2832,
+         2756,
+         1272,
+         1562,
+         10153,
+         9392,
+         9426,
+         1090,
+         170,
+         9383,
+         9003,
+         924,
+         9276,
+         1946,
+         9667,
+         19898
+      ],
+      "backdrop_path": "/7BtMwHuHCgi0oE0SuITgfWOmPTu.jpg",
+      "revenue": 501818,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 5,
+               "character": "Leaven",
+               "gender": 1,
+               "credit_id": "52fe4242c3a36847f8010777",
+               "name": "Nicole de Boer",
+               "profile_path": "/2aEdXU5l5VAPfFpDV1Z1j0CbysI.jpg",
+               "id": 5888,
+               "order": 0
+            },
+            {
+               "cast_id": 6,
+               "character": "Holloway",
+               "gender": 1,
+               "credit_id": "52fe4242c3a36847f801077b",
+               "name": "Nicky Guadagni",
+               "profile_path": "/2HJwL5EmMQSggNKfO9xc6DANmL6.jpg",
+               "id": 5889,
+               "order": 1
+            },
+            {
+               "cast_id": 7,
+               "character": "Worth",
+               "gender": 2,
+               "credit_id": "52fe4242c3a36847f801077f",
+               "name": "David Hewlett",
+               "profile_path": "/yntJ7Lur8LmjQ9rTfoVzlKb5WsX.jpg",
+               "id": 5892,
+               "order": 2
+            },
+            {
+               "cast_id": 8,
+               "character": "Kazan",
+               "gender": 2,
+               "credit_id": "52fe4242c3a36847f8010783",
+               "name": "Andrew Miller",
+               "profile_path": "/3m96GLYnwuostBF7ANSkafwWJnv.jpg",
+               "id": 5894,
+               "order": 3
+            },
+            {
+               "cast_id": 9,
+               "character": "Alderson",
+               "gender": 2,
+               "credit_id": "52fe4242c3a36847f8010787",
+               "name": "Julian Richings",
+               "profile_path": "/ia2Xo99pxLX3sxZ0jVcj7eai56l.jpg",
+               "id": 2320,
+               "order": 4
+            },
+            {
+               "cast_id": 10,
+               "character": "Rennes",
+               "gender": 2,
+               "credit_id": "52fe4243c3a36847f801078b",
+               "name": "Wayne Robson",
+               "profile_path": "/x1nuwmSBx49UXYxrVYyr8sZi12t.jpg",
+               "id": 5897,
+               "order": 5
+            },
+            {
+               "cast_id": 11,
+               "character": "Quentin",
+               "gender": 2,
+               "credit_id": "52fe4243c3a36847f801078f",
+               "name": "Maurice Dean Wint",
+               "profile_path": "/wIw9x9BAGzeGe9SudxOUdagfNMD.jpg",
+               "id": 5900,
+               "order": 6
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4242c3a36847f8010773",
+               "name": "Vincenzo Natali",
+               "profile_path": "/4rdmLwBRQKs1gpjEfrTxabOUerv.jpg",
+               "id": 5877,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4243c3a36847f8010795",
+               "name": "Mehra Meh",
+               "profile_path": null,
+               "id": 5901,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4243c3a36847f801079b",
+               "name": "Betty Orr",
+               "profile_path": null,
+               "id": 5904,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4243c3a36847f80107a1",
+               "name": "Mark Korven",
+               "profile_path": null,
+               "id": 5907,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4243c3a36847f80107a7",
+               "name": "Derek Rogers",
+               "profile_path": null,
+               "id": 5908,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4243c3a36847f80107ad",
+               "name": "John Sanders",
+               "profile_path": null,
+               "id": 5909,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4243c3a36847f80107b3",
+               "name": "Jasna Stefanovic",
+               "profile_path": null,
+               "id": 5910,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4243c3a36847f80107b9",
+               "name": "André Bijelic",
+               "profile_path": null,
+               "id": 5880,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4243c3a36847f80107bf",
+               "name": "Vincenzo Natali",
+               "profile_path": "/4rdmLwBRQKs1gpjEfrTxabOUerv.jpg",
+               "id": 5877,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4243c3a36847f80107c5",
+               "name": "Graeme Manson",
+               "profile_path": "/qFWtM1gN21RTpKZjoTY5JE20E7H.jpg",
+               "id": 5883,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4243c3a36847f80107cb",
+               "name": "Wendy May Moore",
+               "profile_path": null,
+               "id": 1208480,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "53bfa8c80e0a2615890063da",
+               "name": "William Phillips",
+               "profile_path": null,
+               "id": 107630,
+               "department": "Crew",
+               "job": "Post Production Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53bfaab30e0a26158200624b",
+               "name": "Gene Alexander",
+               "profile_path": null,
+               "id": 1340332,
+               "department": "Crew",
+               "job": "Property Master"
+            },
+            {
+               "gender": 1,
+               "credit_id": "53bfab0ac3a3684cdb004fc6",
+               "name": "Sue Conley",
+               "profile_path": null,
+               "id": 1340333,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53bfab37c3a3684cf900481e",
+               "name": "Michelle Schubert",
+               "profile_path": null,
+               "id": 1340334,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53bfab4ac3a3684cec00479d",
+               "name": "John Sievert",
+               "profile_path": null,
+               "id": 1338134,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53bfab6ac3a3684ce900478d",
+               "name": "Virginia Storey",
+               "profile_path": null,
+               "id": 1340335,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53bfab85c3a3684cdb004fd3",
+               "name": "Darcy Kite",
+               "profile_path": null,
+               "id": 1340336,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53bfab9ec3a3684ce900479a",
+               "name": "Todd Warren",
+               "profile_path": null,
+               "id": 1340337,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53bfabb5c3a3687e59004403",
+               "name": "Jeff Wachsmann",
+               "profile_path": null,
+               "id": 1340338,
+               "department": "Sound",
+               "job": "Boom Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53bfac20c3a3684cef004be3",
+               "name": "John Stoneham Jr.",
+               "profile_path": null,
+               "id": 15229,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 1,
+               "credit_id": "53bfac4ac3a3684cf9004843",
+               "name": "Deirdre Bowen",
+               "profile_path": null,
+               "id": 7800,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53bfac68c3a3684cdf004740",
+               "name": "Frank Leone",
+               "profile_path": null,
+               "id": 1340339,
+               "department": "Editing",
+               "job": "Color Timer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "53bfac91c3a3684cec0047c4",
+               "name": "Lisa Burling",
+               "profile_path": null,
+               "id": 1340343,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53bfad05c3a3684cef004bfb",
+               "name": "Craig Henighan",
+               "profile_path": null,
+               "id": 1340345,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53bfad28c3a3684cef004c00",
+               "name": "Jill Purdy",
+               "profile_path": null,
+               "id": 1340346,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54bbcd12c3a36814110055c3",
+               "name": "Diana Magnus",
+               "profile_path": null,
+               "id": 5949,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54bbcd4492514148b0005996",
+               "name": "Susann Greenwood",
+               "profile_path": null,
+               "id": 1415114,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54bbcd65c3a36814110055c9",
+               "name": "Norah Wakula",
+               "profile_path": null,
+               "id": 1415116,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54bbcd799251411d6a008e95",
+               "name": "Susann Greenwood",
+               "profile_path": null,
+               "id": 1415114,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54bbcda29251416eae00189b",
+               "name": "Bob Ceh",
+               "profile_path": null,
+               "id": 1415118,
+               "department": "Crew",
+               "job": "Scenic Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54bbcdb7c3a3686c610081d3",
+               "name": "Susan Tanton",
+               "profile_path": null,
+               "id": 1415119,
+               "department": "Crew",
+               "job": "Scenic Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54bbcdc99251416e600019d4",
+               "name": "Stephen Willetts",
+               "profile_path": null,
+               "id": 1415120,
+               "department": "Crew",
+               "job": "Scenic Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54bbcdfac3a368389c001b8e",
+               "name": "Cheryl Ladrillo",
+               "profile_path": null,
+               "id": 1415122,
+               "department": "Crew",
+               "job": "Scenic Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54bbce139251411d6a008ea4",
+               "name": "Anastasia Masaro",
+               "profile_path": null,
+               "id": 62120,
+               "department": "Art",
+               "job": "Assistant Art Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54bbce2ac3a3687c40001b3b",
+               "name": "Andrew Rucklidge",
+               "profile_path": null,
+               "id": 1415123,
+               "department": "Art",
+               "job": "Assistant Art Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54bbce3c92514148f0005b9f",
+               "name": "Greg Sigurdson",
+               "profile_path": null,
+               "id": 1415124,
+               "department": "Art",
+               "job": "Assistant Art Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54bbceccc3a3686c610081e5",
+               "name": "Stephen Barden",
+               "profile_path": null,
+               "id": 9555,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54bbcf0f92514148b00059b9",
+               "name": "Steve McNamee",
+               "profile_path": null,
+               "id": 1415125,
+               "department": "Crew",
+               "job": "Sound Recordist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54bbd1529251416e60001a33",
+               "name": "Derek Rogers",
+               "profile_path": null,
+               "id": 5908,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54bbd1c7c3a368145e00615b",
+               "name": "Scott Smith",
+               "profile_path": null,
+               "id": 1219158,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54bbd1dd92514148b0005a08",
+               "name": "Scott Smith",
+               "profile_path": null,
+               "id": 1219158,
+               "department": "Crew",
+               "job": "Second Unit Cinematographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54bbd205c3a3681411005633",
+               "name": "Michael Gibson",
+               "profile_path": null,
+               "id": 1404850,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54bbd22fc3a368145e006168",
+               "name": "Sophie Giraud",
+               "profile_path": null,
+               "id": 1415129,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54bbd243c3a368145e006172",
+               "name": "Jeremy Hudspith",
+               "profile_path": null,
+               "id": 1415130,
+               "department": "Lighting",
+               "job": "Gaffer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54bbd267c3a3687c40001bcf",
+               "name": "Geoff Tunnard",
+               "profile_path": null,
+               "id": 1415131,
+               "department": "Editing",
+               "job": "First Assistant Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54bbd2b8c3a368141100564c",
+               "name": "Rob Kingston",
+               "profile_path": null,
+               "id": 1415132,
+               "department": "Crew",
+               "job": "Unit Publicist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54bbd2cec3a3686c61008251",
+               "name": "Patricia Joyes",
+               "profile_path": null,
+               "id": 1415133,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Thriller",
+            "id": 53
+         },
+         {
+            "name": "Science Fiction",
+            "id": 878
+         },
+         {
+            "name": "Mystery",
+            "id": 9648
+         }
+      ],
+      "popularity": 23.211341,
+      "production_countries": [{
+         "iso_3166_1": "CA",
+         "name": "Canada"
+      }],
+      "id": 431,
+      "vote_count": 1493,
+      "budget": 250000,
+      "overview": "Seven strangers are taken out of their daily lives and placed mysteriously in a deadly cube where they all agree they must find their way out.",
+      "similar": [
+         357096,
+         15069,
+         4771,
+         281957,
+         281,
+         948,
+         979,
+         445954,
+         984,
+         3134,
+         45569,
+         310137,
+         10651,
+         11423,
+         2749,
+         123109,
+         18587,
+         26390,
+         8090,
+         15762
+      ],
+      "original_title": "Cube",
+      "runtime": 90,
+      "poster_path": "/u50r6chJGO2iqxVAvtQ07obiCkB.jpg",
+      "spoken_languages": [
+         {
+            "name": "Deutsch",
+            "iso_639_1": "de"
+         },
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Cube Libre",
+            "id": 22207,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Feature Film Project",
+            "id": 21953,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Harold Greenberg Fund",
+            "id": 22208,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Odeon Films",
+            "id": 22209,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Ontario Film Development Corporation",
+            "id": 22210,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/kcNh09qqR2Pkw1JAzRW4CommrW4.png",
+            "name": "Téléfilm Canada",
+            "id": 806,
+            "origin_country": "CA"
+         },
+         {
+            "logo_path": null,
+            "name": "Viacom Canada",
+            "id": 22211,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1997-09-09",
+      "vote_average": 6.9,
+      "belongs_to_collection": {
+         "backdrop_path": "/4SdZhO4M5vJ48dqp7r8PieZ37RJ.jpg",
+         "name": "Cube Collection",
+         "id": 432,
+         "poster_path": "/pRshONhwgQYb2IYcxhEIMDFc62d.jpg"
+      },
+      "tagline": "Don't look for a reason... Look for a way out.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Canada",
+      "color": "Color",
+      "budgetCurrency": "CAD ",
+      "directors": ["Vincenzo Natali"],
+      "runtime": 90,
+      "synopsis": "The film opens with a man, Alderson (Julian Richings), waking up in a cube-shaped room with glowing, computer circuit-like walls and six doors, one at the center of each wall, ceiling and floor. After recovering from his confusion, he opens two of the doors and looks into them to find rooms that differ to the one he is in only by color. He then opens and goes through a third door. He looks around and then takes a step, but is suddenly cut into large cubes. He falls apart and the rack of crosshatched wires which diced him moves into view. It folds up and retracts. Later, in another room, several people find each other: Quentin (Maurice Dean Wint), Worth (David Hewlett), Holloway (Nicky Guadagni), Rennes (Wayne Robson), and Leaven (Nicole de Boer). None of them know where they are, how they got there, or why they are there. Quentin, however, knows that there are traps, as he had looked into a room and nearly got his head cut off. The five decide to stay together and look for the way out. Rennes takes the lead. He exemplifies how to test for traps by tossing a boot into the rooms while holding onto the laces, to trigger potential traps, figuring that the trapped room contains motion detectors. Holloway speculates on several possible creators of the Cube, being aliens or the government his main ptions. Rennes remarks that staying still will not solve anything, and says that they should move in a straight line until they get to the end. The others agree, and they begin moving through the rooms. While moving, they discover a series of different numbers on the hatchways between each of the rooms. At one point, Rennes throws the boot in and does not find anything, but detects that the room has dry air, and deduces that it most likely employs an electrochemical sensor, which detects hydrogen sulphide emitted from the skin. Quentin realizes that Rennes is an escape artist who has escaped more than seven major prisons. Soon after, Rennes jumps into a room tested with a boot, and is sprayed in the face with acid. The others pull him back, but he dies as the acid corrodes his face and the inside of his head. The group decides that the room must have contained an electrochemical sensor which Rennes missed, and realize that they must find a better way of testing the rooms. Quentin asks everyone about their occupations. He says he is a police officer, Holloway says she is a doctor, and Worth says he works \"in an office building, doing office building stuff.\" Leaven claims simply to \"hang out\" with her friends. Quentin believes that nothing is a coincidence, that each of them has a purpose in the cube. After Holloway talks about her rings and broaches, Quentin asks why Leaven has her glasses, while Holloway has had her jewellery taken away. Leaven reveals herself to excel at mathematics, and after looking at the numbers on a crawlspace, theorizes that when one of those numbers is prime, the room is booby-trapped. Leaven's purpose becomes attempting to \"crack the Cube's code\", and they progress through the cubes. When they find themselves in a room with trapped rooms all around and below, Quentin checks the door in the ceiling, through which falls a seventh person: Kazan (Andrew Miller). He appears to be mentally handicapped. At least two of the others see him as a burden, but Holloway decides to bring him along. The group starts speculating about their surroundings, which causes a conflict between Quentin and Holloway. Quentin dismisses Holloway's ideas as conspiracy theories, and Holloway thinks that Quentin is naive. Soon after this, Quentin enters a room without prime numbers and narrowly avoids death from a trap consisting of rotating razor wires. Leaven's theory that non-prime-numbered rooms are safe is shown to be incorrect. Quentin begins suspecting that Worth is a spy, and is increasingly irritated by Kazan's mental state. The group rests, while Leaven attempts to decipher the numbers. After some time, Quentin tricks Worth into revealing that he is one of the architects who designed the enormous cube-shaped shell which contains the cube-shaped rooms. When asked about who contracted him to do the job, he states that he doesn't know. Although the others begin to distrust Worth (Quentin going as far as beating him), he is able to give them information about the dimensions of the outer cube: it is 434 feet (26 rooms) on each side, totaling 17,576 rooms. Leaven then intuits that the numbers between the rooms could be encoded cartesian coordinates representing the position of rooms within the Cube. The group begins moving towards the nearest edge. As for the traps, they begin to \"boot\" the rooms again. The group is forced to pass through a room containing a sound-activated trap. Quentin argues to leave Kazan behind, but Holloway overrules him. Everyone makes it through, but when it is Quentin's turn, Kazan calls out, and nearly causes his death. Quentin, furious, nearly beats him, and when Holloway stops him, he turns on her and they argue heatedly, ending when Quentin slaps her. Despite the growing tensions, they continue. The group finally reaches one of the side \"edges\" of the Cube, but discovers that there is a gap between the door and the outer shell. They fashion a rope from their clothes, and Holloway volunteers to swing out on the rope to investigate. As she is suspended outside the room, the Cube shakes and Holloway nearly falls. Quentin catches her, but then lets her fall to her death. He tells the others that she slipped, but they are dubious. The group then decides to try to reach the \"bottom\" edge of the Cube, but agree that they need to rest before setting out for it. As they sleep, Quentin carries Leaven into another room. He tries to convince Leaven to abandon the others, and makes sexual advances at her and becomes abusive when it is obvious that she dislikes him. Worth and Kazan awaken and save Leaven. Quentin becomes paranoid, and says that he did not trust Holloway, to which the rest of the group guesses that he let her die. Enraged, Quentin beats and then throws Worth through a door in the floor. Worth laughs hysterically at what he sees in that room: Rennes's corpse. They think that they have been going in circles, but then Worth notices that the \"acid room\" which killed Rennes is no longer adjacent to that room. He and Leaven realize that the rooms must be moving. Leaven also realizes that rooms which have traps are marked with numbers which are not simply prime numbers, as she had previously thought, but the larger set of prime powers. The prisoners then face the task of performing prime calculations of three three-digit numbers for every room they enter. Fortunately, Kazan is at this point is revealed to be an autistic savant with the capacity to perform these calculations quickly and easily. He utters the number of distinct prime factors each number has, as the room numbers are read to him. They make their way towards the exit safely with Kazan's help. Worth devises a plan to incapacitate Quentin, who has gone completely mad. Worth fights Quentin into a room below them and they leave him to die. They proceed and reach the bridge cube. When they open its door, bright light pours into the room. Worth announces that he will not go, as there is nothing for him in the world outside. As he and Leaven share a moment, Quentin appears having somehow managed to catch up with the trio, and kills Leaven by stabbing her with a door handle he somehow broke off a door. He stabs Worth as well, and grabs Kazan, who is climbing out. Worth grabs Quentin's leg with the last of his strength, and Quentin is crushed in the crawlspace between the cubes when the cubes realign. Having saved Kazan, Worth lies down next to Leaven and dies. In the final shot, Kazan is seen walking slowly into a bright light.",
+      "writers": [
+         "André Bijelic",
+         "Vincenzo Natali"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0123755/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTAyMjI4NTEzNTNeQTJeQWpwZ15BbWU3MDY3NjIxMjE@._V1_SY317_CR3,0,214,317_AL_.jpg",
+      "actors": ["Stars: Nicole de Boer, Maurice Dean Wint, David Hewlett | See full cast and crew »"],
+      "reviews": [
+         "Cube is a movie that explores human nature and our instinctive urges for survival vs our humanitarianism. Not a new concept, I know, however this movie does it in style, with a plot so simple that it could only be the work of a conceptual genius. I don't intend to give too much away, as the power of the film lies in it's mystery, but I will say that this movie could almost be classified as disturbing, not due to its content, but rather the thoughts that it instills in the audience. I found myself rather shaken as I left the cinema, feeling as though I had been exposed to an ugly, hidden side of humanity and society. Don't get me wrong, this movie is definitely worth seeing, I would even be so bold as to say that it must be seen! I must admit that there are few movies I have seen that have had such a profound affect on me, and I don't think I am alone in my feelings.",
+         "It probably cost about half the budget of this movie, to make the opening sequence, which successfully gets your attention. Once it has your attention it simply refuses to let you go, it is compelling to say the least. The entire cast were pretty much unknown when the film was made (and most still are), but they all gave fine performances throughout. Without the successful casting this film could have easily been a disaster, as it is almost entirely character driven. I'm glad to say that definitely is not the case. Despite the low budget and practically unknown cast, the film manages to be clever, intriguing, thought-provoking and highly enjoyable. sadly, this film is probably a one off, i can't think of another low budget film that has half the impact of this one. 8/10 and worth every point",
+         "This film has more in substance than most big budget hollywood \"event\" movies rolled into one. The film follows the perils of a group of canadian civilians imprisoned in a futuristic \"RUBICK'S CUBE\" style jail from which there is seemingly no escape. They have no idea how they got there, or who put them there, all they know is they have to escape.....fast. This film is reminiscent of LORD OF THE FLIES, and how it showed mankind at it's worst when things go bad. The film chronicles paranoia, suspicion and fear. MAURICE DEAN WINT, gives a brilliant performance. In fact, this man's acting ability, makes the film worthwhile. The rest of the cast is fantastic as well. The neat thing about this movie is that the makers did it for relatively cheap (only having to make one set, that they constantly reconfigured) yet, the film works on many levels. This is without a doubt, a thinking persons sci-fi film. THE CUBE shows a level of ingenuity, and genius, missing from mainstream American big budget fare.",
+         "If you were to think about what situation would terrify you the most, Cube would be the ultimate challenge. In a way, it is a predecessor to TV's \"Survivor\" in which the people each have a skill that can help them survive and possibly get them out. It all comes down to human emotions and confrontations that get in the way of progress. It's a talky film, but that's the point-- figuring situations and dealing with different personalities is inevitable to any group. The solving of problems becomes very complex, but the viewer doesn't have to worry...let the characters figure it out as we go along for the ride. While so many sci-fi films want to wow you with effects, this film does something more challenging--it makes you think. With its limited budget and digital effects in use even before Titanic glorified them, Cube still proves itself as one of the more original and intelligent sci-fi films of the last decade, with a cult status already going strong. It is truly a nail-biter.",
+         "One of the best films I've seen in years. Original, suspenseful, frightening. The idea and execution of this film is so simple yet it's still a very complex and brilliant piece of work. The acting is sometimes a little over the top but it still works. The most amazing thing to me is that the filmmakers only built one cube and made it seem like they made several. This is clever, clever filmmaking. Whoever said there are no good ideas left hasn't seen 'Cube'. Dig it.",
+         "Great. Another shining example of how my inadequacy in mathematics could be the end of me. I used to skip math class. I took the bare minimum requirement expected of me and passed with something less than flying colours. The point is, math is all that separates our \"heroes\" from certain death in this arena. \"Cube\" is an innovative little thriller that can safely dodge accusations of blandness or mediocrity. The premise is simple and the plight of the characters is highly relative despite its surrealistic science fiction setting. Six individuals find themselves trapped in a cube comprised of many rooms linked together, with no readily visible way out, no rations, tools or explanation for being there, with traps set up in some of the rooms. An apparent experiment on how people think and react to certain situations and the transformations they might undergo. The simplicity of the film and the cube itself are the film's strongest assets and can probably account for it's international success, notably in Japan. It's low budget production costs came under $400,000. But they got a really good bang for their buck with some help from special effects houses that provided their services free of charge. As the director has commented on the audio commentary track of the DVD, one aspect they were going for was a way to have an action flick in one room. They pulled it off quite nicely. Another interesting tidbit brought to light was that each character's name is after a prison. A curious aspect of this Canadian film was its surprisingly short run in Canadian cinemas. In speaking with one of the film's producers, Mehra Meh, I learned that despite it's award as \"Best First Feature\" at the Toronto Film Festival of 1997, the film run in Canada came a year later and was just for a few short weeks before it was yanked from theaters and then showcased internationally. When time came for the DVD release, I found another perplexing development. It was only available as an import. A Canadian film only available as an import in Canada? It wasn't until months later that it was released domestically. In any case, the film is available now and worth checking out if you have interest in the psychological thriller fare. Those who work their days or nights (or both) in a cubicle may wish to pass on this one, as it just might be too close to home.",
+         "Vincenzo Natali. Funny sounding name right? Well just a little funny. Keep that name in your mind though over the next few years. After this film the Cube, Natali's follow up was the superb Cypher. He seems to be a master of a difficult genre, Sci-Fi. In a genre that is primarily known for having a high pap ratio, the fact that Natali's first two features have been cult classic science fiction movies then bodes well for Sci-fi fanatics who will eagerly anticipate his next movie. The Cube is a superbly crafted low budget film. On a shoestring budget and a dangerously basic premise full of intrigue, the film succeeds because of imaginative effects and taut directions as well as a superbly written script, delving into the human psyche in such an extreme situation. The plot is basically thus: A group of strangers wake in a cube room. They don't know where they are or how they got there but they know they must find a way out. It also transpires that when they leave each room the enter another room that is virtually identical in look. There will perhaps be a different colour in the lighting. The must find their way out before they starve tp death or go nuts, but to add to their woes, it seems that some of the rooms are booby trapped, ranging from sound activated, to pressure activated traps. They soon discover that each of them has a specific gift that can perhaps hold the key to their escape. There is a maths genius who may hold the key to discovering a way out. The rooms are numbered and the numbers could signify the type of room but also a map. The film is excellent and just when they think they have figured it out the Cube bites them in the behind. The dynamic of the characters is excellent as inevitably some go crazy. I do think that for a film shot for less than 300,000 dollars this is amazing looking. It works well for a film that is set in the same environment for the 90 minutes of the film. I have to say this film is one of those pleasant surprises that comes from nowhere and when word of mouth finally gets to you, please listen! ****",
+         "This film is one of the most original films I've ever seen. On top of that, it is absolutely riveting and engaging. It will have you thinking for hours afterward. I highly recommend it to anyone who likes intriguing movies. The acting is good. Other than the girl who plays the student, I've never seen any of the actors before, which makes the movie much harder to predict than most. The air of mystery prevails throughout. The pace is perfect, which surprised me, given the limited amount the characters could actually do. And the ending doesn't sell out the rest of the movie, which films with this level of mystery often do.",
+         "I don't know about the rest of you, but I'm pretty tired of all these wanna-be horror movies that are out now. All of those movies are rated PG-13 and can't seem to scare anyone. But right at the verge of these so-called horror movies came Cube, a low-budget horror film with an original idea and a good idea of how to execute it. It could have gone belly-up, but it works for the most part and creates a suspenseful movie. A group of seven people find themselves trapped in some sort of maze of cubes. They're all different colors and to make matters more interesting, some are booby trapped. They have no recollection of how they got there, nor do they have a clue how to get out. It becomes a battle of wits to stay sane and survive. There's an overall sense of creepiness, doom, and claustrophobia that overshadows the whole movie, not to mention the paranoia that sinks into both the characters and you as you watch. You only know as much as the characters-you don't know how they got into the cubes, what they're for, or any of the typical exposition. And although most of the characters were annoying, it put you side by side with them, which helped a lot. If you get to be next to the characters, you can understand their actions more. However, you do (somewhat) find out what these cubes were made for, which kind of dampers the whole thing, but it's still very interesting to go through. But when the climax comes about, the movie descends into hokey B-horror land, with a terrorized killer stalking most of the people. When the original exploration of the cubes subsides and you get the people walking around, also, the interest starts to wane. It's often repetitive, but the booby traps are quite, for lack of a better word, fun. But that doesn't mean that the original creativity has gone away, it's just not as interesting. But I really liked Cube, and if you see it, you will too. My rating: 7/10 Rated R for some strong sci-fi violence/gore and language.",
+         "Well, I didn't actually KNOW anything about this film, and it was showing at the Rialto (which is more foreign-filmish than mainstream). But I was surely not let down! I'm no film-buff, and I'm not experienced yet either (only 15 so far), but I definately recommend anyone to give it at least a chance! The fact that it's so low-budget, but doesn't really reek of it, and the simplicity of the setting, is quite refreshing from the typical films of today. At first I was rooting for the cop, since he had 3 kids, but... well, let's just say I didn't exactly want him to survive near the end (that bastard!) And also the actual scariest movie I've seen all year! I mean, actual covering-my-face muttering 'No! God! No!', especially during the silence scene... despite what some other people have said, I thought this movie wasn't predictable at all (I was totally wrong about who was going to die and what happened in the end). The ending was also perfect, and they should leave it like that... I came out of the cinema, speechless, only thinking 'Wow! What a cool movie!', and satisfaction that you have got your money's worth. The only thing that bugged me during the whole film was trying to remember what other things the girl that played Leaven had been in (Deepwater Black, and other sci-fi things - anyone else detect typecasting here? ^.^) Go see it if you haven't!"
+      ],
+      "genres": [
+         "Mystery",
+         "Sci-Fi",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "Cube Libre",
+         "Feature Film Project, The",
+         "Harold Greenberg Fund, The"
+      ],
+      "summaries": [
+         "Six different people, each from a very different walk of life, awaken to find themselves inside a giant cube with thousands of possible rooms. Each has a skill that becomes clear when they must band together to get out: a cop, a math whiz, a building designer, a doctor, an escape master, and a disabled man. Each plays a part in their thrilling quest to find answers as to why they've been imprisoned.",
+         "Six total strangers awaken one day to find themselves alone in a cubical maze. Once they meet, they work together using their given skills and talents to survive the deadly traps which guard many of the colored cubic rooms. Using Leaven's mathematical skills, they press forward, upward, and downward through the hatches to try and find the outer shell.",
+         "7 complete strangers of widely varying personality characteristics are involuntarily placed in an endless kafkaesque maze containing deadly traps."
+      ],
+      "budget": 365000
+   },
+   "movielensId": 2232,
+   "movielens": {
+      "languages": [
+         "Deutsch",
+         "English"
+      ],
+      "releaseDate": "1997-09-09",
+      "dvdReleaseDate": "1999-01-26",
+      "directors": ["Vincenzo Natali"],
+      "runtime": 90,
+      "movieId": 2232,
+      "title": "Cube",
+      "mpaa": "R",
+      "actors": [
+         "Nicole de Boer",
+         "Nicky Guadagni",
+         "David Hewlett",
+         "Andrew Miller",
+         "Julian Richings",
+         "Wayne Robson",
+         "Maurice Dean Wint"
+      ],
+      "imdbMovieId": "0123755",
+      "originalTitle": "Cube",
+      "genres": [
+         "Thriller",
+         "Science Fiction",
+         "Mystery"
+      ],
+      "youtubeTrailerIds": ["HYoTGYT0-I4"],
+      "plotSummary": "Seven strangers are taken out of their daily lives and placed mysteriously in a deadly cube where they all agree they must find their way out.",
+      "tmdbMovieId": 431,
+      "avgRating": 3.59245,
+      "releaseYear": "1997",
+      "numRatings": 7907,
+      "posterPath": "/u50r6chJGO2iqxVAvtQ07obiCkB.jpg"
+   }
+}

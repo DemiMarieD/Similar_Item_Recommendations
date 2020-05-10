@@ -1,0 +1,828 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "alcohol",
+            "id": 567
+         },
+         {
+            "name": "rape",
+            "id": 570
+         },
+         {
+            "name": "sex",
+            "id": 572
+         },
+         {
+            "name": "bar",
+            "id": 1010
+         },
+         {
+            "name": "rave",
+            "id": 3221
+         },
+         {
+            "name": "party",
+            "id": 8508
+         },
+         {
+            "name": "arrested",
+            "id": 199274
+         }
+      ],
+      "imdb_id": "tt0172627",
+      "video": false,
+      "title": "Body Shots",
+      "recommendations": [
+         41128,
+         34750,
+         42371,
+         41974,
+         20053,
+         15503,
+         15186,
+         82432,
+         25723,
+         15209,
+         4292,
+         17168,
+         30331,
+         320703,
+         34604,
+         52855,
+         15314,
+         34309,
+         2162,
+         24775
+      ],
+      "backdrop_path": "/m2W4z695Eaht0r6Ci8Z1zT52gq.jpg",
+      "revenue": 239894,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "Michael Penorisi",
+               "gender": 2,
+               "credit_id": "52fe45f99251416c75068c81",
+               "name": "Jerry O'Connell",
+               "profile_path": "/hkEBKk79L0ptmxGTng0v6X7Lzws.jpg",
+               "id": 3035,
+               "order": 0
+            },
+            {
+               "cast_id": 3,
+               "character": "Jane Bannister",
+               "gender": 1,
+               "credit_id": "52fe45f99251416c75068c85",
+               "name": "Amanda Peet",
+               "profile_path": "/81KzrntoeEztNpfhCYNgfOtI3kU.jpg",
+               "id": 2956,
+               "order": 1
+            },
+            {
+               "cast_id": 1,
+               "character": "Rick Hamilton",
+               "gender": 2,
+               "credit_id": "52fe45f99251416c75068c7d",
+               "name": "Sean Patrick Flanery",
+               "profile_path": "/1xgb9WblosYkvTGoh0yDuZII9ok.jpg",
+               "id": 54789,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Sara Olswang",
+               "gender": 1,
+               "credit_id": "52fe45f99251416c75068c89",
+               "name": "Tara Reid",
+               "profile_path": "/9nI9GsV1HZS3YKvMqrGuuEYWr8v.jpg",
+               "id": 1234,
+               "order": 3
+            },
+            {
+               "cast_id": 15,
+               "character": "Trent",
+               "gender": 2,
+               "credit_id": "532a603dc3a3681fe3000cd5",
+               "name": "Ron Livingston",
+               "profile_path": "/AjR0aCaDOK6S38I8ziICgVbxH5I.jpg",
+               "id": 17402,
+               "order": 4
+            },
+            {
+               "cast_id": 19,
+               "character": "Whitney Bryant",
+               "gender": 1,
+               "credit_id": "532a6092c3a3681ff0000daf",
+               "name": "Emily Procter",
+               "profile_path": "/nZJypfLAXUg8Nn1GpBgbYVdqO4Y.jpg",
+               "id": 6108,
+               "order": 5
+            },
+            {
+               "cast_id": 6,
+               "character": "Bartender",
+               "gender": 2,
+               "credit_id": "532a5f89c3a3681fea000daa",
+               "name": "Joe Basile",
+               "profile_path": "/j7hg42fJNwdCHrSV7jXN4sJOHKK.jpg",
+               "id": 77586,
+               "order": 6
+            },
+            {
+               "cast_id": 7,
+               "character": "Man in Bar",
+               "gender": 2,
+               "credit_id": "532a5f9fc3a3682006000d53",
+               "name": "Scott Burkholder",
+               "profile_path": null,
+               "id": 104503,
+               "order": 7
+            },
+            {
+               "cast_id": 8,
+               "character": "Girl #2",
+               "gender": 1,
+               "credit_id": "532a5fb3c3a3681fd7000dec",
+               "name": "Liz Coke",
+               "profile_path": null,
+               "id": 174672,
+               "order": 8
+            },
+            {
+               "cast_id": 9,
+               "character": "Girl #3",
+               "gender": 1,
+               "credit_id": "532a5fc6c3a3681ff0000d90",
+               "name": "Allison Dunbar",
+               "profile_path": "/m1kr2Pa9xzPJekJD3AvjKByqapq.jpg",
+               "id": 100528,
+               "order": 9
+            },
+            {
+               "cast_id": 10,
+               "character": "Sara's Dad",
+               "gender": 0,
+               "credit_id": "532a5fdbc3a3681ff7000d64",
+               "name": "Edmund Genest",
+               "profile_path": null,
+               "id": 1074124,
+               "order": 10
+            },
+            {
+               "cast_id": 11,
+               "character": "Burger Joint Cop",
+               "gender": 0,
+               "credit_id": "532a5ff1c3a3681fea000dbd",
+               "name": "Adam Lieberman",
+               "profile_path": "/gXdymwPZLgorzhuf8QswZONgvwZ.jpg",
+               "id": 58594,
+               "order": 11
+            },
+            {
+               "cast_id": 12,
+               "character": "Bodyguard",
+               "gender": 0,
+               "credit_id": "532a6002c3a3681ffd000d6e",
+               "name": "Mark Hicks",
+               "profile_path": "/xPXK9kXnKh97eES0SSxx83QKTfw.jpg",
+               "id": 80242,
+               "order": 12
+            },
+            {
+               "cast_id": 13,
+               "character": "Detective Richards",
+               "gender": 2,
+               "credit_id": "532a6016c3a3681fe3000cce",
+               "name": "Larry Joshua",
+               "profile_path": "/rWhP4v6mPwRGV4qCdJIC9oOqFn7.jpg",
+               "id": 21380,
+               "order": 13
+            },
+            {
+               "cast_id": 14,
+               "character": "Mrs. Drofsky",
+               "gender": 0,
+               "credit_id": "532a6029c3a3682006000d86",
+               "name": "Elizabeth Liebel",
+               "profile_path": null,
+               "id": 180002,
+               "order": 14
+            },
+            {
+               "cast_id": 16,
+               "character": "Disco Bartender",
+               "gender": 2,
+               "credit_id": "532a6053c3a3681ff0000da1",
+               "name": "Marc Lynn",
+               "profile_path": null,
+               "id": 63662,
+               "order": 15
+            },
+            {
+               "cast_id": 17,
+               "character": "Oral Sex Instructor",
+               "gender": 0,
+               "credit_id": "532a6069c3a3682006000d97",
+               "name": "Lou Paget",
+               "profile_path": null,
+               "id": 1302612,
+               "order": 16
+            },
+            {
+               "cast_id": 18,
+               "character": "Detective Thompson",
+               "gender": 0,
+               "credit_id": "532a607dc3a3681ff0000dad",
+               "name": "Adina Porter",
+               "profile_path": "/5nSo6tSC7eT4Yum5Qd38yIJ2K5M.jpg",
+               "id": 118546,
+               "order": 17
+            },
+            {
+               "cast_id": 20,
+               "character": "Burger Joint Manager",
+               "gender": 2,
+               "credit_id": "532a60a5c3a3682006000da2",
+               "name": "Benny Quan",
+               "profile_path": null,
+               "id": 176957,
+               "order": 18
+            },
+            {
+               "cast_id": 21,
+               "character": "Shawn Denigan",
+               "gender": 2,
+               "credit_id": "532a60b9c3a3682006000da4",
+               "name": "Brad Rowe",
+               "profile_path": "/htYBmmA2qtBNwt5zCG2WCH1TWWM.jpg",
+               "id": 65475,
+               "order": 19
+            },
+            {
+               "cast_id": 22,
+               "character": "Doctor",
+               "gender": 1,
+               "credit_id": "532a60d3c3a3681ff7000d96",
+               "name": "Wendy Schenker",
+               "profile_path": "/jvpI93UjTijAocvq7Z4worwWcEj.jpg",
+               "id": 155035,
+               "order": 20
+            },
+            {
+               "cast_id": 23,
+               "character": "Jeff the Doorman",
+               "gender": 2,
+               "credit_id": "532a60e9c3a3681ff0000dc1",
+               "name": "Nick Spano",
+               "profile_path": "/f8HTRcLa7v1Pz9M6HWW3YR56m7L.jpg",
+               "id": 154199,
+               "order": 21
+            },
+            {
+               "cast_id": 25,
+               "character": "Shopping Cart Man (uncredited)",
+               "gender": 2,
+               "credit_id": "532a6111c3a3681fd7000e22",
+               "name": "Emmy Collins",
+               "profile_path": null,
+               "id": 1302614,
+               "order": 23
+            },
+            {
+               "cast_id": 26,
+               "character": "Club Patron (uncredited)",
+               "gender": 0,
+               "credit_id": "532a6123c3a3681fdd000dc4",
+               "name": "Cameron Glenar",
+               "profile_path": null,
+               "id": 1302615,
+               "order": 24
+            },
+            {
+               "cast_id": 27,
+               "character": "Club Patron (uncredited)",
+               "gender": 0,
+               "credit_id": "532a6136c3a3682006000db7",
+               "name": "Phil Hawn",
+               "profile_path": "/yrBuFzfaYIkglYj0NpVpdZB25F3.jpg",
+               "id": 94561,
+               "order": 25
+            },
+            {
+               "cast_id": 28,
+               "character": "Dancer (uncredited)",
+               "gender": 0,
+               "credit_id": "532a6148c3a3681fe3000cfa",
+               "name": "Rich Knight",
+               "profile_path": null,
+               "id": 31244,
+               "order": 26
+            },
+            {
+               "cast_id": 29,
+               "character": "Club Patron (uncredited)",
+               "gender": 0,
+               "credit_id": "532a615bc3a3681fea000dfd",
+               "name": "Cheryl Rusa",
+               "profile_path": null,
+               "id": 205503,
+               "order": 27
+            },
+            {
+               "cast_id": 30,
+               "character": "Michael's Attorney (uncredited)",
+               "gender": 2,
+               "credit_id": "532a616fc3a3681ffd000db8",
+               "name": "Rob Steinberg",
+               "profile_path": "/rAmTDlTibQQjF53THPHsleIAxDH.jpg",
+               "id": 1002306,
+               "order": 28
+            },
+            {
+               "cast_id": 31,
+               "character": "Waitress (uncredited)",
+               "gender": 0,
+               "credit_id": "532a6182c3a3682006000dc6",
+               "name": "Heidi Van Horne",
+               "profile_path": null,
+               "id": 1232287,
+               "order": 29
+            },
+            {
+               "cast_id": 32,
+               "character": "Body Guard #2 (uncredited)",
+               "gender": 0,
+               "credit_id": "532a6193c3a3681ff0000ddf",
+               "name": "Dwayne Winstead",
+               "profile_path": null,
+               "id": 198959,
+               "order": 30
+            },
+            {
+               "cast_id": 67,
+               "character": "Emma Cooper",
+               "gender": 0,
+               "credit_id": "5947096f9251413fbb030281",
+               "name": "Sybil Temchen",
+               "profile_path": null,
+               "id": 62384,
+               "order": 31
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe45f99251416c75068c8f",
+               "name": "Michael Cristofer",
+               "profile_path": "/7FbuXmO6dtQ9ZXoon3mth1j9PZV.jpg",
+               "id": 21136,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "532a620fc3a3681ff7000dbd",
+               "name": "David McKenna",
+               "profile_path": null,
+               "id": 818,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "532a623dc3a3681ff7000dc3",
+               "name": "Eric A. Sears",
+               "profile_path": null,
+               "id": 21140,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "532a624fc3a3681ff0000df1",
+               "name": "Junie Lowry-Johnson",
+               "profile_path": "/1WIEz9uYLpsv28tcvnH97OgcYoF.jpg",
+               "id": 2399,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "532a625ec3a3681ff0000df4",
+               "name": "Libby Goldstein",
+               "profile_path": null,
+               "id": 118863,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "532a626dc3a3681fdd000dfd",
+               "name": "David J. Bomba",
+               "profile_path": null,
+               "id": 437,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "532a627ac3a3681fe3000d13",
+               "name": "John R. Jensen",
+               "profile_path": null,
+               "id": 7717,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 1,
+               "credit_id": "532a6287c3a3682006000de8",
+               "name": "Kathy Lucas",
+               "profile_path": null,
+               "id": 62144,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "532a62c4c3a3681fea000e33",
+               "name": "Carolyn Greco",
+               "profile_path": null,
+               "id": 1062466,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "532a62d4c3a3681ffd000de7",
+               "name": "Debra-Lee Davidson",
+               "profile_path": null,
+               "id": 29065,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "532a62e5c3a3681ffd000deb",
+               "name": "David Fields",
+               "profile_path": null,
+               "id": 1302616,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "532a62f1c3a3681ff7000dde",
+               "name": "Timothy Lasquade",
+               "profile_path": null,
+               "id": 1302617,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "532a62fdc3a3681fd7000e71",
+               "name": "Lisa Layman",
+               "profile_path": null,
+               "id": 1302618,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 1,
+               "credit_id": "532a630cc3a3681ffd000df6",
+               "name": "Amy Schmiederer",
+               "profile_path": null,
+               "id": 1302619,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 1,
+               "credit_id": "532a6319c3a3681fe3000d20",
+               "name": "Nena Smarz",
+               "profile_path": null,
+               "id": 957202,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Department Head"
+            },
+            {
+               "gender": 0,
+               "credit_id": "532a6338c3a3681fd7000e79",
+               "name": "Carla Fry",
+               "profile_path": null,
+               "id": 22077,
+               "department": "Production",
+               "job": "Executive In Charge Of Production"
+            },
+            {
+               "gender": 2,
+               "credit_id": "532a6349c3a3681fea000e3d",
+               "name": "Jody Levin",
+               "profile_path": null,
+               "id": 29210,
+               "department": "Production",
+               "job": "Executive In Charge Of Post Production"
+            },
+            {
+               "gender": 0,
+               "credit_id": "532a6371c3a3681ff0000e0f",
+               "name": "Jay Vinitsky",
+               "profile_path": null,
+               "id": 29211,
+               "department": "Crew",
+               "job": "Post Production Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "532a6386c3a3681fd7000e85",
+               "name": "Hans Berggren",
+               "profile_path": null,
+               "id": 1302620,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "532a6399c3a3681fdd000e22",
+               "name": "Kristen Ploucha",
+               "profile_path": null,
+               "id": 1302621,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "532a63b2c3a3681ff0000e19",
+               "name": "Mary Ellen Woods",
+               "profile_path": null,
+               "id": 1302622,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "532a63e3c3a3682006000e15",
+               "name": "Harry Colomby",
+               "profile_path": null,
+               "id": 111904,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "532a63f5c3a3681ff7000e03",
+               "name": "Michael De Luca",
+               "profile_path": null,
+               "id": 4767,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "532a640bc3a3681ff0000e26",
+               "name": "Lynn Harris",
+               "profile_path": null,
+               "id": 4768,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "532a6427c3a3681fdd000e34",
+               "name": "Michael Keaton",
+               "profile_path": "/myVdrYNGTgqunLfUSaM8DuVD7DL.jpg",
+               "id": 2232,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "532a6433c3a3681ffd000e14",
+               "name": "Guy Riedel",
+               "profile_path": null,
+               "id": 51985,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "532a6444c3a3681fdd000e38",
+               "name": "Jennifer Keohane",
+               "profile_path": null,
+               "id": 1092343,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56a4d58ac3a3683890007a19",
+               "name": "Udi Nedivi",
+               "profile_path": null,
+               "id": 960276,
+               "department": "Production",
+               "job": "Unit Production Manager"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54896e36c3a3687b9100118d",
+               "name": "Rodrigo García",
+               "profile_path": "/2ZdPSluSqkggDp1nGqMCz1Odn4m.jpg",
+               "id": 77162,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56a4d59c9251410c080049bc",
+               "name": "Susan Bierbaum",
+               "profile_path": null,
+               "id": 1342629,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56a4d5bb9251410c080049c5",
+               "name": "Neil Jacobs",
+               "profile_path": null,
+               "id": 1422871,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56a4d5d2c3a3683896006c25",
+               "name": "Mark Isham",
+               "profile_path": "/juP82LbS9chU3VXgelb7CICBN2Q.jpg",
+               "id": 4140,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Romance",
+            "id": 10749
+         }
+      ],
+      "popularity": 9.039183,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 14484,
+      "vote_count": 28,
+      "budget": 0,
+      "overview": "The Los Angeles club scene is a place of booze-fueled decadence and debauchery. In a night full of possibilities, eight 20-somethings take to the clubs seeking good times, companionship and maybe a little sex. But in the harsh light of the morning after, their worlds are thrown into a spin of confusion when hungover Sara accuses hard-partying Mike of date rape. Loyalties are tested as each among them is forced to take sides.",
+      "similar": [
+         9777,
+         19053,
+         979,
+         12271,
+         2149,
+         22318,
+         11826,
+         17899,
+         4771,
+         122081,
+         339692,
+         281957,
+         8456,
+         281,
+         627,
+         395834,
+         74997,
+         226,
+         9025,
+         26579
+      ],
+      "original_title": "Body Shots",
+      "runtime": 106,
+      "poster_path": "/c2o3Kai2vduoYmCcu5Yxzqc9tSr.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": "/iaYpEp3LQmb8AfAtmTvpqd4149c.png",
+            "name": "New Line Cinema",
+            "id": 12,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": null,
+            "name": "Colomby/Keaton Productions",
+            "id": 20979,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1999-10-07",
+      "vote_average": 4.9,
+      "belongs_to_collection": null,
+      "tagline": "Tonight it's for sex. Tomorrow it's for real.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Michael Cristofer"],
+      "runtime": 106,
+      "synopsis": null,
+      "writers": ["David McKenna"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0172627/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTc2Nzc4NjY0NF5BMl5BanBnXkFtZTYwMzcxMTc4._V1_SY293_CR1,0,214,293_AL_.jpg",
+      "actors": ["Stars: Joe Basile, Scott Burkholder, Liz Coke | See full cast and crew »"],
+      "reviews": [
+         "Before falling off into oblivion. The first forty five minutes were good. It starts off in an interesting way and it's easy to become immersed in what is going on. Unfortunately the second half is poorly written. The driving force is killed off, and what follows only leads into the least anti-climatic ending ever seen. What's worse about the ending is that it fails to resolve any of the film's events. Which almost makes the entire movie a waste of a film. The directing is great, way better than this film deserves. The acting was good. I liked Jerry O'Connell's performance. Tara Reid was surprisingly convincing in displaying her emotions. Amanda Peet could have done better. Ron Livingston was great, and is shown in a somewhat different light. The film has a lot of wasted potential. I'm surprised that the last half of the script wasn't completely rewritten. It is as if the writer only planned out the first half before starting to write it. If it's a dollar rental, it may be worth it. Just to be safe, I'd only recommend it if it ends up on a subscription movie channel.",
+         "Yes, Body Shots is pretentious all the way, well done, but it's also entertaining, sexy and surprisingly funny. Ron Livingston is hilarious as Trent. There's also some highly steamy sex scenes. Overall, the movie never bored me, it's a perfect example of a guilty pleasure. *** (out of four)",
+         "What a weird movie!! This movie is Swingers for its first half and then abruptly turns into The Accused for the second half, and you're left scratching your head. I was really into in for the first half, maybe because I'm a big fan of Swingers. Ron Livington's Trent (Vince Vaughn's name in Swingers, coincidentally) is flat-out hilarious, and steals the show whenever he's onscreen. There are lots of funny, insightful moments until the movie takes a deadly turn into the maudlin. An alleged rape occurs, and we see it happen from both characters' point-of-view. But since neither character is particularly sympathetic or appealing, we don't really care whose telling the truth or not. Jerry O'Connell's Michael is a mindless, jock moron while Tara Reid's Sara is a naive tease. So who cares about the outcome? And then the movie tries to throw in a few jokes during all this melodrama which really fall flat. If the movie had continued in the vein of the first half, we might have really had something here. As it is, though, it's a mess.",
+         "BODY SHOTS RATING: *** (OUT OF ****) With decent performances and unconventional storytelling, \"Body Shots\" is never boring, although it never exactly \"defines a decade\" either. More stars were in it then I thought there'd be. Tara Reid, Amanda Peet, Jerry O'Connel (who I can hardly take seriously after \"Tomcats\" and \"Joe's Apartment\") and Ron Livingston (that's right, the guy from \"Office Space\") all show up, and the result is a surprisingly involving, though occasionally pretentious, film.",
+         "There is one word for this film, WOEFUL. This film follows the lives of 8 people (4 girls, 4 guys) and one night and its aftermath. It's a simple enough story. 4 girls meet the 4 boys, 1 boy 'rapes' 1 girl, 1 girl bonks 1 boy (who is really in love with the 'raped' girl), 1 boy is bonded by 1 girl and the other 2 are happy in their relationship. YUK. It's a silly story, even sillier script and the characters are completely unlikeable (even in the remotest sense). It strikes me as a film someone decided to throw together after a night on a huge bong with a weekend to spare. Don't bother watching this.",
+         "Body Shots attempts to be a hip, cutting edge commentary on sex in the 90s, but fails miserably. Screenwriter David McKenna shoves in every pathetic,tiresome pretentious stereotype he can drudge up about hip Gen-Xers living and dating in Los Angeles. While Body Shots attempts to be the Swingers Sex in the 90s, it never makes it. With a less than witty script filled with stale cliches and awkward lines, how could it? Director Michael Cristofer couldn't decide if he wanted this to be a mocumentary, with occasional testimonials by cast members commenting on their ideas about sex directly to the camera, or a drama, touching on the subject of date rape. While these characters are supposed to be the voice of twenty-somethings in the 90s, attempting to provide us with thought-provoking material, they end up instead making cliched, shallow statements that are laughable rather than interesting. While all of us Gen-Xers are supposed to be sitting in the theater thinking, \"Yeah, that is so true. That is my life.\", we instead sit there trying not to laugh at the cheesy dialogue and trite situations these characters are in. The only relief Body Shots provides for the audience is Ron Livingston, who's occasional entertaining, quirky comic relief is particularly impressive when one considers the lame material he has to work with.",
+         "I rented this movie out of curiosity. As a twentysomething, I was hoping it might have something new to say about dating and my generation. Let's just say, I want the two hours of my life back! This film is supposed to be a social commentary on the ups and downs of sex and dating life. However, the writers have created a soapy drama that focuses on a group of people I have nothing in common with. Their jobs are unrealistic, as are their dwellings (how can a struggling actress live on the beach?) The acting, on the whole is terrible. The ONLY saving grace is Ron Livingston, who plays the eccentric Trent. Amanda Peet is better in indie fare (see Southie). Sean Flannery seems to disturb me in every movie he is in (is he a dead-ringer for David Cassidy or what?) The directing is at times fast-paced, and then slow mo (Amanda Peet on the dance floor was an unintentional laugh). Where is the director going? This should have been a direct-to-video film. If this exemplifies twentysomething culture, consider me insulted.",
+         "I found this movie to be pretty poorly done. They start with the mention of date rape then go back and show everyone's perspective of what happened. A couple of times they tell the story of someone and then say 'oh yeah and this also happened' which took away from any kind of story that they were trying to formulate. It might have been better if they didn't do the flashback stuff and just told the story. I don't know if it is possible to spoil this movie, but I guess I should warn you of a possible spoiler coming up: The one part that even sparked interest in the movie was who was telling the truth about the date rape. I found myself disliking the movie further when you don't find out. Don't waste your time on this one, I saw it free and wished I had watched something else.",
+         "Since it's so far apart between seeing good acting, you really get surprised when it just kinda' sneaks up upon you and shows you what difference it makes. Hollywood has spent years of making movies with bad dialog and acting whilst trying to cover it up with special FX, one-liners and retouched images of whatever actor/actress is the flava of the month. In `Body Shots' you get an incredibly knit-together group of Americas finest, all young actors that has yet to become too big for their own good. That is to say, they can still take on riskier projects that perhaps a bigger actor would be forced to turn down by their management because it would not `go with the audience'. My personal thanks here to Sean Patrick Flanery and Amanda Peet, whom on earlier occasions showed me that they dared (or did not get any other offers, who knows :) commit to smaller and often much more rewarding ventures. Tara Reid hasn't really impressed up till now with movies like American Pie and Urban Legends, but here she really gets a chance to act out. Usually, dramatic scenes are edited into smithereens, but all over `Body Shots' you get long, really intense sequences, with all of the cast-members showing their thespian caliber. I was also pleasantly surprised to be taken in by Chris O'Donnell's portrayal of the horny party-jock, since the last time I saw him was in the abysmal movie `Dungeons & Dragons' which kinda' put him on my black-list. Ron Livingstone is just plain weird, and therefore, marvelous. (That Alka-Seltzer-bit is going to haunt me for a while :) The editing is first class. In basically all movies, when you see a club-scene, you're not convinced at all. YOU know what it feels like to be in a steamy, crowded club, surrounded by (and being) people in various stages of intoxication. It's seldom portrayed with as much realism as it was here, much thanks to the clever editing. The layout of the story as a whole is also refreshing - not saying that messing up the timeline hasn't been done before - but the cut-scenes between the girls gang and the boys gang, the constant meta-perspective of the actors relaying their personal views of the meat market, and the flashbacks helps to make this movie what it is. But what struck me most of all was the sex. I can't think about when I last saw a movie with such convincing sex-scenes. It was all the small things YOU do, but they never seem to be able to put into a movie. The sucking of fingers, the difference of intensity in kissing, the touching, the grabbing of genitalia. Now, I'm not saying that showing more always is the best way to portray sex. But when it's called for by the script and the context, then hell yes! And if you're going to attempt to make an honest movie about eight hormonally hyped twenty-something's, then most definitively so. All in all, I was very impressed. The story has been done before, but not with such pathos. Movies like these make me hopeful of the future. Perhaps we're going away from only producing predictable storylines, uninspiring actors that deliver lines like they have a nail through their kneecap and dialog that you'd never hear outside of the screenwriters head.",
+         "This movie gets all things that repulse me: LA, club, booze and turning human pain into a flashy entertainment. As i discovered that the director was the same of the infamous \"Gia\", i wasn't surprised. Maybe my lifestyle would be to wait for weekends to get drunk, dance and have sex with whoever girl ready, i would have rate highly this flick but this ins't the case. The foreplay part before and at the club is too long. After the drama, the story goes stupid with the two protagonists having blank memories. The gimmick of the cast talking to the camera is useless and boring. If i watched it for Amanda, she has the least interesting character (mrs. Serious) and i rather like her brunette friend, Emma!"
+      ],
+      "genres": ["Drama"],
+      "productionCompanies": [
+         "New Line Cinema",
+         "Colomby/Keaton Productions"
+      ],
+      "summaries": [
+         "Four hip women get ready for Friday night in LA: they dress, talk about sex, and hit a bar before meeting four men at a rave. The men prepare by talking about sex and drinking. Rick and Jean, two attorneys, have set up the evening, connect at the club, and have a good time. The pairings of Shawn, Trent, Whitney and Emma are more serendipitous. But it's Mike and Sara's night that has serious repercussions: he's an NFL player, loud, swaggering; she's a party animal who drinks a lot early that evening. At 4 AM, she appears at Jean's, disheveled and bruised, saying Mike raped her. Arrested, he says he's innocent, and in flashbacks we see both sides of the story.",
+         "A tale of the mysterious, but necessary, mating ritual between men and women of today and everything they think about sex but are afraid to say."
+      ],
+      "budget": 0
+   },
+   "movielensId": 2979,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1999-10-07",
+      "dvdReleaseDate": "2004-06-01",
+      "directors": ["Michael Cristofer"],
+      "runtime": 106,
+      "movieId": 2979,
+      "title": "Body Shots",
+      "mpaa": "R",
+      "actors": [
+         "Jerry O'Connell",
+         "Amanda Peet",
+         "Sean Patrick Flanery",
+         "Tara Reid",
+         "Ron Livingston",
+         "Emily Procter",
+         "Joe Basile",
+         "Scott Burkholder",
+         "Liz Coke",
+         "Allison Dunbar",
+         "Edmund Genest",
+         "Adam Lieberman",
+         "Mark Hicks",
+         "Larry Joshua",
+         "Elizabeth Liebel",
+         "Marc Lynn",
+         "Lou Paget",
+         "Adina Porter",
+         "Benny Quan",
+         "Brad Rowe",
+         "Wendy Schenker",
+         "Nick Spano",
+         "Emmy Collins",
+         "Cameron Glenar",
+         "Phil Hawn",
+         "Rich Knight",
+         "Cheryl Rusa",
+         "Rob Steinberg",
+         "Heidi Van Horne",
+         "Dwayne Winstead",
+         "Sybil Temchen"
+      ],
+      "imdbMovieId": "0172627",
+      "originalTitle": "Body Shots",
+      "genres": [
+         "Drama",
+         "Romance"
+      ],
+      "youtubeTrailerIds": ["sxsvpt2DRjg"],
+      "plotSummary": "The Los Angeles club scene is a place of booze-fueled decadence and debauchery. In a night full of possibilities, eight 20-somethings take to the clubs seeking good times, companionship and maybe a little sex. But in the harsh light of the morning after, their worlds are thrown into a spin of confusion when hungover Sara accuses hard-partying Mike of date rape. Loyalties are tested as each among them is forced to take sides.",
+      "tmdbMovieId": 14484,
+      "avgRating": 2.32216,
+      "releaseYear": "1999",
+      "numRatings": 343,
+      "posterPath": "/c2o3Kai2vduoYmCcu5Yxzqc9tSr.jpg"
+   }
+}

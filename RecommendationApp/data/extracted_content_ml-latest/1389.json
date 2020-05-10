@@ -1,0 +1,928 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "diving",
+            "id": 269
+         },
+         {
+            "name": "dolphin",
+            "id": 630
+         },
+         {
+            "name": "florida",
+            "id": 1196
+         },
+         {
+            "name": "sequel",
+            "id": 9663
+         },
+         {
+            "name": "scuba diving",
+            "id": 10503
+         },
+         {
+            "name": "swimming",
+            "id": 15058
+         },
+         {
+            "name": "shark",
+            "id": 15097
+         },
+         {
+            "name": "great white shark",
+            "id": 15098
+         },
+         {
+            "name": "killer shark",
+            "id": 158108
+         },
+         {
+            "name": "giant animal",
+            "id": 158252
+         },
+         {
+            "name": "theme park",
+            "id": 158340
+         },
+         {
+            "name": "water skiing",
+            "id": 158345
+         },
+         {
+            "name": "boat trouble",
+            "id": 158350
+         },
+         {
+            "name": "sea world",
+            "id": 158353
+         },
+         {
+            "name": "3d",
+            "id": 209714
+         }
+      ],
+      "imdb_id": "tt0085750",
+      "video": false,
+      "title": "Jaws 3-D",
+      "recommendations": [
+         580,
+         579,
+         11133,
+         10306,
+         24831,
+         11950,
+         11415,
+         10489,
+         16288,
+         9980,
+         9825,
+         16281,
+         12521,
+         10344,
+         10676,
+         11442,
+         10859,
+         12158,
+         11584,
+         10131
+      ],
+      "backdrop_path": "/e6xFzaEzjSF4OnJ4f65ovMJE3vu.jpg",
+      "revenue": 87987055,
+      "reviews": [{
+         "author": "Potential Kermode",
+         "id": "58a84fdb9251415661008aea",
+         "content": "**When in doubt - point a long stick toward the screen**\r\n\r\nThese 3D ventures are amusing. Whenever the plot slows down a cast member randomly picks up a long stick and points it at the camera.\r\n\r\nThis film is no exception. Whenever the plot crawls to snails pace characters start pointing long sticks at the camera for no apparent reason.\r\n\r\nDoing most of the long stick pointing here is Dennis Quaid and Bess Armstrong - she needs a _strong arm_ to pick random objects up and point them toward the camera as often as she does.\r\n\r\n\r\n- Potential Kermode",
+         "url": "https://www.themoviedb.org/review/58a84fdb9251415661008aea"
+      }],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Michael 'Mike' Brody",
+               "gender": 2,
+               "credit_id": "52fe47409251416c75092e41",
+               "name": "Dennis Quaid",
+               "profile_path": "/fSnnQg8y1LB9yHbn2WuEcUb8i9Y.jpg",
+               "id": 6065,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Kathryn Morgan",
+               "gender": 1,
+               "credit_id": "52fe47419251416c75092e45",
+               "name": "Bess Armstrong",
+               "profile_path": "/fH9l0jd9uYFPlW8iHKFyQnL3ThW.jpg",
+               "id": 29710,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Philip FitzRoyce",
+               "gender": 2,
+               "credit_id": "52fe47419251416c75092e49",
+               "name": "Simon MacCorkindale",
+               "profile_path": "/pss165HPDGUf6BfPAqNzB0oOf75.jpg",
+               "id": 24743,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Calvin Bouchard",
+               "gender": 2,
+               "credit_id": "52fe47419251416c75092e4d",
+               "name": "Louis Gossett, Jr.",
+               "profile_path": "/ggWZg5ADOjhMLqfr9canl7gNTGD.jpg",
+               "id": 20959,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Sean Brody",
+               "gender": 2,
+               "credit_id": "52fe47419251416c75092e51",
+               "name": "John Putch",
+               "profile_path": "/9JBDOLXqdJiAvUOU0fO5bWnk292.jpg",
+               "id": 21475,
+               "order": 4
+            },
+            {
+               "cast_id": 9,
+               "character": "Kelly Ann Bukowski",
+               "gender": 1,
+               "credit_id": "52fe47419251416c75092e67",
+               "name": "Lea Thompson",
+               "profile_path": "/gaZhgJdLmWkEdqkkfomnBQn16uo.jpg",
+               "id": 1063,
+               "order": 5
+            },
+            {
+               "cast_id": 10,
+               "character": "Jack Tate",
+               "gender": 0,
+               "credit_id": "5301412b9251412198105ccf",
+               "name": "P.H. Moriarty",
+               "profile_path": "/m9CqdPkzxVgOEMSdBCX0LqECNzu.jpg",
+               "id": 989,
+               "order": 6
+            },
+            {
+               "cast_id": 11,
+               "character": "Dan",
+               "gender": 0,
+               "credit_id": "530c4144c3a3685c12000bd1",
+               "name": "Dan Blasko",
+               "profile_path": "/mrpd1ozNni2xPYUPzQVDg2vpGIS.jpg",
+               "id": 1296367,
+               "order": 7
+            },
+            {
+               "cast_id": 12,
+               "character": "Liz",
+               "gender": 0,
+               "credit_id": "530c416bc3a3685c0c000ba6",
+               "name": "Liz Morris",
+               "profile_path": "/siKuyIfNxqpmSM1AAKtlvRicVIb.jpg",
+               "id": 1296368,
+               "order": 8
+            },
+            {
+               "cast_id": 13,
+               "character": "Ethel",
+               "gender": 0,
+               "credit_id": "530c4191c3a3685c28000bff",
+               "name": "Lisa Maurer",
+               "profile_path": "/juKal28eHO3bMUAjs8UnkDq4j2k.jpg",
+               "id": 1296369,
+               "order": 9
+            },
+            {
+               "cast_id": 14,
+               "character": "Shelby Overman",
+               "gender": 0,
+               "credit_id": "530c41b9c3a3685c03000c50",
+               "name": "Harry Grant",
+               "profile_path": "/8aV0U4528qgK7yZHlLFL3Bj9Xpn.jpg",
+               "id": 1296370,
+               "order": 10
+            },
+            {
+               "cast_id": 15,
+               "character": "Silver Bullet",
+               "gender": 0,
+               "credit_id": "530c41d5c3a3685c20000ba2",
+               "name": "Andy Hansen",
+               "profile_path": null,
+               "id": 1296371,
+               "order": 11
+            },
+            {
+               "cast_id": 16,
+               "character": "Tunnel Guide",
+               "gender": 0,
+               "credit_id": "530c41f0c3a3685c1a000ba6",
+               "name": "P.T. Horn",
+               "profile_path": null,
+               "id": 1296372,
+               "order": 12
+            },
+            {
+               "cast_id": 17,
+               "character": "Bob Woodbury",
+               "gender": 0,
+               "credit_id": "530c423ac3a3685c12000be2",
+               "name": "John Edson",
+               "profile_path": "/prRGgqsYDssnEB8HCqwuWSU1T1B.jpg",
+               "id": 194357,
+               "order": 13
+            },
+            {
+               "cast_id": 18,
+               "character": "Mrs. Kallender",
+               "gender": 0,
+               "credit_id": "530c426ec3a3685c20000baf",
+               "name": "Kaye Stevens",
+               "profile_path": "/vutXV8Ln3aijnsF1l1Wwrogx0QF.jpg",
+               "id": 40394,
+               "order": 14
+            },
+            {
+               "cast_id": 19,
+               "character": "Leonard Glass",
+               "gender": 0,
+               "credit_id": "530c4298c3a3685c2f000bac",
+               "name": "Rich Valliere",
+               "profile_path": "/qYmhdKc9FhOcw99k8PK2v5x3fb6.jpg",
+               "id": 1296373,
+               "order": 15
+            },
+            {
+               "cast_id": 20,
+               "character": "Fred",
+               "gender": 0,
+               "credit_id": "530c42c0c3a3685c2f000bb4",
+               "name": "Alonzo Ward",
+               "profile_path": "/5WpxFNYPP27vaNQyCnpj8oJ5wjC.jpg",
+               "id": 1296374,
+               "order": 16
+            },
+            {
+               "cast_id": 21,
+               "character": "Sherrie",
+               "gender": 0,
+               "credit_id": "530c4303c3a3685c12000bf2",
+               "name": "Cathy Cervenka",
+               "profile_path": null,
+               "id": 1296375,
+               "order": 17
+            },
+            {
+               "cast_id": 22,
+               "character": "Suzie",
+               "gender": 0,
+               "credit_id": "530c4327c3a3685c28000c18",
+               "name": "Jane Horner",
+               "profile_path": "/4lkzjmFOccsffD4EXAKpRnbUnyO.jpg",
+               "id": 1296376,
+               "order": 18
+            },
+            {
+               "cast_id": 23,
+               "character": "Sheila",
+               "gender": 0,
+               "credit_id": "530c4340c3a3685c0c000bcc",
+               "name": "Kathy Jenkins",
+               "profile_path": null,
+               "id": 1296377,
+               "order": 19
+            },
+            {
+               "cast_id": 59,
+               "character": "Announcer",
+               "gender": 0,
+               "credit_id": "563df15f9251416cd8003245",
+               "name": "Steve Mellor",
+               "profile_path": null,
+               "id": 1532627,
+               "order": 20
+            },
+            {
+               "cast_id": 25,
+               "character": "Paramedic",
+               "gender": 0,
+               "credit_id": "530c4375c3a3685c12000c00",
+               "name": "Ray Meunnich",
+               "profile_path": "/q9Sfvg6bCZFGLtdkfryNdKnBswn.jpg",
+               "id": 1296378,
+               "order": 21
+            },
+            {
+               "cast_id": 26,
+               "character": "Reporter",
+               "gender": 0,
+               "credit_id": "530c4390c3a3685c12000c06",
+               "name": "Les Alford",
+               "profile_path": null,
+               "id": 1296379,
+               "order": 22
+            },
+            {
+               "cast_id": 27,
+               "character": "Reporter",
+               "gender": 0,
+               "credit_id": "530c43a8c3a3685c2f000bc4",
+               "name": "Gary Anstaett",
+               "profile_path": null,
+               "id": 1296380,
+               "order": 23
+            },
+            {
+               "cast_id": 28,
+               "character": "Workman",
+               "gender": 0,
+               "credit_id": "530c43c7c3a3685c03000c6e",
+               "name": "Scott Christoffel",
+               "profile_path": null,
+               "id": 1296381,
+               "order": 24
+            },
+            {
+               "cast_id": 29,
+               "character": "Screaming Skier",
+               "gender": 0,
+               "credit_id": "530c43e4c3a3685c03000c73",
+               "name": "Debbie Connoyer",
+               "profile_path": null,
+               "id": 1296382,
+               "order": 25
+            },
+            {
+               "cast_id": 30,
+               "character": "Reporter At Party",
+               "gender": 0,
+               "credit_id": "530c4406c3a3685c0c000bd5",
+               "name": "Mary Davis Duncan",
+               "profile_path": null,
+               "id": 236986,
+               "order": 26
+            },
+            {
+               "cast_id": 31,
+               "character": "Workman",
+               "gender": 0,
+               "credit_id": "530c443ac3a3685c1a000c3f",
+               "name": "John Floren",
+               "profile_path": null,
+               "id": 1296383,
+               "order": 27
+            },
+            {
+               "cast_id": 32,
+               "character": "Rick",
+               "gender": 0,
+               "credit_id": "530c4456c3a3685c20000bd2",
+               "name": "John Gaffey",
+               "profile_path": null,
+               "id": 1296384,
+               "order": 28
+            },
+            {
+               "cast_id": 33,
+               "character": "Mr. Brit",
+               "gender": 2,
+               "credit_id": "530c4490c3a3685c20000bd8",
+               "name": "Joe Gilbert",
+               "profile_path": null,
+               "id": 1077032,
+               "order": 29
+            },
+            {
+               "cast_id": 34,
+               "character": "Man in Crowd",
+               "gender": 0,
+               "credit_id": "530c44dec3a3685c03000c85",
+               "name": "Will Knickerbocker",
+               "profile_path": null,
+               "id": 139360,
+               "order": 30
+            },
+            {
+               "cast_id": 35,
+               "character": "Skier",
+               "gender": 0,
+               "credit_id": "530c4517c3a3685c0c000be5",
+               "name": "Jackie Kuntarich",
+               "profile_path": "/hnuVvwYiuMWkYJbeezPSOTK8BfI.jpg",
+               "id": 1296385,
+               "order": 31
+            },
+            {
+               "cast_id": 36,
+               "character": "Tourist Dad",
+               "gender": 0,
+               "credit_id": "530c4553c3a3685c0c000bed",
+               "name": "Edward Laurie",
+               "profile_path": null,
+               "id": 33952,
+               "order": 32
+            },
+            {
+               "cast_id": 45,
+               "character": "Girl in Tunnel",
+               "gender": 0,
+               "credit_id": "530c45b5c3a3685c2f000bdd",
+               "name": "Holly Lisker",
+               "profile_path": null,
+               "id": 1296386,
+               "order": 33
+            },
+            {
+               "cast_id": 46,
+               "character": "Pirate Girl",
+               "gender": 0,
+               "credit_id": "530c462bc3a3685bfb000c57",
+               "name": "M.J. Lloyd",
+               "profile_path": null,
+               "id": 1296387,
+               "order": 34
+            },
+            {
+               "cast_id": 47,
+               "character": "Stand-off Player",
+               "gender": 2,
+               "credit_id": "530c4642c3a3685bee000c09",
+               "name": "Carl Mazzocone",
+               "profile_path": "/i2A42btpJpx5wmYo6NirqE7yBRA.jpg",
+               "id": 364835,
+               "order": 35
+            },
+            {
+               "cast_id": 48,
+               "character": "Red",
+               "gender": 0,
+               "credit_id": "530c4653c3a3685bee000c0e",
+               "name": "Ken Olson",
+               "profile_path": null,
+               "id": 1296388,
+               "order": 36
+            },
+            {
+               "cast_id": 49,
+               "character": "Clyde",
+               "gender": 0,
+               "credit_id": "530c4666c3a3685bf4000c1e",
+               "name": "Ronnie Parks",
+               "profile_path": null,
+               "id": 1296389,
+               "order": 37
+            },
+            {
+               "cast_id": 50,
+               "character": "Mr. Bluster",
+               "gender": 0,
+               "credit_id": "530c467ec3a3685c20000bf6",
+               "name": "Al Pipkin",
+               "profile_path": null,
+               "id": 1296390,
+               "order": 38
+            },
+            {
+               "cast_id": 51,
+               "character": "Anxious Tunnel Person",
+               "gender": 0,
+               "credit_id": "530c4696c3a3685c1a000c6a",
+               "name": "Barbara Quinn",
+               "profile_path": "/ooOqyaqekHBVhxvVeJmCpelG7ej.jpg",
+               "id": 93424,
+               "order": 39
+            },
+            {
+               "cast_id": 52,
+               "character": "Reporter",
+               "gender": 0,
+               "credit_id": "530c46b0c3a3685bfb000c67",
+               "name": "Irene Schubert",
+               "profile_path": null,
+               "id": 1296391,
+               "order": 40
+            },
+            {
+               "cast_id": 53,
+               "character": "Ted",
+               "gender": 0,
+               "credit_id": "530c46e5c3a3685c1a000c6f",
+               "name": "August Schwartz",
+               "profile_path": null,
+               "id": 1296392,
+               "order": 41
+            },
+            {
+               "cast_id": 54,
+               "character": "Concessionaire",
+               "gender": 0,
+               "credit_id": "530c46fbc3a3685c20000bfd",
+               "name": "Sandy Scott",
+               "profile_path": null,
+               "id": 1216331,
+               "order": 42
+            },
+            {
+               "cast_id": 55,
+               "character": "Beer Belly on Beach",
+               "gender": 0,
+               "credit_id": "530c475bc3a3685bf4000c32",
+               "name": "Tony Shepherd",
+               "profile_path": null,
+               "id": 1296393,
+               "order": 43
+            },
+            {
+               "cast_id": 56,
+               "character": "Charlene Tutt",
+               "gender": 0,
+               "credit_id": "530c477bc3a3685c2f000c04",
+               "name": "Dolores Starling",
+               "profile_path": "/q5yXHQgcnJjN8mVY06B4haS2jrh.jpg",
+               "id": 1296394,
+               "order": 44
+            },
+            {
+               "cast_id": 57,
+               "character": "Candy",
+               "gender": 0,
+               "credit_id": "530c479cc3a3685bf4000c39",
+               "name": "Tamie Steinke",
+               "profile_path": null,
+               "id": 1296395,
+               "order": 45
+            },
+            {
+               "cast_id": 58,
+               "character": "Ed",
+               "gender": 2,
+               "credit_id": "530c47c2c3a3685bee000c22",
+               "name": "Daniel Stewart",
+               "profile_path": null,
+               "id": 187608,
+               "order": 46
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe47419251416c75092e57",
+               "name": "Joe Alves",
+               "profile_path": "/tVMkWdOrrzZkLyNNbluYflpdxyq.jpg",
+               "id": 8558,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5928e126c3a368782d03effe",
+               "name": "Richard Matheson",
+               "profile_path": "/qpcAG1Rpic5EWY8LMPN3e1R6TKs.jpg",
+               "id": 12415,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5928e132c3a36877bc047902",
+               "name": "Carl Gottlieb",
+               "profile_path": "/55NXqy86bxZ64QnwsLbYNOgsS7d.jpg",
+               "id": 8555,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5928e10ac3a36877ee0431a1",
+               "name": "Guerdon Trueblood",
+               "profile_path": null,
+               "id": 102927,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5928e140c3a36877df0453fb",
+               "name": "Peter Benchley",
+               "profile_path": "/AgPS8DEEI3epXydkrbJSvJ5Wgb4.jpg",
+               "id": 8554,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5928e14dc3a36877df045410",
+               "name": "Rupert Hitzig",
+               "profile_path": null,
+               "id": 66807,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5928e15fc3a36877bc047923",
+               "name": "David R. Kappes",
+               "profile_path": null,
+               "id": 13370,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5928e16dc3a36877bc047940",
+               "name": "Alan Landsburg",
+               "profile_path": null,
+               "id": 106723,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5928e1799251413b4a042791",
+               "name": "Howard Lipstone",
+               "profile_path": null,
+               "id": 1626477,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5928e1aa9251413b410425c4",
+               "name": "Alan Parker",
+               "profile_path": null,
+               "id": 1714546,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5928e1eec3a36877fd03a67b",
+               "name": "James A. Contner",
+               "profile_path": null,
+               "id": 104876,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5928e1fb9251413b5b043fa0",
+               "name": "Corky Ehlers",
+               "profile_path": null,
+               "id": 239179,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5928e209c3a36877ee043281",
+               "name": "Randy Roberts",
+               "profile_path": null,
+               "id": 1219799,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5928e2159251413b50041458",
+               "name": "Randy Stone",
+               "profile_path": null,
+               "id": 21069,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5928e2209251413b540403c7",
+               "name": "Woods Mackintosh",
+               "profile_path": null,
+               "id": 1329414,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5928e22bc3a368787003e64f",
+               "name": "Paul Eads",
+               "profile_path": null,
+               "id": 54776,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5928e237c3a368782d03f0dc",
+               "name": "Christopher Horner",
+               "profile_path": null,
+               "id": 1446539,
+               "department": "Art",
+               "job": "Art Direction"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Thriller",
+            "id": 53
+         },
+         {
+            "name": "Horror",
+            "id": 27
+         }
+      ],
+      "popularity": 15.279579,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 17692,
+      "vote_count": 347,
+      "budget": 20500000,
+      "overview": "This third film in the series follows a group of marine biologists attempting to capture a young great white shark that has wandered into Florida's Sea World Park. However, later it is discovered that the shark's 35-foot mother is also a guest at Sea World. What follows is the shark wreaking havoc on the visitors in the park.",
+      "similar": [
+         403119,
+         579,
+         580,
+         1907,
+         578,
+         660,
+         332567,
+         8914,
+         20416,
+         83,
+         173,
+         2661,
+         49787,
+         331446,
+         175,
+         40383,
+         227735,
+         438970,
+         27727,
+         65055
+      ],
+      "original_title": "Jaws 3-D",
+      "runtime": 99,
+      "poster_path": "/jGU5GucRaNCQ3L16qI7kfWch5Bn.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "MCA  Theatricals",
+            "id": 79415,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+            "name": "Universal Pictures",
+            "id": 33,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": null,
+            "name": "Alan Landsburg Productions",
+            "id": 4904,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1983-03-16",
+      "vote_average": 4.3,
+      "belongs_to_collection": {
+         "backdrop_path": "/1e2QvI2u7Q4d2admK6Xw0AjLjVp.jpg",
+         "name": "The Jaws Collection",
+         "id": 2366,
+         "poster_path": "/fgraZdDCvAtBr0MHczmL6raonHd.jpg"
+      },
+      "tagline": "A deadly new attraction.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Joe Alves"],
+      "runtime": 99,
+      "synopsis": "The oldest son from the first two Jaws films, Michael Brody (played by Dennis Quaid) now works for SeaWorld in Florida, which is preparing for the launch of its new \"Undersea Kingdom,\" a set of tunnels where people can \"view the wonders of the deep without ever getting wet.\" The film opens with a great white following a team of waterskiers, among them Kelly (Lea Thompson). Their boat stalls, but then its driver gets it going again before anyone is attacked. Michael Brody is the chief engineer, and lives with his girlfriend, Katherine Morgan (Bess Armstrong), who is senior biologist at the park. Katherine and her assistants, Dan and Liz, wonder why the dolphins are acting so afraid of leaving their pen. As Sean (John Putch), Michael's brother, arrives to visit, he reveals a deep fear about the water caused by the events depicted in Jaws 2. Kelly, after meeting Michael, Sean, and Katherine in a bar, tries to dispel the phobia by playing in the water (mostly) naked at nighttime. Meanwhile, Shelby Overman (Harry Grant), one of the mechanics, dives into the water at dusk to repair the gates. He is attacked by a shark and killed, only leaving a severed arm. They are informed of his disappearance by Charlene, a woman with whom Overman is living. She is quite irate at his failing to return, and fears the worst. The next day, Michael and Katherine go down in a submarine to check the tunnels and find Overman's severed arm. They decide to go into a piece of scenery, the Spanish galleon, although encouraged by Katherine's two dolphins to stay away. They continue the search, leaving the submarine, only to be assaulted by a great white. The dolphins, having sensed trouble from the start and visibly beseeching Katherine to stay in the sub, respond to Katherine's waving hands. They heroically rescue Mike and Katherine by allowing them to ride them back to the safety of their dolphin pen. This information is at first disbelieved by park owner Calvin Bouchard (Louis Gossett, Jr.) , but is quite exciting to his friend, the hunter Phillip FitzRoyce (Simon MacCorkindale). Katherine protests FitzRoyce's intent to kill the creature, so capturing it is the decided course. The baby great white is captured and nursed to partial health by Katherine and Liz. Calvin orders it exhibited as being the first Great White in captivity, but it dies within minutes. Meanwhile, Kelly forces Sean to join her on the bumper boats. But, at the underwater tunnel, a girl is terrified when she sees a hideous corpse, later revealed to be Overman, bob up to a window. Katherine reveals that the bites came from a shark with a mouth a yard across, which is initially ridiculed by FitzRoyce, saying \"That would indicate a shark of some 35 ft. in length\", which is too big for a normal great white. That means that the shark's mother has also breached the gates of the park, but she can't convince Calvin of this fact until the shark herself shows up at the window of their underwater cafe. The shark exacts her revenge, first by causing a leak that nearly drowns everyone in the underwater tunnel, then turns her attention to everyone on the beach. She fails to capture the waterskiers, but capsizes Sean and Kelly's bumper boat, and Kelly gets a laceration from the shark's coarse skin. FitzRoyce leads the shark into the filtration pipes where the water from the ocean is brought into the lagoon, hoping to trap her inside. However, he drifts right into her mouth after his lifeline rope snapped. He prepares a grenade, but he is crushed to death before he can use it. Unaware of this, Michael has gone down to repair the underwater tunnel so the technicians can restore air pressure and drain the water, with Katherine to watch his back. He welds the repair piece, but, with no pressure in the pipe to restrain her, the shark breaks free of the filtration pipe and attacks Katherine again, but as usual, she is protected by her dolphins. They return to the control room with Calvin and the technicians. But, the shark smashes through the acrylic glass, flooding the room. As everyone tries to escape, Mike notices FitzRoyce's body still inside the shark's mouth, clutching the grenade. Mike uses a pole to pull the grenade's pin, and it explodes, blowing the shark to pieces. Katherine and Mike float up to the surface, explaining that Calvin managed to rescue the female technician, though the shark attacked the male technician and dropped him. Katherine is terrified for her dolphins, until they triumphantly show up in a splash, performing the tricks they refused to do since the movie's beginning.",
+      "writers": [
+         "Peter Benchley",
+         "Richard Matheson"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0085750/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMjEzMDEzODU4M15BMl5BanBnXkFtZTYwMDQ5Njg5._V1_SY317_CR0,0,214,317_AL_.jpg",
+      "actors": ["Stars: Dennis Quaid, Bess Armstrong, Simon MacCorkindale | See full cast and crew »"],
+      "reviews": [
+         "Mike Brody appears to be totally over the events that struck his family in his youth and now works in Florida's newest underwater attraction \u0096 Seaworld. His brother, Sean is less sure and never goes in the water \u0096 although a visit to see Mike and a new girlfriend help him confront his fear if not get over it. Meanwhile, something is picking off staff and swimmers getting Mike and the staff out on a shark hunt. They capture a small great white and take it into captivity, only for it to die when it is put in too small a tank. They think their problems are over until an examination of the bite marks on some bodies and they realize that the shark that did the killing is much, much bigger than the one they caught. I saw this film as a child but couldn't remember if it was any good or not \u0096 my childish fears may have made it scary even if the film was poor, so I decided to give it a go again recently. The first thing that struck me was the sheer rubbishness of the effects. In the original Jaws, Spielberg had hidden the shark as much as he could because the effects didn't work (and also therefore upping the tension); however here the makers just decide to show anything \u0096 a poorly superimposed image, a rubber shark, fake severed arms and so on \u0096 none of them are concealed, they are all shown up in all their rubbish glory. I could forgive it this due to its age but two other films had already managed to handle this issue before this film so I don't see why they went this route when it so clearly didn't work. Some shots are so bad that they could have been mistaken for being a spoof (witness the shark swimming towards the control room). Of course, after the poor effects the second thing that hits you is the laughable plot. True it is not as bad as part 4 in terms of plausibility but it is still pretty thin. No attempt is made to really give the characters any sort of, well, character and the very basic sea world plot just about manages to give the shark enough high profile feeding scenes to keep the film moving \u0096 just don't hold your breath for any logic or sense. In fact, the opposite is true and this film does deliver some moments that make you wonder what the writers were thinking when they conceived some of this stuff! The manner of Jaws' death here would be hilarious if it wasn't so darn pathetic. Even with the plot being poor the film should still have had at least a few moment of fear and tension \u0096 many of us fear being eaten alive so it isn't hard to draw on that, but this fails to have any tension or excitement to speak of. The effects suck a lot of this out \u0096 but a director who's name is listed in the dictionary alongside the work 'workmanlike' didn't do anything to stop the rot either. Without characters the cast are set adrift with nothing to do \u0096 how Quaid must have envied Roy Schnieder in the first films, at least he was a good character. Quaid runs around the place, Armstrong screams, Putch broods, Thompson screams and Gossett tries to act tough in the middle of a script that gives him nothing to do. I don't blame the cast but I am disappointed that nobody mention how very bad taste it was to make a happy ending out of the dolphins surviving while so many other people had not! Overall this is just a bad film. I'm not a big one for lists so I'll not play that game here but it is pretty much without any value at all. The plot is poor, the effects are rubbish, the direction is weak, the script just a load of nonsense and there is a total lack of tension, thrills or excitement. The original is a classic and this film is further proof that sometimes classics should be just left alone.",
+         "I actually like this Jaws ok. I don't think it is a masterpiece or anything, but it is good if not taken to seriously. This one focuses on the Brodie boys who really went through a growth spurt. One (Dennis Quaid) works at a sea amusement park and this is where the shark attacks take place (this should alone tell you not to take the film to seriously). I actually saw this one at the theater too, so that helps to enjoy the film more as it was rather cool in 3-D and it is the only 3-D movie I have ever seen at the theater so maybe that is why I will always somewhat enjoy it. The plot is at a sea park like I said and first the team goes after this one shark that was rather puny, then you find out there is a bigger one out there. There are a couple of pretty good shark attack scenes and I loved the subplot of the people stuck in that pod underwater. This film isn't for everyone though seeing as how it is ranked as one of the worst so read other people's reviews before deciding to see it.",
+         "I had avoided seeing this film for fifteen years because of it's bad reputation and because I love the first Jaws as one of the greatest movies ever made. Having survived the horror of \"Jaws: The Revenge\" once, I decided to see if I could brave this one, though. About the only thing that surprised me was that the premise wasn't quite as dumb as \"Jaws: The Revenge\" is. And while there is a reference to the events of \"Jaws 2\" at least they don't insult our intelligence with a shark pursuing one family etc. of any \"Brody curse.\" What sinks this film though is that it's dull in every sense. The FX are cheap and terrible and too often it's hard to figure out what's going on here. Scenes that could have been suspenseful with a competent director just plod along in a muddled fashion. In the end, Jaws 3 comes off more as a glorified made for TV type disaster movie with none of the high quality that elevates the original Jaws above such fare.",
+         "First of all, the movie fails mainly due to the 3D effects (sorry for my English, I'm a Spaniard!) 'cause they wanna be more than they're. Sometimes, they look laughable, but the physical effects are awesome (the great great white). I appreciate this movie 'cause this is a movie of my childhood. I saw and recorded it on TV, and I grew with Mike and Kathryn, my right heroes!!!. Now, I'm conscious about the film's mistakes, but, for a third installment, the result ins't so bad. The plot couldn't innovate the genre, but the idea of a baby shark and his angry mother is... so childish and imaginative. Otherwise the idea of a shark attack in a aquatic park is fabulous. I think that if they made this movie without the 3D effect it looked better. Sometimes, the scales don't agree, and the \"lake\" looks deeper than it is, for example. The ending, with the mother breaking the control room's glass is... funny (and ridiculous) ... The characters are well performed, but I saw this film on the Spanish version, so the \"dubbing actors\" could act better than the original actors. Because of that, I don't understand why Louis Gosset Jr. was nominated for a Razzie award ¿?. The relationship of Mike-Kathryn and Sean-Kelly are convincing. This movie is far for being the worst of the series. it's clearly weaker than the first ones, but...worthy and entertaining. If the effects weren't 3D, the movie was totally fabulous. But, furthermore there was the 80s. It doesn't look so bad for being 80s. Isn't it?",
+         "I'm certain if you read the screenplay for this third entry in the Jaws franchise you'd think it could amount to a solid sequel. There's nothing fundamentally wrong with the idea, it at least adds many new elements to the Jaws formula. Where it all goes wrong is in the execution. The acting, direction, and production values are way, way below what they should have been. The 3-D effects are ridiculous. They bring to mind a SCTV parody of 3-D films, with exaggerated tricks that add nothing to someone watching this in regular format. Compare this to something like The Creature From The Black Lagoon, or It Came From Outer Space- those films were 3-D but play perfectly well as flat films. But those were made by people with talent, this film is not. There's also the weird idea of using the Sea World park, but making it a fictitious one located near the ocean with completely different attractions- it's a strange bit of promotional advertising. The real Sea World is quite different, and yet it's shown with all these fantastic elements that are pure fantasy. A better idea would have been to name the marine attraction something original. The scenes somehow come off way more corny and trite than the actual theme park was at the time. The use of the dolphins is a great idea that is staged horribly. The old Flipper show had better shark vs. dolphin scenes. The effects are wretched. In fact, had they worked it would have helped save the whole film from being a waste, but they are totally amateurish, below that of a Roger Corman exploitation film from the 50s or 60s. One expects more from a major studio mounting a sequel to a mega-hit. The actors offer nothing here. Dennis Quaid and Louis Gosset have shown remarkable talent, but none of it is on display here. Bess Armstrong and Lea Thompson are both very attractive, but again they don't really add anything, and Thompson seems especially vapid here. Luckily all these actors are in a film so filled with incompetence that the music, effects, editing and overall storytelling distract from their work.",
+         "Saw this one in all its 3D glory in the theater back in 1983, and it really scared the heck out of me. (I was ten) This film furthers the saga of the Brody family as sons Sean and Mike are now fully grown and moved away from Amity Island. Sean does something in Colorado if I recall, and Mike is (heh, heh, heh,) an underwater welder who just finished construction of an undersea kingdom at Sea World in Florida. Just when the park is about to have a grand opening, some uninvited guests show up. They being a 35-foot great white shark and her offspring. Needless to say, some people get eaten. This film was originally going to be made as spoof of the previous two films. I'm not sure if any type of a finished script to that effect exists, but it would be worth a look. Jaws 3D ends up being another serious monster movie with a disaster movie subplot. Not only does the shark eat a bunch of people, it also traps several others in the underwater part of the park. The race is on to save the people and kill the mother shark. Her baby dies midway through after it is captured and hastily put on display in the park. The conclusion is fairly exciting, and full of bloody carnage. The cast is one of the stronger points of the film. Dennis Quaid is the fearless Mike Brody. Bess Armstrong plays the park's head biologist and Quaid's love interest. (The real sparks were apparently flying between Quaid and Lea Thompson off camera, though!) Thompson plays a water skier at the park, and John Putch plays Sean Brody who falls for her. Simon MacCorkindale and P.H. Moriarity play a couple of Aussies who show up and help battle the sharks. By far the best performance is turned in by Louis Gossett Jr., fresh off his Oscar for An Officer and a Gentleman. He plays the owner/manager/president (I'm really not sure which) of the park. He has a terrific moment as he addresses the park guests in the underwater tunnels over the p.a. system. He turns on the fake executive public relations charm and asks them all to calmly exit the park just as the giant shark is bearing down on them. The individuals who play Dan and Liz left a lot to be desired. Since no other film credits are listed for them, one would have to conclude that they actually worked at Sea World and were given these roles since this is what they do on a daily basis. Maybe they still work there. Anyone know? The sharks look pretty good in most of the scenes. Except at the very end when the shark is lodged into the control room and its tail is sticking out. That looked incredibly fake. In addition, sharks must always stay moving in the water or they'll die. They can't just lay low in huge underwater structures waiting to pounce on their victims. They usually strike from directly underneath their victims in most attack scenarios. The big shark in this film also has the ability to growl and roar, but not as loudly as the one in part IV! The 3D effect looked very good in the theater, but films like this lose quite a bit of their luster on the TV screen. You're only left with a bunch of gag shots that were supposed to scare viewers in the theater, but now look ludicrous and forced. This film made some pretty decent $ in its theatrical run, and is still shown regularly on television. If nothing else is on, and you find yourself in front of a TV for an extended period, give this film a try. But be forewarned: Part IV is perhaps the worst film ever made. Don't waste your time on that one! 5 of 10 stars. The Hound.",
+         "Those poor Brody boys, no matter where they go or what they do they always run into a mammoth, flesh hungry shark that they literally have to put their life on the line to try & destroy. Set some fourteen years after the events of JAWS 2, Mike Brody now works as a marine biologist at Sea World, where a baby great white shark has managed to find it's way into the park through an open gate, where it subsequently dies. However as it turns out, this baby shark is not alone, as it's 35 foot mother has also entered through the gate & begins wrecking havoc on the guests attending the park. JAWS 3-D was the third instalment in the popular moneymaking JAWS series. Throughout the years JAWS 3-D has been given mostly a bad rap by fans, but in my opinion it's nowhere near as bad as many are saying. While far from a perfect film, JAWS 3-D does manage to be a fairly watchable & enjoyable time passer if you are in the right frame of mind. It's not the original, nor does it try to be & I think that is why I tend to see more in this sequel than most fans in the series do. It's a fun little movie, nothing more, nothing less. The plot for the most part is pretty fun & is the only sequel in the series that attempts to do something new with the plot rather than just have another shark on the shores of Amity Long Island run amok & it's also the only movie in the franchise where virtually none of the cast members of the first two return. The direction by JOE ALVES was pretty good, as he manages to capture the action at all the right angles & delivers several cool shots, in fact this would remain his only film, afterwards he went directly back into production designing, which is odd, since he was seemingly obsessed with having a directing career back in the late seventies/early eighties & when the baby sharks mother gets into the park & wrecks havoc, it's well worth the wait. On the downside however I will admit the film does have a few problems. While I did enjoy the direction by first & only time helmer JOE ALVES, he clearly isn't to polished when it comes to building up much tension or suspense in the film, in fact the film is severely lacking in the suspense & tension department & things aren't helped to much by the films 3D effects that are utterly lame, in fact even some of the corniest of 3D movies released during the 3D \"Birthquake\" that briefly re-visited screens back in the early 80's, at least took the time to create some interesting 3D images, even if they weren't very original. JAWS 3-D's effects are very poorly done, surprisingly so, considering the fact it was a big budget movie, released by a major studio. In fact the 3-D effects look utterly fake & are not very well done at all. Other 3D movies released during the era, at least took careful steps to separate the actors or objects from the backgrounds, because otherwise there is no real 3D, everything would just look like a cardboard cut out & that's precisely what's wrong with the effects work here! the objects being floated in front of the screen look like pieces of cardboard floating pass the screen or towards the audience (not much fun there) the films interesting plot about a shark getting past the gate & into Sea World is ripe with possibilities for endless shark carnage, but due to the films PG rating, the film never really does anything with it's interesting premise & the threat is never felt even, especially when things are supposed to pick up. Even the lower budgeted JAWS knock-off PIRANHA (1978) did far better things with the intended carnage on the innocent, by schools of deadly fish, both at a summer camp & at the grand opening of a new resort, where dozens of unaware visitors fell prey to deadly fish & the hero's of the story attempting to stop them. No terror ever really breaks loose resulting in an utter waste of something that would have really enlivened the film. Most of the characterization isn't fully fleshed out & the film wastes to much time on Sean Brody & a potential love interest in Lea Thompson, that does nothing for the story & goes absolutely nowhere, in fact I could have done without Mike's younger brother & Thompson's character, take them both out & you would still have a movie! & the film is practically over by the time the baby sharks mother breaks loose & wrecks havoc on the parks participants. A lot the the optical shots look silly & many of the 3D gags just don't work. All in all, I will admit that while JAWS 3-D may not be in & of itself a great movie, or even a good one, I don't hate it, at least not compared to some other reviewers who have heaped an unending amount of venom on the film. In fact it's actually my favourite sequel after the original (Yes I admit I'm probably one of five people walking this earth who thinks so & one of ten who actually enjoys this movie as a whole) maybe it's nostalgia talking here, since it was actually the very first JAWS movie I ever saw when I was really young & still remember the night my family rented it on VHS back in the mid 80's, I was terrified & it still holds a special place in my heart & instantly takes me back to that special night, making this film in an odd ball sort of way, like a time capsule every time I pop it in to watch it. Recommended! . Followed by JAWS: THE REVENGE ***1/2 stars",
+         "Jaws 3-D (1983) was not only a sequel to the first two JAWS films, but it was also one of the few movies that took advantage of the rebirth of the 3-D fad that was sweeping Hollywood during the early 80's (see Amityville 3-D and Friday the 13th 3-D). When the film hit the video shelves, they scrapped the whole thing. Why make a 3-D movie in the first place if you're not going to take advantage of it when it's available for the home video market? The video looked bad when it was released as a rental. Many of the scenes that were shot didn't make any sense or were badly projected. The movie did poorly at the box office and after a couple of years, no more mainstream films were presented in 3-D. The movie itself is pretty bad. Only for die hard fans of the JAWS series. Not recommended, unless they re-release it in 3-D. other than that it's pretty much worthless.",
+         "The Great White goes back into the cinema in this flawed sequel.This bone-chilling movie based on the Peter Benchley's novel and written by Richard Matheson and Carl Gottlieb (screenwriter of the trilogy) , it packs some exciting scenes, thrills, chills and lousy direction. The film is developed at Florida in a seaside park , while the previous entries are set at in New England in a shore community named Amity .There ,people is terrorized by a giant shark that attacks pacific tourists at the undersea kingdom during the preview week. An underwater world that contains restaurant, cafeteria, aquarium and several other things.The sons ( Dennis Quaid and John Putch) of Police chief Brody ( Roy Scheider, Lorraine Gary Jaws I,II) attempt to convince the park owner (Louis Gossett Jr) who reluctantly listen them to close the attraction . Meanwhile the giant shark attacks and the victims run afoul and making a real carnage and those serving for lunch. Then, an adventurer named Phillip(Simon MacCorkindale) and his helper determine to track down and kill it. The protagonists are forced to fight for their lives in a mortal confrontation. It's an inferior following with average creation of tension,thrills,terror, emotions and brief gore. The story gets little relation to first two Jaws, except by father Sheriff Brody and sons relationship. The argument of this gratuitous following is partially similar to ¨Revenge of the creature¨(Jack Arnold) in which also a monster terrorizes a sea park. The shark attack images deliver the exciting united to creepy score composed and conducted by Alan Parker inspired on the classic soundtrack by the master John Williams (prized with an Oscar) who heightens the suspense. This below average movie features lousy interpretations of the quintet main star, Dennis Quaid, Bess Armstrong, Louis Gossett Jr, John Putch and Lea Thompson (formerly to ¨Back to the future¨) . Regular cinematography by James A Contner (subsequently filmmaker) and is badly directed by Joe Alves, producer designer of the original film. While the classic picture by Spielberg obtained three Oscars well deserved and today considered an authentic classic, its tree sequels are much worst, and were respectively directed by Jeannot Swarc,Joe Alves and Joseph Sargent in annoying direction. Rating: Bottom of barrel, a real turkey. Only for theaters, its real asset are the 3D digital effects, for that reason in television lost their spectacular Tri-dimensional qualities.",
+         "*SPOILER ALERT* *SPOILER ALERT* Jaws invades an underwater park. The idea was great. The problem is the special effects were terrible. I missed it when it came out in theaters so I never got to experience the 3-D phenomenon. Maybe that would have made a difference but I doubt it. A giant shark attacking a Sea World like park was a great starting point. But it's hard to get scared of Jaws when he looks like the shark at Universal Studios. I mean he was one plastic shark. I need to believe Jaws is a real shark inflicting terror. This time, I didn't. He was definitely a big toy floating in the water. The climax scene was the worst of all. SPOILER ON ENDING Jaws goes headfirst through the window of the control room. In 3-D, this might have been cool. In the tape I saw, it looked awful. Although the effects were rotten, I still find myself enjoying this flick. Face it, all the Jaws sequels have a very high bar set for them. They are not going to even get close to the original \"Jaws\". For a B giant shark flick, it was pretty good. Comparing it to \"Jaws\" is unfair but also unavoidable. Even though I know the effects were bad, I still liked it. It was the best \"Jaws\" sequel."
+      ],
+      "genres": ["Horror"],
+      "productionCompanies": [
+         "Universal Pictures",
+         "Alan Landsburg Productions",
+         "MCA Theatricals"
+      ],
+      "summaries": [
+         "Michael Brody and Sean Brody, the sons of former Amity police chief Martin Brody, work at Florida's Sea World, a seaside park run by Calvin Bouchard. Sean befriends Kelly Ann Bukowski, and Michael's girlfriend Kathryn Morgan is Sea World's head scientist who always works with Sea World's dolphins Cindy and Sandy. In its man-made lagoon, about 40 feet under the water, Sea World opens the Undersea Kingdom, a new set of underwater glass tunnels that have their own control room, and Calvin's friend Philip FitzRoyce is there to do some filming. When Sea World diver Shelby Overman vanishes, everyone is worried. Michael and Kathryn head into the water, where they find a baby great white shark and decide to bring it to Sea World to put it on display, but at Sea World, the baby shark dies. When Overman's body is found, Michael vomits when he sees it. Kathryn looks at the body and knows that the baby shark could not have been the shark that killed Overman, because the baby shark's bite radius is too small its 35-foot-long mother killed Overman. When Kathryn and Michael tell Calvin and Philip about the shark, they all try to evacuate the park, including the park's beach, as they try their best to protect Sea World's visitors from the shark.",
+         "A biologist and workers at an ocean amusement park attempt to hunt down a murderous great white shark who apparently blames them for the death of her progeny. Originally released as 3D in the theatrical release.",
+         "This third film in the series follows a group of marine biologists attempting to capture a young great white shark that has wandered into Florida's Sea World Park. However, later it is discovered that the shark's 35-foot mother is also a guest at Sea World. What follows is the shark wreaking havoc on the visitors in the park.",
+         "The sons of police chief Brody must protect civilians at a Sea World theme park after a 35-foot shark becomes trapped in the park with them."
+      ],
+      "budget": 20500000
+   },
+   "movielensId": 1389,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1983-03-16",
+      "dvdReleaseDate": "2003-06-03",
+      "directors": ["Joe Alves"],
+      "runtime": 99,
+      "movieId": 1389,
+      "title": "Jaws 3-D",
+      "mpaa": "PG",
+      "actors": [
+         "Dennis Quaid",
+         "Bess Armstrong",
+         "Simon MacCorkindale",
+         "Louis Gossett",
+         " Jr.",
+         "John Putch",
+         "Lea Thompson",
+         "P.H. Moriarty",
+         "Dan Blasko",
+         "Liz Morris",
+         "Lisa Maurer",
+         "Harry Grant",
+         "Andy Hansen",
+         "P.T. Horn",
+         "John Edson",
+         "Kaye Stevens",
+         "Rich Valliere",
+         "Alonzo Ward",
+         "Cathy Cervenka",
+         "Jane Horner",
+         "Kathy Jenkins",
+         "Steve Mellor",
+         "Ray Meunnich",
+         "Les Alford",
+         "Gary Anstaett",
+         "Scott Christoffel",
+         "Debbie Connoyer",
+         "Mary Davis Duncan",
+         "John Floren",
+         "John Gaffey",
+         "Joe Gilbert",
+         "Will Knickerbocker",
+         "Jackie Kuntarich",
+         "Edward Laurie",
+         "Holly Lisker",
+         "M.J. Lloyd",
+         "Carl Mazzocone",
+         "Ken Olson",
+         "Ronnie Parks",
+         "Al Pipkin",
+         "Barbara Quinn",
+         "Irene Schubert",
+         "August Schwartz",
+         "Sandy Scott",
+         "Tony Shepherd",
+         "Dolores Starling",
+         "Tamie Steinke",
+         "Daniel Stewart"
+      ],
+      "imdbMovieId": "0085750",
+      "originalTitle": "Jaws 3-D",
+      "genres": [
+         "Thriller",
+         "Horror"
+      ],
+      "youtubeTrailerIds": [
+         "zMlx33ov82c",
+         "tdZ5bXgFJRY",
+         "4G5xSaXKH_Y"
+      ],
+      "plotSummary": "This third film in the series follows a group of marine biologists attempting to capture a young great white shark that has wandered into Florida's Sea World Park. However, later it is discovered that the shark's 35-foot mother is also a guest at Sea World. What follows is the shark wreaking havoc on the visitors in the park.",
+      "tmdbMovieId": 17692,
+      "avgRating": 1.89647,
+      "releaseYear": "1983",
+      "numRatings": 2183,
+      "posterPath": "/jGU5GucRaNCQ3L16qI7kfWch5Bn.jpg"
+   }
+}
