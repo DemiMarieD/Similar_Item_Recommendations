@@ -1,0 +1,48 @@
+
+Possible Similarity-Methods
+
+1. Genre:
+    - Get the once with the biggest genre overlap, sort by rating, get top5
+    - Get every movie with at least an overlap of 2 genres, sort by rating, get top5
+
+2. Use Popularity: (amount of ratings) if reference is an "unpopular" movie we show "unpopular" once,
+    person might more be into discover the unknown?!
+3. Title:
+4. Year:
+5. Content: try to compare the synopsis?!
+    A.  With Fuzzywuzzy (Python library)
+        https://towardsdatascience.com/natural-language-processing-for-fuzzy-string-matching-with-python-6632b7824c49
+        # pip install fuzzywuzzy
+
+    B.  With Jaccard similarity OR Cosine similarity
+        https://towardsdatascience.com/overview-of-text-similarity-metrics-3397c4601f50
+
+    # NOTE: These techniques might be helpful for the movie search as well.
+            (When looking for a movie title on the first view)
+
+
+# Most popular similarity measures:
+    https://dataaspirant.com/2015/04/11/five-most-popular-similarity-measures-implementation-in-python/
+        - Euclidean distance
+        - Manhattan distance
+        - Minkowski distance
+        - Cosine similarity - works with vectors
+            **********************************************************************
+            from math import
+            def square_rooted(x):
+                return round(sqrt(sum([a*a for a in x])),3)
+            def cosine_similarity(x,y):
+                numerator = sum(a*b for a,b in zip(x,y))
+                denominator = square_rooted(x)*square_rooted(y)
+                return round(numerator/float(denominator)
+            print cosine_similarity([3, 45, 7, 2], [2, 54, 13, 15])
+            **********************************************************************
+
+        - Jaccard similarity - similarity between sets
+            **********************************************************************
+            def jaccard_similarity(x,y):
+                intersection_cardinality = len(set.intersection(*[set(x), set(y)]))
+                union_cardinality = len(set.union(*[set(x), set(y)]))
+                return intersection_cardinality/float(union_cardinality)
+            print jaccard_similarity([0,1,2,5,6],[0,2,3,5,7,9])
+            **********************************************************************
