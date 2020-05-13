@@ -1,11 +1,11 @@
 from django.shortcuts import render, redirect
 from RecommendationApp.forms import user_id_form
-from RecommendationApp.old_operations import recommendations
-from RecommendationApp.old_operations import enrichWithMetaData
+from RecommendationApp.operations import getTop5s
+from RecommendationApp.operations import setup
 
 def index(request):
     # todo maybe add "Please wait we are preparing the side" where we do some set up ?!
-    # import operations.setup()
+    setup()  #not called here
     return redirect('/welcome')
 
 def netflix(request):
@@ -20,12 +20,13 @@ def welcome_view(request):
     if request.method == 'POST':
        if input_form.is_valid():
             # process the data in form.cleaned_data as required
-            id = input_form.cleaned_data["user_id"]
+            id = input_form.cleaned_data["movie_id"]
             # redirect to a new URL:
             return redirect('/welcome/' + id)
 
     # if not post or not valid
     return render(request, "welcome.html", {'input_form': input_form})
+
 
 def movie_selection(request, movie_title):
     # todo do we need a second page or do we do this on the 'welcome' page?!
@@ -34,21 +35,14 @@ def movie_selection(request, movie_title):
     return render(request, "movie_selection.html", movie_options)
 
 
-def recommendation_view(request):
+def recommendation_view(request, id):
     # todo get list of top-5 most similar items, from at least 5 different functions
-    # make to recommendations_dict, key = methodNumber, value = method call
-    # import operations.getTop5s(id)
-    # return render(request, "recommendations.html", recommendations_dict)
-
-    # If you are using DataFrames keep in mind that Django needs a dictionary as the context  variable. 
-    # So use the to_dict() function to convert it.
-    recommendations_df = recommendations(id)
-    recommendation_dict = enrichWithMetaData(recommendations_df)
-    # print(recommendation_dict)
+    # make to recommendations_dict, key = methodNumber, value = dict with method key
+    recommendation_dict = getTop5s(id)
+    method_one_dict = recommendation_dict[1]
     # The dictionary contains entries with movie ids as keys
-    # e.g. 1947: {'genres': ['Drama', 'Comedy'], 'title': 'My Life in Pink', 'posterPath': '/f5bySDXIX09A3tbtTYHbXK1V0Nf.jpg',
-    # 'sysopsis': "Ludovic is a small boy who cross-dresses and generally acts like a girl, talks of marrying his neighbor's son
-    # and can not understand why everyone is so surprised about it. His actions lead to problems for him and his family.",
-    # 'releaseDate': '1956-07-14'}
-    context = {"recommendations": recommendation_dict.items()}
-    return render(request, "recommendations.html", context)
+    # e.g. 1947: {'title': 'My Life in Pink', 'posterPath': 'https://image.tmdb.org/t/p/w342/f5bySDXIX09A3tbtTYHbXK1V0Nf.jpg'}
+    print(method_one_dict)
+
+    context = {"similar_movies_1": method_one_dict.items()}
+    return render(request, "similar_movies.html", context)

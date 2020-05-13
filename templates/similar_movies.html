@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Similar Movies</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script defer src="https://use.fontawesome.com/releases/v5.1.0/js/all.js" integrity="sha384-3LK/3kTpDE/Pkp8gTNp2gR/2gOiwQ6QaO7Td0zV76UFJVhqLl4Vl3KL1We6q6wR9" crossorigin="anonymous"></script>
+
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'css/netflix-style.css' %}">
+</head>
+<body>
+
+<section class="main-container" >
+      <!-- todo add reference movie here -->
+
+      <div class="location" id="home">
+          <h1 id="home">Method 1</h1>
+          <div class="box">
+              {% for movieId, details in similar_movies_1 %}
+                  <a href=""><img src="{{ details.poster_path }}" alt="Poster not available"></a>
+              {% endfor %}
+          </div>
+
+          <!-- todo Add other methods here -->
+
+      </div>
+</section>
+
+</body>
+</html>
