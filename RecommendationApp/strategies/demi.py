@@ -1,12 +1,3 @@
-import pandas as pd
-import tmdbsimple as tmdb
-import json
-from pathlib import Path
-
-
-def method(data, movie_id):
-    pass
-
 
 def using_tmdb_recommendations(data, movie_id):
     try:
@@ -28,9 +19,10 @@ def using_tmdb_recommendations(data, movie_id):
             similar_movie_id = int(tuple[0])
             similar_movies[similar_movie_id] = {}
             similar_movies[similar_movie_id]['title'] = data[similar_movie_id]['title']
-            poster_path = data[similar_movie_id]['poster_path']
-            if poster_path != None:
-                similar_movies[similar_movie_id]['poster_path'] = "https://image.tmdb.org/t/p/w342" + poster_path
+            similar_movies[similar_movie_id]['poster_path'] = data[similar_movie_id]['poster_path']
+           #poster_path = data[similar_movie_id]['poster_path']
+           #if poster_path != None:
+           #    similar_movies[similar_movie_id]['poster_path'] = "https://image.tmdb.org/t/p/w342" + poster_path
 
         print(similar_movies)
         return similar_movies

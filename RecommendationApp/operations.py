@@ -11,6 +11,7 @@ from RecommendationApp.strategies import sebastian
 tmdb.API_KEY = '1fe2d017037a1445b9122ea2dcd42d41'
 movie_data = {}
 
+
 # ***************** DATA IMPORTs ************************
 
 # NOTE: I think the extracted_content_dict has ALL except the rating and users details
@@ -20,12 +21,12 @@ movie_data = {}
 
 # Data we need for display
 def create_movie_data_dict():
-    #global movie_data
+    # global movie_data
     big_movie_dict = {}
     pathlist = Path("RecommendationApp/data/extracted_content_ml-latest/").glob('**/*.json')
     for path in pathlist:
         path_in_str = str(path)
-        #print(path_in_str)
+        # print(path_in_str)
         f_input = open(path_in_str, 'r', encoding="utf8")
         content_dict = json.load(f_input)
         movielensId = content_dict['movielensId']
@@ -40,8 +41,9 @@ def create_movie_data_dict():
         movie_data[key]['movielensId'] = value['movielensId']
         movie_data[key]['tmdbMovieId'] = value['movielens']['tmdbMovieId']
         movie_data[key]['title'] = value['movielens']['title']
-        if 'tmdb' in value:
-            movie_data[key]['poster_path'] = value['tmdb']['poster_path']
+        # todo maybe movie_path is not needed here anymore since it will be updated anyways
+        if 'tmdb' in value and value['tmdb']['poster_path'] is not None:
+            movie_data[key]['poster_path'] = "https://image.tmdb.org/t/p/w342" + value['tmdb']['poster_path']
         else:
             movie_data[key]['poster_path'] = None
 
@@ -78,7 +80,6 @@ def create_movie_data_dict():
 
 def setup():
     # todo try to set up most things, train algo etc.
-
     # check what data we need and prepare just that
     create_movie_data_dict()
     print('Set up done')
@@ -89,23 +90,33 @@ def getMovieOptions(movie_title):
     pass
 
 
+def updateMoviePoster(movies_dict):
+    for movie, data in movies_dict.items():
+        tmdbMovie = tmdb.Movies(movie_data[movie]['tmdbMovieId'])
+        tmdbMovie.info()
+        # TODO: This could be changed to retrieve the path via API
+        if tmdbMovie.poster_path != None:
+            movies_dict[movie]['poster_path'] = "https://image.tmdb.org/t/p/w342" + tmdbMovie.poster_path
+    return movies_dict
+
+
 def getTop5s(movie_id):
-    #global movie_data
+    # global movie_data
 
     # todo get >5 list of the 5 most similar movies
     resultDict = {}
     # call >5 different functions & combine results in dictionary
-    top5_method1 = demi.using_tmdb_recommendations(movie_data, movie_id)  # returns movie_dict with values title & poster_path
+    top5_method1 = demi.using_tmdb_recommendations(movie_data,
+                                                   movie_id)  # returns movie_dict with values title & poster_path
     if top5_method1 != None:
+        top5_method1 = updateMoviePoster(top5_method1)
         resultDict[1] = top5_method1
-    #todo error handle if == None
+    # todo error handle if == None
 
     # top5_2 = eda.method(data, id)
     # top5_3 = sebastian.method(data, id)
 
     return resultDict
-
-
 
 # NOTES
 # Movie Data
