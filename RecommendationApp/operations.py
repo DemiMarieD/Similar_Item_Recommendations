@@ -23,6 +23,7 @@ data = data[['UserID', 'MovieID', 'Title', 'Rating', 'Genres']]
 
 metadata = pd.read_csv(filepath_or_buffer="data/movies_metadata.csv", delimiter=",")
 
+# !!!!!!! NEW Data import !!!!!!!
 extracted_content_dict = {}
 pathlist = Path("data/extracted_content_ml-latest/").glob('**/*.json')
 for path in pathlist:
@@ -33,6 +34,10 @@ for path in pathlist:
     movielensId = content_dict['movielensId']
     extracted_content_dict[movielensId] = content_dict
 
+# NOTE: I think the extracted_content_dict has ALL except the rating and users details
+# ! (it does contain the avg rating + count),
+# if we need more details we could add the rating to the dict and make a new dict for the users ?!
+# But I think we might not even need it.
 
 # tmdb_dict = extracted_content_dict[<movieID>]['tmdb']
 # imdb_dict = extracted_content_dict[<movieID>]['imdb']
@@ -48,6 +53,7 @@ for path in pathlist:
 
 def setup():
     # todo try to set up most things, train algo etc.
+    # check what data we need and prepare just that?!
     pass
 
 def getMovieOptions(movie_title):
@@ -64,6 +70,3 @@ def getTop5s(movie_id):
     # top5_4 = method(id)
     # top5_5 = method(id)
 
-
-
-##### possible methods see Notes
