@@ -37,15 +37,11 @@ def create_movie_data_dict():
         movie_data[key] = {}
 
         # disclamer: not all the movies contain tmdb information in ectracted_content files e.g. 1107
+
         # ---------- general information
         movie_data[key]['movielensId'] = value['movielensId']
         movie_data[key]['tmdbMovieId'] = value['movielens']['tmdbMovieId']
         movie_data[key]['title'] = value['movielens']['title']
-        # todo maybe movie_path is not needed here anymore since it will be updated anyways
-        if 'tmdb' in value and value['tmdb']['poster_path'] is not None:
-            movie_data[key]['poster_path'] = "https://image.tmdb.org/t/p/w342" + value['tmdb']['poster_path']
-        else:
-            movie_data[key]['poster_path'] = None
 
         # ---------- to get popularity
         if 'tmdb' in value:
@@ -90,7 +86,7 @@ def getMovieOptions(movie_title):
     pass
 
 
-def updateMoviePoster(movies_dict):
+def add_poster_path(movies_dict):
     for movie, data in movies_dict.items():
         tmdbMovie = tmdb.Movies(movie_data[movie]['tmdbMovieId'])
         tmdbMovie.info()
@@ -109,7 +105,7 @@ def getTop5s(movie_id):
     top5_method1 = demi.using_tmdb_recommendations(movie_data,
                                                    movie_id)  # returns movie_dict with values title & poster_path
     if top5_method1 != None:
-        top5_method1 = updateMoviePoster(top5_method1)
+        top5_method1 = add_poster_path(top5_method1)
         resultDict[1] = top5_method1
     # todo error handle if == None
 
