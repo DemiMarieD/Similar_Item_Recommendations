@@ -14,11 +14,9 @@ def using_tmdb_recommendations(data, movie_id):
         if len(sorted_by_avgRating) > 5:
             sorted_by_avgRating = sorted_by_avgRating[:5]
 
-        similar_movies = {}  # value:  title
+        similar_movies = []  # value:  title
         for tuple in sorted_by_avgRating:
-            similar_movie_id = int(tuple[0])
-            similar_movies[similar_movie_id] = {}
-            similar_movies[similar_movie_id]['title'] = data[similar_movie_id]['title']
+            similar_movies.append(int(tuple[0]))
 
         print(similar_movies)
         return similar_movies

@@ -36,16 +36,9 @@ def movie_selection(request, movie_title):
 
 
 def recommendation_view(request, id):
-    # todo get list of top-5 most similar items, from at least 5 different functions
-    # make to recommendations_dict, key = methodNumber, value = dict with method key
-    recommendation_dict = getTop5s(id)
-    method_one_dict = {}
-    # this method might not have worked for every movie e.g. 1107
-    if 1 in recommendation_dict:
-        method_one_dict = recommendation_dict[1]
-        # The dictionary contains entries with movie ids as keys
-        # e.g. 1947: {'title': 'My Life in Pink', 'posterPath': 'https://image.tmdb.org/t/p/w342/f5bySDXIX09A3tbtTYHbXK1V0Nf.jpg'}
-        # print(method_one_dict)
 
-    context = {"similar_movies_1": method_one_dict.items()}
+    # make to recommendations_dict, key = method_name, value = dict of movies with their details
+    similar_movies_dicts = getTop5s(id)
+    context = {"similar_movies_dicts": similar_movies_dicts.items()}  # todo add reference movies
+
     return render(request, "similar_movies.html", context)

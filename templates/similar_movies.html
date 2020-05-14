@@ -16,18 +16,20 @@
       <!-- todo add reference movie here -->
 
       <div class="location" id="home">
-          <h1 id="home">Method 1</h1>
-          <div class="box">
-              {% if similar_movies_1|length > 0 %}
-                  {% for movieId, details in similar_movies_1 %}
-                      <a href=""><img src="{{ details.poster_path }}" alt="Poster not available"></a>
-                  {% endfor %}
 
-              {% else%}
-                  <h2>This method didn't work for this movie</h2>
-              {% endif %}
-          </div>
+           {% for method_name, similar_movies in similar_movies_dicts %}
+               <h1 id="home">{{ method_name }}</h1>
+               <div class="box">
+                  {% if similar_movies|length > 0 %}
+                      {% for movieId, details in similar_movies %}
+                          <a href=""><img src="{{ details.poster_path }}" alt="Poster not available"></a>
+                      {% endfor %}
 
+                  {% else%}
+                      <h2>This method didn't work for this movie</h2>
+                  {% endif %}
+              </div>
+           {% endfor %}
           <!-- todo Add other methods here -->
 
       </div>

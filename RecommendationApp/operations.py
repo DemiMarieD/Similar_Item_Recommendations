@@ -86,28 +86,39 @@ def getMovieOptions(movie_title):
     pass
 
 
-def add_poster_path(movies_dict):
-    for movie, data in movies_dict.items():
+def getMovieDetails(movies_list):
+    movies_dict = {}  # key movie_id, value dict of movie details
+    for movie in movies_list:
+        movies_dict[movie] = {}  # dict for movie details
+
+        # Movie Title
+        movies_dict[movie]['title'] = movie_data[movie]['title']
+
+        # Poster Path
         tmdbMovie = tmdb.Movies(movie_data[movie]['tmdbMovieId'])
         tmdbMovie.info()
-        # TODO: This could be changed to retrieve the path via API
         if tmdbMovie.poster_path != None:
             movies_dict[movie]['poster_path'] = "https://image.tmdb.org/t/p/w342" + tmdbMovie.poster_path
+
+        # todo add other movie details we need to displaying
+
     return movies_dict
 
 
 def getTop5s(movie_id):
-    # global movie_data
 
-    # todo get >5 list of the 5 most similar movies
-    resultDict = {}
-    # call >5 different functions & combine results in dictionary
-    top5_method1 = demi.using_tmdb_recommendations(movie_data,
-                                                   movie_id)  # returns movie_dict with values title & poster_path
+    resultDict = {} # key = Method Name, value = dict of similar movies and details
+
+    # ------------ Method One ------------
+    top5_method1 = demi.using_tmdb_recommendations(movie_data, movie_id)  # returns list of (5) movie id's
     if top5_method1 != None:
-        top5_method1 = add_poster_path(top5_method1)
-        resultDict[1] = top5_method1
-    # todo error handle if == None
+        method1_movies = getMovieDetails(top5_method1)
+        resultDict['Based on tmdb'] = method1_movies.items()
+    else:
+        resultDict['Based on tmdb'] = None  # will show a info text that the method did not work
+
+    # ------------ Method Two ------------
+
 
     # top5_2 = eda.method(data, id)
     # top5_3 = sebastian.method(data, id)
