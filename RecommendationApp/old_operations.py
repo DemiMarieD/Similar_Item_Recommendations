@@ -42,10 +42,10 @@ x_train = train[['UserID', 'MovieID']]
 y_train = train[['Rating']]
 x_test = test[['UserID', 'MovieID']]
 y_test = test[['Rating']]
-
-knn = KNeighborsClassifier()
-knn.fit(x_train, y_train)
-KNeighborsClassifier(n_neighbors=neighbor_size)
+#
+# knn = KNeighborsClassifier()
+# knn.fit(x_train, y_train)
+# KNeighborsClassifier(n_neighbors=neighbor_size)
 
 
 # Can be used to check the predictions

@@ -58,7 +58,11 @@ def create_movie_data_dict():
 
         # ---------- content information for Demi
         if 'tmdb' in value:
-            movie_data[key]['keywords'] = value['tmdb']['keywords']
+            keyword_tuple_list = value['tmdb']['keywords']
+            movie_data[key]['keywords'] = []
+            for tuple in keyword_tuple_list:
+                movie_data[key]['keywords'].append(tuple['name'])  # create a list of keyword names
+
             movie_data[key]['recommendations'] = value['tmdb']['recommendations']
             movie_data[key]['overview'] = value['tmdb']['overview']
         else:
@@ -118,7 +122,12 @@ def getTop5s(movie_id):
         resultDict['Based on tmdb'] = None  # will show a info text that the method did not work
 
     # ------------ Method Two ------------
-
+    top5_method2 = demi.using_keywords(movie_data, movie_id)  # returns list of (5) movie id's
+    if top5_method2 != None:
+        method2_movies = getMovieDetails(top5_method2)
+        resultDict['Based on keywords'] = method2_movies.items()
+    else:
+        resultDict['Based on keywords'] = None  # will show a info text that the method did not work
 
     # top5_2 = eda.method(data, id)
     # top5_3 = sebastian.method(data, id)
