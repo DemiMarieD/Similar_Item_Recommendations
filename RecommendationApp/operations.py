@@ -97,6 +97,7 @@ def getMovieDetails(movies_list):
 
         # Movie Title
         movies_dict[movie]['title'] = movie_data[movie]['title']
+        movies_dict[movie]['plotSummary'] = movie_data[movie]['plotSummary']
 
         # Poster Path
         tmdbMovie = tmdb.Movies(movie_data[movie]['tmdbMovieId'])

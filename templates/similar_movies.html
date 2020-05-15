@@ -9,14 +9,25 @@
 
     {% load static %}
     <link rel="stylesheet" href="{% static 'css/netflix-style.css' %}">
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
 </head>
 <body>
 
 <section class="main-container" >
       <!-- todo add reference movie here -->
-     {% for key, details in reference_movie %}
-        <h1>Similar Movies for: {{ details.title }}</h1>
-     {% endfor %}
+     <div class="header">
+         {% for key, details in reference_movie %}
+            <div class="movie_details">
+                <h4>Similar Movies for: </h4>
+                <h1>{{ details.title }}</h1>
+                <p> {{ details.plotSummary }}</p>
+            </div>
+             <div class="movie_poster" style="background-image: url('{{ details.poster_path }}')"></div>
+
+
+         {% endfor %}
+     </div>
+
       <div class="location" id="home">
            {% for method_name, similar_movies in similar_movies_dicts %}
                <h1 id="home">{{ method_name }}</h1>
