@@ -188,6 +188,14 @@ def getTop5s(movie_id):
         resultDict['Based on Genre'] = method4_movies.items()
     else:
         resultDict['Based on Genre'] = None  # will show a info text that the method did not work
+        
+         # ------------ Method Five ------------ DOESN'T WORK FOR SOME MOVIES(NO SAME TITLE)
+    top5_method5 = eda.using_title(movie_data, movie_id)
+    if top5_method5 != None:
+        method5_movies = getMovieDetails(top5_method5)
+        resultDict['Based on Title'] = method5_movies.items()
+    else:
+        resultDict['Based on Title'] = None
 
     # top5_2 = eda.method(data, id)
     # top5_3 = sebastian.method(data, id)
