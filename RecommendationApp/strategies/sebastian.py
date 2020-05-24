@@ -43,11 +43,31 @@ def calculate_average_image_contrast(image):
         print("Error while trying to calculate the contrast for image.")
         return None
 
+# Returns the colour histogram of an image
+def get_image_similarity_histogram(image):
+    try:
+        histogram = image.histogram()
+        # TODO: Handle grayscale images
+        # 256*3 => RGB channels are concatenated
+        if len(histogram) != 256*3:
+            return None
+        return histogram
+    except:
+        print("Error while trying to get colour histogram for image.")
+        return None
+
 # Use Manhattan distance for similarity calculation.
 # In the paper it is used for multiple low-level feature comparisons,
 # e.g. brightness, sharpness, colourfulness, contrast, ...
 def calculate_image_similarity(value_image_1, value_image_2):
     return 1 - abs(value_image_1 - value_image_2)
+
+# The similarity method simple calculates the deviation of two histograms
+def calculate_image_similarity_histogram(histogram_1, histogram_2):
+    # Subtract the values pairwise and take the absolute values
+    subtracted_difference = [abs(x1 - x2) for (x1, x2) in zip(histogram_1, histogram_2)]
+    # Sum up the differences
+    return sum(subtracted_difference)
 
 # Returns the image as Pillow image if available, otherwise None
 def get_image_from_url(url):
@@ -61,9 +81,9 @@ def get_image_from_url(url):
         return None
 
 
-def get_top_5(relevant_movies):
+def get_top_5(relevant_movies, descending):
     # get top 5 - Similarities are in a range of [-255, 1], where 1 means similar
-    sorted_list = sorted(relevant_movies, key=lambda tup: tup[1], reverse=True)
+    sorted_list = sorted(relevant_movies, key=lambda tup: tup[1], reverse=descending)
 
     if len(sorted_list) > 5:
         sorted_list = sorted_list[:5]
@@ -90,11 +110,13 @@ class Image_Based_Recommender:
                 if value['poster'] is not None:
                     poster = get_image_from_url(value['poster'])
                     self.movieposter_metadata[m_id]['avg_brightness'] = calculate_average_image_brightness(poster)
-                    #self.movieposter_metadata[m_id]['avg_contrast'] = calculate_average_image_contrast(poster)
+                    self.movieposter_metadata[m_id]['avg_contrast'] = calculate_average_image_contrast(poster)
+                    self.movieposter_metadata[m_id]['colour_histogram'] = get_image_similarity_histogram(poster)
                 else:
                     # TODO: Maybe better -1?
                     self.movieposter_metadata[m_id]['avg_brightness'] = None
-                    #self.movieposter_metadata[m_id]['avg_contrast'] = None
+                    self.movieposter_metadata[m_id]['avg_contrast'] = None
+                    self.movieposter_metadata[m_id]['colour_histogram'] = None
 
             self.serialize_movieposter_data_file()
 
@@ -111,7 +133,7 @@ class Image_Based_Recommender:
                 relevant_movies.append(
                     (m_id, calculate_image_similarity(target_movie_brightness, value['avg_brightness'])))
 
-        result = get_top_5(relevant_movies)
+        result = get_top_5(relevant_movies, True)
         return result
 
 
@@ -122,13 +144,28 @@ class Image_Based_Recommender:
 
         relevant_movies = []  # list of tuples: id, similarity
         target_movie_contrast = self.movieposter_metadata[movie_id]['avg_contrast']
-        print("Target movie contrast: ", str(target_movie_contrast))
         for m_id, value in self.movieposter_metadata.items():
             if m_id != movie_id and value['avg_contrast'] is not None:
                 relevant_movies.append(
                     (m_id, calculate_image_similarity(target_movie_contrast, value['avg_contrast'])))
 
-        result = get_top_5(relevant_movies)
+        result = get_top_5(relevant_movies, True)
+        return result
+
+    # Uses similarity of histograms
+    def using_poster_colour_histogram(self, data, movie_id):
+        # If there is no poster for the given movie, skip image-based recommendation
+        if data[movie_id]['poster'] is None:
+            return None
+
+        relevant_movies = []  # list of tuples: id, similarity
+        target_movie_histogram = self.movieposter_metadata[movie_id]['colour_histogram']
+        for m_id, value in self.movieposter_metadata.items():
+            if m_id != movie_id and value['colour_histogram'] is not None:
+                relevant_movies.append(
+                    (m_id, calculate_image_similarity_histogram(target_movie_histogram, value['colour_histogram'])))
+
+        result = get_top_5(relevant_movies, False)
         return result
 
     # Loads the serialized movieposter_metadata object
