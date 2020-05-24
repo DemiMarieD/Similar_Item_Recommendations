@@ -6,14 +6,18 @@ import nltk
 import string
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
+from requests import HTTPError
+import pickle
+
 from RecommendationApp.strategies import demi
 from RecommendationApp.strategies import eda
-from RecommendationApp.strategies import sebastian
+from RecommendationApp.strategies.sebastian import Image_Based_Recommender
+
 
 # ***************** Global VARs ************************
-
-tmdb.API_KEY = '1fe2d017037a1445b9122ea2dcd42d41'
+serialized_movie_data_path = 'RecommendationApp/data/serialized/serialized_movie_data.obj'
 movie_data = {}
+tmdb.API_KEY = '1fe2d017037a1445b9122ea2dcd42d41'
 nltk.download('punkt')
 nltk.download('stopwords')
 
@@ -23,6 +27,21 @@ nltk.download('stopwords')
 #       ! (it does contain the avg rating + count),
 #       if we need more details we could add the rating to the dict and make a new dict for the users ?!
 #       But I think we might not even need it.
+
+
+# Loads a serialized object
+def load_serialized_movie_data(path):
+    with open(path, 'rb') as serialized_file:
+        serialized_movie_data : dict = pickle.load(serialized_file)
+    for key, value in serialized_movie_data.items():
+        movie_data[key] = value
+
+
+# Dumps a an object as serialized file
+def serialize_movie_data_file(path, data):
+    with open(path, 'wb') as serialized_file:
+        pickle.dump(data, serialized_file, pickle.HIGHEST_PROTOCOL)
+
 
 # Data we need for display
 def create_movie_data_dict():
@@ -39,6 +58,7 @@ def create_movie_data_dict():
 
     counter = 0
     for key, value in big_movie_dict.items():
+        print("Current movie id: " + str(key))
         # each movies has a dict
         movie_data[key] = {}
 
@@ -103,15 +123,24 @@ def create_movie_data_dict():
         # else:
         #     movie_data[key]['word_list'] = None
 
-
         # ---------------
         # todo add additional needed data!
 
+        # Add poster paths for image-based recommendations
+        try:
+            tmdbMovie = tmdb.Movies(value['movielens']['tmdbMovieId'])
+            tmdbMovie.info()
+            if tmdbMovie.poster_path != None:
+                movie_data[key]['poster'] = "https://image.tmdb.org/t/p/w342" + tmdbMovie.poster_path
+            else:
+                movie_data[key]['poster'] = None
+        except HTTPError:
+            print("Poster could not be requested from API for movie id: " + str(value['movielens']['tmdbMovieId']))
+            movie_data[key]['poster'] = None
 
         # -------------- Status
         counter = counter + 1
-        print("Setup done: " + str(round((counter / len(big_movie_dict))*100, 2)) + "%")
-
+        print("Setup done: " + str(round((counter / len(big_movie_dict)) * 100, 2)) + "%")
 
 def clean_string(text):
     text = ''.join([word for word in text if word not in string.punctuation])
@@ -123,8 +152,13 @@ def clean_string(text):
 
 def setup():
     # todo try to set up most things, train algo etc.
-    # check what data we need and prepare just that
-    create_movie_data_dict()
+    if Path(serialized_movie_data_path).is_file():
+        # Serialized object exists, load it instead of creating it from scratch
+        load_serialized_movie_data(serialized_movie_data_path)
+    else:
+        # check what data we need and prepare just that
+        create_movie_data_dict()
+        serialize_movie_data_file(serialized_movie_data_path, movie_data)
     print('Set up done')
 
 
@@ -143,10 +177,8 @@ def getMovieDetails(movies_list):
         movies_dict[movie]['plotSummary'] = movie_data[movie]['plotSummary']
 
         # Poster Path
-        tmdbMovie = tmdb.Movies(movie_data[movie]['tmdbMovieId'])
-        tmdbMovie.info()
-        if tmdbMovie.poster_path != None:
-            movies_dict[movie]['poster_path'] = "https://image.tmdb.org/t/p/w342" + tmdbMovie.poster_path
+        if movie_data[movie]['poster'] != None:
+            movies_dict[movie]['poster_path'] = movie_data[movie]['poster']
 
         # todo add other movie details we need to displaying
 
@@ -156,7 +188,6 @@ def getMovieDetails(movies_list):
 def getTop5s(movie_id):
 
     resultDict = {} # key = Method Name, value = dict of similar movies and details
-
     # ------------ Method One ------------
     top5_method1 = demi.using_tmdb_recommendations(movie_data, movie_id)  # returns list of (5) movie id's
     if top5_method1 != None:
@@ -197,8 +228,14 @@ def getTop5s(movie_id):
     else:
         resultDict['Based on Title'] = None
 
-    # top5_2 = eda.method(data, id)
-    # top5_3 = sebastian.method(data, id)
+    # ------------ Method Six ------------
+    image_based_recommender = Image_Based_Recommender(movie_data)
+    top5_method6 = image_based_recommender.using_poster_brightness(movie_data, movie_id)  # returns list of (5) movie id's
+    if top5_method6 != None:
+        method6_movies = getMovieDetails(top5_method6)
+        resultDict['Based on Poster Brightness'] = method6_movies.items()
+    else:
+        resultDict['Based on Poster Brightness'] = None  # will show a info text that the method did not work
 
     return resultDict
 
@@ -218,7 +255,6 @@ def getTop5s(movie_id):
 #         dict['tmdbMovieId'] -> value: int
 #         dict['avgRating'] -> value: int
 #         dict['numRatings'] -> value: int
-
 
 # Relevant / Interesting Data for me
 # dict[<movieId>]
