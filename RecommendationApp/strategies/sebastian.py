@@ -33,7 +33,9 @@ def calculate_average_image_contrast(image):
         sum_contrast = 0
         for x in range(image.width):
             for y in range(image.height):
-                sum_contrast = image.getpixel(x, y) - avg_intensity
+                r, g, b = image.getpixel((x, y))
+                pixel_luminance = calculate_luminance(r, g, b)
+                sum_contrast = pixel_luminance - avg_intensity
 
         avg_contrast = sum_contrast / (image.width * image.height)
         return avg_contrast
@@ -104,7 +106,6 @@ class Image_Based_Recommender:
 
         relevant_movies = []  # list of tuples: id, similarity
         target_movie_brightness = self.movieposter_metadata[movie_id]['avg_brightness']
-        print("Target movie brightness: ", str(target_movie_brightness))
         for m_id, value in self.movieposter_metadata.items():
             if m_id != movie_id and value['avg_brightness'] is not None:
                 relevant_movies.append(

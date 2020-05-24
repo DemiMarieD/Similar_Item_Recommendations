@@ -228,7 +228,7 @@ def getTop5s(movie_id):
     else:
         resultDict['Based on Title'] = None
 
-    # ------------ Method Six ------------
+    # ------------ Method Six, Seven, Eight - image-based ------------
     image_based_recommender = Image_Based_Recommender(movie_data)
     top5_method6 = image_based_recommender.using_poster_brightness(movie_data, movie_id)  # returns list of (5) movie id's
     if top5_method6 != None:
@@ -237,6 +237,12 @@ def getTop5s(movie_id):
     else:
         resultDict['Based on Poster Brightness'] = None  # will show a info text that the method did not work
 
+    top5_method7 = image_based_recommender.using_poster_contrast(movie_data, movie_id)  # returns list of (5) movie id's
+    if top5_method7 != None:
+        method7_movies = getMovieDetails(top5_method7)
+        resultDict['Based on Poster Contrast'] = method7_movies.items()
+    else:
+        resultDict['Based on Poster Contrast'] = None  # will show a info text that the method did not work
     return resultDict
 
 # NOTES
