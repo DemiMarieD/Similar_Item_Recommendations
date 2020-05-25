@@ -69,6 +69,22 @@ def create_movie_data_dict():
         movie_data[key]['tmdbMovieId'] = value['movielens']['tmdbMovieId']
         movie_data[key]['title'] = value['movielens']['title']
         movie_data[key]['genres'] = value['movielens']['genres']
+        movie_data[key]['actors'] = value['movielens']['actors']
+        movie_data[key]['directors'] = value['movielens']['directors']
+        movie_data[key]['releaseYear'] = value['movielens']['releaseYear']
+
+        if 'imdb' in value:
+            movie_data[key]['productionCompanies'] = value['imdb']['productionCompanies']
+            movie_data[key]['color'] = value['imdb']['color']
+        else:
+            movie_data[key]['productionCompanies'] = None
+            movie_data[key]['color'] = None
+
+        if 'tmdb' in value:
+            movie_data[key]['adult'] = value['tmdb']['adult']
+        else:
+            movie_data[key]['adult'] = None
+
 
         # ---------- to get popularity
         if 'tmdb' in value:
@@ -91,6 +107,7 @@ def create_movie_data_dict():
                 movie_data[key]['keywords'].append(tuple['name'])  # create a list of keyword names
 
             movie_data[key]['recommendations'] = value['tmdb']['recommendations']
+            movie_data[key]['similar'] = value['tmdb']['similar']
             movie_data[key]['overview'] = value['tmdb']['overview']
         else:
             movie_data[key]['keywords'] = None
@@ -105,23 +122,19 @@ def create_movie_data_dict():
         # !!! This takes a few min !!!
         if plotSummary is not None:
             movie_data[key]['wordsOfSum'] = clean_string(plotSummary)
-            # print("----- created for:_ " + str(key))
         else:
             movie_data[key]['wordsOfSum'] = None
         # !!! This takes a few min !!!
-        # if plotSummary is not None:
-        #     sum_word_list = []
-        #     stemmer = nltk.PorterStemmer()
-        #     print("started for:_ " + str(key))
-        #     # for text in summaries: #-> this take like >5min
-        #     text_tokens = word_tokenize(plotSummary)
-        #     for token in text_tokens:
-        #         if token not in stopwords.words('english'):
-        #             sum_word_list.append(stemmer.stem(token))
-        #     movie_data[key]['word_list'] = sum_word_list
-        #     print("----- list created for:_ " + str(key))
-        # else:
-        #     movie_data[key]['word_list'] = None
+        if plotSummary is not None:
+            sum_word_list = []
+            stemmer = nltk.PorterStemmer()
+            text_tokens = word_tokenize(plotSummary)
+            for token in text_tokens:
+                if token not in stopwords.words('english'):
+                    sum_word_list.append(stemmer.stem(token))
+            movie_data[key]['word_list'] = sum_word_list
+        else:
+            movie_data[key]['word_list'] = None
 
         # ---------------
         # todo add additional needed data!
@@ -188,15 +201,27 @@ def getMovieDetails(movies_list):
 def getTop5s(movie_id):
 
     resultDict = {} # key = Method Name, value = dict of similar movies and details
-    # ------------ Method One ------------
+
+    # ------------ Method Zero, One  - to eval ------------
+    # Method Zero ------------
+    top5_method0 = demi.using_tmdb_similarity(movie_data, movie_id)  # returns list of (5) movie id's
+    if top5_method0 != None:
+        method0_movies = getMovieDetails(top5_method0)
+        resultDict['Based on tmdb_similarity'] = method0_movies.items()
+    else:
+        resultDict['Based on tmdb_similarity'] = None  # will show a info text that the method did not work
+
+    # Method One ------------
     top5_method1 = demi.using_tmdb_recommendations(movie_data, movie_id)  # returns list of (5) movie id's
     if top5_method1 != None:
         method1_movies = getMovieDetails(top5_method1)
-        resultDict['Based on tmdb'] = method1_movies.items()
+        resultDict['Based on tmdb_recommendations'] = method1_movies.items()
     else:
-        resultDict['Based on tmdb'] = None  # will show a info text that the method did not work
+        resultDict['Based on tmdb_recommendations'] = None  # will show a info text that the method did not work
 
-    # ------------ Method Two ------------ DOESNT WORK A COUPLE OF TIMES (NO KEYWORD OVERLAPS)
+    # ------------ Method Two , Three a) / b)  - content-based ------------
+
+    # Method Two ------------ DOESNT WORK A COUPLE OF TIMES (NO KEYWORD OVERLAPS)
     top5_method2 = demi.using_keywords(movie_data, movie_id)  # returns list of (5) movie id's
     if top5_method2 != None:
         method2_movies = getMovieDetails(top5_method2)
@@ -204,13 +229,16 @@ def getTop5s(movie_id):
     else:
         resultDict['Based on keywords'] = None  # will show a info text that the method did not work
 
-    # ------------ Method Three ------------ TAKES TIME AND IS NOT SO GOOD
+    # Method Three ------------ IS NOT SO GOOD
     top5_method3 = demi.using_content_analysis(movie_data, movie_id)  # returns list of (5) movie id's
     if top5_method3 != None:
         method3_movies = getMovieDetails(top5_method3)
         resultDict['Based on Plot Summary'] = method3_movies.items()
     else:
         resultDict['Based on Plot Summary'] = None  # will show a info text that the method did not work
+
+    # todo alternative to three
+
 
     # ------------ Method Four ------------ LOW DISCOVERY BECAUSE OF USING POPULATION FOR RANKING
     top5_method4 = demi.using_genre(movie_data, movie_id)  # returns list of (5) movie id's
@@ -220,7 +248,7 @@ def getTop5s(movie_id):
     else:
         resultDict['Based on Genre'] = None  # will show a info text that the method did not work
         
-         # ------------ Method Five ------------ DOESN'T WORK FOR SOME MOVIES(NO SAME TITLE)
+    # ------------ Method Five ------------ DOESN'T WORK FOR SOME MOVIES(NO SAME TITLE)
     top5_method5 = eda.using_title(movie_data, movie_id)
     if top5_method5 != None:
         method5_movies = getMovieDetails(top5_method5)
@@ -254,7 +282,18 @@ def getTop5s(movie_id):
     else:
         resultDict['Based on Poster Colour Histogram'] = None  # will show a info text that the method did not work
 
+
+    # --------------- Method 9 - complex method-------
+    top5_method9 = demi.complex_method(movie_data, movie_id)  # returns list of (5) movie id's
+    if top5_method9 != None:
+        method9_movies = getMovieDetails(top5_method9)
+        resultDict['Based on Multiple Factors'] = method9_movies.items()
+    else:
+        resultDict['Based on Multiple Factors'] = None  # will show a info text that the method did not work
+
+
     return resultDict
+
 
 # NOTES
 # Movie Data

@@ -6,7 +6,7 @@ from RecommendationApp.operations import setup
 
 def index(request):
     # todo maybe add "Please wait we are preparing the side" where we do some set up ?!
-    setup()  #not called here
+    setup()
     return redirect('/welcome')
 
 def netflix(request):
