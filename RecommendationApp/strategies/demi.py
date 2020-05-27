@@ -143,6 +143,8 @@ def using_content_token(data, movie_id):
 def get_top_5(relevant_movies):
     # get top 5
     sorted_list = sorted(relevant_movies, key=lambda tup: tup[1], reverse=True)
+    #todo bug TypeError: '<' not supported between instances of 'NoneType' and 'float'
+    # for movie 3944 method 'using genere' called
 
     if len(sorted_list) > 5:
         sorted_list = sorted_list[:5]

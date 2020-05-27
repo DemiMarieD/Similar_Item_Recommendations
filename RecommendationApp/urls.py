@@ -25,4 +25,5 @@ urlpatterns = [
     path('welcome/', views.welcome_view),
     # second page - display top5 most similar movies to the movie chosen
     path('welcome/<int:id>/', views.recommendation_view, name='recommendaitions'),
+    path('search/<str:movie_title>/', views.movie_selection, name='movie_selection'),
 ]

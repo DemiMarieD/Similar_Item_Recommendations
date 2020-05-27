@@ -1,6 +1,7 @@
 import pandas as pd
 import tmdbsimple as tmdb
 import json
+from fuzzywuzzy import fuzz
 from pathlib import Path
 import nltk
 import string
@@ -176,8 +177,23 @@ def setup():
 
 
 def getMovieOptions(movie_title):
-    # todo get a list of movies with similar titles
-    pass
+    reference_title = movie_title
+    movies = []  # list of tuple: id, sim-ratio
+    for m_id, value in movie_data.items():
+        title = movie_data[m_id]['title']
+        if title is not None:
+            # takes out the common string
+            ratio = fuzz.token_set_ratio(reference_title.lower(), title.lower())
+            movies.append((m_id, ratio))
+
+    sorted_movies = sorted(movies, key=lambda tup: tup[1], reverse=True)
+    if len(sorted_movies) > 10:
+        sorted_movies = sorted_movies[:5]
+    similar_movies = []  # of id
+    for tuple in sorted_movies:
+        similar_movies.append(int(tuple[0]))
+
+    return getMovieDetails(similar_movies)
 
 
 def getMovieDetails(movies_list):

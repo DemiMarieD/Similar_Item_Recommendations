@@ -1,8 +1,10 @@
 from django.shortcuts import render, redirect
 from RecommendationApp.forms import user_id_form
+from RecommendationApp.forms import search_form
 from RecommendationApp.operations import getTop5s
 from RecommendationApp.operations import getMovieDetails
 from RecommendationApp.operations import setup
+from RecommendationApp.operations import getMovieOptions
 
 def index(request):
     # todo maybe add "Please wait we are preparing the side" where we do some set up ?!
@@ -13,27 +15,33 @@ def netflix(request):
     return render(request, "netflix_temp.html")
 
 def welcome_view(request):
+
     # todo change: input from userId to movie title, doesnt need to match perfectly! (error message not needed!?)
     # create a form instance and populate it with data from the request:
-    input_form = user_id_form(request.POST or None)
+
+    input_form = search_form(request.POST or None)
+    movie_options = {}
 
     # if this is a POST request we need to process the form data
     if request.method == 'POST':
        if input_form.is_valid():
             # process the data in form.cleaned_data as required
-            id = input_form.cleaned_data["movie_id"]
-            # redirect to a new URL:
-            return redirect('/welcome/' + id)
+            search = input_form.cleaned_data["search_text"]
+            movie_options = getMovieOptions(search)
 
+
+    context = {"movies": movie_options, 'input_form': input_form}
     # if not post or not valid
-    return render(request, "welcome.html", {'input_form': input_form})
+    return render(request, "movie_selection.html", context)
 
 
 def movie_selection(request, movie_title):
+
     # todo do we need a second page or do we do this on the 'welcome' page?!
     # todo display movies that are connected to the movie_title
-    movie_options = 0  # import operations.getMovieOptions(movie_title)
-    return render(request, "movie_selection.html", movie_options)
+    movie_options = getMovieOptions(movie_title)
+    context = {"movies": movie_options}
+    return render(request, "movie_selection.html", context)
 
 
 def recommendation_view(request, id):
