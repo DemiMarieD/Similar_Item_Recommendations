@@ -120,15 +120,16 @@ def create_movie_data_dict():
         movie_data[key]['summaries'] = value['imdb']['summaries']
         plotSummary = value['movielens']['plotSummary']
         movie_data[key]['plotSummary'] = plotSummary
-        # !!! This takes a few min !!!
         if plotSummary is not None:
             movie_data[key]['wordsOfSum'] = clean_string(plotSummary)
         else:
             movie_data[key]['wordsOfSum'] = None
-        # !!! This takes a few min !!!
+
+        # Not used right now todo ?
         if plotSummary is not None:
             sum_word_list = []
             stemmer = nltk.PorterStemmer()
+            plotSummary = plotSummary.replace('[^\w\s]', '')
             text_tokens = word_tokenize(plotSummary)
             for token in text_tokens:
                 if token not in stopwords.words('english'):
@@ -162,6 +163,7 @@ def clean_string(text):
     text = ' '.join([word for word in text.split() if word not in stopwords.words('english')])
     return text
 
+
 # ***********************************************************
 
 def setup():
@@ -188,7 +190,7 @@ def getMovieOptions(movie_title):
 
     sorted_movies = sorted(movies, key=lambda tup: tup[1], reverse=True)
     if len(sorted_movies) > 10:
-        sorted_movies = sorted_movies[:5]
+        sorted_movies = sorted_movies[:10]
     similar_movies = []  # of id
     for tuple in sorted_movies:
         similar_movies.append(int(tuple[0]))

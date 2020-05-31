@@ -92,10 +92,6 @@ def using_keywords(data, movie_id):
 
 def using_content_analysis(data, movie_id):
     try:
-        #overview = data[movie_id]['overview']   # by tmdb
-        #summaries = data[movie_id]['summaries']  # list of strings by imdb
-        #reference_words = data[movie_id]['word_list']
-
         plotSummary = data[movie_id]['wordsOfSum']  # by movielense
         similarity_tupels = [] # key = movieID; value= sim
         for key, value in data.items():
@@ -122,14 +118,14 @@ def using_content_analysis(data, movie_id):
         print('I got a TypeError - reason "%s"' % str(e))
         return None
 
-
+# NOT USED ----
 def using_content_token(data, movie_id):
     try:
         plot_tokens = data[movie_id]['word_list']
         similarity_tupels = [] # key = movieID; value= sim
         for key, value in data.items():
             pass
-            # todo
+            # todo ?
 
         return get_top_5(similarity_tupels)
 
