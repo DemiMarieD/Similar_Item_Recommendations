@@ -51,9 +51,11 @@ def using_genre(data, movie_id):
                 intersection_set = set.intersection(set(reference_genres), set(genres))
 
                 # if more then half of the keywords overlap
-                if len(intersection_set) > len(reference_genres)/2:  # I get very low results in overlap
+                if len(intersection_set) == len(reference_genres):
                     # print("overlap " + str(len(intersection_set)))
-                    recommended_movies.append((m_id, value['popularity']))    # using popularity here (might not work for every movie e.g. 1170
+                    popularity = value['popularity']
+                    if popularity is not None:
+                        recommended_movies.append((m_id, popularity))    # using popularity here (might not work for every movie e.g. 1170
 
     result = get_top_5(recommended_movies)
     return result
@@ -143,9 +145,6 @@ def using_content_token(data, movie_id):
 def get_top_5(relevant_movies):
     # get top 5
     sorted_list = sorted(relevant_movies, key=lambda tup: tup[1], reverse=True)
-    #todo bug TypeError: '<' not supported between instances of 'NoneType' and 'float'
-    # for movie 3944 method 'using genere' called
-
     if len(sorted_list) > 5:
         sorted_list = sorted_list[:5]
 
