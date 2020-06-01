@@ -274,7 +274,7 @@ def getTop5s(movie_id):
     else:
         resultDict['Based on Title'] = None
 
-    # ------------ Method Six, Seven, Eight - image-based ------------
+    # ------------ Method Six, Seven, Eight, Ten - image-based ------------
     image_based_recommender = Image_Based_Recommender(movie_data)
     # Brightness
     top5_method6 = image_based_recommender.using_poster_brightness(movie_data, movie_id)  # returns list of (5) movie id's
@@ -300,6 +300,13 @@ def getTop5s(movie_id):
     else:
         resultDict['Based on Poster Colour Histogram'] = None  # will show a info text that the method did not work
 
+    # Colour and genre
+    top5_method10 = image_based_recommender.using_poster_colour_histogram_and_genre(movie_data, movie_id)  # returns list of (5) movie id's
+    if top5_method10 != None:
+        method10_movies = getMovieDetails(top5_method10)
+        resultDict['Based on Poster Colour Histogram and Genre'] = method10_movies.items()
+    else:
+        resultDict['Based on Poster Colour Histogram and Genre'] = None  # will show a info text that the method did not work
 
     # --------------- Method 9 - complex method-------
     top5_method9 = demi.complex_method(movie_data, movie_id)  # returns list of (5) movie id's

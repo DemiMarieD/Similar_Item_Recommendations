@@ -178,13 +178,35 @@ class Image_Based_Recommender:
 
         relevant_movies = []  # list of tuples: id, similarity
         target_movie_histogram = self.movieposter_metadata[movie_id]['colour_histogram']
-        for m_id, value in self.movieposter_metadata.items():
-            if m_id != movie_id and value['colour_histogram'] is not None:
+        for m_id, value in data.items():
+            poster_metadata = self.movieposter_metadata[m_id]
+            if m_id != movie_id and poster_metadata['colour_histogram'] is not None:
                 relevant_movies.append(
-                    (m_id, calculate_image_similarity_histogram(target_movie_histogram, value['colour_histogram'])))
+                    (m_id, calculate_image_similarity_histogram(target_movie_histogram, poster_metadata['colour_histogram'])))
 
         result = get_top_5(relevant_movies, True)
         return result
+
+    # Use colour similarity plus genre
+    def using_poster_colour_histogram_and_genre(self, data, movie_id):
+        # If there is no poster for the given movie, skip image-based recommendation
+        if data[movie_id]['poster'] is None:
+            return None
+
+        target_genres = data[movie_id]['genres']  # list of string
+        relevant_movies = {}  # subset of movie data, only containing relevant movies (with genre overlap)
+        relevant_movies[movie_id] = data[movie_id] # Add target movie
+        for m_id, value in data.items():
+            if m_id != movie_id:
+                genres = data[m_id]['genres']
+                if genres is not None:
+                    intersection_set = set.intersection(set(target_genres), set(genres))
+                    # The genres should intersect in at least 80%
+                    if len(intersection_set) >= len(target_genres) * 0.8:
+                        relevant_movies[m_id] = data[m_id]
+
+        return self.using_poster_colour_histogram(relevant_movies, movie_id)
+
 
     # Loads the serialized movieposter_metadata object
     def load_serialized_movieposter_data(self):
