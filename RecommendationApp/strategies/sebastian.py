@@ -20,7 +20,8 @@ def calculate_average_image_brightness(image):
             image_is_greyscale = True
 
         if image_is_greyscale:
-            avg_brightness = poster_stat.mean()
+            intensity = poster_stat.mean
+            avg_brightness = intensity[0]
         else:
             # Calculate the average RGB values for the image
             r, g, b = poster_stat.mean
@@ -40,7 +41,8 @@ def calculate_average_image_contrast(image):
             image_is_greyscale = True
 
         if image_is_greyscale:
-            avg_intensity = poster_stat.mean()
+            intensity = poster_stat.mean
+            avg_intensity = intensity[0]
         else:
             r, g, b = poster_stat.mean
             avg_intensity = calculate_luminance(r, g, b)
