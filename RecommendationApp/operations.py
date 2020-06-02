@@ -270,9 +270,9 @@ def getTop5s(movie_id):
     top5_method5 = eda.using_title(movie_data, movie_id)
     if top5_method5 != None:
         method5_movies = getMovieDetails(top5_method5)
-        resultDict['Based on Title'] = method5_movies.items()
+        resultDict['Based on Title and Genre'] = method5_movies.items()
     else:
-        resultDict['Based on Title'] = None
+        resultDict['Based on Title and Genre'] = None
 
     # ------------ Method Six, Seven, Eight, Ten - image-based ------------
     image_based_recommender = Image_Based_Recommender(movie_data)
