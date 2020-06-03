@@ -131,7 +131,6 @@ class Image_Based_Recommender:
                     self.movieposter_metadata[m_id]['avg_contrast'] = calculate_average_image_contrast(poster)
                     self.movieposter_metadata[m_id]['colour_histogram'] = get_image_similarity_histogram(poster)
                 else:
-                    # TODO: Maybe better -1?
                     self.movieposter_metadata[m_id]['avg_brightness'] = None
                     self.movieposter_metadata[m_id]['avg_contrast'] = None
                     self.movieposter_metadata[m_id]['colour_histogram'] = None
