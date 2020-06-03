@@ -211,7 +211,18 @@ def getMovieDetails(movies_list):
         if movie_data[movie]['poster'] != None:
             movies_dict[movie]['poster_path'] = movie_data[movie]['poster']
 
-        # todo add other movie details we need to displaying
+        joinSeparator = ", "
+        # Actors
+        movies_dict[movie]['actors'] = joinSeparator.join(movie_data[movie]['actors'][:4])
+
+        # Director
+        movies_dict[movie]['directors'] = joinSeparator.join(movie_data[movie]['directors'][:3])
+
+        # Genres
+        movies_dict[movie]['genres'] = joinSeparator.join(movie_data[movie]['genres'][:3])
+
+        # Release year
+        movies_dict[movie]['releaseYear'] = movie_data[movie]['releaseYear']
 
     return movies_dict
 

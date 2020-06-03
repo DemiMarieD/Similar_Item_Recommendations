@@ -12,29 +12,45 @@
     <link rel="stylesheet" href="{% static 'css/style.css' %}">
 </head>
 <body>
-
+<div class="back-to-overview">
+    <a href="{% url "welcome" %}">
+        <span class="description-label">Back to movie selection</span>
+    </a>
+</div>
 <section class="main-container" >
-      <!-- todo add reference movie here -->
      <div class="header">
          {% for key, details in reference_movie %}
             <div class="movie_details">
-                <h4>Similar Movies for: </h4>
-                <h1>{{ details.title }}</h1>
+                <h1 class="description-header">Your reference movie:</h1>
+                <h1>{{ details.title }} ({{ details.releaseYear }})</h1>
                 <p> {{ details.plotSummary }}</p>
+                <label class="description-label">Starring:</label>
+                {{ details.actors }}
+                <br>
+                <label class="description-label">Directed by:</label>
+                {{ details.directors }}
+                <br>
+                <label class="description-label">Genre:</label>
+                {{ details.genres }}
+                <br>
             </div>
-             <div class="movie_poster" style="background-image: url('{{ details.poster_path }}')"></div>
-
-
+            <div class="movie_poster" style="background-image: url('{{ details.poster_path }}')"></div>
          {% endfor %}
      </div>
-
       <div class="location" id="home">
+            <h1 class="description-header">Similar movies</h1>
            {% for method_name, similar_movies in similar_movies_dicts %}
-               <h1 id="home">{{ method_name }}</h1>
+               <h2 id="home">{{ method_name }}</h2>
                <div class="box">
                   {% if similar_movies|length > 0 %}
                       {% for movieId, details in similar_movies %}
-                          <a href=""><img src="{{ details.poster_path }}" alt="Poster not available"></a>
+                          <a href="{% url 'recommendations' movieId  %}">
+                            {% if details.poster_path == None %}
+                                <img src="{% static 'images/poster_empty.jpg' %}" alt="Poster not available">
+                            {% else%}
+                                <img src="{{ details.poster_path }}" alt="Poster not available">
+                            {% endif %}
+                          </a>
                       {% endfor %}
 
                   {% else%}
@@ -42,8 +58,6 @@
                   {% endif %}
               </div>
            {% endfor %}
-          <!-- todo Add other methods here -->
-
       </div>
 </section>
 
