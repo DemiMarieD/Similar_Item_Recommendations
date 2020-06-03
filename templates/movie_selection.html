@@ -24,7 +24,9 @@
      <div class="search_header">
         <!-- todo put instruction and search bar in the header -->
          <div style="border: 1px solid #E50914; text-align: center; padding: 20px;">
-             Please search for a movie you want to use as reference.
+             <p>
+                 Please search for a movie you want to use as reference.
+             </p>
          </div>
          <div style="text-align: center; padding: 20px; color: #141414">
             <form class="form-inline md-form mr-auto mb-4" action="/welcome/" method="post">
@@ -38,14 +40,17 @@
 
       <div class="location" id="home">
        {% if movies|length > 0 %}
-           <h1 id="home">Please select a movie</h1>
+           <h1 id="home" class="description-header">Please select a movie</h1>
            <div class="box">
                {% for movieId, details in movies.items %}
-                   <div class="movie_poster">
-                        <div class="poster" style="z-index: 1;"><img src="{{ details.poster_path }}" alt="Poster not available"></div>
-                        <a class="hoover_btn btn btn-success" style="display: none" href="{% url 'recommendaitions' movieId  %}">Choose movie</a>
-                      <!--- todo on hoover show button that on click sends the movie id to the next view -->
-                   </div>
+                        <a href="{% url 'recommendations' movieId  %}">
+                            {% if details.poster_path == None %}
+                                <img src="{% static 'images/poster_empty.jpg' %}" alt="Poster not available">
+                            {% else%}
+                                <img src="{{ details.poster_path }}" alt="Poster not available">
+                            {% endif %}
+                            <label class="movie_poster_label">{{ details.title }}</label>
+                        </a>
                {% endfor %}
           </div>
       {% endif %}
