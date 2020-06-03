@@ -78,7 +78,7 @@ def using_title(data, movie_id):
                     genre_intersection = set.intersection(set(reference_genres), set(genres))
                     Distance_title = levenshtein_ratio_and_distance(reference_title, title, ratio_calc=True)
 
-                if Distance_title>0.5 and len(genre_intersection) > 0:
+                if Distance_title>0.3 and len(genre_intersection) > 0:
                        recommened_movies.append((m_id, value['avgRating']))
             result = get_top_5(recommened_movies)
         return result
