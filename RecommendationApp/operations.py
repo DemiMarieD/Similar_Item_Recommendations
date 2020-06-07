@@ -125,6 +125,7 @@ def create_movie_data_dict():
         else:
             movie_data[key]['wordsOfSum'] = None
 
+        '''
         # Not used right now todo ?
         if plotSummary is not None:
             sum_word_list = []
@@ -137,9 +138,9 @@ def create_movie_data_dict():
             movie_data[key]['word_list'] = sum_word_list
         else:
             movie_data[key]['word_list'] = None
+        '''
 
         # ---------------
-        # todo add additional needed data!
 
         # Add poster paths for image-based recommendations
         try:
@@ -167,7 +168,6 @@ def clean_string(text):
 # ***********************************************************
 
 def setup():
-    # todo try to set up most things, train algo etc.
     if Path(serialized_movie_data_path).is_file():
         # Serialized object exists, load it instead of creating it from scratch
         load_serialized_movie_data(serialized_movie_data_path)
@@ -250,7 +250,7 @@ def getTop5s(movie_id):
 
     # ------------ Method Two , Three a) / b)  - content-based ------------
 
-    # Method Two ------------ DOESNT WORK A COUPLE OF TIMES (NO KEYWORD OVERLAPS)
+    # Method Two ------------
     top5_method2 = demi.using_keywords(movie_data, movie_id)  # returns list of (5) movie id's
     if top5_method2 != None:
         method2_movies = getMovieDetails(top5_method2)
@@ -258,7 +258,7 @@ def getTop5s(movie_id):
     else:
         resultDict['Based on keywords'] = None  # will show a info text that the method did not work
 
-    # Method Three ------------ IS NOT SO GOOD
+    # Method Three ------------
     top5_method3 = demi.using_content_analysis(movie_data, movie_id)  # returns list of (5) movie id's
     if top5_method3 != None:
         method3_movies = getMovieDetails(top5_method3)
@@ -266,17 +266,19 @@ def getTop5s(movie_id):
     else:
         resultDict['Based on Plot Summary'] = None  # will show a info text that the method did not work
 
-    # todo alternative to three
+
 
 
     # ------------ Method Four ------------ LOW DISCOVERY BECAUSE OF USING POPULATION FOR RANKING
+    '''
     top5_method4 = demi.using_genre(movie_data, movie_id)  # returns list of (5) movie id's
     if top5_method4 != None:
         method4_movies = getMovieDetails(top5_method4)
         resultDict['Based on Genre'] = method4_movies.items()
     else:
         resultDict['Based on Genre'] = None  # will show a info text that the method did not work
-        
+    '''
+
     # ------------ Method Five ------------ DOESN'T WORK FOR SOME MOVIES(NO SAME TITLE)
     top5_method5 = eda.using_title(movie_data, movie_id)
     if top5_method5 != None:
@@ -304,12 +306,14 @@ def getTop5s(movie_id):
         resultDict['Based on Poster Contrast'] = None  # will show a info text that the method did not work
 
     # Colour
+    '''
     top5_method8 = image_based_recommender.using_poster_colour_histogram(movie_data, movie_id)  # returns list of (5) movie id's
     if top5_method8 != None:
         method8_movies = getMovieDetails(top5_method8)
         resultDict['Based on Poster Colour Histogram'] = method8_movies.items()
     else:
         resultDict['Based on Poster Colour Histogram'] = None  # will show a info text that the method did not work
+    '''
 
     # Colour and genre
     top5_method10 = image_based_recommender.using_poster_colour_histogram_and_genre(movie_data, movie_id)  # returns list of (5) movie id's

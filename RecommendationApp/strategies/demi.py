@@ -118,23 +118,6 @@ def using_content_analysis(data, movie_id):
         print('I got a TypeError - reason "%s"' % str(e))
         return None
 
-# NOT USED ----
-def using_content_token(data, movie_id):
-    try:
-        plot_tokens = data[movie_id]['word_list']
-        similarity_tupels = [] # key = movieID; value= sim
-        for key, value in data.items():
-            pass
-            # todo ?
-
-        return get_top_5(similarity_tupels)
-
-    except KeyError as e:
-        print('I got a KeyError - reason "%s"' % str(e))
-        return None
-    except TypeError as e:
-        print('I got a TypeError - reason "%s"' % str(e))
-        return None
 
 
 

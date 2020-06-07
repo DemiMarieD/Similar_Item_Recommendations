@@ -76,11 +76,11 @@ def using_title(data, movie_id):
                 genres = data[m_id]['genres']
                 if title is not None and genres is not None:
                     genre_intersection = set.intersection(set(reference_genres), set(genres))
-                    Distance_title = levenshtein_ratio_and_distance(reference_title, title, ratio_calc=True)
+                    if len(genre_intersection) > 0:
+                        Distance_title = levenshtein_ratio_and_distance(reference_title, title, ratio_calc=True)
+                        recommened_movies.append((m_id, Distance_title))
 
-                if Distance_title>0.3 and len(genre_intersection) > 0:
-                       recommened_movies.append((m_id, value['avgRating']))
-            result = get_top_5(recommened_movies)
+        result = get_top_5(recommened_movies)
         return result
 
 
@@ -90,6 +90,8 @@ def using_title(data, movie_id):
     except TypeError as e:
         print('I got a TypeError - reason "%s"' % str(e))
         return None
+
+
 def get_top_5(relevant_movies):
     # get top 5
     sorted_by_avgRating = sorted(relevant_movies, key=lambda tup: tup[1], reverse=True)
