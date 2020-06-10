@@ -241,12 +241,14 @@ def getTop5s(movie_id):
         resultDict['Based on tmdb_similarity'] = None  # will show a info text that the method did not work
 
     # Method One ------------
+    '''
     top5_method1 = demi.using_tmdb_recommendations(movie_data, movie_id)  # returns list of (5) movie id's
     if top5_method1 != None:
         method1_movies = getMovieDetails(top5_method1)
         resultDict['Based on tmdb_recommendations'] = method1_movies.items()
     else:
         resultDict['Based on tmdb_recommendations'] = None  # will show a info text that the method did not work
+    '''
 
     # ------------ Method Two , Three a) / b)  - content-based ------------
 
@@ -265,7 +267,6 @@ def getTop5s(movie_id):
         resultDict['Based on Plot Summary'] = method3_movies.items()
     else:
         resultDict['Based on Plot Summary'] = None  # will show a info text that the method did not work
-
 
 
 
@@ -289,6 +290,7 @@ def getTop5s(movie_id):
 
     # ------------ Method Six, Seven, Eight, Ten - image-based ------------
     image_based_recommender = Image_Based_Recommender(movie_data)
+    '''
     # Brightness
     top5_method6 = image_based_recommender.using_poster_brightness(movie_data, movie_id)  # returns list of (5) movie id's
     if top5_method6 != None:
@@ -306,7 +308,7 @@ def getTop5s(movie_id):
         resultDict['Based on Poster Contrast'] = None  # will show a info text that the method did not work
 
     # Colour
-    '''
+  
     top5_method8 = image_based_recommender.using_poster_colour_histogram(movie_data, movie_id)  # returns list of (5) movie id's
     if top5_method8 != None:
         method8_movies = getMovieDetails(top5_method8)
@@ -335,35 +337,3 @@ def getTop5s(movie_id):
     return resultDict
 
 
-# NOTES
-# Movie Data
-# dict[<movieId>]
-#     dict['tmdb']
-#         dict['title'] -> value: string
-#         dict['poster_path'] -> value: string
-#         dict['popularity'] -> value: int
-#         dict['vote_average'] -> value: int
-#         dict['vote_count'] -> value: int
-#
-#     dict['movielensId'] -> value: int
-#
-#     dict['movielens']
-#         dict['tmdbMovieId'] -> value: int
-#         dict['avgRating'] -> value: int
-#         dict['numRatings'] -> value: int
-
-# Relevant / Interesting Data for me
-# dict[<movieId>]
-#     dict['tmdb']
-#         dict['keywords'] -> value: list of tuple name, id
-#         dict['recommendations'] -> value: list of movieIds
-#         dict['overview'] -> value: string
-#
-#     dict['imdb']
-#         dict['synopsis'] -> value: string
-#         dict['summaries'] -> value: list of strings
-#
-#     dict['movielensId'] -> value: int id
-#
-#     dict['movielens']
-#         dict['plotSummary'] -> value: string == dict['imdb']['synopsis']
