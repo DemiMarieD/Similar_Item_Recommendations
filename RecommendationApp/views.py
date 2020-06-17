@@ -1,24 +1,22 @@
 from django.shortcuts import render, redirect
-from RecommendationApp.forms import user_id_form
 from RecommendationApp.forms import search_form
 from RecommendationApp.operations import getTop5s
 from RecommendationApp.operations import getMovieDetails
 from RecommendationApp.operations import setup
 from RecommendationApp.operations import getMovieOptions
 
+
 def index(request):
-    # todo maybe add "Please wait we are preparing the side" where we do some set up ?!
     setup()
     return redirect('/welcome')
+
 
 def netflix(request):
     return render(request, "netflix_temp.html")
 
+
 def welcome_view(request):
-
-    # todo change: input from userId to movie title, doesnt need to match perfectly! (error message not needed!?)
     # create a form instance and populate it with data from the request:
-
     input_form = search_form(request.POST or None)
     movie_options = {}
 
@@ -36,16 +34,12 @@ def welcome_view(request):
 
 
 def movie_selection(request, movie_title):
-
-    # todo do we need a second page or do we do this on the 'welcome' page?!
-    # todo display movies that are connected to the movie_title
     movie_options = getMovieOptions(movie_title)
     context = {"movies": movie_options}
     return render(request, "movie_selection.html", context)
 
 
 def recommendation_view(request, id):
-
     # make to recommendations_dict, key = method_name, value = dict of movies with their details
     similar_movies_dicts = getTop5s(id)
     context = {"similar_movies_dicts": similar_movies_dicts.items(), "reference_movie": getMovieDetails([id]).items()}

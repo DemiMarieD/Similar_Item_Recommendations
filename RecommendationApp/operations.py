@@ -1,11 +1,9 @@
-import pandas as pd
 import tmdbsimple as tmdb
 import json
 from fuzzywuzzy import fuzz
 from pathlib import Path
 import nltk
 import string
-from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 from requests import HTTPError
 import pickle
@@ -22,14 +20,8 @@ tmdb.API_KEY = '1fe2d017037a1445b9122ea2dcd42d41'
 nltk.download('punkt')
 nltk.download('stopwords')
 
-# ***************** DATA IMPORTs ************************
 
-# NOTE: I think the extracted_content_dict has ALL except the rating and users details
-#       ! (it does contain the avg rating + count),
-#       if we need more details we could add the rating to the dict and make a new dict for the users ?!
-#       But I think we might not even need it.
-
-
+# ***************** DATA IMPORT ************************
 # Loads a serialized object
 def load_serialized_movie_data(path):
     with open(path, 'rb') as serialized_file:
@@ -44,14 +36,13 @@ def serialize_movie_data_file(path, data):
         pickle.dump(data, serialized_file, pickle.HIGHEST_PROTOCOL)
 
 
-# Data we need for display
+# Create a dictionary containing all data needed for displaying
 def create_movie_data_dict():
     # global movie_data
     big_movie_dict = {}
     pathlist = Path("RecommendationApp/data/extracted_content_ml-latest/").glob('**/*.json')
     for path in pathlist:
         path_in_str = str(path)
-        # print(path_in_str)
         f_input = open(path_in_str, 'r', encoding="utf8")
         content_dict = json.load(f_input)
         movielensId = content_dict['movielensId']
@@ -63,9 +54,8 @@ def create_movie_data_dict():
         # each movies has a dict
         movie_data[key] = {}
 
-        # disclamer: not all the movies contain tmdb information in ectracted_content files e.g. 1107
-
-        # ---------- general information
+        # disclaimer: not all the movies contain tmdb information in ectracted_content files e.g. 1107
+        # general information
         movie_data[key]['movielensId'] = value['movielensId']
         movie_data[key]['tmdbMovieId'] = value['movielens']['tmdbMovieId']
         movie_data[key]['title'] = value['movielens']['title']
@@ -87,7 +77,7 @@ def create_movie_data_dict():
             movie_data[key]['adult'] = None
 
 
-        # ---------- to get popularity
+        # get popularity
         if 'tmdb' in value:
             movie_data[key]['popularity'] = value['tmdb']['popularity']
             movie_data[key]['tmdb_vote_average'] = value['tmdb']['vote_average']
@@ -100,7 +90,7 @@ def create_movie_data_dict():
         movie_data[key]['avgRating'] = value['movielens']['avgRating']
         movie_data[key]['numRatings'] = value['movielens']['numRatings']
 
-        # ---------- content information for Demi
+        # content information
         if 'tmdb' in value:
             keyword_tuple_list = value['tmdb']['keywords']
             movie_data[key]['keywords'] = []
@@ -116,7 +106,6 @@ def create_movie_data_dict():
             movie_data[key]['overview'] = None
 
         # Use the summaries to create a list of words / tokens to compare
-
         movie_data[key]['summaries'] = value['imdb']['summaries']
         plotSummary = value['movielens']['plotSummary']
         movie_data[key]['plotSummary'] = plotSummary
@@ -124,23 +113,6 @@ def create_movie_data_dict():
             movie_data[key]['wordsOfSum'] = clean_string(plotSummary)
         else:
             movie_data[key]['wordsOfSum'] = None
-
-        '''
-        # Not used right now todo ?
-        if plotSummary is not None:
-            sum_word_list = []
-            stemmer = nltk.PorterStemmer()
-            plotSummary = plotSummary.replace('[^\w\s]', '')
-            text_tokens = word_tokenize(plotSummary)
-            for token in text_tokens:
-                if token not in stopwords.words('english'):
-                    sum_word_list.append(stemmer.stem(token))
-            movie_data[key]['word_list'] = sum_word_list
-        else:
-            movie_data[key]['word_list'] = None
-        '''
-
-        # ---------------
 
         # Add poster paths for image-based recommendations
         try:
@@ -154,10 +126,12 @@ def create_movie_data_dict():
             print("Poster could not be requested from API for movie id: " + str(value['movielens']['tmdbMovieId']))
             movie_data[key]['poster'] = None
 
-        # -------------- Status
+        # Status for printing the progress
         counter = counter + 1
         print("Setup done: " + str(round((counter / len(big_movie_dict)) * 100, 2)) + "%")
 
+
+# Clean string by removing stop words, punctuation and putting everything to lower case
 def clean_string(text):
     text = ''.join([word for word in text if word not in string.punctuation])
     text = text.lower()
@@ -178,6 +152,7 @@ def setup():
     print('Set up done')
 
 
+# Returns movie proposals for the given title
 def getMovieOptions(movie_title):
     reference_title = movie_title
     movies = []  # list of tuple: id, sim-ratio
@@ -198,6 +173,7 @@ def getMovieOptions(movie_title):
     return getMovieDetails(similar_movies)
 
 
+# Return the movie details needed to show in the detail page
 def getMovieDetails(movies_list):
     movies_dict = {}  # key movie_id, value dict of movie details
     for movie in movies_list:
@@ -227,11 +203,12 @@ def getMovieDetails(movies_list):
     return movies_dict
 
 
+# Get all movies shown as recommendation for all used recommender methods
 def getTop5s(movie_id):
 
     resultDict = {} # key = Method Name, value = dict of similar movies and details
 
-    # ------------ Method Zero, One  - to eval ------------
+    # ------------ Method Zero, One  - for evaluation ------------
     # Method Zero ------------
     top5_method0 = metadata_based_recommenders.using_tmdb_similarity(movie_data, movie_id)  # returns list of (5) movie id's
     if top5_method0 != None:
@@ -250,7 +227,7 @@ def getTop5s(movie_id):
         resultDict['Based on tmdb_recommendations'] = None  # will show a info text that the method did not work
     '''
 
-    # ------------ Method Two , Three a) / b)  - content-based ------------
+    # ------------ Method Two , Three a) / b)  - content-based (keywords and plot) ------------
 
     # Method Two ------------
     top5_method2 = metadata_based_recommenders.using_keywords(movie_data, movie_id)  # returns list of (5) movie id's
@@ -269,8 +246,7 @@ def getTop5s(movie_id):
         resultDict['Based on Plot Summary'] = None  # will show a info text that the method did not work
 
 
-
-    # ------------ Method Four ------------ LOW DISCOVERY BECAUSE OF USING POPULATION FOR RANKING
+    # ------------ Method Four  - genre-based ------------ LOW DISCOVERY BECAUSE OF USING POPULATION FOR RANKING
     '''
     top5_method4 = demi.using_genre(movie_data, movie_id)  # returns list of (5) movie id's
     if top5_method4 != None:
@@ -280,7 +256,7 @@ def getTop5s(movie_id):
         resultDict['Based on Genre'] = None  # will show a info text that the method did not work
     '''
 
-    # ------------ Method Five ------------ DOESN'T WORK FOR SOME MOVIES(NO SAME TITLE)
+    # ------------ Method Five  - title-based ------------
     top5_method5 = title_based_recommenders.using_title(movie_data, movie_id)
     if top5_method5 != None:
         method5_movies = getMovieDetails(top5_method5)
@@ -325,7 +301,7 @@ def getTop5s(movie_id):
     else:
         resultDict['Based on Poster Colour Histogram and Genre'] = None  # will show a info text that the method did not work
 
-    # --------------- Method 9 - complex method-------
+    # --------------- Method 9 - combined method-------
     top5_method9 = metadata_based_recommenders.complex_method(movie_data, movie_id)  # returns list of (5) movie id's
     if top5_method9 != None:
         method9_movies = getMovieDetails(top5_method9)
