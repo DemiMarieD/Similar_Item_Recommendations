@@ -22,7 +22,11 @@
          {% for key, details in reference_movie %}
             <div class="movie_details">
                 <h1 class="description-header">Your reference movie:</h1>
-                <h1>{{ details.title }} ({{ details.releaseYear }})</h1>
+                {% if details.releaseYear != '' %}
+                    <h1>{{ details.title }} ({{ details.releaseYear }})</h1>
+                {% else %}
+                    <h1>{{ details.title }}</h1>
+                {% endif %}
                 <p> {{ details.plotSummary }}</p>
                 <label class="description-label">Starring:</label>
                 {{ details.actors }}
@@ -34,7 +38,11 @@
                 {{ details.genres }}
                 <br>
             </div>
-            <div class="movie_poster" style="background-image: url('{{ details.poster_path }}')"></div>
+            {% if details.poster_path != None %}
+                <div class="movie_poster" style="background-image: url('{{ details.poster_path }}')"></div>
+            {% else%}
+                <div class="movie_poster" style="background-image: url('{% static 'images/poster_empty.jpg' %}')"></div>
+            {% endif %}
          {% endfor %}
      </div>
       <div class="location" id="home">

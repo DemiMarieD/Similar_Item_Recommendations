@@ -149,7 +149,11 @@ def complex_method(data, movie_id):
     try:
         reference_color = data[movie_id]['color']
         reference_adult = data[movie_id]['adult']  # boolean
-        reference_year = int(data[movie_id]['releaseYear'])
+        # For some movies there is no year
+        if data[movie_id]['releaseYear'] == '':
+            reference_year = -1
+        else:
+            reference_year = int(data[movie_id]['releaseYear'])
         reference_actors = data[movie_id]['actors']  # list of string
         reference_directors = data[movie_id]['directors']  # list of string
         reference_production = data[movie_id]['productionCompanies']  # list of string
