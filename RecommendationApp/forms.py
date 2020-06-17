@@ -1,7 +1,5 @@
 from django import forms
 
-from RecommendationApp.old_operations import checkUserId
-
 class user_id_form(forms.Form):
     movie_id = forms.CharField(label="Movie Id")
 
