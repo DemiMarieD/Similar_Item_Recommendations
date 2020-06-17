@@ -196,6 +196,9 @@ class Image_Based_Recommender:
 
     # Method recommending movies with similar poster colours and similar genres
     def using_poster_colour_histogram_and_genre(self, data, movie_id):
+        if data[movie_id] is None:
+            return None
+
         # If there is no poster for the given movie, skip image-based recommendation
         if data[movie_id]['poster'] is None:
             return None
