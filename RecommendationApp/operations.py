@@ -213,9 +213,9 @@ def getTop5s(movie_id):
     top5_method0 = metadata_based_recommenders.using_tmdb_similarity(movie_data, movie_id)  # returns list of (5) movie id's
     if top5_method0 != None:
         method0_movies = getMovieDetails(top5_method0)
-        resultDict['Based on tmdb_similarity'] = method0_movies.items()
+        resultDict['Based on TMDb similarity'] = method0_movies.items()
     else:
-        resultDict['Based on tmdb_similarity'] = None  # will show a info text that the method did not work
+        resultDict['Based on TMDb similarity'] = None  # will show a info text that the method did not work
 
     # Method One ------------
     '''
