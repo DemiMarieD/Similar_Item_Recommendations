@@ -10,9 +10,9 @@ from nltk.corpus import stopwords
 from requests import HTTPError
 import pickle
 
-from RecommendationApp.strategies import demi
-from RecommendationApp.strategies import eda
-from RecommendationApp.strategies.sebastian import Image_Based_Recommender
+from RecommendationApp.strategies import metadata_based_recommenders
+from RecommendationApp.strategies import title_based_recommenders
+from RecommendationApp.strategies.poster_based_recommenders import Image_Based_Recommender
 
 
 # ***************** Global VARs ************************
@@ -233,7 +233,7 @@ def getTop5s(movie_id):
 
     # ------------ Method Zero, One  - to eval ------------
     # Method Zero ------------
-    top5_method0 = demi.using_tmdb_similarity(movie_data, movie_id)  # returns list of (5) movie id's
+    top5_method0 = metadata_based_recommenders.using_tmdb_similarity(movie_data, movie_id)  # returns list of (5) movie id's
     if top5_method0 != None:
         method0_movies = getMovieDetails(top5_method0)
         resultDict['Based on tmdb_similarity'] = method0_movies.items()
@@ -253,7 +253,7 @@ def getTop5s(movie_id):
     # ------------ Method Two , Three a) / b)  - content-based ------------
 
     # Method Two ------------
-    top5_method2 = demi.using_keywords(movie_data, movie_id)  # returns list of (5) movie id's
+    top5_method2 = metadata_based_recommenders.using_keywords(movie_data, movie_id)  # returns list of (5) movie id's
     if top5_method2 != None:
         method2_movies = getMovieDetails(top5_method2)
         resultDict['Based on keywords'] = method2_movies.items()
@@ -261,7 +261,7 @@ def getTop5s(movie_id):
         resultDict['Based on keywords'] = None  # will show a info text that the method did not work
 
     # Method Three ------------
-    top5_method3 = demi.using_content_analysis(movie_data, movie_id)  # returns list of (5) movie id's
+    top5_method3 = metadata_based_recommenders.using_content_analysis(movie_data, movie_id)  # returns list of (5) movie id's
     if top5_method3 != None:
         method3_movies = getMovieDetails(top5_method3)
         resultDict['Based on Plot Summary'] = method3_movies.items()
@@ -281,7 +281,7 @@ def getTop5s(movie_id):
     '''
 
     # ------------ Method Five ------------ DOESN'T WORK FOR SOME MOVIES(NO SAME TITLE)
-    top5_method5 = eda.using_title(movie_data, movie_id)
+    top5_method5 = title_based_recommenders.using_title(movie_data, movie_id)
     if top5_method5 != None:
         method5_movies = getMovieDetails(top5_method5)
         resultDict['Based on Title and Genre'] = method5_movies.items()
@@ -326,7 +326,7 @@ def getTop5s(movie_id):
         resultDict['Based on Poster Colour Histogram and Genre'] = None  # will show a info text that the method did not work
 
     # --------------- Method 9 - complex method-------
-    top5_method9 = demi.complex_method(movie_data, movie_id)  # returns list of (5) movie id's
+    top5_method9 = metadata_based_recommenders.complex_method(movie_data, movie_id)  # returns list of (5) movie id's
     if top5_method9 != None:
         method9_movies = getMovieDetails(top5_method9)
         resultDict['Based on Multiple Factors'] = method9_movies.items()

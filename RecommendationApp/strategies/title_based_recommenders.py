@@ -1,6 +1,6 @@
-from fuzzywuzzy import fuzz
 from pandas import np
 import numpy as np
+
 def levenshtein_ratio_and_distance(s, t, ratio_calc = False):
 
     # Initialize matrix of zeros
@@ -36,34 +36,6 @@ def levenshtein_ratio_and_distance(s, t, ratio_calc = False):
 
         return None
 
-#def calculate_title_similarity(title1, title2):
-#return 1 - abs(title1, title2)
-
-"""
-def using_title(data, movie_id):
-
-    try:
-        reference_title = data[movie_id]['title']
-        recommened_movies = []  # list of tuple: id, avgRating
-        for m_id, value in data.items():
-            if m_id != movie_id:
-                title = data[m_id]['title']
-                if title is not None:
-                    # takes out the common string
-                    Ratio = fuzz.token_set_ratio(reference_title.lower(), title.lower())   # token set ratio compare strings that are widely differing lengths
-                    if Ratio > 75: # percentage of ratio (higher value exclude movies that must be recommended)
-                        recommened_movies.append((m_id, value['avgRating']))
-
-        result = get_top_5(recommened_movies)
-        return result
-
-    except KeyError as e:
-        print('I got a KeyError - reason "%s"' % str(e))
-        return None
-    except TypeError as e:
-        print('I got a TypeError - reason "%s"' % str(e))
-        return None
-"""
 # This method recommend movies based on similar title and genres
 def using_title(data, movie_id):
     try:
