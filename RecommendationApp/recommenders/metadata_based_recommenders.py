@@ -2,6 +2,21 @@ from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.feature_extraction.text import CountVectorizer
 
 
+# Method returning the top 5 movies of recommendations
+def get_top_5(relevant_movies):
+    sorted_list = sorted(relevant_movies, key=lambda tup: tup[1], reverse=True)
+    if len(sorted_list) > 5:
+        sorted_list = sorted_list[:5]
+
+    similar_movies = []
+    for tuple in sorted_list:
+        similar_movies.append(int(tuple[0]))
+
+    return similar_movies
+
+
+# Method recommending the 5 movies with highest similarity in TMDB database
+# Used for evaluation of our methods
 def using_tmdb_similarity(data, movie_id):
     try:
         tmdb_recommendations = data[movie_id]['similar']  # list of tmdb ids
@@ -21,6 +36,8 @@ def using_tmdb_similarity(data, movie_id):
         return None
 
 
+# Method recommending the 5 most recommended movies of TMDB database
+# Used for evaluation of our methods
 def using_tmdb_recommendations(data, movie_id):
     try:
         tmdb_recommendations = data[movie_id]['recommendations']  # list of tmdb ids
@@ -40,7 +57,7 @@ def using_tmdb_recommendations(data, movie_id):
         return None
 
 
-
+# Method recommending movies with overlap in genre, sorted by popularity
 def using_genre(data, movie_id):
     reference_genres = data[movie_id]['genres']  # list of string
     recommended_movies = []  # list of tuple: id, avgRating
@@ -61,8 +78,7 @@ def using_genre(data, movie_id):
     return result
 
 
-# ------------------------------ CONTENT RELATED
-
+# Method returning movies with overlap in keywords
 def using_keywords(data, movie_id):
     try:
         reference_keywords = data[movie_id]['keywords']  # list of string
@@ -89,7 +105,7 @@ def using_keywords(data, movie_id):
         return None
 
 
-
+# Method returning movies with similar plot according to cosine similarity
 def using_content_analysis(data, movie_id):
     try:
         plotSummary = data[movie_id]['wordsOfSum']  # by movielense
@@ -119,31 +135,16 @@ def using_content_analysis(data, movie_id):
         return None
 
 
-
-
-def get_top_5(relevant_movies):
-    # get top 5
-    sorted_list = sorted(relevant_movies, key=lambda tup: tup[1], reverse=True)
-    if len(sorted_list) > 5:
-        sorted_list = sorted_list[:5]
-
-    similar_movies = []
-    for tuple in sorted_list:
-        similar_movies.append(int(tuple[0]))
-
-    return similar_movies
-
-
-# ----------------------------- SPECIAL METHOD
-
-# A 'big' method
-# color needs to be the same
-# adult needs to be the same
-# year needs to be +10 -5
-# genre needs to overlap
-# Production Comp / Actor / Director  needs to be one similar
-# top 50 on avgRating
-# top 5 on popularity
+# Method using a combination of different parts of the metadata.
+# Constraints:
+#   color needs to be the same
+#   adult needs to be the same
+#   year needs to be in range from -10 to +10
+#   genre needs to overlap
+#   Production Comp / Actor / Director  needs to have one overlap
+# Sorted by:
+#   top 50 on avgRating
+#   top 5 on popularity
 def complex_method(data, movie_id):
     try:
         reference_color = data[movie_id]['color']

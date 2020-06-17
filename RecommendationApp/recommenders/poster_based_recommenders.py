@@ -7,8 +7,11 @@ from io import BytesIO
 import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
 
+
+# Calculate luminance value for RGB colors
 def calculate_luminance(r, g, b):
     return (0.299 * r + 0.587 * g + 0.114 * b)
+
 
 # Calculate the average image brightness according to paper on p.11
 def calculate_average_image_brightness(image):
@@ -30,6 +33,7 @@ def calculate_average_image_brightness(image):
     except:
         print("Error while trying to calculate the brightness for image.")
         return None
+
 
 # Calculate the average image contrast according to paper on p.11
 def calculate_average_image_contrast(image):
@@ -63,6 +67,7 @@ def calculate_average_image_contrast(image):
         print("Error while trying to calculate the contrast for image.")
         return None
 
+
 # Returns the colour histogram of an image
 def get_image_similarity_histogram(image):
     try:
@@ -76,16 +81,19 @@ def get_image_similarity_histogram(image):
         print("Error while trying to get colour histogram for image.")
         return None
 
+
 # Use Manhattan distance for similarity calculation.
 # In the paper it is used for multiple low-level feature comparisons,
 # e.g. brightness, sharpness, colourfulness, contrast, ...
 def calculate_image_similarity(value_image_1, value_image_2):
     return 1 - abs(value_image_1 - value_image_2)
 
+
 # The similarity method uses the cosine similarity between tow vectors
 def calculate_image_similarity_histogram(histogram_1, histogram_2):
     similarity = cosine_similarity([histogram_1], [histogram_2])
     return similarity
+
 
 # Returns the image as Pillow image if available, otherwise None
 def get_image_from_url(url):
@@ -99,6 +107,7 @@ def get_image_from_url(url):
         return None
 
 
+# Method returning the top 5 movies of recommendations
 def get_top_5(relevant_movies, descending):
     # get top 5 - Similarities are in a range of [-255, 1], where 1 means similar
     sorted_list = sorted(relevant_movies, key=lambda tup: tup[1], reverse=descending)
@@ -111,7 +120,6 @@ def get_top_5(relevant_movies, descending):
         similar_movies.append(int(tuple[0]))
 
     return similar_movies
-
 
 class Image_Based_Recommender:
 
@@ -137,7 +145,7 @@ class Image_Based_Recommender:
 
             self.serialize_movieposter_data_file()
 
-
+    # Method recommending movies with similar poster brightness
     def using_poster_brightness(self, data, movie_id):
         # If there is no poster for the given movie, skip image-based recommendation
         if data[movie_id]['poster'] is None:
@@ -153,7 +161,7 @@ class Image_Based_Recommender:
         result = get_top_5(relevant_movies, True)
         return result
 
-
+    # Method recommending movies with similar poster contrast
     def using_poster_contrast(self, data, movie_id):
         # If there is no poster for the given movie, skip image-based recommendation
         if data[movie_id]['poster'] is None:
@@ -169,7 +177,7 @@ class Image_Based_Recommender:
         result = get_top_5(relevant_movies, True)
         return result
 
-    # Uses similarity of histograms
+    # Method recommending movies with similar poster colours
     def using_poster_colour_histogram(self, data, movie_id):
         # If there is no poster for the given movie, skip image-based recommendation
         if data[movie_id]['poster'] is None:
@@ -186,7 +194,7 @@ class Image_Based_Recommender:
         result = get_top_5(relevant_movies, True)
         return result
 
-    # Use colour similarity plus genre
+    # Method recommending movies with similar poster colours and similar genres
     def using_poster_colour_histogram_and_genre(self, data, movie_id):
         # If there is no poster for the given movie, skip image-based recommendation
         if data[movie_id]['poster'] is None:
@@ -206,7 +214,6 @@ class Image_Based_Recommender:
 
         return self.using_poster_colour_histogram(relevant_movies, movie_id)
 
-
     # Loads the serialized movieposter_metadata object
     def load_serialized_movieposter_data(self):
         with open(self.serialized_movieposter_data_path, 'rb') as serialized_file:
@@ -218,4 +225,3 @@ class Image_Based_Recommender:
     def serialize_movieposter_data_file(self):
         with open(self.serialized_movieposter_data_path, 'wb') as serialized_file:
             pickle.dump(self.movieposter_metadata, serialized_file, pickle.HIGHEST_PROTOCOL)
-

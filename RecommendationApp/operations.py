@@ -10,9 +10,9 @@ from nltk.corpus import stopwords
 from requests import HTTPError
 import pickle
 
-from RecommendationApp.strategies import metadata_based_recommenders
-from RecommendationApp.strategies import title_based_recommenders
-from RecommendationApp.strategies.poster_based_recommenders import Image_Based_Recommender
+from RecommendationApp.recommenders import metadata_based_recommenders
+from RecommendationApp.recommenders import title_based_recommenders
+from RecommendationApp.recommenders.poster_based_recommenders import Image_Based_Recommender
 
 
 # ***************** Global VARs ************************

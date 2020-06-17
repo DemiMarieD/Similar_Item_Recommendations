@@ -1,13 +1,27 @@
 from pandas import np
 import numpy as np
 
-def levenshtein_ratio_and_distance(s, t, ratio_calc = False):
 
+# Method returning the top 5 movies of recommendations
+def get_top_5(relevant_movies):
+    sorted_by_avgRating = sorted(relevant_movies, key=lambda tup: tup[1], reverse=True)
+
+    if len(sorted_by_avgRating) > 5:
+        sorted_by_avgRating = sorted_by_avgRating[:5]
+
+    similar_movies = []  # value:  title
+    for tuple in sorted_by_avgRating:
+        similar_movies.append(int(tuple[0]))
+
+    return similar_movies
+
+
+# Calculation of the Levenshtein distance ratio
+def levenshtein_ratio_and_distance(s, t, ratio_calc = False):
     # Initialize matrix of zeros
     rows = len(s)+1
     cols = len(t)+1
     distance = np.zeros((rows,cols),dtype = int)
-
 
     for i in range(1, rows):
         for k in range(1,cols):
@@ -33,10 +47,10 @@ def levenshtein_ratio_and_distance(s, t, ratio_calc = False):
         Ratio = ((len(s)+len(t)) - distance[row][col]) / (len(s)+len(t))
         return Ratio
     else:
-
         return None
 
-# This method recommend movies based on similar title and genres
+
+# Method recommends movies based on similar title, with overlap in genre
 def using_title(data, movie_id):
     try:
         reference_title = data[movie_id]['title']
@@ -62,17 +76,3 @@ def using_title(data, movie_id):
     except TypeError as e:
         print('I got a TypeError - reason "%s"' % str(e))
         return None
-
-
-def get_top_5(relevant_movies):
-    # get top 5
-    sorted_by_avgRating = sorted(relevant_movies, key=lambda tup: tup[1], reverse=True)
-
-    if len(sorted_by_avgRating) > 5:
-        sorted_by_avgRating = sorted_by_avgRating[:5]
-
-    similar_movies = []  # value:  title
-    for tuple in sorted_by_avgRating:
-        similar_movies.append(int(tuple[0]))
-
-    return similar_movies
