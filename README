@@ -9,31 +9,25 @@ Project requires Python 3.8
     > pip install -r requirements.txt
 
 2. Run the project:
-    >  python manage.py runserver 8080
+    > python manage.py runserver 8080
 
+/********* Additional information *********
+    /********* Useful links **************
+    Netflix template: https://codepen.io/cb2307/pen/XYxyeY
+             -> copied template can also be seen at /netflix of the application
 
-/********* Useful links **************
-Netflix template: https://codepen.io/cb2307/pen/XYxyeY
-         -> copied template can also be seen at /netflix of the application
+    Surprise kit used by other group: https://surprise.readthedocs.io/en/stable/index.html
+            for our project this might be more relevant:
+                - https://surprise.readthedocs.io/en/stable/similarities.html
+                - https://surprise.readthedocs.io/en/stable/prediction_algorithms.html#similarity-measures-configuration
 
-Surprise kit used by other group: https://surprise.readthedocs.io/en/stable/index.html
-        for our project this might be more relevant:
-            - https://surprise.readthedocs.io/en/stable/similarities.html
-            - https://surprise.readthedocs.io/en/stable/prediction_algorithms.html#similarity-measures-configuration
+    /******* Data serialization **************
+    In order to shorten the  time for initializing the metadata dictionary and precalculating the values which are used all the time without changes,
+    serialization of the object was introduced, such that the object can be read directly instead of parsing the raw data each time.
+    For this purpose the library "pickle" is used. https://docs.python.org/3/library/pickle.html
+    On start in operations.setup() a check is done if a serialized file exists for the "movies_dict". If yes, it is loaded, otherwise it is read.
+    After reading, the object is serialized to the file again, such that it can be used after restart.
+    If the "movies_dict" is changed or you want the program to read the raw data again, just delete the serialized file before start.
+    It can be found in: "RecommendationApp/data/serialized/serialized_movie_data.obj"
 
-
-/******* NEW
-a static folder was created for css (or js / img / etc.)
-
-
-
-/******* Data serialization **************
-In order to shorten the  time for initializing the metadata dictionary and precalculating the values which are used all the time without changes,
-serialization of the object was introduced, such that the object can be read directly instead of parsing the raw data each time.
-For this purpose the library "pickle" is used. https://docs.python.org/3/library/pickle.html
-On start in operations.setup() a check is done if a serialized file exists for the "movies_dict". If yes, it is loaded, otherwise it is read.
-After reading, the object is serialized to the file again, such that it can be used after restart.
-If the "movies_dict" is changed or you want the program to read the raw data again, just delete the serialized file before start.
-It can be found in: "RecommendationApp/data/serialized/serialized_movie_data.obj"
-
-The other serialized file "RecommendationApp/data/serialized/serialized_movieposter_data.obj" is used for the image similarity calculations.
+    The other serialized file "RecommendationApp/data/serialized/serialized_movieposter_data.obj" is used for the image similarity calculations.
