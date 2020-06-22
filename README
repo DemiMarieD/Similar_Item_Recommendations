@@ -31,3 +31,9 @@ Project requires Python 3.8
     It can be found in: "RecommendationApp/data/serialized/serialized_movie_data.obj"
 
     The other serialized file "RecommendationApp/data/serialized/serialized_movieposter_data.obj" is used for the image similarity calculations.
+
+    /******* General Project Structure **************
+    The main class of our application is operations.py, which is responsible for setup, loading serialized data (or creating them if not already existing),
+    calling the recommender methods and preparing the content for printing of the result.
+    The recommenders can be found in the directory "recommenders", split in 3 classes with different focus: metadata-based, poster-based and title-based recommenders.
+    Partly, they contain recommendation methods which have not made it into the final product, but are still there, just not called.
